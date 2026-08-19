@@ -1,0 +1,926 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "STATISTICS FOR BIOLOGICAL SCIENCES",
+    "code": "STA 264.2",
+    "session": "test me user by ProjectPQ 1Pydb",
+    "kind": "mixed",
+    "topics": [
+      [
+        "Definition of Statistics",
+        "Introduction to Statistics",
+        "Basic Concepts"
+      ],
+      [
+        "Descriptive Statistics",
+        "Types of Statistics",
+        "Basic Concepts"
+      ],
+      [
+        "Inferential Statistics",
+        "Types of Statistics",
+        "Basic Concepts"
+      ],
+      [
+        "Importance of Statistics",
+        "Basic Concepts"
+      ],
+      [
+        "Primary Data",
+        "Classification of Data",
+        "Data Types"
+      ],
+      [
+        "Nominal Scale",
+        "Measurement Scales",
+        "Data Types"
+      ],
+      [
+        "Ratio Scale",
+        "Measurement Scales",
+        "Data Types"
+      ],
+      [
+        "Frequency Distribution",
+        "Data Organization"
+      ],
+      [
+        "Sturge's Rule",
+        "Frequency Distribution",
+        "Data Organization"
+      ],
+      [
+        "Class Width",
+        "Frequency Distribution",
+        "Data Organization"
+      ],
+      [
+        "Percentage Frequency",
+        "Frequency Distribution",
+        "Data Analysis"
+      ],
+      [
+        "Cumulative Frequency",
+        "Frequency Distribution",
+        "Data Analysis"
+      ],
+      [
+        "Midpoint Calculation",
+        "Frequency Distribution",
+        "Data Analysis"
+      ],
+      [
+        "Mean Calculation",
+        "Measures of Central Tendency",
+        "Data Analysis"
+      ],
+      [
+        "Relative Frequency",
+        "Frequency Distribution",
+        "Data Analysis"
+      ],
+      [
+        "Median Formula Components",
+        "Measures of Central Tendency",
+        "Data Analysis"
+      ],
+      [
+        "Discrete Probability Distribution",
+        "Probability Distributions"
+      ],
+      [
+        "Bernoulli Distribution Variance",
+        "Discrete Probability Distributions"
+      ],
+      [
+        "Binomial Distribution Expectation",
+        "Discrete Probability Distributions"
+      ],
+      [
+        "Standard Normal Distribution",
+        "Continuous Probability Distributions"
+      ]
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer All Questions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following best defines Statistics according to the provided notes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The science of collecting and organizing data for personal use."
+        },
+        {
+          "type": "string",
+          "content": "The collection, analysis, and interpretation of data."
+        },
+        {
+          "type": "string",
+          "content": "A method for predicting future events based on past observations."
+        },
+        {
+          "type": "string",
+          "content": "A field of study focused solely on numerical data representation."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition of Statistics",
+      "Introduction to Statistics",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Statistics:</em> The collection, analysis, and interpretation of data. It also includes the representation of information in forms like bar charts, flow charts, pie charts, and histograms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the best definition of Statistics as presented in the notes.</div><p><b>Step 1: Identify the core definition of Statistics.</b><br/>The notes explicitly state: <span style='color:var(--orange);font-weight:bold;'>\"Statistics is the Collection, analysis and interpretation of data.\"</span></p><p><b>Step 2: Compare options with the identified definition.</b></p><ul><li>Option A: \"The science of collecting and organizing data for personal use.\" is too narrow and adds \"for personal use\" which is not part of the definition.</li><li>Option B: \"The collection, analysis, and interpretation of data.\" directly matches the definition provided in the notes.</li><li>Option C: \"A method for predicting future events based on past observations.\" describes a part of inferential statistics, but not the overall definition of statistics.</li><li>Option D: \"A field of study focused solely on numerical data representation.\" is too restrictive as statistics deals with more than just numerical representation.</li></ul><p><b>Step 3: Conclude the correct option.</b><br/>The option that precisely captures the essence of statistics as presented in the notes is B.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The definition of statistics encompasses the entire process from gathering raw data to making sense of it and drawing conclusions. The note emphasizes this comprehensive process.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The collection, analysis, and interpretation of data is the best definition of Statistics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The collection, analysis, and interpretation of data."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Descriptive Statistics primarily deals with:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Making predictions about a larger group using a smaller sample."
+        },
+        {
+          "type": "string",
+          "content": "Summarizing and describing data."
+        },
+        {
+          "type": "string",
+          "content": "Testing hypotheses and making decisions."
+        },
+        {
+          "type": "string",
+          "content": "Determining optimal sample sizes for experiments."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Descriptive Statistics",
+      "Types of Statistics",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Descriptive Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Descriptive Statistics:</em> These deals with summarizing and describing data. It helps us understand what the data looks like, using measures like mean, median, mode, tables, charts, and graphs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary focus of Descriptive Statistics.</div><p><b>Step 1: Refer to the definition of Descriptive Statistics in the notes.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"Descriptive Statistics: These deals with Summarizing and describing data. It heaps us understand what the data loons like E-gimean, median, mode, tables, Charts & graph.\"</span></p><p><b>Step 2: Evaluate each option against this definition.</b></p><ul><li>Option A: \"Making predictions about a larger group using a smaller sample.\" is characteristic of Inferential Statistics, not Descriptive.</li><li>Option B: \"Summarizing and describing data.\" directly matches the primary role of Descriptive Statistics as stated.</li><li>Option C: \"Testing hypotheses and making decisions.\" is a function of Inferential Statistics.</li><li>Option D: \"Determining optimal sample sizes for experiments.\" is an importance of Statistics in general, but not the primary function of Descriptive Statistics specifically.</li></ul><p><b>Step 3: Select the option that aligns with the definition.</b><br/>Option B accurately describes the main purpose of Descriptive Statistics.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Descriptive statistics are used to present quantitative descriptions in a manageable form, often before any inferential analysis is performed. Their goal is to describe the characteristics of a sample or population.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Descriptive Statistics primarily deals with summarizing and describing data.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Summarizing and describing data."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Inferential Statistics is used for which of the following purposes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Calculating the mean, median, and mode of a dataset."
+        },
+        {
+          "type": "string",
+          "content": "Creating bar charts and histograms to visualize data."
+        },
+        {
+          "type": "string",
+          "content": "Making predictions or conclusions about a large group using a smaller group sample."
+        },
+        {
+          "type": "string",
+          "content": "Tabulating raw data into frequency tables."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Inferential Statistics",
+      "Types of Statistics",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Inferential Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Inferential Statistics:</em> This is used to make predictions or conclusions about a large group using a smaller group sample. It helps in prediction, decision making, and hypothesis testing.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary use of Inferential Statistics.</div><p><b>Step 1: Locate the definition and purpose of Inferential Statistics in the notes.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"Inferential Statities: This is used to make predictions Or Conclusion about a Large group using a Smaller Group Cample. It helps in Prediction, decision making, hypothesis testing.\"</span></p><p><b>Step 2: Analyze each option in the context of this definition.</b></p><ul><li>Option A: \"Calculating the mean, median, and mode of a dataset.\" falls under Descriptive Statistics.</li><li>Option B: \"Creating bar charts and histograms to visualize data.\" is a function of Descriptive Statistics and data visualization.</li><li>Option C: \"Making predictions or conclusions about a large group using a smaller group sample.\" directly aligns with the stated purpose of Inferential Statistics.</li><li>Option D: \"Tabulating raw data into frequency tables.\" is a basic data organization step often associated with Descriptive Statistics.</li></ul><p><b>Step 3: Confirm the correct option.</b><br/>Option C accurately captures the essence of Inferential Statistics.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The core idea of inferential statistics is to generalize from a sample to a population, drawing conclusions that extend beyond the immediate data.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Inferential Statistics is used for making predictions or conclusions about a large group using a smaller group sample.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Making predictions or conclusions about a large group using a smaller group sample."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is NOT listed as an importance or use of Statistics in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It helps in data collection space."
+        },
+        {
+          "type": "string",
+          "content": "It helps to determine how closely related two or more values may be."
+        },
+        {
+          "type": "string",
+          "content": "It directly generates raw data without human input."
+        },
+        {
+          "type": "string",
+          "content": "It helps in optimal allocation of treatment in experimental units."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Importance of Statistics",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Importance of Statistics:</em> The notes list several uses, including helping with data collection, determining relationships between values, comparing populations, aiding biological research data collection, data visualization, data analysis for decision making, determining optimal sample size, and optimal allocation of treatment in experimental units (reducing bias).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which statement is NOT mentioned as an importance or use of Statistics in the document.</div><p><b>Step 1: Review the sections \"Importance Of Statistics\" (Page 1) and \"NIB Information...\" (Page 2).</b><br/>The document states that statistics:<br/>- <span style='color:var(--orange);font-weight:bold;'>\"It heps in data Collection space-\"</span> (Option A)<br/>- <span style='color:var(--orange);font-weight:bold;'>\"it heups to determine how Closely related two or more Nalues may be.\"</span> (Option B)<br/>- <span style='color:var(--orange);font-weight:bold;'>\"It helps to Optimal allocation of treatment, experimental Units, thereby redaang bias\"</span> (Option D)</p><p><b>Step 2: Check if any option contradicts or is not mentioned in the document.</b></p><ul><li>Option A: \"It helps in data collection space.\" is explicitly mentioned.</li><li>Option B: \"It helps to determine how closely related two or more values may be.\" is explicitly mentioned.</li><li>Option C: \"It directly generates raw data without human input.\" is NOT mentioned. Statistics analyzes and interprets data, it does not generate raw data autonomously. Data collection is a process facilitated by statistical methods, but statistics itself isn't a data generator.</li><li>Option D: \"It helps in optimal allocation of treatment in experimental units.\" is explicitly mentioned.</li></ul><p><b>Step 3: Identify the statement that is NOT supported by the document.</b><br/>Option C describes a function not attributed to Statistics in the given notes.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Statistics is concerned with making sense of data once it has been collected, not with the act of generating the raw data itself. While it guides data collection methods, it doesn't perform the collection.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The statement \"It directly generates raw data without human input\" is NOT listed as an importance or use of Statistics in the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It directly generates raw data without human input."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Data that consists of original records, collected by the origination for the first time, is classified as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Secondary Data"
+        },
+        {
+          "type": "string",
+          "content": "Primary Data"
+        },
+        {
+          "type": "string",
+          "content": "Qualitative Data"
+        },
+        {
+          "type": "string",
+          "content": "Quantitative Data"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Primary Data",
+      "Classification of Data",
+      "Data Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of Data: Primary Data</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Primary Data:</em> The original records; they are originally collected by the origination for the first time.<br/><em>Secondary Data:</em> The data has already been published.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes data that are original records, collected for the first time by the source.</div><p><b>Step 1: Identify the definition of data collected originally for the first time.</b><br/>The notes state under \"Classification Of Data\": <span style='color:var(--orange);font-weight:bold;'>\"1 Primary Data: The Onginal records re They are Onginally Collected by the Ongimation from the fust time.\"</span></p><p><b>Step 2: Compare this definition with the given options.</b></p><ul><li>Option A: \"Secondary Data\" refers to data that has already been published.</li><li>Option B: \"Primary Data\" perfectly matches the description in the question and the notes.</li><li>Option C: \"Qualitative Data\" describes the nature of data (non-numeric, categorical), not its source of collection.</li><li>Option D: \"Quantitative Data\" describes the nature of data (numeric), not its source of collection.</li></ul><p><b>Step 3: Conclude the correct classification.</b><br/>The data described is Primary Data.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Primary data is typically collected through methods like surveys, interviews, observations, or experiments directly by the researcher or organization. It is raw, unprocessed, and specific to the research's objectives.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Data that consists of original records, collected by the origination for the first time, is classified as Primary Data.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Primary Data"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which measurement scale is used mainly for naming or labeling only, with no ranking implied?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Nominal Scale"
+        },
+        {
+          "type": "string",
+          "content": "Ordinal Scale"
+        },
+        {
+          "type": "string",
+          "content": "Interval Scale"
+        },
+        {
+          "type": "string",
+          "content": "Ratio Scale"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nominal Scale",
+      "Measurement Scales",
+      "Data Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nominal Scale</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Nominal Scale:</em> This is used mainly for naming or labeling only. There is no ranking. Examples include Gender, religion, blood group.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a measurement scale used for naming or labeling without any inherent order or ranking.</div><p><b>Step 1: Consult the \"Measurement Scales\" section of the notes.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"1 Normal Scale: This is used mainly for naming or labeling Only Rig: Gender, religion, blood group, tube. There is no ranking.\"</span> (Note: \"Normal Scale\" is likely a typo for \"Nominal Scale\" given the context and examples).</p><p><b>Step 2: Match the description to the correct scale.</b></p><ul><li>Option A: \"Nominal Scale\" fits the description perfectly, as it's for categorization without order.</li><li>Option B: \"Ordinal Scale\" involves data that can be arranged in an order or rank.</li><li>Option C: \"Interval Scale\" has equal intervals between values but no true zero point.</li><li>Option D: \"Ratio Scale\" has equal intervals and a true zero point.</li></ul><p><b>Step 3: Identify the scale that matches the criteria.</b><br/>The Nominal Scale is the one used purely for labeling without ranking.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Data like hair color, marital status, or nationality are examples of nominal data. You can categorize them, but you can't logically order them or perform mathematical operations like subtraction or division.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nominal Scale is used mainly for naming or labeling only, with no ranking implied.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nominal Scale"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "A key characteristic of a Ratio Scale, as described in the notes, is:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Data can be arranged in an order, but differences are not meaningful."
+        },
+        {
+          "type": "string",
+          "content": "It has equal intervals between values and a true zero point."
+        },
+        {
+          "type": "string",
+          "content": "It allows for naming or labeling only, with no ranking."
+        },
+        {
+          "type": "string",
+          "content": "It has equal intervals between values, but zero does not mean absence."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Ratio Scale",
+      "Measurement Scales",
+      "Data Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ratio Scale</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Ratio Scale:</em> This scale has equal intervals and a true zero point. This means zero signifies the complete absence of the measured quantity. Examples include Height, Weight, Age, Income.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a key characteristic of the Ratio Scale based on the provided notes.</div><p><b>Step 1: Locate the description of Ratio Scales in the notes.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"3. Ratio Scales This has aqual Intenials and a tree zero eg Height, Weight, age, income. Zero means absence.\"</span></p><p><b>Step 2: Evaluate the given options against this description.</b></p><ul><li>Option A: \"Data can be arranged in an order, but differences are not meaningful.\" describes an Ordinal Scale (partially, as differences can be meaningful in some contexts, but not quantifiable intervals).</li><li>Option B: \"It has equal intervals between values and a true zero point.\" perfectly matches the definition of a Ratio Scale, including the implication that zero means absence.</li><li>Option C: \"It allows for naming or labeling only, with no ranking.\" describes a Nominal Scale.</li><li>Option D: \"It has equal intervals between values, but zero does not mean absence.\" describes an Interval Scale.</li></ul><p><b>Step 3: Conclude the correct characteristic for a Ratio Scale.</b><br/>Option B accurately identifies the defining features of a Ratio Scale.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The true zero point is what differentiates ratio scales from interval scales. For example, 0 kg means no weight, and 0 income means no income, allowing for meaningful ratios (e.g., 20kg is twice 10kg).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key characteristic of a Ratio Scale, as described in the notes, is that it has equal intervals between values and a true zero point.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It has equal intervals between values and a true zero point."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "The primary purpose of a Frequency Distribution is to:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Calculate the mean and standard deviation of a dataset."
+        },
+        {
+          "type": "string",
+          "content": "Show how often values occur and provide a clearer picture of data patterns."
+        },
+        {
+          "type": "string",
+          "content": "Determine if data is primary or secondary."
+        },
+        {
+          "type": "string",
+          "content": "Establish a true zero point for measurement."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Frequency Distribution",
+      "Data Organization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Frequency Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Frequency Distribution:</em> A table showing how often values occur. Its purpose is to help get a clearer picture and reflect the pattern of occurrences by grouping values into classes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary purpose of a Frequency Distribution.</div><p><b>Step 1: Refer to the definition and purpose of Frequency Distribution in the notes.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"A frequency distribution is a table showing how often Values Occur. It heeps us gets a Clearer picture. N/B Frequency disenbettion grouping into a set of Classes reflecting the pattern of Ollurenca's The number of times Values Oceur.\"</span></p><p><b>Step 2: Evaluate the options based on this description.</b></p><ul><li>Option A: \"Calculate the mean and standard deviation of a dataset.\" While frequency distributions are used to facilitate these calculations, it's not their primary purpose of existence; rather, they are tools for data organization that aid in such calculations.</li><li>Option B: \"Show how often values occur and provide a clearer picture of data patterns.\" This directly matches the definition and stated purpose in the notes.</li><li>Option C: \"Determine if data is primary or secondary.\" This is related to data classification, not frequency distribution.</li><li>Option D: \"Establish a true zero point for measurement.\" This is a characteristic of Ratio Scale data, unrelated to frequency distribution's purpose.</li></ul><p><b>Step 3: Select the option that best describes the primary purpose.</b><br/>Option B clearly explains the fundamental purpose of a frequency distribution.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>A frequency distribution condenses raw data into a more interpretable form, making it easier to see patterns, trends, and the spread of values at a glance, before any further statistical analysis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary purpose of a Frequency Distribution is to show how often values occur and provide a clearer picture of data patterns.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Show how often values occur and provide a clearer picture of data patterns."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Using Sturge's Rule, what would be the approximate number of classes (K) for a dataset with 40 observations (n=40)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "7"
+        },
+        {
+          "type": "string",
+          "content": "8"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sturge's Rule",
+      "Frequency Distribution",
+      "Data Organization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sturge's Rule for Number of Classes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Sturge's Rule:</em> Used to determine the number of classes (K) for a frequency distribution. The formula is: \\(K = 1 + 3.322 \\log_{10} N\\), where N is the total number of observations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to apply Sturge's Rule to find the number of classes (K) for N=40 observations.</div><p><b>Step 1: State Sturge's Rule formula.</b><br/>Sturge's Rule: <span style='color:var(--orange);font-weight:bold;'>\\(K = 1 + 3.322 \\log_{10} N\\)</span></p><p><b>Step 2: Substitute the given value of N.</b><br/>Given \\(N = 40\\).<br/>\\(K = 1 + 3.322 \\log_{10} 40\\)</p><p><b>Step 3: Calculate the logarithm.</b><br/>\\(\\log_{10} 40 \\approx 1.602\\)</p><p><b>Step 4: Perform the multiplication.</b><br/>\\(3.322 \\times 1.602 \\approx 5.321\\)</p><p><b>Step 5: Add 1 to find K.</b><br/>\\(K = 1 + 5.321 = 6.321\\)</p><p><b>Step 6: Round to the nearest whole number since the number of classes must be an integer.</b><br/>\\(K \\approx 6\\)</p><ul><li>Option A: 5 is too low.</li><li>Option B: 6 is the correct rounded value.</li><li>Option C: 7 is too high.</li><li>Option D: 8 is too high.</li></ul><p><b>Step 7: Conclude the correct number of classes.</b><br/>The approximate number of classes is 6.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Sturge's Rule provides a guideline. If N=32, K would be \\(1 + 3.322 \\log_{10} 32 = 1 + 3.322 \\times 1.505 = 1 + 5 = 6\\). For N=64, K would be \\(1 + 3.322 \\log_{10} 64 = 1 + 3.322 \\times 1.806 = 1 + 6 = 7\\). So, 6 for N=40 is a reasonable result within these bounds.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Using Sturge's Rule, the approximate number of classes (K) for a dataset with 40 observations (n=40) would be 6.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Based on the example calculation for frequency tables, if the range of scores is 57 and we add 1 (57+1=58), and use 10 intervals, the calculated class width is approximately:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "5.8"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "7"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Class Width",
+      "Frequency Distribution",
+      "Data Organization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Class Width</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Class Width:</em> The size of each class interval in a frequency distribution. It is often calculated by dividing the range (or adjusted range) by the desired number of classes/intervals. When calculated this way, the result is usually rounded up to the nearest convenient integer to ensure all data points are covered.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the approximate class width based on the provided steps in the example.</div><p><b>Step 1: Identify the given values from the example.</b><br/>From \"Soin\" (Solution) section, Step 2 and 3:<br/>Adjusted range (Range + 1) = <span style='color:var(--orange);font-weight:bold;'>58</span><br/>Number of intervals (given) = <span style='color:var(--orange);font-weight:bold;'>10</span></p><p><b>Step 2: Apply the formula for class width.</b><br/>Class width = Adjusted Range / Number of intervals<br/>Class width = <span style='color:var(--orange);font-weight:bold;'>58 / 10 = 5.8</span></p><p><b>Step 3: Determine the approximate (rounded) class width.</b><br/>The notes explicitly state in \"Step 4: 58/10 = 5.86 Class width= 6\". This indicates that 5.8 is typically rounded up to the next integer for practical class width, which is <span style='color:var(--orange);font-weight:bold;'>6</span>.</p><ul><li>Option A: 5 is too low, as 5.8 must be covered.</li><li>Option B: 5.8 is the exact calculated value, but class width is usually an integer.</li><li>Option C: 6 is the standard rounded-up class width for 5.8, as shown in the document.</li><li>Option D: 7 is higher than necessary for rounding 5.8.</li></ul><p><b>Step 4: Conclude the approximate class width.</b><br/>The approximate class width is 6.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Rounding up the class width ensures that all data points, especially the highest value, are included within the specified number of classes. If we used 5.8, the intervals would be awkward. If we used 5, the highest values might not fit.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The calculated class width is approximately 6.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Given a class interval (e.g., 29-34) with a frequency of 1 from a total of 40 observations (N=40), what is its Percentage Frequency (%F) according to the formula in the notes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1.0%"
+        },
+        {
+          "type": "string",
+          "content": "2.5%"
+        },
+        {
+          "type": "string",
+          "content": "10.0%"
+        },
+        {
+          "type": "string",
+          "content": "40.0%"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Percentage Frequency",
+      "Frequency Distribution",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Percentage Frequency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Percentage Frequency (%F):</em> The proportion of observations in a class, expressed as a percentage. The formula is \\((\\text{Frequency} / \\text{Total Number of Observations (N)}) \\times 100\\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to calculate the Percentage Frequency for a specific class given its frequency and the total number of observations.</div><p><b>Step 1: Identify the given values.</b><br/>Frequency (f) for the class 29-34 = <span style='color:var(--orange);font-weight:bold;'>1</span> (from page 5 table)<br/>Total Number of Observations (N) = <span style='color:var(--orange);font-weight:bold;'>40</span> (from page 5 table and general context)</p><p><b>Step 2: Apply the Percentage Frequency formula.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"%f is gotten by doing f/N(40) ×100\"</span><br/>For the class 29-34:<br/>%F = \\((1 / 40) \\times 100\\)</p><p><b>Step 3: Perform the calculation.</b><br/>%F = \\(0.025 \\times 100 = 2.5\\)</p><ul><li>Option A: 1.0% is incorrect.</li><li>Option B: 2.5% matches the calculated value.</li><li>Option C: 10.0% is the %F for a frequency of 4.</li><li>Option D: 40.0% is incorrect.</li></ul><p><b>Step 4: Conclude the Percentage Frequency.</b><br/>The Percentage Frequency for the class is 2.5%.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>You can cross-reference with the example on page 5/6, where for a frequency of 1, the %F is indeed shown as 2.5. This confirms the calculation and the formula application.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Percentage Frequency (%F) is 2.5%.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.5%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "From the frequency distribution table provided in the notes, what is the Cumulative Frequency (CF) for the class interval 35-40?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "10"
+        },
+        {
+          "type": "string",
+          "content": "15"
+        },
+        {
+          "type": "string",
+          "content": "4"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Cumulative Frequency",
+      "Frequency Distribution",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Cumulative Frequency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Cumulative Frequency (CF):</em> The running total of frequencies. For a given class, it is the sum of the frequencies of that class and all preceding classes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the Cumulative Frequency (CF) for the class interval 35-40 using the provided table.</div><p><b>Step 1: Locate the frequency distribution table on page 5.</b><br/>We need to find the CF for the class interval <span style='color:var(--orange);font-weight:bold;'>35-40</span>.</p><p><b>Step 2: Identify the frequencies for the specified class and all preceding classes.</b><br/>- Class 23-28: Frequency = <span style='color:var(--orange);font-weight:bold;'>4</span>, CF = 4<br/>- Class 29-34: Frequency = <span style='color:var(--orange);font-weight:bold;'>1</span>, CF = 4+1 = 5<br/>- Class 35-40: Frequency = <span style='color:var(--orange);font-weight:bold;'>5</span></p><p><b>Step 3: Calculate the Cumulative Frequency for 35-40.</b><br/>CF for 35-40 = CF of previous class (29-34) + Frequency of 35-40<br/>CF = <span style='color:var(--orange);font-weight:bold;'>5 + 5 = 10</span></p><ul><li>Option A: 5 is the CF of the 29-34 class.</li><li>Option B: 10 is the correct CF for the 35-40 class.</li><li>Option C: 15 is the CF of the 41-46 class.</li><li>Option D: 4 is the frequency of the first class (23-28).</li></ul><p><b>Step 4: Conclude the Cumulative Frequency.</b><br/>The Cumulative Frequency for the class interval 35-40 is 10.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The table on page 5 explicitly lists the CF column. For the row corresponding to 35-40, the CF is indeed shown as 10.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Cumulative Frequency (CF) for the class interval 35-40 is 10.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "For the class interval 20-29 in a frequency distribution, what is its Midpoint (x) value?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "24.5"
+        },
+        {
+          "type": "string",
+          "content": "19.5"
+        },
+        {
+          "type": "string",
+          "content": "20.5"
+        },
+        {
+          "type": "string",
+          "content": "25.0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Midpoint Calculation",
+      "Frequency Distribution",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Midpoint</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Midpoint (Class Mark):</em> The middle value of a class interval. It is calculated as the sum of the lower class limit and the upper class limit, divided by 2. For continuous data, using the class boundaries (lower class boundary + upper class boundary) / 2 is precise. The document uses \"class limit\" and then lists values like 19.5-29.5 as \"class limit\", which suggests these are class boundaries. Midpoint = (Lower Class Boundary + Upper Class Boundary) / 2.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to find the Midpoint (x) for the class interval 20-29, using the method from the notes.</div><p><b>Step 1: Identify the class limits (or boundaries) for the interval 20-29.</b><br/>From the table on page 7, for the interval 20-29, the \"Class limit\" is given as <span style='color:var(--orange);font-weight:bold;'>19.5-29.5</span>.</p><p><b>Step 2: Apply the midpoint formula.</b><br/>Midpoint \\(x = (\\text{Lower Class Limit} + \\text{Upper Class Limit}) / 2\\)<br/>Midpoint \\(x = (19.5 + 29.5) / 2\\)</p><p><b>Step 3: Perform the calculation.</b><br/>Midpoint \\(x = 49 / 2 = 24.5\\)</p><ul><li>Option A: 24.5 is the correct midpoint.</li><li>Option B: 19.5 is the lower class boundary.</li><li>Option C: 20.5 would be the midpoint if the interval was 20-21.</li><li>Option D: 25.0 would be the midpoint if the interval was 20-30.</li></ul><p><b>Step 4: Conclude the midpoint value.</b><br/>The Midpoint for the class interval 20-29 is 24.5.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The table on page 7 explicitly lists the Midpoint(x) as 24.5 for the 20-29 class interval. This confirms the calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For the class interval 20-29 in a frequency distribution, its Midpoint (x) value is 24.5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "24.5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Based on the provided example calculation for the mean on page 7, what is the calculated mean (\\(\\bar{X}\\)) for the given frequency distribution?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "36.43"
+        },
+        {
+          "type": "string",
+          "content": "2076.5"
+        },
+        {
+          "type": "string",
+          "content": "57"
+        },
+        {
+          "type": "string",
+          "content": "34.5"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mean Calculation",
+      "Measures of Central Tendency",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating the Mean from Grouped Data</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Mean (\\(\\bar{X}\\)):</em> The average number. For grouped data, it is calculated as the sum of the products of each midpoint (x) and its corresponding frequency (f), divided by the total number of observations (sum of frequencies, \\(\\sum f\\)). Formula: \\(\\bar{X} = \\frac{\\sum fx}{\\sum f}\\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the calculated mean from the example table on page 7.</div><p><b>Step 1: Locate the sums required for the mean calculation on page 7.</b><br/>From the table on page 7:<br/>Sum of \\(fx\\) (\\(\\sum fx\\)) = <span style='color:var(--orange);font-weight:bold;'>2076.5</span><br/>Sum of frequencies (\\(\\sum f\\)) = <span style='color:var(--orange);font-weight:bold;'>57</span></p><p><b>Step 2: Apply the mean formula.</b><br/>\\(\\bar{X} = \\frac{\\sum fx}{\\sum f} = \\frac{2076.5}{57}\\)</p><p><b>Step 3: Perform the division.</b><br/>\\(\\bar{X} \\approx 36.43\\)</p><ul><li>Option A: 36.43 is the correct calculated mean.</li><li>Option B: 2076.5 is the sum of fx.</li><li>Option C: 57 is the total frequency (N).</li><li>Option D: 34.5 is the median calculated later in the notes.</li></ul><p><b>Step 4: Conclude the mean value.</b><br/>The calculated mean is approximately 36.43.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The calculation on page 8 directly states \"x=2076.5 / 57 = 36.43\", confirming the result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The calculated mean (\\(\\bar{X}\\)) for the given frequency distribution is 36.43.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "36.43"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Relative frequency is obtained by:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Multiplying midpoint (x) by frequency (f)."
+        },
+        {
+          "type": "string",
+          "content": "Dividing frequency by the total number of observations."
+        },
+        {
+          "type": "string",
+          "content": "Summing frequencies up to a certain class."
+        },
+        {
+          "type": "string",
+          "content": "Multiplying percentage frequency by 100."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Relative Frequency",
+      "Frequency Distribution",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Relative Frequency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Relative Frequency:</em> The proportion of observations that fall into a specific class. It is obtained by dividing the frequency of a class by the total number of observations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the method to obtain relative frequency.</div><p><b>Step 1: Refer to the definition of relative frequency in the notes.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"Relative frequency is gotten by duliding frequency Over total (Aotal)\"</span>. (Note: \"duliding\" is likely a typo for \"dividing\", and \"Aotal\" for \"Total\"). The example provided is: \"E-g 5/57=0.0877, 18/57 = 0.3159 etc\".</p><p><b>Step 2: Evaluate the options against this explanation.</b></p><ul><li>Option A: \"Multiplying midpoint (x) by frequency (f).\" gives \\(fx\\), used for calculating the mean.</li><li>Option B: \"Dividing frequency by the total number of observations.\" directly matches the definition and example provided for relative frequency.</li><li>Option C: \"Summing frequencies up to a certain class.\" describes cumulative frequency.</li><li>Option D: \"Multiplying percentage frequency by 100.\" is incorrect; percentage frequency is already a percentage, and multiplying by 100 would make it a much larger number.</li></ul><p><b>Step 3: Conclude the correct method for obtaining relative frequency.</b><br/>Option B accurately describes how to calculate relative frequency.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Relative frequency is essentially the proportion of data in a given category. It sums to 1 (or 100% if expressed as a percentage frequency).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Relative frequency is obtained by dividing frequency by the total number of observations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dividing frequency by the total number of observations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "In the formula for calculating the Median (\\(X_{md}\\)) for grouped data, \\(L_{clmd}\\) represents the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Cumulative frequency before the median class."
+        },
+        {
+          "type": "string",
+          "content": "Lower class limit of the median class."
+        },
+        {
+          "type": "string",
+          "content": "Frequency of the median class."
+        },
+        {
+          "type": "string",
+          "content": "Class width of the median class."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Median Formula Components",
+      "Measures of Central Tendency",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Median Formula Components</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Median (\\(X_{md}\\)) Formula:</em> \\(X_{md} = L_{clmd} + (\\\\frac{N/2 - CF_{md-1}}{f_{md}}) \\times C_{md}\\)<br/><em>\\(L_{clmd}\\):</em> Lower Class Limit of the median class.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of \\(L_{clmd}\\) in the median formula.</div><p><b>Step 1: Locate the median formula and its term definitions on page 9.</b><br/>The notes define: <span style='color:var(--orange);font-weight:bold;'>\"Lecmd -> lower Class limit of the median class\"</span> (Note: \"Lecmd\" is likely a typo for \\(L_{clmd}\\)).</p><p><b>Step 2: Match this definition to the options.</b></p><ul><li>Option A: \"Cumulative frequency before the median class.\" refers to \\(CF_{md-1}\\).</li><li>Option B: \"Lower class limit of the median class.\" directly matches the definition of \\(L_{clmd}\\).</li><li>Option C: \"Frequency of the median class.\" refers to \\(f_{md}\\).</li><li>Option D: \"Class width of the median class.\" refers to \\(C_{md}\\).</li></ul><p><b>Step 3: Conclude the correct definition for \\(L_{clmd}\\).</b><br/>\\(L_{clmd}\\) represents the lower class limit of the median class.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Each component of the median formula plays a specific role. \\(L_{clmd}\\) establishes the starting point of the interval where the median is located.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the formula for calculating the Median (\\(X_{md}\\)) for grouped data, \\(L_{clmd}\\) represents the lower class limit of the median class.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lower class limit of the median class."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "A Discrete Probability Distribution is characterized by data that:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Can take any value within a given range, often involving decimals like temperature or weight."
+        },
+        {
+          "type": "string",
+          "content": "Can only be counted, occurs as whole numbers, and can be finite or infinite."
+        },
+        {
+          "type": "string",
+          "content": "Follows a constant rate over a time interval."
+        },
+        {
+          "type": "string",
+          "content": "Always has a mean of 0 and a variance of 1."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Discrete Probability Distribution",
+      "Probability Distributions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Discrete Probability Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Discrete Probability Distribution:</em> Deals with outcomes that can be counted, occurring as whole numbers. These can be finite or infinite (e.g., number of students in a class).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic defining a Discrete Probability Distribution.</div><p><b>Step 1: Consult the \"Discrete - Probability distribution\" section on page 11.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"1. Discrete - Probabilitong distonbution: This are things that Can be Counted. They occur as whole numbers. They are definite e.g Students in a Class. It can be Infinite or finite.\"</span></p><p><b>Step 2: Evaluate each option against this description.</b></p><ul><li>Option A: \"Can take any value within a given range, often involving decimals like temperature or weight.\" describes a Continuous Probability Distribution.</li><li>Option B: \"Can only be counted, occurs as whole numbers, and can be finite or infinite.\" perfectly matches the definition of a Discrete Probability Distribution.</li><li>Option C: \"Follows a constant rate over a time interval.\" is a characteristic of the Poisson Distribution.</li><li>Option D: \"Always has a mean of 0 and a variance of 1.\" describes the Standard Normal Distribution.</li></ul><p><b>Step 3: Conclude the correct characteristic.</b><br/>Option B accurately describes Discrete Probability Distributions.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Discrete variables are those that can only take on a finite or countably infinite number of values. Examples include the number of heads in coin flips, the number of defects in a sample, or the number of students.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Discrete Probability Distribution is characterized by data that can only be counted, occurs as whole numbers, and can be finite or infinite.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Can only be counted, occurs as whole numbers, and can be finite or infinite."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "For a Bernoulli Distribution with parameter \\(p\\), the Variance of X (Var(X)) is given by:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\(p\\) "
+        },
+        {
+          "type": "string",
+          "content": "\\(p(1-p)\\)"
+        },
+        {
+          "type": "string",
+          "content": "\\(\\sqrt{p(1-p)}\\)"
+        },
+        {
+          "type": "string",
+          "content": "\\(np\\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Bernoulli Distribution Variance",
+      "Discrete Probability Distributions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bernoulli Distribution Variance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Bernoulli Distribution:</em> Describes a single experiment with two possible outcomes (success or failure). The probability of success is \\(p\\), and the probability of failure is \\(q = 1-p\\).<br/><em>Expectation of X (Mean):</em> \\(E(X) = p\\)<br/><em>Variance of X:</em> \\(Var(X) = p(1-p)\\)</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the formula for the Variance of X in a Bernoulli Distribution.</div><p><b>Step 1: Locate the section on Bernoulli Distribution properties on page 12.</b><br/>The notes explicitly state: <span style='color:var(--orange);font-weight:bold;'>\"Vanance of X (Wartel) - Vanance = P(1-p)\"</span> (Note: \"Wartel\" is likely a typo for \"Var(X)\", and \"P\" for \"p\").</p><p><b>Step 2: Match this formula to the given options.</b></p><ul><li>Option A: \"\\(p\\)\" is the Expectation (mean) of a Bernoulli distribution.</li><li>Option B: \"\\(p(1-p)\\)\" matches the formula for the Variance of a Bernoulli distribution.</li><li>Option C: \"\\(\\sqrt{p(1-p)}\\)\" is the Standard Deviation, not the Variance.</li><li>Option D: \"\\(np\\)\" is the Expectation (mean) of a Binomial distribution, not Bernoulli.</li></ul><p><b>Step 3: Conclude the correct formula.</b><br/>The Variance of X for a Bernoulli Distribution is \\(p(1-p)\\).</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The variance measures the spread of the distribution. For a Bernoulli trial, the two outcomes are 0 and 1, with probabilities 1-p and p respectively. The formula \\(p(1-p)\\) correctly reflects the variability of these outcomes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a Bernoulli Distribution with parameter \\(p\\), the Variance of X (Var(X)) is given by \\(p(1-p)\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(p(1-p)\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "For a Binomial Distribution, the Expectation (E(X)) is given by the formula:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\(np\\)"
+        },
+        {
+          "type": "string",
+          "content": "\\(p(1-p)\\)"
+        },
+        {
+          "type": "string",
+          "content": "\\(\\sqrt{npq}\\)"
+        },
+        {
+          "type": "string",
+          "content": "\\(npq\\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Binomial Distribution Expectation",
+      "Discrete Probability Distributions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Binomial Distribution Expectation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Binomial Distribution:</em> Describes the number of successes in a fixed number of (n) independent Bernoulli trials. Parameters are n (number of trials) and p (probability of success).<br/><em>Expectation (Mean) of X:</em> \\(E(X) = np\\)<br/><em>Variance of X:</em> \\(Var(X) = npq\\) (where \\(q = 1-p\\))</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the formula for the Expectation of X (E(X)) for a Binomial Distribution.</div><p><b>Step 1: Locate the Binomial Distribution section on page 12.</b><br/>The notes state under Binomial Distribution: <span style='color:var(--orange);font-weight:bold;'>\"EG)=np\"</span> (Note: \"EG)\" is likely a typo for \"E(X)\").</p><p><b>Step 2: Compare this formula with the provided options.</b></p><ul><li>Option A: \"\\(np\\)\" matches the formula for the Expectation of a Binomial distribution.</li><li>Option B: \"\\(p(1-p)\\)\" is the Variance of a Bernoulli distribution.</li><li>Option C: \"\\(\\sqrt{npq}\\)\" is the Standard Deviation of a Binomial distribution.</li><li>Option D: \"\\(npq\\)\" is the Variance of a Binomial distribution.</li></ul><p><b>Step 3: Conclude the correct formula for Expectation.</b><br/>The Expectation (E(X)) for a Binomial Distribution is \\(np\\).</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>Intuitively, if you perform n trials with a success probability of p for each, you'd expect to see \\(n \\times p\\) successes on average. For example, 10 coin flips with p=0.5 would lead to an expected 5 heads.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a Binomial Distribution, the Expectation (E(X)) is given by the formula \\(np\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(np\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "The Standard Normal Distribution is characterized by a mean (\\(\\mu\\)) and variance (\\(\\sigma^2\\)) of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Mean = 0, Variance = 1"
+        },
+        {
+          "type": "string",
+          "content": "Mean = 1, Variance = 0"
+        },
+        {
+          "type": "string",
+          "content": "Mean = \\(\\mu\\), Variance = \\(\\sigma^2\\)"
+        },
+        {
+          "type": "string",
+          "content": "Mean = \\(np\\), Variance = \\(npq\\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Standard Normal Distribution",
+      "Continuous Probability Distributions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Standard Normal Distribution Parameters</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Normal Distribution:</em> A continuous probability distribution described by its mean (\\(\\mu\\)) and variance (\\(\\sigma^2\\)).<br/><em>Standard Normal Distribution:</em> A special case of the Normal Distribution where the mean is 0 and the variance is 1. It is often denoted as \\(Z \\sim N(0,1)\\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific mean and variance values that define a Standard Normal Distribution.</div><p><b>Step 1: Locate the \"Standard Normal Disonbution\" section on page 14.</b><br/>The notes state: <span style='color:var(--orange);font-weight:bold;'>\"This is a distnbution where the mean is O (U20) and Variance is One (62) =6\"</span> (Note: \"U20\" is likely a typo for \"\\(\\mu=0\\)\", and \"62 =6\" for \"\\(\\sigma^2=1\\)\"). It further uses the notation \\(Z \\sim N(01)\\), implying a mean of 0 and variance of 1.</p><p><b>Step 2: Evaluate the options against this description.</b></p><ul><li>Option A: \"Mean = 0, Variance = 1\" perfectly matches the definition of the Standard Normal Distribution.</li><li>Option B: \"Mean = 1, Variance = 0\" is incorrect; a variance of 0 means no variability, implying all values are 1.</li><li>Option C: \"Mean = \\(\\mu\\), Variance = \\(\\sigma^2\\)\" describes a general Normal Distribution, not specifically the Standard Normal.</li><li>Option D: \"Mean = \\(np\\), Variance = \\(npq\\)\" are parameters for the Binomial Distribution.</li></ul><p><b>Step 3: Conclude the correct parameters.</b><br/>The Standard Normal Distribution has a mean of 0 and a variance of 1.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification:<br/>The Z-score transformation \\(Z = (X - \\mu) / \\sigma\\) converts any normal distribution into a standard normal distribution, making it easier to compare and calculate probabilities. The mean becoming 0 and standard deviation (and thus variance) becoming 1 are key to this standardization.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Standard Normal Distribution is characterized by a mean (\\(\\mu\\)) and variance (\\(\\sigma^2\\)) of Mean = 0, Variance = 1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mean = 0, Variance = 1"
+    }
+  }
+]
