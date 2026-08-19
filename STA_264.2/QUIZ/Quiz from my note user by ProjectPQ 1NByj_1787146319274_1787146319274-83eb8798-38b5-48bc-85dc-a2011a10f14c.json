@@ -1,0 +1,936 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "STATISTICS FOR BIOLOGICAL SCIENCES",
+    "code": "STA 264.2",
+    "session": "Quiz from my note user by ProjectPQ 1NByj",
+    "kind": "mixed",
+    "topics": [
+      [
+        "Data Representation",
+        "Introduction to Statistics",
+        "Descriptive Statistics"
+      ],
+      [
+        "Descriptive Statistics",
+        "Types of Statistics",
+        "Data Summarization"
+      ],
+      [
+        "Importance of Statistics",
+        "Statistical Applications"
+      ],
+      [
+        "Primary Data",
+        "Data Classification",
+        "Data Collection"
+      ],
+      [
+        "Measurement Scales",
+        "Normal Scale",
+        "Data Types"
+      ],
+      [
+        "Measurement Scales",
+        "Interval Scale",
+        "Data Properties"
+      ],
+      [
+        "Frequency Distribution",
+        "Sturge's Rule",
+        "Data Organization"
+      ],
+      [
+        "Class Width Calculation",
+        "Frequency Distribution",
+        "Range Method"
+      ],
+      [
+        "Frequency Distribution",
+        "Percentage Frequency",
+        "Data Analysis"
+      ],
+      [
+        "Mean Calculation",
+        "Measures of Central Tendency",
+        "Grouped Data"
+      ],
+      [
+        "Median Calculation",
+        "Measures of Central Tendency",
+        "Grouped Data"
+      ],
+      [
+        "Median Calculation",
+        "Measures of Central Tendency",
+        "Grouped Data Formula"
+      ],
+      [
+        "Discrete Probability Distribution",
+        "Types of Probability Distribution",
+        "Countable Data"
+      ],
+      [
+        "Bernoulli Distribution",
+        "Probability Mass Function",
+        "Discrete Probability"
+      ],
+      [
+        "Bernoulli Distribution",
+        "Expectation",
+        "Variance"
+      ],
+      [
+        "Binomial Distribution",
+        "Probability Mass Function",
+        "Discrete Probability"
+      ],
+      [
+        "Binomial Distribution",
+        "Expectation",
+        "Variance"
+      ],
+      [
+        "Poisson Distribution",
+        "Discrete Probability",
+        "Distribution Characteristics"
+      ],
+      [
+        "Standard Normal Distribution",
+        "Continuous Probability",
+        "Distribution Parameters"
+      ],
+      [
+        "Normal Distribution",
+        "Probability Density Function",
+        "Continuous Probability"
+      ]
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer All Questions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following is NOT a form in which information can be represented on Statistics, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bar Charts"
+        },
+        {
+          "type": "string",
+          "content": "Flow Chars"
+        },
+        {
+          "type": "string",
+          "content": "Histograms"
+        },
+        {
+          "type": "string",
+          "content": "Radar Plots"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Data Representation",
+      "Introduction to Statistics",
+      "Descriptive Statistics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Data Representation in Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Statistics:</em> The collection, analysis, and interpretation of data.<br/><em>Data Representation:</em> Methods used to visually display statistical information.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT listed as a form of data representation in Statistics according to the provided text.</div><p style='margin-bottom:10px;'><strong>Step 1: Consult the definition of Statistics.</strong><br/>The definition of statistics includes that <span style='color:var(--orange);font-weight:bold;'>bar Charts, flow Chars, pie Chars, histogram</span>. It is mentioned that \"Information can be represented on Statistics with forms such as <span style='color:var(--orange);font-weight:bold;'>bar Charts, flow Chars, pie Chars, histogram</span>.\"</p><p style='margin-bottom:10px;'><strong>Step 2: Compare the given options with the listed forms.</strong><br/>We need to check which of the options is not explicitly mentioned in this list.</p><ul><li>Bar Charts: <span style='color:var(--orange);font-weight:bold;'>Explicitly mentioned</span>.</li><li>Flow Chars: <span style='color:var(--orange);font-weight:bold;'>Explicitly mentioned</span>.</li><li>Histograms: <span style='color:var(--orange);font-weight:bold;'>Explicitly mentioned</span>.</li><li>Radar Plots: <span style='color:var(--orange);font-weight:bold;'>Not mentioned</span> in the provided list of forms.</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Identify the option not listed.</strong><br/>\"Radar Plots\" is the form not mentioned as a way information can be represented on Statistics in the given text.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The question specifically asks what is *NOT* mentioned in the document. By cross-referencing the options with the exact text provided, 'Radar Plots' is the only option that does not appear in the document's list of data representation forms. This confirms it is the correct answer to a 'NOT' question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Radar Plots is NOT a form in which information can be represented on Statistics, according to the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radar Plots"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which type of statistics primarily involves summarizing and describing data to understand its characteristics, such as mean, median, and mode?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Inferential Statistics"
+        },
+        {
+          "type": "string",
+          "content": "Parametric Statistics"
+        },
+        {
+          "type": "string",
+          "content": "Descriptive Statistics"
+        },
+        {
+          "type": "string",
+          "content": "Non-parametric Statistics"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Descriptive Statistics",
+      "Types of Statistics",
+      "Data Summarization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Descriptive Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Descriptive Statistics:</em> Deals with summarizing and describing data, helping to understand what the data looks like, using measures like mean, median, mode, tables, charts, and graphs.<br/><em>Inferential Statistics:</em> Used to make predictions or conclusions about a large group using a smaller group sample, aiding in prediction, decision-making, and hypothesis testing.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of statistics that focuses on summarizing and describing data using measures like mean, median, and mode.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the definition of Descriptive Statistics.</strong><br/>The text states: \"<span style='color:var(--orange);font-weight:bold;'>Descriptive Statistics: These deals with Summanzing and desembring data. It heaps us understand what the data loons like E-gimean, median, mode, tables, Charts & graph</span>.\"</p><p style='margin-bottom:10px;'><strong>Step 2: Recall the definition of Inferential Statistics.</strong><br/>The text states: \"<span style='color:var(--orange);font-weight:bold;'>Inferential Statities: This is used to make predictions Or Conclusion about a Large group using a Smaller Group Cample. It helps in Prediction, decision making, hypothesis testing</span>.\"</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options against the definitions.</strong><br/><ul><li>Inferential Statistics: This type focuses on making predictions and drawing conclusions from samples to populations, not primarily on summarizing existing data characteristics.</li><li>Parametric Statistics: This term is not explicitly defined in the document, but generally refers to a branch of inferential statistics assuming specific population parameters.</li><li>Descriptive Statistics: This definition perfectly matches the description in the question, dealing with summarizing and describing data using measures like mean, median, and mode.</li><li>Non-parametric Statistics: This term is not explicitly defined in the document, and generally refers to statistical methods that do not rely on strong assumptions about population distributions.</li></ul></p><p style='margin-bottom:10px;'><strong>Step 4: Conclude based on the matching definition.</strong><br/>The primary function of summarizing and describing data using measures like mean, median, and mode is characteristic of descriptive statistics.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> Descriptive statistics provides a concise summary of data. It helps to simplify large amounts of data in a sensible way without making generalizations beyond the data itself. Inferential statistics, in contrast, aims to make inferences about populations based on sample data.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Descriptive Statistics primarily involves summarizing and describing data to understand its characteristics, such as mean, median, and mode.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Descriptive Statistics"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "According to the document, which of the following is NOT an importance of Statistics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It helps in the determination of optimal sample size."
+        },
+        {
+          "type": "string",
+          "content": "It helps in optimal allocation of treatment experimental units."
+        },
+        {
+          "type": "string",
+          "content": "It primarily focuses on individual case studies without generalisation."
+        },
+        {
+          "type": "string",
+          "content": "It helps in reducing bias."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Importance of Statistics",
+      "Statistical Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding the Importance of Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Importance of Statistics:</em> The document outlines several ways statistics are used, including determining optimal sample size, allocating treatments/experimental units, and reducing bias.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which statement is NOT listed as an importance of statistics in the document.</div><p style='margin-bottom:10px;'><strong>Step 1: Review the section on 'Importance Of Statistics'.</strong><br/>The document lists the following points: \"<span style='color:var(--orange);font-weight:bold;'>I. It heps in the determination of optimal Sample sure-\n2. It helps to Optimal allocation of treatment, experimental\n7. Units, thereby redaang bias</span>\". The numbering (1, 2, 7) might be a typo in the original text, but the listed points are clear. Additional points are found under \"NIB Information is data and data is Statistres\": \"3. It helps in data Collection space-\", \"4. It heups to determine how Closely related two or more Nalues may be.\", \"5. It helps to Compare two or more population cotth their differences\", etc.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate each option against the listed importance.</strong><br/><ul><li>It helps in the determination of optimal sample size: <span style='color:var(--orange);font-weight:bold;'>Explicitly mentioned</span> (Point 1).</li><li>It helps in optimal allocation of treatment experimental units: <span style='color:var(--orange);font-weight:bold;'>Explicitly mentioned</span> (Point 2).</li><li>It primarily focuses on individual case studies without generalisation: This statement <span style='color:var(--orange);font-weight:bold;'>contradicts</span> the general purpose of statistics, especially inferential statistics, which aims to make conclusions about larger groups. It is not mentioned as an importance.</li><li>It helps in reducing bias: <span style='color:var(--orange);font-weight:bold;'>Explicitly mentioned</span> (Point 7).</li></ul></p><p style='margin-bottom:10px;'><strong>Step 3: Identify the statement that is NOT an importance.</strong><br/>The statement \"It primarily focuses on individual case studies without generalisation\" is not listed as an importance; in fact, it goes against the broader scope of statistical analysis, which often involves generalization from samples to populations.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> Statistics, particularly inferential statistics, is fundamentally concerned with drawing broader conclusions and making generalizations from collected data or samples to larger populations. Focusing solely on individual case studies without generalization would negate a significant aspect of its utility.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The statement \"It primarily focuses on individual case studies without generalisation\" is NOT an importance of Statistics according to the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It primarily focuses on individual case studies without generalisation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "What is the key characteristic of 'Primary Data' according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It has already been published."
+        },
+        {
+          "type": "string",
+          "content": "It is gathered from secondary sources like journals."
+        },
+        {
+          "type": "string",
+          "content": "It consists of original records collected by the origination for the first time."
+        },
+        {
+          "type": "string",
+          "content": "It requires significant transformation before analysis."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Primary Data",
+      "Data Classification",
+      "Data Collection"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Primary Data</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Primary Data:</em> Original records collected directly by the source for the first time.<br/><em>Secondary Data:</em> Data that has already been published.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the key characteristic of 'Primary Data' as described in the document.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the definition of Primary Data in the document.</strong><br/>Under the section \"Classification Of Data\", the document states: \"<span style='color:var(--orange);font-weight:bold;'>1 Primary Data: The Onginal records re They are Onginally Collected by the Ongimation from the fust time.</span>\"</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against this definition.</strong><br/><ul><li>It has already been published: This describes <span style='color:var(--orange);font-weight:bold;'>Secondary Data</span>, not Primary Data.</li><li>It is gathered from secondary sources like journals: This also describes <span style='color:var(--orange);font-weight:bold;'>Secondary Data</span>.</li><li>It consists of original records collected by the origination for the first time: This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the definition of Primary Data in the document.</li><li>It requires significant transformation before analysis: The document does not specify this characteristic for Primary Data.</li></ul></p><p style='margin-bottom:10px;'><strong>Step 3: Select the option that accurately describes Primary Data.</strong><br/>The characteristic that Primary Data consists of original records collected by the origination for the first time is the correct description.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The distinction between primary and secondary data is crucial in research. Primary data is firsthand information, directly observed or collected, ensuring its relevance and reliability for the specific research question. Secondary data is secondhand, often gathered for a different purpose, which might require careful evaluation of its suitability.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The key characteristic of 'Primary Data' according to the document is that it consists of original records collected by the origination for the first time.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It consists of original records collected by the origination for the first time."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which measurement scale is used mainly for naming or labeling only, with no ranking involved, such as gender or religion?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ratio Scale"
+        },
+        {
+          "type": "string",
+          "content": "Ordinal Scale"
+        },
+        {
+          "type": "string",
+          "content": "Interval Scale"
+        },
+        {
+          "type": "string",
+          "content": "Normal Scale"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Measurement Scales",
+      "Normal Scale",
+      "Data Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Measurement Scales: Normal Scale</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Normal (Nominal) Scale:</em> Used for naming or labeling categories only, without any inherent order or ranking. Examples include gender, religion, blood group type.<br/><em>Ordinal Scale:</em> Data can be arranged in a specific order or rank, but the differences between values are not meaningful or consistent.<br/><em>Interval Scale:</em> Data has equal intervals between values, but no true zero point (e.g., temperature).<br/><em>Ratio Scale:</em> Data has equal intervals and a true zero point, meaning ratios are meaningful (e.g., height, weight).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the measurement scale characterized by naming or labeling without ranking, providing examples like gender and religion.</div><p style='margin-bottom:10px;'><strong>Step 1: Refer to the section on 'Measurement Scales'.</strong><br/>The document describes: \"<span style='color:var(--orange);font-weight:bold;'>1 Normal Scale: This is used mainly for naming or labeling Only Rig: Gender, religion, blood group, tube. There is no rankinge</span>\".</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against this description.</strong><br/><ul><li>Ratio Scale: Involves equal intervals and a true zero, allowing for meaningful ratios. This is not just naming or labeling.</li><li>Ordinal Scale: Involves order or ranking, which is explicitly stated as absent in the question's description.</li><li>Interval Scale: Involves equal intervals but no true zero. This is more than just naming or labeling.</li><li>Normal Scale: This description <span style='color:var(--orange);font-weight:bold;'>perfectly matches</span> the characteristics provided in the question: naming/labeling only, no ranking, with examples like gender and religion.</li></ul></p><p style='margin-bottom:10px;'><strong>Step 3: Conclude based on the matching description.</strong><br/>The Normal Scale (also known as Nominal Scale) is the appropriate answer.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> Normal scale data are qualitative and represent categories without any quantitative value or order. For example, assigning '1' to male and '2' to female does not imply that '2' is 'more' or 'better' than '1'; they are just labels.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Normal Scale is used mainly for naming or labeling only, with no ranking involved, such as gender or religion.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Normal Scale"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which measurement scale has equal intervals between values but lacks a true zero point, meaning that 0 does not imply the absence of the quantity, as exemplified by temperature in Celsius?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ratio Scale"
+        },
+        {
+          "type": "string",
+          "content": "Ordinal Scale"
+        },
+        {
+          "type": "string",
+          "content": "Interval Scale"
+        },
+        {
+          "type": "string",
+          "content": "Normal Scale"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Measurement Scales",
+      "Interval Scale",
+      "Data Properties"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Measurement Scales: Interval Scale</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Interval Scale:</em> Data with equal intervals between values, but no true zero point. A value of zero does not represent the complete absence of the measured attribute. Example: Temperature in Celsius or Fahrenheit.<br/><em>Ratio Scale:</em> Data with equal intervals and a true zero point, allowing for meaningful ratios (e.g., height, weight).<br/><em>Ordinal Scale:</em> Data that can be ranked or ordered, but the intervals between ranks are not necessarily equal or meaningful.<br/><em>Normal (Nominal) Scale:</em> Data used for labeling or categorizing only, without any inherent order or numerical significance.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a measurement scale with equal intervals but no true zero point, using temperature (0°C) as an example.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the descriptions of measurement scales in the document.</strong><br/>The document provides definitions for different scales:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>3. Ratio Scales: \"This has aqual Intenials and a tree zero eg Height, Weight, age, income. Zero means absence.\"</span></li><li><span style='color:var(--orange);font-weight:bold;'>4. Intenial scale: \"This has equal inten Intentals between Valuas but no thue Zero. Eg Temperature Tero does not mean absence Eg O°c does not mean no temperature.\"</span></li></ul><p style='margin-bottom:10px;'><strong>Step 2: Compare the given characteristics with the options.</strong><br/>The question explicitly states \"equal intervals between values but lacks a true zero point\" and gives \"temperature\" as an example, specifically mentioning \"0 does not imply the absence of the quantity\". This perfectly matches the description of the Interval Scale.</p><ul><li>Ratio Scale: Incorrect, as it has a true zero.</li><li>Ordinal Scale: Incorrect, as it primarily deals with rank, and intervals are not necessarily equal.</li><li>Interval Scale: <span style='color:var(--orange);font-weight:bold;'>Correct</span>, as it fits all specified criteria.</li><li>Normal Scale: Incorrect, as it is for labeling without order or numerical intervals.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> On an interval scale, you can say that 20°C is 10 degrees hotter than 10°C, and this difference is the same as the difference between 30°C and 20°C. However, 20°C is not 'twice as hot' as 10°C, because 0°C does not mean 'no heat'. The true absence of temperature is absolute zero (-273.15°C or 0 Kelvin), which falls on a ratio scale.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Interval Scale has equal intervals between values but lacks a true zero point, as exemplified by temperature in Celsius.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interval Scale"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Sturge's Rule, \\( K = 1 + 3.322 \\log_{10} n \\), is primarily used in forming frequency tables to determine what?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The optimal sample size"
+        },
+        {
+          "type": "string",
+          "content": "The number of classes"
+        },
+        {
+          "type": "string",
+          "content": "The class width"
+        },
+        {
+          "type": "string",
+          "content": "The frequency of each class"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Frequency Distribution",
+      "Sturge's Rule",
+      "Data Organization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Sturge's Rule</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Frequency Distribution:</em> A table showing how often values occur, grouping data into a set of classes.<br/><em>Sturge's Rule:</em> A formula \\( K = 1 + 3.322 \\log_{10} n \\) used to determine the appropriate number of classes (K) for a frequency distribution, where n is the total number of observations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary purpose of Sturge's Rule in forming frequency tables.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the description of Sturge's Rule in the document.</strong><br/>Under the heading \"klays Of Forming Frequency Tables\", the first point states: \"<span style='color:var(--orange);font-weight:bold;'>1 Sturge's Rule: Wed to determine the number of Classes Cintenlais). K=1+3-322Logion- kthere! K = number of Classes n=total number of deciation</span>\". (Note: \"deciation\" is likely a typo for \"deviation\" or \"observation\").</p><p style='margin-bottom:10px;'><strong>Step 2: Identify what the variable 'K' represents in Sturge's Rule.</strong><br/>The document explicitly states \"<span style='color:var(--orange);font-weight:bold;'>K = number of Classes</span>\".</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options based on this information.</strong><br/><ul><li>The optimal sample size: While important in statistics, Sturge's Rule is not used for this.</li><li>The number of classes: This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the purpose of 'K' in Sturge's Rule.</li><li>The class width: Class width is often determined after the number of classes and the range are known, but Sturge's Rule itself determines 'K' (number of classes).</li><li>The frequency of each class: Frequencies are counts of data points within each class, not determined by Sturge's Rule.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> Choosing an appropriate number of classes is crucial for a meaningful frequency distribution. Too few classes can obscure important patterns, while too many can make the data appear too granular and difficult to interpret. Sturge's Rule provides a guideline for this choice.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sturge's Rule, \\( K = 1 + 3.322 \\log_{10} n \\), is primarily used in forming frequency tables to determine the number of classes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The number of classes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Given a dataset where the highest value is 80 and the lowest value is 23. If you are to determine the class width using the Interval Rule/Range Method, and after calculating the range and adding 1, you divide by 10 (as 'Use 10 Intenials'), what would be the resulting class width?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "5.8"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "10"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Class Width Calculation",
+      "Frequency Distribution",
+      "Range Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Class Width using the Range Method</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Range:</em> The difference between the highest and lowest values in a dataset.<br/><em>Class Width:</em> The size of each class interval in a frequency distribution. It is often calculated as (Range + 1) / Number of Intervals, rounded up to a convenient number.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question provides the highest (80) and lowest (23) values of a dataset and describes steps from the document's example to calculate the class width: (Range + 1) / 10, then rounding.</div><p style='margin-bottom:10px;'><strong>Step 1: Calculate the Range.</strong><br/>According to the document's example (Step 1): \"<span style='color:var(--orange);font-weight:bold;'>Range (difference between highest & lowest) = 80 - 23 = 57</span>\".</p><p style='margin-bottom:10px;'><strong>Step 2: Add 1 to the Range.</strong><br/>As per the document's example (Step 2): \"<span style='color:var(--orange);font-weight:bold;'>Add 1 (after identifying ranges) = 57 + 1 = 58</span>\".</p><p style='margin-bottom:10px;'><strong>Step 3: Divide by the number of intervals (10).</strong><br/>As per the document's example (Step 3): \"<span style='color:var(--orange);font-weight:bold;'>Use 10 Intenials (Divide range by 10) = 58/10 = 5.8</span>\".</p><p style='margin-bottom:10px;'><strong>Step 4: Determine the Class Width by rounding up.</strong><br/>The document's example (Step 4) then states: \"<span style='color:var(--orange);font-weight:bold;'>Class width = 6</span>\". This implies rounding 5.8 up to the nearest whole number.</p><ul><li>5: Incorrect, this would be rounding down.</li><li>5.8: Incorrect, this is the calculated value before rounding.</li><li>6: <span style='color:var(--orange);font-weight:bold;'>Correct</span>, as 5.8 is rounded up to 6.</li><li>10: Incorrect, this is the number of intervals, not the class width.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> In practice, class width is usually rounded up to ensure all data points are covered and to use a convenient, easily interpretable number for interval boundaries. If we had used a class width of 5, the range of 58 (or 57+1) would not be fully covered by 10 classes of size 5 (5 x 10 = 50). A class width of 6 covers the entire range (6 x 10 = 60), ensuring all values fall into a class.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The resulting class width would be 6.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "For a frequency distribution, how is the percentage frequency (%F) for a class interval obtained?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "By adding the cumulative frequency for that class to the total frequency and multiplying by 100."
+        },
+        {
+          "type": "string",
+          "content": "By dividing the frequency of the class by the total frequency and multiplying by 100."
+        },
+        {
+          "type": "string",
+          "content": "By dividing the frequency of the class by the class width and multiplying by 100."
+        },
+        {
+          "type": "string",
+          "content": "By multiplying the frequency of the class by the midpoint and dividing by the total frequency."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Frequency Distribution",
+      "Percentage Frequency",
+      "Data Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Percentage Frequency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Frequency (f):</em> The number of times a particular value or set of values occurs in a dataset or class interval.<br/><em>Total Frequency (N or \\( \\sum f \\)):</em> The total number of observations in the dataset.<br/><em>Percentage Frequency (%F):</em> The proportion of observations falling into a particular class, expressed as a percentage of the total.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the method to calculate the percentage frequency (%F) for a class interval in a frequency distribution.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the formula for %F in the document.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>+ %f is gotten by doing f / For (40) ¥100 E-g 4/40×100=10, 1/40 × 100 = 2.5 etc</span>\". Here, 'f' refers to the frequency of the class, and '40' represents the total number of observations (or total frequency).</p><p style='margin-bottom:10px;'><strong>Step 2: Interpret the formula.</strong><br/>The formula \\( (f / \\text{Total N}) \\times 100 \\) means dividing the frequency of a specific class by the total frequency and then multiplying by 100 to express it as a percentage.</p><ul><li>By adding the cumulative frequency for that class to the total frequency and multiplying by 100: This is incorrect.</li><li>By dividing the frequency of the class by the total frequency and multiplying by 100: This <span style='color:var(--orange);font-weight:bold;'>matches</span> the formula provided.</li><li>By dividing the frequency of the class by the class width and multiplying by 100: This is incorrect.</li><li>By multiplying the frequency of the class by the midpoint and dividing by the total frequency: This would be part of calculating the mean, not percentage frequency.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> Percentage frequency provides a clear picture of the relative importance or proportion of each class within the entire dataset, making it easier to compare distributions or see the distribution of data points across classes. It's a standard calculation for relative frequencies.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a frequency distribution, the percentage frequency (%F) for a class interval is obtained by dividing the frequency of the class by the total frequency and multiplying by 100.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By dividing the frequency of the class by the total frequency and multiplying by 100."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "For a dataset with a total frequency of 57, if the sum of \\( fx \\) (midpoint multiplied by frequency) is 2076.5, what is the calculated mean?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "36.43"
+        },
+        {
+          "type": "string",
+          "content": "57.00"
+        },
+        {
+          "type": "string",
+          "content": "2076.50"
+        },
+        {
+          "type": "string",
+          "content": "0.03"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mean Calculation",
+      "Measures of Central Tendency",
+      "Grouped Data"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating the Mean for Grouped Data</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Mean (\\( \\bar{x} \\)):</em> The average number in a dataset. For grouped data, it is calculated as the sum of the products of midpoints (x) and frequencies (f) divided by the total frequency (n or \\( \\sum f \\)).<br/><em>Formula:</em> \\( \\bar{x} = \\frac{\\sum fx}{\\sum f} \\) or \\( \\bar{x} = \\frac{\\sum fx}{n} \\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question provides the total frequency (n = 57) and the sum of \\( fx \\) (2076.5) and asks for the calculated mean.</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the given values.</strong><br/>From the question: <span style='color:var(--orange);font-weight:bold;'>Total frequency (n) = 57</span>. <span style='color:var(--orange);font-weight:bold;'>Sum of \\( fx \\) = 2076.5</span>.</p><p style='margin-bottom:10px;'><strong>Step 2: Apply the formula for the mean.</strong><br/>The document shows the formula and an example calculation: \"<span style='color:var(--orange);font-weight:bold;'>x=2076.5 = 36.43 51</span>\". (Note: '51' appears to be a transcription error for '57' based on the value in the table from page 7). Using the correct total frequency from the example data: <br/>\\( \\bar{x} = \\frac{2076.5}{57} \\).</p><p style='margin-bottom:10px;'><strong>Step 3: Perform the calculation.</strong><br/>\\( \\bar{x} = 2076.5 \\div 57 \\approx 36.43 \\).</p><ul><li>36.43: <span style='color:var(--orange);font-weight:bold;'>Correct</span>, this is the result of 2076.5 / 57.</li><li>57.00: Incorrect, this is the total frequency.</li><li>2076.50: Incorrect, this is the sum of fx.</li><li>0.03: Incorrect, this would be 57 / 2076.5.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The mean represents the 'balancing point' of the distribution. For grouped data, we use the midpoint of each class to estimate the values within that class. This method provides a good approximation of the true mean if the data are evenly distributed within each class.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The calculated mean is 36.43.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "36.43"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "For a frequency distribution with a total of 57 observations, what is the position (nth observation) used to locate the median class?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "28.0th observation"
+        },
+        {
+          "type": "string",
+          "content": "28.5th observation"
+        },
+        {
+          "type": "string",
+          "content": "29.0th observation"
+        },
+        {
+          "type": "string",
+          "content": "30.0th observation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Median Calculation",
+      "Measures of Central Tendency",
+      "Grouped Data"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Locating the Median Position for Grouped Data</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Median:</em> The middle value in an ordered dataset. For grouped data, the median position is found by dividing the total number of observations (n) by 2.<br/><em>Formula for Median Position:</em> \\( n/2 \\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to determine the position of the median class for a dataset with 57 observations.</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the total number of observations (n).</strong><br/>From the question, the total number of observations is <span style='color:var(--orange);font-weight:bold;'>n = 57</span>.</p><p style='margin-bottom:10px;'><strong>Step 2: Apply the formula for the median position.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>Median = q2 = n/2 [median = half] Hence! median = 57 = 38.5 2</span>\". (Note: '38.5' is an error in the original document's arithmetic; 57/2 is 28.5. The subsequent calculation on page 10 correctly uses 28.5). We will use the correct calculation for \\( n/2 \\).</p><p style='margin-bottom:10px;'><strong>Step 3: Calculate the median position.</strong><br/>Median position = \\( n/2 = 57 / 2 = 28.5 \\).</p><ul><li>28.0th observation: Incorrect.</li><li>28.5th observation: <span style='color:var(--orange);font-weight:bold;'>Correct</span>, as this is \\( n/2 \\).</li><li>29.0th observation: Incorrect.</li><li>30.0th observation: Incorrect.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The median is defined as the value that divides the dataset into two equal halves. For an odd number of observations (n), the median position is \\( (n+1)/2 \\). However, for grouped data, \\( n/2 \\) is typically used to locate the class interval containing the median, as we are looking for the 'halfway' point of the cumulative frequency. The document explicitly uses \\( n/2 \\) to find the median position in its example.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The position used to locate the median class for a dataset with 57 observations is the 28.5th observation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "28.5th observation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Using the provided median formula \\( X_{md} = L_{clmd} + \\left( \\frac{n/2 - CF_{md-1}}{F_{md}} \\right) Cmd \\) and the values from the document's example (n=57, \\( L_{clmd}=29.5 \\), \\( CF_{md-1}=23 \\), \\( F_{md}=11 \\), Cmd=10), what is the calculated median?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "29.5"
+        },
+        {
+          "type": "string",
+          "content": "34.5"
+        },
+        {
+          "type": "string",
+          "content": "38.5"
+        },
+        {
+          "type": "string",
+          "content": "44.5"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Median Calculation",
+      "Measures of Central Tendency",
+      "Grouped Data Formula"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Median for Grouped Data</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Median Formula for Grouped Data:</em> \\( X_{md} = L_{clmd} + \\left( \\frac{n/2 - CF_{md-1}}{F_{md}} \\right) Cmd \\), where:<br/>&emsp; \\( L_{clmd} \\): Lower Class Limit of the median class.<br/>&emsp; n: Total number of observations.<br/>&emsp; \\( F_{md} \\): Frequency of the median class.<br/>&emsp; \\( CF_{md-1} \\): Cumulative frequency of the class *before* the median class.<br/>&emsp; Cmd: Class width.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question provides the formula and specific values from the document's example for calculating the median.</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the given values from the question and document example.</strong><br/><ul><li>Total number of observations (n) = <span style='color:var(--orange);font-weight:bold;'>57</span></li><li>Lower Class Limit of the median class (\\( L_{clmd} \\)) = <span style='color:var(--orange);font-weight:bold;'>29.5</span></li><li>Cumulative frequency of the class before the median class (\\( CF_{md-1} \\)) = <span style='color:var(--orange);font-weight:bold;'>23</span></li><li>Frequency of the median class (\\( F_{md} \\)) = <span style='color:var(--orange);font-weight:bold;'>11</span></li><li>Class width (Cmd) = <span style='color:var(--orange);font-weight:bold;'>10</span></li></ul></p><p style='margin-bottom:10px;'><strong>Step 2: Calculate \\( n/2 \\).</strong><br/>\\( n/2 = 57 / 2 = 28.5 \\).</p><p style='margin-bottom:10px;'><strong>Step 3: Substitute the values into the median formula.</strong><br/>The document shows the calculation: <br/>\\( X_{md} = 29.5 + \\left( \\frac{28.5 - 23}{11} \\right) \\times 10 \\)<br/>\\( X_{md} = 29.5 + \\left( \\frac{5.5}{11} \\right) \\times 10 \\)<br/>\\( X_{md} = 29.5 + (0.5) \\times 10 \\)<br/>\\( X_{md} = 29.5 + 5 \\)<br/>\\( X_{md} = 34.5 \\)</p><ul><li>29.5: This is \\( L_{clmd} \\), not the final median.</li><li>34.5: <span style='color:var(--orange);font-weight:bold;'>Correct</span>, this is the result of the calculation.</li><li>38.5: This was an arithmetic error in the document for \\( n/2 \\), not the final median.</li><li>44.5: This is a midpoint from the example table, not the median.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The median must fall within the median class (30-39 in this example, which has a lower class limit of 29.5 and an upper class limit of 39.5). Our calculated median of 34.5 indeed falls within this range, making it a plausible value. This confirms the calculation steps.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The calculated median is 34.5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "34.5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which type of probability distribution describes things that can be counted, occur as whole numbers, and can be either infinite or finite, such as the number of students in a class?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Continuous Probability Distribution"
+        },
+        {
+          "type": "string",
+          "content": "Normal Probability Distribution"
+        },
+        {
+          "type": "string",
+          "content": "Discrete Probability Distribution"
+        },
+        {
+          "type": "string",
+          "content": "Poisson Probability Distribution"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Discrete Probability Distribution",
+      "Types of Probability Distribution",
+      "Countable Data"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Discrete Probability Distributions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Discrete Probability Distribution:</em> Describes random variables that can take on a finite or countably infinite number of distinct values, typically whole numbers. Examples include counts (e.g., number of students, number of heads in coin flips).<br/><em>Continuous Probability Distribution:</em> Describes random variables that can take any value within a given range, typically involving decimals (e.g., temperature, weight).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of probability distribution characterized by countable outcomes, whole numbers, and finite or infinite possibilities, citing 'number of students' as an example.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the definitions of probability distribution types.</strong><br/>The document describes: \"<span style='color:var(--orange);font-weight:bold;'>1. Discrete - Probabilitong distonbution: This are things that Can be Counted. They occur as whole numbers They are definite eng Students in a Class. It can be Infinite or finite.</span>\"<br/>It also describes: \"<span style='color:var(--orange);font-weight:bold;'>-2. Continuous Probability Distribution: This falls about that are in decimals egtempe-rature, weight. They can't be Counted.</span>\"</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options against the descriptions.</strong><br/><ul><li>Continuous Probability Distribution: This is for data that falls in decimals and cannot be counted, which contradicts the question.</li><li>Normal Probability Distribution: This is a type of continuous distribution, typically bell-shaped, not for countable whole numbers.</li><li>Discrete Probability Distribution: This description <span style='color:var(--orange);font-weight:bold;'>perfectly matches</span> all characteristics mentioned: countable, whole numbers, definite (finite or infinite), and includes the example of students in a class.</li><li>Poisson Probability Distribution: While a discrete distribution, its definition is more specific (time interval, known constant rate) and doesn't encompass the general definition asked.</li></ul></p><p style='margin-bottom:10px;'><strong>Step 3: Conclude based on the matching definition.</strong><br/>The Discrete Probability Distribution is the correct answer.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The core distinction between discrete and continuous variables lies in their countability. Discrete variables jump from one value to the next, while continuous variables can take on any value within a given interval. The number of students, for instance, must be a whole number (you can't have 2.5 students), making it a discrete variable.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Discrete Probability Distribution describes things that can be counted, occur as whole numbers, and can be either infinite or finite, such as the number of students in a class.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Discrete Probability Distribution"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "What is the probability mass function (PMF) for a Bernoulli distribution, where \\( P(X=1) = p \\) and \\( P(X=0) = 1-p \\)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = p^x (1-p)^{1-x}; x=0,1 \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = \\binom{n}{x} p^x (1-p)^{n-x} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( f(x) = \\frac{1}{\\sigma \\sqrt{2\\pi}} e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = \\frac{\\lambda^x e^{-\\lambda}}{x!} \\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Bernoulli Distribution",
+      "Probability Mass Function",
+      "Discrete Probability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bernoulli Distribution Probability Mass Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Bernoulli Distribution:</em> A discrete probability distribution for a single trial with two possible outcomes (success or failure). The probability of success is 'p', and the probability of failure is '1-p' (or 'q').<br/><em>Probability Mass Function (PMF):</em> A function that gives the probability that a discrete random variable is exactly equal to some value.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the PMF of a Bernoulli distribution given its characteristic probabilities for \\( X=0 \\) and \\( X=1 \\).</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the Bernoulli distribution PMF in the document.</strong><br/>Under the \"Bernoulli disonbation\" section, the document states: \"<span style='color:var(--orange);font-weight:bold;'>P(x=x)=p^x(1-p)^1-x;x=0,1</span>\". It also lists the individual probabilities: \"<span style='color:var(--orange);font-weight:bold;'>{1-p, x=0} {p, x=1}</span>\".</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against the identified PMF.</strong><br/><ul><li>\\( P(X=x) = p^x (1-p)^{1-x}; x=0,1 \\): This <span style='color:var(--orange);font-weight:bold;'>exactly matches</span> the PMF provided in the document for the Bernoulli distribution.</li><li>\\( P(X=x) = \\binom{n}{x} p^x (1-p)^{n-x} \\): This is the PMF for the <span style='color:var(--orange);font-weight:bold;'>Binomial distribution</span>.</li><li>\\( f(x) = \\frac{1}{\\sigma \\sqrt{2\\pi}} e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2} \\): This is the Probability Density Function (PDF) for the <span style='color:var(--orange);font-weight:bold;'>Normal distribution</span>.</li><li>\\( P(X=x) = \\frac{\\lambda^x e^{-\\lambda}}{x!} \\): This is the PMF for the <span style='color:var(--orange);font-weight:bold;'>Poisson distribution</span> (though not explicitly given in the text, it's a common distractor for discrete PMFs).</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> For \\( x=0 \\), the Bernoulli PMF gives \\( p^0 (1-p)^{1-0} = 1 \\cdot (1-p)^1 = 1-p \\). For \\( x=1 \\), it gives \\( p^1 (1-p)^{1-1} = p \\cdot (1-p)^0 = p \\cdot 1 = p \\). This confirms the formula correctly represents the probabilities for the two outcomes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The probability mass function (PMF) for a Bernoulli distribution is \\( P(X=x) = p^x (1-p)^{1-x}; x=0,1 \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( P(X=x) = p^x (1-p)^{1-x}; x=0,1 \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "For a Bernoulli distribution with parameter 'p', what is its expectation, E(X), and variance, Var(X)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( E(X) = p \\) and \\( Var(X) = p(1-p) \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( E(X) = np \\) and \\( Var(X) = np(1-p) \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( E(X) = \\lambda \\) and \\( Var(X) = \\lambda \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( E(X) = \\mu \\) and \\( Var(X) = \\sigma^2 \\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Bernoulli Distribution",
+      "Expectation",
+      "Variance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Expectation and Variance of a Bernoulli Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Expectation (E(X) or Mean):</em> The weighted average of all possible values of a random variable, representing its central tendency.<br/><em>Variance (Var(X)):</em> A measure of how spread out the values in a distribution are, quantifying the average of the squared differences from the mean.<br/><em>Bernoulli Distribution:</em> A probability distribution for a single binary trial with a success probability 'p'.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the expectation and variance formulas for a Bernoulli distribution.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the properties of the Bernoulli distribution in the document.</strong><br/>Under the section describing the Bernoulli distribution, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Expectation of X (E(X)) -mean = P</span>\" and \"<span style='color:var(--orange);font-weight:bold;'>Vanance of X (Var(X)) - Vanance = P(1-p)</span>\". (Note: 'P' is used for 'p').</p><p style='margin-bottom:10px;'><strong>Step 2: Compare the given options with these formulas.</strong><br/><ul><li>\\( E(X) = p \\) and \\( Var(X) = p(1-p) \\): This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the formulas provided in the document for the Bernoulli distribution.</li><li>\\( E(X) = np \\) and \\( Var(X) = np(1-p) \\): These are the expectation and variance for a <span style='color:var(--orange);font-weight:bold;'>Binomial distribution</span>.</li><li>\\( E(X) = \\lambda \\) and \\( Var(X) = \\lambda \\): These are the expectation and variance for a <span style='color:var(--orange);font-weight:bold;'>Poisson distribution</span>.</li><li>\\( E(X) = \\mu \\) and \\( Var(X) = \\sigma^2 \\): These are general notations for the mean and variance, often used in the context of <span style='color:var(--orange);font-weight:bold;'>Normal distribution</span>.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The Bernoulli distribution is the simplest case of a binomial distribution (where n=1). As such, its mean (p) and variance (p(1-p)) can be derived from the binomial formulas by setting n=1.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a Bernoulli distribution with parameter 'p', its expectation is \\( E(X) = p \\) and its variance is \\( Var(X) = p(1-p) \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( E(X) = p \\) and \\( Var(X) = p(1-p) \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What is the probability mass function (PMF) for a Binomial distribution, given 'n' trials, probability of success 'p', and probability of failure 'q'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = p^x (1-p)^{1-x} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = \\binom{n}{x} p^x q^{n-x} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( f(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{1}{2}x^2} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = \\frac{\\lambda^x e^{-\\lambda}}{x!} \\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Binomial Distribution",
+      "Probability Mass Function",
+      "Discrete Probability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Binomial Distribution Probability Mass Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Binomial Distribution:</em> A discrete probability distribution that describes the number of successes in a fixed number of independent trials, each with two possible outcomes (success or failure).<br/><em>Parameters:</em> 'n' (number of trials), 'p' (probability of success on each trial), 'q' (probability of failure, \\( q = 1-p \\)).<br/><em>Probability Mass Function (PMF):</em> A formula that calculates the probability of getting exactly 'x' successes in 'n' trials.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the PMF of a Binomial distribution, given its parameters.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the Binomial distribution PMF in the document.</strong><br/>Under the \"Binomial Distribution\" section, the document provides: \"<span style='color:var(--orange);font-weight:bold;'>PCx=x) = (2) ptqn-z</span>\". This is the textual representation of \\( P(X=x) = \\binom{n}{x} p^x q^{n-x} \\). The terms are defined as: \"<span style='color:var(--orange);font-weight:bold;'>n = no of thals. P= Success x= Variable q= failure</span>\".</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against this PMF.</strong><br/><ul><li>\\( P(X=x) = p^x (1-p)^{1-x} \\): This is the PMF for the <span style='color:var(--orange);font-weight:bold;'>Bernoulli distribution</span>.</li><li>\\( P(X=x) = \\binom{n}{x} p^x q^{n-x} \\): This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the PMF provided in the document for the Binomial distribution.</li><li>\\( f(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{1}{2}x^2} \\): This is the PDF for the <span style='color:var(--orange);font-weight:bold;'>Standard Normal distribution</span>.</li><li>\\( P(X=x) = \\frac{\\lambda^x e^{-\\lambda}}{x!} \\): This is the PMF for the <span style='color:var(--orange);font-weight:bold;'>Poisson distribution</span>.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The binomial PMF accounts for the number of ways to achieve 'x' successes in 'n' trials (\\( \\binom{n}{x} \\)), multiplied by the probability of those 'x' successes (\\( p^x \\)) and the probability of the remaining 'n-x' failures (\\( q^{n-x} \\)). This logical structure is consistent with the definition of binomial experiments.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The probability mass function (PMF) for a Binomial distribution is \\( P(X=x) = \\binom{n}{x} p^x q^{n-x} \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( P(X=x) = \\binom{n}{x} p^x q^{n-x} \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "In a Binomial distribution, what are the formulas for its expectation, E(X), and variance, Var(X)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( E(X) = p \\) and \\( Var(X) = p(1-p) \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( E(X) = np \\) and \\( Var(X) = npq \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( E(X) = \\lambda \\) and \\( Var(X) = \\lambda \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( E(X) = \\mu \\) and \\( Var(X) = \\sigma^2 \\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Binomial Distribution",
+      "Expectation",
+      "Variance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Expectation and Variance of a Binomial Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Expectation (E(X) or Mean):</em> The average number of successes in 'n' trials for a Binomial distribution.<br/><em>Variance (Var(X)):</em> A measure of the spread of the number of successes around the mean for a Binomial distribution.<br/><em>Binomial Distribution:</em> Characterized by 'n' (number of trials) and 'p' (probability of success), with 'q' (probability of failure) = 1-p.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the formulas for the expectation and variance of a Binomial distribution.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the expectation and variance formulas for the Binomial distribution.</strong><br/>Under the \"Binomial Distribution\" section, the document states: \"<span style='color:var(--orange);font-weight:bold;'>EG)=np</span>\" for expectation. On the subsequent page, it states: \"<span style='color:var(--orange);font-weight:bold;'>Var(x) =npq</span>\" for variance.</p><p style='margin-bottom:10px;'><strong>Step 2: Compare the given options with these formulas.</strong><br/><ul><li>\\( E(X) = p \\) and \\( Var(X) = p(1-p) \\): These are for a <span style='color:var(--orange);font-weight:bold;'>Bernoulli distribution</span>.</li><li>\\( E(X) = np \\) and \\( Var(X) = npq \\): This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the formulas provided in the document for the Binomial distribution.</li><li>\\( E(X) = \\lambda \\) and \\( Var(X) = \\lambda \\): These are for a <span style='color:var(--orange);font-weight:bold;'>Poisson distribution</span>.</li><li>\\( E(X) = \\mu \\) and \\( Var(X) = \\sigma^2 \\): These are general notations for mean and variance, typically associated with continuous distributions like the <span style='color:var(--orange);font-weight:bold;'>Normal distribution</span>.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The expectation (mean) of a binomial distribution makes intuitive sense: if you have 'n' trials and each has a 'p' chance of success, on average you expect 'np' successes. The variance formula reflects the spread around this expected value, incorporating both success and failure probabilities.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In a Binomial distribution, the expectation is \\( E(X) = np \\) and the variance is \\( Var(X) = npq \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( E(X) = np \\) and \\( Var(X) = npq \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "A Poisson distribution is characterized by events occurring over a time interval and what other key property?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A fixed number of trials"
+        },
+        {
+          "type": "string",
+          "content": "A known constant rate of occurrence"
+        },
+        {
+          "type": "string",
+          "content": "Exactly two outcomes per trial"
+        },
+        {
+          "type": "string",
+          "content": "Data falling about in decimals"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Poisson Distribution",
+      "Discrete Probability",
+      "Distribution Characteristics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of a Poisson Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Poisson Distribution:</em> A discrete probability distribution that models the number of events occurring in a fixed interval of time or space, given a known constant average rate of occurrence and that these events happen independently of the time since the last event.<br/><em>Key Properties:</em> Events occur over a time interval and at a known constant rate (\\( \\lambda \\)).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a key characteristic of a Poisson distribution, in addition to events occurring over a time interval.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the description of the Poisson distribution in the document.</strong><br/>Under the heading \"iii Persson Distribution\" (likely Poisson), the document states: \"<span style='color:var(--orange);font-weight:bold;'>There is a time Intenial and a known Constant rate (9)</span>\". (Note: '(9)' is likely a typo for 'lambda' or 'rate').</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against this characteristic.</strong><br/><ul><li>A fixed number of trials: This is a characteristic of the <span style='color:var(--orange);font-weight:bold;'>Binomial distribution</span>, not Poisson.</li><li>A known constant rate of occurrence: This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the description for the Poisson distribution.</li><li>Exactly two outcomes per trial: This is a characteristic of <span style='color:var(--orange);font-weight:bold;'>Bernoulli/Binomial trials</span>.</li><li>Data falling about in decimals: This describes a <span style='color:var(--orange);font-weight:bold;'>Continuous probability distribution</span>, whereas Poisson is discrete.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The Poisson distribution is typically used to model rare events occurring over a continuous period or space. For example, the number of calls received by a call center per hour, or the number of defects per square meter of fabric. The constant average rate is essential for its application.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Poisson distribution is characterized by events occurring over a time interval and a known constant rate of occurrence.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A known constant rate of occurrence"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What are the specific parameters (mean and variance) for a Standard Normal Distribution?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Mean \\( \\mu = 0 \\) and Variance \\( \\sigma^2 = 1 \\)"
+        },
+        {
+          "type": "string",
+          "content": "Mean \\( \\mu = p \\) and Variance \\( \\sigma^2 = p(1-p) \\)"
+        },
+        {
+          "type": "string",
+          "content": "Mean \\( \\mu = np \\) and Variance \\( \\sigma^2 = npq \\)"
+        },
+        {
+          "type": "string",
+          "content": "Mean \\( \\mu = \\lambda \\) and Variance \\( \\sigma^2 = \\lambda \\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Standard Normal Distribution",
+      "Continuous Probability",
+      "Distribution Parameters"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Parameters of a Standard Normal Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Normal Distribution:</em> A continuous probability distribution characterized by its mean \\( \\mu \\) and variance \\( \\sigma^2 \\).<br/><em>Standard Normal Distribution:</em> A special case of the normal distribution where the mean is 0 and the variance (and thus standard deviation) is 1. It is denoted as \\( Z \\sim N(0,1) \\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific mean and variance values that define a Standard Normal Distribution.</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the definition of Standard Normal Distribution in the document.</strong><br/>Under the heading \"Standard Normal Disonbution\", the document states: \"<span style='color:var(--orange);font-weight:bold;'>This is a distnbution where the mean is O (U20) and Variance is One (62) =6</span>\". (Note: 'U20' seems to refer to \\( \\mu=0 \\) and '62=6' to \\( \\sigma^2=1 \\), as '6' is probably a poorly written '1'). The notation \\( Z \\sim N(0,1) \\) also strongly implies \\( \\mu=0, \\sigma^2=1 \\).</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against these parameters.</strong><br/><ul><li>Mean \\( \\mu = 0 \\) and Variance \\( \\sigma^2 = 1 \\): This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the definition of the Standard Normal Distribution.</li><li>Mean \\( \\mu = p \\) and Variance \\( \\sigma^2 = p(1-p) \\): These are parameters for a <span style='color:var(--orange);font-weight:bold;'>Bernoulli distribution</span>.</li><li>Mean \\( \\mu = np \\) and Variance \\( \\sigma^2 = npq \\): These are parameters for a <span style='color:var(--orange);font-weight:bold;'>Binomial distribution</span>.</li><li>Mean \\( \\mu = \\lambda \\) and Variance \\( \\sigma^2 = \\lambda \\): These are parameters for a <span style='color:var(--orange);font-weight:bold;'>Poisson distribution</span>.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The standard normal distribution is crucial because any normal distribution can be transformed into a standard normal distribution using the Z-score formula \\( Z = \\frac{X - \\mu}{\\sigma} \\). This standardization allows for the use of a single table (the Z-table) to find probabilities for any normal distribution.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The specific parameters for a Standard Normal Distribution are Mean \\( \\mu = 0 \\) and Variance \\( \\sigma^2 = 1 \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mean \\( \\mu = 0 \\) and Variance \\( \\sigma^2 = 1 \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What is the general form of the Probability Density Function (PDF) for a Normal Distribution with mean \\( \\mu \\) and variance \\( \\sigma^2 \\)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( f(x) = \\frac{1}{\\sigma \\sqrt{2\\pi}} e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( f(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{1}{2}x^2} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = \\binom{n}{x} p^x (1-p)^{n-x} \\)"
+        },
+        {
+          "type": "string",
+          "content": "\\( P(X=x) = \\frac{\\lambda^x e^{-\\lambda}}{x!} \\)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Normal Distribution",
+      "Probability Density Function",
+      "Continuous Probability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Probability Density Function of a Normal Distribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Normal Distribution:</em> A continuous probability distribution that is symmetric about its mean, forming a bell-shaped curve. It is defined by two parameters: its mean (\\( \\mu \\)) and its variance (\\( \\sigma^2 \\)).<br/><em>Probability Density Function (PDF):</em> A function whose graph provides the shape of the distribution and whose integral over an interval gives the probability that a continuous random variable falls within that interval.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the general formula of the Probability Density Function (PDF) for a Normal Distribution with mean \\( \\mu \\) and variance \\( \\sigma^2 \\).</div><p style='margin-bottom:10px;'><strong>Step 1: Locate the PDF for the Normal Distribution in the document.</strong><br/>Under the heading \"Normal Distibution / Gaussian Distribution\", the document gives the formula: \"<span style='color:var(--orange);font-weight:bold;'>fox) = 1 / sqrt(2762) * e^(-1/2((x-mu)/sigma)^2)</span>\". (Note: 'sqrt(2762)' is intended to be \\( \\sigma \\sqrt{2\\pi} \\), and 'x-mu' and 'sigma' are correctly identified). The parameters are defined as \\( \\mu \\) (population mean) and \\( \\sigma^2 \\) (variance).</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options against this formula.</strong><br/><ul><li>\\( f(x) = \\frac{1}{\\sigma \\sqrt{2\\pi}} e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2} \\): This <span style='color:var(--orange);font-weight:bold;'>directly matches</span> the PDF for a general Normal Distribution.</li><li>\\( f(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{1}{2}x^2} \\): This is the PDF for the <span style='color:var(--orange);font-weight:bold;'>Standard Normal Distribution</span> (where \\( \\mu=0 \\) and \\( \\sigma=1 \\)).</li><li>\\( P(X=x) = \\binom{n}{x} p^x (1-p)^{n-x} \\): This is the PMF for a <span style='color:var(--orange);font-weight:bold;'>Binomial distribution</span>.</li><li>\\( P(X=x) = \\frac{\\lambda^x e^{-\\lambda}}{x!} \\): This is the PMF for a <span style='color:var(--orange);font-weight:bold;'>Poisson distribution</span>.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><strong>Verification:</strong> The PDF of a normal distribution is characterized by its distinct bell shape. The mean (\\( \\mu \\)) determines the center of the peak, and the standard deviation (\\( \\sigma \\)) determines its spread and height. Understanding this function is fundamental to working with normally distributed data.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The general form of the Probability Density Function (PDF) for a Normal Distribution is \\( f(x) = \\frac{1}{\\sigma \\sqrt{2\\pi}} e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2} \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( f(x) = \\frac{1}{\\sigma \\sqrt{2\\pi}} e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2} \\)"
+    }
+  }
+]
