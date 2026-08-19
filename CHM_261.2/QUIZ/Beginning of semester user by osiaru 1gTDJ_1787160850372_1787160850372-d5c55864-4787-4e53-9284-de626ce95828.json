@@ -1,0 +1,940 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Organic chemistry II",
+    "code": "CHM 261.2",
+    "session": "Beginning of semester user by osiaru 1gTDJ",
+    "kind": "mixed",
+    "topics": [
+      [
+        "Functional Groups",
+        "Organic Compounds",
+        "Introduction to Difunctional Groups"
+      ],
+      [
+        "Amino Acids",
+        "Classification of Amino Acids",
+        "Alpha Amino Acids"
+      ],
+      [
+        "Amino Acids",
+        "Biochemical Reactions",
+        "Transamination"
+      ],
+      [
+        "Amino Acids",
+        "Nutrition",
+        "Essential Amino Acids"
+      ],
+      [
+        "Amino Acids",
+        "Amino Acid Reactions",
+        "Acid-Base Reactions"
+      ],
+      [
+        "Amino Acids",
+        "Amino Acid Reactions",
+        "Diazotization"
+      ],
+      [
+        "Amino Acids",
+        "Amino Acid Reactions",
+        "Acylation"
+      ],
+      [
+        "Amino Acids",
+        "Amino Acid Reactions",
+        "Acid-Base Reactions"
+      ],
+      [
+        "Amino Acids",
+        "Amino Acid Reactions",
+        "Esterification"
+      ],
+      [
+        "Peptides",
+        "Amino Acids",
+        "Peptide Definition"
+      ],
+      [
+        "Peptides",
+        "Peptide Bond",
+        "Amide Linkage"
+      ],
+      [
+        "Hydroxy Acids",
+        "Classification",
+        "Alpha Hydroxy Acids"
+      ],
+      [
+        "Hydroxy Acids",
+        "Synthesis",
+        "Hydrolysis of Alpha-Halo Carboxylic Acids"
+      ],
+      [
+        "Hydroxy Acids",
+        "Reactions",
+        "Oxidative Decarboxylation"
+      ],
+      [
+        "Dicarboxylic Acids",
+        "Examples",
+        "Carboxylic Acids"
+      ],
+      [
+        "Diols",
+        "Classification",
+        "Vicinal Diols"
+      ],
+      [
+        "Diols",
+        "Synthesis",
+        "Alkene Oxidation"
+      ],
+      [
+        "Diols",
+        "Synthesis",
+        "Pinacol Reaction"
+      ],
+      [
+        "Diols",
+        "Reactions",
+        "Glycol Cleavage",
+        "Periodic Acid"
+      ],
+      [
+        "Amino Acids",
+        "Classification",
+        "Alpha Amino Acid Types"
+      ]
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer All Questions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following describes compounds containing two functional groups?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Monofunctional groups"
+        },
+        {
+          "type": "string",
+          "content": "Di-functional groups"
+        },
+        {
+          "type": "string",
+          "content": "Polyfunctional groups"
+        },
+        {
+          "type": "string",
+          "content": "Heterofunctional groups"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Functional Groups",
+      "Organic Compounds",
+      "Introduction to Difunctional Groups"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Functional Group Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Functional Group:</em> An atom or group of atoms responsible for the characteristic chemical reactions of a particular organic compound. <br/><em>Di-functional groups:</em> Organic compounds possessing exactly two distinct functional groups.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term used to describe organic compounds with two functional groups.</div><strong>Step 1: Recall the definition from the document.</strong>The document introduces the chapter as \"Di-functional groups\" and defines them as \"Organic compounds with two functional groups.\"<strong>Step 2: Evaluate the given options against this definition.</strong><ul><li>Monofunctional groups: This term would describe compounds with one functional group, not two.</li><li><span style='color:var(--orange);font-weight:bold;'>Di-functional groups:</span> This term directly matches the definition provided in the document for compounds having two functional groups.</li><li>Polyfunctional groups: This term describes compounds with multiple functional groups, typically more than two.</li><li>Heterofunctional groups: While often true that the two functional groups are different (hetero), this term is not the primary classification for *number* of functional groups.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>This question tests basic terminology used to classify organic compounds based on the number of functional groups present. Understanding these prefixes (mono-, di-, poly-) is fundamental in organic chemistry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Compounds containing two functional groups are described as Di-functional groups.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Di-functional groups"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which position on the carbon chain defines an Alpha (α) amino acid, according to the document's classification of amino acids?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "C2"
+        },
+        {
+          "type": "string",
+          "content": "C3"
+        },
+        {
+          "type": "string",
+          "content": "C4"
+        },
+        {
+          "type": "string",
+          "content": "C5"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Classification of Amino Acids",
+      "Alpha Amino Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amino Acid Classification by Amine Group Position</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Alpha (α) Amino Acid:</em> An amino acid where the amino group is attached to the carbon atom immediately adjacent to the carboxyl group (the α-carbon).<br/><em>Beta (β) Amino Acid:</em> An amino acid where the amino group is attached to the second carbon atom away from the carboxyl group.<br/><em>Gamma (γ) Amino Acid:</em> An amino acid where the amino group is attached to the third carbon atom away from the carboxyl group.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the carbon position that corresponds to an Alpha (α) amino acid according to the document.</div><strong>Step 1: Locate the classification of amino acids in the document.</strong>The document lists \"Types of Amino Acids\" and explicitly states:<ul><li>C₂ - Alpha (α) Amino Acid</li><li>C₃ - Beta (β) Amino Acid</li><li>C₄ - Gamma (γ) Amino Acid</li></ul><strong>Step 2: Identify the carbon position for Alpha (α) amino acids.</strong>Based on the direct statement in the document, <span style='color:var(--orange);font-weight:bold;'>Alpha (α) amino acids are associated with the C₂ position</span>. This refers to the carbon alpha to the carboxyl group, conventionally numbered as C2 if C1 is the carboxyl carbon.<strong>Step 3: Evaluate the options.</strong><ul><li><span style='color:var(--orange);font-weight:bold;'>C2:</span> This is explicitly stated in the document as corresponding to Alpha (α) amino acids.</li><li>C3: This corresponds to Beta (β) amino acids.</li><li>C4: This corresponds to Gamma (γ) amino acids.</li><li>C5: This position is not listed in the document's classification for Alpha, Beta, or Gamma amino acids.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The numbering (C2, C3, C4) in the document refers to the position of the amino group on the carbon chain, where C1 is typically the carbonyl carbon of the carboxylic acid group. Thus, C2 is the α-carbon, C3 is the β-carbon, and C4 is the γ-carbon relative to the carboxyl group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the document, an Alpha (α) amino acid is defined by the amino group being at the C2 position.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C2"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The process described as \"the transfer of amino groups\" is known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Esterification"
+        },
+        {
+          "type": "string",
+          "content": "Decarboxylation"
+        },
+        {
+          "type": "string",
+          "content": "Transamination"
+        },
+        {
+          "type": "string",
+          "content": "Hydrolysis"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Biochemical Reactions",
+      "Transamination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Transamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Amino Group:</em> A functional group consisting of a nitrogen atom bonded to two hydrogen atoms (\\(-\\text{NH}_2\\)).<br/><em>Transamination:</em> A biochemical reaction that involves the transfer of an amino group from an amino acid to a keto acid.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the process defined as \"the transfer of amino groups.\"</div><strong>Step 1: Refer to the definitions provided in the document.</strong>The document explicitly states: \"<span style='color:var(--orange);font-weight:bold;'>Transamination is the transfer of amino acids</span>.\" While it says \"amino acids\" here, the context and common biochemical understanding refer to the transfer of the *amino group* within amino acid metabolism, often to a keto acid. The prompt's phrasing \"transfer of amino groups\" is a more precise chemical description of transamination.<strong>Step 2: Evaluate the options.</strong><ul><li>Esterification: This is the reaction between an acid and an alcohol to form an ester, involving the carboxyl group, not amino group transfer.</li><li>Decarboxylation: This is the removal of a carboxyl group (\\(-\\text{COOH}\\)) as carbon dioxide (\\(\\text{CO}_2\\)).</li><li><span style='color:var(--orange);font-weight:bold;'>Transamination:</span> This term directly matches the definition provided for the transfer of amino groups.</li><li>Hydrolysis: This is a chemical reaction in which water is used to break down a compound.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Transamination is a crucial process in the body for the synthesis of non-essential amino acids, as mentioned in the document stating \"some canto be synthesized while other canoo [can be synthesized through transamination]\".</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The process described as \"the transfer of amino groups\" is known as Transamination.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transamination"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Amino acids that the body cannot synthesize and must be obtained from the diet are referred to as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Non-essential amino acids"
+        },
+        {
+          "type": "string",
+          "content": "Conditionally essential amino acids"
+        },
+        {
+          "type": "string",
+          "content": "Essential amino acids"
+        },
+        {
+          "type": "string",
+          "content": "Alpha amino acids"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Nutrition",
+      "Essential Amino Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Defining Essential Amino Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Essential Amino Acids:</em> Amino acids that cannot be synthesized by the human body at a sufficient rate to meet metabolic demands and therefore must be supplied through the diet.<br/><em>Non-essential Amino Acids:</em> Amino acids that can be synthesized by the human body from other compounds.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the classification of amino acids that the body cannot synthesize.</div><strong>Step 1: Locate the relevant definition in the document.</strong>The document explicitly states: \"<span style='color:var(--orange);font-weight:bold;'>The amino acids the body cannot synthesized are referred to as Essential AMINO ACIDS</span>.\" This directly answers the question.<strong>Step 2: Evaluate the options based on the definition.</strong><ul><li>Non-essential amino acids: These are amino acids that the body *can* synthesize.</li><li>Conditionally essential amino acids: These are amino acids that are normally non-essential but become essential under certain physiological conditions. This specific term is not in the document.</li><li><span style='color:var(--orange);font-weight:bold;'>Essential amino acids:</span> This term perfectly matches the description in the document.</li><li>Alpha amino acids: This is a structural classification of amino acids (where the amino group is on the alpha-carbon), not a classification based on dietary requirement.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>It's important to distinguish between the structural classification (alpha, beta, gamma) and the nutritional classification (essential, non-essential) of amino acids. The document clearly defines the latter.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Amino acids that the body cannot synthesize are referred to as Essential amino acids.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Essential amino acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "What is the expected product when an amino acid, \\( \\text{RCHCOOH} \\), reacts with hydrochloric acid, \\( \\text{HCl} \\)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOONa} + \\text{H}_2\\text{O} \\) "
+        },
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOOH(OH)} + \\text{N}_2 + \\text{H}_2\\text{O} \\) "
+        },
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\) "
+        },
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOOCH}_3 + \\text{H}_2\\text{O} \\) "
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Amino Acid Reactions",
+      "Acid-Base Reactions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height=1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reaction of Amino Acids with Hydrochloric Acid</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Amino Acid:</em> A molecule containing both an amino group (\\(-\\text{NH}_2\\)) and a carboxyl group (\\(-\\text{COOH}\\)).<br/><em>Hydrochloric Acid (\\(\\text{HCl}\\)):</em> A strong mineral acid. In this context, it will protonate the basic amino group of the amino acid.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the product of an amino acid reacting with hydrochloric acid.</div><strong>Step 1: Identify the reactive functional group.</strong>The document lists \"Reactions of Amino Acids\" and provides the reaction: \"\\( \\text{RCHCOOH} + \\text{HCl} \\rightarrow \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\).\" This shows that the amino group (\\(-\\text{NH}_2\\)) acts as a base and gets protonated by the acid (\\(\\text{HCl}\\)) to form an ammonium salt.<strong>Step 2: Analyze the reaction mechanism.</strong>The amine group (\\(-\\text{NH}_2\\)) is basic and will react with the acid (\\(\\text{HCl}\\)) to form an ammonium ion (\\(-\\text{NH}_3^+\\)). The chloride ion (\\(\\text{Cl}^-\\\\)) will act as the counterion, forming an ammonium salt. The carboxylic acid group typically remains unreacted in this context unless the solution is highly acidic.<strong>Step 3: Evaluate the options.</strong><ul><li>\\( \\text{RCHCOONa} + \\text{H}_2\\text{O} \\): This would be the product if the amino acid reacted with a strong base like \\( \\text{NaOH} \\), not \\( \\text{HCl} \\).</li><li>\\( \\text{RCHCOOH(OH)} + \\text{N}_2 + \\text{H}_2\\text{O} \\): This is the product of an amino acid reacting with nitrous acid (\\(\\text{HNO}_2\\)), not \\( \\text{HCl} \\).</li><li><span style='color:var(--orange);font-weight:bold;'>\\( \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\):</span> This option correctly represents the protonation of the amino group by \\( \\text{HCl} \\), forming an ammonium salt, as explicitly shown in the document.</li><li>\\( \\text{RCHCOOCH}_3 + \\text{H}_2\\text{O} \\): This is the product of esterification, typically with an alcohol (\\(\\text{CH}_3\\text{OH}\\)) in the presence of an acid catalyst, not just \\( \\text{HCl} \\).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The document emphasizes that in these reactions with \\( \\text{HCl} \\), \\( \\text{HNO}_2 \\), and \\( \\text{CH}_3\\text{COCl} \\), it is primarily the functional group (amino group) that reacts. For \\( \\text{HCl} \\), this means protonation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When an amino acid, \\( \\text{RCHCOOH} \\), reacts with hydrochloric acid, \\( \\text{HCl} \\), the expected product is \\( \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\) "
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The reaction of an amino acid, \\( \\text{RCHCOOH} \\), with \\( \\text{HNO}_2 \\) (nitrous acid) yields which of the following products?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOONa} + \\text{H}_2\\text{O} \\) "
+        },
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOOH} \\cdot \\text{OH} + \\text{N}_2 + \\text{H}_2\\text{O} \\) "
+        },
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\) "
+        },
+        {
+          "type": "string",
+          "content": "\\( \\text{RCHCOOCH}_3 + \\text{H}_2\\text{O} \\) "
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Amino Acid Reactions",
+      "Diazotization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reaction of Amino Acids with Nitrous Acid</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Nitrous Acid (\\(\\text{HNO}_2\\)):</em> A reagent used to convert primary amines into diazonium salts, which then typically decompose to form alcohols with the evolution of nitrogen gas.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the products when an amino acid reacts with nitrous acid.</div><strong>Step 1: Locate the specific reaction in the document.</strong>The document provides the reaction for nitrous acid: \"\\( \\text{RCHCOOH} + \\text{HNO}_2 \\rightarrow \\text{RCHCOOH} \\cdot \\text{OH} + \\text{N}_2 + \\text{H}_2\\text{O} \\).\" This equation directly shows the products formed.<strong>Step 2: Interpret the products.</strong>The amino group (\\(-\\text{NH}_2\\)) is replaced by a hydroxyl group (\\(-\\text{OH}\\)), and nitrogen gas (\\(\\text{N}_2\\)) and water (\\(\\text{H}_2\\text{O}\\)) are released. The carboxylic acid group remains unchanged.<strong>Step 3: Evaluate the options.</strong><ul><li>\\( \\text{RCHCOONa} + \\text{H}_2\\text{O} \\): This is a salt formation with a strong base like \\( \\text{NaOH} \\).</li><li><span style='color:var(--orange);font-weight:bold;'>\\( \\text{RCHCOOH} \\cdot \\text{OH} + \\text{N}_2 + \\text{H}_2\\text{O} \\):</span> This option perfectly matches the reaction products explicitly stated in the document. The \\( \\text{RCHCOOH} \\cdot \\text{OH} \\) indicates the formation of a hydroxy carboxylic acid from the amino acid.</li><li>\\( \\text{RCHCOOH} \\cdot \\text{NH}_3\\text{Cl} \\): This is the product of reacting an amino acid with \\( \\text{HCl} \\).</li><li>\\( \\text{RCHCOOCH}_3 + \\text{H}_2\\text{O} \\): This is the product of esterification with methanol.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>This reaction is a classic method for converting primary aliphatic amines (like the amino group in amino acids) into alcohols, accompanied by the effervescence of nitrogen gas. This is often used for quantitative analysis of amino acids.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reaction of an amino acid, \\( \\text{RCHCOOH} \\), with \\( \\text{HNO}_2 \\) yields \\( \\text{RCHCOOH} \\cdot \\text{OH} + \\text{N}_2 + \\text{H}_2\\text{O} \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( \\text{RCHCOOH} \\cdot \\text{OH} + \\text{N}_2 + \\text{H}_2\\text{O} \\) "
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Which functional group of an amino acid is primarily involved in the reaction with \\( \\text{CH}_3\\text{COCl} \\) (acetyl chloride)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Carboxyl group"
+        },
+        {
+          "type": "string",
+          "content": "R-group (side chain)"
+        },
+        {
+          "type": "string",
+          "content": "Amino group"
+        },
+        {
+          "type": "string",
+          "content": "Alpha carbon"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Amino Acid Reactions",
+      "Acylation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Acylation of Amino Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Acetyl Chloride (\\(\\text{CH}_3\\text{COCl}\\)):</em> An acylating agent that reacts with nucleophilic functional groups like amines and alcohols to form amides and esters, respectively.<br/><em>Amino Group (\\(-\\text{NH}_2\\)):</em> A basic and nucleophilic functional group in amino acids.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which functional group of an amino acid reacts with acetyl chloride.</div><strong>Step 1: Refer to the document's general statement about amino acid reactions.</strong>The document includes a \"N/B\" (Note Bene) stating: \"<span style='color:var(--orange);font-weight:bold;'>In all reactions of only the functional group (Amino group) that reacts and changes to ammonia (\\(\\text{NH}_3\\))</span>.\" Although the 'changes to ammonia' part is an oversimplification for all reactions (e.g., in acylation it forms an amide), the key takeaway for this specific question is that the *amino group* is the reactive site for the mentioned reactions, which include reaction with \\( \\text{CH}_3\\text{COCl} \\). The reaction shown is \\( \\text{RCHCOOH} + \\text{CH}_3\\text{COCl} \\rightarrow \\text{RCHCOOH} \\cdot \\text{NH}(\\text{COCH}_3) + \\text{HCl} \\), explicitly showing the amino group being modified.<strong>Step 2: Evaluate the options.</strong><ul><li>Carboxyl group: This group is acidic and would react with bases or alcohols, not typically with acetyl chloride in this context.</li><li>R-group (side chain): While some R-groups can have reactive functionalities, the primary reaction of an amino acid with acylating agents targets the main amino group.</li><li><span style='color:var(--orange);font-weight:bold;'>Amino group:</span> As a nucleophilic primary amine, it readily reacts with acyl halides like acetyl chloride to form an amide, an acylation reaction. This is consistent with the document's emphasis.</li><li>Alpha carbon: The alpha carbon itself is not a functional group but a position.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The reaction of acetyl chloride with the amino group is an acylation, specifically leading to the formation of an amide. This is a common method for protecting the amino group or introducing an acetyl functionality.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The amino group of an amino acid is primarily involved in the reaction with \\( \\text{CH}_3\\text{COCl} \\) (acetyl chloride).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amino group"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What type of product is formed when an amino acid is reacted with \\( \\text{NaOH} \\) (sodium hydroxide)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ester"
+        },
+        {
+          "type": "string",
+          "content": "Ammonium salt"
+        },
+        {
+          "type": "string",
+          "content": "Sodium carboxylate salt"
+        },
+        {
+          "type": "string",
+          "content": "Amide"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Amino Acid Reactions",
+      "Acid-Base Reactions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reaction of Amino Acids with Sodium Hydroxide</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Sodium Hydroxide (\\(\\text{NaOH}\\)):</em> A strong base.<br/><em>Carboxyl Group (\\(-\\text{COOH}\\)):</em> An acidic functional group present in amino acids.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the type of product formed when an amino acid reacts with sodium hydroxide.</div><strong>Step 1: Identify the reactive functional group with a base.</strong>Amino acids have both an amino group (basic) and a carboxyl group (acidic). When reacting with a strong base like \\( \\text{NaOH} \\), the acidic carboxyl group will react. The document provides the reaction: \"\\( \\text{RCHCOOH} + \\text{NaOH} \\rightarrow \\text{RCHCOONa} + \\text{H}_2\\text{O} \\).\"<strong>Step 2: Interpret the product.</strong>The product \\( \\text{RCHCOONa} \\) is the sodium salt of the carboxylic acid group. This is a sodium carboxylate salt.<strong>Step 3: Evaluate the options.</strong><ul><li>Ester: Formed from the reaction of a carboxylic acid with an alcohol.</li><li>Ammonium salt: Formed from the reaction of the amino group with an acid (e.g., \\( \\text{HCl} \\)).</li><li><span style='color:var(--orange);font-weight:bold;'>Sodium carboxylate salt:</span> This accurately describes \\( \\text{RCHCOONa} \\), formed by the neutralization of the carboxylic acid group with \\( \\text{NaOH} \\).</li><li>Amide: Formed by the reaction of an amine with an acylating agent (like acetyl chloride) or by peptide bond formation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>This reaction demonstrates the acidic nature of the carboxyl group in amino acids. In zwitterionic form, amino acids have both protonated amino groups and deprotonated carboxyl groups, but with a strong external base, the carboxyl proton is removed to form the salt.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When an amino acid is reacted with \\( \\text{NaOH} \\), a sodium carboxylate salt is formed.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sodium carboxylate salt"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The reaction of an amino acid with an alcohol in the presence of \\( \\text{HCl} \\) catalyst yields an ester. Which functional group of the amino acid is primarily involved in this reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Amino group"
+        },
+        {
+          "type": "string",
+          "content": "R-group (side chain)"
+        },
+        {
+          "type": "string",
+          "content": "Alpha carbon"
+        },
+        {
+          "type": "string",
+          "content": "Carboxyl group"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Amino Acid Reactions",
+      "Esterification"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Esterification of Amino Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Esterification:</em> A chemical reaction in which a carboxylic acid and an alcohol react to form an ester and water, typically catalyzed by an acid.<br/><em>Carboxyl Group (\\(-\\text{COOH}\\)):</em> The acidic functional group in amino acids that undergoes esterification.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which functional group of an amino acid reacts during esterification with an alcohol and \\( \\text{HCl} \\).</div><strong>Step 1: Recall the general mechanism of esterification.</strong>Esterification is the formation of an ester from a carboxylic acid and an alcohol. In an amino acid, the carboxylic acid functional group is the site for this reaction. The document states: \"<span style='color:var(--orange);font-weight:bold;'>When an amino acid reacts with an alcohol, it forms an ester</span>.\" It then provides the reaction: \"\\( \\text{RCHCOOH} + \\text{CH}_3\\text{OH} \\xrightarrow{\\text{HCl}} \\text{RCHCOOCH}_3 + \\text{H}_2\\text{O} \\).\" The formation of \\( \\text{RCHCOOCH}_3 \\) clearly shows the modification of the carboxyl group.<strong>Step 2: Evaluate the options.</strong><ul><li>Amino group: This group is basic and would react with acids, not directly with alcohols to form esters. It would be protonated by \\( \\text{HCl} \\) but not form the ester linkage.</li><li>R-group (side chain): While some R-groups may contain hydroxyls that could esterify, the primary site for esterification in the main amino acid structure is the alpha-carboxyl group.</li><li>Alpha carbon: This is a position, not a functional group that undergoes esterification directly.</li><li><span style='color:var(--orange);font-weight:bold;'>Carboxyl group:</span> This is the acidic group that reacts with alcohols to form esters, matching the product shown in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Esterification of amino acids is often used to protect the carboxyl group during peptide synthesis or to facilitate purification. The acidic catalyst \\( \\text{HCl} \\) activates the carboxylic acid for nucleophilic attack by the alcohol.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The carboxyl group of the amino acid is primarily involved in the esterification reaction with an alcohol in the presence of \\( \\text{HCl} \\) catalyst.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carboxyl group"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Peptides are defined in the document as the combination of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1 or 2 amino acids"
+        },
+        {
+          "type": "string",
+          "content": "3, 4, or 5 amino acids"
+        },
+        {
+          "type": "string",
+          "content": "More than 50 amino acids"
+        },
+        {
+          "type": "string",
+          "content": "Sugars and amino acids"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Peptides",
+      "Amino Acids",
+      "Peptide Definition"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2sense solid var(--strongColor);padding-bottom:6px;'>Definition of Peptides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Peptide:</em> A polymer of amino acids linked by amide bonds (peptide bonds).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of peptides according to the provided document, specifically regarding the number of amino acids.</div><strong>Step 1: Locate the definition of peptides in the document.</strong>The document explicitly states under the heading \"PEPTIDES\": \"<span style='color:var(--orange);font-weight:bold;'>Peptides are the combination of 3, 4 Or 5 amono acids</span>.\"<strong>Step 2: Evaluate the options against this definition.</strong><ul><li>1 or 2 amino acids: Dipeptides (2 amino acids) are peptides, but the document specifies 3, 4, or 5.</li><li><span style='color:var(--orange);font-weight:bold;'>3, 4, or 5 amino acids:</span> This option directly matches the definition provided in the document.</li><li>More than 50 amino acids: This typically refers to proteins, which are large polypeptides.</li><li>Sugars and amino acids: This would describe glycoproteins or other conjugates, not peptides themselves.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>While the general chemical definition of peptides includes chains of two or more amino acids, the document has provided a specific range (3-5) for its definition of peptides. It's crucial to adhere to the provided text.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Peptides are defined in the document as the combination of 3, 4, or 5 amino acids.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3, 4, or 5 amino acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The bond that links amino acids together in peptides is known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Glycosidic linkage"
+        },
+        {
+          "type": "string",
+          "content": "Ester bond"
+        },
+        {
+          "type": "string",
+          "content": "Amide linkage"
+        },
+        {
+          "type": "string",
+          "content": "Disulfide bond"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Peptides",
+      "Peptide Bond",
+      "Amide Linkage"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The Peptide Bond (Amide Linkage)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Peptide Bond:</em> A covalent chemical bond formed between two amino acid molecules, specifically between the carboxyl group of one amino acid and the amino group of another, with the release of a molecule of water.<br/><em>Amide Linkage:</em> The chemical nature of the peptide bond, a functional group where a carbonyl carbon atom is bonded to a nitrogen atom.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the bond linking amino acids in peptides.</div><strong>Step 1: Refer to the section on peptide bond formation in the document.</strong>The document illustrates the formation of a peptide from two amino acids, showing the structure of the resulting bond and labeling it as \"<span style='color:var(--orange);font-weight:bold;'>Amide Linkage</span>.\" The diagram shows the \\( \\text{-C(=O)-NH-} \\) structure characteristic of an amide.<strong>Step 2: Evaluate the options.</strong><ul><li>Glycosidic linkage: This is the bond that links monosaccharides in carbohydrates.</li><li>Ester bond: This bond links a carboxylic acid to an alcohol.</li><li><span style='color:var(--orange);font-weight:bold;'>Amide linkage:</span> This is the correct chemical classification for the bond that connects amino acids in peptides, as identified in the document's diagram.</li><li>Disulfide bond: This bond (\\(\\text{-S-S-}\\)) is formed between two cysteine residues and is important for protein tertiary structure, but it's not the primary backbone linkage.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The formation of an amide linkage is a condensation reaction where a molecule of water is removed. This bond is fundamental to the structure of all peptides and proteins.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The bond that links amino acids together in peptides is known as Amide linkage.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amide linkage"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "A Hydroxy acid with the hydroxyl group on the carbon atom adjacent to the carboxyl group is classified as a(n):",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Beta (β) hydroxy acid"
+        },
+        {
+          "type": "string",
+          "content": "Gamma (γ) hydroxy acid"
+        },
+        {
+          "type": "string",
+          "content": "Delta (δ) hydroxy acid"
+        },
+        {
+          "type": "string",
+          "content": "Alpha (α) hydroxy acid"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hydroxy Acids",
+      "Classification",
+      "Alpha Hydroxy Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of Hydroxy Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hydroxy Acid:</em> An organic compound containing both a hydroxyl (\\(-\\text{OH}\\)) group and a carboxyl (\\(-\\text{COOH}\\)) group.<br/><em>Alpha-carbon:</em> The carbon atom immediately adjacent to the carboxyl group.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the classification of a hydroxy acid where the hydroxyl group is on the carbon adjacent to the carboxyl group.</div><strong>Step 1: Locate the classification of hydroxy acids in the document.</strong>The document lists \"Types of Hydroxy acid\" and provides the following:<ul><li>1.) α - Alpha</li><li>2.) β - Beta</li><li>3.) γ - Gamma</li></ul>This implies that the alpha, beta, gamma nomenclature applies to hydroxy acids in a similar fashion as amino acids, referring to the position of the hydroxyl group relative to the carboxyl group. The alpha carbon is by definition the carbon atom adjacent to the carboxyl group.<strong>Step 2: Determine the correct classification.</strong>If the hydroxyl group is on the carbon atom <span style='color:var(--orange);font-weight:bold;'>adjacent to the carboxyl group</span>, this carbon is known as the alpha (α) carbon. Therefore, such an acid is an Alpha (α) hydroxy acid.<strong>Step 3: Evaluate the options.</strong><ul><li>Beta (β) hydroxy acid: The hydroxyl group would be on the second carbon from the carboxyl group.</li><li>Gamma (γ) hydroxy acid: The hydroxyl group would be on the third carbon from the carboxyl group.</li><li>Delta (δ) hydroxy acid: This classification is not listed in the document's types of hydroxy acids.</li><li><span style='color:var(--orange);font-weight:bold;'>Alpha (α) hydroxy acid:</span> This correctly identifies the acid where the hydroxyl group is on the carbon adjacent to the carboxyl group, as per the standard nomenclature implied by the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>This classification is parallel to that of amino acids and is based on the IUPAC numbering where the carboxyl carbon is C1, the alpha carbon is C2, the beta carbon is C3, and so on.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Hydroxy acid with the hydroxyl group on the carbon atom adjacent to the carboxyl group is classified as a(n) Alpha (α) hydroxy acid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alpha (α) hydroxy acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "One method for the synthesis of hydroxy acids involves the hydrolysis of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Esters"
+        },
+        {
+          "type": "string",
+          "content": "Alkenes"
+        },
+        {
+          "type": "string",
+          "content": "Alpha-halo carboxylic acids"
+        },
+        {
+          "type": "string",
+          "content": "Amides"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hydroxy Acids",
+      "Synthesis",
+      "Hydrolysis of Alpha-Halo Carboxylic Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Synthesis of Hydroxy Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hydrolysis:</em> A chemical reaction in which water is used to break down a compound.<br/><em>Alpha-halo carboxylic acid:</em> A carboxylic acid with a halogen atom (\\(\\text{Br}\\), \\( \\text{Cl}\\), etc.) attached to the alpha-carbon.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for one method of synthesizing hydroxy acids through hydrolysis.</div><strong>Step 1: Consult the \"Synthesis\" section for Hydroxy acids in the document.</strong>The document lists: \"<span style='color:var(--orange);font-weight:bold;'>*they can be synthesized by hydrolysis of alpha-halo carboxylic acid</span>.\" It provides an example: \"\\( \\text{CH}_3\\text{CHBrCOOH} \\rightarrow \\text{CH}_3\\text{CH(OH)COOH} \\).\" This is a direct substitution reaction where the halogen is replaced by a hydroxyl group via hydrolysis.<strong>Step 2: Evaluate the options.</strong><ul><li>Esters: Hydrolysis of esters yields carboxylic acids and alcohols, not directly hydroxy acids as a primary method.</li><li>Alkenes: Alkenes can be oxidized to form diols (as seen later in the document) or hydrated to form alcohols, but typically not hydrolyzed to directly form hydroxy acids in this context.</li><li><span style='color:var(--orange);font-weight:bold;'>Alpha-halo carboxylic acids:</span> This option directly matches one of the synthesis methods for hydroxy acids explicitly mentioned and exemplified in the document.</li><li>Amides: Hydrolysis of amides yields carboxylic acids and amines.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The hydrolysis of alpha-halo carboxylic acids typically proceeds via an \\( \\text{S}_{\\text{N}}2 \\) mechanism in the presence of water or a weak base, replacing the halogen with a hydroxyl group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One method for the synthesis of hydroxy acids involves the hydrolysis of Alpha-halo carboxylic acids.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alpha-halo carboxylic acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The reaction of an α-hydroxy acid, when oxidized with decarboxylation, results in the formation of a(n):",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ketone"
+        },
+        {
+          "type": "string",
+          "content": "Alcohol"
+        },
+        {
+          "type": "string",
+          "content": "Aldehyde"
+        },
+        {
+          "type": "string",
+          "content": "Ester"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hydroxy Acids",
+      "Reactions",
+      "Oxidative Decarboxylation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidative Decarboxylation of α-Hydroxy Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>α-Hydroxy Acid:</em> A carboxylic acid with a hydroxyl group on the carbon atom adjacent to the carboxyl group.<br/><em>Decarboxylation:</em> A chemical reaction that removes a carboxyl group and releases carbon dioxide (\\(\\text{CO}_2\\)).<br/><em>Oxidation:</em> A chemical process that typically involves the loss of electrons or an increase in oxidation state, often resulting in the formation of a carbonyl group.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the product of an α-hydroxy acid undergoing oxidation with decarboxylation.</div><strong>Step 1: Locate the reactions of hydroxy acids in the document.</strong>The document states under \"Reactions of hydroxy acid\": \"<span style='color:var(--orange);font-weight:bold;'>α-or 2-hydroxy acids are oxidized with decarboxylation to an aldehyde</span>.\" It also defines decarboxylation as \"the removal of \\( \\text{CO}_2 \\).\"<strong>Step 2: Determine the product type based on the document's statement.</strong>The statement directly indicates that α-hydroxy acids undergo oxidative decarboxylation to form an <span style='color:var(--orange);font-weight:bold;'>aldehyde</span>. For example, lactic acid (\\(\\text{CH}_3\\text{CH(OH)COOH}\\)) would yield acetaldehyde (\\(\\text{CH}_3\\text{CHO}\\)).<strong>Step 3: Evaluate the options.</strong><ul><li>Ketone: Ketones are formed if the α-carbon has two alkyl groups (secondary alcohol), or from β-hydroxy acids under specific conditions, but not typically from α-hydroxy acid oxidative decarboxylation to an aldehyde.</li><li>Alcohol: Alcohols are typically starting materials or reduction products, not the product of oxidation.</li><li><span style='color:var(--orange);font-weight:bold;'>Aldehyde:</span> This matches the explicit statement in the document.</li><li>Ester: Esters are formed from carboxylic acids and alcohols, not from oxidative decarboxylation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>This reaction is significant as it provides a pathway to aldehydes that are one carbon shorter than the original hydroxy acid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reaction of an α-hydroxy acid, when oxidized with decarboxylation, results in the formation of a(n) Aldehyde.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aldehyde"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which of the following is an example of a Dicarboxylic Acid mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Lactic acid"
+        },
+        {
+          "type": "string",
+          "content": "Acetic acid"
+        },
+        {
+          "type": "string",
+          "content": "Ethanedioic acid"
+        },
+        {
+          "type": "string",
+          "content": "Citric acid"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dicarboxylic Acids",
+      "Examples",
+      "Carboxylic Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Dicarboxylic Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Dicarboxylic Acid:</em> An organic compound that contains two carboxyl (\\(-\\text{COOH}\\)) functional groups.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a dicarboxylic acid example given in the document.</div><strong>Step 1: Locate the section on Dicarboxylic Acids in the document.</strong>The document provides a section titled \"Dicarboxylic Acid\" and lists examples with their structures:<ul><li>\\( \\text{HOOC-C-C-OH} \\) [sic] which represents \\( \\text{HOOC-COOH} \\)</li><li>\"Ethanedioic acid\"</li><li>\"Pentanedioic acid\" (\\( \\text{HOOC-(CH}_2\\text{)}_3\\text{COOH} \\))</li></ul>The first structure \\( \\text{HOOC-COOH} \\) is ethanedioic acid, commonly known as oxalic acid.<strong>Step 2: Evaluate the options against the listed examples.</strong><ul><li>Lactic acid: This is an α-hydroxy acid (\\(\\text{CH}_3\\text{CH(OH)COOH}\\)), not a dicarboxylic acid.</li><li>Acetic acid: This is a monocarboxylic acid (\\(\\text{CH}_3\\text{COOH}\\)), not a dicarboxylic acid.</li><li><span style='color:var(--orange);font-weight:bold;'>Ethanedioic acid:</span> This is explicitly mentioned as an example of a dicarboxylic acid in the document.</li><li>Citric acid: While citric acid is a tricarboxylic acid, it is not explicitly mentioned in the document as an example of a dicarboxylic acid.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Ethanedioic acid is the simplest dicarboxylic acid. It is also known by its common name, oxalic acid. Its structure (\\(\\text{HOOC-COOH}\\)) clearly shows two carboxyl groups.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ethanedioic acid is an example of a Dicarboxylic Acid mentioned in the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethanedioic acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Organic compounds with two hydroxyl groups, where the groups are on adjacent carbon atoms, are classified as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Geminal diols"
+        },
+        {
+          "type": "string",
+          "content": "Aldols"
+        },
+        {
+          "type": "string",
+          "content": "Vicinal diols"
+        },
+        {
+          "type": "string",
+          "content": "Glycols"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Diols",
+      "Classification",
+      "Vicinal Diols"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of Diols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Diols:</em> Organic compounds containing two hydroxyl (\\(-\\text{OH}\\)) functional groups.<br/><em>Adjacent Carbon Atoms:</em> Carbon atoms that are directly bonded to each other.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the classification of diols where the two hydroxyl groups are on adjacent carbon atoms.</div><strong>Step 1: Refer to the document's classification of diols.</strong>The document lists \"Position of OH group\" and defines:<ul><li>\"<span style='color:var(--orange);font-weight:bold;'>Vicinal diol comprises if two hydroxyl groups adjacent to each other</span>...\"</li><li>\"Geminal diol comprises of two hydroxyl groups attached to one carbon atom.\"</li></ul><strong>Step 2: Match the description to the correct classification.</strong>The description \"hydroxyl groups on adjacent carbon atoms\" perfectly matches the definition of <span style='color:var(--orange);font-weight:bold;'>Vicinal diols</span> given in the document.<strong>Step 3: Evaluate the options.</strong><ul><li>Geminal diols: These have two hydroxyl groups on the *same* carbon atom.</li><li>Aldols: These are β-hydroxy aldehydes or ketones, products of aldol reactions, not a classification of diols based on hydroxyl position.</li><li><span style='color:var(--orange);font-weight:bold;'>Vicinal diols:</span> This directly matches the definition provided in the document for hydroxyl groups on adjacent carbons.</li><li>Glycols: This is a common name for vicinal diols, but \"vicinal diols\" is the more precise and direct answer from the provided classification.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Vicinal diols are sometimes referred to as 1,2-diols, indicating the hydroxyl groups are on carbons 1 and 2 of the main chain. Ethylene glycol (1,2-ethanediol) is a common example.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Organic compounds with two hydroxyl groups on adjacent carbon atoms are classified as Vicinal diols.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vicinal diols"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The reaction of an alkene (C=C) with \\( \\text{KMnO}_4 \\) or \\( \\text{OsO}_4 \\) to form diols is described as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A reduction reaction"
+        },
+        {
+          "type": "string",
+          "content": "An elimination reaction"
+        },
+        {
+          "type": "string",
+          "content": "A stereospecific (trans) reaction"
+        },
+        {
+          "type": "string",
+          "content": "An aromatic substitution reaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Diols",
+      "Synthesis",
+      "Alkene Oxidation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidation of Alkenes to Diols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Alkene:</em> A hydrocarbon containing at least one carbon-carbon double bond (\\(\\text{C=C}\\)).<br/><em>\\( \\text{KMnO}_4 \\)/\\( \\text{OsO}_4 \\):</em> Oxidizing agents commonly used for dihydroxylation of alkenes, forming 1,2-diols (vicinal diols).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic description of the reaction between an alkene and \\( \\text{KMnO}_4 \\) or \\( \\text{OsO}_4 \\) to form diols.</div><strong>Step 1: Locate the synthesis of diols from alkenes in the document.</strong>The document shows a reaction for synthesizing diols: \"\\( \\text{C=C} \\xrightarrow{\\text{KMnO}_4 \\text{ or } \\text{OsO}_4} \\text{Diols} \\)\". It then explicitly states: \"<span style='color:var(--orange);font-weight:bold;'>This reaction is termed stereospecific (trans)</span>.\"<strong>Step 2: Evaluate the options based on the document's statement.</strong><ul><li>A reduction reaction: This reaction involves oxidation of the alkene, not reduction.</li><li>An elimination reaction: This reaction involves addition of hydroxyl groups, not removal of groups to form a double bond.</li><li><span style='color:var(--orange);font-weight:bold;'>A stereospecific (trans) reaction:</span> This statement directly comes from the document's description of this reaction, even though conventionally, dihydroxylation with \\( \\text{KMnO}_4 \\) or \\( \\text{OsO}_4 \\) typically results in *syn* addition. For the purpose of this question, we must strictly adhere to the provided text.</li><li>An aromatic substitution reaction: This reaction involves replacing a substituent on an aromatic ring.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>It is critical to answer based *only* on the provided document. The document explicitly labels this reaction as \"stereospecific (trans)\".</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reaction of an alkene with \\( \\text{KMnO}_4 \\) or \\( \\text{OsO}_4 \\) to form diols is described as a stereospecific (trans) reaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A stereospecific (trans) reaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "The Pinacol reaction involves the reduction of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Aldehydes to alcohols"
+        },
+        {
+          "type": "string",
+          "content": "Alkenes to diols"
+        },
+        {
+          "type": "string",
+          "content": "Dicarboxylic compounds to diols"
+        },
+        {
+          "type": "string",
+          "content": "Dicarbonyl compounds to diols"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Diols",
+      "Synthesis",
+      "Pinacol Reaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The Pinacol Reaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Pinacol Reaction:</em> A type of organic reaction in which a carbon-carbon bond is formed between the carbonyl carbons of two molecules of an aldehyde or ketone to yield a vicinal diol (1,2-diol). It involves reductive coupling.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what type of compounds are reduced in the Pinacol reaction according to the document.</div><strong>Step 1: Consult the description of the Pinacol reaction in the document.</strong>The document describes the Pinacol Reaction and states it is \"the reduction of dicarbylic compounds\" [sic]. However, the accompanying diagram clearly illustrates the conversion of a <span style='color:var(--orange);font-weight:bold;'>diketone (a dicarbonyl compound)</span> to a diol. For example, \\( \\text{CH}_3\\text{-C(=O)-C(=O)-CH}_3 \\) is reduced to \\( \\text{CH}_3\\text{-C(OH)-C(OH)-CH}_3 \\). The Pinacol reaction, by definition, involves dicarbonyl compounds. The term 'dicarbylic' is a likely typo for 'dicarbonyl'.<strong>Step 2: Evaluate the options based on the common understanding of Pinacol reaction and the visual example.</strong><ul><li>Aldehydes to alcohols: While aldehydes can be reduced to alcohols, the Pinacol reaction specifically involves two carbonyls coupling to form a diol.</li><li>Alkenes to diols: This is typically an oxidation reaction (dihydroxylation), not reduction.</li><li>Dicarboxylic compounds to diols: While dicarboxylic acids can be reduced to diols (e.g., by \\( \\text{LiAlH}_4 \\), as shown below the Pinacol reaction in the document), the specific Pinacol reaction, as exemplified, uses carbonyls.</li><li><span style='color:var(--orange);font-weight:bold;'>Dicarbonyl compounds to diols:</span> This accurately describes the starting material (diketone) and product (diol) shown in the Pinacol reaction example provided in the document, despite the potential misspelling in the explanatory text.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The Pinacol reaction is a reductive coupling of two carbonyl groups (from aldehydes or ketones) to form a vicinal diol. The term \"dicarbylic\" in the document is almost certainly a typographical error for \"dicarbonyl\", as the accompanying chemical structure clearly depicts a dicarbonyl compound undergoing reduction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Pinacol reaction involves the reduction of dicarbonyl compounds to diols.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dicarbonyl compounds to diols"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What are the primary organic products when 2,3-butanediol is treated with \\( \\text{HIO}_4 \\) (periodic acid)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Propanoic acid"
+        },
+        {
+          "type": "string",
+          "content": "Ethane"
+        },
+        {
+          "type": "string",
+          "content": "Acetaldehyde"
+        },
+        {
+          "type": "string",
+          "content": "Acetone"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Diols",
+      "Reactions",
+      "Glycol Cleavage",
+      "Periodic Acid"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Periodic Acid Cleavage of 1,2-Diols (Glycol Cleavage)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>1,2-Diol (Vicinal Diol):</em> An organic compound with two hydroxyl groups on adjacent carbon atoms.<br/><em>Periodic Acid (\\(\\text{HIO}_4\\)):</em> A strong oxidizing agent used for the selective oxidative cleavage of 1,2-diols, α-hydroxy ketones, α-hydroxy aldehydes, etc., into carbonyl compounds.<br/><em>2,3-Butanediol:</em> A 1,2-diol with the structure \\( \\text{CH}_3\\text{CH(OH)CH(OH)CH}_3 \\).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the organic products of the reaction between 2,3-butanediol and periodic acid.</div><strong>Step 1: Refer to the periodic acid cleavage reaction in the document.</strong>The document illustrates the reaction: \"\\( \\text{CH}_3\\text{CH(OH)-CH(OH)CH}_3 + \\text{HIO}_4 \\rightarrow 2\\text{CH}_3\\text{CHO} + \\text{H}_2\\text{O} + \\text{HIO}_3 \\)\". This equation shows 2,3-butanediol being cleaved.<strong>Step 2: Identify the organic product from the reaction.</strong>The product explicitly shown is \\( \\text{2CH}_3\\text{CHO} \\). The compound \\( \\text{CH}_3\\text{CHO} \\) is acetaldehyde. The document also gives the general rule: if the carbon bearing the hydroxyl group has one alkyl group and one hydrogen, it yields an aldehyde. In 2,3-butanediol, both carbons bearing the hydroxyl groups fit this description (\\(-\\text{CH(OH)CH}_3\\)).<strong>Step 3: Evaluate the options.</strong><ul><li>Propanoic acid: This would be \\( \\text{CH}_3\\text{CH}_2\\text{COOH} \\), not a product of this cleavage.</li><li>Ethane: This is a saturated hydrocarbon, not an oxidation product.</li><li><span style='color:var(--orange);font-weight:bold;'>Acetaldehyde:</span> This directly matches \\( \\text{CH}_3\\text{CHO} \\), which is the product shown in the document for the cleavage of 2,3-butanediol.</li><li>Acetone: This would be formed if one of the hydroxyl-bearing carbons were secondary with two alkyl groups, like in 2,3-dimethyl-2,3-butanediol.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The periodic acid cleavage reaction is highly specific for 1,2-diols and similar α-hydroxy compounds. The cleavage occurs between the two hydroxyl-bearing carbons. If these carbons each bear a hydrogen atom, aldehydes are formed. If they bear two alkyl groups, ketones are formed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When 2,3-butanediol is treated with \\( \\text{HIO}_4 \\) (periodic acid), the primary organic product is Acetaldehyde.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acetaldehyde"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which of the following is NOT a type of alpha amino acid classification mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Acidic Amino Acids"
+        },
+        {
+          "type": "string",
+          "content": "Basic Amino Acids"
+        },
+        {
+          "type": "string",
+          "content": "Non-polar Amino Acids"
+        },
+        {
+          "type": "string",
+          "content": "Neutral Amino Acids"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amino Acids",
+      "Classification",
+      "Alpha Amino Acid Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of Alpha Amino Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Alpha Amino Acids:</em> The primary building blocks of proteins, characterized by an amino group and a carboxyl group attached to the same carbon atom (alpha-carbon). They are further classified based on the chemical properties of their side chains (R-groups).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which classification of alpha amino acids is *not* mentioned in the document.</div><strong>Step 1: Review the document for classifications of alpha amino acids.</strong>On page 1, under the \"Types of Alpha amino acid\" heading, the document lists:<ul><li><span style='color:var(--orange);font-weight:bold;'>Acidic Amino Acids</span></li></ul>On page 2, under the heading \"• Basic Amino Acids\" and \"• Neutral Amino Acids\", these are listed as further classifications. Thus, the document explicitly mentions:<ul><li>Acidic Amino Acids</li><li>Basic Amino Acids</li><li>Neutral Amino Acids</li></ul><strong>Step 2: Compare the options with the classifications found in the document.</strong><ul><li>Acidic Amino Acids: <span style='color:var(--orange);font-weight:bold;'>Mentioned.</span></li><li>Basic Amino Acids: <span style='color:var(--orange);font-weight:bold;'>Mentioned.</span></li><li><span style='color:var(--orange);font-weight:bold;'>Non-polar Amino Acids:</span> This classification is *not* explicitly mentioned in the document. While it is a valid biochemical classification, it is absent from the provided text.</li><li>Neutral Amino Acids: <span style='color:var(--orange);font-weight:bold;'>Mentioned.</span></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>The document provides specific classifications for alpha amino acids. It is crucial to strictly adhere to the information provided and not introduce external knowledge.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Non-polar Amino Acids is NOT a type of alpha amino acid classification mentioned in the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-polar Amino Acids"
+    }
+  }
+]
