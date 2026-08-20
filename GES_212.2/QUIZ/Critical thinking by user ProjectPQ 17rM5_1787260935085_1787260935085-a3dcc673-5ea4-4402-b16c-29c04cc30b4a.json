@@ -1,0 +1,846 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Logic and Philosophy",
+    "code": "GES 212.2",
+    "session": "Critical thinking by user ProjectPQ 17rM5",
+    "kind": "mixed",
+    "topics": [
+      "Definition of Critical Thinking",
+      "Introduction to Critical Thinking",
+      "Traits of a Critical Mind",
+      "Open-mindedness",
+      "Critical Thinking Skills",
+      "Analysis",
+      "Recall of Traits",
+      "Attention, Mindfulness and Curiosity",
+      "Interpretation",
+      "Evaluation",
+      "Self-regulation",
+      "Intellectual Standards",
+      "Accuracy",
+      "Clarity",
+      "Breadth",
+      "Precision",
+      "Obstacles to Critical Thinking",
+      "Egocentrism",
+      "Sociocentrism",
+      "Ethnocentrism",
+      "Relativist Thinking",
+      "Subjectivism",
+      "Assumptions",
+      "Stereotypes",
+      "Resistance / Fear of Change",
+      "Benefits of Critical Thinking",
+      "Decision Making",
+      "Civic Engagement"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following best defines critical thinking according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A process of evaluating and analyzing ideas and appraising evidence offered in support of an argument."
+        },
+        {
+          "type": "string",
+          "content": "The ability to recall facts and information quickly and accurately."
+        },
+        {
+          "type": "string",
+          "content": "Thinking exclusively about one's own ideas and perspectives."
+        },
+        {
+          "type": "string",
+          "content": "Passively receiving information and accepting it without questioning."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition of Critical Thinking",
+      "Introduction to Critical Thinking"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Critical Thinking</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Critical Thinking:</em> A process involving the evaluation and analysis of ideas, and the appraisal of evidence supporting an argument. It also entails actively weighing situations and questioning assumptions, rather than passively accepting information.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the best definition of critical thinking based on the provided text.</div><p><strong>Step 1: Analyze the core definition provided in the text.</strong></p><p>The document states, <span style='color:var(--orange);font-weight:bold;'>\"Critical thinking is a process of evaluating and analyzing ideas and appraising evidence offered in support of an argument.\"</span> It further elaborates that it involves <span style='color:var(--orange);font-weight:bold;'>\"thinking things through, weighing situations up as opposed to passively receiving information from others.\"</span></p><p><strong>Step 2: Evaluate each option against this definition.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>\"A process of evaluating and analyzing ideas and appraising evidence offered in support of an argument.\"</span> This directly matches the initial definition provided in the document.</li><li>Option B: \"The ability to recall facts and information quickly and accurately.\" While memory is useful, critical thinking goes beyond mere recall to involve analysis and evaluation.</li><li>Option C: \"Thinking exclusively about one's own ideas and perspectives.\" This contradicts the principle of critical thinking, which encourages considering various perspectives and challenging one's own biases. This aligns more with egocentrism, an obstacle to critical thinking.</li><li>Option D: \"Passively receiving information and accepting it without questioning.\" This is explicitly stated as the opposite of critical thinking in the document.</li></ul><p><strong>Step 3: Conclude the best definition.</strong></p><p>Option A accurately and directly captures the essence of critical thinking as defined by the document.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The definition provided in the document emphasizes active engagement with information—evaluating, analyzing, and appraising evidence. Option A precisely reflects these active cognitive processes, distinguishing critical thinking from mere information recall or passive acceptance. The other options describe either components of memory, obstacles to critical thinking, or behaviors contrary to it.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A process of evaluating and analyzing ideas and appraising evidence offered in support of an argument is the best definition of critical thinking.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A process of evaluating and analyzing ideas and appraising evidence offered in support of an argument."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "A critical mind's willingness to try new things and consider new ideas, free from prejudices or bias, is defined as what trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Open mindedness"
+        },
+        {
+          "type": "string",
+          "content": "Fair-mindedness"
+        },
+        {
+          "type": "string",
+          "content": "Empathy"
+        },
+        {
+          "type": "string",
+          "content": "Curiosity"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Traits of a Critical Mind",
+      "Open-mindedness"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Traits of a Critical Mind</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Open Mindedness:</em> Being receptive to new ideas and arguments, free from prejudices or bias, and willing to try new things or to hear or consider new ideas. It allows the thinker to appreciate that other positions are possible.<br/><em>Fair-mindedness:</em> Involves making every viewpoint as relevant to a situation in an unbiased and unprejudiced way, giving each side a hearing.<br/><em>Empathy:</em> The ability to imagine what someone else is feeling or experiencing.<br/><em>Curiosity:</em> A characteristic of critical thinkers who are intellectually curious, attentive, and mindful.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify the trait of a critical mind that involves receptiveness to new ideas, freedom from bias, and willingness to consider other positions.</div><p><strong>Step 1: Recall the definitions of the traits of a critical mind.</strong></p><p>The document lists and defines several traits. The description <span style='color:var(--orange);font-weight:bold;'>\"being receptive to new ideas and arguments, free from prejudices or bias and willingness to try new things or to hear or consider new ideas. This enables the thinker to appreciate that other positions are possible.\"</span> directly corresponds to the definition of Open Mindedness.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Open mindedness.</span> This perfectly matches the definition provided in the question stem.</li><li>Option B: Fair-mindedness. While related, fair-mindedness specifically emphasizes giving every viewpoint a hearing in an unbiased way, rather than the initial receptiveness to new ideas in general.</li><li>Option C: Empathy. This is the ability to imagine another's feelings or experiences, which is distinct from being open to new intellectual ideas.</li><li>Option D: Curiosity. While critical thinkers are curious, curiosity is more about seeking knowledge, whereas open-mindedness is about being receptive to the knowledge once encountered, especially if it challenges existing views.</li></ul><p><strong>Step 3: Conclude the correct trait.</strong></p><p>Based on the direct definition from the document, the described trait is Open mindedness.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The key phrases in the question are \"receptive to new ideas,\" \"free from prejudices or bias,\" and \"willingness to try new things or to hear or consider new ideas.\" These are the defining characteristics of open-mindedness, which allows for intellectual flexibility and the appreciation of diverse perspectives. Fair-mindedness builds on this by ensuring all perspectives are given due consideration.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Open mindedness is the trait that describes a critical mind's willingness to try new things and consider new ideas, free from prejudices or bias.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Open mindedness"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "A student carefully reads a newspaper article, then analyzes the writer's arguments by breaking them down into premises and conclusions to understand how they connect. Which critical thinking skill is the student primarily demonstrating?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Analysis"
+        },
+        {
+          "type": "string",
+          "content": "Observation"
+        },
+        {
+          "type": "string",
+          "content": "Interpretation"
+        },
+        {
+          "type": "string",
+          "content": "Evaluation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Critical Thinking Skills",
+      "Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applying Critical Thinking Skills: Analysis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Analysis:</em> The ability to carefully examine a situation, problem, experience, or text by breaking arguments or claims into their components (premises, conclusions, assumptions) to see how they fit together.<br/><em>Observation:</em> Provides raw materials for critical analysis and interpretation.<br/><em>Interpretation:</em> Accurately understanding the meaning or significance of information, data, or position.<br/><em>Evaluation:</em> Assessing the credibility and strength of evidence or reasoning used to support a claim.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: A student is breaking down a writer's arguments into premises and conclusions to understand their connection. The question asks to identify the primary critical thinking skill being demonstrated.</div><p><strong>Step 1: Understand the student's action.</strong></p><p>The student is <span style='color:var(--orange);font-weight:bold;'>\"analyz[ing] the writer's arguments by breaking them down into premises and conclusions to understand how they connect.\"</span></p><p><strong>Step 2: Compare this action with the definitions of critical thinking skills.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Analysis.</span> The document defines analysis as \"the ability to carefully examine a situation, a problem, an experience, or a text. It involves breaking arguments or claims into their components (premises, conclusions, assumptions) to see how they fit together.\" This definition perfectly matches the student's action.</li><li>Option B: Observation. Observation involves gathering raw materials or recognizing phenomena, which the student did by reading the article, but the core action described is beyond mere observation.</li><li>Option C: Interpretation. Interpretation is about understanding the meaning or significance of information. While related, breaking down arguments into components is a deeper step than simply understanding meaning; it's about understanding the structure.</li><li>Option D: Evaluation. Evaluation involves assessing credibility and strength. The student's action is about understanding the structure of the argument, not yet judging its validity or strength. Evaluation would typically follow analysis.</li></ul><p><strong>Step 3: Conclude the primary skill.</strong></p><p>The act of breaking down arguments into components to see how they fit together is the essence of analysis.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Analysis is fundamental to understanding complex information. By disassembling an argument into its constituent parts (premises, conclusions), one can logically trace the reasoning and identify its underlying structure. This is a prerequisite for subsequent steps like evaluation, where the strength and credibility of those parts would be assessed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The student is primarily demonstrating Analysis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Analysis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is NOT one of the listed traits of a critical mind?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Closed-mindedness"
+        },
+        {
+          "type": "string",
+          "content": "Empathy"
+        },
+        {
+          "type": "string",
+          "content": "Fair-mindedness"
+        },
+        {
+          "type": "string",
+          "content": "Curiosity"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Traits of a Critical Mind",
+      "Recall of Traits"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Non-Traits of a Critical Mind</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Traits of a Critical Mind:</em> As listed in the document, these include Open mindedness, Fair-mindedness, Empathy, and Attention, mindfulness and curiosity.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify which option is NOT a trait of a critical mind from the provided list.</div><p><strong>Step 1: List the traits of a critical mind as stated in the document.</strong></p><p>The document explicitly lists the following traits: <span style='color:var(--orange);font-weight:bold;'>1. Open mindedness, 2. Fair-mindedness, 3. Empathy, 4. Attention, mindfulness and curiosity.</span></p><p><strong>Step 2: Compare each option with this list.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Closed-mindedness.</span> This is the opposite of \"Open mindedness,\" which is a listed trait. Therefore, closed-mindedness is NOT a trait of a critical mind.</li><li>Option B: Empathy. This is explicitly listed as a trait of a critical mind.</li><li>Option C: Fair-mindedness. This is explicitly listed as a trait of a critical mind.</li><li>Option D: Curiosity. This is part of \"Attention, mindfulness and curiosity,\" which is explicitly listed as a trait of a critical mind.</li></ul><p><strong>Step 3: Conclude the option that is not a trait.</strong></p><p>Closed-mindedness is the only option that directly contradicts a listed trait or is not listed as a trait itself.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The core of critical thinking involves being receptive to new ideas and perspectives (open-mindedness). Closed-mindedness is antithetical to this principle, preventing individuals from considering alternative viewpoints or challenging their own assumptions, which are essential for critical thought.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Closed-mindedness is NOT one of the listed traits of a critical mind.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Closed-mindedness"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "When a thinker is attentive and mindful of what is going on around them and within them, including their own thoughts and feelings, they are demonstrating which trait of a critical mind?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Attention, Mindfulness and Curiosity"
+        },
+        {
+          "type": "string",
+          "content": "Empathy"
+        },
+        {
+          "type": "string",
+          "content": "Open mindedness"
+        },
+        {
+          "type": "string",
+          "content": "Fair-mindedness"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Traits of a Critical Mind",
+      "Attention, Mindfulness and Curiosity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Attention, Mindfulness and Curiosity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Attention, Mindfulness and Curiosity:</em> Critical thinkers are intellectually curious. They are attentive and mindful of what is going on around them and within them by way of their own thoughts and feelings.<br/><em>Empathy:</em> The ability to imagine what someone else is feeling or experiencing.<br/><em>Open mindedness:</em> Being receptive to new ideas and arguments, free from prejudices or bias.<br/><em>Fair-mindedness:</em> Making every viewpoint relevant to a situation in an unbiased way.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes a thinker who is attentive and mindful of their surroundings and inner thoughts/feelings, and asks to identify the corresponding trait of a critical mind.</div><p><strong>Step 1: Recall the definitions of the traits of a critical mind.</strong></p><p>The document describes <span style='color:var(--orange);font-weight:bold;'>\"Attention, Mindfulness and Curiosity\"</span> by stating: <span style='color:var(--orange);font-weight:bold;'>\"Critical thinkers are intellectually curious. They are attentive and mindful of what is going on around them and within them by way of their own thoughts and feelings.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Attention, Mindfulness and Curiosity.</span> This directly matches the description given in the question stem and the document's definition.</li><li>Option B: Empathy. This refers to understanding others' feelings, not primarily one's own internal and external awareness.</li><li>Option C: Open mindedness. This refers to receptiveness to new ideas, not the act of being attentive to present circumstances or internal states.</li><li>Option D: Fair-mindedness. This refers to giving unbiased consideration to all viewpoints.</li></ul><p><strong>Step 3: Conclude the correct trait.</strong></p><p>The description in the question directly defines the trait of Attention, Mindfulness and Curiosity.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Being attentive and mindful is crucial for gathering accurate information (observation) and for self-reflection (self-regulation), both integral to critical thinking. Curiosity drives the inquiry, while attention and mindfulness ensure that one is fully present and aware of the details and implications, both external and internal.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The thinker is demonstrating Attention, Mindfulness and Curiosity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Attention, Mindfulness and Curiosity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which critical thinking skill involves accurately understanding the meaning or significance of information, data, or a position before responding to it?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Interpretation"
+        },
+        {
+          "type": "string",
+          "content": "Analysis"
+        },
+        {
+          "type": "string",
+          "content": "Observation"
+        },
+        {
+          "type": "string",
+          "content": "Inference"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Critical Thinking Skills",
+      "Interpretation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Defining the Skill of Interpretation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Interpretation:</em> Accurately understanding the meaning or significance of information, data, or position before responding to it, considering evidence and claims thoroughly.<br/><em>Analysis:</em> Breaking arguments or claims into components to see how they fit together.<br/><em>Observation:</em> Providing raw materials for critical analysis and interpretation.<br/><em>Inference:</em> Drawing reasonable conclusions from available evidence and recognizing logical implications.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify the critical thinking skill related to accurately understanding meaning or significance before responding.</div><p><strong>Step 1: Refer to the definitions of critical thinking skills in the document.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Interpretation\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"it is accurately understanding the meaning or significance of information, data or position before responding to it. Here, evidence and claims are considered thoroughly.\"</span></p><p><strong>Step 2: Compare the question's description with the options.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Interpretation.</span> This definition perfectly matches the description provided in the question.</li><li>Option B: Analysis. Analysis involves breaking down arguments into components, which is a structural understanding, not primarily about meaning.</li><li>Option C: Observation. Observation is about gathering raw information, not understanding its meaning.</li><li>Option D: Inference. Inference is about drawing conclusions based on evidence, which comes after understanding the meaning of the evidence.</li></ul><p><strong>Step 3: Conclude the correct skill.</strong></p><p>The skill described, focusing on understanding meaning and significance before responding, is Interpretation.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Interpretation is a crucial initial step in processing information critically. Without accurately understanding what is being conveyed, any subsequent analysis, evaluation, or inference risks being flawed. It ensures that the basis for further critical thought is sound.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Interpretation is the critical thinking skill that involves accurately understanding the meaning or significance of information, data, or a position before responding to it.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interpretation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "To assess the credibility and strength of evidence or reasoning used to support a claim, one would primarily employ which critical thinking skill?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Evaluation"
+        },
+        {
+          "type": "string",
+          "content": "Reflection"
+        },
+        {
+          "type": "string",
+          "content": "Inference"
+        },
+        {
+          "type": "string",
+          "content": "Observation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Critical Thinking Skills",
+      "Evaluation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding the Skill of Evaluation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Evaluation:</em> This entails assessing the credibility and the strength of evidence or reasoning used to support a claim. It involves asking questions like, 'Is the speaker credible?' or 'Is the statement true or false?'<br/><em>Reflection:</em> Looking back on a situation, weighing arguments for or against, and looking at it from different angles.<br/><em>Inference:</em> Drawing reasonable conclusions from available evidence and recognizing what does and doesn't follow logically.<br/><em>Observation:</em> Providing raw materials for critical analysis and interpretation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the critical thinking skill primarily used to assess the credibility and strength of evidence or reasoning supporting a claim.</div><p><strong>Step 1: Examine the definition of 'Evaluation' from the document.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Evaluation\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This entails assessing the credibility and the strength of evidence or reasoning used to support a claim.\"</span> It further gives examples of questions asked during evaluation, such as \"Is the speaker credible?\" or \"Is the statement true or false?\"</p><p><strong>Step 2: Compare the question's description with the options.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Evaluation.</span> This directly matches the definition provided in the document and the action described in the question.</li><li>Option B: Reflection. Reflection involves reviewing a situation from different angles, often after an event, which is broader than specifically assessing credibility.</li><li>Option C: Inference. Inference is about drawing conclusions, not primarily about judging the validity or strength of the evidence itself.</li><li>Option D: Observation. Observation is about gathering information, not judging its quality.</li></ul><p><strong>Step 3: Conclude the primary skill.</strong></p><p>Assessing credibility and strength of evidence is the core function of Evaluation.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Evaluation is crucial for distinguishing reliable information from unreliable sources, and strong arguments from weak ones. Without evaluation, one might accept claims based on faulty evidence or poor reasoning, undermining the entire critical thinking process. It is a judgment-oriented skill.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Evaluation is the critical thinking skill primarily employed to assess the credibility and strength of evidence or reasoning used to support a claim.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evaluation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "A critical thinker reflects on and questions their own reasoning, biases, and assumptions, rather than just those of others. This is an example of which critical thinking skill?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Self-regulation"
+        },
+        {
+          "type": "string",
+          "content": "Reflection"
+        },
+        {
+          "type": "string",
+          "content": "Analysis"
+        },
+        {
+          "type": "string",
+          "content": "Fairness"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Critical Thinking Skills",
+      "Self-regulation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Self-regulation in Critical Thinking</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Self-regulation:</em> Involves reflecting on and questioning your own reasoning, biases, and assumptions rather than just those of others. It enables us to consider pre-existing thoughts and biases to create distance between opinions and the information evaluated.<br/><em>Reflection:</em> An attempt to look back on a situation, weighing arguments for or against, looking at it from different angles.<br/><em>Analysis:</em> Breaking arguments or claims into components to see how they fit together.<br/><em>Fairness:</em> An intellectual standard entailing open-mindedness and impartiality, giving all viewpoints a fair hearing.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes a critical thinker who questions their own reasoning, biases, and assumptions, and asks to identify the corresponding critical thinking skill.</div><p><strong>Step 1: Examine the definition of 'Self-regulation' from the document.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Self-regulation\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"It involves reflecting on and questioning your own reasoning, biases and assumptions rather than just those of others.\"</span> It further explains that its goal is to create distance between one's opinions and the information being evaluated.</p><p><strong>Step 2: Compare the question's description with the options.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Self-regulation.</span> This definition directly matches the description provided in the question.</li><li>Option B: Reflection. While self-regulation involves reflection, reflection as a broader skill is described as looking back on a situation and weighing arguments from different angles, which may or may not specifically focus on one's own biases and assumptions in the way self-regulation does. Self-regulation is a more specific application of reflection to one's own cognitive processes.</li><li>Option C: Analysis. Analysis involves breaking down arguments, not specifically questioning one's own internal cognitive processes.</li><li>Option D: Fairness. Fairness is an intellectual standard, not a skill in the same operational sense, and it applies more broadly to treating all viewpoints impartially, rather than specifically focusing on self-correction of one's own biases.</li></ul><p><strong>Step 3: Conclude the primary skill.</strong></p><p>The act of internal self-scrutiny regarding one's own reasoning and biases is the hallmark of self-regulation.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Self-regulation is vital for preventing personal biases and preconceptions from distorting objective judgment. By actively questioning one's own mental frameworks, critical thinkers can ensure their conclusions are based on evidence and sound reasoning, not just entrenched beliefs. This distinguishes advanced critical thinking from merely evaluating others' arguments.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The critical thinking skill demonstrated is Self-regulation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Self-regulation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "When an argument's statements are true and correspond with facts, it primarily meets the intellectual standard of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Accuracy"
+        },
+        {
+          "type": "string",
+          "content": "Clarity"
+        },
+        {
+          "type": "string",
+          "content": "Precision"
+        },
+        {
+          "type": "string",
+          "content": "Relevance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Intellectual Standards",
+      "Accuracy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding the Intellectual Standard of Accuracy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Accuracy:</em> Concerned with the truth-value of statements, whether the statements are true, whether they correspond with facts or represent something accordingly.<br/><em>Clarity:</em> Requires that what is being said must be clear, leaving no room for ambiguity or confusion.<br/><em>Precision:</em> Involves giving specific details by highlighting the essential ingredients of the subject, rather than being vague.<br/><em>Relevance:</em> Borders on staying focused on the issue at hand without introducing items not connected to the topic.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify the intellectual standard met when an argument's statements are true and correspond with facts.</div><p><strong>Step 1: Refer to the definitions of intellectual standards of critical thinking.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Accuracy\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This is concerned with the truth-value of the statements made, whether the statements are true, whether they correspond with facts or represent something accordingly.\"</span></p><p><strong>Step 2: Evaluate each option against the question's description.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Accuracy.</span> This directly matches the description of statements being true and corresponding with facts.</li><li>Option B: Clarity. Clarity refers to the absence of ambiguity and ease of understanding, not necessarily the truthfulness of the content.</li><li>Option C: Precision. Precision relates to the level of detail and specificity, not the factual correctness. A precise statement can still be inaccurate if it details false information.</li><li>Option D: Relevance. Relevance means staying on topic; it does not speak to the truthfulness of the statements.</li></ul><p><strong>Step 3: Conclude the primary intellectual standard.</strong></p><p>The concern for truth-value and correspondence with facts is the essence of accuracy.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Accuracy is foundational. An argument can be clear, precise, and relevant, but if its underlying statements are inaccurate, the argument itself is fundamentally flawed. Critical thinkers strive for factual correctness in all claims.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The intellectual standard primarily met is Accuracy.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accuracy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "To ensure that what is being said leaves no room for ambiguity or confusion, a critical thinker adheres to the intellectual standard of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Clarity"
+        },
+        {
+          "type": "string",
+          "content": "Precision"
+        },
+        {
+          "type": "string",
+          "content": "Accuracy"
+        },
+        {
+          "type": "string",
+          "content": "Logical Correctness"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Intellectual Standards",
+      "Clarity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding the Intellectual Standard of Clarity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Clarity:</em> This requires that what is being said must be clear, leaving no room for ambiguity or confusion (also understanding clearly).<br/><em>Precision:</em> Involves giving specific details by highlighting the essential ingredients of the subject rather than beating about the bush.<br/><em>Accuracy:</em> Concerned with the truth-value of statements made, whether they are true and correspond with facts.<br/><em>Logical Correctness:</em> Concerned with how arguments fit in logically and whether statements really make sense and follow from evidence or not.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the intellectual standard that ensures what is being said is unambiguous and not confusing.</div><p><strong>Step 1: Refer to the definitions of intellectual standards.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Clarity\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This requires that what is being said must be clear, leaving no room for ambiguity or confusion (also understanding clearly).\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Clarity.</span> This perfectly matches the description in the question, focusing on the absence of ambiguity and confusion.</li><li>Option B: Precision. Precision relates to the level of detail, making something specific. While clarity and precision often go hand-in-hand, a statement can be precise (full of details) but still unclear if poorly organized or phrased.</li><li>Option C: Accuracy. Accuracy relates to the truthfulness of statements, not their understandability or lack of ambiguity.</li><li>Option D: Logical Correctness. This relates to the coherent flow and sense-making of arguments, which relies on clear statements but is a distinct standard.</li></ul><p><strong>Step 3: Conclude the correct standard.</strong></p><p>The standard directly addressing ambiguity and confusion is Clarity.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Without clarity, it's impossible to apply other critical thinking standards effectively. An unclear statement cannot be accurately assessed for its truth, evaluated for its precision, or logically integrated into an argument. Clarity is the gateway to meaningful critical analysis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To ensure that what is being said leaves no room for ambiguity or confusion, a critical thinker adheres to the intellectual standard of Clarity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Clarity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Considering the various sides of an issue in detail, broadly and objectively without being narrow-minded, describes the intellectual standard of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Breadth"
+        },
+        {
+          "type": "string",
+          "content": "Depth"
+        },
+        {
+          "type": "string",
+          "content": "Relevance"
+        },
+        {
+          "type": "string",
+          "content": "Fairness"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Intellectual Standards",
+      "Breadth"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding the Intellectual Standard of Breadth</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Breadth:</em> Entails considering the various sides of the issue in detail, broadly and objectively without being narrow minded.<br/><em>Depth:</em> Entails thinking deeply, getting beneath the surface to address the various dimensions (root) and variables most significant to the problem.<br/><em>Relevance:</em> Borders on staying focused on the issue at hand without introducing items that are not connected to the topic.<br/><em>Fairness:</em> Entails open-mindedness and impartiality, giving all viewpoints a fair hearing.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the intellectual standard that involves considering various sides of an issue broadly and objectively without narrow-mindedness.</div><p><strong>Step 1: Recall the definitions of intellectual standards.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Breadth\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"It entails considering the various sides of the issue in detail, broadly and objectively without being narrow minded.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Breadth.</span> This definition directly matches the description in the question.</li><li>Option B: Depth. Depth focuses on exploring the underlying complexities and root causes of an issue, going beneath the surface. While complementary to breadth, it's distinct.</li><li>Option C: Relevance. Relevance ensures that discussions stay on topic, rather than exploring various angles of a topic.</li><li>Option D: Fairness. Fairness ensures impartiality in giving viewpoints a hearing, but breadth specifically refers to the act of considering the range of sides.</li></ul><p><strong>Step 3: Conclude the correct standard.</strong></p><p>The consideration of various sides broadly and objectively is the definition of Breadth.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Breadth is essential for comprehensive understanding. Without it, a thinker might focus too narrowly on one perspective, missing crucial insights or alternative solutions. It complements depth by ensuring that while an issue is explored deeply, it is also viewed from a wide array of angles.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The intellectual standard described is Breadth.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Breadth"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "When someone gives specific details and highlights the essential ingredients of a subject rather than being vague, they are demonstrating the intellectual standard of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Precision"
+        },
+        {
+          "type": "string",
+          "content": "Clarity"
+        },
+        {
+          "type": "string",
+          "content": "Depth"
+        },
+        {
+          "type": "string",
+          "content": "Accuracy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Intellectual Standards",
+      "Precision"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding the Intellectual Standard of Precision</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Precision:</em> This involves giving specific details by highlighting the essential ingredients of the subject rather than beating about the bush.<br/><em>Clarity:</em> Requires that what is being said must be clear, leaving no room for ambiguity or confusion.<br/><em>Depth:</em> Entails thinking deeply, getting beneath the surface to address the various dimensions (root) and variables most significant to the problem.<br/><em>Accuracy:</em> Concerned with the truth-value of the statements made, whether they are true and correspond with facts.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-top:15px;margin-bottom:15px;'>Given: The question describes a person giving specific details and highlighting essential ingredients, avoiding vagueness, and asks for the intellectual standard demonstrated.</div><p><strong>Step 1: Recall the definition of Precision.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Precision\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This involves giving specific details by highlighting the essential ingredients of the subject rather than beating about the bush.\"</span></p><p><strong>Step 2: Compare this definition with the options.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Precision.</span> This directly matches the description provided in the question.</li><li>Option B: Clarity. Clarity is about being understandable and unambiguous, while precision is about being specific and detailed. A statement can be clear but not precise (e.g., \"It's hot\" is clear but not precise about the exact temperature).</li><li>Option C: Depth. Depth involves exploring underlying complexities and root causes, which is different from providing specific details on the surface.</li><li>Option D: Accuracy. Accuracy refers to truthfulness, not the level of detail or specificity.</li></ul><p><strong>Step 3: Conclude the correct standard.</strong></p><p>Giving specific details and avoiding vagueness directly corresponds to the standard of Precision.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Precision is crucial for practical application and effective communication. Vague statements can lead to misunderstandings or ineffective actions. By being precise, critical thinkers ensure that their ideas are communicated with the necessary level of detail for specific contexts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The intellectual standard demonstrated is Precision.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Precision"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "A person who views their own ideas as superior to everyone else's and often uses self-centered psychological standards in thinking is demonstrating which obstacle to critical thinking?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Egocentrism"
+        },
+        {
+          "type": "string",
+          "content": "Sociocentrism/Ethnocentrism"
+        },
+        {
+          "type": "string",
+          "content": "Relativist thinking"
+        },
+        {
+          "type": "string",
+          "content": "Prejudice and bias"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Obstacles to Critical Thinking",
+      "Egocentrism"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Egocentrism as an Obstacle</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Egocentrism:</em> This is the tendency to see reality as centered on oneself. Egocentric persons view their ideas as superior to everyone else's and often use self-centered psychological standards in thinking.<br/><em>Sociocentrism/Ethnocentrism:</em> The tendency to think that the beliefs of one's family, culture, religion, and nation are superior to those outside their groups.<br/><em>Relativist Thinking:</em> The view that truth is a matter of individual (subjectivism) or social/cultural (cultural relativism) opinion.<br/><em>Prejudice and Bias:</em> Pre-informed judgments about people, groups, or ideas, often absorbed uncritically.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes a person who views their own ideas as superior and uses self-centered standards in thinking, asking to identify this obstacle to critical thinking.</div><p><strong>Step 1: Refer to the definitions of obstacles to critical thinking.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Egocentrism\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This is the tendency to see reality as centered on oneself. The egocentric are selfish persons who view their ideas as superior to everyone else's. They often use self-centered psychological standards in thinking.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Egocentrism.</span> This perfectly matches the description in the question, emphasizing self-centeredness and the belief in the superiority of one's own ideas.</li><li>Option B: Sociocentrism/Ethnocentrism. This relates to believing one's group's beliefs are superior, which is group-centered, not individually self-centered.</li><li>Option C: Relativist thinking. This involves believing truth is subjective, either individually or culturally, but doesn't inherently imply superiority of one's own ideas in the same way egocentrism does.</li><li>Option D: Prejudice and bias. While egocentrism can lead to biases, prejudice and bias are broader categories of pre-informed judgments, whereas egocentrism specifically describes the self-centered origin of such judgments.</li></ul><p><strong>Step 3: Conclude the correct obstacle.</strong></p><p>The tendency to see reality as centered on oneself and viewing one's own ideas as superior defines Egocentrism.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Egocentrism severely hinders critical thinking because it prevents individuals from objectively considering alternative perspectives or acknowledging flaws in their own reasoning. It creates a closed loop where self-validation trumps rational inquiry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The person is demonstrating Egocentrism.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Egocentrism"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The tendency to believe that the beliefs of one's family, culture, religion, and nation are superior to those outside these groups is known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sociocentrism/Ethnocentrism"
+        },
+        {
+          "type": "string",
+          "content": "Egocentrism"
+        },
+        {
+          "type": "string",
+          "content": "Cultural Relativism"
+        },
+        {
+          "type": "string",
+          "content": "Assumptions and stereotypes"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Obstacles to Critical Thinking",
+      "Sociocentrism",
+      "Ethnocentrism"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Sociocentrism/Ethnocentrism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Sociocentrism/Ethnocentrism:</em> This is the tendency to think that the beliefs of our family culture, religion, and nation are superior to the beliefs of those outside our groups.<br/><em>Egocentrism:</em> The tendency to see reality as centered on oneself, viewing one's own ideas as superior.<br/><em>Cultural Relativism:</em> The view that truth is a matter of social or cultural opinion.<br/><em>Assumptions and Stereotypes:</em> Beliefs accepted without proof (assumptions) or fixed generalizations about people/things (stereotypes).</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the term describing the belief in the superiority of one's group's beliefs over external groups.</div><p><strong>Step 1: Refer to the definitions of obstacles to critical thinking.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Sociocentrism/Ethnocentrism\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This is the tendency to think that the beliefs of our family culture, religion, and nation are superior to the beliefs of those outside our groups.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Sociocentrism/Ethnocentrism.</span> This perfectly matches the description provided in the question.</li><li>Option B: Egocentrism. This relates to individual self-centeredness, not group-centered superiority.</li><li>Option C: Cultural Relativism. This is the view that truth is relative to a culture, not necessarily that one's own culture's truth is superior. While related to cultural thinking, it lacks the explicit superiority aspect.</li><li>Option D: Assumptions and stereotypes. These are specific types of beliefs or generalizations, not the overarching tendency to consider one's group's beliefs as superior.</li></ul><p><strong>Step 3: Conclude the correct obstacle.</strong></p><p>The tendency to believe one's group's beliefs are superior is Sociocentrism/Ethnocentrism.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Sociocentrism and ethnocentrism are significant barriers to critical thinking because they lead to a biased evaluation of information, where ideas from one's own group are uncritically accepted, and those from outside groups are dismissed or undervalued, regardless of their intrinsic merit.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The tendency to believe that the beliefs of one's family, culture, religion, and nation are superior to those outside these groups is known as Sociocentrism/Ethnocentrism.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sociocentrism/Ethnocentrism"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which form of Relativist Thinking posits that truth is a matter of individual opinion?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Subjectivism"
+        },
+        {
+          "type": "string",
+          "content": "Cultural Relativism"
+        },
+        {
+          "type": "string",
+          "content": "Egocentrism"
+        },
+        {
+          "type": "string",
+          "content": "Dogmatism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Obstacles to Critical Thinking",
+      "Relativist Thinking",
+      "Subjectivism"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Subjectivism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Relativist Thinking:</em> Exists in two forms: Subjectivism and Cultural Relativism.<br/><em>Subjectivism:</em> The view that truth is a matter of individual opinion.<br/><em>Cultural Relativism:</em> The view that truth is a matter of social or cultural opinion.<br/><em>Egocentrism:</em> The tendency to see reality as centered on oneself, viewing one's own ideas as superior.<br/><em>Dogmatism:</em> (Not explicitly defined in the document but is a plausible distractor related to rigid thinking).</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify the specific form of Relativist Thinking where truth is considered an individual opinion.</div><p><strong>Step 1: Refer to the section on Relativist Thinking.</strong></p><p>The document states that <span style='color:var(--orange);font-weight:bold;'>\"Relativist Thinking: its in two forms\"</span> and defines <span style='color:var(--orange);font-weight:bold;'>\"a. Subjectivism: which is the view that truth is a matter of individual opinion.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Subjectivism.</span> This precisely matches the definition from the document.</li><li>Option B: Cultural Relativism. This is the other form of relativist thinking, where truth is a matter of *social or cultural* opinion, not individual.</li><li>Option C: Egocentrism. This is an entirely different obstacle related to self-centeredness, not a form of relativist thinking.</li><li>Option D: Dogmatism. This term is not mentioned in the document and refers to asserting opinions as facts without evidence, which is distinct from the nature of truth itself being relative.</li></ul><p><strong>Step 3: Conclude the correct form of relativist thinking.</strong></p><p>Subjectivism is the form of relativist thinking where truth is a matter of individual opinion.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Subjectivism is a significant obstacle because it can lead to a dismissal of evidence or logical arguments if they contradict personal feelings, thereby undermining the objective pursuit of truth which is central to critical thinking. If all truth is individual opinion, then there's no basis for reasoned debate or shared understanding.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Subjectivism is the form of Relativist Thinking that posits truth is a matter of individual opinion.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Subjectivism"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What is the term for beliefs accepted without any proof or conclusive evidence?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Assumptions"
+        },
+        {
+          "type": "string",
+          "content": "Stereotypes"
+        },
+        {
+          "type": "string",
+          "content": "Prejudices"
+        },
+        {
+          "type": "string",
+          "content": "Hypotheses"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Obstacles to Critical Thinking",
+      "Assumptions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Assumptions as Obstacles</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Assumptions:</em> Beliefs accepted without any proof or conclusive evidence.<br/><em>Stereotypes:</em> Fixed generalizations about people, places, or things.<br/><em>Prejudices:</em> Pre-informed judgments about people, groups, or ideas, often absorbed uncritically.<br/><em>Hypotheses:</em> (Not explicitly defined in the document) Proposed explanations made on the basis of limited evidence as a starting point for further investigation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the term describing beliefs accepted without proof or conclusive evidence.</div><p><strong>Step 1: Refer to the section on Assumptions and Stereotypes.</strong></p><p>The document explicitly defines <span style='color:var(--orange);font-weight:bold;'>\"Assumptions\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"Assumptions are beliefs accepted without any proof or conclusive evidence.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Assumptions.</span> This directly matches the definition provided in the document.</li><li>Option B: Stereotypes. Stereotypes are fixed *generalizations* about people or things, not just any belief accepted without proof.</li><li>Option C: Prejudices. Prejudices are *pre-informed judgments*, often absorbed uncritically, which are a specific type of biased belief, but the broader concept of beliefs without proof is 'assumptions'.</li><li>Option D: Hypotheses. Hypotheses are educated guesses or proposed explanations that are meant to be tested, not simply beliefs accepted without proof.</li></ul><p><strong>Step 3: Conclude the correct term.</strong></p><p>Beliefs accepted without proof or conclusive evidence are Assumptions.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Unquestioned assumptions are a major obstacle to critical thinking because they can lead to flawed reasoning and incorrect conclusions. A critical thinker actively identifies and scrutinizes underlying assumptions to ensure arguments are built on solid ground rather than unverified premises.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The term for beliefs accepted without any proof or conclusive evidence is Assumptions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Assumptions"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Fixed generalizations about people, places, or things, such as 'women are emotional,' are specifically referred to as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Stereotypes"
+        },
+        {
+          "type": "string",
+          "content": "Assumptions"
+        },
+        {
+          "type": "string",
+          "content": "Prejudices"
+        },
+        {
+          "type": "string",
+          "content": "Biases"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Obstacles to Critical Thinking",
+      "Stereotypes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Stereotypes as an Obstacle</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Stereotypes:</em> Fixed generalizations about people, places or things. For example, 'women are emotional.'<br/><em>Assumptions:</em> Beliefs accepted without any proof or conclusive evidence.<br/><em>Prejudices:</em> Pre-informed judgments about people, groups or ideas often absorbed uncritically.<br/><em>Biases:</em> (Part of Prejudice and Bias) A predisposition or inclination for or against something or someone, often in a way considered to be unfair.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes fixed generalizations about people, places, or things, giving 'women are emotional' as an example, and asks for the specific term.</div><p><strong>Step 1: Refer to the section on Assumptions and Stereotypes.</strong></p><p>The document states: <span style='color:var(--orange);font-weight:bold;'>\"While stereotypes are fixed generalizations about people, places or things. E.g women are emotional.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Stereotypes.</span> This directly matches the definition and example given in the document.</li><li>Option B: Assumptions. Assumptions are beliefs without proof, but not necessarily fixed generalizations about groups.</li><li>Option C: Prejudices. Prejudices are pre-informed *judgments*, often absorbed uncritically, which can be *based on* stereotypes, but stereotypes specifically refer to the generalizations themselves.</li><li>Option D: Biases. Biases are inclinations for or against something, which can lead to or be influenced by stereotypes, but are not the generalizations themselves.</li></ul><p><strong>Step 3: Conclude the correct term.</strong></p><p>Fixed generalizations like 'women are emotional' are defined as Stereotypes.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Stereotypes are a major obstacle to critical thinking because they prevent individuals from assessing people or situations objectively. Instead of evaluating unique characteristics or evidence, a stereotyped view imposes a preconceived, oversimplified, and often inaccurate categorization, hindering fair-mindedness and accurate analysis.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Fixed generalizations about people, places, or things, such as 'women are emotional,' are specifically referred to as Stereotypes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stereotypes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Reacting negatively to new ideas to protect one's cherished world-views from being challenged is an obstacle to critical thinking known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Resistance / Fear of Change"
+        },
+        {
+          "type": "string",
+          "content": "Prejudice and Bias"
+        },
+        {
+          "type": "string",
+          "content": "Egocentrism"
+        },
+        {
+          "type": "string",
+          "content": "Sociocentrism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Obstacles to Critical Thinking",
+      "Resistance / Fear of Change"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Resistance / Fear of Change</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Resistance / Fear of Change:</em> This is the tendency to react negatively to new ideas in order to keep one's cherished world-views from being challenged.<br/><em>Prejudice and Bias:</em> Pre-informed judgments about people, groups or ideas often absorbed uncritically.<br/><em>Egocentrism:</em> The tendency to see reality as centered on oneself, viewing one's own ideas as superior.<br/><em>Sociocentrism:</em> The tendency to think that the beliefs of one's family, culture, religion, and nation are superior to those outside their groups.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes reacting negatively to new ideas to protect cherished world-views from challenge, and asks for the specific obstacle.</div><p><strong>Step 1: Refer to the section on Obstacles to Critical Thinking.</strong></p><p>The document defines <span style='color:var(--orange);font-weight:bold;'>\"Resistance / Fear of Change\"</span> as: <span style='color:var(--orange);font-weight:bold;'>\"This is the tendency to react negatively to new ideas in order to keep one's cherished world-views from being challenged.\"</span></p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>Resistance / Fear of Change.</span> This perfectly matches the description in the question.</li><li>Option B: Prejudice and Bias. While resistance to change can stem from prejudice, this option is a broader category of pre-formed judgments, not the specific act of resisting new ideas to protect world-views.</li><li>Option C: Egocentrism. This is about individual self-centeredness and superiority of one's own ideas, not specifically about resisting change to protect those ideas.</li><li>Option D: Sociocentrism. This is about group superiority, not an individual's resistance to new ideas that challenge their personal world-view.</li></ul><p><strong>Step 3: Conclude the correct obstacle.</strong></p><p>The described behavior is a clear instance of Resistance / Fear of Change.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Resistance to change prevents intellectual growth and adaptation. Critical thinking demands flexibility and a willingness to revise one's understanding in light of new evidence. When individuals cling rigidly to existing beliefs, they actively block the process of critical inquiry and self-correction.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Reacting negatively to new ideas to protect one's cherished world-views from being challenged is an obstacle to critical thinking known as Resistance / Fear of Change.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resistance / Fear of Change"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Which of the following is a direct benefit of critical thinking, as stated in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It helps us avoid making foolish decisions."
+        },
+        {
+          "type": "string",
+          "content": "It guarantees success in all endeavors."
+        },
+        {
+          "type": "string",
+          "content": "It encourages passive acceptance of information."
+        },
+        {
+          "type": "string",
+          "content": "It reinforces existing biases and prejudices."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Benefits of Critical Thinking",
+      "Decision Making"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Benefits of Critical Thinking</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Benefits of Critical Thinking:</em> As listed in the document, these include avoiding foolish decisions, giving meaning to lives, understanding arguments, overcoming ego, reflecting on customs, developing a truth-seeking mind, enabling reasonable citizenship, and living self-examined lives.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify a direct benefit of critical thinking from the provided options, as stated in the document.</div><p><strong>Step 1: Review the list of benefits of critical thinking in the document.</strong></p><p>The document lists several benefits. The first benefit stated is: <span style='color:var(--orange);font-weight:bold;'>\"1. It helps us avoid making foolish decisions.\"</span></p><p><strong>Step 2: Evaluate each option against the listed benefits.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>\"It helps us avoid making foolish decisions.\"</span> This is explicitly stated as the first benefit in the document.</li><li>Option B: \"It guarantees success in all endeavors.\" The document does not claim critical thinking guarantees success in *all* endeavors; it improves decision-making, which *increases* the likelihood of success, but does not guarantee it.</li><li>Option C: \"It encourages passive acceptance of information.\" This contradicts the very definition and purpose of critical thinking, which is about active evaluation, not passive acceptance.</li><li>Option D: \"It reinforces existing biases and prejudices.\" This is an obstacle to critical thinking, not a benefit. Critical thinking aims to *overcome* biases.</li></ul><p><strong>Step 3: Conclude the correct benefit.</strong></p><p>Option A is a direct and explicit benefit mentioned in the document.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Critical thinking involves careful evaluation of information and arguments, which inherently leads to more informed and rational choices, thus reducing the likelihood of poor decisions. The other options either represent exaggerations, contradictions, or obstacles to critical thinking itself.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ It helps us avoid making foolish decisions is a direct benefit of critical thinking.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps us avoid making foolish decisions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which benefit of critical thinking enables an individual to become a reasonable citizen who contributes positively to society?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It enables an individual to be a reasonable citizen who contributes to society."
+        },
+        {
+          "type": "string",
+          "content": "It gives meaning to our lives and gives us a tool to change the world."
+        },
+        {
+          "type": "string",
+          "content": "It predisposes and develops the mind to be truth seeking."
+        },
+        {
+          "type": "string",
+          "content": "It helps us overcome our ego and open our minds to possibilities."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Benefits of Critical Thinking",
+      "Civic Engagement"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Benefits for Societal Contribution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Benefits of Critical Thinking:</em> Include avoiding foolish decisions, giving meaning to lives, understanding arguments, overcoming ego, reflecting on customs, developing a truth-seeking mind, enabling reasonable citizenship, and living self-examined lives.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the specific benefit of critical thinking that enables an individual to be a reasonable citizen and contribute to society.</div><p><strong>Step 1: Review the list of benefits of critical thinking in the document.</strong></p><p>The document lists a benefit as: <span style='color:var(--orange);font-weight:bold;'>\"7. It enables an individual to be a reasonable citizen who contributes to society.\"</span></p><p><strong>Step 2: Evaluate each option against the listed benefits.</strong></p><ul><li>Option A: <span style='color:var(--orange);font-weight:bold;'>\"It enables an individual to be a reasonable citizen who contributes to society.\"</span> This directly matches benefit #7 from the document.</li><li>Option B: \"It gives meaning to our lives and gives us a tool to change the world.\" This is also a benefit (#2), but it is broader than the specific aspect of being a \"reasonable citizen who contributes to society.\"</li><li>Option C: \"It predisposes and develops the mind to be truth seeking.\" This is benefit #6, describing the internal development of the mind, which supports societal contribution but is not the contribution itself.</li><li>Option D: \"It helps us overcome our ego and open our minds to possibilities.\" This is benefit #4, focusing on personal intellectual growth, which is foundational but not the direct societal contribution described.</li></ul><p><strong>Step 3: Conclude the most fitting benefit.</strong></p><p>Option A directly addresses the aspect of critical thinking leading to reasonable citizenship and societal contribution.</p><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Critical thinking equips individuals with the capacity to analyze public issues, evaluate political discourse, and make informed decisions that affect the community. This leads to more responsible and engaged citizenship, which is fundamental for a healthy society. The other benefits, while important, describe either more general life improvements or preparatory mental states rather than the specific outcome of contributing as a citizen.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The benefit of critical thinking that enables an individual to become a reasonable citizen who contributes positively to society is that It enables an individual to be a reasonable citizen who contributes to society.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It enables an individual to be a reasonable citizen who contributes to society."
+    }
+  }
+]
