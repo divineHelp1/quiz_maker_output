@@ -1,0 +1,1595 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Hereditary and Non Hereditary Characteristics",
+    "code": "BCH 204.2",
+    "session": "Extreme Quiz by user ProjectPQ 1dfr2",
+    "kind": "mixed",
+    "topics": [
+      "Genetics Definition",
+      "Genetics Basics",
+      "Hereditary Traits",
+      "Hereditary vs Non-Hereditary",
+      "Non-Hereditary Traits",
+      "Monohybrid Cross",
+      "Mendelian Genetics",
+      "Probability",
+      "Chi-square Test",
+      "Product Rule",
+      "Quantitative Inheritance",
+      "Genetics",
+      "Quantitative Traits",
+      "Gene Structure",
+      "Eukaryotic Gene",
+      "Gene Regulation",
+      "Genome Variation",
+      "Gene Mutation",
+      "Evolution",
+      "Gene Interaction",
+      "Epistasis",
+      "Extranuclear Inheritance",
+      "Maternal Inheritance",
+      "Mitochondrial Inheritance",
+      "Sex Determination",
+      "Chromosomal Sex Determination",
+      "SRY Gene",
+      "Sex Determination Systems",
+      "ZW System",
+      "Haplodiploidy",
+      "Complete Linkage",
+      "Linkage and Recombination",
+      "Crossing Over",
+      "Meiosis",
+      "Recombination Frequency",
+      "Genetics Calculation",
+      "Prokaryotic Recombination",
+      "Horizontal Gene Transfer",
+      "Conjugation",
+      "Mobile Genetic Elements",
+      "Transposons",
+      "Transformation",
+      "Generalized Transduction",
+      "Specialized Transduction",
+      "Antibiotic Resistance",
+      "Medical Significance",
+      "Biotechnology",
+      "Agrobacterium tumefaciens",
+      "Genetic Linkage",
+      "History of Genetics",
+      "Role of Genetics",
+      "Medical Genetics",
+      "Genetic Recombination",
+      "Biological Importance"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer any 20 of the following 40 questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the primary focus of the branch of biology known as Genetics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The study of cellular respiration and metabolism"
+        },
+        {
+          "type": "string",
+          "content": "The study of organisms' interactions with their environment"
+        },
+        {
+          "type": "string",
+          "content": "The study of genes, genetic variation, and heredity"
+        },
+        {
+          "type": "string",
+          "content": "The study of anatomical structures and physiological functions"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetics Definition",
+      "Genetics Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Genetics Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Genetics is defined as the branch of biology concerned with the study of genes, genetic variation, and heredity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary focus of Genetics.</div><p><strong>Step 1: Identify the core definition of Genetics.</strong><br/>According to biological principles, Genetics is the field that examines how traits are inherited, how genetic material varies within and between organisms, and the fundamental units of heredity.</p><ul><li>Option A describes cellular biology and biochemistry.</li><li>Option B describes ecology.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C accurately defines Genetics as the study of genes, genetic variation, and heredity.</span></li><li>Option D describes anatomy and physiology.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding the scope of genetics is foundational. It encompasses the transmission of traits, the molecular basis of inheritance (genes), and the differences observed in these traits across populations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary focus of Genetics is the study of genes, genetic variation, and heredity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The study of genes, genetic variation, and heredity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following characteristics is typically classified as a hereditary trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A scar acquired from an injury"
+        },
+        {
+          "type": "string",
+          "content": "Muscles developed through exercise"
+        },
+        {
+          "type": "string",
+          "content": "The ability to speak a specific language"
+        },
+        {
+          "type": "string",
+          "content": "Blood group (e.g., A, B, AB, O)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hereditary Traits",
+      "Genetics Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hereditary Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Hereditary traits are those characteristics that are transmitted from parents to offspring, meaning they are controlled by genes and can be passed down through generations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a hereditary trait from the given options.</div><p><strong>Step 1: Evaluate each option based on the definition of a hereditary trait.</strong><br/>A hereditary trait is genetically determined and inheritable, unlike acquired characteristics from environmental interactions or personal experiences.</p><ul><li>Option A, 'A scar acquired from an injury,' is an acquired characteristic, not inherited.</li><li>Option B, 'Muscles developed through exercise,' is an acquired physical trait resulting from lifestyle, not inherited.</li><li>Option C, 'The ability to speak a specific language,' is a learned behavior and an environmental influence, not inherited.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D, 'Blood group (e.g., A, B, AB, O),' is explicitly listed as one of the inheritable characteristics in the provided document, determined by genes passed from parents.</span></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Hereditary traits are present at birth or genetically programmed, distinguishing them from traits developed through life experience or environmental factors.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Blood group (e.g., A, B, AB, O) is a hereditary trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blood group (e.g., A, B, AB, O)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "A key feature distinguishing hereditary characteristics from non-hereditary characteristics is that hereditary traits are:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Acquired through environmental influences"
+        },
+        {
+          "type": "string",
+          "content": "Not controlled by inherited genes"
+        },
+        {
+          "type": "string",
+          "content": "Controlled by genes"
+        },
+        {
+          "type": "string",
+          "content": "Not transferable"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hereditary vs Non-Hereditary",
+      "Genetics Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Features of Hereditary Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Hereditary traits are primarily characterized by being controlled by genes, which allows for their transmission across generations. Non-hereditary traits, conversely, are acquired and not gene-controlled.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a distinguishing feature of hereditary characteristics.</div><p><strong>Step 1: Refer to the features of hereditary characteristics outlined in the document.</strong><br/>The document explicitly states that hereditary characteristics 'They are controlled by gene.'</p><ul><li>Option A describes non-hereditary characteristics.</li><li>Option B describes non-hereditary characteristics.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C directly corresponds to the stated feature of hereditary characteristics.</span></li><li>Option D describes non-hereditary characteristics.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The genetic basis is the defining factor for distinguishing inherited traits from those that are merely acquired during an organism's lifetime.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key feature distinguishing hereditary characteristics is that they are controlled by genes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Controlled by genes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is an example of a non-hereditary physical trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Eye color"
+        },
+        {
+          "type": "string",
+          "content": "Skin color"
+        },
+        {
+          "type": "string",
+          "content": "Body building muscles from exercise"
+        },
+        {
+          "type": "string",
+          "content": "Height potential"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Non-Hereditary Traits",
+      "Genetics Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Non-Hereditary Physical Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Non-hereditary characteristics are acquired during an organism's lifetime due to environmental influences, lifestyle, learning, or experience, and are not genetically transmitted to offspring.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an example of a non-hereditary physical trait.</div><p><strong>Step 1: Review the document's examples of non-hereditary traits, specifically under 'Physical Traits'.</strong><br/>The document lists 'Tattle obaly building muscles from excee' (likely meant 'Tough body building muscles from exercise') and 'Scallopy aur bhun for Sunlyte Preced Bare' (likely meant 'Scalloped skin from Sunlight exposure') as non-hereditary physical traits.</p><ul><li>Options A, B, and D (Eye Color, Skin Color, Height potential) are listed as hereditary characteristics.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C, 'Body building muscles from exercise,' aligns with the document's example of a non-hereditary physical trait, as it is acquired through effort rather than inherited.</span></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Traits that are developed through an individual's activities or exposure to the environment, rather than being encoded in their DNA, are considered non-hereditary.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Body building muscles from exercise is an example of a non-hereditary physical trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Body building muscles from exercise"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "In a monohybrid cross between two heterozygous parents (Aa x Aa), what is the probability of an offspring having a dominant phenotype?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1/4"
+        },
+        {
+          "type": "string",
+          "content": "1/2"
+        },
+        {
+          "type": "string",
+          "content": "3/4"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monohybrid Cross",
+      "Mendelian Genetics",
+      "Probability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monohybrid Cross Probability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In a monohybrid cross between two heterozygotes (Aa x Aa), the genotypic ratio is typically 1 AA : 2 Aa : 1 aa. The dominant phenotype is expressed by both homozygous dominant (AA) and heterozygous (Aa) genotypes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A cross is Aa x Aa, and the question asks for the probability of offspring with a dominant phenotype.</div><p><strong>Step 1: Determine the possible genotypes and their ratios from the cross.</strong><br/>Using a Punnett square for Aa x Aa:<br/>- AA (1)<br/>- Aa (2)<br/>- aa (1)<br/>Total possible outcomes = <span style='color:var(--orange);font-weight:bold;'>4</span></p><p><strong>Step 2: Identify genotypes that express the dominant phenotype.</strong><br/>The dominant phenotype is expressed by <span style='color:var(--orange);font-weight:bold;'>AA and Aa genotypes</span>.</p><p><strong>Step 3: Calculate the probability.</strong><br/>Number of offspring with dominant phenotype = 1 (AA) + 2 (Aa) = <span style='color:var(--orange);font-weight:bold;'>3</span>.<br/>Probability = (Number of dominant phenotypes) / (Total possible outcomes) = <span style='color:var(--orange);font-weight:bold;'>3/4</span>.</p><ul><li>Option A (1/4) represents the probability of the homozygous dominant (AA) or homozygous recessive (aa) phenotype.</li><li>Option B (1/2) is incorrect for the dominant phenotype.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (3/4) is the correct probability for the dominant phenotype.</span></li><li>Option D (1) would mean all offspring express the dominant phenotype, which is not true for a heterozygous cross.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly provides this calculation: \"3:1 OR = 2/4 1/4 = 3/4\" for the dominant phenotype from an Aa x Aa cross.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The probability of an offspring having a dominant phenotype is 3/4.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3/4"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The Chi-square (X²) test is primarily used in genetics to:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Measure the strength of linkage between two genes"
+        },
+        {
+          "type": "string",
+          "content": "Determine the genotypic ratio of a dihybrid cross"
+        },
+        {
+          "type": "string",
+          "content": "Assess if observed experimental results agree with expected Mendelian ratios"
+        },
+        {
+          "type": "string",
+          "content": "Calculate the recombination frequency between loci"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chi-square Test",
+      "Mendelian Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chi-square Test Purpose</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The Chi-square test is a statistical tool used to compare observed experimental results with expected theoretical results, especially in genetics to see if observed phenotypic ratios fit Mendelian predictions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary use of the Chi-square test in genetics.</div><p><strong>Step 1: Identify the main purpose of the Chi-square test as stated in the document.</strong><br/>The document states, \"A goodness of fit test determines whether Observed experimental results agree with expected Mendelian ratios.\" It further explains, \"The Chi-square test measures the difference between Presented (Observed) and expected Values.\"</p><ul><li>Option A relates to linkage mapping, not the Chi-square test's primary function.</li><li>Option B describes a direct outcome of a genetic cross, not a statistical test.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C accurately describes the purpose of the Chi-square test, which evaluates the 'goodness of fit' between observed data and expected ratios.</span></li><li>Option D relates to recombination frequency, which is different from goodness of fit.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The Chi-square test helps determine if any deviations from expected ratios are due to chance or a statistically significant difference.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Chi-square (X²) test is primarily used in genetics to assess if observed experimental results agree with expected Mendelian ratios.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Assess if observed experimental results agree with expected Mendelian ratios"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "The product rule of probability states that the probability of two or more independent events occurring simultaneously equals the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sum of their individual probabilities"
+        },
+        {
+          "type": "string",
+          "content": "Difference between their individual probabilities"
+        },
+        {
+          "type": "string",
+          "content": "Product of their individual probabilities"
+        },
+        {
+          "type": "string",
+          "content": "Ratio of their individual probabilities"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Product Rule",
+      "Probability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Product Rule of Probability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The product rule is used to calculate the probability of two or more independent events happening together. It involves multiplying their individual probabilities.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the statement of the product rule of probability.</div><p><strong>Step 1: Locate the definition of the product rule in the document.</strong><br/>The document states: \"Product rule It states that the probability of two or more independent ant occurring Simultaneously equals Pole pustuct of their indundual producecity. P(A and B) = P(A) x P(B)\" (Likely meant 'Product of their individual probabilities').</p><ul><li>Option A describes the sum rule, used for mutually exclusive events.</li><li>Option B describes a difference, which is not a standard probability rule.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C accurately reflects the product rule as stated, where individual probabilities are multiplied.</span></li><li>Option D describes a ratio, which is not applicable here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The formula P(A and B) = P(A) x P(B) is the direct mathematical representation of the product rule.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product rule of probability states that the probability of two or more independent events occurring simultaneously equals the product of their individual probabilities.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Product of their individual probabilities"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Quantitative inheritance refers to the inheritance of traits controlled by:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A single dominant gene"
+        },
+        {
+          "type": "string",
+          "content": "Environmental factors only"
+        },
+        {
+          "type": "string",
+          "content": "Two or more genes (polygenes)"
+        },
+        {
+          "type": "string",
+          "content": "Linked genes on the same chromosome"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quantitative Inheritance",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Quantitative Inheritance Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Quantitative inheritance, also known as polygenic inheritance, involves traits that are determined by the cumulative effect of multiple genes, often with environmental influences, leading to continuous variation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the genetic basis of quantitative inheritance.</div><p><strong>Step 1: Consult the document's definition of Quantitative Inheritance.</strong><br/>The document states: \"Quamatrice laberriance It reten to the wherstance of trous Contated by toor or mere gernes (Polygenes) whorse effect are addiction.\" (Likely meant 'Quantitative inheritance refers to the inheritance of traits controlled by two or more genes (polygenes) whose effects are additive').</p><ul><li>Option A describes simple Mendelian inheritance.</li><li>Option B describes only one influencing factor, while quantitative traits are often multifactorial.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C aligns directly with the definition provided, referring to traits controlled by 'two or more genes (Polygenes)'.</span></li><li>Option D describes genetic linkage, which is a different concept from quantitative inheritance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Traits like height and weight are classic examples of quantitative traits, showing continuous variation due to the involvement of multiple genes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Quantitative inheritance refers to the inheritance of traits controlled by two or more genes (polygenes).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two or more genes (polygenes)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which of the following is a characteristic feature of quantitative traits?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are controlled by a single gene"
+        },
+        {
+          "type": "string",
+          "content": "They exhibit discontinuous variation"
+        },
+        {
+          "type": "string",
+          "content": "They are measured rather than counted"
+        },
+        {
+          "type": "string",
+          "content": "They are solely determined by environmental factors"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quantitative Traits",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Quantitative Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Quantitative traits are polygenic, influenced by environment, show continuous variation, are measurable, and often follow a normal distribution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a characteristic feature of quantitative traits.</div><p><strong>Step 1: Review the listed characteristics of quantitative traits in the document.</strong><br/>The document lists: \"1. It is Conorilled by mutiple genes. 2. It is influenced by Continental faceres. 3. It exhibit Continueus Voratión 4. It is measund rather than Counted. 5. It Doually deeplay normal disanbution.\" (Likely meant '1. It is Controlled by multiple genes. 2. It is influenced by Environmental factors. 3. It exhibits Continuous Variation. 4. It is measured rather than Counted. 5. It usually displays normal distribution.')</p><ul><li>Option A contradicts the polygenic nature (multiple genes).</li><li>Option B contradicts the continuous variation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C, 'They are measured rather than counted,' is explicitly listed as characteristic number 4.</span></li><li>Option D is incorrect as they are influenced by *both* genes and environment, not solely environment.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Traits like height and weight are typically measured (e.g., in cm, kg) rather than counted into distinct categories.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A characteristic feature of quantitative traits is that they are measured rather than counted.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are measured rather than counted"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which of the following serves as the binding site for RNA polymerase and initiates transcription in a Eukaryotic gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Exon"
+        },
+        {
+          "type": "string",
+          "content": "Intron"
+        },
+        {
+          "type": "string",
+          "content": "Promoter"
+        },
+        {
+          "type": "string",
+          "content": "Terminator region"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Structure",
+      "Eukaryotic Gene"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Eukaryotic Gene Structure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A typical eukaryotic gene consists of several components, each with a specific role in gene expression. The promoter region is crucial for initiating transcription.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the part of a eukaryotic gene that acts as the RNA polymerase binding site and initiates transcription.</div><p><strong>Step 1: Consult the 'Structure Of A Gene' section in the document.</strong><br/>The document lists components of a typical eukaryotic gene: \"1. Promover attenz Sentes as the bindurig rig file for RNA poly Base and Initates bancophon.\" (Likely meant '1. Promoter: Serves as the binding site for RNA polymerase and initiates transcription.')</p><ul><li>Option A (Exon) is the coding region of the gene.</li><li>Option B (Intron) is the non-coding sequence.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Promoter) is correctly identified as the binding site for RNA polymerase and initiator of transcription.</span></li><li>Option D (Terminator region) signals the end of transcription.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The promoter's role as the regulatory start point for gene transcription is fundamental to molecular biology.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Promoter serves as the binding site for RNA polymerase and initiates transcription in a Eukaryotic gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promoter"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "What is the primary function of regulatory elements like enhancers and silencers in a gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To encode the functional protein"
+        },
+        {
+          "type": "string",
+          "content": "To signal the end of transcription"
+        },
+        {
+          "type": "string",
+          "content": "To remove non-coding sequences from mRNA"
+        },
+        {
+          "type": "string",
+          "content": "To regulate gene expression"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Regulation",
+      "Gene Structure"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Function of Regulatory Elements</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Regulatory elements are DNA sequences that influence the rate at which genes are transcribed into RNA. Enhancers increase transcription, while silencers decrease it.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary function of regulatory elements like enhancers and silencers.</div><p><strong>Step 1: Refer to the document's description of 'Regulatory elements'.</strong><br/>Under 'Structure Of A Gene', the document states: \"Regolatry dements: It includes Enhancars (6) Silencius (1) Insulators. The regulatory elements regulate gene expression.\" (Likely meant 'Regulatory elements: It includes Enhancers, Silencers, Insulators. The regulatory elements regulate gene expression.')</p><ul><li>Option A is the function of exons.</li><li>Option B is the function of the terminator region.</li><li>Option C describes splicing, which removes introns, but is not the primary function of enhancers/silencers.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D, 'To regulate gene expression,' is directly stated as the function of regulatory elements.</span></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Gene expression regulation is a critical aspect of cell differentiation and response to environmental cues, driven by these regulatory elements.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary function of regulatory elements like enhancers and silencers in a gene is to regulate gene expression.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To regulate gene expression"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Which of the following processes involves changes in DNA nucleotide sequences?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gene Duplication"
+        },
+        {
+          "type": "string",
+          "content": "Chromosomal Rearrangement"
+        },
+        {
+          "type": "string",
+          "content": "Gene Mutation"
+        },
+        {
+          "type": "string",
+          "content": "Transcription"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genome Variation",
+      "Gene Mutation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gene Mutation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Gene mutations are alterations in the nucleotide sequence of a gene. These can include substitutions, insertions, or deletions of bases.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the process that involves changes in DNA nucleotide sequences.</div><p><strong>Step 1: Refer to the 'Gene Mutation' section in the document.</strong><br/>The document explicitly defines gene mutation: \"Gone Mutanane Thay que Changes in DANA Duckstide Sequences. By of mutation include Substitution, Insertion, Deleting.\" (Likely meant 'Gene Mutations: They are Changes in DNA Nucleotide Sequences. Types of mutation include Substitution, Insertion, Deletion.')</p><ul><li>Option A (Gene Duplication) involves copying an entire DNA segment, not necessarily changes within its sequence.</li><li>Option B (Chromosomal Rearrangement) involves larger-scale changes in chromosome structure, not specifically nucleotide sequences.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Gene Mutation) is directly defined as changes in DNA nucleotide sequences.</span></li><li>Option D (Transcription) is the process of synthesizing RNA from a DNA template, not changing the DNA sequence itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Mutations at the nucleotide level are fundamental sources of genetic variation and are distinct from larger-scale chromosomal changes or duplications.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gene Mutation involves changes in DNA nucleotide sequences.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene Mutation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "One of the biological importances of genome variation is its role as a:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Cause of genetic uniformity"
+        },
+        {
+          "type": "string",
+          "content": "Driver of species extinction"
+        },
+        {
+          "type": "string",
+          "content": "Source of genetic diversity"
+        },
+        {
+          "type": "string",
+          "content": "Mechanism for asexual reproduction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genome Variation",
+      "Evolution"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biological Importance of Genome Variation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Genome variation provides the raw material for evolutionary processes, allowing populations to adapt to changing environments and fostering genetic diversity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for one biological importance of genome variation.</div><p><strong>Step 1: Refer to the 'Biological Importance Of Genome Variation' section in the document.</strong><br/>The document lists: \"1 Souce of genetic datestay. 2 Volitionang adaptation. 3 Disease Susceptibility. 4 Doug risipense Vacatio\" (Likely meant '1 Source of genetic diversity. 2 Evolutionary adaptation. 3 Disease Susceptibility. 4 Drug response variation.')</p><ul><li>Option A (genetic uniformity) is the opposite of what variation provides.</li><li>Option B (species extinction) is generally not a direct importance, though maladaptive variations can contribute.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Source of genetic diversity) is explicitly listed as the first importance.</span></li><li>Option D (asexual reproduction) does not directly relate to the importance of *variation* itself in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Genetic diversity is crucial for a species' long-term survival and ability to evolve.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One of the biological importances of genome variation is its role as a source of genetic diversity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Source of genetic diversity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "What term describes the phenomenon where two or more genes influence the expression of a single trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Co-dominance"
+        },
+        {
+          "type": "string",
+          "content": "Incomplete dominance"
+        },
+        {
+          "type": "string",
+          "content": "Gene Interaction"
+        },
+        {
+          "type": "string",
+          "content": "Pleiotropy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Interaction",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gene Interaction Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Gene interaction occurs when the expression of a single trait is not solely determined by one gene but is influenced by the interplay of two or more genes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the term describing when multiple genes influence a single trait.</div><p><strong>Step 1: Refer to the 'Gene Interaction' section in the document.</strong><br/>The document states: \"Gene Interaction It occurs when two or more gones influence the Cexpression of a Singh trave.\" (Likely meant 'Gene Interaction: It occurs when two or more genes influence the expression of a single trait.')</p><ul><li>Options A and B (Co-dominance, Incomplete dominance) describe how alleles of a single gene interact, not interactions between multiple genes for a single trait.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Gene Interaction) directly matches the definition provided in the document.</span></li><li>Option D (Pleiotropy) is when one gene affects multiple traits, the inverse of what the question describes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Gene interaction is a broad term encompassing phenomena like epistasis and complementary gene action, where multiple genes contribute to a single phenotypic outcome.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gene Interaction describes the phenomenon where two or more genes influence the expression of a single trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene Interaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "In which type of gene interaction does one gene mask or modify the expression of another gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene action"
+        },
+        {
+          "type": "string",
+          "content": "Epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Inhibitory gene interaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Interaction",
+      "Epistasis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Epistatic Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Epistasis is a form of gene interaction where one gene (epistatic gene) interferes with or masks the phenotypic expression of another gene (hypostatic gene) at a different locus.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the type of gene interaction where one gene masks or modifies another.</div><p><strong>Step 1: Refer to the 'Types Of Gere Inseraction' section in the document.</strong><br/>The document states: \"2 Aprodano : One gene masto or medites the expression of aneste\" (Likely meant '2 Epistasis: One gene masks or modifies the expression of another').</p><ul><li>Option A (Complementary gene interaction) requires two dominant genes for expression.</li><li>Option B (Duplicate gene action) states a dominant gene produces the same phenotype regardless of another gene.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Epistasis) is directly defined as one gene masking or modifying the expression of another.</span></li><li>Option D (Inhibitory gene interaction) is a specific form of epistasis where one gene suppresses another. Epistasis is the broader and more accurate term as defined.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Epistasis is a well-known genetic phenomenon that leads to deviations from typical Mendelian dihybrid ratios.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Epistasis is the type of gene interaction where one gene masks or modifies the expression of another gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "A key characteristic of extranuclear inheritance (cytoplasmic/mitochondrial) is that traits are typically passed down via:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Paternal inheritance"
+        },
+        {
+          "type": "string",
+          "content": "Maternal inheritance"
+        },
+        {
+          "type": "string",
+          "content": "Both paternal and maternal inheritance equally"
+        },
+        {
+          "type": "string",
+          "content": "Independent assortment"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Extranuclear Inheritance",
+      "Maternal Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Maternal Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Extranuclear inheritance, particularly mitochondrial inheritance, is characterized by maternal transmission because the egg provides the cytoplasm and its organelles (including mitochondria) to the zygote, while the sperm typically contributes only its nucleus.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a key characteristic of extranuclear inheritance regarding its transmission pattern.</div><p><strong>Step 1: Refer to the 'Key Characteristic' section under 'Extranuclear/Cytoplasmic/Mitochondrial Inheritance'.</strong><br/>The document states: \"Maternal inhertence This Imphis that bass are posred from mother Strictly to offspicy\" (Likely meant 'Maternal inheritance: This implies that traits are passed from mother strictly to offspring').</p><ul><li>Option A (Paternal inheritance) is incorrect for extranuclear inheritance.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B (Maternal inheritance) is the defining mode of transmission for extranuclear traits, as stated.</span></li><li>Option C is incorrect because it's not equal, but predominantly maternal.</li><li>Option D (Independent assortment) applies to nuclear genes following Mendelian rules, not extranuclear inheritance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Leber's hereditary optic neuropathy (LHON) is given as an example, explicitly stating it's \"passed from mother to offspring.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Traits in extranuclear inheritance are typically passed down via maternal inheritance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Maternal inheritance"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Leber's hereditary Optic neuropathy (LHON) is given as an example of a disease resulting from a mutation in:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Nuclear DNA"
+        },
+        {
+          "type": "string",
+          "content": "Mitochondrial DNA"
+        },
+        {
+          "type": "string",
+          "content": "Chloroplast DNA"
+        },
+        {
+          "type": "string",
+          "content": "Sex chromosomes"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mitochondrial Inheritance",
+      "Extranuclear Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leber's Hereditary Optic Neuropathy (LHON)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> LHON is a maternally inherited disorder caused by mutations in mitochondrial DNA, leading to degeneration of retinal ganglion cells and their axons.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the genetic basis of Leber's hereditary Optic neuropathy (LHON).</div><p><strong>Step 1: Refer to the examples of extranuclear inheritance in the document.</strong><br/>Under 'Examples', the document states: \"Mitochondria Inheritance (human Pathology): Lember's hereditary Optic neuropathy CLHON): This is a deberesitation of the retina, eye disease (blindness) passed from mother to offspring.\" (Likely meant 'Mitochondrial Inheritance (human pathology): Leber's hereditary Optic neuropathy (LHON): This is a degeneration of the retina, eye disease (blindness) passed from mother to offspring.')</p><ul><li>Option A (Nuclear DNA) is where most genes are located, but LHON is specifically an extranuclear disorder.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B (Mitochondrial DNA) is explicitly mentioned as the context for LHON under 'Mitochondria Inheritance'.</span></li><li>Option C (Chloroplast DNA) is relevant for plant extranuclear inheritance, not human diseases.</li><li>Option D (Sex chromosomes) relates to X-linked or Y-linked inheritance, which is distinct from mitochondrial inheritance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The classification of LHON as a mitochondrial disorder emphasizes its unique maternal inheritance pattern.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Leber's hereditary Optic neuropathy (LHON) is given as an example of a disease resulting from a mutation in mitochondrial DNA.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitochondrial DNA"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "In the XY sex determination system, found in humans and mammals, which sex is homogametic?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Males (XY)"
+        },
+        {
+          "type": "string",
+          "content": "Females (XX)"
+        },
+        {
+          "type": "string",
+          "content": "Both sexes are heterogametic"
+        },
+        {
+          "type": "string",
+          "content": "Both sexes are homogametic"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sex Determination",
+      "Chromosomal Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>XY Sex Determination System</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In the XY system, the homogametic sex produces gametes that are all the same with respect to sex chromosomes (e.g., all X), while the heterogametic sex produces two different types of gametes (e.g., X and Y).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the homogametic sex in the XY sex determination system.</div><p><strong>Step 1: Refer to the 'NY Sycoms' (XY Systems) section in the document.</strong><br/>The document states: \"NY Sycoms: This is found in humans, mommals cand dore-Sopbola, Females are home gametic (xx) while males are hetogametic (XY)\" (Likely meant 'XY Systems: This is found in humans, mammals, and Drosophila. Females are homogametic (XX) while males are heterogametic (XY)').</p><ul><li>Option A (Males, XY) are described as heterogametic because they produce two types of gametes (X and Y).</li><li><span style='color:var(--orange);font-weight:bold;'>Option B (Females, XX) are described as homogametic because they produce only one type of gamete (X).</span></li><li>Option C and D are incorrect as they contradict the specific description of XY systems.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The XX genotype in females means they produce only X-bearing eggs, making them homogametic.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the XY sex determination system, females (XX) are homogametic.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Females (XX)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "In the absence of the SRY gene, what pathway does embryonic development follow in the XY sex determination system?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Testis formation"
+        },
+        {
+          "type": "string",
+          "content": "Development of Wolffian ducts"
+        },
+        {
+          "type": "string",
+          "content": "Ovary formation"
+        },
+        {
+          "type": "string",
+          "content": "Sertoli cell differentiation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "SRY Gene",
+      "Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>SRY Gene and Sex Development</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The SRY gene on the Y chromosome is critical for male sex determination. Its presence initiates the development of testes and male structures. In its absence, the default pathway leads to female development.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the developmental outcome in the absence of the SRY gene.</div><p><strong>Step 1: Refer to the SRY pathway description in the document.</strong><br/>The document states: \"In the absence of SRy the default dedelopment pathway proceds towards Nvavy formation.\" (Likely meant 'In the absence of SRY, the default developmental pathway proceeds towards Ovary formation.')</p><ul><li>Options A, B, and D are all part of the male development pathway, which is initiated by the presence of SRY.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Ovary formation) is the default developmental pathway in the absence of SRY.</span></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The SRY gene is a master switch; without it, even an XY individual can develop female gonads and phenotype.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the absence of the SRY gene, embryonic development follows the pathway towards ovary formation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ovary formation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which sex determination system is characterized by females having ZW sex chromosomes and males having ZZ sex chromosomes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "XY system"
+        },
+        {
+          "type": "string",
+          "content": "XO system"
+        },
+        {
+          "type": "string",
+          "content": "ZW system"
+        },
+        {
+          "type": "string",
+          "content": "Haplodiploidy system"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sex Determination Systems",
+      "ZW System"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>ZW Sex Determination System</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The ZW sex determination system is found in birds, some reptiles, and butterflies, where females are heterogametic (ZW) and males are homogametic (ZZ).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the sex determination system where females are ZW and males are ZZ.</div><p><strong>Step 1: Refer to the 'Sex Determination System' section in the document, specifically the descriptions of different systems.</strong><br/>The document states: \"Zd system: Common in buds, repede, Some butterflips The females haute the zal while moles haute zz\" (Likely meant 'ZW system: Common in birds, reptiles, some butterflies. The females have ZW while males have ZZ').</p><ul><li>Option A (XY system) has XX females and XY males.</li><li>Option B (XO system) has XX females and XO males.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (ZW system) matches the description given: ZW females and ZZ males.</span></li><li>Option D (Haplodiploidy system) involves sex determination based on ploidy level, not ZW chromosomes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This system is essentially the inverse of the XY system in terms of which sex is heterogametic.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The ZW system is characterized by females having ZW sex chromosomes and males having ZZ sex chromosomes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ZW system"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "In the haplodiploidy system, how do unfertilized (haploid) eggs from a queen bee develop?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Into female workers"
+        },
+        {
+          "type": "string",
+          "content": "Into male drones via parthenogenesis"
+        },
+        {
+          "type": "string",
+          "content": "Into sterile females"
+        },
+        {
+          "type": "string",
+          "content": "Into queens"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Haplodiploidy",
+      "Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Haplodiploidy and Parthenogenesis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Haplodiploidy is a sex-determination system in which males develop from unfertilized eggs and are haploid, while females develop from fertilized eggs and are diploid. Parthenogenesis is a form of asexual reproduction where growth and development of embryos occur without fertilization.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the development of unfertilized (haploid) eggs from a queen bee in the haplodiploidy system.</div><p><strong>Step 1: Refer to the 'Haplodiploidy' section in the document.</strong><br/>The document states: \"eythe quere bes velocess Unleashed eggs Chaploud s develop xo males via parthenogenesis\" (Likely meant 'the queen bee releases unfertilized eggs (haploid) which develop into males via parthenogenesis').</p><ul><li>Options A, C, and D describe female castes or states, which develop from fertilized, diploid eggs.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B correctly states that unfertilized (haploid) eggs develop into male drones via parthenogenesis.</span></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a key feature of social insects like bees, where ploidy level directly determines sex.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the haplodiploidy system, unfertilized (haploid) eggs from a queen bee develop into male drones via parthenogenesis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Into male drones via parthenogenesis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which of the following is NOT a characteristic of complete linkage?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Crossing over never occurs between the genes"
+        },
+        {
+          "type": "string",
+          "content": "Only one parental gamete produced"
+        },
+        {
+          "type": "string",
+          "content": "No recombinant gametes are formed"
+        },
+        {
+          "type": "string",
+          "content": "Parental gametes are predominant"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Complete Linkage",
+      "Linkage and Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Complete Linkage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Complete linkage occurs when genes are so close together on a chromosome that crossing over between them essentially never happens, resulting in only parental type gametes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a characteristic that is *NOT* part of complete linkage.</div><p><strong>Step 1: Refer to the 'Characteristics Of Complete Cincage' section in the document and the definition of complete linkage.</strong><br/>The document defines complete linkage as occurring \"when genes are So Close toget that Crossing Oller nevler occurs between them\" (Likely meant 'when genes are so close together that Crossing Over never occurs between them'). It lists characteristics: \"4 Only one Parental germite produced. 6. No recombinare gamete C. It is rear in higher Organoms.\" (Likely meant 'a. Only one Parental gamete produced. b. No recombinant gamete. c. It is rare in higher Organisms.')</p><ul><li>Option A (\"Crossing over never occurs between the genes\") is a defining aspect of complete linkage.</li><li>Option B (\"Only one parental gamete produced\") is explicitly listed as a characteristic.</li><li>Option C (\"No recombinant gametes are formed\") is explicitly listed as a characteristic.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D (\"Parental gametes are predominant\") is a characteristic of *incomplete* linkage, not complete linkage, where recombinants still occur but are less frequent than parentals.</span> In complete linkage, *only* parental gametes are formed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> By definition, complete linkage means *no* recombinant gametes, not just a predominance of parental ones. The predominance is for incomplete linkage.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 'Parental gametes are predominant' is NOT a characteristic of complete linkage.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parental gametes are predominant"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which of the following describes the first stage of crossing over?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Resolution of chiasmata"
+        },
+        {
+          "type": "string",
+          "content": "Synaptonemal Complex formation"
+        },
+        {
+          "type": "string",
+          "content": "Synapsis (homologous pairs together)"
+        },
+        {
+          "type": "string",
+          "content": "Strand exchange at Holliday Junction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Crossing Over",
+      "Meiosis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Stages of Crossing Over</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Crossing over, the exchange of genetic material between homologous chromosomes, occurs during Prophase I of meiosis and involves several distinct stages.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the first stage of crossing over.</div><p><strong>Step 1: Refer to the '4 Stages of Crosering Oller' (Crossing Over) section in the document.</strong><br/>The document lists: \"1 Synopsis, bainagous par together, jame a dovese Dod food\" (Likely meant '1 Synapsis: homologous pair together, form a bivalent') as the first stage. This refers to the pairing of homologous chromosomes.</p><ul><li>Option A (Resolution) is the final stage.</li><li>Option B (Synaptonemal Complex formation) is the second stage, building upon synapsis.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Synapsis, homologous pairs together) is the correct first stage, where homologous chromosomes physically align.</span></li><li>Option D (Strand exchange) is the third stage.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The orderly pairing of homologous chromosomes (synapsis) is the prerequisite for any subsequent exchange of genetic material.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Synapsis (homologous pairs together) describes the first stage of crossing over.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synapsis (homologous pairs together)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "What is the recombination frequency (RF) if a genetic cross produced 48 recombinant offspring and 52 recombinant offspring (total 100 recombinant) from a total of 1000 offspring?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "4.8%"
+        },
+        {
+          "type": "string",
+          "content": "5.2%"
+        },
+        {
+          "type": "string",
+          "content": "10%"
+        },
+        {
+          "type": "string",
+          "content": "100%"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recombination Frequency",
+      "Linkage and Recombination",
+      "Genetics Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Recombination Frequency Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Recombination frequency (RF) is the percentage of recombinant offspring in a genetic cross. It is calculated as (Number of recombinant offspring / Total number of offspring) * 100%.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em><br/>Number of recombinant offspring = 48 + 52 = <span style='color:var(--orange);font-weight:bold;'>100</span><br/>Total number of offspring = <span style='color:var(--orange);font-weight:bold;'>1000</span></div><p><strong>Step 1: Apply the recombination frequency formula.</strong><br/>RF = (Recombinant offspring / Total offspring) * 100%</p><p><strong>Step 2: Substitute the given values into the formula.</strong><br/>RF = (100 / 1000) * 100%<br/>RF = 0.1 * 100%<br/>RF = <span style='color:var(--orange);font-weight:bold;'>10%</span></p><ul><li>Option A (4.8%) would be if only one group of recombinants was used.</li><li>Option B (5.2%) would be if only one group of recombinants was used.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (10%) is the correct recombination frequency.</span></li><li>Option D (100%) implies all offspring were recombinant, which is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides an identical example calculation: \"RF = 48+52 x 100% => 10%\" confirming the steps and result.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The recombination frequency is 10%.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "What is the significance of a recombination frequency (RF) greater than 50%?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The genes are very tightly linked"
+        },
+        {
+          "type": "string",
+          "content": "The genes are located on different chromosomes or are very far apart on the same chromosome"
+        },
+        {
+          "type": "string",
+          "content": "Crossing over is completely suppressed"
+        },
+        {
+          "type": "string",
+          "content": "Only parental gametes are formed"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recombination Frequency",
+      "Linkage and Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Recombination Frequency > 50%</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A recombination frequency of 50% is characteristic of genes that assort independently. This occurs either when genes are on different chromosomes or when they are so far apart on the same chromosome that crossing over between them occurs in every meiosis, effectively making them unlinked.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the significance of an RF greater than 50%.</div><p><strong>Step 1: Refer to the note regarding recombination frequencies.</strong><br/>The document states: \"N/B Recombination frequentias Over 5070 hdicate that the does Fue unbnked and recumbraation can occur while R.F than 50% are more lucely to be linerd and recombina\" (Likely meant 'N/B Recombination frequencies over 50% indicate that the genes are unlinked. Recombination frequencies less than 50% are more likely to be linked.'). Although the wording is a bit broken, it clearly implies that >50% means unlinked, meaning independent assortment.</p><ul><li>Option A (very tightly linked) would correspond to a very low RF (approaching 0%).</li><li><span style='color:var(--orange);font-weight:bold;'>Option B (genes are located on different chromosomes or are very far apart on the same chromosome) correctly describes independent assortment, which results in an RF of 50% or greater. An RF > 50% implies they are effectively unlinked.</span></li><li>Option C (crossing over completely suppressed) would result in 0% recombination frequency (complete linkage).</li><li>Option D (only parental gametes are formed) also corresponds to 0% recombination.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Genes that are unlinked (either on different chromosomes or very distant on the same chromosome) will show an RF of 50% due to random assortment of alleles, producing equal proportions of parental and recombinant gametes. An RF slightly above 50% might indicate experimental variation around true unlinked genes.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A recombination frequency (RF) greater than 50% indicates that the genes are located on different chromosomes or are very far apart on the same chromosome.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The genes are located on different chromosomes or are very far apart on the same chromosome"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Prokaryotes primarily transfer genetic material through which mechanism, given they lack meiosis?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sexual reproduction"
+        },
+        {
+          "type": "string",
+          "content": "Vertical gene transfer"
+        },
+        {
+          "type": "string",
+          "content": "Horizontal gene transfer"
+        },
+        {
+          "type": "string",
+          "content": "Mitosis"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Prokaryotic Recombination",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Prokaryotic Genetic Transfer</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Prokaryotes do not undergo meiosis or sexual reproduction. Instead, they exchange genetic material primarily through horizontal gene transfer (HGT), which includes conjugation, transformation, and transduction.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the primary mechanism of genetic material transfer in prokaryotes, considering their lack of meiosis.</div><p><strong>Step 1: Refer to the 'Introduction Of Recombination In Procayores' section in the document.</strong><br/>The document states: \"Pracayeras legbaciena) lace mesoss and therefore connet recombine their genes through the Social Gyere used bay akanyeres instead procongates transfer gantic matend tense major mechanism of horizontal gone transter and this include transformation, transduction and Cragsgation.\" (Likely meant 'Prokaryotes (bacteria) lack meiosis and therefore cannot recombine their genes through the Sexual Cycle. Instead, prokaryotes transfer genetic material through three major mechanisms of horizontal gene transfer: transformation, transduction, and conjugation.')</p><ul><li>Option A (Sexual reproduction) is incorrect as prokaryotes lack it.</li><li>Option B (Vertical gene transfer) refers to passing genes from parent to offspring, which happens during cell division, but HGT is the *major mechanism* for gene transfer *between* existing cells.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Horizontal gene transfer) is explicitly identified as the major mechanism for genetic material transfer in prokaryotes.</span></li><li>Option D (Mitosis) is a eukaryotic cell division process; prokaryotes undergo binary fission, which is a type of vertical transfer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The three methods listed (transformation, transduction, conjugation) are all forms of horizontal gene transfer, allowing prokaryotes to acquire new genetic traits.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Prokaryotes primarily transfer genetic material through horizontal gene transfer.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Horizontal gene transfer"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "In conjugation, what structure facilitates the cell-to-cell contact for genetic material transfer?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Plasmid"
+        },
+        {
+          "type": "string",
+          "content": "Transposon"
+        },
+        {
+          "type": "string",
+          "content": "Pilus"
+        },
+        {
+          "type": "string",
+          "content": "Bacteriophage"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Conjugation",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conjugation Mechanism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Conjugation is a mechanism of horizontal gene transfer where genetic material, typically a plasmid, is transferred directly from one bacterium to another through direct cell-to-cell contact, often mediated by a specialized structure called a pilus.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the structure facilitating cell-to-cell contact during conjugation.</div><p><strong>Step 1: Refer to the description of conjugation in the document.</strong><br/>The document states: \"The FT cells expend their Sex plus to that arcushion to F- roul Surface The Pallas Tetract banging the cell into direct\" (Likely meant 'The F+ cells extend their Sex pilus to attach to F- cell surface. The Pilus retracts bringing the cells into direct contact'). It also mentions \"A Conjugation bondge Or mating pare forms between the tace Colts\" (Likely meant 'A Conjugation bridge or mating pair forms between the two cells').</p><ul><li>Option A (Plasmid) is the genetic material often transferred, not the contact structure.</li><li>Option B (Transposon) is a mobile genetic element, not involved in forming the bridge.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Pilus) is clearly indicated as the structure responsible for initial contact and drawing cells together.</span></li><li>Option D (Bacteriophage) is the agent for transduction, not conjugation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The F pilus (sex pilus) is a well-known structure in gram-negative bacteria, essential for conjugation initiation.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In conjugation, the pilus facilitates the cell-to-cell contact for genetic material transfer.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pilus"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "What is the term for a mobile section of DNA that can move within or between genomes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Plasmid"
+        },
+        {
+          "type": "string",
+          "content": "Chromosome"
+        },
+        {
+          "type": "string",
+          "content": "Transposon (Jumping gene)"
+        },
+        {
+          "type": "string",
+          "content": "Bacteriophage"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mobile Genetic Elements",
+      "Transposons"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transposons (Jumping Genes)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Transposons, also known as 'jumping genes,' are DNA sequences that can change their position within a genome, sometimes creating or reversing mutations and altering the cell's genetic identity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the term describing a mobile DNA section capable of moving within or between genomes.</div><p><strong>Step 1: Refer to the description of DNA elements in the context of prokaryotic recombination (though the concept is general).</strong><br/>The document states: \"A prasmid b٩٢١he DINA Section that replicals Independently of Chromosomes while a transpussion also Called Jumping gene 15 a mobile section of bus that con mode costhen or between genomes.\" (Likely meant 'A plasmid is a DNA section that replicates independently of chromosomes while a transposon, also Called Jumping gene, is a mobile section of DNA that can move within or between genomes.')</p><ul><li>Option A (Plasmid) replicates independently but is generally transferred as a whole unit, not just 'moving within' a genome like a transposon.</li><li>Option B (Chromosome) is the main genetic material, not typically considered a 'mobile section' in this sense.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Transposon (Jumping gene)) directly matches the definition of a mobile section of DNA that can move within or between genomes.</span></li><li>Option D (Bacteriophage) is a virus that infects bacteria, acting as a vector for transduction, not a mobile DNA element itself in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'jumping gene' is a common colloquialism for transposons, reflecting their ability to move to different locations in the genome.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Transposon (Jumping gene) is the term for a mobile section of DNA that can move within or between genomes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transposon (Jumping gene)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "What is 'competence' in the context of bacterial transformation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The ability of bacteria to form a conjugation pilus"
+        },
+        {
+          "type": "string",
+          "content": "The ability of bacteria to take up foreign genetic material"
+        },
+        {
+          "type": "string",
+          "content": "The ability of bacteria to be infected by a bacteriophage"
+        },
+        {
+          "type": "string",
+          "content": "The ability of bacteria to resist antibiotics"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Transformation",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bacterial Competence</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Bacterial transformation is the process by which bacteria take up naked DNA from their environment. 'Competence' refers to a bacterium's physiological state that allows it to bind and internalize this exogenous DNA.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the definition of 'competence' in bacterial transformation.</div><p><strong>Step 1: Refer to the 'Transformaation' (Transformation) section in the document.</strong><br/>The document states: \"Competence is the ability of bactena ceus to bead large areunt Of DNA to its Cell surface and gendome\" (Likely meant 'Competence is the ability of bacteria cells to bind large amount Of DNA to its Cell surface and genome' or more accurately, 'Competence is the ability of bacterial cells to take up foreign genetic material'). This follows the definition of transformation as \"the process of honzonnal gane transfer by Lwhich some battena rave up foreign gortico materal (Chared exogenous DNA) from the environment.\" (Likely meant 'horizontal gene transfer by which some bacteria take up foreign genetic material (naked exogenous DNA) from the environment.')</p><ul><li>Option A relates to conjugation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B correctly defines competence as the ability of bacteria to take up foreign genetic material.</span></li><li>Option C relates to transduction.</li><li>Option D relates to antibiotic resistance, which can be acquired through HGT but isn't the definition of competence itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Competence is a transient physiological state, which can be induced artificially in the lab (e.g., by heat shock or electroporation) to facilitate transformation.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 'Competence' in the context of bacterial transformation is the ability of bacteria to take up foreign genetic material.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The ability of bacteria to take up foreign genetic material"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "In generalized transduction, how is bacterial DNA transferred to a recipient cell?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Through direct cell-to-cell contact via a pilus"
+        },
+        {
+          "type": "string",
+          "content": "By bacteria taking up naked DNA from the environment"
+        },
+        {
+          "type": "string",
+          "content": "When a bacteriophage capsid accidentally packages host bacterial DNA instead of viral DNA"
+        },
+        {
+          "type": "string",
+          "content": "Via a specialized plasmid that carries specific host genes"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Generalized Transduction",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Generalized Transduction Mechanism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Generalized transduction is a type of horizontal gene transfer where any segment of the host bacterium's DNA can be transferred. This occurs when a bacteriophage accidentally packages a fragment of host DNA into its capsid instead of, or in addition to, its own viral genome.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the mechanism of generalized transduction.</div><p><strong>Step 1: Refer to the 'Generalized transduction' section in the document.</strong><br/>The document states: \"Genevatial terseluction Docus cohen the Prage Capaid cacorderically assemblys around bacteca DNA Instead of the Virval AntA- Hare the Viral particle infest in noso bacu num bansferring the prettiens hesis bata into tes now ho\" (Likely meant 'Generalized transduction occurs when the Phage Capsid accidentally assembles around bacteria DNA instead of the Viral DNA. Here the Viral particle infects new bacterium, transferring the previous host's DNA into its new host.')</p><ul><li>Option A describes conjugation.</li><li>Option B describes transformation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C accurately describes generalized transduction, where the phage mistakenly packages host DNA.</span></li><li>Option D describes specialized transduction, which involves specific host genes adjacent to the prophage.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The random nature of packaged host DNA distinguishes generalized transduction from specialized transduction.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In generalized transduction, bacterial DNA is transferred to a recipient cell when a bacteriophage capsid accidentally packages host bacterial DNA instead of viral DNA.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "When a bacteriophage capsid accidentally packages host bacterial DNA instead of viral DNA"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which type of transduction transfers only specific genes located adjacent to the phage integration site?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Generalized transduction"
+        },
+        {
+          "type": "string",
+          "content": "Random transduction"
+        },
+        {
+          "type": "string",
+          "content": "Specialized transduction"
+        },
+        {
+          "type": "string",
+          "content": "Conjugation-mediated transduction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Specialized Transduction",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Specialized Transduction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Specialized transduction involves the transfer of only a small, specific region of the bacterial chromosome to another bacterium. This occurs when the prophage (integrated phage DNA) excises imperfectly from the host chromosome, taking adjacent bacterial genes with it.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the type of transduction that transfers only specific genes near the phage integration site.</div><p><strong>Step 1: Refer to the 'Specialized Transduction' section in the document.</strong><br/>The document states: \"peralized Dacsducase: Tranekers only genes adpatent He the plage lategration Site. It acous during the lipsajonie ok Gycle of the Vines\" (Likely meant 'Specialized Transduction: Transfers only genes adjacent to the phage integration site. It occurs during the lysogenic cycle of the virus.').</p><ul><li>Option A (Generalized transduction) transfers random segments of host DNA.</li><li>Option B (Random transduction) is another name for generalized transduction.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (Specialized transduction) precisely matches the description provided in the document.</span></li><li>Option D (Conjugation-mediated transduction) is not a recognized term; transduction is phage-mediated, conjugation is pilus-mediated.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The specificity of gene transfer is the defining characteristic that differentiates specialized from generalized transduction.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Specialized transduction transfers only specific genes located adjacent to the phage integration site.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Specialized transduction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "What is one significant medical implication of antibiotic resistance plasmids being transferable via conjugation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It makes bacteria more susceptible to environmental stress"
+        },
+        {
+          "type": "string",
+          "content": "It limits the spread of resistance genes to closely related species"
+        },
+        {
+          "type": "string",
+          "content": "It leads to the emergence of multi-drug resistant (MDR) pathogens"
+        },
+        {
+          "type": "string",
+          "content": "It enhances the effectiveness of antibiotics"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Antibiotic Resistance",
+      "Conjugation",
+      "Medical Significance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Medical Significance of Conjugation and Antibiotic Resistance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Conjugation, a form of horizontal gene transfer, allows bacteria to share R plasmids (resistance plasmids) carrying antibiotic resistance genes. This rapid spread of resistance, even across different species, significantly contributes to the development of multi-drug resistant pathogens.</div><div style='background(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about a significant medical implication of antibiotic resistance plasmids transferable by conjugation.</div><p><strong>Step 1: Refer to the 'Biologians And Megheat Sigritiana Of Rakarjotie Ratumimnation' (Biological and Medical Significance of Prokaryotic Recombination) section.</strong><br/>The document states: \"Anzibiotic rematack & Plasmid Cars murtiple Senstang good can be bastened by Conjugation Acizsa Species beundani's Thes has led to the emergence of must-be must-khong-SENE (MBR) and soctensively drug resistano bacter Pathogens cohich is a mayer global health Crisea\" (Likely meant 'Antibiotic resistance: R Plasmid carries multiple resistance genes that can be transferred by Conjugation across Species boundaries. This has led to the emergence of multi-drug resistant (MDR) and extensively drug resistant bacterial pathogens, which is a major global health crisis.')</p><ul><li>Option A is incorrect; resistance generally makes them more robust against antibiotics.</li><li>Option B is incorrect; conjugation can transfer resistance genes *across* species boundaries.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C directly states that this leads to \"the emergence of must-be must-khong-SENE (MDR) and soctensively drug resistano bacter Pathogens\" (Multi-Drug Resistant pathogens).</span></li><li>Option D is incorrect; it diminishes antibiotic effectiveness.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The rapid spread of antibiotic resistance via conjugation is a major public health concern globally.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One significant medical implication is that it leads to the emergence of multi-drug resistant (MDR) pathogens.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It leads to the emergence of multi-drug resistant (MDR) pathogens"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which bacterium is commonly used to introduce genes into plant cells via its Ti plasmid?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Escherichia coli"
+        },
+        {
+          "type": "string",
+          "content": "Bacillus subtilis"
+        },
+        {
+          "type": "string",
+          "content": "Agrobacterium tumefaciens"
+        },
+        {
+          "type": "string",
+          "content": "Staphylococcus aureus"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Biotechnology",
+      "Agrobacterium tumefaciens"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Agrobacterium in Plant Gene Transfer</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <em>Agrobacterium tumefaciens</em> is a naturally occurring plant pathogen that can transfer a portion of its tumor-inducing (Ti) plasmid DNA into plant cells, integrating it into the plant's genome. This natural genetic engineering capability has been harnessed in biotechnology to introduce desired genes into plants.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the bacterium used with its Ti plasmid to introduce genes into plant cells.</div><p><strong>Step 1: Refer to the last point in the document.</strong><br/>The document states: \"Into Plant Cells Upa agro-bactenum tumefacians T. Pleomid\" (Likely meant 'Into Plant Cells: Using Agrobacterium tumefaciens Ti plasmid.').</p><ul><li>Option A (<em>Escherichia coli</em>) is a common model bacterium for general genetic engineering but not specifically for plant gene transfer via a Ti plasmid.</li><li>Option B (<em>Bacillus subtilis</em>) is a gram-positive bacterium, often used in industrial microbiology, but not for Ti plasmid-mediated plant transformation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C (<em>Agrobacterium tumefaciens</em>) is explicitly mentioned and is well-known for its role in plant genetic engineering using its Ti plasmid.</span></li><li>Option D (<em>Staphylococcus aureus</em>) is a common human pathogen, irrelevant here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The Ti plasmid of <em>Agrobacterium tumefaciens</em> is a cornerstone tool in the creation of genetically modified plants.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ <em>Agrobacterium tumefaciens</em> is commonly used to introduce genes into plant cells via its Ti plasmid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agrobacterium tumefaciens"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "The concept of genetic linkage, deviating from Mendel's Law of Independent Assortment, was established through the pioneer work of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gregor Mendel using pea plants"
+        },
+        {
+          "type": "string",
+          "content": "James Watson and Francis Crick using DNA models"
+        },
+        {
+          "type": "string",
+          "content": "Thomas Hunt Morgan using Drosophila melanogaster"
+        },
+        {
+          "type": "string",
+          "content": "Rosalind Franklin using X-ray diffraction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Linkage",
+      "History of Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Discovery of Genetic Linkage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> While Mendel's laws described the independent assortment of traits, the phenomenon of genetic linkage, where genes on the same chromosome tend to be inherited together, was later discovered through experiments with fruit flies.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks who established the concept of genetic linkage using a specific organism.</div><p><strong>Step 1: Refer to the 'Genetic Linkage' section in the document.</strong><br/>The document states: \"The Concept of Lineage Does established through the Pioneer work of Thomas Hunt Morgan\" using Drosophilke melanogaster.\" (Likely meant 'The Concept of Linkage was established through the pioneer work of Thomas Hunt Morgan using Drosophila melanogaster.')</p><ul><li>Option A refers to Mendel's work, which established independent assortment but not linkage.</li><li>Option B refers to the discovery of DNA structure.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C correctly identifies Thomas Hunt Morgan and <em>Drosophila melanogaster</em> as central to establishing the concept of genetic linkage.</span></li><li>Option D refers to a key contributor to DNA structure elucidation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Morgan's experiments with fruit flies demonstrated that genes located on the same chromosome do not always assort independently, leading to the mapping of genes.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The concept of genetic linkage was established through the pioneer work of Thomas Hunt Morgan using <em>Drosophila melanogaster</em>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thomas Hunt Morgan using Drosophila melanogaster"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "What is the primary role of genetics in medicine, as mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To study animal behavior"
+        },
+        {
+          "type": "string",
+          "content": "To understand disease expression and genetic counseling"
+        },
+        {
+          "type": "string",
+          "content": "To develop new agricultural crops"
+        },
+        {
+          "type": "string",
+          "content": "To analyze ancient DNA from fossils"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Role of Genetics",
+      "Medical Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of Genetics in Medicine</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Genetics plays a crucial role in understanding human health and disease, enabling the diagnosis, prediction, and potential treatment of genetic disorders, and guiding genetic counseling.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary role of genetics in medicine according to the document.</div><p><strong>Step 1: Refer to the 'Cenzies play a mayor role' section.</strong><br/>The document states: \"Cenzies play a mayor role in medicini, agréative, brotachntegy Nelation cind brochemistry\" (Likely meant 'Genetics plays a major role in medicine, agriculture, biotechnology, evolution and biochemistry'). Under 'Importmax Eft Hurtatik Chareontera' (Importance of Hereditable Characteristics) it specifically says, \"Ies lempostire in medicine, hearth and grave (tamalling)\" (Likely meant 'Its importance in medicine, health and genetic counseling').</p><ul><li>Option A is not a primary role mentioned in this context.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B combines understanding disease (expression implied) and genetic counseling, directly reflecting the document's points about the role of genetics in medicine and health.</span></li><li>Option C is related to agriculture, another role, but not the primary one in *medicine*.</li><li>Option D is related to evolutionary studies or forensic genetics, not explicitly primary to medicine here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Genetic counseling relies heavily on genetic principles to assess and communicate disease risks and implications, making it a direct medical application.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary role of genetics in medicine, as mentioned, is to understand disease expression and genetic counseling.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To understand disease expression and genetic counseling"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Explain the concept of genetic linkage and how it contrasts with Mendel's Law of Independent Assortment.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Linkage",
+      "Mendelian Genetics",
+      "Linkage and Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Genetic Linkage vs. Independent Assortment</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Genetic linkage refers to the tendency of genes located close together on the same chromosome to be inherited together, while Mendel's Law of Independent Assortment describes how alleles of two (or more) different genes get sorted into gametes independently of one another.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain genetic linkage and its contrast with Mendel's Law of Independent Assortment.</div><p><strong>Step 1: Define Mendel's Law of Independent Assortment.</strong><br/>Mendel's Law of Independent Assortment states that <span style='color:var(--orange);font-weight:bold;'>genes located on different chromosomes segregate independently during gamete formation</span>. This means the inheritance of one trait does not influence the inheritance of another.</p><p><strong>Step 2: Define Genetic Linkage.</strong><br/>Genetic linkage is the phenomenon where <span style='color:var(--orange);font-weight:bold;'>genes located on the same chromosome tend to be inherited together</span>. This happens because they are physically connected on the chromosome.</p><p><strong>Step 3: Contrast Linkage with Independent Assortment.</strong><br/>Genetic linkage <span style='color:var(--orange);font-weight:bold;'>deviates from Mendel's Law of Independent Assortment</span>. While independent assortment predicts a 9:3:3:1 phenotypic ratio in a dihybrid cross of two unlinked genes, linked genes show <span style='color:var(--orange);font-weight:bold;'>non-Mendelian ratios</span>, with a higher proportion of parental genotypes/phenotypes in the offspring.</p><p><strong>Step 4: Explain how crossing over affects linkage.</strong><br/>Linked genes <span style='color:var(--orange);font-weight:bold;'>do not assort independently unless they are separated by crossing over</span>. Crossing over is the exchange of genetic material between homologous chromosomes during meiosis, which can create new combinations of alleles (recombinant gametes) and effectively reduce the degree of linkage between genes.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common mistake is to state that linked genes *never* separate. They do, but only through crossing over, and the frequency of this separation is inversely proportional to their distance on the chromosome. The core idea is the *tendency* to be inherited together.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Genetic linkage describes the tendency of genes on the same chromosome to be inherited together, deviating from Mendel's Law of Independent Assortment which states genes on different chromosomes or far apart on the same chromosome segregate independently. Linked genes will only assort independently if separated by crossing over.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genetic linkage refers to the tendency of genes located on the same chromosome to be inherited together. This contrasts with Mendel's Law of Independent Assortment, which states that alleles for different traits (on different chromosomes or very far apart on the same chromosome) segregate independently of each other during gamete formation. In essence, while Mendel's law implies that the inheritance of one gene does not affect the inheritance of another, genetic linkage implies that genes physically connected on the same chromosome will tend to be passed down together. However, linked genes can still be separated through the process of crossing over during meiosis, which allows for recombination and the formation of non-parental allele combinations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Compare and contrast the three major mechanisms of horizontal gene transfer in prokaryotes: Conjugation, Transformation, and Transduction.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Horizontal Gene Transfer",
+      "Prokaryotic Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Comparison of Prokaryotic Horizontal Gene Transfer Mechanisms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Prokaryotes utilize distinct mechanisms—conjugation, transformation, and transduction—to transfer genetic material horizontally, rather than through sexual reproduction. These mechanisms differ in their agent of transfer, specific requirements, and the range of genetic material transferred.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Compare and contrast Conjugation, Transformation, and Transduction.</div><p><strong>Step 1: Identify the Agent of Transfer for each mechanism.</strong><br/>- <span style='color:var(--orange);font-weight:bold;'>Conjugation:</span> Requires direct <span style='color:var(--orange);font-weight:bold;'>cell-to-cell contact</span>, often mediated by a pilus.<br/>- <span style='color:var(--orange);font-weight:bold;'>Transformation:</span> Involves the uptake of <span style='color:var(--orange);font-weight:bold;'>naked exogenous DNA</span> from the environment.<br/>- <span style='color:var(--orange);font-weight:bold;'>Transduction:</span> Mediated by a <span style='color:var(--orange);font-weight:bold;'>bacteriophage</span> (virus that infects bacteria).</p><p><strong>Step 2: Describe the Genetic Material/Requirement for each.</strong><br/>- <span style='color:var(--orange);font-weight:bold;'>Conjugation:</span> Typically involves an <span style='color:var(--orange);font-weight:bold;'>F plasmid</span> (fertility plasmid) or other conjugative plasmids, requiring the donor to be F+.<br/>- <span style='color:var(--orange);font-weight:bold;'>Transformation:</span> Requires the recipient bacterium to be in a <span style='color:var(--orange);font-weight:bold;'>state of competence</span>, allowing it to take up extracellular DNA.<br/>- <span style='color:var(--orange);font-weight:bold;'>Transduction:</span> Requires an <span style='color:var(--orange);font-weight:bold;'>appropriate phage</span> that can infect both the donor and recipient cells.</p><p><strong>Step 3: Discuss the Range of Genetic Material Transferred.</strong><br/>- <span style='color:var(--orange);font-weight:bold;'>Conjugation:</span> Can transfer <span style='color:var(--orange);font-weight:bold;'>large amounts of DNA</span>, typically plasmids, or even portions of the chromosome if the plasmid integrates (Hfr transfer). Often occurs <span style='color:var(--orange);font-weight:bold;'>mostly within species, sometimes cross-species</span>.<br/>- <span style='color:var(--orange);font-weight:bold;'>Transformation:</span> Transfers relatively <span style='color:var(--orange);font-weight:bold;'>smaller fragments of DNA</span>, which can be any part of the genome, but requires integration into the recipient chromosome. Occurs <span style='color:var(--orange);font-weight:bold;'>mostly within species</span>.<br/>- <span style='color:var(--orange);font-weight:bold;'>Transduction:</span> Can transfer <span style='color:var(--orange);font-weight:bold;'>random DNA fragments (generalized transduction) or specific genes adjacent to the phage integration site (specialized transduction)</span>. Its range is <span style='color:var(--orange);font-weight:bold;'>limited to the phage host range</span>.</p><p><strong>Step 4: Summarize the key contrasts.</strong><br/>The primary contrast lies in the <span style='color:var(--orange);font-weight:bold;'>mode of DNA delivery</span>: direct contact (conjugation), environmental uptake (transformation), or viral mediation (transduction).</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer must distinguish the mechanisms based on the agent involved, the nature of the genetic material, and the transfer process itself, ideally highlighting specificity versus randomness of transfer. The provided table on page 32 is an excellent reference for these points.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Conjugation involves direct cell-to-cell contact via a pilus, transferring F plasmids or chromosomal DNA. Transformation is the uptake of naked DNA from the environment by competent bacteria. Transduction is the transfer of bacterial DNA mediated by a bacteriophage. They differ in agent, requirement, and range of transferred material.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Horizontal gene transfer (HGT) is the process by which prokaryotes transfer genetic material between individuals, distinct from vertical inheritance. The three major mechanisms are:\n\n1.  **Conjugation:**\n    *   **Agent:** Involves direct cell-to-cell contact between a donor (F+) and recipient (F-) bacterium, typically facilitated by a sex pilus.\n    *   **Requirement:** The donor bacterium must possess a conjugative plasmid, such as the F plasmid.\n    *   **Range:** Can transfer large segments of DNA, including entire plasmids or portions of the bacterial chromosome (in Hfr strains). Primarily occurs within the same species but can sometimes cross species boundaries.\n\n2.  **Transformation:**\n    *   **Agent:** Involves the direct uptake of naked, extracellular DNA fragments from the environment by a recipient bacterium.\n    *   **Requirement:** The recipient bacterium must be in a physiological state called 'competence,' allowing it to bind and internalize foreign DNA.\n    *   **Range:** Transfers relatively smaller DNA fragments, which can be any part of the bacterial genome present in the environment. Primarily occurs within species.\n\n3.  **Transduction:**\n    *   **Agent:** Mediated by a bacteriophage (a virus that infects bacteria), which acts as a vector to carry bacterial DNA from one cell to another.\n    *   **Requirement:** Requires an appropriate bacteriophage capable of infecting both the donor and recipient bacteria.\n    *   **Range:**\n        *   **Generalized Transduction:** Transfers random segments of donor bacterial DNA (accidently packaged into a phage capsid). The range is limited by the phage's host range.\n        *   **Specialized Transduction:** Transfers only specific bacterial genes located adjacent to the phage's integration site on the chromosome (due to imprecise excision of the prophage). The range is also limited by the phage's host range.\n\n**Key Contrasts:**\n*   **Mechanism of Transfer:** Conjugation is cell-to-cell contact, transformation is uptake from the environment, and transduction is phage-mediated.\n*   **Specificity of DNA:** Conjugation and generalized transduction can transfer large, often random, segments (plasmids or chromosomal DNA), while specialized transduction transfers specific genes. Transformation can take up any environmental DNA fragments.\n*   **Involvement of external agent:** Conjugation uses a pilus (part of the bacterium), transformation uses no external biological agent, and transduction uses a virus."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Discuss the biological importance of genetic recombination in both eukaryotes and prokaryotes.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Recombination",
+      "Biological Importance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biological Importance of Genetic Recombination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Genetic recombination is a fundamental biological process that shuffles genetic material, leading to new combinations of alleles. This process is crucial for generating genetic diversity, which in turn drives evolution, adaptation, and the long-term survival of species.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Discuss the biological importance of genetic recombination in both eukaryotes and prokaryotes.</div><p><strong>Step 1: Explain the importance of recombination in Eukaryotes (sexual reproduction).</strong><br/>In eukaryotes, recombination primarily occurs through <span style='color:var(--orange);font-weight:bold;'>crossing over during meiosis and independent assortment of chromosomes</span>. Its importance includes:<br/>- <span style='color:var(--orange);font-weight:bold;'>Generates genetic diversity:</span> It creates new combinations of alleles on chromosomes, increasing the variety of genotypes and phenotypes within a population.<br/>- <span style='color:var(--orange);font-weight:bold;'>Facilitates adaptation:</span> Increased diversity provides the raw material for natural selection, allowing populations to adapt to changing environmental conditions.<br/>- <span style='color:var(--orange);font-weight:bold;'>Promotes evolution:</span> By shuffling genes, recombination enables the testing of new allele combinations, accelerating evolutionary change.<br/>- <span style='color:var(--orange);font-weight:bold;'>Ensures proper chromosome disjunction:</span> Crossing over helps ensure homologous chromosomes align and segregate correctly during meiosis, reducing the risk of aneuploidy.</p><p><strong>Step 2: Explain the importance of recombination in Prokaryotes (horizontal gene transfer).</strong><br/>In prokaryotes, recombination occurs through <span style='color:var(--orange);font-weight:bold;'>horizontal gene transfer (HGT) mechanisms</span> like transformation, transduction, and conjugation. Its importance includes:<br/>- <span style='color:var(--orange);font-weight:bold;'>Source of genetic diversity:</span> HGT allows bacteria to acquire new genes, introducing novel traits and increasing genetic variation.<br/>- <span style='color:var(--orange);font-weight:bold;'>Evolutionary adaptation:</span> Acquisition of new genes can confer advantageous traits, such as <span style='color:var(--orange);font-weight:bold;'>antibiotic resistance</span>, allowing bacteria to survive in challenging environments.<br/>- <span style='color:var(--orange);font-weight:bold;'>Disease susceptibility/pathogenicity:</span> HGT plays a key role in bacterial speciation and the acquisition of virulence factors, influencing disease outcomes.<br/>- <span style='color:var(--orange);font-weight:bold;'>Drug response variation:</span> New genetic combinations can lead to varied responses to antimicrobial drugs, impacting treatment efficacy.</p><p><strong>Step 3: Conclude with a unifying statement.</strong><br/>Across both domains, genetic recombination is a critical process that ensures the genetic variability necessary for species survival, adaptation, and evolution in response to changing selective pressures.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A comprehensive answer must address both domains and highlight the fundamental role of genetic variation as the foundation for adaptation and evolution, linking it to the specific mechanisms relevant to each domain.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Genetic recombination is biologically important in both eukaryotes and prokaryotes primarily because it generates genetic diversity, which is crucial for adaptation and evolution. In eukaryotes, crossing over and independent assortment create new allele combinations, facilitating adaptation to changing environments and promoting species evolution. It also ensures proper chromosome segregation during meiosis. In prokaryotes, horizontal gene transfer (transformation, transduction, conjugation) allows for the acquisition of new genes, leading to traits like antibiotic resistance and influencing pathogenicity and bacterial speciation. This genetic exchange enables rapid adaptation to new challenges and contributes significantly to microbial evolution.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genetic recombination is biologically important in both eukaryotes and prokaryotes primarily because it generates genetic diversity, which is crucial for adaptation and evolution. In eukaryotes, crossing over and independent assortment create new allele combinations, facilitating adaptation to changing environments and promoting species evolution. It also ensures proper chromosome segregation during meiosis. In prokaryotes, horizontal gene transfer (transformation, transduction, conjugation) allows for the acquisition of new genes, leading to traits like antibiotic resistance and influencing pathogenicity and bacterial speciation. This genetic exchange enables rapid adaptation to new challenges and contributes significantly to microbial evolution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Describe the main chromosomal sex determination systems found in different organisms, providing examples for each as identified in the document.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sex Determination Systems",
+      "Chromosomal Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chromosomal Sex Determination Systems</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Chromosomal sex determination systems utilize specific sex chromosomes (allosomes) to dictate the development of sexual characteristics, distinguishing them from autosomes. Different combinations of these chromosomes lead to different sexes in various species.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Describe the main chromosomal sex determination systems with examples from the document.</div><p><strong>Step 1: Describe the XY System.</strong><br/>- In the <span style='color:var(--orange);font-weight:bold;'>XY system</span>, <span style='color:var(--orange);font-weight:bold;'>females are homogametic (XX)</span>, producing only X-bearing gametes, while <span style='color:var(--orange);font-weight:bold;'>males are heterogametic (XY)</span>, producing both X- and Y-bearing gametes. Sex is determined by the sperm contributing either an X or a Y chromosome during fertilization.<br/>- <span style='color:var(--orange);font-weight:bold;'>Example: Humans, mammals, and <em>Drosophila</em></span>.</p><p><strong>Step 2: Describe the XO System.</strong><br/>- The <span style='color:var(--orange);font-weight:bold;'>XO system</span> is characterized by <span style='color:var(--orange);font-weight:bold;'>females having two X chromosomes (XX)</span> and <span style='color:var(--orange);font-weight:bold;'>males having only one X chromosome (XO)</span>. The presence or absence of a second sex chromosome determines sex.<br/>- <span style='color:var(--orange);font-weight:bold;'>Example: Grasshoppers</span>.</p><p><strong>Step 3: Describe the ZW System.</strong><br/>- The <span style='color:var(--orange);font-weight:bold;'>ZW system</span> is the inverse of the XY system in terms of which sex is heterogametic. <span style='color:var(--orange);font-weight:bold;'>Females are heterogametic (ZW)</span>, producing Z- and W-bearing gametes, while <span style='color:var(--orange);font-weight:bold;'>males are homogametic (ZZ)</span>, producing only Z-bearing gametes.<br/>- <span style='color:var(--orange);font-weight:bold;'>Example: Birds, reptiles, and some butterflies</span>.</p><p><strong>Step 4: Briefly mention Haplodiploidy as a different system.</strong><br/>- Although not strictly a chromosomal system with distinct sex chromosomes like X, Y, Z, or W, <span style='color:var(--orange);font-weight:bold;'>Haplodiploidy</span> determines sex by the number of chromosome sets. <span style='color:var(--orange);font-weight:bold;'>Males are haploid (develop from unfertilized eggs), and females are diploid (develop from fertilized eggs)</span>.<br/>- <span style='color(--orange);font-weight:bold;'>Example: Bees, wasps, and ants</span>.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer must correctly pair the chromosome combination with the resulting sex and provide specific examples for each system as found in the text, ensuring accuracy in distinguishing homogametic vs. heterogametic sexes.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The main chromosomal sex determination systems include the XY system (XX females, XY males; e.g., humans, mammals), the XO system (XX females, XO males; e.g., grasshoppers), and the ZW system (ZW females, ZZ males; e.g., birds, reptiles, butterflies). Haplodiploidy (haploid males, diploid females; e.g., bees, wasps, ants) is another system based on chromosome number.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The document identifies several chromosomal sex determination systems:\n\n1.  **XY System:** In this system, females are homogametic (XX), producing only X-chromosome-carrying gametes. Males are heterogametic (XY), producing both X- and Y-chromosome-carrying gametes. The sex of the offspring is determined by the sperm (carrying either X or Y) that fertilizes the egg.\n    *   **Examples:** Humans, mammals, and *Drosophila*.\n\n2.  **XO System:** In this system, females possess two X chromosomes (XX) and are homogametic. Males, however, possess only one X chromosome and lack a second sex chromosome (XO), making them heterogametic. The presence or absence of the second X chromosome determines the sex.\n    *   **Example:** Grasshoppers.\n\n3.  **ZW System:** This system is found in organisms where the female is the heterogametic sex and the male is the homogametic sex. Females have ZW sex chromosomes, producing Z- and W-bearing gametes. Males have two Z chromosomes (ZZ), producing only Z-bearing gametes.\n    *   **Examples:** Birds, reptiles, and some butterflies.\n\n4.  **Haplodiploidy System:** While not strictly based on distinct sex chromosomes like X or Z, this system determines sex by the number of chromosome sets. Males are haploid (develop from unfertilized eggs via parthenogenesis), while females are diploid (develop from fertilized eggs).\n    *   **Examples:** Bees, wasps, and ants."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Explain how probability is applied in Mendelian genetics, using a monohybrid cross as an example to illustrate genotypic and phenotypic ratios.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Probability",
+      "Mendelian Genetics",
+      "Monohybrid Cross"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Probability in Mendelian Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Probability in genetics helps predict the likelihood of specific genotypes and phenotypes in offspring resulting from a genetic cross. It assumes that each allele segregation and fertilization event is random and independent.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain the application of probability in Mendelian genetics using a monohybrid cross to illustrate ratios.</div><p><strong>Step 1: Define probability in genetics.</strong><br/>Probability in genetics is used to <span style='color:var(--orange);font-weight:bold;'>predict the chances of offspring inheriting specific traits from their parents</span>. It quantifies the likelihood of certain genetic outcomes, given the genotypes of the parents.</p><p><strong>Step 2: Explain the monohybrid cross and allele segregation.</strong><br/>Consider a monohybrid cross involving a single gene with two alleles, 'T' for tall (dominant) and 't' for short (recessive). If two heterozygous tall parents (Tt x Tt) are crossed, each parent will produce two types of gametes: <span style='color:var(--orange);font-weight:bold;'>50% (1/2) carrying the T allele and 50% (1/2) carrying the t allele</span>. This segregation follows the principle of equal probability for each allele to be passed into a gamete.</p><p><strong>Step 3: Illustrate genotypic ratios using probability (Punnett Square/Multiplication Rule).</strong><br/>- The probability of an offspring being <span style='color:var(--orange);font-weight:bold;'>homozygous dominant (TT)</span> is P(T from parent 1) x P(T from parent 2) = (1/2) x (1/2) = <span style='color:var(--orange);font-weight:bold;'>1/4</span>.<br/>- The probability of an offspring being <span style='color:var(--orange);font-weight:bold;'>heterozygous (Tt)</span> is P(T from parent 1 & t from parent 2) + P(t from parent 1 & T from parent 2) = (1/2 x 1/2) + (1/2 x 1/2) = 1/4 + 1/4 = <span style='color:var(--orange);font-weight:bold;'>1/2</span>.<br/>- The probability of an offspring being <span style='color:var(--orange);font-weight:bold;'>homozygous recessive (tt)</span> is P(t from parent 1) x P(t from parent 2) = (1/2) x (1/2) = <span style='color:var(--orange);font-weight:bold;'>1/4</span>.<br/>This results in a <span style='color:var(--orange);font-weight:bold;'>genotypic ratio of 1 TT : 2 Tt : 1 tt</span>.</p><p><strong>Step 4: Illustrate phenotypic ratios using probability (Sum Rule).</strong><br/>- The <span style='color:var(--orange);font-weight:bold;'>dominant phenotype (Tall)</span> is expressed by both TT and Tt genotypes. Using the sum rule for mutually exclusive events, P(Tall) = P(TT) + P(Tt) = 1/4 + 1/2 = <span style='color:var(--orange);font-weight:bold;'>3/4</span>.<br/>- The <span style='color:var(--orange);font-weight:bold;'>recessive phenotype (Short)</span> is expressed only by the tt genotype. P(Short) = P(tt) = <span style='color:var(--orange);font-weight:bold;'>1/4</span>.<br/>This results in a <span style='color:var(--orange);font-weight:bold;'>phenotypic ratio of 3 Tall : 1 Short</span>.</p><p><strong>Step 5: Conclude on the predictive power.</strong><br/>Thus, probability allows us to quantitatively <span style='color:var(--orange);font-weight:bold;'>predict the expected proportions of different genetic outcomes</span> in the next generation, fundamental to understanding heredity.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Ensure that the calculation for both genotypic and phenotypic ratios is correct and that the use of both product and sum rules for probability is clearly demonstrated in the context of Mendelian inheritance. The document explicitly uses an example of a monohybrid cross for tall/short traits and calculates the 3:1 phenotypic ratio and 1:2:1 genotypic ratio.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Probability is applied in Mendelian genetics to predict the likelihood of specific genotypes and phenotypes in offspring. For a monohybrid cross between two heterozygous parents (e.g., Tt x Tt for a trait where T is dominant for Tall and t is recessive for short), each parent produces T and t gametes with 1/2 probability. Using the product rule, the genotypic probabilities are: P(TT) = 1/2 * 1/2 = 1/4, P(Tt) = (1/2 * 1/2) + (1/2 * 1/2) = 1/2, and P(tt) = 1/2 * 1/2 = 1/4. This gives a genotypic ratio of 1:2:1. For phenotypes, using the sum rule, P(Tall) = P(TT) + P(Tt) = 1/4 + 1/2 = 3/4, and P(short) = P(tt) = 1/4. This yields a phenotypic ratio of 3:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Probability is applied in Mendelian genetics to predict the likelihood of specific genotypes and phenotypes in offspring, based on the principle of random assortment of alleles during gamete formation and random fertilization. This allows for quantitative prediction of expected ratios.\n\n**Example: Monohybrid Cross (Tt x Tt)**\nConsider a monohybrid cross involving a single gene for plant height, where the allele 'T' codes for tallness (dominant) and 't' codes for shortness (recessive). If two heterozygous tall parents (Tt) are crossed:\n\n1.  **Gamete Formation:** Each parent, being heterozygous (Tt), will produce two types of gametes: T and t. According to Mendel's Law of Segregation, the probability of a gamete carrying 'T' is 1/2, and the probability of carrying 't' is also 1/2.\n\n2.  **Genotypic Ratios (using Product Rule):**\n    *   **Probability of TT (homozygous dominant):** (Probability of T from parent 1) × (Probability of T from parent 2) = (1/2) × (1/2) = **1/4**\n    *   **Probability of Tt (heterozygous):** [(Probability of T from parent 1) × (Probability of t from parent 2)] + [(Probability of t from parent 1) × (Probability of T from parent 2)] = (1/2 × 1/2) + (1/2 × 1/2) = 1/4 + 1/4 = **1/2**\n    *   **Probability of tt (homozygous recessive):** (Probability of t from parent 1) × (Probability of t from parent 2) = (1/2) × (1/2) = **1/4**\n    Therefore, the **genotypic ratio** is **1 TT : 2 Tt : 1 tt**.\n\n3.  **Phenotypic Ratios (using Sum Rule):**\n    *   **Probability of Tall phenotype:** This includes both TT and Tt genotypes. Using the sum rule (for mutually exclusive outcomes), P(Tall) = P(TT) + P(Tt) = 1/4 + 1/2 = **3/4**.\n    *   **Probability of Short phenotype:** This only includes the tt genotype. P(Short) = P(tt) = **1/4**.\n    Therefore, the **phenotypic ratio** is **3 Tall : 1 Short**.\n\nIn summary, probability is used to systematically calculate the likelihood of various genetic combinations, allowing geneticists to predict the outcomes of crosses and understand the patterns of inheritance."
+    }
+  }
+]
