@@ -1,0 +1,1717 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Hereditary and Non Hereditary Characteristics",
+    "code": "BCH 204.2",
+    "session": "Extreme Quiz by user ProjectPQ 1kPx1",
+    "kind": "mixed",
+    "topics": [
+      "Definition",
+      "Genetics",
+      "Applications",
+      "Hereditary Traits",
+      "Characteristics",
+      "Non-Hereditary Traits",
+      "Examples",
+      "Monohybrid Cross",
+      "Probability",
+      "Mendelian Genetics",
+      "Chi-square Test",
+      "Goodness of Fit",
+      "Statistical Genetics",
+      "Interpretation",
+      "Product Rule",
+      "Binomial Probability",
+      "Genetic Calculation",
+      "Quantitative Traits",
+      "Quantitative Genetics",
+      "Gene Structure",
+      "Transcription",
+      "Molecular Biology",
+      "Gene Regulation",
+      "Eukaryotic Gene Structure",
+      "Genome",
+      "Genome Structure",
+      "Gene Mutation",
+      "DNA Variation",
+      "Molecular Genetics",
+      "Chromosomal Rearrangements",
+      "Genome Variation",
+      "Cytogenetics",
+      "Biological Importance",
+      "Evolutionary Genetics",
+      "Population",
+      "Population Genomics",
+      "Gene Interaction",
+      "Epistasis",
+      "Significance",
+      "Extrachromosomal Inheritance",
+      "Maternal Inheritance",
+      "Mitochondrial Inheritance",
+      "Genetic Disorders",
+      "Sex Determination",
+      "SRY Gene",
+      "Chromosomal Genetics",
+      "Sex Determination Systems",
+      "Chromosomal Sex Determination",
+      "Haplodiploidy",
+      "Parthenogenesis",
+      "Genetic Linkage",
+      "Inheritance",
+      "History of Genetics",
+      "Key Figures",
+      "Recombination Frequency",
+      "Gene Mapping",
+      "Complete Linkage",
+      "Incomplete Linkage",
+      "Recombination",
+      "Crossing Over",
+      "Meiosis",
+      "Linkage Mapping",
+      "Prokaryotic Recombination",
+      "Horizontal Gene Transfer",
+      "Transformation",
+      "Bacterial Genetics",
+      "Transposons",
+      "Mobile Genetic Elements",
+      "Biotechnology",
+      "Gene Cloning",
+      "Conjugation",
+      "Plant Genetic Engineering",
+      "Biological Significance",
+      "Antibiotic Resistance"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following describes the primary concern of the field of Genetics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The study of anatomical structures in living organisms."
+        },
+        {
+          "type": "string",
+          "content": "The study of genes, genetic variation, and heredity."
+        },
+        {
+          "type": "string",
+          "content": "The study of ancient life forms through fossil records."
+        },
+        {
+          "type": "string",
+          "content": "The study of plant cultivation and crop improvement."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Genetics Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Genetics</b> is defined as the branch of Biology concerned with the study of genes, genetic variation, and heredity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary concern of the field of Genetics.</div><ol><li><strong>Step 1: Recall the definition of Genetics.</strong> Genetics is a core discipline in biology focused on understanding how traits are inherited, how genes function, and the diversity of genetic material.</li><li><strong>Step 2: Evaluate the options against the definition.</strong></li><ul><li>Option A: 'The study of anatomical structures in living organisms.' describes anatomy, not genetics.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'The study of genes, genetic variation, and heredity.' directly matches the definition of Genetics.</span></li><li>Option C: 'The study of ancient life forms through fossil records.' describes paleontology, not genetics.</li><li>Option D: 'The study of plant cultivation and crop improvement.' describes agronomy or horticulture, though genetics plays a role in these, it's not the primary definition of the field itself.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The definition provided is fundamental to the entire field. Other options describe different biological disciplines or applications rather than the central focus of genetics itself.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary concern of Genetics is the study of genes, genetic variation, and heredity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The study of genes, genetic variation, and heredity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is NOT an application area where genetics plays a major role?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Biotechnology"
+        },
+        {
+          "type": "string",
+          "content": "Medicine"
+        },
+        {
+          "type": "string",
+          "content": "Architecture"
+        },
+        {
+          "type": "string",
+          "content": "Agriculture"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Applications",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Genetics plays a major role in various fields including medicine, agriculture, biotechnology, evolution, and biochemistry.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the field that is NOT an application area for genetics among the given options.</div><ol><li><strong>Step 1: Review known applications of genetics.</strong> Genetics is fundamental to understanding inherited diseases (medicine), improving crops and livestock (agriculture), developing new biological products (biotechnology), and studying how species change over time (evolution) and the chemical processes of life (biochemistry).</li><li><strong>Step 2: Evaluate each option.</strong></li><ul><li>Option A: Biotechnology clearly relies heavily on genetics for genetic engineering, gene editing, and more.</li><li>Option B: Medicine uses genetics in diagnostics, personalized treatment, and understanding genetic disorders.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>Architecture is the art and science of designing and constructing buildings, which has no direct major role for genetics.</span></li><li>Option D: Agriculture extensively uses genetics for breeding crops and animals with desirable traits.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> All listed fields except architecture are directly mentioned as areas where genetics plays a major role. Architecture is a field of human design and construction, distinct from biological sciences.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Architecture is NOT an application area where genetics plays a major role.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Architecture"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "A characteristic such as 'eye color' is considered a hereditary trait primarily because it is:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Determined by environmental factors."
+        },
+        {
+          "type": "string",
+          "content": "Acquired through learning and experience."
+        },
+        {
+          "type": "string",
+          "content": "Controlled by genes and transmitted from parents to offspring."
+        },
+        {
+          "type": "string",
+          "content": "Developed solely due to nutritional intake."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hereditary Traits",
+      "Characteristics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hereditary Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Hereditary traits</b> are those that are transmitted from parents to offspring and are controlled by genes. Examples include eye color, blood group, skin color, and height.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks why a characteristic like 'eye color' is considered a hereditary trait.</div><ol><li><strong>Step 1: Understand the definition of a hereditary trait.</strong> Hereditary traits are fundamentally linked to genetic transmission across generations.</li><li><strong>Step 2: Evaluate the provided options.</strong></li><ul><li>Option A: 'Determined by environmental factors.' describes non-hereditary traits.</li><li>Option B: 'Acquired through learning and experience.' also describes non-hereditary traits.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Controlled by genes and transmitted from parents to offspring.' accurately defines a hereditary trait and specifically mentions control by genes and transmission, which are key features.</span></li><li>Option D: 'Developed solely due to nutritional intake.' would relate to environmental factors, making it a non-hereditary influence.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Eye color is a classic example of a trait passed down through generations according to genetic principles, directly controlled by the genes inherited from one's parents.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Eye color is considered a hereditary trait because it is controlled by genes and transmitted from parents to offspring.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Controlled by genes and transmitted from parents to offspring."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is an example of a non-hereditary physical trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sickle cell anaemia"
+        },
+        {
+          "type": "string",
+          "content": "Albinism"
+        },
+        {
+          "type": "string",
+          "content": "Body building muscles from exercise"
+        },
+        {
+          "type": "string",
+          "content": "Blood group"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Non-Hereditary Traits",
+      "Examples"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Non-Hereditary Physical Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Non-hereditary characteristics</b> are acquired during an organism's lifetime due to environmental influences, lifestyle, learning, or experience, and are not genetically transmitted to offspring. Examples under physical traits include tattoos, body building muscles from exercise, or hair styling (scalloping hair).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an example of a non-hereditary physical trait from the given options.</div><ol><li><strong>Step 1: Understand the nature of non-hereditary traits.</strong> These are traits that develop or change during an individual's life due to external factors, not inherited genes.</li><li><strong>Step 2: Evaluate each option.</strong></li><ul><li>Option A: Sickle cell anaemia is a genetic disorder, making it a hereditary trait.</li><li>Option B: Albinism is a genetic condition affecting pigmentation, also a hereditary trait.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>Body building muscles from exercise is a trait developed through lifestyle choices and physical activity, not directly inherited. Thus, it is a non-hereditary physical trait.</span></li><li>Option D: Blood group is determined by inherited genes, making it a hereditary trait.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The ability to build muscles through exercise is an acquired characteristic, as opposed to genetic conditions or inherent biological markers.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Body building muscles from exercise is an example of a non-hereditary physical trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Body building muscles from exercise"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "What is the probability of a child being phenotypically Tall (dominant) from a monohybrid cross between two heterozygous Tall parents (Tt x Tt)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1/4"
+        },
+        {
+          "type": "string",
+          "content": "1/2"
+        },
+        {
+          "type": "string",
+          "content": "3/4"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monohybrid Cross",
+      "Probability",
+      "Mendelian Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monohybrid Cross Phenotypic Probability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In a monohybrid cross between two heterozygotes (Tt x Tt), the expected genotypic ratio is 1 TT : 2 Tt : 1 tt, and the phenotypic ratio is 3 Tall (dominant phenotype) : 1 Short (recessive phenotype).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the probability of a child being phenotypically Tall from a cross between two heterozygous Tall parents (Tt x Tt).</div><ol><li><strong>Step 1: Determine the possible genotypes from the cross.</strong> When two heterozygous parents (Tt) are crossed, the possible genotypes for their offspring are TT, Tt, Tt, and tt.</li><li><strong>Step 2: Identify the genotypes that result in the Tall phenotype.</strong> Since Tall (T) is dominant over Short (t), individuals with genotypes TT and Tt will express the Tall phenotype.</li><li><strong>Step 3: Count the occurrences of Tall genotypes.</strong> Out of the four possible outcomes (TT, Tt, Tt, tt), three (TT, Tt, Tt) will be phenotypically Tall.</li><li><strong>Step 4: Calculate the probability.</strong> The probability of being phenotypically Tall is the number of Tall outcomes divided by the total number of outcomes. <span style='color:var(--orange);font-weight:bold;'>Probability = 3/4.</span></li></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The phenotypic ratio for a monohybrid cross between two heterozygotes (Tt x Tt) is consistently 3:1 for the dominant to recessive phenotypes. Therefore, 3 out of 4 offspring are expected to display the dominant trait.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The probability of a child being phenotypically Tall from a monohybrid cross between two heterozygous Tall parents is 3/4.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3/4"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The Chi-square (X²) test is primarily used in genetics to:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Measure the strength of genetic linkage."
+        },
+        {
+          "type": "string",
+          "content": "Determine the genotypic ratio of a cross."
+        },
+        {
+          "type": "string",
+          "content": "Measure the difference between observed and expected values in experimental results."
+        },
+        {
+          "type": "string",
+          "content": "Predict the inheritance patterns of quantitative traits."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chi-square Test",
+      "Goodness of Fit",
+      "Statistical Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Chi-square Test</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <b>Chi-square (X²) test</b> is a goodness-of-fit test used to measure the difference between observed experimental results and expected Mendelian ratios (or other genetic hypotheses). Its formula is X² = Σ((O-E)² / E), where O is observed frequency and E is expected frequency.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary use of the Chi-square test in genetics.</div><ol><li><strong>Step 1: Recall the function of the Chi-square test.</strong> The Chi-square test is a statistical tool to assess how well an observed distribution of data matches an expected distribution.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Measure the strength of genetic linkage.' is done using recombination frequencies, not Chi-square directly.</li><li>Option B: 'Determine the genotypic ratio of a cross.' Genotypic ratios are determined by genetic crosses (e.g., Punnett squares), and Chi-square then checks if observed data fit this ratio.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Measure the difference between observed and expected values in experimental results.' is the direct definition and primary purpose of the Chi-square test.</span></li><li>Option D: 'Predict the inheritance patterns of quantitative traits.' Quantitative traits often involve complex statistical models beyond a simple Chi-square test for overall patterns.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> If the Chi-square value is zero (X²=0), it indicates perfect agreement between observed and expected results, confirming its role in comparing these values.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Chi-square (X²) test is primarily used in genetics to measure the difference between observed and expected values in experimental results.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Measure the difference between observed and expected values in experimental results."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "In the context of the Chi-square test, what does an X² value of 0 indicate?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A significant deviation from expected ratios."
+        },
+        {
+          "type": "string",
+          "content": "An error in the experimental design."
+        },
+        {
+          "type": "string",
+          "content": "Perfect agreement with expected Mendelian ratios, supporting the null hypothesis."
+        },
+        {
+          "type": "string",
+          "content": "That the genes are completely linked."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chi-square Test",
+      "Interpretation",
+      "Statistical Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Interpreting Chi-square (X²) Value</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <b>Chi-square (X²) test</b> measures the difference between observed and expected values. If X² = 0, it means there is no difference between observed and expected values, indicating perfect agreement with the expected Mendelian ratios and supporting the null hypothesis (Ho).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the meaning of an X² value of 0 in the context of the Chi-square test.</div><ol><li><strong>Step 1: Understand the Chi-square formula.</strong> X² = Σ((O-E)² / E). For X² to be 0, the (O-E)² term for all categories must be 0, which means O (observed) must equal E (expected) for all categories.</li><li><strong>Step 2: Interpret O=E.</strong> When observed values exactly match expected values, there is no deviation from the null hypothesis, which in genetics often states that observed ratios will match Mendelian predictions.</li><li><strong>Step 3: Evaluate the options.</strong></li><ul><li>Option A: 'A significant deviation from expected ratios.' would result in a large X² value.</li><li>Option B: 'An error in the experimental design.' is not directly indicated by X²=0; it could imply perfect data.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Perfect agreement with expected Mendelian ratios, supporting the null hypothesis.' accurately describes the scenario where observed and expected values are identical.</span></li><li>Option D: 'That the genes are completely linked.' relates to genetic linkage, a different concept not directly assessed by the value of X²=0.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A Chi-square value measures discrepancy; zero discrepancy means perfect fit. This directly supports the hypothesis being tested, typically the Mendelian ratio in genetic contexts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An X² value of 0 indicates perfect agreement with expected Mendelian ratios, supporting the null hypothesis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Perfect agreement with expected Mendelian ratios, supporting the null hypothesis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "The 'Product Rule' in genetics probability states that the probability of two or more independent events occurring simultaneously is equal to:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The sum of their individual probabilities."
+        },
+        {
+          "type": "string",
+          "content": "The difference between their individual probabilities."
+        },
+        {
+          "type": "string",
+          "content": "The product of their individual probabilities."
+        },
+        {
+          "type": "string",
+          "content": "The average of their individual probabilities."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Product Rule",
+      "Probability",
+      "Mendelian Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Product Rule of Probability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <b>Product Rule</b> states that the probability of two or more independent events occurring simultaneously equals the product of their individual probabilities. Mathematically, P(A and B) = P(A) x P(B).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of the 'Product Rule' in genetics probability.</div><ol><li><strong>Step 1: Recall the definition of the Product Rule.</strong> This rule applies when calculating the probability of multiple independent events all happening.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'The sum of their individual probabilities.' describes the sum rule for mutually exclusive events (P(A or B) = P(A) + P(B)).</li><li>Option B: 'The difference between their individual probabilities.' is not a standard probability rule.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'The product of their individual probabilities.' is the precise definition of the Product Rule.</span></li><li>Option D: 'The average of their individual probabilities.' is not a standard probability rule.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The rule is correctly applied when calculating the probability of combined traits, such as the probability of offspring inheriting two specific traits (e.g., AABB) from two separate gene loci.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Product Rule states that the probability of two or more independent events occurring simultaneously is equal to the product of their individual probabilities.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The product of their individual probabilities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "If a carrier couple (Aa x Aa) has 4 children, what is the probability that exactly 3 will be normal (dominant phenotype, P=3/4) and 1 will be albino (recessive phenotype, Q=1/4)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1/4"
+        },
+        {
+          "type": "string",
+          "content": "3/16"
+        },
+        {
+          "type": "string",
+          "content": "27/64"
+        },
+        {
+          "type": "string",
+          "content": "81/256"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Binomial Probability",
+      "Genetic Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Binomial Probability Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <b>binomial probability formula</b> is used to find the probability of a specific combination of outcomes in a fixed number of trials: P = [n! / (x! * y!)] * P^x * Q^y, where n is total trials, x is count of outcome P, y is count of outcome Q, P is probability of event 1, and Q is probability of event 2.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to calculate the probability of having exactly 3 normal children and 1 albino child from 4 offspring of a carrier couple.</div><ol><li><strong>Step 1: Identify the given values for the binomial probability formula.</strong><br>Total number of children (n) = <span style='color:var(--orange);font-weight:bold;'>4</span><br>Number of normal children (x) = <span style='color:var(--orange);font-weight:bold;'>3</span><br>Number of albino children (y) = <span style='color:var(--orange);font-weight:bold;'>1</span><br>Probability of a normal child (P) = <span style='color:var(--orange);font-weight:bold;'>3/4</span><br>Probability of an albino child (Q) = <span style='color:var(--orange);font-weight:bold;'>1/4</span></li><li><strong>Step 2: Apply the binomial probability formula.</strong><br>P = [n! / (x! * y!)] * P^x * Q^y<br>P = [4! / (3! * 1!)] * (3/4)^3 * (1/4)^1</li><li><strong>Step 3: Calculate the factorial term.</strong><br>4! / (3! * 1!) = (4 * 3 * 2 * 1) / ((3 * 2 * 1) * 1) = <span style='color:var(--orange);font-weight:bold;'>4</span></li><li><strong>Step 4: Calculate the probability terms.</strong><br>(3/4)^3 = 27/64<br>(1/4)^1 = 1/4</li><li><strong>Step 5: Multiply the terms to get the final probability.</strong><br>P = 4 * (27/64) * (1/4)<br>P = (4 * 27) / (64 * 4)<br>P = 108 / 256<br>P = <span style='color:var(--orange);font-weight:bold;'>27/64</span></li></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> This calculation follows the standard binomial probability method for genetic outcomes over multiple births, ensuring the correct combination of factorial and individual probabilities. The provided example in the document directly calculates this specific case.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The probability that exactly 3 children will be normal and 1 albino is 27/64.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "27/64"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "What defines a quantitative trait in genetics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A trait controlled by a single gene with discrete categories."
+        },
+        {
+          "type": "string",
+          "content": "A trait that is only expressed in one specific environment."
+        },
+        {
+          "type": "string",
+          "content": "A trait controlled by two or more genes with additive effects, showing continuous variation."
+        },
+        {
+          "type": "string",
+          "content": "A trait that is always dominant over other traits."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quantitative Traits",
+      "Definition",
+      "Quantitative Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Quantitative Trait Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Quantitative inheritance</b> refers to the inheritance of traits controlled by two or more genes (polygenes) whose effects are additive. These traits typically show continuous variation rather than discrete categories.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of a quantitative trait.</div><ol><li><strong>Step 1: Recall the definition and characteristics of quantitative traits.</strong> Quantitative traits, also known as polygenic traits, are typically influenced by multiple genes and often environmental factors, leading to a range of phenotypes.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'A trait controlled by a single gene with discrete categories.' describes Mendelian, qualitative traits.</li><li>Option B: 'A trait that is only expressed in one specific environment.' describes a specific type of environmental influence, not the general definition of a quantitative trait.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'A trait controlled by two or more genes with additive effects, showing continuous variation.' precisely matches the definition of quantitative inheritance.</span></li><li>Option D: 'A trait that is always dominant over other traits.' refers to dominance, which is a characteristic of allele interaction, not the overarching definition of quantitative traits.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Traits like human height or skin color are complex, involving multiple genes, and show a spectrum of phenotypes rather than clear-cut categories, aligning with the definition of continuous variation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ A quantitative trait is defined as a trait controlled by two or more genes with additive effects, showing continuous variation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A trait controlled by two or more genes with additive effects, showing continuous variation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which of the following characteristics is typical of quantitative traits?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are controlled by a single gene."
+        },
+        {
+          "type": "string",
+          "content": "They are easily counted rather than measured."
+        },
+        {
+          "type": "string",
+          "content": "They often exhibit continuous variation."
+        },
+        {
+          "type": "string",
+          "content": "They are exclusively influenced by genetic factors."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quantitative Traits",
+      "Characteristics",
+      "Quantitative Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Quantitative Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Quantitative traits</b> are characterized by being controlled by multiple genes, influenced by environmental factors, exhibiting continuous variation, being measured rather than counted, and usually displaying a normal distribution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a typical characteristic of quantitative traits.</div><ol><li><strong>Step 1: Recall the known characteristics of quantitative traits.</strong> These traits show a range of phenotypes and are complex in their genetic and environmental control.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'They are controlled by a single gene.' describes qualitative (Mendelian) traits, not quantitative traits which are polygenic.</li><li>Option B: 'They are easily counted rather than measured.' is incorrect; quantitative traits are typically *measured* (e.g., height, weight) rather than counted (e.g., number of petals).</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'They often exhibit continuous variation.' is a defining characteristic of quantitative traits, meaning phenotypes exist along a spectrum.</span></li><li>Option D: 'They are exclusively influenced by genetic factors.' is incorrect; quantitative traits are often significantly influenced by environmental factors in addition to genes.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Examples like human height and skin color clearly show continuous variation across a population, reinforcing this characteristic.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Quantitative traits often exhibit continuous variation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They often exhibit continuous variation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Which of the following is considered an example of a quantitative trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Presence of a dimple"
+        },
+        {
+          "type": "string",
+          "content": "Blood type (A, B, AB, O)"
+        },
+        {
+          "type": "string",
+          "content": "Human height"
+        },
+        {
+          "type": "string",
+          "content": "Ability to roll tongue"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quantitative Traits",
+      "Examples",
+      "Quantitative Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Quantitative Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Quantitative traits</b> are polygenic and show continuous variation. Examples include human height, skin color, body weight, and intelligence quotient (IQ).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an example of a quantitative trait from the given options.</div><ol><li><strong>Step 1: Recall the definition and examples of quantitative traits.</strong> Quantitative traits are measurable characteristics that show a range of variation, typically influenced by multiple genes and environment.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Presence of a dimple' is typically a qualitative trait (present or absent).</li><li>Option B: 'Blood type (A, B, AB, O)' is a qualitative trait with discrete categories.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Human height' is a classic example of a quantitative trait, varying continuously within a population and influenced by multiple genes and environmental factors.</span></li><li>Option D: 'Ability to roll tongue' is generally considered a simple Mendelian, qualitative trait (can or cannot roll).</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Height is measured, not counted, and varies along a spectrum, which are hallmark characteristics of quantitative traits.</li></div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Human height is considered an example of a quantitative trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human height"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which component of a eukaryotic gene serves as the binding site for RNA polymerase and initiates transcription?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Exon"
+        },
+        {
+          "type": "string",
+          "content": "Intron"
+        },
+        {
+          "type": "string",
+          "content": "Promoter region"
+        },
+        {
+          "type": "string",
+          "content": "Terminator region"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Structure",
+      "Transcription",
+      "Molecular Biology"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Eukaryotic Gene Structure and Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A eukaryotic gene consists of several components, including the <b>promoter region</b> (binding site for RNA polymerase, initiates transcription), exons (coding regions), introns (non-coding sequences), and a terminator region (signals end of transcription).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the part of a eukaryotic gene responsible for RNA polymerase binding and transcription initiation.</div><ol><li><strong>Step 1: Recall the roles of different gene components in transcription.</strong> Transcription is the process of synthesizing RNA from a DNA template, and specific regions of the gene are involved in starting and stopping this process.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Exon' is a coding region, which is transcribed and translated.</li><li>Option B: 'Intron' is a non-coding region, transcribed but later removed before translation.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Promoter region' is specifically described as the binding site for RNA polymerase and the initiator of transcription.</span></li><li>Option D: 'Terminator region' signals the end of transcription.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Without a promoter, RNA polymerase cannot efficiently locate the gene and begin synthesizing RNA, highlighting its critical role in the initiation of gene expression.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The promoter region serves as the binding site for RNA polymerase and initiates transcription in a eukaryotic gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promoter region"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which of the following is NOT a regulatory element of a eukaryotic gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Enhancer"
+        },
+        {
+          "type": "string",
+          "content": "Silencer"
+        },
+        {
+          "type": "string",
+          "content": "Intron"
+        },
+        {
+          "type": "string",
+          "content": "Insulator"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Regulation",
+      "Eukaryotic Gene Structure"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Regulatory Elements of Eukaryotic Genes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Regulatory elements</b> in eukaryotic genes are sequences that regulate gene expression. These include enhancers (increase transcription), silencers (decrease transcription), and insulators (prevent spread of regulatory signals).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a regulatory element of a eukaryotic gene.</div><ol><li><strong>Step 1: Recall the known regulatory elements.</strong> Regulatory elements are DNA sequences that influence the rate of transcription.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Enhancer' is a regulatory element that increases gene expression.</li><li>Option B: 'Silencer' is a regulatory element that decreases gene expression.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Intron' is a non-coding sequence within a gene that is transcribed but removed during RNA processing; it is a structural component, not a regulatory element in the same sense as enhancers/silencers/insulators.</span></li><li>Option D: 'Insulator' is a regulatory element that controls the influence of nearby enhancers and silencers.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Enhancers, silencers, and insulators all function to modulate the level or pattern of gene expression. Introns, while important for gene structure and sometimes splicing regulation, are fundamentally internal gene segments, not external or distant regulatory regions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Intron is NOT a regulatory element of a eukaryotic gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intron"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "A 'genome' is best described as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A single chromosome from an organism."
+        },
+        {
+          "type": "string",
+          "content": "The complete set of genetic material present in an organism."
+        },
+        {
+          "type": "string",
+          "content": "All the proteins produced by an organism."
+        },
+        {
+          "type": "string",
+          "content": "The non-coding DNA sequences only."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genome",
+      "Definition",
+      "Genome Structure"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Genome Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <b>genome</b> is defined as the complete set of genetic material present in an organism. This includes coding/regulatory DNA, repetitive DNA, and non-coding DNA.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the best description of a 'genome'.</div><ol><li><strong>Step 1: Recall the definition of a genome.</strong> The genome encompasses all the DNA (or RNA in some viruses) an organism possesses, irrespective of its function.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'A single chromosome from an organism.' is only a part of the genome, as most organisms have multiple chromosomes.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'The complete set of genetic material present in an organism.' accurately defines the term genome.</span></li><li>Option C: 'All the proteins produced by an organism.' describes the proteome, not the genome.</li><li>Option D: 'The non-coding DNA sequences only.' is incomplete; the genome includes both coding and non-coding sequences.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'genome' implies totality, referring to the entire genetic blueprint of an organism.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ A 'genome' is best described as the complete set of genetic material present in an organism.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The complete set of genetic material present in an organism."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Gene mutations primarily involve changes in:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The number of chromosomes."
+        },
+        {
+          "type": "string",
+          "content": "The entire genome size."
+        },
+        {
+          "type": "string",
+          "content": "DNA nucleotide sequences."
+        },
+        {
+          "type": "string",
+          "content": "Protein structure only."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Mutation",
+      "DNA Variation",
+      "Molecular Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gene Mutation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Gene mutations</b> are changes in DNA nucleotide sequences. These can include substitution, insertion, or deletion of nucleotides. Chromosomal alterations involve larger-scale changes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what gene mutations primarily involve.</div><ol><li><strong>Step 1: Recall the nature of gene mutations versus chromosomal alterations.</strong> Gene mutations are typically point mutations or small changes within a gene, while chromosomal alterations involve larger structural changes.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'The number of chromosomes.' describes aneuploidy or polyploidy, which are chromosomal aberrations, not gene mutations.</li><li>Option B: 'The entire genome size.' can be affected by large-scale chromosomal alterations or duplications, but gene mutations are smaller.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'DNA nucleotide sequences.' is the precise primary involvement of gene mutations, encompassing substitutions, insertions, and deletions.</span></li><li>Option D: 'Protein structure only.' is a *consequence* of gene mutations that alter coding sequences, but the mutation itself is at the DNA level.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The terms substitution, insertion, and deletion explicitly describe changes to the nucleotide sequence, which are the fundamental events of gene mutation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Gene mutations primarily involve changes in DNA nucleotide sequences.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DNA nucleotide sequences."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Which type of chromosomal rearrangement involves the movement of chromosomal segments between non-homologous chromosomes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Deletion"
+        },
+        {
+          "type": "string",
+          "content": "Inversion"
+        },
+        {
+          "type": "string",
+          "content": "Duplication"
+        },
+        {
+          "type": "string",
+          "content": "Translocation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chromosomal Rearrangements",
+      "Genome Variation",
+      "Cytogenetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chromosomal Rearrangements</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Chromosomal rearrangements</b> are large-scale changes in chromosome structure. Types include deletion (loss of segment), inversion (segment reversed in orientation), and translocation (movement of chromosomal segments between non-homologous chromosomes).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the type of chromosomal rearrangement involving movement of segments between non-homologous chromosomes.</div><ol><li><strong>Step 1: Understand the definitions of different chromosomal rearrangements.</strong> Each type describes a specific structural change in a chromosome.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Deletion' refers to the loss of a chromosomal segment.</li><li>Option B: 'Inversion' refers to a segment being reversed within the same chromosome.</li><li>Option C: 'Duplication' refers to a segment being copied one or more times within the same or homologous chromosome.</li><li>Option D: <span style='color:var(--orange);font-weight:bold;'>'Translocation' is specifically defined as the movement of chromosomal segments between non-homologous chromosomes.</span></li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'translocation' implies moving across different locations, and in cytogenetics, it refers to moving between chromosomes that are not homologous pairs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Translocation involves the movement of chromosomal segments between non-homologous chromosomes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Translocation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of the following is a biological importance of genome variation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ensuring genetic uniformity within a species."
+        },
+        {
+          "type": "string",
+          "content": "Reducing the rate of evolutionary adaptation."
+        },
+        {
+          "type": "string",
+          "content": "Contributing to genetic diversity."
+        },
+        {
+          "type": "string",
+          "content": "Decreasing disease susceptibility."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genome Variation",
+      "Biological Importance",
+      "Evolutionary Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biological Importance of Genome Variation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Genome variations</b> are crucial for several biological processes, including acting as a source of genetic diversity, contributing to evolutionary adaptation, influencing disease susceptibility, and affecting drug response.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a biological importance of genome variation.</div><ol><li><strong>Step 1: Recall the known implications of genetic differences within a population or species.</strong> Variation is generally seen as beneficial for long-term survival and adaptation.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Ensuring genetic uniformity within a species.' is the opposite of what variation does. Variation *prevents* uniformity.</li><li>Option B: 'Reducing the rate of evolutionary adaptation.' is incorrect; genetic variation is the raw material for natural selection and thus *increases* the potential for adaptation.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Contributing to genetic diversity.' is a direct and fundamental importance of genome variation.</span></li><li>Option D: 'Decreasing disease susceptibility.' is not a general effect; variation can both increase (e.g., specific alleles) and decrease susceptibility. The statement is too absolute.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Genetic diversity is essential for species to adapt to changing environments and resist pathogens, directly linking it to the importance of genome variation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Contributing to genetic diversity is a biological importance of genome variation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Contributing to genetic diversity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Which of the following best defines a 'population' in the context of population genomics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "All organisms living in a specific geographical area."
+        },
+        {
+          "type": "string",
+          "content": "A group of interbreeding individuals of the same species."
+        },
+        {
+          "type": "string",
+          "content": "All individuals of different species living together."
+        },
+        {
+          "type": "string",
+          "content": "The total number of species in an ecosystem."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Population",
+      "Definition",
+      "Population Genomics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Population Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <b>population</b> is defined as a group of interbreeding individuals of the same species. Population genomics is the study of genetic variation within populations and the factors influencing allele frequencies over time.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the best definition of a 'population' in population genomics.</div><ol><li><strong>Step 1: Recall the biological definition of a population.</strong> In genetics and ecology, a population refers to a specific group with potential for genetic exchange.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'All organisms living in a specific geographical area.' defines a community or part of an ecosystem, not necessarily a single interbreeding group.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'A group of interbreeding individuals of the same species.' is the precise definition of a biological population.</span></li><li>Option C: 'All individuals of different species living together.' describes a community.</li><li>Option D: 'The total number of species in an ecosystem.' describes species richness within an ecosystem.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The ability to interbreed implies a shared gene pool, which is central to studying genetic variation and allele frequencies within that group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ A 'population' is best described as a group of interbreeding individuals of the same species.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A group of interbreeding individuals of the same species."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which of the following is a primary application of population genomics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Designing architectural blueprints."
+        },
+        {
+          "type": "string",
+          "content": "Studying genetic variation within populations."
+        },
+        {
+          "type": "string",
+          "content": "Developing new methods for protein synthesis."
+        },
+        {
+          "type": "string",
+          "content": "Analyzing individual gene sequences for medical diagnosis."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Population Genomics",
+      "Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Population Genomics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Population genomics</b> is the study of genetic variation within populations and the factors that influence allele frequencies over time. Its applications include evolutionary studies, conservation biology, disease gene studies, forensic genetics, and public health genomics.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a primary application of population genomics.</div><ol><li><strong>Step 1: Recall the definition and scope of population genomics.</strong> It focuses on the genetic makeup and changes within groups of individuals.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Designing architectural blueprints.' is unrelated to genomics.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'Studying genetic variation within populations.' is the core definition and thus a primary application of population genomics.</span></li><li>Option C: 'Developing new methods for protein synthesis.' is a field of molecular biology or biotechnology, not primarily population genomics.</li><li>Option D: 'Analyzing individual gene sequences for medical diagnosis.' is an application of clinical genetics or medical genomics, often focused on individuals, whereas population genomics looks at trends across populations.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The definition itself highlights the study of genetic variation within populations, making this the most direct and primary application.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Studying genetic variation within populations is a primary application of population genomics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Studying genetic variation within populations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "In which type of gene interaction does one gene mask or modify the expression of another gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene action"
+        },
+        {
+          "type": "string",
+          "content": "Epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Inhibitory gene interaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Interaction",
+      "Epistasis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Epistasis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Gene interaction</b> occurs when two or more genes influence the expression of a single trait. <b>Epistasis</b> is a specific type of gene interaction where one gene masks or modifies the expression of another gene.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the type of gene interaction where one gene masks or modifies the expression of another.</div><ol><li><strong>Step 1: Recall the definitions of different types of gene interactions.</strong> Gene interactions describe how multiple genes contribute to a single phenotype, often deviating from simple Mendelian ratios.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Complementary gene interaction' requires two dominant genes for trait expression.</li><li>Option B: 'Duplicate gene action' states that two dominant genes produce the same phenotype.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Epistasis' is precisely defined as one gene masking or modifying the expression of another.</span></li><li>Option D: 'Inhibitory gene interaction' is a form of epistasis where one gene suppresses another. While related, epistasis is the broader term for masking/modifying.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Epistasis explains phenotypic ratios that differ from dihybrid crosses (e.g., 9:3:3:1) because one gene's effect is conditional on another's presence or absence.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Epistasis is the type of gene interaction where one gene masks or modifies the expression of another gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which of the following is NOT a significance of gene interactions?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Explaining deviations from Mendelian ratios."
+        },
+        {
+          "type": "string",
+          "content": "Influencing disease expression."
+        },
+        {
+          "type": "string",
+          "content": "Simplifying genetic pathways."
+        },
+        {
+          "type": "string",
+          "content": "Increasing phenotypic diversity."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Interaction",
+      "Significance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of Gene Interactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <b>significance of gene interactions</b> includes increasing phenotypic diversity, explaining deviations from Mendelian ratios, influencing disease expression, and being important in breeding programs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a significance of gene interactions.</div><ol><li><strong>Step 1: Recall the known significances of gene interactions.</strong> These interactions reveal the complexity of genetic control over traits.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Explaining deviations from Mendelian ratios.' is a key significance, as interactions often produce non-Mendelian phenotypic ratios.</li><li>Option B: 'Influencing disease expression.' is significant, as complex diseases often involve multiple interacting genes.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Simplifying genetic pathways.' is incorrect; gene interactions typically *increase* the complexity of genetic pathways, not simplify them, as multiple genes intricately affect a single outcome.</span></li><li>Option D: 'Increasing phenotypic diversity.' is a significance, as interactions can lead to a wider range of observable traits.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Gene interactions demonstrate how traits are not always straightforwardly controlled by single genes, thus making pathways more intricate.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Simplifying genetic pathways is NOT a significance of gene interactions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Simplifying genetic pathways."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Maternal inheritance is a key characteristic of extrachromosomal inheritance because traits are passed strictly from:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Father to all offspring."
+        },
+        {
+          "type": "string",
+          "content": "Mother to all offspring."
+        },
+        {
+          "type": "string",
+          "content": "Father to male offspring only."
+        },
+        {
+          "type": "string",
+          "content": "Mother to female offspring only."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Extrachromosomal Inheritance",
+      "Maternal Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Maternal Inheritance in Extrachromosomal Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Extrachromosomal inheritance</b> (cytoplasmic/mitochondrial inheritance) refers to the transmission of characters by genes located outside the nucleus, such as in mitochondria or chloroplasts. A key characteristic is <b>maternal inheritance</b>, where traits are passed strictly from the mother to all her offspring.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about maternal inheritance as a characteristic of extrachromosomal inheritance, specifically how traits are passed.</div><ol><li><strong>Step 1: Understand extrachromosomal inheritance.</strong> These genes are in organelles like mitochondria, which are typically inherited from the egg, not sperm.</li><li><strong>Step 2: Evaluate the options in light of this understanding.</strong></li><ul><li>Option A: 'Father to all offspring.' is incorrect for maternal inheritance.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'Mother to all offspring.' precisely defines maternal inheritance, as the egg contributes the cytoplasm and its organelles to the zygote.</span></li><li>Option C: 'Father to male offspring only.' describes Y-linked inheritance, which is nuclear, not extrachromosomal.</li><li>Option D: 'Mother to female offspring only.' is incorrect; maternal inheritance passes to all offspring, regardless of sex.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Since sperm generally contributes only nuclear DNA, and the egg contributes both nuclear DNA and cytoplasmic organelles, the traits encoded in mitochondrial or chloroplast DNA are passed solely from the maternal line.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Maternal inheritance means traits are passed strictly from mother to all offspring.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mother to all offspring."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which genetic disorder is cited as an example of mitochondrial inheritance in human pathology?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sickle Cell Anaemia"
+        },
+        {
+          "type": "string",
+          "content": "Leber's Hereditary Optic Neuropathy (LHON)"
+        },
+        {
+          "type": "string",
+          "content": "Cystic Fibrosis"
+        },
+        {
+          "type": "string",
+          "content": "Down Syndrome"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mitochondrial Inheritance",
+      "Genetic Disorders",
+      "Extrachromosomal Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mitochondrial Inheritance Example</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Mitochondrial inheritance</b> is a type of extrachromosomal inheritance where traits are passed from mother to offspring. An example in human pathology is <b>Leber's Hereditary Optic Neuropathy (LHON)</b>, which causes deterioration of the retina and eye disease.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a specific human genetic disorder that exemplifies mitochondrial inheritance.</div><ol><li><strong>Step 1: Recall the examples given for mitochondrial inheritance.</strong> The document provides a direct example for human pathology.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Sickle Cell Anaemia' is an autosomal recessive genetic disorder.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'Leber's Hereditary Optic Neuropathy (LHON)' is explicitly mentioned as an example of mitochondrial inheritance.</span></li><li>Option C: 'Cystic Fibrosis' is an autosomal recessive genetic disorder.</li><li>Option D: 'Down Syndrome' is a chromosomal disorder (trisomy 21).</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> LHON is a well-known condition resulting from mutations in mitochondrial DNA, consistent with the pattern of maternal inheritance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Leber's Hereditary Optic Neuropathy (LHON) is cited as an example of mitochondrial inheritance in human pathology.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Leber's Hereditary Optic Neuropathy (LHON)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "In humans, the SRY gene, located on the Y chromosome, is responsible for:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Initiating female developmental pathways."
+        },
+        {
+          "type": "string",
+          "content": "Encoding a transcription factor that initiates the male developmental pathway."
+        },
+        {
+          "type": "string",
+          "content": "Controlling mitochondrial inheritance."
+        },
+        {
+          "type": "string",
+          "content": "Regulating the overall size of the organism."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sex Determination",
+      "SRY Gene",
+      "Chromosomal Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>SRY Gene Function in Sex Determination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In humans and mammals, the <b>SRY gene</b> (Sex-determining Region Y) is located on the Y chromosome. It encodes a transcription factor that initiates the male developmental pathway, leading to testis formation. In its absence, the ovarian formation pathway proceeds.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the function of the SRY gene in humans.</div><ol><li><strong>Step 1: Recall the role of the SRY gene in human sex determination.</strong> It's a key genetic switch for male development.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Initiating female developmental pathways.' is incorrect; female development occurs in the *absence* of SRY.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'Encoding a transcription factor that initiates the male developmental pathway.' accurately describes the function of the SRY gene.</span></li><li>Option C: 'Controlling mitochondrial inheritance.' is unrelated to the SRY gene's function.</li><li>Option D: 'Regulating the overall size of the organism.' is a complex trait influenced by many genes and environmental factors, not primarily SRY.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The SRY gene's product, a transcription factor, is directly involved in the cascade of gene expression that leads to the development of male characteristics.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The SRY gene encodes a transcription factor that initiates the male developmental pathway.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Encoding a transcription factor that initiates the male developmental pathway."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Which sex determination system is characterized by females being ZW and males being ZZ?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "XY system"
+        },
+        {
+          "type": "string",
+          "content": "XO system"
+        },
+        {
+          "type": "string",
+          "content": "ZW system"
+        },
+        {
+          "type": "string",
+          "content": "Haplodiploidy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sex Determination Systems",
+      "Chromosomal Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>ZW Sex Determination System</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Different organisms have varied sex determination systems. The <b>ZW system</b>, common in birds and reptiles, is characterized by females being heterogametic (ZW) and males being homogametic (ZZ).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the sex determination system where females are ZW and males are ZZ.</div><ol><li><strong>Step 1: Recall the different chromosomal sex determination systems.</strong> These systems involve specific sex chromosomes dictating an individual's sex.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'XY system' has females as XX and males as XY (e.g., humans, mammals).</li><li>Option B: 'XO system' has females as XX and males as XO (e.g., grasshoppers).</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'ZW system' is correctly described as having females ZW and males ZZ.</span></li><li>Option D: 'Haplodiploidy' is a system found in Hymenoptera (e.g., bees) where sex is determined by ploidy level, not ZW chromosomes.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Each chromosomal system has distinct notation for female and male chromosome combinations. The ZW system is characteristic of female heterogamy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The ZW system is characterized by females being ZW and males being ZZ.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ZW system"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "In organisms with haplodiploidy, such as bees, males develop from:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Diploid fertilized eggs."
+        },
+        {
+          "type": "string",
+          "content": "Haploid unfertilized eggs."
+        },
+        {
+          "type": "string",
+          "content": "Gametes from both parents."
+        },
+        {
+          "type": "string",
+          "content": "Temperature-dependent embryonic development."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Haplodiploidy",
+      "Sex Determination",
+      "Parthenogenesis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Haplodiploidy Sex Determination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Haplodiploidy</b> is a sex determination system found in Hymenoptera (bees, wasps, ants) where sex is not based on sex chromosomes. In this system, unfertilized (haploid) eggs develop into males through parthenogenesis, while fertilized (diploid) eggs develop into females.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the origin of males in organisms with haplodiploidy.</div><ol><li><strong>Step 1: Recall the mechanism of haplodiploidy.</strong> This system distinguishes sexes based on the number of chromosome sets.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Diploid fertilized eggs.' develop into females in haplodiploid systems.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'Haploid unfertilized eggs.' develop into males in haplodiploid systems (parthenogenesis).</span></li><li>Option C: 'Gametes from both parents.' describes sexual reproduction, which leads to diploid individuals (females) in this system.</li><li>Option D: 'Temperature-dependent embryonic development.' describes environmental sex determination, common in reptiles, not haplodiploidy.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'haplo-' refers to haploid, meaning a single set of chromosomes, which is characteristic of males in this system due to development from unfertilized eggs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ In organisms with haplodiploidy, males develop from haploid unfertilized eggs.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Haploid unfertilized eggs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Mendel's law of Independent Assortment states that genes located on different chromosomes segregate independently. However, genes located on the same chromosome tend to be inherited together, a phenomenon known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Genetic mutation"
+        },
+        {
+          "type": "string",
+          "content": "Genetic drift"
+        },
+        {
+          "type": "string",
+          "content": "Genetic linkage"
+        },
+        {
+          "type": "string",
+          "content": "Gene flow"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Linkage",
+      "Mendelian Genetics",
+      "Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Genetic Linkage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> While Mendel's law of Independent Assortment applies to genes on different chromosomes, genes located on the same chromosome tend to be inherited together because they are physically connected. This phenomenon is called <b>genetic linkage</b>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the phenomenon where genes on the same chromosome tend to be inherited together, contrasting with independent assortment.</div><ol><li><strong>Step 1: Understand the contrast between independent assortment and the inheritance pattern described.</strong> Independent assortment means genes segregate randomly, but the scenario describes non-random segregation due to shared chromosomal location.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Genetic mutation' is a change in DNA sequence, not the pattern of inheritance of existing genes.</li><li>Option B: 'Genetic drift' is random fluctuation in allele frequencies, typically in small populations.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Genetic linkage' is the precise term for genes on the same chromosome being inherited together.</span></li><li>Option D: 'Gene flow' is the transfer of genetic material between populations.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The concept of linkage directly explains why certain traits are often inherited together, as observed by early geneticists like Thomas Hunt Morgan.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The phenomenon where genes located on the same chromosome tend to be inherited together is known as genetic linkage.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genetic linkage"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Who is credited with establishing the concept of genetic linkage through pioneering work using Drosophila melanogaster?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gregor Mendel"
+        },
+        {
+          "type": "string",
+          "content": "Rosalind Franklin"
+        },
+        {
+          "type": "string",
+          "content": "James Watson and Francis Crick"
+        },
+        {
+          "type": "string",
+          "content": "Thomas Hunt Morgan"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Linkage",
+      "History of Genetics",
+      "Key Figures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Establishment of Genetic Linkage Concept</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The concept of <b>genetic linkage</b> was established through the pioneering work of <b>Thomas Hunt Morgan</b> and his colleagues, primarily using the fruit fly <em>Drosophila melanogaster</em> as a model organism.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the scientist credited with establishing the concept of genetic linkage using <em>Drosophila melanogaster</em>.</div><ol><li><strong>Step 1: Recall the historical context of genetic discoveries.</strong> Mendel established basic inheritance laws, but later work revealed exceptions like linkage.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Gregor Mendel' established the laws of inheritance, including independent assortment, but not linkage.</li><li>Option B: 'Rosalind Franklin' made critical contributions to the understanding of DNA structure.</li><li>Option C: 'James Watson and Francis Crick' discovered the double helix structure of DNA.</li><li>Option D: <span style='color:var(--orange);font-weight:bold;'>'Thomas Hunt Morgan' is explicitly named as the pioneer who established the concept of linkage.</span></li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Morgan's work with <em>Drosophila</em> provided experimental evidence that genes on the same chromosome are inherited together and helped map gene locations based on recombination frequencies.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Thomas Hunt Morgan is credited with establishing the concept of genetic linkage.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thomas Hunt Morgan"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "What is the relationship between the physical distance between genes on a chromosome and their recombination frequency?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The closer the genes, the higher their recombination frequency."
+        },
+        {
+          "type": "string",
+          "content": "The closer the genes, the lower their recombination frequency."
+        },
+        {
+          "type": "string",
+          "content": "Physical distance has no effect on recombination frequency."
+        },
+        {
+          "type": "string",
+          "content": "Recombination frequency is always 50% regardless of distance."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Linkage",
+      "Recombination Frequency",
+      "Gene Mapping"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distance Between Genes and Recombination Frequency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <b>chromosomal basis of linkage</b> states that the closer genes are on a chromosome, the stronger their linkage and the lower their recombination frequency. Conversely, genes farther apart have a greater probability of crossing over and thus higher recombination frequency.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the relationship between physical distance and recombination frequency.</div><ol><li><strong>Step 1: Understand crossing over.</strong> Crossing over is a physical exchange of genetic material between homologous chromosomes. The likelihood of a crossover event occurring between two genes increases with the distance separating them.</li><li><strong>Step 2: Relate crossing over to recombination frequency.</strong> Recombinant offspring result from crossing over. More crossovers mean more recombinant offspring.</li><li><strong>Step 3: Evaluate the options.</strong></li><ul><li>Option A: 'The closer the genes, the higher their recombination frequency.' is incorrect; closer genes are less likely to experience a crossover between them.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'The closer the genes, the lower their recombination frequency.' is correct. This is because a crossover event is less likely to occur in a shorter segment of DNA between closely spaced genes.</span></li><li>Option C: 'Physical distance has no effect on recombination frequency.' is incorrect; distance is a primary determinant.</li><li>Option D: 'Recombination frequency is always 50% regardless of distance.' is incorrect; 50% recombination frequency typically indicates that genes are unlinked or very far apart on the same chromosome, appearing to assort independently.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Gene mapping relies on this inverse relationship: recombination frequency is used as a measure of genetic distance. A lower frequency indicates tighter linkage.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The closer the genes, the lower their recombination frequency.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The closer the genes, the lower their recombination frequency."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "What occurs when genes are so closely located on a chromosome that crossing over never happens between them?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Incomplete linkage"
+        },
+        {
+          "type": "string",
+          "content": "Genetic mutation"
+        },
+        {
+          "type": "string",
+          "content": "Complete linkage"
+        },
+        {
+          "type": "string",
+          "content": "Independent assortment"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Complete Linkage",
+      "Genetic Linkage"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Complete Linkage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Complete linkage</b> occurs when genes are located so close together on a chromosome that crossing over between them never occurs. This results in only parental gametes being produced and no recombinant gametes. It is rare in higher organisms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term describing genes so close that crossing over never happens between them.</div><ol><li><strong>Step 1: Understand the implication of 'never' having crossing over.</strong> This signifies the strongest possible form of linkage, where genes are always inherited together.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Incomplete linkage' implies that crossing over *does* occur, but at a low frequency.</li><li>Option B: 'Genetic mutation' refers to changes in DNA sequence, not the pattern of inheritance.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Complete linkage' is the specific term for genes that are so tightly linked that recombination never occurs between them.</span></li><li>Option D: 'Independent assortment' is the opposite of linkage; it means genes segregate randomly.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> In complete linkage, the recombination frequency between the genes would be 0%, meaning no new allele combinations are formed through crossing over.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Complete linkage occurs when genes are so closely located on a chromosome that crossing over never happens between them.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complete linkage"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Which of the following is a key characteristic of incomplete linkage?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Only parental gametes are produced."
+        },
+        {
+          "type": "string",
+          "content": "Crossing over never occurs between linked genes."
+        },
+        {
+          "type": "string",
+          "content": "Recombinant gametes are produced."
+        },
+        {
+          "type": "string",
+          "content": "It is rare in eukaryotes."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Incomplete Linkage",
+      "Genetic Linkage",
+      "Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Incomplete Linkage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Incomplete linkage</b> occurs when crossing over separates linked genes, meaning that parental gametes are predominant but recombinant gametes are also produced. This type of linkage is common in eukaryotes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a key characteristic of incomplete linkage.</div><ol><li><strong>Step 1: Understand the nature of incomplete linkage.</strong> Unlike complete linkage, crossing over *can* occur, but the genes are still on the same chromosome, influencing their segregation.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Only parental gametes are produced.' is a characteristic of *complete* linkage.</li><li>Option B: 'Crossing over never occurs between linked genes.' is a characteristic of *complete* linkage.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Recombinant gametes are produced.' is a defining feature of incomplete linkage, as crossing over leads to new combinations of alleles.</span></li><li>Option D: 'It is rare in eukaryotes.' is characteristic of *complete* linkage; incomplete linkage is common in eukaryotes.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> If recombination frequency is greater than 0% but less than 50%, it indicates incomplete linkage, where recombinant gametes are formed but are less frequent than parental types.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Recombinant gametes are produced is a key characteristic of incomplete linkage.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recombinant gametes are produced."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "During which phase of meiosis does crossing over, involving the physical exchange of genetic material between non-sister chromatids, typically occur?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Anaphase I"
+        },
+        {
+          "type": "string",
+          "content": "Metaphase II"
+        },
+        {
+          "type": "string",
+          "content": "Prophase I"
+        },
+        {
+          "type": "string",
+          "content": "Telophase II"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Crossing Over",
+      "Meiosis",
+      "Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Timing of Crossing Over</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Crossing over</b> is the physical or reciprocal exchange of genetic material between non-sister chromatids of homologous chromosomes. This crucial event typically occurs during <b>Prophase I</b> of meiosis at structures called chiasmata.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the meiotic phase during which crossing over occurs.</div><ol><li><strong>Step 1: Recall the stages of meiosis and major events in each.</strong> Meiosis involves two rounds of division, with significant genetic reorganization happening in Meiosis I.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Anaphase I' involves the separation of homologous chromosomes.</li><li>Option B: 'Metaphase II' involves the alignment of sister chromatids at the metaphase plate in the second meiotic division.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Prophase I' is the stage where homologous chromosomes pair up (synapsis) and crossing over takes place.</span></li><li>Option D: 'Telophase II' involves the nuclear envelope reforming around separated chromatids at the end of meiosis.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The formation of chiasmata, the physical manifestations of crossing over, is a hallmark event observable during Prophase I.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Crossing over typically occurs during Prophase I of meiosis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prophase I"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "If the total number of offspring in a genetic cross is 1000, and 45 of them are recombinant, what is the recombination frequency (RF)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0.45%"
+        },
+        {
+          "type": "string",
+          "content": "4.5%"
+        },
+        {
+          "type": "string",
+          "content": "45%"
+        },
+        {
+          "type": "string",
+          "content": "450%"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recombination Frequency",
+      "Genetic Calculation",
+      "Linkage Mapping"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Recombination Frequency Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Recombination frequency (RF)</b> is the percentage of recombinant offspring produced in a genetic cross. It is calculated as: RF = (Recombinant offspring / Total offspring) * 100%.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to calculate the recombination frequency given the number of recombinant offspring and total offspring.</div><ol><li><strong>Step 1: Identify the given values.</strong><br>Number of recombinant offspring = <span style='color:var(--orange);font-weight:bold;'>45</span><br>Total number of offspring = <span style='color:var(--orange);font-weight:bold;'>1000</span></li><li><strong>Step 2: Apply the recombination frequency formula.</strong><br>RF = (Recombinant offspring / Total offspring) * 100%<br>RF = (45 / 1000) * 100%</li><li><strong>Step 3: Perform the calculation.</strong><br>RF = 0.045 * 100%<br>RF = <span style='color:var(--orange);font-weight:bold;'>4.5%</span></li></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> This calculation is straightforward application of the formula. A small percentage indicates that the genes are likely linked.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ The recombination frequency (RF) is 4.5%.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.5%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Prokaryotes lack meiosis and therefore cannot recombine genes through a sexual cycle. Instead, they transfer genetic material through all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Transformation"
+        },
+        {
+          "type": "string",
+          "content": "Transduction"
+        },
+        {
+          "type": "string",
+          "content": "Transcription"
+        },
+        {
+          "type": "string",
+          "content": "Conjugation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Prokaryotic Recombination",
+      "Horizontal Gene Transfer",
+      "Molecular Biology"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Prokaryotic Genetic Material Transfer</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Prokaryotes (bacteria) do not undergo meiosis, so they use alternative mechanisms for genetic recombination known as <b>horizontal gene transfer (HGT)</b>. The three major mechanisms of HGT are transformation, transduction, and conjugation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which process is NOT a mechanism for prokaryotes to transfer genetic material.</div><ol><li><strong>Step 1: Recall the three main mechanisms of horizontal gene transfer in prokaryotes.</strong> These are the ways bacteria acquire new genetic material from sources other than direct inheritance.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Transformation' is a mechanism of HGT where bacteria take up naked DNA from their environment.</li><li>Option B: 'Transduction' is a mechanism of HGT where bacteriophages transfer genetic material between bacteria.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Transcription' is the process of synthesizing RNA from a DNA template within a cell; it is part of gene expression, not a mechanism of genetic material transfer between cells.</span></li><li>Option D: 'Conjugation' is a mechanism of HGT involving direct cell-to-cell contact and transfer of genetic material (e.g., plasmids).</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Transformation, transduction, and conjugation are distinct methods of genetic exchange between bacteria, while transcription is an internal process of gene expression.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Transcription is NOT a mechanism for prokaryotes to transfer genetic material.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transcription"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "What is the term for the process where bacteria take up foreign genetic material (naked exogenous DNA) from their environment?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Conjugation"
+        },
+        {
+          "type": "string",
+          "content": "Transduction"
+        },
+        {
+          "type": "string",
+          "content": "Transformation"
+        },
+        {
+          "type": "string",
+          "content": "Replication"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Transformation",
+      "Horizontal Gene Transfer",
+      "Bacterial Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bacterial Transformation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Transformation</b> is a process of horizontal gene transfer where some bacteria take up foreign genetic material (naked exogenous DNA) from the environment. The ability of cells to do this is called competence.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term describing bacteria taking up naked exogenous DNA from their environment.</div><ol><li><strong>Step 1: Recall the different mechanisms of horizontal gene transfer in bacteria.</strong> Each mechanism has a distinct mode of DNA acquisition.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Conjugation' involves direct cell-to-cell contact via a pilus.</li><li>Option B: 'Transduction' involves bacteriophages as vectors for DNA transfer.</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'Transformation' is the correct term for the uptake of naked environmental DNA.</span></li><li>Option D: 'Replication' is the process of synthesizing new DNA strands from existing ones within a cell, not a mechanism of external DNA acquisition.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Transformation is a fundamental technique in molecular biology to introduce foreign DNA into bacterial cells for various purposes, such as gene cloning.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Transformation is the term for the process where bacteria take up foreign genetic material (naked exogenous DNA) from their environment.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transformation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "What is 'transposon' also commonly known as?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Circular DNA"
+        },
+        {
+          "type": "string",
+          "content": "Jumping gene"
+        },
+        {
+          "type": "string",
+          "content": "Phage integration site"
+        },
+        {
+          "type": "string",
+          "content": "Conjugation pilus"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Transposons",
+      "Mobile Genetic Elements"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transposon Alias</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Bacteria (and other organisms) can possess <b>transposons</b>, which are mobile sections of DNA that can move within or between genomes. They are also commonly known as 'jumping genes'.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for another common name for a 'transposon'.</div><ol><li><strong>Step 1: Recall the definition of a transposon.</strong> Transposons are genetic elements that can change their position within a genome.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'Circular DNA' typically refers to plasmids or bacterial chromosomes, not specifically transposons.</li><li>Option B: <span style='color:var(--orange);font-weight:bold;'>'Jumping gene' is the popular and descriptive term for a transposon due to its ability to move or 'jump' from one location to another in the genome.</span></li><li>Option C: 'Phage integration site' is a specific region on a bacterial chromosome where a bacteriophage genome can insert itself during lysogeny.</li><li>Option D: 'Conjugation pilus' is a structure used for bacterial conjugation.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'jumping gene' perfectly captures the defining characteristic of a transposon, which is its mobility.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ 'Transposon' is also commonly known as a jumping gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jumping gene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Which biotechnological application utilizes transformation for introducing recombinant plasmids into <em>E. coli</em> and other host bacteria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Phage therapy"
+        },
+        {
+          "type": "string",
+          "content": "Vaccine development"
+        },
+        {
+          "type": "string",
+          "content": "Constructing bacterial genetic maps"
+        },
+        {
+          "type": "string",
+          "content": "Gene cloning"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Transformation",
+      "Biotechnology",
+      "Gene Cloning"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transformation in Biotechnology</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Biotechnological applications</b> of prokaryotic recombination mechanisms are diverse. Transformation is particularly useful for introducing recombinant plasmids into <em>E. coli</em> and other host bacteria for purposes like gene cloning, protein production, and vaccine development.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the biotechnological application that uses transformation to introduce recombinant plasmids into bacteria.</div><ol><li><strong>Step 1: Understand the core process of transformation in biotechnology.</strong> It's a method to get foreign DNA into a bacterial cell.</li><li><strong>Step 2: Consider the purpose of introducing recombinant plasmids.</strong> Recombinant plasmids carry genes of interest.</li><li><strong>Step 3: Evaluate the options.</strong></li><ul><li>Option A: 'Phage therapy' uses bacteriophages to treat bacterial infections, a transduction-related application.</li><li>Option B: 'Vaccine development' can involve transformed bacteria, but the *act* of introducing plasmids for a specific gene product often falls under gene cloning.</li><li>Option C: 'Constructing bacterial genetic maps' uses recombination frequencies, often derived from transduction experiments.</li><li>Option D: <span style='color:var(--orange);font-weight:bold;'>'Gene cloning' is the primary application where transformation is used to insert a gene of interest (within a recombinant plasmid) into a bacterial host for replication and expression.</span> Protein production and vaccine development are *outcomes* of gene cloning.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'gene cloning' precisely describes the process of making multiple copies of a gene by inserting it into a vector (like a plasmid) and introducing it into a host cell via transformation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Gene cloning utilizes transformation for introducing recombinant plasmids into <em>E. coli</em> and other host bacteria.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene cloning"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Conjugation-based gene transfer is utilized to introduce genes into plant cells via which specific bacterium?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Escherichia coli"
+        },
+        {
+          "type": "string",
+          "content": "Bacillus subtilis"
+        },
+        {
+          "type": "string",
+          "content": "Agrobacterium tumefaciens"
+        },
+        {
+          "type": "string",
+          "content": "Staphylococcus aureus"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Conjugation",
+      "Plant Genetic Engineering",
+      "Biotechnology"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conjugation in Plant Genetic Engineering</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <b>Conjugation-based gene transfer</b>, while primarily known for bacterial exchange, has an important application in plant genetic engineering. Specifically, <b><em>Agrobacterium tumefaciens</em></b> utilizes its Ti plasmid (a form of conjugation-like transfer) to introduce genes into plant cells.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific bacterium used in conjugation-based gene transfer to introduce genes into plant cells.</div><ol><li><strong>Step 1: Recall the unique application of bacterial gene transfer to plants.</strong> This involves a bacterium known for causing plant tumors, but whose gene transfer mechanism has been repurposed.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: '<em>Escherichia coli</em>' is a common laboratory bacterium, often used for transformation or cloning in bacteria, but not typically for direct gene transfer to plants via conjugation.</li><li>Option B: '<em>Bacillus subtilis</em>' is a gram-positive bacterium, known for natural competence (transformation).</li><li>Option C: <span style='color:var(--orange);font-weight:bold;'>'<em>Agrobacterium tumefaciens</em>' is the specific bacterium mentioned in the document for introducing genes into plant cells via its Ti plasmid.</span></li><li>Option D: '<em>Staphylococcus aureus</em>' is a human pathogen, not typically associated with plant genetic engineering via conjugation.</li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> <em>Agrobacterium tumefaciens</em> is a cornerstone of plant biotechnology, using its natural ability to transfer DNA (T-DNA) to host plants to integrate desired genes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ <em>Agrobacterium tumefaciens</em> is utilized to introduce genes into plant cells via conjugation-based gene transfer.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agrobacterium tumefaciens"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Which statement regarding the biological and medical significance of prokaryotic recombination is true?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It primarily leads to a decrease in antibiotic resistance."
+        },
+        {
+          "type": "string",
+          "content": "It restricts bacterial speciation by preventing gene acquisition."
+        },
+        {
+          "type": "string",
+          "content": "It is not relevant to vaccine development."
+        },
+        {
+          "type": "string",
+          "content": "It contributes to the emergence of multi-drug-resistant (MDR) pathogens."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Prokaryotic Recombination",
+      "Biological Significance",
+      "Antibiotic Resistance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biological and Medical Significance of Prokaryotic Recombination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Prokaryotic recombination (horizontal gene transfer) has profound biological and medical significance. It facilitates the transfer of antibiotic resistance genes (e.g., via R-plasmids and conjugation), leading to the emergence of multi-drug-resistant (MDR) pathogens. It also contributes to bacterial evolution and pathogenicity, and is used in biotechnological applications like vaccine development.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a true statement about the biological and medical significance of prokaryotic recombination.</div><ol><li><strong>Step 1: Recall the various impacts of horizontal gene transfer.</strong> HGT allows bacteria to rapidly acquire new traits.</li><li><strong>Step 2: Evaluate the options.</strong></li><ul><li>Option A: 'It primarily leads to a decrease in antibiotic resistance.' is incorrect; HGT, especially via conjugation of R-plasmids, is a major driver of *increase* in antibiotic resistance.</li><li>Option B: 'It restricts bacterial speciation by preventing gene acquisition.' is incorrect; HGT, particularly homologous gene transfer, is a key mechanism in bacterial evolution and speciation by facilitating gene acquisition.</li><li>Option C: 'It is not relevant to vaccine development.' is incorrect; transformation, a form of HGT, is useful for vaccine development.</li><li>Option D: <span style='color:var(--orange);font-weight:bold;'>'It contributes to the emergence of multi-drug-resistant (MDR) pathogens.' is true. The transfer of R-plasmids carrying multiple resistance genes via conjugation is a major factor in the rise of MDR and XDR pathogens.</span></li></ul></ol><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The rapid spread of antibiotic resistance genes among bacterial populations is a well-documented global health crisis, directly attributable to horizontal gene transfer mechanisms like conjugation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top=12px;'>∴ Prokaryotic recombination contributes to the emergence of multi-drug-resistant (MDR) pathogens.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It contributes to the emergence of multi-drug-resistant (MDR) pathogens."
+    }
+  }
+]
