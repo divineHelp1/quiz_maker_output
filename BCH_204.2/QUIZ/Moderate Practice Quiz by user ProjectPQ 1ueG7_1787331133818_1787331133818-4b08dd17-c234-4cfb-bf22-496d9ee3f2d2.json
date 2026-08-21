@@ -1,0 +1,1539 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Heradiary and Non Heradiary Characteristics",
+    "code": "BCH 204.2",
+    "session": "Moderate Practice Quiz by user ProjectPQ 1ueG7",
+    "kind": "mixed",
+    "topics": [
+      "Introduction to Genetics",
+      "Genetics",
+      "Heritable Characteristics",
+      "Heredity",
+      "Applications of Genetics",
+      "Non-Heritable Characteristics",
+      "Importance of Heredity",
+      "Comparing Heritable and Non-Heritable Traits",
+      "Probability in Genetics",
+      "Mendelian Genetics",
+      "Monohybrid Cross",
+      "Chi-Square Test",
+      "Goodness of Fit",
+      "Quantitative Inheritance",
+      "Polygenic Traits",
+      "Characteristics of Quantitative Traits",
+      "Quantitative Genetics",
+      "Eukaryotic Gene Structure",
+      "Gene Structure",
+      "Gene Functions",
+      "Genome Structure",
+      "Genome Variation",
+      "Gene Duplication",
+      "Biological Importance of Genome Variation",
+      "Population Genetics",
+      "Applications of Population Genetics",
+      "Gene Interaction",
+      "Types of Gene Interaction",
+      "Significance of Gene Interactions",
+      "Examples of Quantitative Traits",
+      "Extrachromosomal Inheritance",
+      "Non-Mendelian Inheritance",
+      "Characteristics of Extrachromosomal Inheritance",
+      "Maternal Inheritance",
+      "Mitochondrial Inheritance",
+      "Chromosomal Sex Determination",
+      "Sex Determination",
+      "SRY Gene",
+      "Haplodiploidy",
+      "Environmental Sex Determination",
+      "Product Rule of Probability",
+      "Binomial Probability",
+      "Recombination Frequency",
+      "Linkage and Recombination",
+      "Prokaryotic Recombination",
+      "Horizontal Gene Transfer",
+      "Bacterial Conjugation",
+      "Heritable vs. Non-Heritable Traits",
+      "Significance of Prokaryotic Recombination"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 204.2 - Genetics Examination",
+    "Subheading": "Answer all questions. Carefully read the instructions for each section."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which branch of biology is primarily concerned with the study of genes, genetic variation, and heredity?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ecology"
+        },
+        {
+          "type": "string",
+          "content": "Genetics"
+        },
+        {
+          "type": "string",
+          "content": "Physiology"
+        },
+        {
+          "type": "string",
+          "content": "Microbiology"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Introduction to Genetics",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Genetics</b> is the branch of biology concerned with the study of genes, genetic variation, and heredity.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the branch of biology that studies genes, genetic variation, and heredity.</div><p><b>Step 1: Understand the core definitions.</b></p><p>Genetics is fundamentally the scientific study of how traits are passed from parents to offspring, encompassing the mechanisms of inheritance and the variations that exist within populations.</p><ul><li><b>Ecology:</b> This branch studies the relationships between living organisms and their environment. It is not primarily focused on genes or heredity.</li><li><b>Genetics:</b> As defined, this branch directly addresses the study of genes, genetic variation, and heredity. This aligns perfectly with the question.</li><li><b>Physiology:</b> This branch deals with the normal functions of living organisms and their parts. While genetics can influence physiology, it's not the primary focus of physiology itself.</li><li><b>Microbiology:</b> This branch studies microscopic organisms like bacteria, viruses, and fungi. While these organisms have genes and exhibit variation, microbiology is broader than just the study of heredity, focusing on the organisms themselves.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The definition provided in the study material explicitly states that genetics is the branch concerned with genes, genetic variation, and heredity. The other options represent distinct branches of biology with different primary focuses.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The branch of biology concerned with the study of genes, genetic variation, and heredity is Genetics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genetics"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is an example of a heritable characteristic?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bodybuilding muscles from exercise"
+        },
+        {
+          "type": "string",
+          "content": "Language acquisition"
+        },
+        {
+          "type": "string",
+          "content": "Eye color"
+        },
+        {
+          "type": "string",
+          "content": "Calluses on hands from manual labor"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Heritable Characteristics",
+      "Heredity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Heritable vs. Non-Heritable Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Heritable characteristics</b> are traits that are transmitted from parents to offspring. They are controlled by genes.<br><em>Term:</em> <b>Non-heritable characteristics</b> are acquired during an organism's lifetime due to environmental influences, lifestyle, or experience, and are not genetically transmitted.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify a heritable characteristic from the given options.</div><p><b>Step 1: Evaluate each option based on the definition of heritable and non-heritable traits.</b></p><ul><li><b>Bodybuilding muscles from exercise:</b> This is an acquired physical trait resulting from lifestyle and effort, not genetically passed down. It is a non-heritable characteristic.</li><li><b>Language acquisition:</b> This is a learned behavior influenced by environment and experience, not a trait directly inherited through genes. It is a non-heritable characteristic.</li><li><b>Eye color:</b> This is a biological trait determined by genes and passed from parents to offspring. It is explicitly listed as a heritable characteristic in the study material.</li><li><b>Calluses on hands from manual labor:</b> This is an acquired physical change due to external factors (environment/experience), not something inherited genetically. It is a non-heritable characteristic.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> Heritable characteristics are explicitly stated to include traits like eye color, blood group, skin color, height potential, hair texture, tongue rolling, sickle cell anemia, and albinism because they are controlled by genes and passed through generations. Acquired physical traits or learned behaviors are non-heritable.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Eye color is an example of a heritable characteristic.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eye color"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Genetics plays a major role in several fields. Which of the following is NOT explicitly mentioned as a field where genetics plays a major role?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Medicine"
+        },
+        {
+          "type": "string",
+          "content": "Agriculture"
+        },
+        {
+          "type": "string",
+          "content": "Astronomy"
+        },
+        {
+          "type": "string",
+          "content": "Biotechnology"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Introduction to Genetics",
+      "Applications of Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Genetics is crucial for understanding life processes and has significant applications in various fields by studying heredity and genetic variation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify which field is NOT explicitly mentioned as one where genetics plays a major role.</div><p><b>Step 1: Review the listed applications of genetics in the study material.</b></p><p>The study material states: \"Genetics play a major role in <span style='color:var(--orange);font-weight:bold;'>medicine</span>, <span style='color:var(--orange);font-weight:bold;'>agriculture</span>, <span style='color:var(--orange);font-weight:bold;'>biotechnology</span>, <span style='color:var(--orange);font-weight:bold;'>evolution</span> and <span style='color:var(--orange);font-weight:bold;'>biochemistry</span>.\"</p><ul><li><b>Medicine:</b> Explicitly mentioned.</li><li><b>Agriculture:</b> Explicitly mentioned.</li><li><b>Astronomy:</b> Not mentioned in the provided list. Astronomy is the study of celestial objects and phenomena, which is unrelated to genetics.</li><li><b>Biotechnology:</b> Explicitly mentioned.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The list provided in the document clearly itemizes the fields where genetics plays a major role. Astronomy is not part of this list, making it the correct answer for a \"NOT\" question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Astronomy is NOT explicitly mentioned as a field where genetics plays a major role.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Astronomy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "An individual's ability to swim is considered a non-heritable characteristic because it is:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Controlled by a specific gene"
+        },
+        {
+          "type": "string",
+          "content": "Acquired through environment or experience"
+        },
+        {
+          "type": "string",
+          "content": "Predictable genetically"
+        },
+        {
+          "type": "string",
+          "content": "Transmitted across generations"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Non-Heritable Characteristics",
+      "Heredity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Features of Non-Heritable Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Non-heritable characteristics</b> are traits acquired during an organism's lifetime due to environmental influences, lifestyle, or experience. They are not controlled by inherited genes, are not transferable, and cannot be transmitted genetically.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks why an individual's ability to swim is a non-heritable characteristic.</div><p><b>Step 1: Apply the definition and features of non-heritable characteristics to the given options.</b></p><ul><li><b>Controlled by a specific gene:</b> This describes a heritable characteristic. Swimming ability is a skill, not primarily controlled by a single gene.</li><li><b>Acquired through environment or experience:</b> This is a defining feature of non-heritable characteristics, as stated in the material (e.g., 'learning behaviours' like swimming).</li><li><b>Predictable genetically:</b> This implies a heritable trait. Non-heritable traits are not predictable genetically.</li><li><b>Transmitted across generations:</b> This is a feature of heritable traits. Non-heritable traits are not transmitted genetically.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly lists 'swimming' under 'Under Learning Behaviour' as an example of a non-heritable trait. The key reason for a characteristic being non-heritable is its acquisition through environmental interaction or experience, rather than genetic inheritance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An individual's ability to swim is considered a non-heritable characteristic because it is acquired through environment or experience.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acquired through environment or experience"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "One significant importance of heritable characteristics is to ensure the continuity of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ecosystems"
+        },
+        {
+          "type": "string",
+          "content": "Species"
+        },
+        {
+          "type": "string",
+          "content": "Biomes"
+        },
+        {
+          "type": "string",
+          "content": "Populations"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Importance of Heredity",
+      "Heritable Characteristics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Heritable Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Heritable characteristics</b> are traits passed from one generation to the next, crucial for maintaining the form and function of organisms over time.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about one significant importance of heritable characteristics related to continuity.</div><p><b>Step 1: Identify the explicitly stated importance of heritable characteristics from the study material.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>Paston Cortinasty of Species</span>\" (Continuity of Species) and \"Pepe resemblance amarg family mainteo.\" (Family resemblance among family members), among others.</p><ul><li><b>Ecosystems:</b> While genetics play a role in the health of ecosystems, the direct and primary importance of *heritable characteristics* is not the continuity of ecosystems in this context.</li><li><b>Species:</b> The phrase \"Paston Cortinasty of Species\" clearly indicates that heritable characteristics are vital for the continuity of species, ensuring that offspring resemble their parents and maintain the traits characteristic of their kind.</li><li><b>Biomes:</b> Biomes are large ecological regions, and their continuity is not a direct primary importance of heritable characteristics.</li><li><b>Populations:</b> While heritable characteristics are crucial for the continuity of populations, the document specifically uses the broader term \"Species.\"</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The study material directly states \"Paston Cortinasty of Species\" as an importance. This translates to the continuity of species.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One significant importance of heritable characteristics is to ensure the continuity of Species.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Species"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which of the following is NOT a feature of non-heritable characteristics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It is not controlled by inherited genes."
+        },
+        {
+          "type": "string",
+          "content": "It is acquired through environment or experience."
+        },
+        {
+          "type": "string",
+          "content": "It is transferable to offspring."
+        },
+        {
+          "type": "string",
+          "content": "It cannot be transmitted genetically."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Non-Heritable Characteristics",
+      "Heredity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Features of Non-Heritable Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Non-heritable characteristics</b> are traits acquired during an organism's lifetime due to environmental influences, lifestyle, or experience. They are not controlled by inherited genes, are not transferable, and cannot be transmitted genetically.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify which statement is NOT a feature of non-heritable characteristics.</div><p><b>Step 1: Compare each option with the stated features of non-heritable characteristics.</b></p><p>The study material lists the features of non-heritable characteristics as:</p><ol><li>\"<span style='color:var(--orange);font-weight:bold;'>It's not Concalled by lahented genes</span>\" (It's not controlled by inherited genes).</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It's not transferable</span>\" (It's not transferable).</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It is arquired through enlivenment or ceperunби</span>\" (It is acquired through environment or experience).</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It cannot be transcritlul genetically</span>\" (It cannot be transmitted genetically).</li></ol><ul><li><b>It is not controlled by inherited genes:</b> This is a correct feature of non-heritable characteristics.</li><li><b>It is acquired through environment or experience:</b> This is a correct feature of non-heritable characteristics.</li><li><b>It is transferable to offspring:</b> This contradicts the feature \"It's not transferable\" and \"It cannot be transmitted genetically.\" Therefore, this statement is NOT a feature of non-heritable characteristics.</li><li><b>It cannot be transmitted genetically:</b> This is a correct feature of non-heritable characteristics.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that non-heritable characteristics are *not transferable* and *cannot be transmitted genetically*. Therefore, a statement claiming they *are transferable* is incorrect.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The statement \"It is transferable to offspring\" is NOT a feature of non-heritable characteristics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is transferable to offspring."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "A key difference between heritable and non-heritable characteristics regarding their transmission across generations is that heritable traits:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Are usually limited to one individual"
+        },
+        {
+          "type": "string",
+          "content": "Can be passed from parent to offspring"
+        },
+        {
+          "type": "string",
+          "content": "Are influenced by environment"
+        },
+        {
+          "type": "string",
+          "content": "Are acquired during later life"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Comparing Heritable and Non-Heritable Traits",
+      "Heredity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinguishing Heritable and Non-Heritable Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Heritable characteristics</b> are genetically determined and passed down through generations.<br><em>Term:</em> <b>Non-heritable characteristics</b> are acquired during an individual's lifetime and are not genetically transmitted.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for a key difference in transmission between heritable and non-heritable traits.</div><p><b>Step 1: Consult the comparison table for heritable vs. non-heritable characteristics.</b></p><p>The table on Page 4 provides a direct comparison:</p><ul><li>Heritable: \"<span style='color:var(--orange);font-weight:bold;'>It can be passed from Parent to Offspring.</span>\"</li><li>Non-Heritable: \"It is not inherited.\" and \"It is usually limited to one individual.\"</li></ul><ul><li><b>Are usually limited to one individual:</b> This describes a non-heritable trait.</li><li><b>Can be passed from parent to offspring:</b> This is the defining characteristic of heritable traits concerning transmission, as explicitly stated.</li><li><b>Are influenced by environment:</b> This describes non-heritable traits (and also quantitative heritable traits to some extent, but the primary distinction is transmission).</li><li><b>Are acquired during later life:</b> This describes non-heritable traits.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The very first point of comparison in the document's table for heritable traits is their ability to be passed from parent to offspring, directly contrasting with non-heritable traits that are \"not inherited.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key difference is that heritable traits can be passed from parent to offspring.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Can be passed from parent to offspring"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "In genetics, what is probability primarily used to predict?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The exact outcome of a specific mating"
+        },
+        {
+          "type": "string",
+          "content": "The chances of offspring inheriting specific traits from their parents"
+        },
+        {
+          "type": "string",
+          "content": "The environmental factors influencing a trait"
+        },
+        {
+          "type": "string",
+          "content": "The precise mutation rate in a population"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Probability in Genetics",
+      "Mendelian Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of Probability in Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Probability</b> in genetics refers to the likelihood that a particular event will occur, often used to predict the chances of offspring inheriting specific traits.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the primary use of probability in genetics.</div><p><b>Step 1: Refer to the definition of probability provided in the study material.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>Probability is a lively nice that a particular filete will Occur. la Genetics, Probabikay is used to prodite the Chances of Offspring inheriting specific traits fire their parent</span>.\" (Probability is a likelihood that a particular allele will occur. In Genetics, Probability is used to predict the chances of offspring inheriting specific traits from their parents.)</p><ul><li><b>The exact outcome of a specific mating:</b> Probability predicts chances, not exact outcomes, which are subject to random chance within those probabilities.</li><li><b>The chances of offspring inheriting specific traits from their parents:</b> This aligns directly with the definition provided in the material.</li><li><b>The environmental factors influencing a trait:</b> Probability in genetics focuses on genetic inheritance, not directly on environmental influences, although these can modify trait expression.</li><li><b>The precise mutation rate in a population:</b> While mutation rates are probabilities, the primary application mentioned is about trait inheritance from parents.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The definition given for probability in genetics directly states its use in predicting the \"Chances of Offspring inheriting specific traits from their parents.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In genetics, probability is primarily used to predict the chances of offspring inheriting specific traits from their parents.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The chances of offspring inheriting specific traits from their parents"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "In a monohybrid cross between two heterozygous tall plants (Tt x Tt), what percentage of the offspring are expected to be tall?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "25%"
+        },
+        {
+          "type": "string",
+          "content": "50%"
+        },
+        {
+          "type": "string",
+          "content": "75%"
+        },
+        {
+          "type": "string",
+          "content": "100%"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monohybrid Cross",
+      "Probability in Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monohybrid Cross Phenotypic Ratios</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> A <b>monohybrid cross</b> involves parents that differ in a single trait. For two heterozygotes (Tt x Tt), the typical genotypic ratio is 1 TT : 2 Tt : 1 tt, and the phenotypic ratio is 3 dominant : 1 recessive.<br><em>Term:</em> <b>Dominant phenotype</b> (Tall, in this case) is expressed if at least one dominant allele (T) is present (TT or Tt).</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: A monohybrid cross of Tt x Tt. The question asks for the percentage of tall offspring.</div><p><b>Step 1: Determine the genotypes of the offspring.</b></p><p>Using a Punnett square for Tt x Tt:</p><ul><li>T from parent 1, T from parent 2 → <span style='color:var(--orange);font-weight:bold;'>TT</span></li><li>T from parent 1, t from parent 2 → <span style='color:var(--orange);font-weight:bold;'>Tt</span></li><li>t from parent 1, T from parent 2 → <span style='color:var(--orange);font-weight:bold;'>Tt</span></li><li>t from parent 1, t from parent 2 → <span style='color:var(--orange);font-weight:bold;'>tt</span></li></ul><p>The genotypic ratio is <span style='color:var(--orange);font-weight:bold;'>1 TT : 2 Tt : 1 tt</span>.</p><p><b>Step 2: Determine the phenotypes based on the genotypes.</b></p><p>Assuming Tall (T) is dominant over short (t):</p><ul><li>TT genotype → <span style='color:var(--orange);font-weight:bold;'>Tall</span> phenotype</li><li>Tt genotype → <span style='color:var(--orange);font-weight:bold;'>Tall</span> phenotype</li><li>tt genotype → <span style='color:var(--orange);font-weight:bold;'>Short</span> phenotype</li></ul><p>So, there are 3 parts Tall (1 TT + 2 Tt) and 1 part Short (1 tt).</p><p><b>Step 3: Calculate the percentage of tall offspring.</b></p><p>Total parts in the phenotypic ratio = 3 (Tall) + 1 (Short) = <span style='color:var(--orange);font-weight:bold;'>4</span>.</p><p>Percentage of tall offspring = (Number of Tall offspring / Total offspring) * 100%</p><p>= (<span style='color:var(--orange);font-weight:bold;'>3 / 4</span>) * 100% = <span style='color:var(--orange);font-weight:bold;'>75%</span>.</p><ul><li><b>25%:</b> This would be the percentage of short (tt) offspring.</li><li><b>50%:</b> This would be the percentage of heterozygous (Tt) offspring, not the tall phenotype.</li><li><b>75%:</b> This is the correct percentage for the dominant (Tall) phenotype.</li><li><b>100%:</b> This would only happen if at least one parent was homozygous dominant (TT) and all offspring inherited at least one T, or if the parents were TT x TT.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The example provided in the document for Tt x Tt shows a genotypic ratio of 1:2:1 (TT:Tt:tt) and a phenotypic ratio of 3 Tall: 1 Short. It then calculates (3/4) * 100% = 75% for tall.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In a monohybrid cross between two heterozygous tall plants, 75% of the offspring are expected to be tall.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "75%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "In the context of the Chi-square test in genetics, what does a p-value of 0 (X²=0) typically signify?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A strong deviation from Mendelian ratios"
+        },
+        {
+          "type": "string",
+          "content": "Complete agreement with expected Mendelian ratios"
+        },
+        {
+          "type": "string",
+          "content": "That the null hypothesis should be rejected"
+        },
+        {
+          "type": "string",
+          "content": "That the observed results are due to chance alone"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chi-Square Test",
+      "Goodness of Fit"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Interpreting Chi-Square Results</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The <b>Chi-square (X²) test</b> measures the difference between observed and expected values. A <b>p-value</b> associated with the X² statistic indicates the probability of observing such deviations by chance if the null hypothesis is true.<br><em>Term:</em> The <b>null hypothesis (Ho)</b> in genetics often states that observed genetic ratios are consistent with expected Mendelian ratios.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the significance of X²=0 in relation to Mendelian ratios.</div><p><b>Step 1: Understand the Chi-square formula and interpretation.</b></p><p>The Chi-square formula is X² = Σ (Observed - Expected)² / Expected. If X² = 0, it implies that Observed = Expected for all categories.</p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>How this relate with mendelion ratio. is there If: x²=0 N means that it agress wich expected muxtelien taties which to the null hypotheses (Ho)</span>.\" (How this relates with Mendelian ratio is, if X²=0, it means that it agrees with expected Mendelian ratios, which supports the null hypothesis (Ho)).</p><ul><li><b>A strong deviation from Mendelian ratios:</b> A large X² value (and a small p-value) would indicate strong deviation. X²=0 means no deviation.</li><li><b>Complete agreement with expected Mendelian ratios:</b> If Observed equals Expected, then X² is 0, indicating perfect agreement. This directly matches the information.</li><li><b>That the null hypothesis should be rejected:</b> The null hypothesis (Ho) states agreement with Mendelian ratios. An X² of 0 supports the null hypothesis, so it would be *accepted* (or rather, not rejected), not rejected.</li><li><b>That the observed results are due to chance alone:</b> While statistical tests evaluate the role of chance, X²=0 indicates no difference, meaning the observed data perfectly matches the expectation (not just due to chance, but a perfect fit).</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that if X²=0, \"it agrees with expected Mendelian ratios which supports the null hypotheses (Ho).\" Perfect agreement implies no deviation and support for the expected ratios.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An X²=0 in the Chi-square test typically signifies complete agreement with expected Mendelian ratios.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complete agreement with expected Mendelian ratios"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "One of the key importance of the Chi-Square test in genetics research is that it helps to determine whether deviations from expected ratios are due to:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Genetic mutations"
+        },
+        {
+          "type": "string",
+          "content": "Environmental factors"
+        },
+        {
+          "type": "string",
+          "content": "Chance"
+        },
+        {
+          "type": "string",
+          "content": "Epigenetic modifications"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chi-Square Test",
+      "Goodness of Fit"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Chi-Square Test</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The <b>Chi-square test</b> is a statistical tool used to assess how well observed results fit expected genetic ratios. Its importance lies in distinguishing between random fluctuations and actual significant deviations.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for a key importance of the Chi-square test, specifically what it helps determine regarding deviations.</div><p><b>Step 1: Consult the listed importance of the Chi-square test in the study material.</b></p><p>The study material lists among the importance of Chi-Square Test: \"<span style='color:var(--orange);font-weight:bold;'>It ditemiss. Whether daliations are due to chance</span>.\" (It determines whether deviations are due to chance.)</p><ul><li><b>Genetic mutations:</b> While mutations can cause deviations, the Chi-square test itself primarily assesses if observed differences from expectations are *statistically significant* or merely random, not directly identifying the underlying biological cause like a mutation.</li><li><b>Environmental factors:</b> Similar to mutations, environmental factors can influence traits, but the Chi-square test's direct role is to quantify the likelihood of observed deviations occurring by chance.</li><li><b>Chance:</b> This aligns directly with the stated importance: the test helps determine if observed deviations are simply due to random chance or if there's a significant difference requiring a biological explanation.</li><li><b>Epigenetic modifications:</b> These are mechanisms that change gene expression without altering the DNA sequence. The Chi-square test does not directly assess epigenetic modifications.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that the Chi-square test determines \"whether daliations are due to chance.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Chi-Square test helps determine whether deviations from expected ratios are due to chance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chance"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Quantitative inheritance typically involves traits controlled by:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A single gene with clear dominant/recessive alleles"
+        },
+        {
+          "type": "string",
+          "content": "Environmental factors exclusively"
+        },
+        {
+          "type": "string",
+          "content": "Two genes exhibiting epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Two or more genes (polygenes) with additive effects"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quantitative Inheritance",
+      "Polygenic Traits"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of Quantitative Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Quantitative inheritance</b> (or polygenic inheritance) refers to the inheritance of traits controlled by multiple genes, where each gene has a small, additive effect on the phenotype. These traits often show continuous variation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about the genetic basis of quantitative inheritance.</div><p><b>Step 1: Refer to the definition of Quantitative Inheritance in the study material.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>It reten to the wherstance of trous Contated by toor or mere gernes (Polygenes) whorse effect are addiction. Thes tran Ghaw Continuous Vanation rather than distance Catistie's</span>.\" (It refers to the inheritance of traits controlled by two or more genes (Polygenes) whose effects are additive. These traits show continuous variation rather than distinct categories.)</p><ul><li><b>A single gene with clear dominant/recessive alleles:</b> This describes Mendelian inheritance of qualitative traits, not quantitative.</li><li><b>Environmental factors exclusively:</b> While environmental factors influence quantitative traits, the inheritance itself is genetic, involving multiple genes.</li><li><b>Two genes exhibiting epistasis:</b> Epistasis is a type of gene interaction where one gene masks the effect of another, which can affect ratios but doesn't define quantitative inheritance as involving additive effects of multiple genes.</li><li><b>Two or more genes (polygenes) with additive effects:</b> This directly matches the definition provided for quantitative inheritance, specifying \"two or more genes (Polygenes) whose effect are addiction\" (additive effects).</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly defines quantitative inheritance as involving \"two or more genes (Polygenes) whose effect are addiction\" (additive), leading to continuous variation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Quantitative inheritance typically involves traits controlled by two or more genes (polygenes) with additive effects.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two or more genes (polygenes) with additive effects"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which of the following is a characteristic of quantitative traits?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They show discontinuous variation."
+        },
+        {
+          "type": "string",
+          "content": "They are controlled by a single gene."
+        },
+        {
+          "type": "string",
+          "content": "They are measured rather than counted."
+        },
+        {
+          "type": "string",
+          "content": "They are solely determined by environmental factors."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Characteristics of Quantitative Traits",
+      "Quantitative Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Quantitative Traits</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Quantitative traits</b> are polygenic traits influenced by multiple genes and environmental factors, exhibiting continuous variation and typically requiring measurement rather than simple counting.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify a characteristic of quantitative traits.</div><p><b>Step 1: Review the list of characteristics of quantitative traits.</b></p><p>The study material lists the characteristics as:</p><ol><li>\"<span style='color:var(--orange);font-weight:bold;'>It is Conorilled by mutiple genes.</span>\" (Controlled by multiple genes)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It is influenced by Continental faceres</span>\" (Influenced by environmental factors)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It exhibit Continueus Voratión</span>\" (Exhibits continuous variation)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It is measund rather than Counted.</span>\" (Measured rather than counted)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>It Doually deeplay normal disanbution</span>\" (Usually displays normal distribution)</li></ol><ul><li><b>They show discontinuous variation:</b> This is incorrect. Quantitative traits exhibit continuous variation.</li><li><b>They are controlled by a single gene:</b> This is incorrect. They are controlled by multiple genes (polygenes).</li><li><b>They are measured rather than counted:</b> This is explicitly stated as a characteristic.</li><li><b>They are solely determined by environmental factors:</b> This is incorrect. They are influenced by both multiple genes and environmental factors.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that quantitative traits are \"measured rather than counted.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A characteristic of quantitative traits is that they are measured rather than counted.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are measured rather than counted."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "In a typical eukaryotic gene, the promoter region serves as the binding site for:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ribosomes to initiate translation"
+        },
+        {
+          "type": "string",
+          "content": "RNA polymerase to initiate transcription"
+        },
+        {
+          "type": "string",
+          "content": "DNA helicase for replication"
+        },
+        {
+          "type": "string",
+          "content": "Transcription factors to terminate gene expression"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Eukaryotic Gene Structure",
+      "Gene Structure"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Function of the Promoter Region</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The <b>promoter region</b> is a sequence of DNA that serves as the binding site for RNA polymerase and other transcription factors, initiating the process of transcription.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about the function of the promoter region in a eukaryotic gene.</div><p><b>Step 1: Identify the role of the promoter region from the description of eukaryotic gene structure.</b></p><p>The study material describes the eukaryotic gene structure and states for the promoter region: \"<span style='color:var(--orange);font-weight:bold;'>Promover attenz Sentes as the bindurig rig file for RNA poly Base and Initates bancophon</span>.\" (Promoter region serves as the binding site for RNA polymerase and initiates transcription.)</p><ul><li><b>Ribosomes to initiate translation:</b> Ribosomes bind to mRNA, not directly to the DNA promoter, to initiate translation.</li><li><b>RNA polymerase to initiate transcription:</b> This directly matches the description of the promoter's function in the study material.</li><li><b>DNA helicase for replication:</b> DNA helicase unwinds DNA during replication, but it doesn't primarily bind to the promoter to initiate replication; replication origins are distinct.</li><li><b>Transcription factors to terminate gene expression:</b> Transcription factors can bind to the promoter, but their role there is to initiate or regulate transcription, not terminate it. Termination is handled by the terminator region.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document clearly states that the promoter region serves as the \"binding site for RNA polymerase\" and \"initiates transcription.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In a typical eukaryotic gene, the promoter region serves as the binding site for RNA polymerase to initiate transcription.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "RNA polymerase to initiate transcription"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which of the following is a primary function of a gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To synthesize lipids directly"
+        },
+        {
+          "type": "string",
+          "content": "Storage of hereditary information"
+        },
+        {
+          "type": "string",
+          "content": "To provide structural support to cells"
+        },
+        {
+          "type": "string",
+          "content": "To break down glucose for energy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Functions",
+      "Gene Structure"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Functions of a Gene</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> A <b>gene</b> is a basic unit of heredity, composed of a specific sequence of DNA nucleotides that encodes a functional product (like a protein or RNA). Genes carry and transmit genetic information.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify a primary function of a gene.</div><p><b>Step 1: Review the functions of a gene as listed in the study material.</b></p><p>The study material lists the functions as:</p><ol><li>\"<span style='color:var(--orange);font-weight:bold;'>Storage of hereditary Information.</span>\"</li><li>\"<span style='color:var(--orange);font-weight:bold;'>Tranemienion of genetic Infomation</span>\" (Transmission of genetic information)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>Control Ef Protein Syrathists</span>\" (Control of protein synthesis)</li><li>\"Regulation of Cellular mitaboliser\" (Regulation of cellular metabolism)</li><li>\"Determination of procotype trans\" (Determination of phenotype traits)</li></ol><ul><li><b>To synthesize lipids directly:</b> Genes provide instructions for making proteins (enzymes) that catalyze lipid synthesis, but genes themselves don't directly synthesize lipids.</li><li><b>Storage of hereditary information:</b> This is explicitly listed as a primary function of a gene. Genes are the fundamental units that store the genetic blueprint.</li><li><b>To provide structural support to cells:</b> While some proteins encoded by genes provide structural support, this is a function of the *protein* product, not the gene itself as a primary function *of a gene*.</li><li><b>To break down glucose for energy:</b> This is a function of cellular metabolism, often involving enzymes encoded by genes, but not a direct function of the gene itself.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document clearly states \"Storage of hereditary Information\" as a function of a gene.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A primary function of a gene is the storage of hereditary information.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Storage of hereditary information"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "The complete set of genetic material present in an organism is known as its:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Proteome"
+        },
+        {
+          "type": "string",
+          "content": "Transcriptome"
+        },
+        {
+          "type": "string",
+          "content": "Genome"
+        },
+        {
+          "type": "string",
+          "content": "Metabolome"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genome Structure",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Genome</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The <b>genome</b> is the entire complement of an organism's genetic material, including all its DNA (and RNA for some viruses).</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the term that describes the complete set of genetic material in an organism.</div><p><b>Step 1: Refer to the definition of Genome Structure.</b></p><p>The study material defines: \"<span style='color:var(--orange);font-weight:bold;'>A genome is the Complete set of gonne metenal prescr ts or organsients includes Coveringulating Dain, repeti DNA and non-Coding Ne</span>.\" (A genome is the complete set of genetic material present in an organism. It includes coding/regulatory DNA, repetitive DNA, and non-coding DNA.)</p><ul><li><b>Proteome:</b> This refers to the entire set of proteins expressed by an organism.</li><li><b>Transcriptome:</b> This refers to the complete set of RNA transcripts in a cell or organism.</li><li><b>Genome:</b> This aligns perfectly with the definition provided in the study material for the complete set of genetic material.</li><li><b>Metabolome:</b> This refers to the complete set of small-molecule metabolites in a cell or organism.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document's definition for \"Genome Structure\" precisely matches the description in the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The complete set of genetic material present in an organism is known as its Genome.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genome"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "What is the term for a variation in genome structure where a DNA segment is copied one or more times?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gene inversion"
+        },
+        {
+          "type": "string",
+          "content": "Gene deletion"
+        },
+        {
+          "type": "string",
+          "content": "Gene duplication"
+        },
+        {
+          "type": "string",
+          "content": "Gene translocation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genome Variation",
+      "Gene Duplication"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gene Duplication</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Gene duplication</b> is a type of genome variation where a segment of DNA, which may contain one or more genes, is copied, resulting in multiple copies of that segment within the genome.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the term describing a DNA segment being copied one or more times as a genome variation.</div><p><b>Step 1: Refer to the section on 'Gene Duplication' under 'Variations in Genome Structure'.</b></p><p>The study material defines: \"<span style='color:var(--orange);font-weight:bold;'>In Gere Duplication, A DANA Segment is Copied one or more times</span>.\" (In Gene Duplication, a DNA Segment is copied one or more times.)</p><ul><li><b>Gene inversion:</b> This is a type of chromosomal rearrangement where a segment of a chromosome is reversed end to end.</li><li><b>Gene deletion:</b> This is a type of mutation or rearrangement where a segment of DNA is removed from the genome.</li><li><b>Gene duplication:</b> This term perfectly matches the description in the question and the definition in the study material.</li><li><b>Gene translocation:</b> This is a type of chromosomal rearrangement where a segment of one chromosome breaks off and attaches to a different chromosome.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document provides a direct definition of \"Gene Duplication\" that matches the question's premise.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The term for a variation in genome structure where a DNA segment is copied one or more times is Gene duplication.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene duplication"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "One of the biological importances of genome variation is to facilitate:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Genetic homogeneity"
+        },
+        {
+          "type": "string",
+          "content": "Evolutionary adaptation"
+        },
+        {
+          "type": "string",
+          "content": "Reduced disease susceptibility across populations"
+        },
+        {
+          "type": "string",
+          "content": "Stabilized drug responses"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Biological Importance of Genome Variation",
+      "Genome Variation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Genome Variation</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Genome variation</b> refers to differences in the DNA sequence among individuals or populations. This variation provides the raw material for natural selection and evolutionary change.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for one biological importance of genome variation.</div><p><b>Step 1: Consult the list of 'Biological Importance Of Genome Variation'.</b></p><p>The study material lists:</p><ol><li>\"Souce of genetic datestay\" (Source of genetic diversity)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>Volitionang adaptation.</span>\" (Evolutionary adaptation)</li><li>\"Disease Susceptibility.\"</li><li>\"Doug risipense Vacatio\" (Drug response variation)</li></ol><ul><li><b>Genetic homogeneity:</b> Genetic homogeneity means a lack of variation, which is the opposite of what genome variation promotes. Variation leads to diversity.</li><li><b>Evolutionary adaptation:</b> This is explicitly listed as an importance. Genetic variation provides the raw material upon which natural selection acts, allowing populations to adapt to changing environments.</li><li><b>Reduced disease susceptibility across populations:</b> While diversity can sometimes reduce disease impact, the document explicitly lists \"Disease Susceptibility\" which implies variation in susceptibility, not necessarily a reduction *across* populations due to variation.</li><li><b>Stabilized drug responses:</b> The document lists \"Drug response variation,\" indicating that genome variation leads to *differences* in drug response, not stabilization.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document directly lists \"Evolutionary adaptation\" as an importance of genome variation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One of the biological importances of genome variation is to facilitate Evolutionary adaptation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evolutionary adaptation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Population genetics is defined as the study of genetic variation within populations and the factors that influence:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Individual phenotypic expression"
+        },
+        {
+          "type": "string",
+          "content": "Allele frequencies over time"
+        },
+        {
+          "type": "string",
+          "content": "Cellular metabolic pathways"
+        },
+        {
+          "type": "string",
+          "content": "Protein folding mechanisms"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Population Genetics",
+      "Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Population Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Population genetics</b> is a field that studies genetic variation within populations and how factors like natural selection, genetic drift, mutation, and gene flow influence allele frequencies over time.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to complete the definition of population genetics by identifying what factors influence.</div><p><b>Step 1: Refer to the definition of 'Population genetics' in the study material.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>Peplenen gerees is the study of genere cotthis populations and the (allcle) fregasszus Orike trome.</span>\" (Population genetics is the study of genetic variation within populations and the factors that influence allele frequencies over time.)</p><ul><li><b>Individual phenotypic expression:</b> While related, population genetics focuses on population-level changes in allele frequencies, not primarily individual phenotypic expression.</li><li><b>Allele frequencies over time:</b> This directly matches the definition provided in the study material.</li><li><b>Cellular metabolic pathways:</b> This is a topic in biochemistry or cell biology, not the primary focus of population genetics.</li><li><b>Protein folding mechanisms:</b> This is a topic in molecular biology or biochemistry, not the primary focus of population genetics.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document's definition explicitly states that population genetics studies factors influencing \"allele frequencies over time.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Population genetics is defined as the study of genetic variation within populations and the factors that influence allele frequencies over time.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allele frequencies over time"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which of the following is listed as an application of population genetics?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Cellular respiration studies"
+        },
+        {
+          "type": "string",
+          "content": "Forensic genetics"
+        },
+        {
+          "type": "string",
+          "content": "Neurotransmitter synthesis"
+        },
+        {
+          "type": "string",
+          "content": "Hormonal regulation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Applications of Population Genetics",
+      "Population Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Population Genetics</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Population genetics</b> applies genetic principles to populations to understand evolution, disease, conservation, and individual identification.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify an application of population genetics from the given options.</div><p><b>Step 1: Consult the list of 'Application Of Population Generics'.</b></p><p>The study material lists:</p><ol><li>\"Evolutionary Studies.\"</li><li>\"Coromande bulogy\" (Conservation Biology)</li><li>\"Disease good grudies\" (Disease gene studies)</li><li>\"<span style='color:var(--orange);font-weight:bold;'>Forensic genetics.</span>\"</li><li>\"Public health genetico.\" (Public health genetics)</li></ol><ul><li><b>Cellular respiration studies:</b> This is a topic in biochemistry/cell biology, not a direct application of population genetics.</li><li><b>Forensic genetics:</b> This is explicitly listed as an application of population genetics.</li><li><b>Neurotransmitter synthesis:</b> This is a topic in neurobiology/biochemistry, not a direct application of population genetics.</li><li><b>Hormonal regulation:</b> This is a topic in endocrinology/physiology, not a direct application of population genetics.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document clearly lists \"Forensic genetics\" as an application of population genetics.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Forensic genetics is listed as an application of population genetics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Forensic genetics"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Which type of gene interaction occurs when two dominant genes are required for the expression of a particular trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Inhibitory gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene action"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Interaction",
+      "Types of Gene Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Complementary Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Gene interaction</b> occurs when two or more genes influence the expression of a single trait. Different types exist based on how genes modify each other's effects.<br><em>Term:</em> <b>Complementary gene interaction</b> requires the presence of at least one dominant allele from each of two different genes to express a particular phenotype.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes a gene interaction where two dominant genes are necessary for trait expression.</div><p><b>Step 1: Identify the gene interaction type that matches the description.</b></p><p>The study material defines:</p><ul><li>\"<span style='color:var(--orange);font-weight:bold;'>Complementary gare Vitenderon: Twe demnare genes are ty for that expression.</span>\" (Complementary gene interaction: Two dominant genes are typically required for that expression.)</li><li>\"Aprodano : One gene masto or medites the expression of aneste\" (Epistasis: One gene masks or modifies the expression of another).</li></ul><ul><li><b>Epistasis:</b> This involves one gene masking or modifying another, not necessarily requiring two dominant genes for expression.</li><li><b>Complementary gene interaction:</b> This directly matches the description, where both dominant genes are required for the expression of a trait.</li><li><b>Inhibitory gene interaction:</b> This typically involves one gene inhibiting the expression of another.</li><li><b>Duplicate gene action:</b> This involves two or more genes producing the same phenotype when dominant, meaning one dominant allele is sufficient from either gene.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document provides a direct definition of \"Complementary gene interaction\" that matches the scenario described.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The type of gene interaction where two dominant genes are required for the expression of a particular trait is Complementary gene interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complementary gene interaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Gene interactions are significant because they contribute to an increase in:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Genetic uniformity"
+        },
+        {
+          "type": "string",
+          "content": "Phenotypic diversity"
+        },
+        {
+          "type": "string",
+          "content": "Predictability of Mendelian ratios"
+        },
+        {
+          "type": "string",
+          "content": "The number of linkage groups"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Significance of Gene Interactions",
+      "Gene Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of Gene Interactions</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Gene interactions</b> occur when multiple genes contribute to a single phenotype. Their significance lies in their ability to modify expected Mendelian ratios and create a wider range of observable traits.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about a contribution of gene interactions, specifically an increase in something.</div><p><b>Step 1: Refer to the section 'Supificance Of Gene Interacoen'.</b></p><p>The study material lists: \"<span style='color:var(--orange);font-weight:bold;'>Therese phenotypic dutivery.</span>\" (Increase phenotypic diversity).</p><ul><li><b>Genetic uniformity:</b> Gene interactions often lead to more complex phenotypes, thus increasing diversity rather than uniformity.</li><li><b>Phenotypic diversity:</b> This is explicitly listed as a significance, as gene interactions can produce novel phenotypes or modify existing ones, leading to a broader spectrum of traits.</li><li><b>Predictability of Mendelian ratios:</b> Gene interactions often cause *deviations* from simple Mendelian ratios, making them *less* predictable by basic Mendelian rules.</li><li><b>The number of linkage groups:</b> Linkage groups are determined by the number of chromosomes, which gene interactions do not change.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document clearly states \"Therese phenotypic dutivery\" (Increase phenotypic diversity) as a significance of gene interactions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gene interactions are significant because they contribute to an increase in phenotypic diversity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phenotypic diversity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which of the following is an example of a quantitative trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Blood type"
+        },
+        {
+          "type": "string",
+          "content": "Presence of sickle cell anemia"
+        },
+        {
+          "type": "string",
+          "content": "Human height"
+        },
+        {
+          "type": "string",
+          "content": "Albinism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Examples of Quantitative Traits",
+      "Quantitative Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Quantitative Traits</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Quantitative traits</b> are polygenic, influenced by environment, and exhibit continuous variation, meaning they can be measured along a spectrum.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify an example of a quantitative trait.</div><p><b>Step 1: Review the examples of quantitative traits provided in the study material.</b></p><p>The study material lists: \"<span style='color:var(--orange);font-weight:bold;'>Human, haught</span>\" (Human height), \"Ohin Golour\" (Skin color), \"Body weight\", \"As latelliyoate querent (19)\" (Intelligence Quotient (IQ)).</p><ul><li><b>Blood type:</b> This is a discrete, qualitative trait (A, B, AB, O), not continuous.</li><li><b>Presence of sickle cell anemia:</b> This is a qualitative trait (either present or absent), determined by a single gene.</li><li><b>Human height:</b> This is explicitly listed as an example of a quantitative trait. Height varies continuously within a population and is influenced by multiple genes and environmental factors.</li><li><b>Albinism:</b> This is a qualitative trait (either albino or not), typically determined by mutations in one or a few genes.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly includes \"Human, haught\" (Human height) in its list of examples for quantitative traits.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Human height is an example of a quantitative trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human height"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Extrachromosomal inheritance, such as cytoplasmic or mitochondrial inheritance, refers to the transmission of genes located:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Exclusively on sex chromosomes"
+        },
+        {
+          "type": "string",
+          "content": "Outside the nucleus, especially in cytoplasmic organelles"
+        },
+        {
+          "type": "string",
+          "content": "Only within the nucleolus"
+        },
+        {
+          "type": "string",
+          "content": "On autosomes, strictly following Mendelian laws"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Extrachromosomal Inheritance",
+      "Non-Mendelian Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Extrachromosomal Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Extrachromosomal inheritance</b> (also known as cytoplasmic or mitochondrial inheritance) describes the transmission of genes located outside the nucleus, typically within organelles like mitochondria and chloroplasts. This mode of inheritance often deviates from Mendelian patterns.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about the location of genes involved in extrachromosomal inheritance.</div><p><b>Step 1: Refer to the definition of Extrachromosomal Inheritance in the study material.</b></p><p>The study material defines: \"<span style='color:var(--orange);font-weight:bold;'>Beera Chemotermal Inheritana (Cytoplasmic Imetec beedia hentante refers to the transmiseen of Cho-atten ditemind by gene lecated Dovesick the nectors especially in Gifte panic Organelles such as mitochsodina and Chlasplan.</span>\" (Extrachromosomal Inheritance (Cytoplasmic/mitochondrial inheritance) refers to the transmission of characteristics determined by genes located outside the nucleus, especially in cytoplasmic organelles such as mitochondria and chloroplasts.)</p><ul><li><b>Exclusively on sex chromosomes:</b> This describes sex-linked inheritance, which is a type of nuclear inheritance, not extrachromosomal.</li><li><b>Outside the nucleus, especially in cytoplasmic organelles:</b> This perfectly matches the definition provided in the study material for extrachromosomal inheritance.</li><li><b>Only within the nucleolus:</b> The nucleolus is a structure *within* the nucleus, primarily involved in ribosome biogenesis, not the primary site of extrachromosomal genes.</li><li><b>On autosomes, strictly following Mendelian laws:</b> This describes standard autosomal Mendelian inheritance, which is explicitly contrasted with extrachromosomal inheritance.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document clearly states that extrachromosomal inheritance involves genes \"located Dovesick the nectors especially in Gifte panic Organelles such as mitochsodina and Chlasplan\" (outside the nucleus, especially in cytoplasmic organelles like mitochondria and chloroplasts).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Extrachromosomal inheritance refers to the transmission of genes located outside the nucleus, especially in cytoplasmic organelles.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Outside the nucleus, especially in cytoplasmic organelles"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "A key characteristic of extrachromosomal inheritance is that traits are passed down primarily from the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Father to all offspring"
+        },
+        {
+          "type": "string",
+          "content": "Mother strictly to all offspring"
+        },
+        {
+          "type": "string",
+          "content": "Mother only to male offspring"
+        },
+        {
+          "type": "string",
+          "content": "Father only to female offspring"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Characteristics of Extrachromosomal Inheritance",
+      "Maternal Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Maternal Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Maternal inheritance</b> is a type of extrachromosomal inheritance where traits are passed exclusively from the mother to all her offspring, due to the maternal cytoplasm (containing mitochondria/chloroplasts) being the primary contributor to the zygote.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about a key characteristic of extrachromosomal inheritance, specifically how traits are passed down.</div><p><b>Step 1: Refer to the 'Key Characteristics' section for extrachromosomal inheritance.</b></p><p>The study material lists: \"<span style='color:var(--orange);font-weight:bold;'>Maternal inhertence This Imphis that berus are posred from mother Strictly to offspicy</span>.\" (Maternal inheritance: This implies that traits are passed from mother strictly to offspring.)</p><ul><li><b>Father to all offspring:</b> This is not characteristic of extrachromosomal inheritance.</li><li><b>Mother strictly to all offspring:</b> This directly matches the description of maternal inheritance, a key feature of extrachromosomal inheritance.</li><li><b>Mother only to male offspring:</b> This is a specific pattern (e.g., X-linked recessive from mother to son), but not the general rule for extrachromosomal inheritance, which affects all offspring regardless of sex.</li><li><b>Father only to female offspring:</b> This is also a specific pattern (e.g., X-linked from father to daughter), but not for extrachromosomal inheritance.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that \"Maternal inhertence\" means traits are \"posred from mother Strictly to offspicy\" (passed from mother strictly to offspring).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Traits in extrachromosomal inheritance are passed down primarily from the mother strictly to all offspring.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mother strictly to all offspring"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Leber's Hereditary Optic Neuropathy (LHON) is an example of which type of inheritance?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Autosomal dominant inheritance"
+        },
+        {
+          "type": "string",
+          "content": "X-linked recessive inheritance"
+        },
+        {
+          "type": "string",
+          "content": "Mitochondrial inheritance"
+        },
+        {
+          "type": "string",
+          "content": "Y-linked inheritance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mitochondrial Inheritance",
+      "Extrachromosomal Inheritance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leber's Hereditary Optic Neuropathy (LHON)</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Mitochondrial inheritance</b> is a specific type of extrachromosomal inheritance where genes located in the mitochondria are passed exclusively from the mother to all offspring.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks to identify the inheritance pattern of Leber's Hereditary Optic Neuropathy (LHON).</div><p><b>Step 1: Refer to the examples of extrachromosomal inheritance.</b></p><p>The study material states under 'Examples': \"<span style='color:var(--orange);font-weight:bold;'>Mitochondria Inheritance (Churman Pathology): Lember's hereditary Optic neuropaity CLHON)</span>\". (Mitochondria Inheritance (Human Pathology): Leber's hereditary Optic neuropathy (LHON)).</p><ul><li><b>Autosomal dominant inheritance:</b> This is a nuclear inheritance pattern where a dominant gene on a non-sex chromosome causes the trait.</li><li><b>X-linked recessive inheritance:</b> This is a nuclear inheritance pattern where a recessive gene on the X chromosome causes the trait.</li><li><b>Mitochondrial inheritance:</b> This is explicitly mentioned as the type of inheritance for LHON.</li><li><b>Y-linked inheritance:</b> This is a nuclear inheritance pattern where a gene on the Y chromosome causes the trait, passed only from father to son.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document directly identifies LHON as an example of \"Mitochondria Inheritance.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Leber's Hereditary Optic Neuropathy (LHON) is an example of Mitochondrial inheritance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mitochondrial inheritance"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "In humans and mammals, the chromosomal sex determination system is primarily the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "XO system"
+        },
+        {
+          "type": "string",
+          "content": "ZW system"
+        },
+        {
+          "type": "string",
+          "content": "Haplodiploidy system"
+        },
+        {
+          "type": "string",
+          "content": "XY system"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chromosomal Sex Determination",
+      "Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>XY System of Sex Determination</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Chromosomal sex determination</b> involves specific sex chromosomes (allosomes) that determine an individual's sex. Different systems exist across species.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about the primary chromosomal sex determination system in humans and mammals.</div><p><b>Step 1: Refer to the descriptions of different sex determination systems.</b></p><p>The study material states:</p><ul><li>\"<span style='color:var(--orange);font-weight:bold;'>Ny Sycoms: This is found in humans, mommals cand dore-Sopbola, Females are home gametic (xx) while males are hetrogametic (xy)</span>.\" (XY Systems: This is found in humans, mammals, and Drosophila. Females are homogametic (XX) while males are heterogametic (XY)).</li><li>XO System: Common in insects like grasshopper.</li><li>ZW System: Common in birds, reptiles, some butterflies.</li><li>Haplodiploidy: Found in hymenoptera (bees, wasps, ants).</li></ul><ul><li><b>XO system:</b> Found in grasshoppers.</li><li><b>ZW system:</b> Found in birds, reptiles, butterflies.</li><li><b>Haplodiploidy system:</b> Found in hymenoptera.</li><li><b>XY system:</b> Explicitly stated as found in \"humans, mommals.\"</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document clearly identifies the XY system as present in \"humans, mommals.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In humans and mammals, the chromosomal sex determination system is primarily the XY system.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "XY system"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "The SRY gene (Sex-determining Region Y) on the Y chromosome is responsible for encoding a transcription factor that initiates the development of the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ovary pathway"
+        },
+        {
+          "type": "string",
+          "content": "Female reproductive organs"
+        },
+        {
+          "type": "string",
+          "content": "Male developmental pathway"
+        },
+        {
+          "type": "string",
+          "content": "Secondary sexual characteristics in females"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "SRY Gene",
+      "Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of SRY Gene in Sex Determination</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The <b>SRY gene</b>, located on the Y chromosome, is a master regulator that encodes a transcription factor. Its presence triggers the development of male characteristics.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks about the developmental pathway initiated by the SRY gene.</div><p><b>Step 1: Refer to the section describing the SRY gene's function.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>In humans, the white Chromosome Carrés. SRY gone (Gex dederrmoing region y) which encades a trans-Cmption facter Innbating the male dodelopmenut puttrony</span>.\" (In humans, the Y chromosome carries the SRY gene (Sex-determining region Y) which encodes a transcription factor initiating the male developmental pathway.)</p><p>It also describes a pathway: <span style='color:var(--orange);font-weight:bold;'>SRY → Sox9 → Sertoli cell differentiation → anti-mullerian hormone → testis formation & development of Wolffian duct structures</span>. It adds: \"<span style='color:var(--orange);font-weight:bold;'>In the absence of SRy the default dodelopmenut pathicny proceds towards Nvry formation</span>.\" (In the absence of SRY, the default developmental pathway proceeds towards Ovary formation.)</p><ul><li><b>Ovary pathway:</b> This is the *default* pathway in the *absence* of SRY.</li><li><b>Female reproductive organs:</b> This is also the default development in the absence of SRY.</li><li><b>Male developmental pathway:</b> This directly matches the description of SRY's role in initiating the male developmental pathway.</li><li><b>Secondary sexual characteristics in females:</b> SRY is involved in primary sex determination towards maleness, not female secondary characteristics.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that the SRY gene encodes a transcription factor \"Innbating the male dodelopmenut puttrony\" (initiating the male developmental pathway).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The SRY gene initiates the development of the male developmental pathway.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Male developmental pathway"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "In the haplodiploidy system of sex determination, like in bees and wasps, sex is determined by:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The ZW chromosomal system"
+        },
+        {
+          "type": "string",
+          "content": "Environmental temperature during development"
+        },
+        {
+          "type": "string",
+          "content": "The number of chromosome sets (haploid or diploid)"
+        },
+        {
+          "type": "string",
+          "content": "The presence or absence of the SRY gene"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Haplodiploidy",
+      "Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Haplodiploidy Sex Determination</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Haplodiploidy</b> is a sex-determination system where males develop from unfertilized eggs and are haploid, while females develop from fertilized eggs and are diploid.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks how sex is determined in the haplodiploidy system, specifically mentioning bees and wasps.</div><p><b>Step 1: Refer to the section describing 'Haplodiploidy'.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>Haplichploidy: Sox dermaction that is net based on Seac chemosione. Jo's found in hymenoptera (boes, bea ant and other Insects)</span>.\" (Haplodiploidy: Sex determination that is not based on sex chromosomes. It's found in hymenoptera (bees, wasps, ants, and other insects)). It further explains: \"<span style='color:var(--orange);font-weight:bold;'>The Queen bee forclues sogs (duploud) Ye fria foradio eythe quere bes velocess Unleaded eggs Chaploud s develop makes Via parthenogenesis</span>.\" (The Queen bee produces eggs (diploid). The queen bee releases unfertilized eggs (haploid) that develop into males via parthenogenesis.) This implies that diploid individuals are female and haploid individuals are male.</p><ul><li><b>The ZW chromosomal system:</b> This is a different chromosomal system found in birds and reptiles.</li><li><b>Environmental temperature during development:</b> This describes environmental sex determination, found in some reptiles and fishes, not haplodiploidy.</li><li><b>The number of chromosome sets (haploid or diploid):</b> This aligns with the concept of haplodiploidy where males are haploid (from unfertilized eggs) and females are diploid (from fertilized eggs).</li><li><b>The presence or absence of the SRY gene:</b> This is characteristic of the XY sex determination system in mammals.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document describes haplodiploidy as sex determination \"not based on sex chromosomes\" and mentions queen bees producing haploid eggs that develop into males, implying diploid individuals are female. This directly relates sex to chromosome number (haploid vs. diploid).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the haplodiploidy system of sex determination, sex is determined by the number of chromosome sets (haploid or diploid).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The number of chromosome sets (haploid or diploid)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "In some reptiles, environmental sex determination occurs based on the temperature during embryonic development. What is the typical outcome for offspring developing in hot temperatures?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They primarily develop as males."
+        },
+        {
+          "type": "string",
+          "content": "They primarily develop as females."
+        },
+        {
+          "type": "string",
+          "content": "Sex determination becomes unpredictable."
+        },
+        {
+          "type": "string",
+          "content": "They develop as hermaphrodites."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Environmental Sex Determination",
+      "Sex Determination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Environmental Sex Determination (ESD)</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Environmental Sex Determination (ESD)</b> is a mechanism where environmental factors, such as temperature during incubation, determine the sex of an offspring.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes environmental sex determination in reptiles based on temperature and asks about the outcome in hot temperatures.</div><p><b>Step 1: Refer to the section on 'Enduronmental Sex dese' (Environmental Sex determination).</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>This majorly happens with reprises. 113 to tempestiture if the weather Is Cold It formes male It's hot It forms female</span>.\" (This majorly happens with reptiles. It relates to temperature: if the weather is cold it forms male; if it's hot it forms female.)</p><ul><li><b>They primarily develop as males:</b> This occurs in cold temperatures, not hot.</li><li><b>They primarily develop as females:</b> This directly matches the information given for hot temperatures.</li><li><b>Sex determination becomes unpredictable:</b> The system is predictable based on temperature, not unpredictable.</li><li><b>They develop as hermaphrodites:</b> Hermaphroditism is not described as an outcome of temperature-dependent sex determination in this context.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states: \"It's hot It forms female.\" for environmental sex determination in reptiles.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In some reptiles, offspring developing in hot temperatures primarily develop as females.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They primarily develop as females."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "The product rule of probability states that the probability of two or more independent events occurring simultaneously equals:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The sum of their individual probabilities"
+        },
+        {
+          "type": "string",
+          "content": "The difference between their individual probabilities"
+        },
+        {
+          "type": "string",
+          "content": "The product of their individual probabilities"
+        },
+        {
+          "type": "string",
+          "content": "The average of their individual probabilities"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Product Rule of Probability",
+      "Probability in Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Product Rule of Probability</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The <b>product rule of probability</b> is used to calculate the likelihood of two or more independent events occurring together.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the rule governing the simultaneous occurrence of two or more independent events.</div><p><b>Step 1: Refer to the definition of the 'Product rule'.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>Arduct rule It states that the probabilety of 600 on more independent ant oc occuring Simultancaisty aquals Pole pustuct of their indundual producecity. P(A and B) = P(A) x PCR).</span>\" (Product rule: It states that the probability of two or more independent events occurring simultaneously equals the product of their individual probabilities. P(A and B) = P(A) x P(B)).</p><ul><li><b>The sum of their individual probabilities:</b> This describes the sum rule, used for mutually exclusive events, not independent simultaneous events.</li><li><b>The difference between their individual probabilities:</b> This is not a standard probability rule for combined events.</li><li><b>The product of their individual probabilities:</b> This directly matches the definition of the product rule.</li><li><b>The average of their individual probabilities:</b> This is not a standard probability rule for combined events.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states, \"The product of their individual probabilities\" as the definition of the product rule.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product rule of probability states that the probability of two or more independent events occurring simultaneously equals the product of their individual probabilities.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The product of their individual probabilities"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "A carrier couple (Aa x Aa) plans to have 4 children. Using binomial probability, what is the probability that exactly 3 will be normal (dominant phenotype P=3/4) and one will be albino (recessive phenotype Q=1/4)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "9/64"
+        },
+        {
+          "type": "string",
+          "content": "27/64"
+        },
+        {
+          "type": "string",
+          "content": "3/64"
+        },
+        {
+          "type": "string",
+          "content": "81/256"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Binomial Probability",
+      "Probability in Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Binomial Probability Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Binomial probability</b> is used to calculate the probability of a specific number of successes (x) in a fixed number of trials (n), where each trial has only two possible outcomes (success/failure) and the probability of success (P) remains constant. The formula is: P(x successes) = [n! / (x! * (n-x)!)] * P^x * Q^(n-x), where Q = 1 - P.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: Carrier couple (Aa x Aa) with 4 children. Probability of normal (P) = 3/4. Probability of albino (Q) = 1/4. We need to find the probability of exactly 3 normal (x=3) and 1 albino (y=1).</div><p><b>Step 1: Identify the values for the binomial probability formula.</b></p><ul><li>Total number of children (n) = <span style='color:var(--orange);font-weight:bold;'>4</span></li><li>Number of normal children (x) = <span style='color:var(--orange);font-weight:bold;'>3</span></li><li>Number of albino children (y) = <span style='color:var(--orange);font-weight:bold;'>1</span> (since y = n - x = 4 - 3 = 1)</li><li>Probability of normal (P) = <span style='color:var(--orange);font-weight:bold;'>3/4</span></li><li>Probability of albino (Q) = <span style='color:var(--orange);font-weight:bold;'>1/4</span></li></ul><p><b>Step 2: Apply the binomial probability formula.</b></p><p>P(3 Normal, 1 Albino) = [n! / (x! * y!)] * P^x * Q^y</p><p>= [<span style='color:var(--orange);font-weight:bold;'>4! / (3! * 1!)</span>] * (<span style='color:var(--orange);font-weight:bold;'>3/4</span>)^<span style='color:var(--orange);font-weight:bold;'>3</span> * (<span style='color:var(--orange);font-weight:bold;'>1/4</span>)^<span style='color:var(--orange);font-weight:bold;'>1</span></p><p><b>Step 3: Calculate the factorial term.</b></p><p>4! / (3! * 1!) = (4 * 3 * 2 * 1) / ((3 * 2 * 1) * 1) = <span style='color:var(--orange);font-weight:bold;'>4</span></p><p><b>Step 4: Calculate the probability terms.</b></p><p>(3/4)^3 = 3^3 / 4^3 = <span style='color:var(--orange);font-weight:bold;'>27/64</span></p><p>(1/4)^1 = <span style='color:var(--orange);font-weight:bold;'>1/4</span></p><p><b>Step 5: Multiply the terms together.</b></p><p>P(3 Normal, 1 Albino) = <span style='color:var(--orange);font-weight:bold;'>4</span> * (<span style='color:var(--orange);font-weight:bold;'>27/64</span>) * (<span style='color:var(--orange);font-weight:bold;'>1/4</span>)</p><p>= (4 * 27 * 1) / (64 * 4)</p><p>= 108 / 256</p><p><b>Step 6: Simplify the fraction.</b></p><p>Divide both numerator and denominator by 4:</p><p>= 27 / 64</p><ul><li><b>9/64:</b> Incorrect.</li><li><b>27/64:</b> This is the correct calculated probability.</li><li><b>3/64:</b> Incorrect.</li><li><b>81/256:</b> This would be (3/4)^4, the probability of all 4 children being normal.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The example calculation in the document for the same problem (3 normal, 1 albino out of 4 children from Aa x Aa parents) yields <span style='color:var(--orange);font-weight:bold;'>27/64</span>, confirming the steps.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The probability that exactly 3 children will be normal and one will be albino is 27/64.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "27/64"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "In a genetic cross, if the total number of offspring is 1000, and 45 of these are recombinant offspring, what is the recombination frequency (RF)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "45%"
+        },
+        {
+          "type": "string",
+          "content": "4.5%"
+        },
+        {
+          "type": "string",
+          "content": "0.45%"
+        },
+        {
+          "type": "string",
+          "content": "450%"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recombination Frequency",
+      "Linkage and Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Recombination Frequency</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Recombination Frequency (RF)</b> is a measure of the genetic distance between two genes and is calculated as the number of recombinant offspring divided by the total number of offspring, multiplied by 100%. The formula is RF = (Number of recombinant offspring / Total offspring) * 100%.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: Total offspring = 1000. Recombinant offspring = 45. The question asks for the recombination frequency.</div><p><b>Step 1: Identify the given values.</b></p><ul><li>Number of recombinant offspring = <span style='color:var(--orange);font-weight:bold;'>45</span></li><li>Total number of offspring = <span style='color:var(--orange);font-weight:bold;'>1000</span></li></ul><p><b>Step 2: Apply the recombination frequency formula.</b></p><p>RF = (Recombinant offspring / Total offspring) * 100%</p><p>RF = (<span style='color:var(--orange);font-weight:bold;'>45 / 1000</span>) * 100%</p><p>RF = <span style='color:var(--orange);font-weight:bold;'>0.045</span> * 100%</p><p>RF = <span style='color:var(--orange);font-weight:bold;'>4.5%</span></p><ul><li><b>45%:</b> This would be if there were 450 recombinant offspring.</li><li><b>4.5%:</b> This is the correct calculated recombination frequency.</li><li><b>0.45%:</b> This would be if there were 4.5 recombinant offspring or if the calculation was (45/10000)*100%.</li><li><b>450%:</b> This is an implausibly high percentage, indicating an error in calculation.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The example calculation in the document for (45/1000) * 100% yields <span style='color:var(--orange);font-weight:bold;'>4.5%</span>, confirming the result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The recombination frequency (RF) is 4.5%.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.5%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Prokaryotes lack meiosis and therefore cannot recombine their genes through the sexual cycle. Instead, they transfer genetic material through mechanisms collectively known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Vertical gene transfer"
+        },
+        {
+          "type": "string",
+          "content": "Mitotic recombination"
+        },
+        {
+          "type": "string",
+          "content": "Homologous recombination"
+        },
+        {
+          "type": "string",
+          "content": "Horizontal gene transfer"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Prokaryotic Recombination",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height=1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Prokaryotic Genetic Recombination</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Horizontal gene transfer (HGT)</b> is a process by which genetic material is transferred between organisms that are not parent and offspring. In prokaryotes, it is a primary mechanism for genetic recombination and variation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question describes prokaryotes' inability to use meiosis for recombination and asks for the collective term for their alternative genetic material transfer mechanisms.</div><p><b>Step 1: Refer to the introduction to 'Recombination In Procayores'.</b></p><p>The study material states: \"<span style='color:var(--orange);font-weight:bold;'>Pracayeras legbaciena) lace mesoss and therefore connet. recombine their genes through the Social Gyere used bay akanyeres instead procongates transfer gantic matend through tense major mechanism of horizontal gone transter and this include transformation, transduction and Cragsgation.</span>\" (Prokaryotes (bacteria) lack meiosis and therefore cannot recombine their genes through the sexual cycle. Instead, prokaryotes transfer genetic material through the major mechanism of horizontal gene transfer, which includes transformation, transduction, and conjugation.)</p><ul><li><b>Vertical gene transfer:</b> This is the transmission of genetic material from parents to offspring (e.g., during cell division), not the alternative recombination mechanism for prokaryotes.</li><li><b>Mitotic recombination:</b> This occurs in eukaryotes during mitosis, leading to somatic recombination, not the prokaryotic mechanism.</li><li><b>Homologous recombination:</b> This is a *type* of recombination process that can occur during HGT, but HGT is the *collective term* for the mechanisms of transfer.</li><li><b>Horizontal gene transfer:</b> This is the collective term explicitly mentioned for these prokaryotic genetic transfer mechanisms.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The document explicitly states that prokaryotes use \"horizontal gone transter\" as their major mechanism for transferring genetic material, including transformation, transduction, and conjugation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Prokaryotes transfer genetic material through mechanisms collectively known as horizontal gene transfer.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Horizontal gene transfer"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "In bacterial conjugation, what acts as the agent that facilitates the transfer of genetic material between bacteria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bacteriophage"
+        },
+        {
+          "type": "string",
+          "content": "Naked exogenous DNA"
+        },
+        {
+          "type": "string",
+          "content": "Cell-to-cell contact (pili)"
+        },
+        {
+          "type": "string",
+          "content": "Competence factor"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Bacterial Conjugation",
+      "Horizontal Gene Transfer"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height=1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mechanism of Bacterial Conjugation</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Bacterial conjugation</b> is a process of horizontal gene transfer where genetic material (usually a plasmid) is transferred directly from one bacterium to another through cell-to-cell contact, often mediated by a pilus.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for the agent facilitating genetic material transfer in bacterial conjugation.</div><p><b>Step 1: Refer to the comparison table of 'Transformation, Transduction, And Conjugation'.</b></p><p>Under the 'Agent' category for 'Conjugation', the table lists: \"<span style='color:var(--orange);font-weight:bold;'>Call to coll Contact (piles)</span>\" (Cell-to-cell contact (pili)).</p><p>It also states under Conjugation: \"<span style='color:var(--orange);font-weight:bold;'>A Conjugation bridge Or mating pare forms between the tace Colts</span>\" (A Conjugation bridge or mating pair forms between the two cells).</p><ul><li><b>Bacteriophage:</b> This is the agent for transduction.</li><li><b>Naked exogenous DNA:</b> This is the agent for transformation.</li><li><b>Cell-to-cell contact (pili):</b> This is the specific agent and mechanism for conjugation, as stated in the document.</li><li><b>Competence factor:</b> Competence is the ability of a bacterium to take up naked DNA, relevant for transformation, not conjugation.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The comparison table explicitly identifies \"Cell to cell Contact (piles)\" as the agent for conjugation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In bacterial conjugation, cell-to-cell contact (pili) acts as the agent that facilitates the transfer of genetic material.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cell-to-cell contact (pili)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Distinguish between heritable and non-heritable characteristics, providing at least three distinct points of comparison based on their features and impact on subsequent generations.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Heritable vs. Non-Heritable Traits",
+      "Heredity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Comparison of Heritable and Non-Heritable Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Heritable characteristics</b> are traits determined by an organism's genes and are capable of being passed down from parents to offspring. <br><em>Term:</em> <b>Non-heritable characteristics</b> are traits acquired during an organism's lifetime due to environmental influences or experience, and they are not encoded in the genetic material to be passed on to future generations.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for a distinction between heritable and non-heritable characteristics with at least three comparison points focusing on features and impact on future generations.</div><p><b>Step 1: Refer to the 'Differences Between Heritable And Non-Heritable Charsten' section and the features listed.</b></p><ul><li><b>Marking Point 1: Transmission</b><ul><li><b>Heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It can be passed from parent to offspring.</span> These traits are genetically encoded and transmitted.</li><li><b>Non-heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It is not inherited</span> and <span style='color:var(--orange);font-weight:bold;'>It cannot be transmitted genetically</span>. They are acquired individually.</li></ul></li><li><b>Marking Point 2: Control/Origin</b><ul><li><b>Heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It is controlled by genes</span> and <span style='color:var(--orange);font-weight:bold;'>It is encoded in DNA</span>. They are determined by the genetic blueprint.</li><li><b>Non-heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It is influenced by environment</span> and <span style='color:var(--orange);font-weight:bold;'>It is acquired during life</span> through experience or environmental factors.</li></ul></li><li><b>Marking Point 3: Presence/Appearance Time</b><ul><li><b>Heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It is present at birth or genetically programmed</span> to appear later in life.</li><li><b>Non-heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It is developed after birth or during living life</span>, as a result of interaction with the environment.</li></ul></li><li><b>Marking Point 4: Scope of Transmission</b><ul><li><b>Heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It can be transmitted across generations</span>, forming a continuous lineage of traits.</li><li><b>Non-heritable:</b> <span style='color:var(--orange);font-weight:bold;'>It is usually limited to one individual</span> and does not affect future generations genetically.</li></ul></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The mark scheme points are derived directly from the comparison table provided in the study material, ensuring accuracy and completeness as per the document's content. A common mistake is to confuse environmental influence with the trait being non-heritable without clearly defining the mechanism of transmission.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Heritable characteristics are genetically determined, encoded in DNA, present at birth or genetically programmed, and can be passed from parents to offspring across generations. Non-heritable characteristics, in contrast, are acquired during an individual's lifetime due to environmental influences or experience, are not controlled by inherited genes, and cannot be transmitted genetically to offspring, thus typically being limited to one individual.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heritable characteristics are traits that are genetically determined, encoded in DNA, present at birth or genetically programmed, and can be passed from parents to offspring across generations. For example, eye color and blood group are heritable. Non-heritable characteristics, on the other hand, are acquired during an individual's lifetime due to environmental influences, lifestyle, or experience. They are not controlled by inherited genes, are not encoded in DNA, and cannot be transferred or transmitted genetically to offspring; thus, their impact is usually limited to the individual who acquired them. Examples include bodybuilding muscles from exercise or language acquisition."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Discuss the biological and medical significance of prokaryotic recombination.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Significance of Prokaryotic Recombination",
+      "Prokaryotic Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biological and Medical Significance of Prokaryotic Recombination</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Prokaryotic recombination</b>, primarily through horizontal gene transfer (HGT), allows bacteria to acquire new genetic material from other organisms, driving rapid adaptation and evolution in microbial populations.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for a discussion on the biological and medical significance of prokaryotic recombination.</div><p><b>Step 1: Address the medical significance of antibiotic resistance.</b></p><ul><li><b>Antibiotic Resistance:</b> Prokaryotic recombination, especially via mechanisms like <span style='color:var(--orange);font-weight:bold;'>conjugation (e.g., R plasmids)</span>, facilitates the <span style='color:var(--orange);font-weight:bold;'>rapid transfer of antibiotic resistance genes</span> between bacteria, even across different species. This has led to the emergence of <span style='color:var(--orange);font-weight:bold;'>Multi-Drug Resistant (MDR) bacteria</span> and extensive drug resistance, posing a major global health crisis.</li></ul><p><b>Step 2: Discuss the biological significance for evolution and speciation.</b></p><ul><li><b>Evolution and Bacterial Speciation:</b> Horizontal gene transfer (HGT) is a <span style='color:var(--orange);font-weight:bold;'>key mechanism in the evolution of bacteria</span> and the acquisition of pathogenicity. It allows bacteria to quickly gain new traits, promoting adaptation to diverse environments and contributing to the formation of new bacterial species.</li></ul><p><b>Step 3: Detail the biotechnological applications.</b></p><ul><li><b>Biotechnological Applications:</b> Prokaryotic recombination mechanisms are widely exploited in biotechnology:<ul><li><span style='color:var(--orange);font-weight:bold;'>Transformation</span> is useful for <span style='color:var(--orange);font-weight:bold;'>introducing recombinant plasmids into E.coli</span> and other host bacteria for gene cloning, protein production, and vaccine development.</li><li><span style='color:var(--orange);font-weight:bold;'>Phage transduction</span> is used in <span style='color:var(--orange);font-weight:bold;'>phage therapy</span> (using bacteriophages to treat bacterial infections) and in constructing <span style='color:var(--orange);font-weight:bold;'>bacterial genetic maps</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Conjugation-based gene transfer</span> is used to introduce genes into plant cells via <span style='color:var(--orange);font-weight:bold;'>Agrobacterium tumefaciens Ti plasmid</span>.</li></ul></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The explanation covers the critical points from the 'Biological And Medical Significance Of Rakarjotie Ratumimnation' section. It correctly identifies the medical threat of antibiotic resistance, the evolutionary role, and the diverse biotechnological applications, providing specific examples for each. A common pitfall is to only mention one aspect, or not provide enough detail for each point.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Prokaryotic recombination is of immense biological and medical significance. Medically, it is a primary driver of antibiotic resistance, facilitating the rapid spread of resistance genes among bacteria via horizontal gene transfer (e.g., R plasmids through conjugation), leading to multi-drug resistant pathogens and a global health crisis. Biologically, it is a key mechanism for bacterial evolution and speciation, allowing bacteria to acquire new traits quickly and adapt to changing environments, including gaining pathogenicity. In biotechnology, these mechanisms are harnessed: transformation is used for gene cloning and producing recombinant proteins/vaccines; phage transduction finds application in phage therapy and bacterial genetic mapping; and conjugation-based gene transfer, utilizing systems like the Agrobacterium tumefaciens Ti plasmid, is vital for introducing genes into plant cells.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prokaryotic recombination is of immense biological and medical significance. Medically, it is a primary driver of antibiotic resistance, facilitating the rapid spread of resistance genes among bacteria via horizontal gene transfer (e.g., R plasmids through conjugation), leading to multi-drug resistant pathogens and a global health crisis. Biologically, it is a key mechanism for bacterial evolution and speciation, allowing bacteria to acquire new traits quickly and adapt to changing environments, including gaining pathogenicity. In biotechnology, these mechanisms are harnessed: transformation is used for gene cloning and producing recombinant proteins/vaccines; phage transduction finds application in phage therapy and bacterial genetic mapping; and conjugation-based gene transfer, utilizing systems like the Agrobacterium tumefaciens Ti plasmid, is vital for introducing genes into plant cells."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Describe the process of conjugation in bacteria, including the key components and the sequence of events that lead to the transfer of genetic material.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Bacterial Conjugation",
+      "Prokaryotic Recombination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bacterial Conjugation Process</h4><div style='background:var(--infoBg);color:var(--infoCl');padding:15px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <b>Bacterial conjugation</b> is a mechanism of horizontal gene transfer in which genetic material, usually a plasmid, is transferred directly from a donor bacterium to a recipient bacterium through cell-to-cell contact.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>Given: The question asks for a description of bacterial conjugation, including its components and sequence of events for genetic material transfer.</div><p><b>Step 1: Identify key components involved in conjugation.</b></p><ul><li><b>Donor cell (F+ cell):</b> Possesses an <span style='color:var(--orange);font-weight:bold;'>F (fertility) plasmid</span>, which contains genes for forming a pilus and initiating DNA transfer.</li><li><b>Recipient cell (F- cell):</b> Lacks the F plasmid.</li><li><b>F pilus (sex pilus):</b> A protein appendage on the donor cell surface, encoded by the F plasmid, used to make contact with the recipient cell.</li></ul><p><b>Step 2: Describe the sequence of events.</b></p><ul><li><b>Marking Point 1: Contact and Bridge Formation</b><ul><li>The <span style='color:var(--orange);font-weight:bold;'>F+ donor cell extends an F pilus</span> to make contact with an F- recipient cell, bringing the cells into direct contact. This forms a <span style='color:var(--orange);font-weight:bold;'>conjugation bridge</span> or mating pair between the two cells.</li></ul></li><li><b>Marking Point 2: DNA Nicking and Transfer Initiation</b><ul><li>A <span style='color:var(--orange);font-weight:bold;'>nick is introduced in one strand of the F plasmid</span> DNA within the donor cell. This single-stranded DNA then begins to transfer into the recipient cell, usually in a <span style='color(--orange);font-weight:bold;'>5' to 3' direction</span>.</li></ul></li><li><b>Marking Point 3: DNA Synthesis and Completion</b><ul><li>As the single strand of the F plasmid transfers, <span style='color:var(--orange);font-weight:bold;'>complementary DNA strands are synthesized in both the donor and recipient cells</span>. In the donor, the remaining strand serves as a template to replicate the F plasmid. In the recipient, the incoming single strand serves as a template for synthesis of its complementary strand.</li></ul></li><li><b>Marking Point 4: Recipient Conversion</b><ul><li>Once the transfer and synthesis are complete, the <span style='color:var(--orange);font-weight:bold;'>recipient F- cell, having received a complete copy of the F plasmid, is converted into an F+ donor cell</span>. This allows it to initiate conjugation with other F- cells.</li></ul></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-bottom:15px;'><b>Verification:</b> The explanation follows the steps outlined in the document (p. 29) for F+ donor becoming F+ recipient, including pilus formation, DNA nicking, ssDNA transfer, complementary strand synthesis, and the conversion of F- to F+. It also highlights the key components mentioned. A common error is omitting the complementary DNA synthesis or the final conversion of the recipient cell.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Bacterial conjugation is a major mechanism of horizontal gene transfer where genetic material, typically an F plasmid, is transferred directly from a donor (F+ cell) to a recipient (F- cell). The process begins when the F+ donor cell extends an F pilus to establish cell-to-cell contact, forming a conjugation bridge. Next, an enzyme makes a nick in one strand of the F plasmid in the donor cell. This single-stranded DNA then moves across the conjugation bridge into the F- recipient cell in a 5' to 3' direction. As the single strand transfers, complementary DNA strands are synthesized in both the donor and recipient cells, ensuring both cells end up with a complete double-stranded F plasmid. Finally, the F- recipient cell, now containing the F plasmid, is converted into an F+ donor cell, capable of initiating conjugation with other F- cells.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bacterial conjugation is a major mechanism of horizontal gene transfer where genetic material, typically an F plasmid, is transferred directly from a donor (F+ cell) to a recipient (F- cell). The process begins when the F+ donor cell extends an F pilus to establish cell-to-cell contact, forming a conjugation bridge. Next, an enzyme makes a nick in one strand of the F plasmid in the donor cell. This single-stranded DNA then moves across the conjugation bridge into the F- recipient cell in a 5' to 3' direction. As the single strand transfers, complementary DNA strands are synthesized in both the donor and recipient cells, ensuring both cells end up with a complete double-stranded F plasmid. Finally, the F- recipient cell, now containing the F plasmid, is converted into an F+ donor cell, capable of initiating conjugation with other F- cells."
+    }
+  }
+]
