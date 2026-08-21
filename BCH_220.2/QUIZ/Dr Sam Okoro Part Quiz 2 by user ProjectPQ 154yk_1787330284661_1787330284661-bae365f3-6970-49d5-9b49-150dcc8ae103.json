@@ -1,0 +1,1786 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Chemistry And Metabolism of Carbohydrates",
+    "code": "BCH 220.2",
+    "session": "Dr Sam Okoro Part Quiz 2 by user ProjectPQ 154yk",
+    "kind": "mixed",
+    "topics": [
+      "Carbohydrate Composition",
+      "Introduction to Carbohydrates",
+      "Carbohydrate Formula",
+      "Monosaccharide Definition",
+      "Monosaccharides",
+      "Monosaccharide Examples",
+      "Monosaccharide Classification",
+      "Monosaccharide Characteristics",
+      "Monosaccharide Isomerism",
+      "Reducing Sugars",
+      "Monosaccharide Reactivity",
+      "Disaccharide Definition",
+      "Disaccharides",
+      "Disaccharide Formula",
+      "Disaccharide Digestion",
+      "Disaccharide Composition",
+      "Sucrose",
+      "Reducing vs Non-Reducing Sugars",
+      "Cellobiose",
+      "Lactose",
+      "Lactose Biological Role",
+      "Maltose",
+      "Maltose Biological Role",
+      "Polysaccharide Characteristics",
+      "Polysaccharides",
+      "Polysaccharide Classification",
+      "Starch Storage",
+      "Starch",
+      "Starch Components",
+      "Amylose",
+      "Amylopectin",
+      "Glycogen Storage",
+      "Glycogen",
+      "Cellulose Structure",
+      "Cellulose",
+      "Chitin Composition",
+      "Chitin",
+      "Chitin Biological Role",
+      "Chitin vs Cellulose",
+      "Dextrins Formation",
+      "Dextrins",
+      "Dextrins Uses",
+      "Insoluble Dextrins",
+      "Carbohydrate Biological Role",
+      "Sucrose Structure and Function",
+      "Cellulose Digestion"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "BCH 220.2 - Carbohydrate Biochemistry",
+    "Subheading": "Answer all questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Carbohydrates are described as polyhydroxy aldehyde or ketone substances that yield these substances upon hydrolysis. A key characteristic of carbohydrates is the ratio of hydrogen to oxygen. What is this ratio?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1:1"
+        },
+        {
+          "type": "string",
+          "content": "2:1"
+        },
+        {
+          "type": "string",
+          "content": "1:2"
+        },
+        {
+          "type": "string",
+          "content": "3:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Carbohydrate Composition",
+      "Introduction to Carbohydrates"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbohydrate Hydrogen to Oxygen Ratio</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Carbohydrates:</em> Organic molecules primarily composed of carbon, hydrogen, and oxygen, characterized by a specific hydrogen to oxygen ratio, often described as polyhydroxy aldehydes or ketones.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the characteristic hydrogen to oxygen ratio found in carbohydrates.</div><p><strong>Step 1: Recall the definition of carbohydrates.</strong><br>Carbohydrates are generally defined by their elemental composition and the relative proportions of hydrogen and oxygen.</p><p><strong>Step 2: Identify the specific ratio from the provided information.</strong><br>The document explicitly states that carbohydrates contain carbon, hydrogen, and oxygen, and the <span style='color:var(--orange);font-weight:bold;'>hydrogen to oxygen ratio is 2:1</span>.</p><ul><li><span style='font-weight:bold;'>Option A (1:1):</span> This ratio is incorrect and does not reflect the composition of typical carbohydrates.</li><li><span style='font-weight:bold;'>Option B (2:1):</span> This is the correct ratio as stated in the notes.</li><li><span style='font-weight:bold;'>Option C (1:2):</span> This ratio is incorrect and implies more oxygen than hydrogen, which is not characteristic of carbohydrates.</li><li><span style='font-weight:bold;'>Option D (3:1):</span> This ratio is incorrect and does not match the documented composition.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>This fact is fundamental to the general understanding of carbohydrate chemistry. The 2:1 ratio of hydrogen to oxygen is similar to that of water (H2O), hence the name 'hydrates of carbon'.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The characteristic ratio of hydrogen to oxygen in carbohydrates is 2:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "What is the common empirical formula for carbohydrates, which represents the simplest whole-number ratio of atoms in the compound?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "(C6H12O6)n"
+        },
+        {
+          "type": "string",
+          "content": "(CH2O)n"
+        },
+        {
+          "type": "string",
+          "content": "(C2H4O2)n"
+        },
+        {
+          "type": "string",
+          "content": "(CHO)n"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Carbohydrate Formula",
+      "Introduction to Carbohydrates"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbohydrate Empirical Formula</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Empirical Formula:</em> The simplest whole-number ratio of atoms in a compound.<br/><em>Carbohydrate:</em> A polyhydroxy aldehyde or ketone, or a substance that yields these upon hydrolysis, often represented by a general formula.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the common empirical formula of carbohydrates.</div><p><strong>Step 1: Locate information regarding the empirical formula of carbohydrates.</strong><br>The document states that carbohydrates <span style='color:var(--orange);font-weight:bold;'>have an Empirical formula (CH2O)n</span>.</p><p><strong>Step 2: Compare this information with the given options.</strong></p><ul><li><span style='font-weight:bold;'>Option A ((C6H12O6)n):</span> This is the molecular formula for a hexose like glucose, but not the empirical formula for carbohydrates in general.</li><li><span style='font-weight:bold;'>Option B ((CH2O)n):</span> This matches the empirical formula explicitly stated in the document. This formula reflects the 2:1 hydrogen to oxygen ratio.</li><li><span style='font-weight:bold;'>Option C ((C2H4O2)n):</span> While possible for some organic compounds, this is not the general empirical formula for carbohydrates as stated.</li><li><span style='font-weight:bold;'>Option D ((CHO)n):</span> This ratio does not match the general composition of carbohydrates.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The empirical formula (CH2O)n signifies that for every carbon atom, there are two hydrogen atoms and one oxygen atom, reflecting the 'hydrated carbon' nature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The common empirical formula for carbohydrates is (CH2O)n.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(CH2O)n"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "While carbohydrates primarily consist of carbon, hydrogen, and oxygen, some may contain other elements. Which of the following elements are specifically mentioned as being found in some carbohydrates?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Nitrogen, Phosphorus, Iron"
+        },
+        {
+          "type": "string",
+          "content": "Sulfur, Calcium, Magnesium"
+        },
+        {
+          "type": "string",
+          "content": "Nitrogen, Phosphorus, Sulfur"
+        },
+        {
+          "type": "string",
+          "content": "Chlorine, Potassium, Sodium"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Carbohydrate Composition",
+      "Introduction to Carbohydrates"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Additional Elements in Carbohydrates</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Carbohydrates:</em> Organic compounds, mainly C, H, O, but some derivatives can incorporate other elements, influencing their structure and function.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks to identify the additional elements that can be found in some carbohydrates, as mentioned in the notes.</div><p><strong>Step 1: Refer to the section discussing carbohydrate composition.</strong><br>The document states that carbohydrates, besides C, H, O, sometimes <span style='color:var(--orange);font-weight:bold;'>contain other compounds like Nitrogen, Phosphorus, and Sulphur</span>.</p><p><strong>Step 2: Match the stated elements with the provided options.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Nitrogen, Phosphorus, Iron):</span> Iron is not mentioned as an additional element in carbohydrates.</li><li><span style='font-weight:bold;'>Option B (Sulfur, Calcium, Magnesium):</span> Calcium and Magnesium are not mentioned.</li><li><span style='font-weight:bold;'>Option C (Nitrogen, Phosphorus, Sulfur):</span> This option perfectly matches the elements explicitly listed in the document.</li><li><span style='font-weight:bold;'>Option D (Chlorine, Potassium, Sodium):</span> These elements are not mentioned as components of carbohydrates in the text.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>These additional elements are crucial for the function of complex carbohydrates like glycosaminoglycans (sulfur) and components of nucleic acids (phosphorus, via ribose/deoxyribose). Chitin, a nitrogen-containing polysaccharide, is also discussed later.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The elements specifically mentioned as being found in some carbohydrates are Nitrogen, Phosphorus, Sulfur.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nitrogen, Phosphorus, Sulfur"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Monosaccharides are fundamental carbohydrate units. Which statement accurately defines a monosaccharide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are complex sugars that can be broken down into simpler units."
+        },
+        {
+          "type": "string",
+          "content": "They consist of multiple sugar molecules linked together."
+        },
+        {
+          "type": "string",
+          "content": "They consist of a single sugar molecule and cannot be broken down into simpler carbohydrate units upon hydrolysis."
+        },
+        {
+          "type": "string",
+          "content": "They are always composed of 6 carbon atoms and are non-reducing."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Definition",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> The simplest form of carbohydrate that cannot be hydrolyzed into smaller carbohydrate units.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the correct definition of a monosaccharide.</div><p><strong>Step 1: Locate the definition of monosaccharides in the document.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They Consist of a single Sugar molecule They Cannot be broken down into Simpler Carbohydrate units on hydrolysis.\"</span></p><p><strong>Step 2: Evaluate each option against this definition.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This describes complex carbohydrates, not monosaccharides. Monosaccharides are simple, not complex, and cannot be broken down further.</li><li><span style='font-weight:bold;'>Option B:</span> This describes disaccharides or polysaccharides, which consist of multiple sugar molecules.</li><li><span style='font-weight:bold;'>Option C:</span> This statement accurately reflects the definition provided in the document for monosaccharides.</li><li><span style='font-weight:bold;'>Option D:</span> Monosaccharides can have varying numbers of carbon atoms (e.g., 3-7 carbons), and most monosaccharides are reducing sugars, so this statement is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Understanding the fundamental definition of a monosaccharide is crucial for classifying and understanding carbohydrate biochemistry. Their inability to be hydrolyzed further defines them as the basic building blocks.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The accurate definition of a monosaccharide is that they consist of a single sugar molecule and cannot be broken down into simpler carbohydrate units upon hydrolysis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They consist of a single sugar molecule and cannot be broken down into simpler carbohydrate units upon hydrolysis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which of the following monosaccharides are explicitly mentioned as basic building blocks for larger carbohydrate molecules?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sucrose, Lactose, Maltose"
+        },
+        {
+          "type": "string",
+          "content": "Glucose, Fructose, Galactose"
+        },
+        {
+          "type": "string",
+          "content": "Starch, Glycogen, Cellulose"
+        },
+        {
+          "type": "string",
+          "content": "Ribose, Deoxyribose, Xylose"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Examples",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Basic Monosaccharide Building Blocks</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharides:</em> Simple sugars that serve as the fundamental units from which more complex carbohydrates are constructed.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks to identify specific monosaccharides that are mentioned as basic building blocks for larger carbohydrates.</div><p><strong>Step 1: Locate the section on monosaccharides and their role as building blocks.</strong><br>The document states under monosaccharides: <span style='color:var(--orange);font-weight:bold;'>\"Eg glucose, fructose, galactose. They are the basic building block for larger Carbohydrate molecules.\"</span></p><p><strong>Step 2: Compare this information with the provided options.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Sucrose, Lactose, and Maltose are disaccharides, not monosaccharides.</li><li><span style='font-weight:bold;'>Option B:</span> Glucose, Fructose, and Galactose are explicitly mentioned as examples of monosaccharides and basic building blocks.</li><li><span style='font-weight:bold;'>Option C:</span> Starch, Glycogen, and Cellulose are polysaccharides, which are larger carbohydrate molecules built from monosaccharides.</li><li><span style='font-weight:bold;'>Option D:</span> While Ribose, Deoxyribose, and Xylose are monosaccharides, they are not explicitly mentioned in this context in the document as the *examples* of basic building blocks for larger carbohydrates.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Glucose, fructose, and galactose are common hexoses and are indeed primary monomers for many biological polymers.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Glucose, Fructose, Galactose are explicitly mentioned as basic building blocks for larger carbohydrate molecules.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucose, Fructose, Galactose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Monosaccharides can be classified based on the number of carbon atoms. According to this classification, a monosaccharide with five carbon atoms would be called a:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Hexose"
+        },
+        {
+          "type": "string",
+          "content": "Triose"
+        },
+        {
+          "type": "string",
+          "content": "Pentose"
+        },
+        {
+          "type": "string",
+          "content": "Tetrose"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Classification",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Classification by Carbon Number</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A simple sugar.<br/><em>Classification by carbon number:</em> Monosaccharides are named based on the number of carbon atoms they contain (e.g., triose for 3, tetrose for 4, pentose for 5, hexose for 6).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the classification of a monosaccharide with five carbon atoms.</div><p><strong>Step 1: Locate the classification of monosaccharides by carbon number.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They can also be Classified based on the no of Carbon atoms they have e.g. trioses, tetroses, pentoses.\"</span></p><p><strong>Step 2: Deduce the term for a five-carbon sugar.</strong><br>From the examples given, \"pentoses\" corresponds to a monosaccharide with five carbon atoms.</p><ul><li><span style='font-weight:bold;'>Option A (Hexose):</span> Refers to a six-carbon sugar.</li><li><span style='font-weight:bold;'>Option B (Triose):</span> Refers to a three-carbon sugar.</li><li><span style='font-weight:bold;'>Option C (Pentose):</span> Correctly refers to a five-carbon sugar, as indicated in the text.</li><li><span style='font-weight:bold;'>Option D (Tetrose):</span> Refers to a four-carbon sugar.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>This classification is fundamental in carbohydrate chemistry, dictating the basic structural and chemical properties of the monosaccharide.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A monosaccharide with five carbon atoms is called a Pentose.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pentose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Monosaccharides can also be classified according to their functional group. Which two functional groups are mentioned in this context?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Carboxyl and Amino"
+        },
+        {
+          "type": "string",
+          "content": "Aldehyde and Ketone"
+        },
+        {
+          "type": "string",
+          "content": "Hydroxyl and Methyl"
+        },
+        {
+          "type": "string",
+          "content": "Ether and Ester"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Classification",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Classification by Functional Group</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A simple sugar.<br/><em>Functional Group Classification:</em> Monosaccharides are categorized based on whether they contain an aldehyde group (aldoses) or a ketone group (ketoses).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks to identify the two functional groups used to classify monosaccharides, as per the document.</div><p><strong>Step 1: Refer to the section on monosaccharide classification by functional group.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They can also be Classified according to the functional group e.g. Aldehyde and Ketone.\"</span></p><p><strong>Step 2: Compare this information with the provided options.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Carboxyl and Amino groups are found in amino acids, not the primary functional groups for monosaccharide classification.</li><li><span style='font-weight:bold;'>Option B:</span> Aldehyde and Ketone are the two functional groups explicitly mentioned for monosaccharide classification.</li><li><span style='font-weight:bold;'>Option C:</span> Hydroxyl groups are abundant in monosaccharides, but they are not the *classifying* functional group (it's the polyhydroxy part). Methyl groups are not typically classifying groups for simple sugars.</li><li><span style='font-weight:bold;'>Option D:</span> Ether and Ester linkages are involved in larger carbohydrate structures or derivatives, but not for the basic classification of monosaccharides by their primary functional group.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>This classification gives rise to terms like 'aldose' (e.g., glucose) and 'ketose' (e.g., fructose), which are crucial for understanding their reactivity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The two functional groups mentioned for classifying monosaccharides are Aldehyde and Ketone.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aldehyde and Ketone"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which of the following is a physical characteristic of monosaccharides, as described in the provided notes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are insoluble in water and insoluble in most organic solvents."
+        },
+        {
+          "type": "string",
+          "content": "They are colorless, sweet, and crystalline solids."
+        },
+        {
+          "type": "string",
+          "content": "They are typically dark brown liquids at room temperature."
+        },
+        {
+          "type": "string",
+          "content": "They are odorless and have a bitter taste."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Characteristics",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Physical Characteristics of Monosaccharides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A simple sugar.<br/><em>Physical Characteristics:</em> Observable properties such as color, taste, state, and solubility.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks to identify a physical characteristic of monosaccharides based on the provided notes.</div><p><strong>Step 1: Locate the section on physical characteristics of monosaccharides.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They are Colourless Guest Crystalline Solid water Soluble and Sweet.\"</span> And under 'Physical Characteristics': \"Colourless, Crystalline solids\" and \"Sweet taste\" and \"Soluble in water\".</p><p><strong>Step 2: Evaluate each option against these characteristics.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This is incorrect; they are stated to be water soluble.</li><li><span style='font-weight:bold;'>Option B:</span> This statement aligns perfectly with the characteristics listed: \"Colourless Guest Crystalline Solid... and Sweet.\"</li><li><span style='font-weight:bold;'>Option C:</span> This contradicts the description of being colorless crystalline solids.</li><li><span style='font-weight:bold;'>Option D:</span> This contradicts the description of having a sweet taste.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>These physical properties are common to many simple sugars, making them readily identifiable and distinguishing them from more complex carbohydrates or other biomolecules.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A physical characteristic of monosaccharides is that they are colorless, sweet, and crystalline solids.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are colorless, sweet, and crystalline solids."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Monosaccharides exhibit optical activity. What does this mean in terms of their interaction with light?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They absorb all wavelengths of light."
+        },
+        {
+          "type": "string",
+          "content": "They emit light when heated."
+        },
+        {
+          "type": "string",
+          "content": "They reflect light, making them shiny."
+        },
+        {
+          "type": "string",
+          "content": "They can rotate plane polarized light."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Characteristics",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Optical Activity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Optical Activity:</em> The ability of a chiral molecule to rotate the plane of plane-polarized light.<br/><em>Monosaccharide:</em> A simple sugar, typically chiral due to multiple asymmetric carbon atoms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the meaning of optical activity for monosaccharides.</div><p><strong>Step 1: Locate the specific physical characteristic related to light interaction.</strong><br>Under 'Physical Characteristics', the document states: <span style='color:var(--orange);font-weight:bold;'>\"Optically active and Can rotate plane polarred light.\"</span></p><p><strong>Step 2: Match this description with the given options.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Absorbing all wavelengths of light would make them black, which contradicts 'colourless'.</li><li><span style='font-weight:bold;'>Option B:</span> Emitting light when heated is luminescence, not directly related to optical activity.</li><li><span style='font-weight:bold;'>Option C:</span> Reflecting light makes objects appear shiny, which is a general surface property, not specific to optical activity.</li><li><span style='font-weight:bold;'>Option D:</span> This statement directly matches the definition given for optical activity in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Optical activity is a key property of chiral molecules like monosaccharides, indicating the presence of asymmetric carbon centers and allowing for stereoisomerism (D and L forms).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Optical activity in monosaccharides means they can rotate plane polarized light.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They can rotate plane polarized light."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "The number of carbon atoms in monosaccharides varies. According to the notes, what is the typical range of carbon atoms found in monosaccharides?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1-3"
+        },
+        {
+          "type": "string",
+          "content": "3-7"
+        },
+        {
+          "type": "string",
+          "content": "5-9"
+        },
+        {
+          "type": "string",
+          "content": "6-12"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Characteristics",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbon Atom Range in Monosaccharides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A simple sugar, typically defined by its carbon chain length.<br/><em>Carbon Atom Range:</em> The number of carbon atoms commonly found in a monosaccharide molecule.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the typical range of carbon atoms in monosaccharides as stated in the notes.</div><p><strong>Step 1: Locate the characteristic mentioning the number of carbon atoms.</strong><br>Under 'Characteristics' for monosaccharides, the document states: <span style='color:var(--orange);font-weight:bold;'>\"N/B (Calan n=3-7\"</span> and \"They can have 3-6 Carbon atoms\". The first one is more explicit for 'n', referring to the generic formula (CH2O)n where n is the number of carbons. Given 'n=3-7' and '3-6 Carbon atoms', the broader range (3-7) seems to be the intended 'typical range'.</p><p><strong>Step 2: Evaluate the options against this range.</strong></p><ul><li><span style='font-weight:bold;'>Option A (1-3):</span> This range is too narrow and excludes common monosaccharides like pentoses and hexoses.</li><li><span style='font-weight:bold;'>Option B (3-7):</span> This range encompasses trioses, tetroses, pentoses, hexoses, and heptoses, aligning with the note 'n=3-7'.</li><li><span style='font-weight:bold;'>Option C (5-9):</span> This range is incorrect as it starts too high (excluding trioses and tetroses) and goes beyond the explicit upper limit (7).</li><li><span style='font-weight:bold;'>Option D (6-12):</span> This range is too high; 12 carbons would typically indicate a disaccharide, not a monosaccharide.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The number of carbon atoms determines the monosaccharide's basic classification (e.g., triose, hexose) and influences its overall structure and properties.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The typical range of carbon atoms found in monosaccharides is 3-7.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-7"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Monosaccharides exist in different isomeric forms. Which pair of forms are specifically mentioned as different forms of isomerism for monosaccharides?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Cis and Trans forms"
+        },
+        {
+          "type": "string",
+          "content": "D and L forms"
+        },
+        {
+          "type": "string",
+          "content": "E and Z forms"
+        },
+        {
+          "type": "string",
+          "content": "Alpha and Beta forms"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Isomerism",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Isomeric Forms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Isomerism:</em> The phenomenon where two or more compounds have the same chemical formula but different structural arrangements.<br/><em>Monosaccharide Isomers:</em> Different spatial arrangements of monosaccharides that result in distinct forms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks to identify the specific isomeric forms mentioned for monosaccharides.</div><p><strong>Step 1: Locate the section discussing isomerism in monosaccharides.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"We have chefferant forms of leomensm. Gamers: D and L formes.\"</span> (Note: 'leomensm' is likely a typo for isomerism, and 'Gamers' for isomers).</p><p><strong>Step 2: Evaluate the options based on this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Cis and Trans forms):</span> These are geometric isomers, typically found in molecules with double bonds or rings, but not the primary classification for monosaccharide stereoisomers.</li><li><span style='font-weight:bold;'>Option B (D and L forms):</span> These are explicitly mentioned as isomeric forms of monosaccharides.</li><li><span style='font-weight:bold;'>Option C (E and Z forms):</span> These are another type of geometric isomerism, similar to cis/trans, and not mentioned here.</li><li><span style='font-weight:bold;'>Option D (Alpha and Beta forms):</span> These are specific types of anomers, which are indeed a form of isomerism, but the text explicitly calls out D and L forms as general forms of isomerism.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>D and L configurations are fundamental for classifying monosaccharides, particularly in their open-chain forms, based on the configuration of the chiral carbon furthest from the carbonyl group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ D and L forms are specifically mentioned as different forms of isomerism for monosaccharides.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "D and L forms"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "What defines epimers in the context of monosaccharide isomerism?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are mirror images of each other."
+        },
+        {
+          "type": "string",
+          "content": "They differ in the configuration at only one carbon atom."
+        },
+        {
+          "type": "string",
+          "content": "They differ in the functional group present."
+        },
+        {
+          "type": "string",
+          "content": "They are cyclic and linear forms of the same sugar."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Isomerism",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Epimer Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Isomers:</em> Compounds with the same molecular formula but different structural arrangements.<br/><em>Epimers:</em> A specific type of stereoisomer that differs in configuration at only one chiral center.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the definition of epimers concerning monosaccharide isomerism.</div><p><strong>Step 1: Locate the definition of epimers in the document.</strong><br>Under 'Isomerism', the document states: <span style='color:var(--orange);font-weight:bold;'>\"fprmers: Ditter at Only one Carbon atom\"</span> (Note: 'fprmers' is a typo for epimers, and 'Ditter' for differ).</p><p><strong>Step 2: Evaluate the options against this definition.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This describes enantiomers (a type of stereoisomer), not specifically epimers, which are diastereomers.</li><li><span style='font-weight:bold;'>Option B:</span> This statement directly matches the definition provided for epimers.</li><li><span style='font-weight:bold;'>Option C:</span> This would describe different classes of monosaccharides, such as aldoses vs. ketoses, not epimers.</li><li><span style='font-weight:bold;'>Option D:</span> This describes the interconversion between linear and cyclic forms of a single monosaccharide, not epimers.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Epimers are crucial in carbohydrate chemistry, as subtle differences at a single carbon can lead to distinct sugars (e.g., glucose and galactose are C4 epimers).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Epimers are defined as isomers that differ in the configuration at only one carbon atom.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They differ in the configuration at only one carbon atom."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "In the context of monosaccharide isomerism, how are anomers described in the provided notes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "As forms differing only in their overall charge."
+        },
+        {
+          "type": "string",
+          "content": "As minor images."
+        },
+        {
+          "type": "string",
+          "content": "As isomers with different degrees of saturation."
+        },
+        {
+          "type": "string",
+          "content": "As structures that are non-superimposable mirror images."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Isomerism",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Anomer Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Isomers:</em> Compounds with the same molecular formula but different structural arrangements.<br/><em>Anomers:</em> Stereoisomers that differ in configuration at the anomeric carbon (the new chiral center formed upon cyclization of a monosaccharide).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the description of anomers as presented in the notes.</div><p><strong>Step 1: Locate the definition of anomers in the document.</strong><br>Under 'Isomerism', the document states: <span style='color:var(--orange);font-weight:bold;'>\"Anomers: Minor Images\"</span> (Note: This is a simplified or potentially imprecise definition in standard biochemistry, where anomers are typically defined as epimers at the anomeric carbon resulting from cyclization. However, adhering strictly to the document, we use the provided phrasing).</p><p><strong>Step 2: Evaluate the options against this specific phrasing.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Anomers do not inherently differ in overall charge.</li><li><span style='font-weight:bold;'>Option B:</span> This matches the description explicitly given in the document for anomers.</li><li><span style='font-weight:bold;'>Option C:</span> Saturation differences relate to the presence of double/triple bonds, not characteristic of anomers.</li><li><span style='font-weight:bold;'>Option D:</span> This is the definition for enantiomers, which are a broader class of stereoisomers; while anomers are stereoisomers, this phrasing is too general and not the specific descriptor given in the notes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Anomers (like α-glucose and β-glucose) are crucial for understanding the different cyclic forms of sugars and their interactions in biological systems. While the document's definition is simplified, it must be used as per instructions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the context of monosaccharide isomerism, anomers are described as minor images.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "As minor images."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Most monosaccharides are classified as reducing sugars. What characteristic typically allows a sugar to be identified as a reducing sugar?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Presence of a phosphodiester bond."
+        },
+        {
+          "type": "string",
+          "content": "Absence of a hydroxyl group."
+        },
+        {
+          "type": "string",
+          "content": "Presence of a free anomeric carbon."
+        },
+        {
+          "type": "string",
+          "content": "High molecular weight."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reducing Sugars",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristic of Reducing Sugars</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Reducing Sugar:</em> A sugar that can act as a reducing agent because it has a free aldehyde or ketone group, typically at the anomeric carbon in its open-chain form.<br/><em>Anomeric Carbon:</em> The carbon atom derived from the carbonyl carbon (aldehyde or ketone) of the open-chain form of a monosaccharide.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the characteristic that identifies a sugar as a reducing sugar.</div><p><strong>Step 1: Refer to the sections discussing reducing sugars and their properties.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Most monosaccharide are reducing Sugars.\"</span> Later, in the disaccharide section, it mentions, <span style='color:var(--orange);font-weight:bold;'>\"If the Sugar anomeric Carbon is free, it can got Inverted in reduction reaction.\"</span> This directly links the presence of a free anomeric carbon to reductive properties, which is characteristic of reducing sugars.</p><p><strong>Step 2: Evaluate the options against this understanding.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Phosphodiester bonds are found in nucleic acids, not related to reducing sugar properties.</li><li><span style='font-weight:bold;'>Option B:</span> Hydroxyl groups are abundant in sugars; their absence would fundamentally alter the molecule.</li><li><span style='font-weight:bold;'>Option C:</span> The presence of a free anomeric carbon allows the sugar to revert to its open-chain aldehyde or ketone form, which can then be oxidized, thus acting as a reducing agent. This aligns with the document's implication.</li><li><span style='font-weight:bold;'>Option D:</span> High molecular weight is characteristic of polysaccharides, which are often non-reducing, and is not a determinant for reducing sugar status.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The ability to reduce other compounds (e.g., Benedict's reagent) is a defining feature used in various biochemical tests for sugars.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The characteristic that typically allows a sugar to be identified as a reducing sugar is the presence of a free anomeric carbon.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presence of a free anomeric carbon."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Monosaccharides can undergo various reactions. What is the product formed when monosaccharides undergo an oxidation reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Alcohols"
+        },
+        {
+          "type": "string",
+          "content": "Esters"
+        },
+        {
+          "type": "string",
+          "content": "Acids"
+        },
+        {
+          "type": "string",
+          "content": "Ethers"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Reactivity",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Oxidation Product</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A simple sugar.<br/><em>Oxidation Reaction:</em> A chemical reaction involving the loss of electrons or an increase in oxidation state, often involving the conversion of an aldehyde group to a carboxyl group.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the product formed when monosaccharides undergo oxidation.</div><p><strong>Step 1: Locate the section on monosaccharide reactivity.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"In times of reacentury: Monosaccharide can be invoked in Cadation reaction to form acids\"</span> (Note: 'reacentury' is a typo for reactivity, and 'Cadation' for oxidation).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Alcohols):</span> Alcohols are typically formed from reduction reactions, not oxidation.</li><li><span style='font-weight:bold;'>Option B (Esters):</span> Esters are formed by the reaction of an acid and an alcohol.</li><li><span style='font-weight:bold;'>Option C (Acids):</span> This matches the product explicitly mentioned for oxidation reactions of monosaccharides.</li><li><span style='font-weight:bold;'>Option D (Ethers):</span> Ethers are not typically formed through direct oxidation of monosaccharides.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The oxidation of the aldehyde group of an aldose yields an aldonic acid, while oxidation of the primary alcohol group at the other end yields an alduronic acid. If both are oxidized, it forms an aldaric acid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product formed when monosaccharides undergo an oxidation reaction is Acids.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Besides oxidation, monosaccharides can also participate in reduction reactions. What is the product formed when monosaccharides undergo a reduction reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ketones"
+        },
+        {
+          "type": "string",
+          "content": "Alcohols"
+        },
+        {
+          "type": "string",
+          "content": "Aldehydes"
+        },
+        {
+          "type": "string",
+          "content": "Carboxylic acids"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Reactivity",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Reduction Product</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A simple sugar.<br/><em>Reduction Reaction:</em> A chemical reaction involving the gain of electrons or a decrease in oxidation state, often involving the conversion of an aldehyde or ketone group to a hydroxyl (alcohol) group.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the product formed when monosaccharides undergo a reduction reaction.</div><p><strong>Step 1: Locate the section on monosaccharide reactivity.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Monosaccharide can be invoked in Cadation reaction to form acids and Reduction reaction to farm Alcohol.\"</span> (Note: 'Cadation' is a typo for oxidation, and 'farm' for form).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Ketones):</span> Ketones are a type of functional group in some monosaccharides, not a product of general reduction.</li><li><span style='font-weight:bold;'>Option B (Alcohols):</span> This matches the product explicitly mentioned for reduction reactions of monosaccharides.</li><li><span style='font-weight:bold;'>Option C (Aldehydes):</span> Aldehydes are a functional group in some monosaccharides, not a product of reduction; rather, they are reduced to alcohols.</li><li><span style='font-weight:bold;'>Option D (Carboxylic acids):</span> Carboxylic acids are products of oxidation reactions, not reduction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The reduction of the carbonyl group (aldehyde or ketone) of a monosaccharide typically yields a polyol or sugar alcohol (e.g., glucose reduces to sorbitol).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product formed when monosaccharides undergo a reduction reaction is Alcohols.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alcohols"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Disaccharides are a class of carbohydrates formed from simpler units. How are disaccharides fundamentally defined in terms of their composition and linkage?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are made up of 3 monosaccharide units joined by peptide bonds."
+        },
+        {
+          "type": "string",
+          "content": "They consist of a single sugar molecule that can be hydrolyzed."
+        },
+        {
+          "type": "string",
+          "content": "They are made up of 2 monosaccharide units joined by a glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "They are high molecular weight polymers linked by ester bonds."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Definition",
+      "Disaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Disaccharide Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Disaccharide:</em> A carbohydrate composed of two monosaccharide units joined by a glycosidic bond.<br/><em>Glycosidic Bond:</em> A covalent bond that links a carbohydrate to another group, which may or may not be another carbohydrate.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the fundamental definition of disaccharides based on their composition and linkage.</div><p><strong>Step 1: Locate the definition of disaccharides in the document.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They are made up of 2 monosaccharide units (Simple Sugar unit) that are joined by glycosidic bond.\"</span></p><p><strong>Step 2: Evaluate the options against this definition.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Disaccharides have two, not three, monosaccharide units, and they are joined by glycosidic bonds, not peptide bonds.</li><li><span style='font='weight:bold;'>Option B:</span> This describes a monosaccharide, not a disaccharide.</li><li><span style='font-weight:bold;'>Option C:</span> This statement accurately defines a disaccharide according to the document.</li><li><span style='font-weight:bold;'>Option D:</span> This describes polysaccharides, and the linkages are glycosidic, not ester bonds.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>This definition distinguishes disaccharides from monosaccharides (single units) and polysaccharides (many units). Common examples include sucrose, lactose, and maltose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Disaccharides are fundamentally defined as being made up of 2 monosaccharide units joined by a glycosidic bond.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are made up of 2 monosaccharide units joined by a glycosidic bond."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "What is the general chemical formula for disaccharides, as provided in the notes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "C6H12O6"
+        },
+        {
+          "type": "string",
+          "content": "C12H22O11"
+        },
+        {
+          "type": "string",
+          "content": "C18H32O16"
+        },
+        {
+          "type": "string",
+          "content": "(CH2O)n"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Formula",
+      "Disaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Disaccharide General Formula</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Disaccharide:</em> A carbohydrate formed from two monosaccharide units.<br/><em>General Formula:</em> A representation of the typical elemental composition and ratio for a class of compounds.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the general chemical formula for disaccharides, as stated in the notes.</div><p><strong>Step 1: Locate the general formula for disaccharides in the document.</strong><br>The document explicitly states: <span style='color:var(--orange);font-weight:bold;'>\"The general formula is C12H22O11.\"</span></p><p><strong>Step 2: Compare this formula with the provided options.</strong></p><ul><li><span style='font-weight:bold;'>Option A (C6H12O6):</span> This is the molecular formula for a hexose monosaccharide (e.g., glucose).</li><li><span style='font-weight:bold;'>Option B (C12H22O11):</span> This matches the general formula for disaccharides, accounting for the loss of a water molecule during the formation of the glycosidic bond from two monosaccharides (2 * C6H12O6 = C12H24O12, minus H2O = C12H22O11).</li><li><span style='font-weight:bold;'>Option C (C18H32O16):</span> This would be the formula for a trisaccharide (3 monosaccharides minus 2 waters), not a disaccharide.</li><li><span style='font='weight:bold;'>Option D ((CH2O)n):</span> This is the empirical formula for carbohydrates, not the specific general formula for disaccharides.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>This formula illustrates the condensation reaction where two monosaccharides join, releasing a molecule of water.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The general chemical formula for disaccharides is C12H22O11.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C12H22O11"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "During digestion, disaccharides are broken down into monosaccharides. What facilitates this breakdown process?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Mechanical churning in the stomach."
+        },
+        {
+          "type": "string",
+          "content": "Oxidation reactions in the liver."
+        },
+        {
+          "type": "string",
+          "content": "Enzymes."
+        },
+        {
+          "type": "string",
+          "content": "Strong acidic conditions in the small intestine."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Digestion",
+      "Disaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Disaccharide Digestion Mechanism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Disaccharide:</em> A carbohydrate composed of two monosaccharide units.<br/><em>Digestion:</em> The process of breaking down complex food molecules into simpler forms that can be absorbed and utilized by the body.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks what facilitates the breakdown of disaccharides into monosaccharides during digestion.</div><p><strong>Step 1: Locate information regarding disaccharide digestion.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"During digestion they are broken down by enzymes to form monosaccharides.\"</span></p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Mechanical churning is part of physical digestion, but chemical breakdown of disaccharides is enzymatic.</li><li><span style='font-weight:bold;'>Option B:</span> Oxidation reactions are metabolic processes, not the primary mechanism for breaking down disaccharides in digestion.</li><li><span style='font-weight:bold;'>Option C:</span> Enzymes are explicitly mentioned as the agents responsible for breaking down disaccharides during digestion.</li><li><span style='font-weight:bold;'>Option D:</span> While pH is important, the specific agents for hydrolysis of glycosidic bonds are enzymes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Specific enzymes like lactase, sucrase, and maltase catalyze the hydrolysis of lactose, sucrose, and maltose, respectively, ensuring that monosaccharides are available for absorption.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ During digestion, disaccharides are broken down into monosaccharides by enzymes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enzymes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Sucrose is a common disaccharide. What two monosaccharide units is it composed of?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Glucose and Galactose"
+        },
+        {
+          "type": "string",
+          "content": "Glucose and Glucose"
+        },
+        {
+          "type": "string",
+          "content": "Glucose and Fructose"
+        },
+        {
+          "type": "string",
+          "content": "Fructose and Galactose"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Composition",
+      "Sucrose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sucrose Composition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Disaccharide:</em> A sugar formed by the linkage of two monosaccharide units.<br/><em>Sucrose:</em> A common disaccharide, often known as table sugar.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the monosaccharide components of sucrose.</div><p><strong>Step 1: Locate the composition of sucrose in the document.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Surenose is Composed of glucose and Fructose\"</span> (Note: 'Surenose' is a typo for Sucrose).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Glucose and Galactose make up Lactose.</li><li><span style='font-weight:bold;'>Option B:</span> Glucose and Glucose make up Maltose and Cellobiose.</li><li><span style='font-weight:bold;'>Option C:</span> This matches the explicit statement in the document regarding sucrose's composition.</li><li><span style='font-weight:bold;'>Option D:</span> Fructose and Galactose do not form a common disaccharide mentioned here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Understanding the components of common disaccharides is fundamental to their metabolism and role in diet. Sucrose is a crucial dietary sugar.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sucrose is composed of Glucose and Fructose monosaccharide units.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucose and Fructose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Sucrose is distinct from many other disaccharides in its reducing properties. How is sucrose classified in this regard?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It is a strong reducing sugar."
+        },
+        {
+          "type": "string",
+          "content": "It is a non-reducing sugar."
+        },
+        {
+          "type": "string",
+          "content": "It is a weakly reducing sugar."
+        },
+        {
+          "type": "string",
+          "content": "It can be reducing or non-reducing depending on pH."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reducing vs Non-Reducing Sugars",
+      "Sucrose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sucrose as a Non-Reducing Sugar</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Reducing Sugar:</em> A sugar with a free anomeric carbon that can open to an aldehyde or ketone and act as a reducing agent.<br/><em>Non-reducing Sugar:</em> A sugar where the anomeric carbons of its constituent monosaccharides are involved in the glycosidic bond, preventing ring opening and subsequent oxidation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the classification of sucrose based on its reducing properties.</div><p><strong>Step 1: Locate information regarding sucrose's reducing nature.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"as non-reducing Sugar e.g. Sucrose.\"</span> and \"Sucneo: It's Composed of 2 monosacchande Sugar - One is a 6C Ketone Sugar and the other is a 6c aldase Sugar dich are linked together by glycosidec bonol. They are ren-reduang sugar.\" (Note: 'Sucneo' and 'ren-reduang' are typos for Sucrose and non-reducing). This consistently identifies sucrose as non-reducing.</p><p><strong>Step 2: Evaluate the options against this classification.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This contradicts the information provided.</li><li><span style='font-weight:bold;'>Option B:</span> This statement directly matches the classification given in the document.</li><li><span style='font-weight:bold;'>Option C:</span> This contradicts the information provided.</li><li><span style='font-weight:bold;'>Option D:</span> The reducing property of sucrose is not stated to be pH-dependent in this context; it is fundamentally non-reducing due to its glycosidic bond structure.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Sucrose is non-reducing because the anomeric carbon of glucose (C1) and the anomeric carbon of fructose (C2) are both involved in the glycosidic bond, preventing ring opening to expose a free aldehyde or ketone group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sucrose is classified as a non-reducing sugar.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is a non-reducing sugar."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Cellobiose is mentioned as a disaccharide. What monosaccharide units are stated to compose cellobiose in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Glucose and Glucose"
+        },
+        {
+          "type": "string",
+          "content": "Glucose and Fructose"
+        },
+        {
+          "type": "string",
+          "content": "Galactose and Fructose"
+        },
+        {
+          "type": "string",
+          "content": "Glucose and Mannose"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Composition",
+      "Cellobiose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cellobiose Composition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Disaccharide:</em> A sugar composed of two monosaccharide units.<br/><em>Cellobiose:</em> A disaccharide formed during the hydrolysis of cellulose.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the monosaccharide units that compose cellobiose, according to the document.</div><p><strong>Step 1: Locate the information about cellobiose composition.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Cellule bine Composed of glucose defructose Snon reducing Sugar\"</span> (Note: 'Cellule bine' is a typo for Cellobiose, and 'defructose' is a typo or misstatement, as cellobiose is typically glucose-glucose. However, as per instructions, we must strictly use the document's content.)</p><p><strong>Step 2: Evaluate the options against this literal statement.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Glucose and Glucose):</span> This is the chemically correct composition of cellobiose, but it is not what is literally stated in the document.</li><li><span style='font-weight:bold;'>Option B (Glucose and Fructose):</span> This option directly reflects the (potentially erroneous) statement in the document: \"glucose defructose\".</li><li><span style='font-weight:bold;'>Option C (Galactose and Fructose):</span> This composition is not mentioned for cellobiose.</li><li><span style='font-weight:bold;'>Option D (Glucose and Mannose):</span> This composition is not mentioned for cellobiose.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>It is important to adhere strictly to the provided document, even if it contains a factual inaccuracy compared to general biochemical knowledge. The question specifically asks for what is *stated in the document*. In reality, cellobiose is a disaccharide of two glucose units linked by a β(1→4) glycosidic bond.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the document, cellobiose is stated to be composed of Glucose and Fructose units.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucose and Fructose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Lactose is a significant disaccharide found in milk. What are its monosaccharide components, and by what type of glycosidic bond are they joined?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Glucose and Glucose, joined by an α(1-4) glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "Galactose and Glucose, joined by a β(1-4) glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "Glucose and Fructose, joined by an α(1-2)β glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "Galactose and Galactose, joined by a β(1-6) glycosidic bond."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Composition",
+      "Lactose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lactose Composition and Bond</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Lactose:</em> A disaccharide found in milk, also known as milk sugar.<br/><em>Glycosidic Bond:</em> The covalent bond linking monosaccharide units in a disaccharide.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the monosaccharide components of lactose and the type of glycosidic bond that joins them.</div><p><strong>Step 1: Locate the description of lactose's composition and bond type.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Lactose: Joined by β(1-4) glycoside bond which Connects the anomeric Carbon of galactose to OH group in Carbon 4 of glucose. Hydrolysis will yield glucose and galactose.\"</span></p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Glucose and Glucose with α(1-4) bond describes Maltose, not Lactose.</li><li><span style='font-weight:bold;'>Option B:</span> This option accurately reflects the composition (Galactose and Glucose) and bond type (β(1-4) glycosidic bond) described for lactose in the document.</li><li><span style='font-weight:bold;'>Option C:</span> Glucose and Fructose with an α(1-2)β bond describes Sucrose, not Lactose.</li><li><span style='font-weight:bold;'>Option D:</span> This composition and bond type are not described for lactose.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The β(1-4) linkage is significant as many organisms, including humans, require the enzyme lactase to break this bond during digestion.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lactose is composed of Galactose and Glucose, joined by a β(1-4) glycosidic bond.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Galactose and Glucose, joined by a β(1-4) glycosidic bond."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Lactose plays several biological roles. Which of the following is identified as a primary reason why lactose is known as 'milk sugar'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It is used as a stabilizer in pharmaceutical products."
+        },
+        {
+          "type": "string",
+          "content": "It is found naturally in the milk of mammals."
+        },
+        {
+          "type": "string",
+          "content": "It acts as a fermentable sugar in the dairy industry."
+        },
+        {
+          "type": "string",
+          "content": "It serves as a major source of energy for infants."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Lactose Biological Role",
+      "Lactose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lactose as 'Milk Sugar'</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Lactose:</em> A disaccharide common in dairy products.<br/><em>Milk Sugar:</em> A common name for lactose, reflecting its primary natural source.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the primary reason why lactose is known as 'milk sugar', according to the document.</div><p><strong>Step 1: Locate the biological roles of lactose, specifically why it's called 'milk sugar'.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"It is Known as mulhe sugar because it is found naturally In the milk of mammals.\"</span> (Note: 'mulhe' is a typo for milk).</p><p><strong>Step 2: Evaluate the options against this statement.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> While a biological role of lactose, it is not the reason it's called 'milk sugar'.</li><li><span style='font-weight:bold;'>Option B:</span> This statement directly explains why lactose is known as 'milk sugar', matching the document.</li><li><span style='font-weight:bold;'>Option C:</span> This is a biological role in industrial applications, not the reason for its common name.</li><li><span style='font-weight:bold;'>Option D:</span> This is a significant biological role (energy for infants), but the direct reason for the 'milk sugar' name is its presence in milk.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The origin of its common name is descriptive of its natural occurrence, which is a key identifying feature for this carbohydrate.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lactose is known as 'milk sugar' because it is found naturally in the milk of mammals.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is found naturally in the milk of mammals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Maltose is a disaccharide commonly found in germinating grains. What are its monosaccharide components and the type of glycosidic bond that links them?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Glucose and Fructose, linked by α(1-2)β glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "Galactose and Glucose, linked by β(1-4) glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "Glucose and Glucose, linked by α(1-4) glycosidic bond."
+        },
+        {
+          "type": "string",
+          "content": "Two different monosaccharides, linked by an α(1-6) glycosidic bond."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Disaccharide Composition",
+      "Maltose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Maltose Composition and Bond</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Maltose:</em> A disaccharide also known as malt sugar, typically formed during starch digestion.<br/><em>Glycosidic Bond:</em> The covalent bond linking monosaccharide units.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the monosaccharide components of maltose and the type of glycosidic bond linking them.</div><p><strong>Step 1: Locate the description of maltose's composition and bond type.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Mactose: Composed of glucose and glucose. Linked by α1,4 glycosidic bond which Connects the aromanc Carbon (C4)to the second glucose molecule C1.\"</span> (Note: 'Mactose' is a typo for Maltose, and the description of C4 to C1 connection is slightly inverted, it should be C1 of first glucose to C4 of second glucose. However, the core info of α1,4 glucose-glucose is clear).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This describes Sucrose.</li><li><span style='font-weight:bold;'>Option B:</span> This describes Lactose.</li><li><span style='font-weight:bold;'>Option C:</span> This option accurately reflects the components (Glucose and Glucose) and bond type (α(1-4) glycosidic bond) described for maltose in the document.</li><li><span style='font-weight:bold;'>Option D:</span> While an α(1-6) bond exists in some carbohydrates, maltose specifically has α(1-4) and consists of identical monosaccharide units.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Maltose is a reducing sugar and is an important intermediate in the digestion of starch, hence its relevance in brewing.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Maltose is composed of Glucose and Glucose, linked by an α(1-4) glycosidic bond.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucose and Glucose, linked by α(1-4) glycosidic bond."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Maltose is known for its various biological applications. In which industry is maltose specifically mentioned as being used for fermentation by yeast?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Pharmaceutical industry"
+        },
+        {
+          "type": "string",
+          "content": "Dairy industry"
+        },
+        {
+          "type": "string",
+          "content": "Brewing industry"
+        },
+        {
+          "type": "string",
+          "content": "Confectionery industry"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Maltose Biological Role",
+      "Maltose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Maltose in Fermentation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Maltose:</em> A disaccharide of two glucose units, often derived from starch hydrolysis.<br/><em>Fermentation:</em> A metabolic process that converts sugar to acids, gases, or alcohol using yeast or bacteria.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks in which industry maltose is used for fermentation by yeast.</div><p><strong>Step 1: Locate the biological roles of maltose.</strong><br>Under 'Biological Roles Of Maltose', the document states: <span style='color:var(--orange);font-weight:bold;'>\"It cs used in the brewing industry for fermentation by yeast.\"</span></p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> While maltose can be an ingredient, the pharmaceutical industry is not mentioned for yeast fermentation.</li><li><span style='font-weight:bold;'>Option B:</span> The dairy industry primarily uses lactose for fermentation.</li><li><span style='font-weight:bold;'>Option C:</span> This matches the industry explicitly mentioned where maltose is used for yeast fermentation.</li><li><span style='font-weight:bold;'>Option D:</span> Maltose can be used in confectionery as a sweetener, but not primarily for yeast fermentation in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>In brewing, maltose is derived from the breakdown of starch in grains (like barley) and is then fermented by yeast to produce alcohol and carbon dioxide.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Maltose is specifically mentioned as being used in the brewing industry for fermentation by yeast.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brewing industry"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Polysaccharides are large and complex carbohydrates. Which of the following general characteristics distinguishes polysaccharides from simple sugars (mono- and disaccharides)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They are typically sweet and highly soluble in water."
+        },
+        {
+          "type": "string",
+          "content": "They are composed of only 2-3 monosaccharide units."
+        },
+        {
+          "type": "string",
+          "content": "They are not sweet in taste and have high molecular weight."
+        },
+        {
+          "type": "string",
+          "content": "They readily form crystals and are reducing sugars."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polysaccharide Characteristics",
+      "Polysaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>General Characteristics of Polysaccharides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Polysaccharides:</em> Complex carbohydrates composed of many monosaccharide units linked together.<br/><em>Simple Sugars:</em> Monosaccharides and disaccharides.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for general characteristics that distinguish polysaccharides from simple sugars.</div><p><strong>Step 1: Locate the general properties of polysaccharides.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"are not Sweet in Daste, they do not form Custars, they are Carbohydrates with high molecular weight.\"</span> (Note: 'Daste' is a typo for taste, 'Custars' for crystals).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This describes simple sugars (monosaccharides and disaccharides), not polysaccharides.</li><li><span style='font-weight:bold;'>Option B:</span> This describes oligosaccharides (or disaccharides if 2 units), not polysaccharides, which have many units.</li><li><span style='font-weight:bold;'>Option C:</span> This statement accurately reflects the described characteristics of polysaccharides: \"not Sweet in Daste\" and \"high molecular weight.\"</li><li><span style='font-weight:bold;'>Option D:</span> Polysaccharides typically do not readily form crystals and many are non-reducing, unlike simple sugars.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>These characteristics are a direct consequence of their large size and polymeric nature, which affects their solubility, taste, and physical state.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A general characteristic distinguishing polysaccharides from simple sugars is that they are not sweet in taste and have high molecular weight.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are not sweet in taste and have high molecular weight."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Polysaccharides are classified based on the types of monosaccharide units they contain. What defines a homopolysaccharide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It contains different types of monosaccharide units."
+        },
+        {
+          "type": "string",
+          "content": "It contains only one type of monosaccharide unit."
+        },
+        {
+          "type": "string",
+          "content": "It is made of both sugar and non-sugar components."
+        },
+        {
+          "type": "string",
+          "content": "It is a branched chain of amino acids."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polysaccharide Classification",
+      "Polysaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Homopolysaccharide Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Polysaccharide:</em> A complex carbohydrate composed of multiple monosaccharide units.<br/><em>Homopolysaccharide:</em> A type of polysaccharide.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the definition of a homopolysaccharide.</div><p><strong>Step 1: Locate the definition of homopolysaccharides.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Homo poufsacchande: Polipracchandes that coritain the same type of monosacchonde units e.g. Starch, glycogen, ellulose, Irauri, agar.\"</span> (Note: 'poufsacchande' is a typo for polysaccharide, 'Polipracchandes' for polysaccharides, 'coritain' for contain, and 'Irauri' for inulin).</p><p><strong>Step 2: Evaluate the options against this definition.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> This describes a heteropolysaccharide, not a homopolysaccharide.</li><li><span style='font-weight:bold;'>Option B:</span> This statement accurately defines a homopolysaccharide as containing \"the same type of monosacchonde units.\"</li><li><span style='font-weight:bold;'>Option C:</span> This describes glycoconjugates or proteoglycans, not specifically homopolysaccharides.</li><li><span style='font-weight:bold;'>Option D:</span> This describes a protein, not a carbohydrate.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Homopolysaccharides like starch and cellulose are major structural and energy-storage components in biology, made exclusively from glucose units.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A homopolysaccharide is defined as containing only one type of monosaccharide unit.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It contains only one type of monosaccharide unit."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Starch is a critical storage polysaccharide. In which organisms is starch primarily found as a storage polysaccharide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Animals"
+        },
+        {
+          "type": "string",
+          "content": "Fungi"
+        },
+        {
+          "type": "string",
+          "content": "Bacteria"
+        },
+        {
+          "type": "string",
+          "content": "Plants"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Starch Storage",
+      "Starch"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Starch as Plant Storage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Starch:</em> A complex carbohydrate that serves as the primary energy storage in plants.<br/><em>Storage Polysaccharide:</em> A polymer of monosaccharide units used by organisms to store energy.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks where starch is primarily found as a storage polysaccharide.</div><p><strong>Step 1: Locate the information regarding starch's role and location.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Starch: Starch is a storage porysachande most Commonly found In plants.\"</span> (Note: 'porysachande' is a typo for polysaccharide).</p><p><strong>Step 2: Evaluate the options against this statement.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Animals):</span> Glycogen is the primary storage polysaccharide in animals, not starch.</li><li><span style='font-weight:bold;'>Option B (Fungi):</span> Fungi store glycogen, similar to animals, or other less common polysaccharides.</li><li><span style='font-weight:bold;'>Option C (Bacteria):</span> Bacteria store various polysaccharides, but starch is not their primary storage form.</li><li><span style='font='weight:bold;'>Option D (Plants):</span> This matches the explicit statement that starch is most commonly found in plants as a storage polysaccharide.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Starch is a key component of many staple foods for humans, such as grains, potatoes, and corn, highlighting its importance in the global food supply.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Starch is primarily found as a storage polysaccharide in Plants.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plants"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Amylose, a component of starch, has distinct properties. What is the characteristic color it produces when combined with iodine solution?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Reddish-brown"
+        },
+        {
+          "type": "string",
+          "content": "Clear (no color)"
+        },
+        {
+          "type": "string",
+          "content": "Dark blue or black"
+        },
+        {
+          "type": "string",
+          "content": "Yellow"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Starch Components",
+      "Amylose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amylose Iodine Test Result</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Amylose:</em> The linear component of starch, consisting of α(1-4) linked glucose units.<br/><em>Iodine Test:</em> A common chemical test used to detect the presence of starch, relying on the formation of a colored complex between iodine and the polysaccharide's helical structure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the characteristic color produced by amylose when combined with iodine solution.</div><p><strong>Step 1: Locate the description of amylose's reaction with iodine.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Amylose is an unbranch Chain... and oo gives a dark blue or black when Combined wooth cocine Solution.\"</span> (Note: 'wooth' is a typo for with, and 'cocine' for iodine).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Reddish-brown):</span> This color is typically associated with amylopectin or glycogen.</li><li><span style='font-weight:bold;'>Option B (Clear (no color)):</span> This would indicate no starch or very small carbohydrate molecules.</li><li><span style='font-weight:bold;'>Option C (Dark blue or black):</span> This matches the color explicitly stated for amylose when combined with iodine.</li><li><span style='font-weight:bold;'>Option D (Yellow):</span> This is the color of the iodine solution itself, or a negative test for starch.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The deep blue color with iodine is due to the entrapment of iodine molecules within the helical structure of amylose, forming an inclusion complex.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Amylose produces a dark blue or black color when combined with iodine solution.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dark blue or black"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Amylopectin is the branched component of starch. What are the two types of glycosidic bonds that define its structure, particularly including the branching points?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "α(1-4) and β(1-4)"
+        },
+        {
+          "type": "string",
+          "content": "β(1-4) and β(1-6)"
+        },
+        {
+          "type": "string",
+          "content": "α(1-4) and α(1-6)"
+        },
+        {
+          "type": "string",
+          "content": "α(1-2) and α(1-4)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Starch Components",
+      "Amylopectin"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amylopectin Glycosidic Bonds</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Amylopectin:</em> The branched component of starch, a homopolymer of glucose.<br/><em>Glycosidic Bonds:</em> Covalent linkages between monosaccharide units, defining the structure of polysaccharides.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the two types of glycosidic bonds that define amylopectin's structure, including branching points.</div><p><strong>Step 1: Locate the description of amylopectin's bond types.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"This Component has two different types of bond α(1, 4) and α(1,6). Branching points (α1,6).\"</span></p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> β(1-4) bonds are found in cellulose, not amylopectin.</li><li><span style='font-weight:bold;'>Option B:</span> Both bonds are β-linkages, which are not characteristic of amylopectin.</li><li><span style='font-weight:bold;'>Option C:</span> This option accurately lists the two types of alpha glycosidic bonds, α(1-4) for the main chain and α(1-6) for branching points, as described in the document.</li><li><span style='font-weight:bold;'>Option D:</span> An α(1-2) bond is not mentioned for amylopectin.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The combination of linear α(1-4) linkages and α(1-6) branch points gives amylopectin its characteristic branched, tree-like structure, important for rapid glucose release.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The two types of glycosidic bonds that define amylopectin's structure are α(1-4) and α(1-6).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "α(1-4) and α(1-6)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Amylopectin, the branched component of starch, reacts with iodine solution. What is the characteristic color produced?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Dark blue or black"
+        },
+        {
+          "type": "string",
+          "content": "Reddish-brown"
+        },
+        {
+          "type": "string",
+          "content": "Clear (no color)"
+        },
+        {
+          "type": "string",
+          "content": "Purple"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Starch Components",
+      "Amylopectin"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amylopectin Iodine Test Result</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Amylopectin:</em> The branched component of starch.<br/><em>Iodine Test:</em> A method to detect starch using iodine solution, which forms a colored complex with the polysaccharide.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the characteristic color produced by amylopectin when combined with iodine solution.</div><p><strong>Step 1: Locate the description of amylopectin's reaction with iodine.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Amylopectin: ...corch lodine solution to gives a reddion brovon Colour.\"</span> (Note: 'corch' is a typo for with, 'lodine' for iodine, 'reddion brovon Colour' for reddish brown color).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A (Dark blue or black):</span> This color is associated with amylose.</li><li><span style='font-weight:bold;'>Option B (Reddish-brown):</span> This matches the color explicitly stated for amylopectin when combined with iodine solution.</li><li><span style='font-weight:bold;'>Option C (Clear (no color)):</span> This would typically indicate the absence of starch.</li><li><span style='font-weight:bold;'>Option D (Purple):</span> This color is not mentioned for amylopectin's iodine test.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The reddish-brown color from amylopectin (and glycogen) with iodine is attributed to its highly branched structure, which prevents the formation of the long, continuous iodine-helical complex seen with amylose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Amylopectin produces a reddish-brown color when combined with iodine solution.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reddish-brown"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Glycogen is often referred to as 'animal starch'. Where is it primarily stored in the animal body?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bones and blood"
+        },
+        {
+          "type": "string",
+          "content": "Muscles and liver"
+        },
+        {
+          "type": "string",
+          "content": "Kidneys and brain"
+        },
+        {
+          "type": "string",
+          "content": "Adipose tissue and skin"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Glycogen Storage",
+      "Glycogen"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Glycogen Storage Locations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Glycogen:</em> The primary glucose storage polysaccharide in animals and fungi.<br/><em>Animal Starch:</em> A common term for glycogen, reflecting its role similar to starch in plants.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the primary storage locations of glycogen in the animal body.</div><p><strong>Step 1: Locate the information about glycogen storage.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Glycogen: Barcally known as animal ora.ch. It is partiar lang sured ured in the muscles and luler.\"</span> (Note: 'Barcally' is a typo for Basically, 'ora.ch' for starch, 'sured ured' for stored, and 'luler' for liver).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Bones and blood are not primary storage sites for glycogen.</li><li><span style='font-weight:bold;'>Option B:</span> This option accurately identifies \"muscles and luler\" (liver) as the primary storage sites for glycogen, as stated in the document.</li><li><span style='font-weight:bold;'>Option C:</span> Kidneys and brain are not specified as primary storage sites, although brain cells do utilize glucose and have some glycogen.</li><li><span style='font-weight:bold;'>Option D:</span> Adipose tissue stores fat (triglycerides), not glycogen, as its primary energy reserve.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Glycogen in the liver primarily maintains blood glucose homeostasis, while muscle glycogen provides energy for muscle contraction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Glycogen is primarily stored in the muscles and liver in the animal body.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Muscles and liver"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Cellulose is the most abundant carbohydrate. What type of glycosidic linkage is characteristic of cellulose, defining its structure as a polymer of β-D-glucose?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "α(1-4) glycosidic linkages"
+        },
+        {
+          "type": "string",
+          "content": "β(1-4) glycosidic linkages"
+        },
+        {
+          "type": "string",
+          "content": "α(1-6) glycosidic linkages"
+        },
+        {
+          "type": "string",
+          "content": "β(1-2) glycosidic linkages"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Cellulose Structure",
+      "Cellulose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cellulose Glycosidic Linkages</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Cellulose:</em> A major structural polysaccharide in plant cell walls, composed of glucose units.<br/><em>Glycosidic Linkage:</em> The covalent bond joining monosaccharide units in a polysaccharide.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the characteristic glycosidic linkage found in cellulose.</div><p><strong>Step 1: Locate the description of cellulose's structure and linkages.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Cellulose of polymer of β-D-glucose linked by β(1,4) upkages\"</span> (Note: 'upkages' is a typo for linkages). It also states: \"N/B:Cellulose to composed of 2 D-glucose units linked by Beta glycoandia Linkages as well β(1-4)\" (Note: 'glycoandia' is a typo for glycosidic).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A (α(1-4) glycosidic linkages):</span> These are found in amylose and glycogen (main chain).</li><li><span style='font-weight:bold;'>Option B (β(1-4) glycosidic linkages):</span> This matches the type of linkage explicitly stated for cellulose.</li><li><span style='font-weight:bold;'>Option C (α(1-6) glycosidic linkages):</span> These are found at branching points in amylopectin and glycogen.</li><li><span style='font-weight:bold;'>Option D (β(1-2) glycosidic linkages):</span> This type of linkage is not characteristic of cellulose.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The β(1-4) linkages give cellulose its characteristic linear, unbranched structure, allowing for extensive hydrogen bonding between adjacent chains, which contributes to its high tensile strength and insolubility.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The characteristic glycosidic linkage of cellulose is β(1-4) glycosidic linkages.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "β(1-4) glycosidic linkages"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Chitin is a significant structural polysaccharide. What specific monosaccharide unit is chitin composed of?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "N-Acetylmuramic acid"
+        },
+        {
+          "type": "string",
+          "content": "D-Glucosamine"
+        },
+        {
+          "type": "string",
+          "content": "N-Acetylglucosamine"
+        },
+        {
+          "type": "string",
+          "content": "Galactosamine"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chitin Composition",
+      "Chitin"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chitin Monosaccharide Composition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Chitin:</em> A linear homopolysaccharide that serves as a structural component in various organisms.<br/><em>Monosaccharide Unit:</em> The basic repeating sugar unit of a polysaccharide.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the specific monosaccharide unit that chitin is composed of.</div><p><strong>Step 1: Locate the description of chitin's composition.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Chitin: This to a linear mono pocysacchande Composol of N-Acetyl glucosamine in β-linkago.\"</span> (Note: 'to' is a typo for is, 'pocysacchande' for polysaccharide, 'Composol' for composed, and 'linkago' for linkages).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> N-Acetylmuramic acid is a component of bacterial cell walls, but not the repeating unit of chitin.</li><li><span style='font-weight:bold;'>Option B:</span> D-Glucosamine is related but not the exact unit as stated, which specifies N-Acetylglucosamine.</li><li><span style='font-weight:bold;'>Option C:</span> This matches the specific monosaccharide unit explicitly mentioned as composing chitin.</li><li><span style='font-weight:bold;'>Option D:</span> Galactosamine is an amino sugar, but not the specific component of chitin.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>N-Acetylglucosamine is a derivative of glucose where the hydroxyl group at C2 is replaced by an N-acetyl amino group. The β-linkages in chitin give it a fibrous structure similar to cellulose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Chitin is composed of N-Acetylglucosamine monosaccharide units.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "N-Acetylglucosamine"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Chitin has important biological roles, particularly in providing structural support. In which two biological locations is chitin identified as a principal component?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Plant cell walls and bacterial capsules."
+        },
+        {
+          "type": "string",
+          "content": "Arthropod exoskeletons and fungal cell walls."
+        },
+        {
+          "type": "string",
+          "content": "Vertebrate bones and cartilage."
+        },
+        {
+          "type": "string",
+          "content": "Algal cell walls and mollusk shells."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chitin Biological Role",
+      "Chitin"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chitin's Biological Locations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Chitin:</em> A structural polysaccharide, providing rigidity and protection.<br/><em>Principal Component:</em> The main structural substance of a biological entity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the two biological locations where chitin is identified as a principal component.</div><p><strong>Step 1: Locate the information regarding chitin's biological role and location.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Chotin 15 the Principal Component of high exoskeleton of arthropods and present in the cell wall of fungs.\"</span> (Note: 'Chotin' is a typo for Chitin, 'fungs' for fungi).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Plant cell walls are primarily cellulose, and bacterial capsules are often other polysaccharides, not chitin.</li><li><span style='font-weight:bold;'>Option B:</span> This option accurately identifies \"exoskeleton of arthropods\" and \"cell wall of fungs (fungi)\" as the principal components of chitin.</li><li><span style='font-weight:bold;'>Option C:</span> Vertebrate bones are primarily calcium phosphate and collagen, and cartilage contains proteoglycans, not chitin.</li><li><span style='font-weight:bold;'>Option D:</span> While some marine organisms produce chitin, algal cell walls are often cellulose or other polysaccharides, and mollusk shells are primarily calcium carbonate.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Chitin's robust, fibrous structure makes it ideal for these protective and supportive roles, similar to how cellulose functions in plants.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Chitin is identified as a principal component of arthropod exoskeletons and fungal cell walls.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Arthropod exoskeletons and fungal cell walls."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Chitin and cellulose are both homopolysaccharides. What is the key structural difference mentioned between chitin and cellulose?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Chitin is branched, while cellulose is linear."
+        },
+        {
+          "type": "string",
+          "content": "Cellulose contains α-linkages, while chitin contains β-linkages."
+        },
+        {
+          "type": "string",
+          "content": "Chitin has an acetylated group replacing the -OH at C2, while cellulose has a hydroxyl group at C2."
+        },
+        {
+          "type": "string",
+          "content": "Cellulose is soluble in water, while chitin is insoluble."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chitin vs Cellulose",
+      "Chitin",
+      "Cellulose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chitin vs. Cellulose Structural Difference</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Chitin:</em> A homopolysaccharide of N-Acetylglucosamine.<br/><em>Cellulose:</em> A homopolysaccharide of glucose.<br/><em>Structural Difference:</em> A distinguishing feature in their chemical make-up.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for the key structural difference between chitin and cellulose as mentioned in the notes.</div><p><strong>Step 1: Locate the comparison between chitin and cellulose.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"The only differena between Chitin and Celluloso 19 the replacement of -OH at C2 with acetylated.\"</span> (Note: 'differena' is a typo for difference, 'Celluloso' for Cellulose, and '19' for is).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Both chitin and cellulose are linear homopolysaccharides; branching is not the key difference mentioned here.</li><li><span style='font-weight:bold;'>Option B:</span> Both chitin and cellulose contain β-linkages. Cellulose has β(1-4) glucose, and chitin has β-linkages of N-Acetylglucosamine.</li><li><span style='font-weight:bold;'>Option C:</span> This statement directly matches the key structural difference identified in the document, concerning the substituent at the C2 position.</li><li><span style='font-weight:bold;'>Option D:</span> While solubility differs, this is a physical property, not the fundamental structural chemical difference at C2 mentioned.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>This modification at C2 is what makes chitin distinct, giving it slightly different properties, but maintaining the strong, linear structure characteristic of β-linked glucose polymers.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The key structural difference mentioned between chitin and cellulose is that chitin has an acetylated group replacing the -OH at C2, while cellulose has a hydroxyl group at C2.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chitin has an acetylated group replacing the -OH at C2, while cellulose has a hydroxyl group at C2."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Dextrins are produced from polysaccharides. How are dextrins primarily formed?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Complete oxidation of starch."
+        },
+        {
+          "type": "string",
+          "content": "Partial hydrolysis of starch."
+        },
+        {
+          "type": "string",
+          "content": "Reduction of glucose."
+        },
+        {
+          "type": "string",
+          "content": "Condensation of monosaccharides."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dextrins Formation",
+      "Dextrins"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dextrins Formation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Dextrins:</em> A group of low-molecular-weight carbohydrates produced by the hydrolysis of starch.<br/><em>Hydrolysis:</em> A chemical reaction in which water is used to break down a compound.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks about the primary method of forming dextrins.</div><p><strong>Step 1: Locate the description of dextrins' production.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Dextrins: This is produced by parrial hydroligans of Starch along with matrose and glucose.\"</span> (Note: 'parrial' is a typo for partial, 'hydroligans' for hydrolysis, and 'matrose' for maltose).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Complete oxidation would typically lead to CO2 and H2O, not dextrins.</li><li><span style='font-weight:bold;'>Option B:</span> This statement directly matches the document's description of dextrins' formation via partial hydrolysis of starch.</li><li><span style='font-weight:bold;'>Option C:</span> Reduction of glucose produces sugar alcohols, not dextrins.</li><li><span style='font-weight:bold;'>Option D:</span> Condensation of monosaccharides forms larger carbohydrates (disaccharides, polysaccharides), but dextrins are breakdown products.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Dextrins represent an intermediate stage in the breakdown of starch into simpler sugars like maltose and glucose, often through enzymatic action during digestion or industrial processing.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dextrins are primarily formed by partial hydrolysis of starch.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Partial hydrolysis of starch."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Dextrins have various applications. Which of the following uses for dextrins is explicitly mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "As a primary energy source in plants."
+        },
+        {
+          "type": "string",
+          "content": "As structural components in cell walls."
+        },
+        {
+          "type": "string",
+          "content": "As a thickening agent in food processing."
+        },
+        {
+          "type": "string",
+          "content": "As a component of animal fat stores."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dextrins Uses",
+      "Dextrins"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dextrins Applications</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Dextrins:</em> Intermediate products of starch hydrolysis.<br/><em>Applications:</em> Practical uses in various industries, including food.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for a specific use of dextrins mentioned in the document.</div><p><strong>Step 1: Locate the section detailing the uses of dextrins.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"It is often used as mualages (gun). It can also be used as thickening agort for food processing. It can be used in infant formulas as well.\"</span> (Note: 'mualages' is a typo for mucilages, 'gun' for gum, 'agort' for agent).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Starch is the primary energy source in plants, not dextrins.</li><li><span style='font-weight:bold;'>Option B:</span> Cellulose and chitin are structural components of cell walls, not dextrins.</li><li><span style='font-weight:bold;'>Option C:</span> This statement directly matches one of the mentioned uses: \"thickening agort for food processing.\"</li><li><span style='font-weight:bold;'>Option D:</span> Animal fat stores consist of triglycerides, not dextrins.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Dextrins are commonly used in the food industry for their thickening, binding, and texturizing properties, as well as in other applications like adhesives.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One explicitly mentioned use for dextrins is as a thickening agent in food processing.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "As a thickening agent in food processing."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "What are insoluble dextrins, and where can they be added?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Soluble polysaccharides that are used as sweeteners."
+        },
+        {
+          "type": "string",
+          "content": "Complex lipids that provide structural support."
+        },
+        {
+          "type": "string",
+          "content": "A type of fiber that can be added to food products."
+        },
+        {
+          "type": "string",
+          "content": "Proteins that enhance nutrient absorption."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Insoluble Dextrins",
+      "Dextrins"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Insoluble Dextrins</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Dextrins:</em> Short-chain polysaccharides produced from starch hydrolysis.<br/><em>Insoluble Dextrins:</em> A specific type of dextrin that does not dissolve in water.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks what insoluble dextrins are and where they can be added.</div><p><strong>Step 1: Locate information about insoluble dextrins.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"In food product there are some Insoluble dextinn that can be added to food product.\"</span> (Note: 'dextinn' is a typo for dextrin).</p><p><strong>Step 2: Evaluate the options against this information.</strong></p><ul><li><span style='font-weight:bold;'>Option A:</span> Insoluble dextrins are not soluble polysaccharides, and while some dextrins can be sweet, the primary classification here is insolubility.</li><li><span style='font-weight:bold;'>Option B:</span> Dextrins are carbohydrates (polysaccharides), not lipids.</li><li><span style='font-weight:bold;'>Option C:</span> Insoluble dextrins are a type of carbohydrate that acts like fiber due to its insolubility and can be added to food products, directly matching the document's information.</li><li><span style='font-weight:bold;'>Option D:</span> Dextrins are carbohydrates, not proteins.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Insoluble dextrins can function as dietary fiber, contributing to gut health by adding bulk and potentially modulating nutrient absorption, making them useful in fortifying food products.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Insoluble dextrins are a type of fiber that can be added to food products.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A type of fiber that can be added to food products."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Discuss the key biological significance of carbohydrates, as outlined in the provided notes.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Carbohydrate Biological Role",
+      "Introduction to Carbohydrates"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biological Significance of Carbohydrates</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Carbohydrates:</em> Organic compounds that serve various vital functions in living organisms.<br/><em>Biological Significance:</em> The importance and roles of these molecules in biological systems.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for a discussion of the key biological significance of carbohydrates based on the provided notes.</div><p><strong>Step 1: Identify the main roles of carbohydrates as described in the introductory section.</strong><br>The document highlights three key aspects of carbohydrate importance: <span style='color:var(--orange);font-weight:bold;'>\"Carbohydrates are Very Vical for energy production, blod Sugar regulation and Varuus matabolke processas.\"</span> (Note: 'Vical' for vital, 'blod' for blood, 'Varuus matabolke processas' for various metabolic processes).</p><p><strong>Step 2: Elaborate on each identified role with context from the notes.</strong></p><ul><li><span style='font-weight:bold;'>Energy Production:</span> Carbohydrates are vital for energy production. They serve as the primary source of metabolic fuel for many organisms, including humans, providing immediate energy or being stored for later use.</li><li><span style='font-weight:bold;'>Blood Sugar Regulation:</span> They play a crucial role in maintaining stable blood sugar levels. Glucose, a monosaccharide, is the central molecule in carbohydrate metabolism and its concentration in the blood is tightly regulated.</li><li><span style='font-weight:bold;'>Various Metabolic Processes:</span> Carbohydrates are involved in various metabolic processes. They can act as intermediates in metabolic pathways (as noted later for monosaccharides in glycolysis, gluconeogenesis, and the pentose phosphate pathway) and are essential for the synthesis of other biomolecules.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>A complete answer would articulate these points clearly. Merely listing them without explanation would be insufficient. The notes also briefly mention their role in communication and immune response (via glycolipids and glycoproteins), which could also be included for a more comprehensive answer if one draws from the entire document, though the introductory section focuses on the three main points.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>Carbohydrates hold significant biological importance, as outlined in the notes. Firstly, they are vital for energy production, serving as the body's primary fuel source. Secondly, they are crucial for blood sugar regulation, ensuring stable glucose levels necessary for physiological functions. Thirdly, carbohydrates are involved in various metabolic processes, acting as key intermediates and contributing to the overall metabolic network.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbohydrates hold significant biological importance, as outlined in the notes. Firstly, they are vital for energy production, serving as the body's primary fuel source. Secondly, they are crucial for blood sugar regulation, ensuring stable glucose levels necessary for physiological functions. Thirdly, carbohydrates are involved in various metabolic processes, acting as key intermediates and contributing to the overall metabolic network."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Explain how monosaccharides are classified based on (a) the number of carbon atoms and (b) the type of functional group they possess, providing examples as given in the notes.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Monosaccharide Classification",
+      "Monosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monosaccharide Classification Methods</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Monosaccharide:</em> A single sugar molecule, the basic unit of carbohydrates.<br/><em>Classification:</em> Categorization based on specific structural features.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for an explanation of how monosaccharides are classified based on (a) carbon atom count and (b) functional group type, with examples from the notes.</div><p><strong>Step 1: Address classification by the number of carbon atoms.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They can also be Classified based on the no of Carbon atoms they have e.g. trioses, tetroses, pentoses.\"</span> It also notes that monosaccharides can have <span style='color:var(--orange);font-weight:bold;'>\"3-6 Carbon atoms\"</span> (and n=3-7). This implies a systematic naming convention.</p><ul><li><span style='font-weight:bold;'>Classification by Carbon Atoms:</span> Monosaccharides are classified by the number of carbon atoms in their main chain. If they have three carbons, they are called trioses; four carbons, tetroses; five carbons, pentoses; and six carbons, hexoses. The notes indicate they can have between 3 and 7 carbon atoms (e.g., trioses, tetroses, pentoses).</li></ul><p><strong>Step 2: Address classification by the type of functional group.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"They can also be Classified according to the functional group e.g. Aldehyde and Ketone.\"</span> It also mentions they have <span style='color:var(--orange);font-weight:bold;'>\"either ardehyde or Ketone group.\"</span></p><ul><li><span style='font-weight:bold;'>Classification by Functional Group:</span> Monosaccharides are also categorized by the type of carbonyl functional group they possess. If the functional group is an aldehyde, the monosaccharide is an aldose. If the functional group is a ketone, it is a ketose. Examples given are Aldehyde (for aldoses) and Ketone (for ketoses).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>These two classification systems can be combined (e.g., aldotriose, ketopentose) to provide a more precise description of a monosaccharide, aiding in understanding their structure and reactivity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>Monosaccharides are classified in two primary ways:\n\n(a) **By the number of carbon atoms:** Monosaccharides are named based on the number of carbon atoms they contain. For instance, a three-carbon sugar is a triose, a four-carbon sugar is a tetrose, a five-carbon sugar is a pentose, and a six-carbon sugar is a hexose. The notes explicitly mention examples like trioses, tetroses, and pentoses, and state that monosaccharides typically have 3-7 carbon atoms.\n\n(b) **By the type of functional group:** Monosaccharides can also be classified by the type of carbonyl functional group present. If the sugar contains an aldehyde group, it is an aldose. If it contains a ketone group, it is a ketose. The notes specifically list Aldehyde and Ketone as examples of functional groups for this classification.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monosaccharides are classified in two primary ways:\n\n(a) **By the number of carbon atoms:** Monosaccharides are named based on the number of carbon atoms they contain. For instance, a three-carbon sugar is a triose, a four-carbon sugar is a tetrose, a five-carbon sugar is a pentose, and a six-carbon sugar is a hexose. The notes explicitly mention examples like trioses, tetroses, and pentoses, and state that monosaccharides typically have 3-7 carbon atoms.\n\n(b) **By the type of functional group:** Monosaccharides can also be classified by the type of carbonyl functional group present. If the sugar contains an aldehyde group, it is an aldose. If it contains a ketone group, it is a ketose. The notes specifically list Aldehyde and Ketone as examples of functional groups for this classification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Describe the structural components and key biological roles of Sucrose, as detailed in the provided notes.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sucrose Structure and Function",
+      "Disaccharides",
+      "Sucrose"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sucrose: Structural Components and Biological Roles</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Sucrose:</em> A common disaccharide, widely known as table sugar.<br/><em>Structural Components:</em> The monosaccharide units that make up the disaccharide and their linkage.<br/><em>Biological Roles:</em> The functions and importance of sucrose in living systems and human use.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for a description of sucrose's structural components and its biological roles, based on the notes.</div><p><strong>Step 1: Identify the monosaccharide components and structural characteristics of sucrose.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Surenose is Composed of glucose and Fructose\"</span> and <span style='color:var(--orange);font-weight:bold;'>\"linked together by glycosidec bonol. They are ren-reduang sugar.\"</span> It further specifies the bond as <span style='color:var(--orange);font-weight:bold;'>\"α1,2 B in Sucrose.\"</span> (Note: 'Surenose' for Sucrose, 'bonol' for bond, 'ren-reduang' for non-reducing).</p><ul><li><span style='font-weight:bold;'>Structural Components:</span> Sucrose is a disaccharide composed of two monosaccharide units: glucose and fructose. These units are linked together by an α(1-2)β glycosidic bond. A significant structural feature highlighted is that sucrose is a non-reducing sugar, meaning both anomeric carbons of glucose and fructose are involved in the glycosidic bond.</li></ul><p><strong>Step 2: Identify and describe the biological roles of sucrose.</strong><br>The document lists: <span style='color(--orange);font-weight:bold;'>\"1 Mejor amace of energy in human diet 12 Werful Sweetner in food and beverages. 3 Importante in presentation of forel.\"</span> (Note: 'Mejor amace' for major source, 'Werful Sweetner' for useful sweetener, 'Importante' for importance, 'forel' for food).</p><ul><li><span style='font-weight:bold;'>Major Energy Source:</span> Sucrose serves as a major source of energy in the human diet, being readily hydrolyzed into glucose and fructose for metabolic fuel.</li><li><span style='font-weight:bold;'>Useful Sweetener:</span> It is a widely used and useful sweetener in food and beverages, contributing to taste and palatability.</li><li><span style='font-weight:bold;'>Food Presentation:</span> Sucrose plays an important role in the presentation of food, influencing texture, appearance, and shelf-life, beyond just sweetness.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Sucrose is unique among common disaccharides for being non-reducing, a characteristic that impacts its chemical stability and reactivity. Its widespread use in food highlights its dual role as both a nutrient and a food additive.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>Sucrose is a disaccharide primarily composed of two monosaccharide units: glucose and fructose. These units are joined by an α(1-2)β glycosidic bond. A key structural characteristic is that sucrose is a non-reducing sugar, as both anomeric carbons of its constituent monosaccharides are involved in the glycosidic linkage. <br><br>Regarding its biological roles, sucrose serves as a major source of energy in the human diet. It is also widely recognized as a useful sweetener in various food and beverage products. Furthermore, sucrose plays an important role in the presentation of food, influencing its texture and appearance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sucrose is a disaccharide primarily composed of two monosaccharide units: glucose and fructose. These units are joined by an α(1-2)β glycosidic bond. A key structural characteristic is that sucrose is a non-reducing sugar, as both anomeric carbons of its constituent monosaccharides are involved in the glycosidic linkage. \n\nRegarding its biological roles, sucrose serves as a major source of energy in the human diet. It is also widely recognized as a useful sweetener in various food and beverage products. Furthermore, sucrose plays an important role in the presentation of food, influencing its texture and appearance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Differentiate between Amylose and Amylopectin, the two components of starch, highlighting their structural characteristics and their respective reactions with iodine solution.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Starch Components",
+      "Amylose",
+      "Amylopectin"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amylose vs. Amylopectin</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Starch:</em> A plant storage polysaccharide composed of two main components: amylose and amylopectin.<br/><em>Amylose:</em> The linear component of starch.<br/><em>Amylopectin:</em> The branched component of starch.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks to differentiate between amylose and amylopectin based on their structural characteristics and iodine test results.</div><p><strong>Step 1: Describe Amylose's structural characteristics and iodine reaction.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Amylose is an unbranch Chain, it is astraight long unbranch Pulymer Composed of 200-300 D glucose units herd by α(1,4) glycoside linnage. It is less soluble in water and oo gives a dark blue or black when Combined wooth cocine Solution.\"</span> (Note: typos for unbranched, polymer, held, linkage, with, iodine).</p><ul><li><span style='font-weight:bold;'>Amylose:</span> It is an unbranched, straight, long polymer composed of 200-300 D-glucose units. These units are primarily linked by α(1-4) glycosidic linkages. Amylose is less soluble in water. When combined with iodine solution, it produces a characteristic dark blue or black color.</li></ul><p><strong>Step 2: Describe Amylopectin's structural characteristics and iodine reaction.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Amylopectin: Branched Chan polymer of D-glucose units. Mone Soluble in water corch lodine solution to gives a reddion brovon Colour This Component has two different types of bond α(1, 4) and α(1,6). Branching points (α1,6). Contains few thousand glucose antes that looks lice branched tree.\"</span> (Note: typos for chain, more, with, iodine, reddish brown, units, like).</p><ul><li><span style='font-weight:bold;'>Amylopectin:</span> It is a branched chain polymer of D-glucose units. It is more soluble in water than amylose. Its structure consists of α(1-4) glycosidic bonds for the linear chains and α(1-6) glycosidic bonds at its branching points. It contains a few thousand glucose units, giving it a branched tree-like appearance. When combined with iodine solution, it gives a reddish-brown color.</li></ul><p><strong>Step 3: Summarize the key differences.</strong></p><ul><li><strong>Branching:</strong> Amylose is unbranched; Amylopectin is branched.</li><li><strong>Glucose Units:</strong> Amylose has 200-300 units; Amylopectin has a few thousand units.</li><li><strong>Linkages:</strong> Amylose has only α(1-4) bonds; Amylopectin has both α(1-4) and α(1-6) bonds (for branching).</li><li><strong>Solubility:</strong> Amylose is less soluble; Amylopectin is more soluble.</li><li><strong>Iodine Test:</strong> Amylose gives dark blue/black; Amylopectin gives reddish-brown.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>The structural differences profoundly impact the physical properties and biological functions of these starch components, particularly how easily they can be digested and their role in energy storage.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>Amylose and Amylopectin are the two major components of starch, differing significantly in their structure and properties.\n\n**Amylose:**\n*   **Structural Characteristics:** Amylose is an unbranched, straight, and long polymer composed of 200-300 D-glucose units. These units are linked exclusively by α(1-4) glycosidic bonds. It is characterized as being less soluble in water.\n*   **Iodine Reaction:** When combined with iodine solution, amylose gives a characteristic dark blue or black color.\n\n**Amylopectin:**\n*   **Structural Characteristics:** Amylopectin is a branched chain polymer of D-glucose units, containing a few thousand glucose units. Its structure involves two types of glycosidic bonds: α(1-4) linkages form the linear chains, and α(1-6) linkages occur at the branching points. This highly branched structure gives it a 'branched tree-like' appearance. Amylopectin is more soluble in water than amylose.\n*   **Iodine Reaction:** When combined with iodine solution, amylopectin produces a reddish-brown color.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amylose and Amylopectin are the two major components of starch, differing significantly in their structure and properties.\n\n**Amylose:**\n*   **Structural Characteristics:** Amylose is an unbranched, straight, and long polymer composed of 200-300 D-glucose units. These units are linked exclusively by α(1-4) glycosidic bonds. It is characterized as being less soluble in water.\n*   **Iodine Reaction:** When combined with iodine solution, amylose gives a characteristic dark blue or black color.\n\n**Amylopectin:**\n*   **Structural Characteristics:** Amylopectin is a branched chain polymer of D-glucose units, containing a few thousand glucose units. Its structure involves two types of glycosidic bonds: α(1-4) linkages form the linear chains, and α(1-6) linkages occur at the branching points. This highly branched structure gives it a 'branched tree-like' appearance. Amylopectin is more soluble in water than amylose.\n*   **Iodine Reaction:** When combined with iodine solution, amylopectin produces a reddish-brown color."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Explain why humans cannot digest cellulose, and describe how chitin differs structurally from cellulose and its biological role.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Cellulose Digestion",
+      "Chitin vs Cellulose",
+      "Chitin"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cellulose Indigestibility and Chitin's Structure/Role</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Cellulose:</em> A structural polysaccharide of β-D-glucose units.<br/><em>Chitin:</em> A structural polysaccharide of N-Acetylglucosamine units.<br/><em>Digestion:</em> The enzymatic breakdown of complex molecules into simpler ones.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'>The question asks for an explanation of human inability to digest cellulose, and a description of chitin's structural difference from cellulose and its biological role.</div><p><strong>Step 1: Explain human inability to digest cellulose.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"M/B:B(1,4) band in Cellulose human beings don't have the required enzyme to break the bond so human beings Can't digest Cellulose.\"</span> (Note: typos for bond).</p><ul><li><span style='font-weight:bold;'>Human Indigestibility of Cellulose:</span> Humans cannot digest cellulose because they lack the specific enzyme required to break the β(1-4) glycosidic bonds that link the β-D-glucose units in cellulose. This enzyme, cellulase, is present in herbivores (often produced by symbiotic bacteria in their gut), allowing them to utilize cellulose.</li></ul><p><strong>Step 2: Describe how chitin structurally differs from cellulose.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"The only differena between Chitin and Celluloso 19 the replacement of -OH at C2 with acetylated.\"</span> (Note: typos for difference, is).</p><ul><li><span style='font-weight:bold;'>Structural Difference with Cellulose:</span> Chitin is also a linear homopolysaccharide with β-linkages, similar to cellulose. However, the key structural difference lies at the C2 position of the monosaccharide unit. In chitin, the hydroxyl (-OH) group at C2 of the glucose derivative is replaced by an acetylated amino group, forming N-Acetylglucosamine. Cellulose, in contrast, retains the hydroxyl group at C2 (being composed of D-glucose).</li></ul><p><strong>Step 3: Describe the biological role of chitin.</strong><br>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Chotin 15 the Principal Component of high exoskeleton of arthropods and present in the cell wall of fungs.\"</span> (Note: typos for Chitin, is, fungi).</p><ul><li><span style='font-weight:bold;'>Biological Role of Chitin:</span> Chitin plays a crucial structural role. It is the principal component of the rigid exoskeletons of arthropods (such as insects and crustaceans) and is also a major component of the cell walls of fungi. This provides protection and structural support.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'>Understanding these differences highlights the precise nature of enzyme-substrate specificity in biology and how subtle chemical modifications can lead to significant functional and biological distinctions among polysaccharides.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>Humans cannot digest cellulose because they lack the necessary enzyme (cellulase) to hydrolyze the β(1-4) glycosidic bonds that link the β-D-glucose units in its structure. Unlike humans, herbivores often possess this enzyme, or symbiotic microorganisms that produce it, allowing them to break down cellulose.\n\nChitin structurally differs from cellulose in the monosaccharide unit it is composed of. While cellulose is a polymer of D-glucose units with hydroxyl groups at C2, chitin is a linear homopolysaccharide of N-Acetylglucosamine. The key difference is the replacement of the hydroxyl (-OH) group at the C2 position of the glucose derivative with an acetylated amino group in chitin. Chitin's primary biological role is structural; it is the principal component of the rigid exoskeletons of arthropods (like insects) and forms the cell walls of fungi.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Humans cannot digest cellulose because they lack the necessary enzyme (cellulase) to hydrolyze the β(1-4) glycosidic bonds that link the β-D-glucose units in its structure. Unlike humans, herbivores often possess this enzyme, or symbiotic microorganisms that produce it, allowing them to break down cellulose.\n\nChitin structurally differs from cellulose in the monosaccharide unit it is composed of. While cellulose is a polymer of D-glucose units with hydroxyl groups at C2, chitin is a linear homopolysaccharide of N-Acetylglucosamine. The key difference is the replacement of the hydroxyl (-OH) group at the C2 position of the glucose derivative with an acetylated amino group in chitin. Chitin's primary biological role is structural; it is the principal component of the rigid exoskeletons of arthropods (like insects) and forms the cell walls of fungi."
+    }
+  }
+]
