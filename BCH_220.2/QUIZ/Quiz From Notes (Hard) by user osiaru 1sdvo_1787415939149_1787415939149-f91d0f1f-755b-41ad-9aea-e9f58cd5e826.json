@@ -1,0 +1,149 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Chemistry And Metabolism of Carbohydrates",
+    "code": "BCH 220.2",
+    "session": "Quiz From Notes (Hard) by user osiaru 1sdvo",
+    "kind": "mixed",
+    "topics": [
+      "Salivary Amylase",
+      "Carbohydrate Digestion",
+      "Mouth",
+      "Stomach",
+      "Acidity",
+      "Pancreatic Amylase",
+      "Small Intestine"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which enzyme initiates carbohydrate digestion in the mouth, and approximately what percentage of carbohydrate is initially digested there?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ptyalin; about 5%"
+        },
+        {
+          "type": "string",
+          "content": "Pancreatic amylase; about 10%"
+        },
+        {
+          "type": "string",
+          "content": "Fructokinase; about 25%"
+        },
+        {
+          "type": "string",
+          "content": "α-galactosidase; about 0%"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Salivary Amylase",
+      "Carbohydrate Digestion",
+      "Mouth"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbohydrate Digestion in the Mouth</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Ptyalin (Salivary Amylase):</strong> An enzyme found in saliva that begins the chemical digestion of carbohydrates by breaking down starch into smaller polysaccharides and disaccharides.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the enzyme initiating carbohydrate digestion in the mouth and the approximate percentage of carbohydrates initially digested at this site.</div><p><strong>Step 1: Identify the enzyme.</strong><br/>The document states that in the mouth, an enzyme known as <span style='color:var(--orange);font-weight:bold;'>\"payala or dry base\"</span> (referring to ptyalin or salivary amylase) is present.</p><p><strong>Step 2: Determine the percentage of digestion.</strong><br/>The document further specifies that this enzyme helps to digest <span style='color:var(--orange);font-weight:bold;'>\"about 5%\"</span> of the carbohydrate in the mouth.</p><ul><li>Option 1: <span style='color:var(--cAns);font-weight:bold;'>Ptyalin; about 5%</span>. This option accurately reflects both the enzyme name and the percentage of digestion as stated in the document.</li><li>Option 2: Pancreatic amylase; about 10%. Pancreatic amylase acts in the small intestine, not the mouth, and the percentage is incorrect for mouth digestion.</li><li>Option 3: Fructokinase; about 25%. Fructokinase is involved in fructose metabolism, not carbohydrate digestion in the mouth, and the percentage is incorrect.</li><li>Option 4: α-galactosidase; about 0%. α-galactosidase is involved in breaking down specific carbohydrates (like in legumes), not the initial general carbohydrate digestion in the mouth, and 0% is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The document explicitly links \"payala or dry base\" (ptyalin) to carbohydrate digestion in the mouth and states that it digests \"about 5%\" of carbohydrates. This is a direct recall of information provided.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct answer is Ptyalin; about 5%.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ptyalin; about 5%"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Why does digestion of carbohydrates not occur significantly in the stomach?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Absence of mechanical breakdown."
+        },
+        {
+          "type": "string",
+          "content": "Inhibition of enzymes due to acidic pH."
+        },
+        {
+          "type": "string",
+          "content": "Lack of carbohydrate transporters."
+        },
+        {
+          "type": "string",
+          "content": "Presence of bile salts."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Carbohydrate Digestion",
+      "Stomach",
+      "Acidity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbohydrate Digestion in the Stomach</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Gastric Acidity:</strong> The low pH environment of the stomach, primarily due to hydrochloric acid, which denatures proteins and inactivates many enzymes that function optimally at neutral or alkaline pH.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the reason why significant carbohydrate digestion does not take place in the stomach.</div><p><strong>Step 1: Refer to the document's explanation for stomach digestion.</strong><br/>The document explicitly states, <span style='color:var(--orange);font-weight:bold;'>\"Digestion of Carbohydrates does not occur in the stomach because it's acidic.\"</span></p><ul><li>Option 1: Absence of mechanical breakdown. The document mentions \"mechanical breakdown known as Chewing breaks down\" but this refers to the initial process, not an absence in the stomach as a reason for lack of chemical digestion.</li><li>Option 2: <span style='color:var(--cAns);font-weight:bold;'>Inhibition of enzymes due to acidic pH.</span> This aligns directly with the document's statement that carbohydrate digestion doesn't occur in the stomach \"because it's acidic.\" The acidity denatures or inactivates carbohydrate-digesting enzymes.</li><li>Option 3: Lack of carbohydrate transporters. While transporters are involved in absorption, they are not the primary reason for the lack of chemical digestion in the stomach itself.</li><li>Option 4: Presence of bile salts. Bile salts are involved in fat digestion in the small intestine, not carbohydrate digestion in the stomach.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The reasoning provided in the document for the lack of carbohydrate digestion in the stomach is straightforward: its acidic environment. This directly inactivates enzymes like salivary amylase that entered from the mouth.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct answer is Inhibition of enzymes due to acidic pH.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inhibition of enzymes due to acidic pH."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "In the small intestine, pancreatic amylase primarily functions to break down which type of carbohydrate, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Monosaccharides"
+        },
+        {
+          "type": "string",
+          "content": "Disaccharides"
+        },
+        {
+          "type": "string",
+          "content": "Polysaccharides into disaccharides"
+        },
+        {
+          "type": "string",
+          "content": "Short-chain fatty acids"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pancreatic Amylase",
+      "Small Intestine",
+      "Carbohydrate Digestion"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pancreatic Amylase Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Pancreatic Amylase:</strong> An enzyme secreted by the pancreas into the small intestine, which continues carbohydrate digestion after salivary amylase is inactivated.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the primary function of pancreatic amylase in the small intestine as described in the document.</div><p><strong>Step 1: Locate the information on pancreatic amylase.</strong><br/>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Mo: Pancreatic Amylase is found in the Girall intestine and te hapo to breandoson dissechande\"</span> (referring to 'helps to break down disaccharide').</p><ul><li>Option 1: Monosaccharides. Monosaccharides are the final products of carbohydrate digestion and are absorbed, not broken down further by amylase.</li><li>Option 2: <span style='color:var(--cAns);font-weight:bold;'>Disaccharides.</span> This option directly matches the document's statement that pancreatic amylase \"helps to break down dissechande\". While biochemically pancreatic amylase breaks polysaccharides into disaccharides, the document explicitly states its role as breaking down disaccharides.</li><li>Option 3: Polysaccharides into disaccharides. While this is the actual biochemical function of pancreatic amylase, it is not explicitly stated in this direct manner in the provided text. The text only mentions it helps to break down 'disaccharide'.</li><li>Option 4: Short-chain fatty acids. These are products of bacterial fermentation of undigested carbohydrates in the large intestine, not substrates for pancreatic amylase.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The question specifically asks what the document states. The document's explicit wording for pancreatic amylase's function is \"to breandoson dissechande\".</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct answer is Disaccharides.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Disaccharides"
+    }
+  },
+  {
+    "type": "Question"
+  }
+]
