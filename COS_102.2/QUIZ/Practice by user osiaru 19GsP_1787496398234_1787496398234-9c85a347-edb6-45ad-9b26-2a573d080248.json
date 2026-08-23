@@ -1,0 +1,1588 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Computer",
+    "code": "COS 102.2",
+    "session": "Practice by user osiaru 19GsP",
+    "kind": "mixed",
+    "topics": [
+      "Problem Solving",
+      "Problem Solving Basics",
+      "Problem Solving Steps",
+      "Algorithm Characteristics",
+      "Flowchart Symbols",
+      "Problem Solving Order",
+      "Pseudocode",
+      "Flowcharts",
+      "Python History",
+      "Introduction to Python Programming",
+      "Python Classification",
+      "Python Features",
+      "String Concatenation",
+      "Python Output",
+      "Arithmetic Operators",
+      "Python Operators",
+      "Python Characteristics",
+      "Control Structures Purpose",
+      "Control Structures",
+      "Conditional Statements",
+      "For Loop",
+      "Range Function",
+      "Loop Types",
+      "Loop Control Statements",
+      "Function Definition",
+      "Functions and Modular Programming",
+      "Function Advantages",
+      "Function Return Value",
+      "Function Arguments",
+      "Keyword Arguments",
+      "Documentation",
+      "Built-in Functions",
+      "Modular Programming",
+      "Mutable Data Types",
+      "Data Structures",
+      "List Methods",
+      "List Append",
+      "Set",
+      "Set Operations",
+      "Dictionary Methods",
+      "Lists",
+      "Tuples",
+      "File Handling Functions",
+      "File Handling",
+      "File Modes",
+      "File Handling Errors",
+      "File Writing Methods",
+      "Debugging Definition",
+      "Debugging, Testing, and Applications",
+      "Error Types",
+      "Logical Error",
+      "Exception Handling Keywords",
+      "Exception Handling Output",
+      "Debugging Tools"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "In the context of computer science, what is the primary focus of problem-solving?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Writing executable code exclusively"
+        },
+        {
+          "type": "string",
+          "content": "Analyzing the problem, devising a solution, and implementing it"
+        },
+        {
+          "type": "string",
+          "content": "Committing programming language syntax to memory"
+        },
+        {
+          "type": "string",
+          "content": "Utilizing graphical flowcharts as the sole method"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Problem Solving",
+      "Problem Solving Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Problem Solving in Computer Science</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Problem-solving in computer science is a systematic approach that extends beyond merely writing code. It encompasses understanding the challenge, designing an effective solution, and then implementing that design.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary focus of problem-solving in computer science.</div><p><strong>Step 1: Understand the scope of problem-solving.</strong></p>Problem-solving in computer science is a multi-stage process. It's not just about the final code but the entire journey from identifying the problem to a working solution.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Writing executable code exclusively</span> is too narrow. Coding is a part of implementation, which is just one stage.</li><li><span style='color:var(--orange);font-weight:bold;'>Analyzing the problem, devising a solution, and implementing it</span> accurately captures the comprehensive nature of problem-solving, covering definition, design, and implementation. This is the core of the process.</li><li><span style='color:var(--orange);font-weight:bold;'>Committing programming language syntax to memory</span> is a skill required for coding, but not the primary focus of problem-solving itself. Syntax is a tool, not the goal.</li><li><span style='color:var(--orange);font-weight:bold;'>Utilizing graphical flowcharts as the sole method</span> is also too limited. Flowcharts are a design tool (graphical representation of an algorithm), not the entire problem-solving process, and certainly not the only method.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition of problem-solving often includes stages like understanding, planning (design), and execution (implementation), followed by testing. Option B covers these broad stages effectively.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary focus of problem-solving in computer science is analyzing the problem, devising a solution, and implementing it.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Analyzing the problem, devising a solution, and implementing it"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "What is generally considered the initial stage in the problem-solving process?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Writing the program code"
+        },
+        {
+          "type": "string",
+          "content": "Designing the algorithm"
+        },
+        {
+          "type": "string",
+          "content": "Defining the problem statement"
+        },
+        {
+          "type": "string",
+          "content": "Executing test cases"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Problem Solving Steps",
+      "Problem Solving Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Step in Problem Solving</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The problem-solving process typically starts with a clear understanding of what the problem is. This initial phase is crucial for ensuring that the solution developed addresses the correct issue.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the very first step in problem-solving.</div><p><strong>Step 1: Consider the logical flow of problem-solving.</strong></p>Before you can design a solution, write code, or test, you must know exactly what problem you are trying to solve. An unclear problem definition leads to ineffective or incorrect solutions.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Writing the program code</span> is part of the implementation phase, which comes much later.</li><li><span style='color:var(--orange);font-weight:bold;'>Designing the algorithm</span> is the planning or design phase, which follows understanding the problem.</li><li><span style='color:var(--orange);font-weight:bold;'>Defining the problem statement</span> involves clearly understanding and articulating the problem, which is the foundational first step. Without a clear definition, other steps cannot proceed effectively.</li><li><span style='color:var(--orange);font-weight:bold;'>Executing test cases</span> is the final stage, used to verify the correctness of the implemented solution.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The standard order of problem-solving (as indicated in the document's Q11) is Define → Design → Implement → Test. Therefore, 'Define' is indeed the first step.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The initial stage in the problem-solving process is defining the problem statement.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Defining the problem statement"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following is NOT a desirable characteristic of a well-designed algorithm?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Finiteness, ensuring termination after a specific number of steps"
+        },
+        {
+          "type": "string",
+          "content": "Ambiguity, allowing for multiple interpretations of steps"
+        },
+        {
+          "type": "string",
+          "content": "Effectiveness, where operations are basic and executable"
+        },
+        {
+          "type": "string",
+          "content": "Definiteness, providing clear and unambiguous instructions"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Algorithm Characteristics",
+      "Problem Solving Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of a Good Algorithm</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A good algorithm must possess several characteristics to be reliable and useful. These include Finiteness (terminates), Definiteness (unambiguous steps), Effectiveness (performable operations), and having clear Inputs/Outputs. Ambiguity is the opposite of definiteness and is highly undesirable.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a characteristic that is NOT desirable for a good algorithm.</div><p><strong>Step 1: Recall the standard characteristics of a good algorithm.</strong></p>The four main characteristics are Finiteness, Definiteness, Effectiveness, and having well-defined Inputs and Outputs.<p><strong>Step 2: Evaluate each option against these characteristics.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Finiteness, ensuring termination after a specific number of steps</span> is a core desirable characteristic. An algorithm must eventually stop.</li><li><span style='color:var(--orange);font-weight:bold;'>Ambiguity, allowing for multiple interpretations of steps</span> is the antithesis of a good algorithm. An algorithm's instructions must be definite and unambiguous, meaning each step should have only one clear interpretation. This is therefore NOT a desirable characteristic.</li><li><span style='color:var(--orange);font-weight:bold;'>Effectiveness, where operations are basic and executable</span> is a desirable characteristic. Each step should be simple enough to be carried out.</li><li><span style='color:var(--orange);font-weight:bold;'>Definiteness, providing clear and unambiguous instructions</span> is a desirable characteristic and is directly contradicted by ambiguity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists 'Ambiguity' as NOT a characteristic of a good algorithm in Q4, confirming it's an undesirable trait.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ambiguity, allowing for multiple interpretations of steps, is NOT a desirable characteristic of a well-designed algorithm.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ambiguity, allowing for multiple interpretations of steps"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which specific symbol in a flowchart is designated for representing input and output operations?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Rectangle"
+        },
+        {
+          "type": "string",
+          "content": "Diamond"
+        },
+        {
+          "type": "string",
+          "content": "Parallelogram"
+        },
+        {
+          "type": "string",
+          "content": "Circle"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Flowchart Symbols",
+      "Problem Solving Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Flowchart Symbols: Input/Output</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Flowcharts use standardized symbols to represent different types of operations in an algorithm. Each symbol has a specific meaning.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the flowchart symbol used for input/output operations.</div><p><strong>Step 1: Recall common flowchart symbols and their functions.</strong></p><ul><li>Rectangle: Represents a process or processing step.</li><li>Diamond: Represents a decision point.</li><li>Oval/Terminal: Represents the start or end of a program.</li><li>Parallelogram: Represents input or output operations.</li><li>Circle: Represents a connector, used to link parts of a flowchart.</li></ul><p><strong>Step 2: Evaluate the options based on the recalled functions.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Rectangle</span> is used for processing steps.</li><li><span style='color:var(--orange);font-weight:bold;'>Diamond</span> is used for decision making.</li><li><span style='color:var(--orange);font-weight:bold;'>Parallelogram</span> is specifically used for input/output operations.</li><li><span style='color:var(--orange);font-weight:bold;'>Circle</span> is used as a connector.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Q9 confirms that the parallelogram is the symbol for input/output operations in flowcharts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The parallelogram symbol in a flowchart is designated for representing input and output operations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parallelogram"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which sequence correctly outlines the typical stages of problem-solving in computer science?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Define → Test → Implement → Design"
+        },
+        {
+          "type": "string",
+          "content": "Define → Design → Implement → Test"
+        },
+        {
+          "type": "string",
+          "content": "Design → Implement → Define → Test"
+        },
+        {
+          "type": "string",
+          "content": "Implement → Test → Design → Define"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Problem Solving Order",
+      "Problem Solving Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Problem Solving Stages</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Problem-solving is an iterative and sequential process involving several distinct stages that build upon each other. A common model includes understanding the problem, planning the solution, executing the plan, and verifying the outcome.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the correct order of problem-solving stages.</div><p><strong>Step 1: Identify the logical flow of development.</strong></p>Before any work can begin, the problem must be clearly understood (defined). Once understood, a plan or blueprint (design) is created. This plan is then translated into actionable steps (implement). Finally, the implemented solution must be checked for correctness (test).<p><strong>Step 2: Evaluate the options against this logical flow.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Define → Test → Implement → Design</span> places testing before implementation and design after testing, which is incorrect.</li><li><span style='color:var(--orange);font-weight:bold;'>Define → Design → Implement → Test</span> follows the logical sequence: first understand the problem, then plan the solution, then build it, then check it.</li><li><span style='color:var(--orange);font-weight:bold;'>Design → Implement → Define → Test</span> places design and implementation before definition, which means trying to solve a problem that isn't fully understood.</li><li><span style='color:var(--orange);font-weight:bold;'>Implement → Test → Design → Define</span> starts with implementation and testing, which is highly inefficient without prior definition or design.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Q11 directly confirms this order as the correct sequence for problem-solving.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct sequence outlining the typical stages of problem-solving in computer science is Define → Design → Implement → Test.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Define → Design → Implement → Test"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Explain the main purpose of pseudocode in problem-solving and discuss its advantages over using a graphical flowchart.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pseudocode",
+      "Flowcharts",
+      "Problem Solving Basics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pseudocode vs. Flowcharts</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Both pseudocode and flowcharts are tools for algorithm design. Pseudocode is an informal, high-level description of an algorithm's logic using English-like statements, while flowcharts are graphical representations using symbols.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the main purpose of pseudocode and its advantages over flowcharts.</div><p><strong>Step 1: Define the main purpose of pseudocode.</strong></p><ul><li>Pseudocode's primary purpose is to <span style='color:var(--orange);font-weight:bold;'>describe the logic of an algorithm without being constrained by the syntax rules of any specific programming language</span>. It acts as a bridge between human language and programming language, allowing developers to focus on the algorithmic steps and control flow. It is human-readable and similar to programming structures, making it easier to translate into actual code.</li></ul><p><strong>Step 2: Discuss advantages of pseudocode over flowcharts.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Ease of creation and modification:</span> Pseudocode is text-based, making it quicker to write and edit compared to drawing and redrawing flowchart symbols and connecting lines, especially for complex algorithms.</li><li><span style='color:var(--orange);font-weight:bold;'>Handling complex logic:</span> For very large or intricate algorithms, flowcharts can become sprawling and difficult to follow, requiring multiple pages and connectors. Pseudocode can represent complex logic, nested conditions, and loops more compactly.</li><li><span style='color:var(--orange);font-weight:bold;'>Closer to code:</span> Pseudocode's structure often closely resembles actual programming language syntax (e.g., using 'IF-THEN-ELSE', 'WHILE-DO', 'FOR' loops), making the transition from design to coding more direct and less prone to errors.</li><li><span style='color:var(--orange);font-weight:bold;'>Language independence:</span> While flowcharts are also language-independent, pseudocode allows for a level of detail that prepares for implementation without locking into a specific language, aiding in early-stage design without syntax distractions.</li><li><span style='color:var(--orange);font-weight:bold;'>Readability:</span> For many developers, reading structured English-like text is faster and more intuitive than interpreting a visual diagram, particularly when dealing with intricate logical paths.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common misconception is that flowcharts are always superior due to their visual nature. However, for complex algorithms or when direct translation to code is prioritized, pseudocode offers distinct advantages in practicality and detail, as outlined. Pseudocode allows describing logic without worrying about syntax (Doc Q12) and is human-readable (Doc Q22), whereas flowcharts show logic visually (Doc Q28) but cannot be executed directly (Doc Q18).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The main purpose of pseudocode is to describe the logic of an algorithm in an informal, English-like manner, focusing on the steps without getting bogged down by programming language syntax. Its advantages over flowcharts include easier creation and modification, better handling of complex logic, a closer resemblance to programming code, and often superior readability for intricate algorithms.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The main purpose of pseudocode is to describe the logic of an algorithm in an informal, English-like manner, focusing on the steps without getting bogged down by programming language syntax. Its advantages over flowcharts include easier creation and modification, better handling of complex logic, a closer resemblance to programming code, and often superior readability for intricate algorithms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Who is recognized as the creator of the Python programming language?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bill Gates"
+        },
+        {
+          "type": "string",
+          "content": "Guido van Rossum"
+        },
+        {
+          "type": "string",
+          "content": "James Gosling"
+        },
+        {
+          "type": "string",
+          "content": "Dennis Ritchie"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Python History",
+      "Introduction to Python Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Creator</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Every programming language has an origin and a primary developer or team associated with its creation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the creator of the Python programming language.</div><p><strong>Step 1: Recall the history of Python.</strong></p>Python was conceived in the late 1980s and its implementation began in December 1989 by a specific individual.<p><strong>Step 2: Evaluate the provided options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Bill Gates</span> is known as a co-founder of Microsoft, not Python.</li><li><span style='color:var(--orange);font-weight:bold;'>Guido van Rossum</span> is widely recognized as the creator of Python.</li><li><span style='color:var(--orange);font-weight:bold;'>James Gosling</span> is primarily associated with the creation of the Java programming language.</li><li><span style='color:var(--orange);font-weight:bold;'>Dennis Ritchie</span> is renowned for creating the C programming language and co-creating the Unix operating system.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 2, Question 1 directly asks this and confirms Guido van Rossum as the creator.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Guido van Rossum is recognized as the creator of the Python programming language.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guido van Rossum"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "How is Python primarily classified among programming languages?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Low-level language"
+        },
+        {
+          "type": "string",
+          "content": "Assembly language"
+        },
+        {
+          "type": "string",
+          "content": "High-level, interpreted language"
+        },
+        {
+          "type": "string",
+          "content": "Machine language"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Python Classification",
+      "Introduction to Python Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Language Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Programming languages are categorized based on their level of abstraction from machine code and how they are executed. High-level languages are human-readable, while low-level languages are closer to hardware instructions. Interpreted languages are executed line by line by an interpreter, unlike compiled languages which are fully translated before execution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the classification of Python.</div><p><strong>Step 1: Understand Python's characteristics.</strong></p>Python code is written in a syntax that is easy for humans to read and understand, indicating it's a high-level language. Also, Python programs are typically executed by an interpreter, which translates and runs the code at runtime, as opposed to being compiled into machine code beforehand.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Low-level language</span> refers to languages like Assembly, which are very close to machine code. Python is not this.</li><li><span style='color:var(--orange);font-weight:bold;'>Assembly language</span> is a specific type of low-level language. Python is not this.</li><li><span style='color:var(--orange);font-weight:bold;'>High-level, interpreted language</span> accurately describes Python's characteristics: it's human-readable (high-level) and executed by an interpreter (interpreted).</li><li><span style='color:var(--orange);font-weight:bold;'>Machine language</span> is the lowest level of programming language, consisting of binary instructions that a computer's CPU can directly understand. Python is far more abstract than this.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 2, Question 3 states that Python is classified as a \"High-level, interpreted language.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Python is primarily classified as a high-level, interpreted language.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High-level, interpreted language"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which of the following is NOT a characteristic feature of the Python programming language?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It is easy to learn and read"
+        },
+        {
+          "type": "string",
+          "content": "It is open source, with a community-driven development"
+        },
+        {
+          "type": "string",
+          "content": "It is inherently object-oriented"
+        },
+        {
+          "type": "string",
+          "content": "It is exclusively a compiled language"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Python Features",
+      "Introduction to Python Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Features</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python is known for several distinguishing features that make it popular for various applications. These include its readability, open-source nature, and support for multiple programming paradigms like object-oriented programming.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the option that is NOT a characteristic feature of Python.</div><p><strong>Step 1: Review common Python features.</strong></p>Python is celebrated for its clear syntax (easy to learn), its open-source license, and its support for object-oriented programming, among other paradigms. It is primarily an interpreted language.<p><strong>Step 2: Evaluate each option.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>It is easy to learn and read</span> is a widely acknowledged feature of Python, thanks to its clear, English-like syntax.</li><li><span style='color:var(--orange);font-weight:bold;'>It is open source, with a community-driven development</span> is true, allowing free use and modification.</li><li><span style='color:var(--orange);font-weight:bold;'>It is inherently object-oriented</span> is also true, as Python supports classes and objects, and almost everything in Python is an object.</li><li><span style='color:var(--orange);font-weight:bold;'>It is exclusively a compiled language</span> is INCORRECT. Python is primarily an interpreted language. While it can be compiled to bytecode (e.g., .pyc files), it's not exclusively or purely a compiled language like C++ or Java.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 2, Question 4 lists \"Compiled only\" as NOT a feature of Python, reinforcing that Python is interpreted, not exclusively compiled.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ \"It is exclusively a compiled language\" is NOT a characteristic feature of the Python programming language.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is exclusively a compiled language"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "What is the anticipated output of the following Python code snippet?<br/><code>print(\"Hello\" + \"World\")</code>",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Hello World"
+        },
+        {
+          "type": "string",
+          "content": "HelloWorld"
+        },
+        {
+          "type": "string",
+          "content": "Error"
+        },
+        {
+          "type": "string",
+          "content": "Hello+World"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "String Concatenation",
+      "Python Output"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>String Concatenation in Python</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In Python, the <code>+</code> operator is used for string concatenation when applied to two string operands. It joins them end-to-end without adding any spaces in between.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The code snippet <code>print(\"Hello\" + \"World\")</code>.</div><p><strong>Step 1: Identify the operation.</strong></p>The operation is <code>\"Hello\" + \"World\"</code>. Both operands are strings, and the <code>+</code> operator is used between them.<p><strong>Step 2: Apply string concatenation rules.</strong></p>When <code>+</code> is used with strings, it concatenates them. This means it joins the second string directly to the end of the first string. No implicit spaces are added by the operator itself.<p><strong>Step 3: Determine the result.</strong></p>\"Hello\" concatenated with \"World\" results in \"HelloWorld\". The <code>print()</code> function will then display this resulting string to the console.<p><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Hello World</span> would be the output if there was a space within one of the strings or explicitly added.</li><li><span style='color:var(--orange);font-weight:bold;'>HelloWorld</span> is the correct result of concatenating \"Hello\" and \"World\".</li><li><span style='color:var(--orange);font-weight:bold;'>Error</span> would occur if one of the operands was not a string (e.g., \"Hello\" + 5).</li><li><span style='color:var(--orange);font-weight:bold;'>Hello+World</span> would only happen if the plus sign was also part of the string, e.g., print(\"Hello+\" + \"World\").</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 2, Question 9 asks for the output of this exact expression, confirming \"HelloWorld\".</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The anticipated output of the code snippet is \"HelloWorld\".</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HelloWorld"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which arithmetic operator in Python is specifically designed to perform floor division?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "/"
+        },
+        {
+          "type": "string",
+          "content": "%"
+        },
+        {
+          "type": "string",
+          "content": "//"
+        },
+        {
+          "type": "string",
+          "content": "**"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Arithmetic Operators",
+      "Python Operators"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Floor Division Operator</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python provides various arithmetic operators, each with a specific function. Floor division is an operation that divides two numbers and returns the largest integer less than or equal to the result (i.e., rounds down to the nearest whole number).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the operator for floor division in Python.</div><p><strong>Step 1: Recall Python's arithmetic operators.</strong></p><ul><li><code>/</code>: Standard division (returns a float).</li><li><code>%</code>: Modulus (returns the remainder of a division).</li><li><code>//</code>: Floor division (returns the integer part of the quotient, rounded down).</li><li><code>**</code>: Exponentiation (raises the first number to the power of the second).</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>/</span> performs regular division.</li><li><span style='color:var(--orange);font-weight:bold;'>%</span> performs the modulo operation.</li><li><span style='color:var(--orange);font-weight:bold;'>//</span> is the correct operator for floor division. For example, 7 // 2 results in 3.</li><li><span style='color:var(--orange);font-weight:bold;'>**</span> performs exponentiation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 2, Question 21 directly asks this and identifies <code>//</code> as the floor division operator.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>//</code> operator is specifically designed to perform floor division in Python.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "//"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Explain why Python is considered a high-level, interpreted, and dynamically typed language.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Python Characteristics",
+      "Introduction to Python Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Language Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Programming languages have fundamental properties that define how they are written, processed, and behave regarding data types. These properties include their level (high vs. low), execution model (interpreted vs. compiled), and type system (static vs. dynamic).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an explanation of why Python is considered high-level, interpreted, and dynamically typed.</div><p><strong>Step 1: Explain 'High-level language'.</strong></p><ul><li>Python is a <span style='color:var(--orange);font-weight:bold;'>high-level language</span> because its syntax is close to human language (English) and it abstracts away complex computer architecture details like memory management and CPU registers. Programmers can write code using more human-readable words and constructs rather than machine-specific instructions.</li></ul><p><strong>Step 2: Explain 'Interpreted language'.</strong></p><ul><li>Python is an <span style='color:var(--orange);font-weight:bold;'>interpreted language</span> because its source code is executed line by line at runtime by a Python interpreter, rather than being fully compiled into machine code before execution. This allows for quicker development cycles and easier debugging, though it can sometimes result in slower execution compared to purely compiled languages.</li></ul><p><strong>Step 3: Explain 'Dynamically typed language'.</strong></p><ul><li>Python is a <span style='color:var(--orange);font-weight:bold;'>dynamically typed language</span> because variable types are determined at runtime rather than at compile time. This means you do not need to explicitly declare the data type of a variable before assigning a value to it; the interpreter infers the type based on the value assigned. For example, <code>x = 10</code> makes <code>x</code> an integer, and later <code>x = \"hello\"</code> changes its type to a string without explicit type declarations.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> These three characteristics are fundamental to Python's design and differentiate it from other languages. The document supports these descriptions, indicating Python is a 'High-level, interpreted language' (Doc Q3) and that its variables 'Are dynamically typed' (Doc Q20).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Python is considered a high-level language because its syntax is human-readable and it abstracts away complex machine details. It is an interpreted language because its code is executed line by line at runtime by an interpreter. Lastly, it is dynamically typed because variable types are determined and can change during runtime, without requiring explicit type declarations by the programmer.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Python is considered a high-level language because its syntax is human-readable and it abstracts away complex machine details. It is an interpreted language because its code is executed line by line at runtime by an interpreter. Lastly, it is dynamically typed because variable types are determined and can change during runtime, without requiring explicit type declarations by the programmer."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is the primary function of control structures in Python programming?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To allocate and manage memory size efficiently"
+        },
+        {
+          "type": "string",
+          "content": "To dictate the order in which program instructions are executed"
+        },
+        {
+          "type": "string",
+          "content": "To identify and remove errors from code"
+        },
+        {
+          "type": "string",
+          "content": "To interface with and manage hardware devices"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Control Structures Purpose",
+      "Control Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Control Structures</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Control structures are fundamental programming constructs that alter the normal sequential flow of execution in a program. They allow for decisions (selection), repetition (iteration), and other flow modifications.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary function of control structures in Python.</div><p><strong>Step 1: Consider the role of control structures in programming logic.</strong></p>Without control structures, a program would execute instructions strictly from top to bottom, one after another. Control structures enable programs to make choices, repeat actions, or jump to different parts of the code, making complex logic possible.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>To allocate and manage memory size efficiently</span> is typically handled by the operating system or runtime environment, not directly by control structures.</li><li><span style='color:var(--orange);font-weight:bold;'>To dictate the order in which program instructions are executed</span> is precisely what control structures like <code>if</code> statements and loops (<code>for</code>, <code>while</code>) do. They control the flow of execution.</li><li><span style='color:var(--orange);font-weight:bold;'>To identify and remove errors from code</span> is the purpose of debugging and testing, not control structures.</li><li><span style='color:var(--orange);font-weight:bold;'>To interface with and manage hardware devices</span> is usually done through drivers, operating system APIs, or specific hardware-level programming, not general control structures.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 3, Question 1 states that control structures are used to \"Control program execution flow,\" which aligns directly with dictating the order of instructions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary function of control structures in Python programming is to dictate the order in which program instructions are executed.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To dictate the order in which program instructions are executed"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which keyword is specifically used in Python to manage multiple conditional paths, acting as an 'else if' equivalent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "elseif"
+        },
+        {
+          "type": "string",
+          "content": "elif"
+        },
+        {
+          "type": "string",
+          "content": "else if"
+        },
+        {
+          "type": "string",
+          "content": "case"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Conditional Statements",
+      "Control Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Multiple Conditional Keyword</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In programming, it's common to have more than two possible outcomes for a condition. Languages provide specific syntax for handling multiple, mutually exclusive conditions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the Python keyword used for multiple conditions, analogous to 'else if'.</div><p><strong>Step 1: Recall Python's syntax for conditional statements.</strong></p>Python uses <code>if</code> for the initial condition and <code>else</code> for the fallback when no <code>if</code> (or subsequent) condition is met. For intermediate conditions, a specific keyword is used.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>elseif</span> is a common keyword in some languages (e.g., PHP, Visual Basic) but not Python.</li><li><span style='color:var(--orange);font-weight:bold;'>elif</span> is the Python-specific keyword for handling multiple conditions in an <code>if-else</code> ladder. It's a contraction of 'else if'.</li><li><span style='color:var(--orange);font-weight:bold;'>else if</span> is how it's written in languages like C++, Java, JavaScript, but not Python.</li><li><span style='color:var(--orange);font-weight:bold;'>case</span> is used in `switch-case` statements in other languages, a construct that Python does not have in the same form (though `match-case` was introduced in Python 3.10, it's not the 'else if' equivalent).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 3, Question 7 explicitly states that `elif` is the keyword for multiple conditions in Python.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The keyword specifically used in Python to manage multiple conditional paths, acting as an 'else if' equivalent, is <code>elif</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "elif"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What will be the output of the following Python loop construct?<br/><code>for i in range(3):</code><br/><code>    print(i)</code>",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1 2 3"
+        },
+        {
+          "type": "string",
+          "content": "0 1 2"
+        },
+        {
+          "type": "string",
+          "content": "0 1 2 3"
+        },
+        {
+          "type": "string",
+          "content": "Error"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "For Loop",
+      "Range Function",
+      "Python Output"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python <code>range()</code> Function and <code>for</code> Loop</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <code>range(n)</code> function in Python generates a sequence of numbers starting from 0 by default, up to (but not including) <code>n</code>. A <code>for</code> loop iterates over each item in this sequence.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The code snippet:<br/><code>for i in range(3):</code><br/><code>    print(i)</code></div><p><strong>Step 1: Understand <code>range(3)</code>.</strong></p><code>range(3)</code> will generate a sequence of integers starting from 0 and going up to, but not including, 3. So, the sequence will be <span style='color:var(--orange);font-weight:bold;'>0, 1, 2</span>.<p><strong>Step 2: Trace the <code>for</code> loop execution.</strong></p>The <code>for i in range(3):</code> loop will iterate three times:<ul><li><strong>Iteration 1:</strong> <code>i</code> is 0. <code>print(0)</code> outputs \"0\".</li><li><strong>Iteration 2:</strong> <code>i</code> is 1. <code>print(1)</code> outputs \"1\".</li><li><strong>Iteration 3:</strong> <code>i</code> is 2. <code>print(2)</code> outputs \"2\".</li></ul>After <code>i</code> takes the value 2, there are no more numbers in the sequence generated by <code>range(3)</code>, so the loop terminates.<p><strong>Step 3: Determine the final output.</strong></p>The values printed sequentially are 0, 1, and 2.<p><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>1 2 3</span> is incorrect as <code>range()</code> starts from 0 by default and excludes the end value.</li><li><span style='color:var(--orange);font-weight:bold;'>0 1 2</span> correctly reflects the sequence generated by <code>range(3)</code>.</li><li><span style='color:var(--orange);font-weight:bold;'>0 1 2 3</span> is incorrect as 3 is exclusive in <code>range(3)</code>.</li><li><span style='color:var(--orange);font-weight:bold;'>Error</span> is incorrect; this is a valid Python construct.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 3, Question 18 presents this exact code and confirms the output is \"0 1 2\".</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The output of the Python loop construct will be \"0 1 2\".</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0 1 2"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Which type of loop in Python has the characteristic that it might not execute its block of code even once if the condition is initially false?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "for loop"
+        },
+        {
+          "type": "string",
+          "content": "while loop"
+        },
+        {
+          "type": "string",
+          "content": "do-while loop"
+        },
+        {
+          "type": "string",
+          "content": "nested loop"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Loop Types",
+      "Control Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pre-test Loop Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Loops are classified by when their condition is checked. A pre-test loop checks the condition *before* executing the loop body, while a post-test loop checks it *after*. If the condition of a pre-test loop is false from the start, the loop body will never run.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks which loop type may never execute.</div><p><strong>Step 1: Understand how different loop types handle conditions.</strong></p><ul><li>A <code>for</code> loop iterates over a sequence; if the sequence is empty, the loop won't run.</li><li>A <code>while</code> loop checks its condition at the beginning of each iteration. If the condition is false initially, the loop body is skipped.</li><li>A <code>do-while</code> loop (not directly available in Python) executes its body at least once, then checks the condition.</li><li>A nested loop is simply a loop inside another loop; its execution depends on the outer loop and its own condition.</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>for loop</span> can indeed never execute if the iterable it's given is empty (e.g., <code>for i in []:</code>).</li><li><span style='color:var(--orange);font-weight:bold;'>while loop</span> explicitly checks its condition before the first execution of its body. If <code>while False:</code> is encountered, the body will never run.</li><li><span style='color:var(--orange);font-weight:bold;'>do-while loop</span> (conceptually) guarantees at least one execution because its condition is checked at the end. Python does not have a direct `do-while` construct.</li><li><span style='color:var(--orange);font-weight:bold;'>nested loop</span> behavior depends on the conditions of both inner and outer loops, but the core characteristic of potentially never executing comes from the individual loop types (<code>for</code> or <code>while</code>) themselves.</li></ul>The question implies a general characteristic across loop types. Both `for` and `while` loops in Python are pre-test loops and therefore *may never execute*. However, the `while` loop is the most direct example of a conditional loop that explicitly tests at the beginning. If the intent is to highlight the explicit pre-test nature, `while` is often the canonical answer. The document's Q22 states \"Which of the following loops may never execute?\" and gives \"while loop\" as the answer, making it the most direct correct option in the context of the provided material.<div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 3, Question 22 identifies the \"while loop\" as a loop type that \"may never execute.\" While a `for` loop over an empty sequence also fits, the `while` loop is the standard example of a pre-test loop.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>while</code> loop in Python has the characteristic that it might not execute its block of code even once if the condition is initially false.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "while loop"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Which keyword in Python is specifically used to skip the remainder of the current iteration of a loop and proceed to the next iteration?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "skip"
+        },
+        {
+          "type": "string",
+          "content": "next"
+        },
+        {
+          "type": "string",
+          "content": "continue"
+        },
+        {
+          "type": "string",
+          "content": "pass"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Loop Control Statements",
+      "Control Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python <code>continue</code> Statement</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python provides control statements like <code>break</code>, <code>continue</code>, and <code>pass</code> to modify the standard flow of loops. Each serves a distinct purpose.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the keyword that skips the rest of the current loop iteration and moves to the next.</div><p><strong>Step 1: Recall the functions of loop control statements.</strong></p><ul><li><code>break</code>: Terminates the loop entirely.</li><li><code>continue</code>: Skips the rest of the current iteration and proceeds to the next iteration of the loop.</li><li><code>pass</code>: A null operation; it does nothing when executed and is used as a placeholder.</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>skip</span> is not a Python keyword.</li><li><span style='color:var(--orange);font-weight:bold;'>next</span> is a built-in function to retrieve the next item from an iterator, not a loop control keyword.</li><li><span style='color:var(--orange);font-weight:bold;'>continue</span> precisely matches the description: it jumps to the top of the loop for the next iteration.</li><li><span style='color:var(--orange);font-weight:bold;'>pass</span> does nothing and simply acts as a placeholder.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 3, Question 16 confirms that `continue` is the keyword used to skip the current iteration of a loop.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The keyword in Python specifically used to skip the remainder of the current iteration of a loop and proceed to the next iteration is <code>continue</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "continue"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Discuss the purpose and usage of <code>break</code>, <code>continue</code>, and <code>pass</code> statements within Python loops. Provide a small example or scenario for each.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Loop Control Statements",
+      "Control Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Loop Control Statements: break, continue, pass</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python's loop control statements—<code>break</code>, <code>continue</code>, and <code>pass</code>—provide mechanisms to alter the normal execution flow of loops (<code>for</code> and <code>while</code>) based on specific conditions or design needs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an explanation of the purpose and usage of <code>break</code>, <code>continue</code>, and <code>pass</code> within Python loops, including an example for each.</div><p><strong>Step 1: Explain the <code>break</code> statement.</strong></p><ul><li><strong>Purpose:</strong> The <code>break</code> statement is used to <span style='color:var(--orange);font-weight:bold;'>terminate the current loop prematurely</span>. When <code>break</code> is encountered, the loop immediately stops, and program execution continues from the statement immediately following the loop.</li><li><strong>Usage Example:</strong> Finding the first occurrence of an item.Imagine searching for a number in a list: <br/><code>numbers = [1, 5, 8, 12, 15]</code><br/><code>target = 12</code><br/><code>for num in numbers:</code><br/><code>    if num == target:</code><br/><code>        print(f\"Found {target}\")</code><br/><code>        break # Stop the loop once found</code><br/><code>else:</code><br/><code>    print(f\"{target} not found\")</code></li></ul><p><strong>Step 2: Explain the <code>continue</code> statement.</strong></p><ul><li><strong>Purpose:</strong> The <code>continue</code> statement is used to <span style='color:var(--orange);font-weight:bold;'>skip the rest of the code within the current loop iteration</span> and immediately proceed to the next iteration. It does not terminate the loop entirely.</li><li><strong>Usage Example:</strong> Processing only even numbers in a range: <br/><code>for i in range(5):</code><br/><code>    if i % 2 != 0:</code><br/><code>        continue # Skip odd numbers</code><br/><code>    print(f\"{i} is an even number\")</code><br/>This would print: \"0 is an even number\", \"2 is an even number\", \"4 is an even number\".</li></ul><p><strong>Step 3: Explain the <code>pass</code> statement.</strong></p><ul><li><strong>Purpose:</strong> The <code>pass</code> statement is a <span style='color:var(--orange);font-weight:bold;'>null operation</span>; it does nothing when executed. It's primarily used as a placeholder where syntactically some code is required, but you don't want any command or code to execute. This can be useful during development when you're structuring your code but haven't implemented the logic yet.</li><li><strong>Usage Example:</strong> Defining an empty loop for future implementation: <br/><code>for i in range(3):</code><br/><code>    # TODO: Implement some logic here later</code><br/><code>    pass # Placeholder for future code</code><br/><code>print(\"Loop finished\")</code><br/>This code will run without error and simply print \"Loop finished\" after iterating three times without doing anything inside the loop.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common error is confusing <code>pass</code> with <code>continue</code> or <code>break</code>. <code>pass</code> has no effect on loop flow, whereas <code>continue</code> skips the current iteration and <code>break</code> terminates the entire loop. The document refers to each of these keywords and their distinct functionalities (Doc Q15, Q16, Q17).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>break</code> statement terminates the loop entirely, allowing execution to resume after the loop. The <code>continue</code> statement skips the current iteration of the loop, moving to the next. The <code>pass</code> statement is a null operation, serving as a placeholder where code is syntactically required but no action is desired, and it does not affect loop flow.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The `break` statement terminates the loop entirely, allowing execution to resume after the loop. The `continue` statement skips the current iteration of the loop, moving to the next. The `pass` statement is a null operation, serving as a placeholder where code is syntactically required but no action is desired, and it does not affect loop flow."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Which keyword is utilized in Python to initiate the definition of a new function?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "function"
+        },
+        {
+          "type": "string",
+          "content": "def"
+        },
+        {
+          "type": "string",
+          "content": "define"
+        },
+        {
+          "type": "string",
+          "content": "fun"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Function Definition",
+      "Functions and Modular Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Function Definition Keyword</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In Python, functions are blocks of reusable code designed to perform a specific task. To declare a function, a specific keyword is used, followed by the function name, parentheses for parameters, and a colon.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the keyword used to define a function in Python.</div><p><strong>Step 1: Recall Python's function syntax.</strong></p>The standard way to define a function in Python is <code>keyword function_name(parameters):</code>.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>function</span> is used in JavaScript and other languages, but not Python.</li><li><span style='color:var(--orange);font-weight:bold;'>def</span> is the correct keyword in Python for defining (defining) functions.</li><li><span style='color:var(--orange);font-weight:bold;'>define</span> is not a Python keyword for function definition.</li><li><span style='color:var(--orange);font-weight:bold;'>fun</span> is not a Python keyword.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 4, Question 1 confirms that `def` is the keyword used to define a function.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The keyword utilized in Python to initiate the definition of a new function is <code>def</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "def"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which of the following is NOT typically considered an advantage of employing functions in programming?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Enhances code reusability across different parts of a program"
+        },
+        {
+          "type": "string",
+          "content": "Facilitates modular design, breaking down complex problems"
+        },
+        {
+          "type": "string",
+          "content": "Simplifies the process of identifying and fixing bugs"
+        },
+        {
+          "type": "string",
+          "content": "Always leads to significantly slower program execution"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Function Advantages",
+      "Functions and Modular Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Advantages of Functions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Functions are essential for good programming practices as they offer numerous benefits for code organization, maintenance, and efficiency.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an option that is NOT an advantage of using functions.</div><p><strong>Step 1: Recall the common benefits of using functions.</strong></p>Functions help avoid redundant code, make programs easier to understand and manage, and isolate problems, thereby aiding debugging.<p><strong>Step 2: Evaluate each option.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Enhances code reusability across different parts of a program</span> is a major advantage. Once a function is defined, it can be called multiple times from different parts of the code.</li><li><span style='color:var(--orange);font-weight:bold;'>Facilitates modular design, breaking down complex problems</span> is another key benefit. Functions allow a large problem to be decomposed into smaller, manageable sub-problems.</li><li><span style='color:var(--orange);font-weight:bold;'>Simplifies the process of identifying and fixing bugs</span> is true because functions localize code, making it easier to pinpoint the source of an error within a specific function rather than searching through an entire program.</li><li><span style='color:var(--orange);font-weight:bold;'>Always leads to significantly slower program execution</span> is generally FALSE. While function calls do have a small overhead, the performance impact is often negligible for typical applications, and the benefits of modularity and readability usually outweigh this minor overhead. In many cases, functions can even lead to more optimized or clearer algorithms, indirectly improving performance or making optimization easier.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 4, Question 3 lists \"Slower execution always\" as NOT an advantage of using functions, reinforcing that Python is interpreted, not exclusively compiled.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ \"Always leads to significantly slower program execution\" is NOT typically considered an advantage of employing functions in programming.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Always leads to significantly slower program execution"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "What value does a Python function implicitly return if no <code>return</code> statement is explicitly provided?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "None"
+        },
+        {
+          "type": "string",
+          "content": "False"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Function Return Value",
+      "Functions and Modular Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Default Function Return Value in Python</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In Python, every function, by design, returns a value. If the programmer does not explicitly specify a return value using the <code>return</code> statement, Python automatically returns a special built-in constant.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the implicit return value of a Python function without an explicit <code>return</code> statement.</div><p><strong>Step 1: Understand Python's handling of function returns.</strong></p>Unlike some other languages where a function might truly return nothing (void), Python functions always return an object. If no <code>return</code> statement is reached or if <code>return</code> is used without an argument, Python returns a specific singleton value.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>0</span> is a numerical value, not a default return for all functions.</li><li><span style='color:var(--orange);font-weight:bold;'>None</span> is Python's equivalent to null or nothingness. It's a special data type of the class <code>NoneType</code> and is the default return value for functions that don't explicitly return anything.</li><li><span style='color:var(--orange);font-weight:bold;'>False</span> is a boolean value, not the general default return.</li><li><span style='color:var(--orange);font-weight:bold;'>Undefined</span> is a concept from other languages (like JavaScript) but not a specific return value in Python in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 4, Question 9 confirms that 'None' is the default return value of a function without a return statement.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Python function implicitly returns <code>None</code> if no <code>return</code> statement is explicitly provided.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which symbol is typically prefixed to a parameter name in a Python function definition to indicate that it accepts an arbitrary number of keyword arguments?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "*"
+        },
+        {
+          "type": "string",
+          "content": "**"
+        },
+        {
+          "type": "string",
+          "content": "&"
+        },
+        {
+          "type": "string",
+          "content": "#"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Function Arguments",
+      "Keyword Arguments"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Arbitrary Keyword Arguments in Python</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python functions offer flexible argument handling, including the ability to accept an unspecified number of arguments. This includes arbitrary positional arguments (<code>*args</code>) and arbitrary keyword arguments (<code>**kwargs</code>).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the symbol used for arbitrary keyword arguments.</div><p><strong>Step 1: Recall Python's syntax for variable-length arguments.</strong></p><ul><li>To accept an arbitrary number of positional arguments (collected into a tuple), one uses a single asterisk (<code>*</code>) before the parameter name (e.g., <code>*args</code>).</li><li>To accept an arbitrary number of keyword arguments (collected into a dictionary), one uses a double asterisk (<code>**</code>) before the parameter name (e.g., <code>**kwargs</code>).</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>*</span> is used for arbitrary positional arguments.</li><li><span style='color:var(--orange);font-weight:bold;'>**</span> is the correct symbol for arbitrary keyword arguments, collecting them into a dictionary.</li><li><span style='color:var(--orange);font-weight:bold;'>&</span> is a bitwise AND operator and not used for argument packing.</li><li><span style='color:var(--orange);font-weight:bold;'>#</span> is used for comments in Python.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 4, Question 15 directly asks for the symbol used for arbitrary keyword arguments, confirming <code>**</code>.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>**</code> symbol is typically prefixed to a parameter name in a Python function definition to indicate that it accepts an arbitrary number of keyword arguments.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "**"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which built-in Python function is commonly used to access the documentation string (docstring) or help information associated with an object, such as a function or module?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "doc()"
+        },
+        {
+          "type": "string",
+          "content": "help()"
+        },
+        {
+          "type": "string",
+          "content": "info()"
+        },
+        {
+          "type": "string",
+          "content": "show()"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Documentation",
+      "Built-in Functions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Documentation Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python has excellent support for self-documentation through docstrings and a built-in mechanism to retrieve this information, making it easy for users to understand how functions, classes, and modules work.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the built-in function to access documentation.</div><p><strong>Step 1: Recall Python's introspection capabilities.</strong></p>Python provides several built-in functions for inspecting objects and their properties. One specific function is dedicated to displaying help documentation.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>doc()</span> is not a standard built-in function for this purpose. Docstrings themselves are accessed via <code>__doc__</code> attribute, but not a function `doc()`.</li><li><span style='color:var(--orange);font-weight:bold;'>help()</span> is the correct built-in function in Python used to invoke the help system, which can display documentation for modules, functions, classes, keywords, etc.</li><li><span style='color:var(--orange);font-weight:bold;'>info()</span> is not a standard built-in function for documentation.</li><li><span style='color:var(--orange);font-weight:bold;'>show()</span> is not a standard built-in function for documentation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 4, Question 26 directly asks which built-in function returns documentation and confirms `help()` as the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The built-in Python function commonly used to access the documentation string (docstring) or help information is <code>help()</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "help()"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Explain the concept of modular programming in Python. How do modules contribute to code organization and reusability, and what are the two primary ways to include modules or their components in a Python script?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Modular Programming",
+      "Functions and Modular Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Modular Programming and Python Modules</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Modular programming is a software design technique that emphasizes separating a program's functionality into independent, interchangeable modules. In Python, these modules are typically `.py` files containing functions, classes, and variables.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to explain modular programming, its contribution to code organization and reusability, and the primary ways to include modules in Python.</div><p><strong>Step 1: Define Modular Programming.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Modular programming</span> is a technique where a large program is broken down into smaller, independent, and self-contained units called modules. Each module typically handles a specific part of the program's overall functionality. This approach makes complex software more manageable, understandable, and easier to maintain.</li></ul><p><strong>Step 2: Explain how modules contribute to code organization and reusability.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Code Organization:</span> By dividing a program into modules, related functions, classes, and data are grouped together. This creates a clear structure, making the codebase easier to navigate and understand. It reduces complexity by allowing developers to focus on one logical piece of the system at a time.</li><li><span style='color:var(--orange);font-weight:bold;'>Code Reusability:</span> Modules encapsulate functionalities that can be used in different parts of the same program or even in entirely different programs without having to rewrite the code. Once a module is created and tested, its components can be imported and utilized wherever needed, saving development time and reducing the chance of errors. For example, a module for mathematical operations can be reused across various projects requiring those calculations.</li></ul><p><strong>Step 3: Describe the two primary ways to include modules or their components in a Python script.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>1. Using the <code>import</code> statement:</span> This method imports the entire module, making its contents available under the module's namespace. You then access components using the dot notation (e.g., <code>module_name.function_name()</code>).<br/>   <strong>Example:</strong> <code>import math</code> then <code>math.sqrt(16)</code></li><li><span style='color:var(--orange);font-weight:bold;'>2. Using the <code>from...import</code> statement:</span> This method allows you to import specific components (functions, classes, variables) directly into the current namespace, meaning you can use them without prefixing them with the module name. You can also import all components using <code>from module_name import *</code> (though generally discouraged for clarity).<br/>   <strong>Example:</strong> <code>from math import sqrt</code> then <code>sqrt(16)</code></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Q29 defines modularization as breaking down complex problems, and Q19 and Q21 discuss `import` and `from...import` as ways to include modules, confirming the core elements of the answer. Functions themselves also contribute to reusability, forming the building blocks of modules.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Modular programming involves breaking down a large program into smaller, independent, and reusable units called modules, each handling a specific functionality. This approach enhances code organization by structuring the codebase into logical, manageable parts, making it easier to understand and maintain. It promotes code reusability as functionalities encapsulated within modules can be imported and utilized in different programs or parts of the same program without rewriting them. The two primary ways to include modules in Python are using the `import module_name` statement to access the module's contents via its namespace, and using the `from module_name import component_name` statement to directly bring specific components into the current namespace.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Modular programming involves breaking down a large program into smaller, independent, and reusable units called modules, each handling a specific functionality. This approach enhances code organization by structuring the codebase into logical, manageable parts, making it easier to understand and maintain. It promotes code reusability as functionalities encapsulated within modules can be imported and utilized in different programs or parts of the same program without rewriting them. The two primary ways to include modules in Python are using the `import module_name` statement to access the module's contents via its namespace, and using the `from module_name import component_name` statement to directly bring specific components into the current namespace."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Which of the following data types in Python is characterized as mutable?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "List"
+        },
+        {
+          "type": "string",
+          "content": "Tuple"
+        },
+        {
+          "type": "string",
+          "content": "String"
+        },
+        {
+          "type": "string",
+          "content": "Integer"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mutable Data Types",
+      "Data Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mutable Data Types in Python</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In Python, data types are broadly categorized as either mutable or immutable. A mutable object's state can be modified after it is created, while an immutable object's state cannot be changed once it's created.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a mutable data type among the given options.</div><p><strong>Step 1: Understand the difference between mutable and immutable.</strong></p><ul><li><strong>Mutable:</strong> Can be changed after creation (e.g., adding, removing, or modifying elements). Changes happen in place.</li><li><strong>Immutable:</strong> Cannot be changed after creation. Any \"modification\" actually creates a new object.</li></ul><p><strong>Step 2: Evaluate each option based on mutability.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>List:</span> Lists are ordered collections of items that are <span style='color:var(--orange);font-weight:bold;'>mutable</span>. You can add, remove, or modify elements in a list after it's created.</li><li><span style='color:var(--orange);font-weight:bold;'>Tuple:</span> Tuples are ordered collections similar to lists but are <span style='color:var(--orange);font-weight:bold;'>immutable</span>. Once a tuple is created, its elements cannot be changed.</li><li><span style='color:var(--orange);font-weight:bold;'>String:</span> Strings are sequences of characters that are <span style='color:var(--orange);font-weight:bold;'>immutable</span>. Operations that seem to modify a string (like concatenation or replacing characters) actually create a new string.</li><li><span style='color:var(--orange);font-weight:bold;'>Integer:</span> Integers (and other numeric types like floats) are <span style='color:var(--orange);font-weight:bold;'>immutable</span>. When you perform an operation like <code>x = x + 1</code>, a new integer object is created and assigned to <code>x</code>.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 5, Question 1 directly asks for a mutable data type and provides 'List' as the correct answer, while Q2 indicates 'Tuple' is immutable.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ List is a mutable data type in Python.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "List"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Consider the Python code:<br/><code>x = [1, 2, 3]</code><br/><code>x.append([4, 5])</code><br/><code>print(x)</code><br/>What will be the output?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "[1, 2, 3, 4, 5]"
+        },
+        {
+          "type": "string",
+          "content": "[1, 2, 3, [4, 5]]"
+        },
+        {
+          "type": "string",
+          "content": "[1, 2, 3]"
+        },
+        {
+          "type": "string",
+          "content": "Error"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "List Methods",
+      "List Append"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python List <code>append()</code> Method</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <code>append()</code> method in Python lists adds its entire argument as a single element to the end of the list. If the argument is another list, it appends that list *as a nested list*, not its individual elements.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The code snippet:<br/><code>x = [1, 2, 3]</code><br/><code>x.append([4, 5])</code><br/><code>print(x)</code></div><p><strong>Step 1: Initialize the list.</strong></p>Initially, <code>x</code> is <code>[1, 2, 3]</code>.<p><strong>Step 2: Apply the <code>append()</code> method.</strong></p>The statement <code>x.append([4, 5])</code> means that the entire list <code>[4, 5]</code> will be added as one single element to the end of list <code>x</code>.<p><strong>Step 3: Determine the resulting list.</strong></p>After the append operation, <code>x</code> will become <code>[1, 2, 3, [4, 5]]</code>. The last element is itself a list.<p><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>[1, 2, 3, 4, 5]</span> would be the result if <code>extend()</code> was used instead of <code>append()</code> (i.e., `x.extend([4, 5])`).</li><li><span style='color:var(--orange);font-weight:bold;'>[1, 2, 3, [4, 5]]</span> correctly shows the nested list being appended as a single element.</li><li><span style='color:var(--orange);font-weight:bold;'>[1, 2, 3]</span> is the original list, so it's incorrect after the append operation.</li><li><span style='color:var(--orange);font-weight:bold;'>Error</span> is incorrect; this is a valid Python operation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 5, Question 5 presents this exact code and confirms the output `[1,2,3,[4,5]]`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The output of the Python code snippet will be <code>[1, 2, 3, [4, 5]]</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "[1, 2, 3, [4, 5]]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which Python data structure is designed to store an unordered collection of unique elements?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "List"
+        },
+        {
+          "type": "string",
+          "content": "Tuple"
+        },
+        {
+          "type": "string",
+          "content": "Set"
+        },
+        {
+          "type": "string",
+          "content": "String"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Set",
+      "Data Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Data Structure for Unique Elements</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python offers various built-in data structures, each optimized for different purposes based on properties like order, mutability, and whether they allow duplicate elements.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the data structure that stores unique elements and is unordered.</div><p><strong>Step 1: Review characteristics of each data structure.</strong></p><ul><li><strong>List:</strong> Ordered, mutable, allows duplicates.</li><li><strong>Tuple:</strong> Ordered, immutable, allows duplicates.</li><li><strong>Set:</strong> Unordered, mutable (elements can be added/removed, but set itself is mutable), *does NOT allow duplicates*.</li><li><strong>String:</strong> Ordered, immutable, allows duplicates (characters).</li></ul><p><strong>Step 2: Match the characteristics to the options.</strong></p>The key requirements are \"unique elements\" and \"unordered\". Only the `Set` meets both criteria.<p><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>List</span> allows duplicates.</li><li><span style='color:var(--orange);font-weight:bold;'>Tuple</span> allows duplicates.</li><li><span style='color:var(--orange);font-weight:bold;'>Set</span> strictly stores unique elements and is inherently unordered (in Python versions before 3.7, where order of insertion was not guaranteed; even in modern Python, sets are not ordered in the sense of supporting indexing like lists).</li><li><span style='color:var(--orange);font-weight:bold;'>String</span> allows duplicate characters.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 5, Question 15 directly asks which data structure does NOT allow duplicates, with 'Set' being the answer. This confirms `Set`'s unique element property. The document also implicitly indicates unordered nature by not discussing indexing for sets.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Set data structure in Python is designed to store an unordered collection of unique elements.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Set"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Which set operation operator yields the common elements found in two given sets?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "|"
+        },
+        {
+          "type": "string",
+          "content": "&"
+        },
+        {
+          "type": "string",
+          "content": "-"
+        },
+        {
+          "type": "string",
+          "content": "^"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Set Operations",
+      "Data Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Set Intersection Operator</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python sets support mathematical set operations like union, intersection, difference, and symmetric difference, each represented by a specific operator or method.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the operator that gives common elements of two sets.</div><p><strong>Step 1: Recall the different set operators and their meanings.</strong></p><ul><li><code>|</code> (pipe): Union – all unique elements from both sets.</li><li><code>&</code> (ampersand): Intersection – only elements common to both sets.</li><li><code>-</code> (minus): Difference – elements in the first set but not in the second.</li><li><code>^</code> (caret): Symmetric Difference – elements in either set, but not in both.</li></ul><p><strong>Step 2: Identify the operator for common elements.</strong></p>The definition of \"common elements\" directly corresponds to the mathematical concept of intersection.<p><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>|</span> is for union.</li><li><span style='color:var(--orange);font-weight:bold;'>&</span> is for intersection, which provides the common elements.</li><li><span style='color:var(--orange);font-weight:bold;'>-</span> is for difference.</li><li><span style='color:var(--orange);font-weight:bold;'>^</span> is for symmetric difference.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 5, Question 20 directly asks for the operation that gives common elements of two sets and confirms <code>&</code> as the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>&</code> operator yields the common elements found in two given sets.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "&"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Which method in Python's dictionary class is used to retrieve both the keys and their corresponding values as a view object?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "keys()"
+        },
+        {
+          "type": "string",
+          "content": "values()"
+        },
+        {
+          "type": "string",
+          "content": "items()"
+        },
+        {
+          "type": "string",
+          "content": "all()"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dictionary Methods",
+      "Data Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dictionary Method for Keys and Values</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python dictionaries store data as key-value pairs. There are specific methods to access just the keys, just the values, or both simultaneously.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the dictionary method that returns both keys and values.</div><p><strong>Step 1: Recall dictionary view methods.</strong></p>Dictionaries provide methods that return dynamic views of their contents:<ul><li><code>keys()</code>: Returns a view of all keys.</li><li><code>values()</code>: Returns a view of all values.</li><li><code>items()</code>: Returns a view of all key-value pairs (as tuples).</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>keys()</span> returns only the keys.</li><li><span style='color:var(--orange);font-weight:bold;'>values()</span> returns only the values.</li><li><span style='color:var(--orange);font-weight:bold;'>items()</span> returns key-value pairs, which fits the description of returning both.</li><li><span style='color:var(--orange);font-weight:bold;'>all()</span> is a built-in function that checks if all elements in an iterable are true, not a dictionary method.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 5, Question 26 directly asks this and confirms `items()` as the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>items()</code> method in Python's dictionary class is used to retrieve both the keys and their corresponding values as a view object.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "items()"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Compare and contrast Python Lists and Tuples, highlighting their key differences and when one might be preferred over the other.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Lists",
+      "Tuples",
+      "Data Structures"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lists vs. Tuples in Python</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Both lists and tuples are fundamental sequence data types in Python used to store collections of items. They are ordered, allow duplicates, and can hold items of different data types. However, their primary distinction lies in their mutability.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to compare and contrast Lists and Tuples, focusing on key differences and preferred use cases.</div><p><strong>Step 1: Compare their similarities.</strong></p><ul><li>Both lists and tuples are <span style='color:var(--orange);font-weight:bold;'>ordered sequences</span> of items.</li><li>Both can contain <span style='color:var(--orange);font-weight:bold;'>heterogeneous elements</span> (items of different data types).</li><li>Both allow for <span style='color:var(--orange);font-weight:bold;'>duplicate elements</span>.</li><li>Both support <span style='color:var(--orange);font-weight:bold;'>indexing and slicing</span>.</li></ul><p><strong>Step 2: Contrast their key differences.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Mutability:</span><br/>  - <strong>Lists are mutable:</strong> Their elements can be changed (added, removed, modified) after creation. Defined with square brackets `[]`.<br/>  - <strong>Tuples are immutable:</strong> Once created, their elements cannot be changed. Defined with parentheses `()`.</li><li><span style='color:var(--orange);font-weight:bold;'>Syntax:</span><br/>  - Lists use `[]` (e.g., `[1, 2, 'a']`).<br/>  - Tuples use `()` (e.g., `(1, 2, 'a')`).</li><li><span style='color:var(--orange);font-weight:bold;'>Performance:</span><br/>  - Tuples are generally slightly faster than lists for iteration and access because their size is fixed, allowing for some optimizations.</li><li><span style='color:var(--orange);font-weight:bold;'>Memory Usage:</span><br/>  - Tuples can be slightly more memory-efficient than lists due to their immutable nature.</li><li><span style='color:var(--orange);font-weight:bold;'>Methods:</span><br/>  - Lists have more built-in methods (e.g., `append()`, `insert()`, `remove()`, `sort()`) to modify their contents.<br/>  - Tuples have fewer methods, mainly `count()` and `index()`, reflecting their immutability.</li></ul><p><strong>Step 3: Discuss when to prefer one over the other.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Prefer Lists when:</span><br/>  - The collection of items needs to be <span style='color:var(--orange);font-weight:bold;'>modified frequently</span> (e.g., adding/removing elements).<br/>  - You need to perform operations like sorting, reversing, or extending the collection.</li><li><span style='color:var(--orange);font-weight:bold;'>Prefer Tuples when:</span><br/>  - The collection of items is <span style='color:var(--orange);font-weight:bold;'>fixed and should not change</span> throughout the program's execution. They are ideal for representing records or data that should remain constant (e.g., coordinates, database records).<br/>  - You want to use the collection as a key in a dictionary (list cannot be a dictionary key because it's mutable).<br/>  - You are returning multiple values from a function; Python implicitly packs these into a tuple.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core distinction of mutability (Lists are mutable, Tuples are immutable) is directly supported by the document's Q1 and Q2. The document's Q11 also highlights that tuples are preferred when \"Data should not change.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Python Lists and Tuples are both ordered sequences that can hold heterogeneous and duplicate elements, supporting indexing and slicing. Their key difference lies in mutability: Lists are mutable (their contents can be changed after creation, using square brackets `[]`), while Tuples are immutable (their contents cannot be changed after creation, using parentheses `()`). Lists are preferred when data needs frequent modification or dynamic changes. Tuples are preferred when data should remain constant, for fixed collections, or when used as dictionary keys due to their immutability.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Python Lists and Tuples are both ordered sequences that can hold heterogeneous and duplicate elements, supporting indexing and slicing. Their key difference lies in mutability: Lists are mutable (their contents can be changed after creation, using square brackets `[]`), while Tuples are immutable (their contents cannot be changed after creation, using parentheses `()`). Lists are preferred when data needs frequent modification or dynamic changes. Tuples are preferred when data should remain constant, for fixed collections, or when used as dictionary keys due to their immutability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which standard Python function is employed to open a file, returning a file object that can then be used for reading or writing?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "file()"
+        },
+        {
+          "type": "string",
+          "content": "open()"
+        },
+        {
+          "type": "string",
+          "content": "fopen()"
+        },
+        {
+          "type": "string",
+          "content": "read()"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "File Handling Functions",
+      "File Handling"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python File Opening Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> File handling is a crucial aspect of programming, allowing programs to interact with external data. In Python, a specific built-in function is used to establish a connection to a file on the file system.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the Python function used to open a file.</div><p><strong>Step 1: Recall Python's built-in file operations.</strong></p>Python provides a straightforward set of functions for basic file I/O.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>file()</span> is not the standard function for opening files in modern Python.</li><li><span style='color:var(--orange);font-weight:bold;'>open()</span> is the correct built-in function in Python for opening files. It takes the file path and mode as arguments and returns a file object.</li><li><span style='color:var(--orange);font-weight:bold;'>fopen()</span> is a function used in C/C++ for file operations, not Python.</li><li><span style='color:var(--orange);font-weight:bold;'>read()</span> is a method of a file object used to read content from an already opened file, not to open the file itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 6, Question 1 explicitly asks for the function to open a file and confirms `open()` as the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The standard Python function employed to open a file is <code>open()</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "open()"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "To access the contents of an existing file for reading in Python, which file mode string should be specified with the <code>open()</code> function?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "\"r\""
+        },
+        {
+          "type": "string",
+          "content": "\"w\""
+        },
+        {
+          "type": "string",
+          "content": "\"a\""
+        },
+        {
+          "type": "string",
+          "content": "\"x\""
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "File Modes",
+      "File Handling"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>File Reading Mode in Python</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When opening a file in Python, you must specify a mode that indicates your intention (e.g., reading, writing, appending). Different modes exist for different operations and behaviors.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the file mode used to read a file.</div><p><strong>Step 1: Recall common file modes.</strong></p><ul><li><code>\"r\"</code>: Read mode. Opens a file for reading. The file pointer is at the beginning of the file. If the file does not exist, it raises a <code>FileNotFoundError</code>.</li><li><code>\"w\"</code>: Write mode. Opens a file for writing. Creates a new file if it does not exist or truncates (empties) the file if it exists.</li><li><code>\"a\"</code>: Append mode. Opens a file for appending. Creates a new file if it does not exist. The file pointer is at the end of the file.</li><li><code>\"x\"</code>: Exclusive creation mode. Creates a new file but raises an <code>FileExistsError</code> if the file already exists.</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>\"r\"</span> is the designated mode for reading from a file.</li><li><span style='color:var(--orange);font-weight:bold;'>\"w\"</span> is for writing (overwriting).</li><li><span style='color:var(--orange);font-weight:bold;'>\"a\"</span> is for appending.</li><li><span style='color:var(--orange);font-weight:bold;'>\"x\"</span> is for exclusive creation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 6, Question 2 explicitly asks for the mode to read a file and confirms `\"r\"`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To access the contents of an existing file for reading in Python, the <code>\"r\"</code> file mode string should be specified.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\"r\""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What occurs if you attempt to open a file in <code>\"r\"</code> (read) mode when the specified file does not exist on the file system?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A new, empty file is automatically created"
+        },
+        {
+          "type": "string",
+          "content": "The operation throws an error (e.g., FileNotFoundError)"
+        },
+        {
+          "type": "string",
+          "content": "The file is opened as an empty file object without an error"
+        },
+        {
+          "type": "string",
+          "content": "The program proceeds without any action related to the file"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "File Modes",
+      "File Handling Errors"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Handling Non-Existent Files in Read Mode</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> File modes determine not only the intended operation (read, write) but also the behavior when a file either exists or does not exist. Read mode (`\"r\"`) specifically expects the file to already be present.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks what happens when opening a non-existent file in `\"r\"` mode.</div><p><strong>Step 1: Understand the purpose of `\"r\"` mode.</strong></p>The purpose of `\"r\"` mode is to *read* from an existing file. If the file doesn't exist, there is nothing to read.<p><strong>Step 2: Determine Python's behavior in this scenario.</strong></p>When Python's `open()` function is called with `\"r\"` mode and the file path does not point to an actual file, Python cannot fulfill the request to read from it. This condition is treated as an error.<p><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>A new, empty file is automatically created</span> is characteristic of `\"w\"` (write) or `\"a\"` (append) modes if the file doesn't exist, not `\"r\"`.</li><li><span style='color:var(--orange);font-weight:bold;'>The operation throws an error (e.g., FileNotFoundError)</span> is the correct behavior. Python raises a `FileNotFoundError` because it cannot locate the file it's supposed to read from.</li><li><span style='color:var(--orange);font-weight:bold;'>The file is opened as an empty file object without an error</span> is incorrect; an error occurs.</li><li><span style='color:var(--orange);font-weight:bold;'>The program proceeds without any action related to the file</span> is incorrect; an error will halt normal execution unless handled.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 6, Question 10 confirms that opening a non-existent file in `\"r\"` mode \"Throws an error.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If you attempt to open a file in <code>\"r\"</code> (read) mode when the specified file does not exist, the operation throws an error (e.g., FileNotFoundError).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The operation throws an error (e.g., FileNotFoundError)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which method of a Python file object is specifically used to write multiple lines of text to a file, taking a list of strings as its argument?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "write()"
+        },
+        {
+          "type": "string",
+          "content": "writeline()"
+        },
+        {
+          "type": "string",
+          "content": "writelines()"
+        },
+        {
+          "type": "string",
+          "content": "putlines()"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "File Writing Methods",
+      "File Handling"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python File Writing Methods: Multiple Lines</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> File objects in Python provide methods for writing data. While one method writes a single string, another is tailored for writing an iterable (like a list) of strings, often representing multiple lines.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the method that writes multiple lines (list of strings) to a file.</div><p><strong>Step 1: Recall Python's file writing methods.</strong></p><ul><li><code>write(string)</code>: Writes a single string to the file. It does not automatically add a newline character.</li><li><code>writelines(iterable_of_strings)</code>: Writes all strings from an iterable (like a list or tuple) to the file. Similar to `write()`, it does not add newline characters automatically after each string; these must be included in the strings themselves if desired.</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>write()</span> is used for a single string.</li><li><span style='color:var(--orange);font-weight:bold;'>writeline()</span> is not a standard Python file method.</li><li><span style='color:var(--orange);font-weight:bold;'>writelines()</span> is the correct method for writing an iterable of strings (multiple lines).</li><li><span style='color:var(--orange);font-weight:bold;'>putlines()</span> is not a standard Python file method.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 6, Question 17 directly asks for the method that writes multiple lines (list of strings) to a file and confirms `writelines()`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The <code>writelines()</code> method of a Python file object is specifically used to write multiple lines of text to a file, taking a list of strings as its argument.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "writelines()"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "What is the primary objective of 'debugging' in the context of computer programming?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The initial process of writing program code"
+        },
+        {
+          "type": "string",
+          "content": "The systematic process of identifying and correcting errors in code"
+        },
+        {
+          "type": "string",
+          "content": "The enhancement of a program's speed and efficiency"
+        },
+        {
+          "type": "string",
+          "content": "The addition of explanatory notes within the code"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Debugging Definition",
+      "Debugging, Testing, and Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Debugging</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Programs, especially complex ones, rarely work perfectly on the first try. Errors, often called 'bugs', are inevitable, and a dedicated process is required to find and fix them.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary objective of debugging.</div><p><strong>Step 1: Understand what 'debugging' entails.</strong></p>The term 'bug' historically referred to actual insects found in early computers, causing malfunctions. 'Debugging' therefore refers to the process of eliminating these faults from software.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>The initial process of writing program code</span> is coding or development, not debugging.</li><li><span style='color:var(--orange);font-weight:bold;'>The systematic process of identifying and correcting errors in code</span> is the precise definition of debugging. This includes finding logical errors, runtime errors, etc.</li><li><span style='color:var(--orange);font-weight:bold;'>The enhancement of a program's speed and efficiency</span> is 'optimization', which might happen after debugging but is a separate process.</li><li><span style='color:var(--orange);font-weight:bold;'>The addition of explanatory notes within the code</span> refers to 'commenting', which improves readability but isn't debugging.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 7, Question 1 defines debugging as \"Removing errors from code,\" which matches option B.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary objective of 'debugging' is the systematic process of identifying and correcting errors in code.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The systematic process of identifying and correcting errors in code"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which category of error arises when Python is unable to properly parse or understand the structure of the written code?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Runtime error"
+        },
+        {
+          "type": "string",
+          "content": "Syntax error"
+        },
+        {
+          "type": "string",
+          "content": "Logical error"
+        },
+        {
+          "type": "string",
+          "content": "Semantic error"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Error Types",
+      "Debugging, Testing, and Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Syntax Error</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Programming languages have strict rules for how statements must be structured. Violations of these rules prevent the interpreter or compiler from understanding the code, leading to specific types of errors.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the type of error that occurs when Python cannot interpret code.</div><p><strong>Step 1: Understand how Python processes code.</strong></p>Before Python can execute code, it first needs to parse it, checking if the code adheres to the language's grammar and structure. If there are violations, this initial parsing step fails.<p><strong>Step 2: Define different error types.</strong></p><ul><li><strong>Syntax error:</strong> Occurs when the code violates the grammatical rules of the language, preventing the interpreter from parsing it. The program will not even start execution.</li><li><strong>Runtime error:</strong> Occurs during the execution of the program, after it has been successfully parsed. Examples include division by zero or trying to access an out-of-bounds index.</li><li><strong>Logical error:</strong> The program runs without crashing but produces incorrect or unexpected results because of flawed logic.</li><li><strong>Semantic error:</strong> Often used interchangeably with logical errors, or sometimes refers to code that is syntactically correct but meaningless in context.</li></ul><p><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Runtime error</span> occurs during execution, not when the interpreter *cannot interpret* the code initially.</li><li><span style='color:var(--orange);font-weight:bold;'>Syntax error</span> directly describes the situation where Python cannot understand the code's structure due to grammatical mistakes.</li><li><span style='color:var(--orange);font-weight:bold;'>Logical error</span> means the code is valid and runs but produces the wrong answer.</li><li><span style='color:var(--orange);font-weight:bold;'>Semantic error</span> is either a logical error or a broader category that includes issues with meaning, but a syntax error is a more fundamental parsing problem.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 7, Question 2 explicitly states that a \"Syntax error\" occurs \"when Python cannot interpret code.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Syntax error arises when Python is unable to properly parse or understand the structure of the written code.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Syntax error"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Which type of programming error allows a program to execute without crashing but consistently yields incorrect or unexpected results?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Syntax error"
+        },
+        {
+          "type": "string",
+          "content": "Runtime error"
+        },
+        {
+          "type": "string",
+          "content": "Logical error"
+        },
+        {
+          "type": "string",
+          "content": "Type error"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Error Types",
+      "Logical Error"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Logical Error</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Programming errors can manifest in different ways. Some prevent the program from starting (syntax errors), others crash it during execution (runtime errors), and some allow it to run but produce wrong outcomes due to flaws in the program's intended behavior.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question describes an error that doesn't stop execution but leads to incorrect results.</div><p><strong>Step 1: Consider the characteristics of different error types.</strong></p><ul><li><strong>Syntax errors</strong> prevent the program from even starting.</li><li><strong>Runtime errors</strong> (like `ZeroDivisionError`, `TypeError`) cause the program to crash during execution.</li><li><strong>Logical errors</strong> occur when the code is syntactically correct and runs, but the algorithm implemented is flawed, leading to incorrect output.</li><li><strong>Type errors</strong> are a specific kind of runtime error where an operation is performed on an inappropriate data type.</li></ul><p><strong>Step 2: Match the description to the error type.</strong></p>An error that allows the program to run but generates wrong results points directly to a flaw in the program's logic or algorithm, not its syntax or a specific runtime crash condition.<p><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Syntax error</span> stops the program before it runs.</li><li><span style='color:var(--orange);font-weight:bold;'>Runtime error</span> stops the program during execution.</li><li><span style='color:var(--orange);font-weight:bold;'>Logical error</span> precisely matches the description: the program runs, but the results are wrong. It does not stop program execution.</li><li><span style='color:var(--orange);font-weight:bold;'>Type error</span> typically stops program execution when an invalid type operation occurs.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 7, Question 4 explicitly states that a \"Logical error\" is the type that \"does NOT stop program execution but produces wrong results.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Logical error allows a program to execute without crashing but consistently yields incorrect or unexpected results.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Logical error"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Which keywords are typically used in Python to construct a block of code for robust exception handling?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "try"
+        },
+        {
+          "type": "string",
+          "content": "except"
+        },
+        {
+          "type": "string",
+          "content": "finally"
+        },
+        {
+          "type": "string",
+          "content": "All of the above"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Exception Handling Keywords",
+      "Debugging, Testing, and Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Python Exception Handling Keywords</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Python's exception handling mechanism uses specific keywords to define blocks of code that attempt to execute potentially problematic operations and then gracefully respond if an error (exception) occurs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the keywords used to handle exceptions.</div><p><strong>Step 1: Recall the structure of Python's `try-except-finally` block.</strong></p><ul><li>The `try` block contains the code that might raise an exception.</li><li>The `except` block catches and handles specific exceptions that occur in the `try` block.</li><li>The `finally` block contains code that will always execute, regardless of whether an exception occurred or was handled.</li><li>An optional `else` block can be included, which executes if no exception occurs in the `try` block.</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>try</span> is used to enclose the code that might raise an exception.</li><li><span style='color:var(--orange);font-weight:bold;'>except</span> is used to define the block of code that handles the exception.</li><li><span style='color:var(--orange);font-weight:bold;'>finally</span> is used to define a block that always executes.</li><li><span style='color:var(--orange);font-weight:bold;'>All of the above</span> is correct because `try`, `except`, and `finally` (along with `else`) are the fundamental keywords forming Python's exception handling structure.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 7, Question 6 directly asks which keyword is used to handle exceptions and lists \"All of the above\" for `try`, `except`, `finally`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ <code>try</code>, <code>except</code>, and <code>finally</code> are all keywords typically used in Python to construct a block of code for robust exception handling.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Consider the following Python code snippet:<br/><code>try:</code><br/><code>    print(10 / 0)</code><br/><code>except ZeroDivisionError:</code><br/><code>    print(\"Error\")</code><br/>What will be the output of this code?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "Error"
+        },
+        {
+          "type": "string",
+          "content": "ZeroDivisionError"
+        },
+        {
+          "type": "string",
+          "content": "None"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Exception Handling Output",
+      "Debugging, Testing, and Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'><code>try-except</code> Block Output for Zero Division</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A `try-except` block is used to handle exceptions gracefully. If an exception occurs within the `try` block that matches an `except` clause, the code within that `except` block is executed, preventing the program from crashing.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The code snippet involving a division by zero within a `try` block and an `except ZeroDivisionError` handler.</div><p><strong>Step 1: Analyze the `try` block.</strong></p>The `try` block contains <code>print(10 / 0)</code>. Division by zero is an invalid mathematical operation and will raise a <span style='color:var(--orange);font-weight:bold;'><code>ZeroDivisionError</code></span> exception in Python.<p><strong>Step 2: Analyze the `except` block.</strong></p>The `except` block is specifically designed to catch <code>ZeroDivisionError</code>. Since a `ZeroDivisionError` is indeed raised in the `try` block, this `except` block will be executed.<p><strong>Step 3: Determine the output.</strong></p>Inside the `except ZeroDivisionError:` block, the statement is <code>print(\"Error\")</code>. Therefore, the program will print the string \"Error\". The exception is caught and handled, so the program will not crash.<p><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>0</span> is incorrect; the division results in an error, not 0.</li><li><span style='color:var(--orange);font-weight:bold;'>Error</span> is the string printed by the `except` block when the `ZeroDivisionError` is caught.</li><li><span style='color:var(--orange);font-weight:bold;'>ZeroDivisionError</span> would be the error message if the exception was not caught.</li><li><span style='color:var(--orange);font-weight:bold;'>None</span> is not produced by this code.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 7, Question 9 provides this exact code and confirms that the output is \"Error\", demonstrating proper exception handling.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The output of the code will be \"Error\".</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Error"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Which built-in Python function is commonly used during debugging to display the value of variables or other information to the console?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "debug()"
+        },
+        {
+          "type": "string",
+          "content": "trace()"
+        },
+        {
+          "type": "string",
+          "content": "print()"
+        },
+        {
+          "type": "string",
+          "content": "inspect()"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Debugging Tools",
+      "Built-in Functions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Debugging with <code>print()</code></h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A common and straightforward debugging technique, especially for beginners, is to insert statements into the code that output the current state of variables or confirm execution flow.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the built-in function that helps in debugging by printing values.</div><p><strong>Step 1: Consider basic debugging methods.</strong></p>When a program isn't behaving as expected, a quick way to diagnose issues is to see what values variables hold at different points in the code, or which code paths are being taken. The most direct way to do this in Python is to output information to the console.<p><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>debug()</span> is not a standard built-in Python function for general printing during debugging. Specific debugging modules might have `debug` functions, but it's not a universal built-in.</li><li><span style='color:var(--orange);font-weight:bold;'>trace()</span> is not a standard built-in Python function for this purpose. The `sys` module has `settrace` for advanced debugging, but not a simple `trace()`.</li><li><span style='color:var(--orange);font-weight:bold;'>print()</span> is the fundamental built-in function in Python for displaying output to the standard console. It's widely used by developers for quick and informal debugging by printing variable values, messages, or execution markers.</li><li><span style='color:var(--orange);font-weight:bold;'>inspect()</span> is a module that provides functions for getting information about live objects, including modules, classes, methods, functions, tracebacks, frames, and code objects. It's more for introspection than direct printing for debugging.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's Module 7, Question 11 explicitly asks which built-in function helps in debugging by printing values and confirms `print()` as the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The built-in Python function commonly used during debugging to display the value of variables or other information to the console is <code>print()</code>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "print()"
+    }
+  }
+]
