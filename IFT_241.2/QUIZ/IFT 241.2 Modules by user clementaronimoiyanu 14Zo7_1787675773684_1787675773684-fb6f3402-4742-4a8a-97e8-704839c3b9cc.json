@@ -1,0 +1,1650 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "PARALLEL COMPUTING",
+    "code": "IFT 241.2",
+    "session": "IFT 241.2 Modules by user clementaronimoiyanu 14Zo7",
+    "kind": "mixed",
+    "topics": [
+      "Modern Hardware",
+      "Parallel Architectures",
+      "Introduction to Parallel Computing",
+      "Core Curriculum Pillars",
+      "Synchronization",
+      "Parallel Computing Fundamentals",
+      "Real-World Applications",
+      "GPU Computing",
+      "Artificial Intelligence",
+      "Scientific Research",
+      "Fluid Dynamics",
+      "Distributed Computing",
+      "Memory Configuration",
+      "Architectural Comparison",
+      "Physical Hardware Examples",
+      "Parallel Computing",
+      "Image Processing",
+      "Parallel Processing",
+      "Case Studies",
+      "Implicit Parallelism",
+      "Programming Paradigms",
+      "Trade-offs",
+      "Explicit Parallelism",
+      "Workflow",
+      "Shared Memory Architecture",
+      "Memory Architecture",
+      "Scalability",
+      "Flynn's Taxonomy",
+      "MIMD",
+      "Hardware Execution Models",
+      "Distributed Memory Architecture",
+      "SIMT",
+      "Threads",
+      "Thread Models",
+      "Operating System Concepts",
+      "Task Parallelism",
+      "Parallelism Types",
+      "Race Conditions",
+      "Thread Safety",
+      "Concurrency Challenges",
+      "Fork-Join Model",
+      "Thread Execution",
+      "Parallel Programming",
+      "Mutex",
+      "Synchronization Primitives",
+      "Critical Section",
+      "Semaphore",
+      "Bounded Resource",
+      "Spinlocks",
+      "Locking Mechanisms",
+      "Recursive Locks",
+      "Transactional Memory",
+      "Conflict Resolution",
+      "HTM",
+      "STM",
+      "Kernel",
+      "GPU Architecture",
+      "CUDA Programming",
+      "Warp",
+      "CUDA Thread Hierarchy",
+      "Thread Block",
+      "Shared Memory",
+      "Dynamic Load Balancing",
+      "Load Balancing Strategies",
+      "Workload Balancing",
+      "Fine-Grained Parallelism",
+      "Parallel Granularity",
+      "Amdahl's Law",
+      "Scalability Laws",
+      "Performance Calculation",
+      "Gustafson's Law",
+      "Problem Size",
+      "MPI_Bcast",
+      "Collective Operations",
+      "Distributed Memory Programming",
+      "Mesh Topology",
+      "Network Topologies",
+      "Link Failure",
+      "Distributed Fault Modes",
+      "Fault Tolerance",
+      "Distributed Systems",
+      "Parallel Debugging",
+      "Non-deterministic Bugs",
+      "Hotspots",
+      "Profiling",
+      "Performance Tuning",
+      "Debugging Tools",
+      "Profiling Tools",
+      "Heisenbugs",
+      "Optimization"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "IFT 241.2 - Parallel Computing",
+    "Subheading": "Answer any 35 of the following 40 questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following is NOT a primary reason modern processors leverage parallel architectures instead of solely increasing clock speeds?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To reduce overall computational capability."
+        },
+        {
+          "type": "string",
+          "content": "To improve processing efficiency."
+        },
+        {
+          "type": "string",
+          "content": "To ensure optimal power consumption."
+        },
+        {
+          "type": "string",
+          "content": "To scale performance beyond single-core limitations."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Modern Hardware",
+      "Parallel Architectures",
+      "Introduction to Parallel Computing"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Advantages of Parallel Architectures</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Parallel Architectures:</em> Modern computing systems designed for concurrent execution, leveraging multiple processing units, multithreading, or distributed computing models to enhance performance.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify which statement is <span style='color:var(--orange);font-weight:bold;'>NOT</span> a primary reason for using parallel architectures over solely increasing clock speeds.</div><ol><li><strong>Step 1: Analyze the benefits of parallel architectures.</strong><br/>The provided content states that modern processors leverage parallel architectures to ensure <span style='color:var(--orange);font-weight:bold;'>\"significantly more computational capability, improved processing efficiency, and optimal power consumption.\"</span> It also highlights that this approach is used <span style='color:var(--orange);font-weight:bold;'>\"rather than relying solely on increasing clock speeds\"</span> to <span style='color:var(--orange);font-weight:bold;'>\"scale performance.\"</span></li><li><strong>Step 2: Evaluate each option against these benefits.</strong><ul><li>Option 1: \"To reduce overall computational capability.\" This contradicts the statement that parallel architectures provide <span style='color:var(--orange);font-weight:bold;'>\"significantly more computational capability.\"</span> Therefore, this is likely the incorrect reason.</li><li>Option 2: \"To improve processing efficiency.\" This aligns directly with the stated benefit of <span style='color:var(--orange);font-weight:bold;'>\"improved processing efficiency.\"</span></li><li>Option 3: \"To ensure optimal power consumption.\" This aligns directly with the stated benefit of <span style='color:var(--orange);font-weight:bold;'>\"optimal power consumption.\"</span></li><li>Option 4: \"To scale performance beyond single-core limitations.\" This is implied by the phrase <span style='color:var(--orange);font-weight:bold;'>\"to scale performance\"</span> and the comparison to <span style='color:var(--orange);font-weight:bold;'>\"relying solely on increasing clock speeds.\"</span></li></ul></li><li><strong>Step 3: Conclude the false statement.</strong><br/>The only option that contradicts the benefits of parallel architectures as described is reducing computational capability.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Parallel computing is inherently about increasing computational power and efficiency. Any reason suggesting a reduction in capability would fundamentally misunderstand its purpose. The document clearly states that parallel architectures lead to \"significantly more computational capability.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The statement that is NOT a primary reason for leveraging parallel architectures is \"To reduce overall computational capability.\"</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To reduce overall computational capability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which core curriculum pillar addresses the mechanics for coordinating execution, resolving contention, and managing shared state in parallel computing?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Parallel Programming Patterns & Models"
+        },
+        {
+          "type": "string",
+          "content": "Synchronization & Communication"
+        },
+        {
+          "type": "string",
+          "content": "Load Balancing & Scalability"
+        },
+        {
+          "type": "string",
+          "content": "Parallel Algorithms & Complexity"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Core Curriculum Pillars",
+      "Synchronization",
+      "Parallel Computing Fundamentals"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Core Curriculum Pillars in Parallel Computing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Core Curriculum Pillars:</em> Fundamental areas of study in parallel computing that define its key concepts and challenges.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify the core curriculum pillar responsible for coordinating execution, resolving contention, and managing shared state.</div><ol><li><strong>Step 1: Review the definitions of each core curriculum pillar.</strong><br/>According to the document, the pillar named <span style='color:var(--orange);font-weight:bold;'>\"Synchronization & Communication\"</span> is defined as addressing <span style='color:var(--orange);font-weight:bold;'>\"Mechanics for coordinating execution, resolving contention, and managing shared state.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Parallel Programming Patterns & Models\" covers paradigms like fork-join, data parallelism, task parallelism, and messaging frameworks.</li><li>\"Synchronization & Communication\" directly matches the description in the question.</li><li>\"Load Balancing & Scalability\" focuses on uniform computational distribution and performance scaling laws.</li><li>\"Parallel Algorithms & Complexity\" involves designing algorithms to distribute workload and minimize latency.</li></ul></li><li><strong>Step 3: Conclude the correct pillar.</strong><br/>The description precisely matches the definition for Synchronization & Communication.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The terms \"coordinating execution,\" \"resolving contention,\" and \"managing shared state\" are all central to the concept of synchronization in concurrent systems, which is the primary role of synchronization primitives and communication mechanisms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The core curriculum pillar that addresses the mechanics for coordinating execution, resolving contention, and managing shared state in parallel computing is Synchronization & Communication.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synchronization & Communication"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "In the context of real-world applications, which domain relies on massively parallel architectures like GPUs to drastically cut training times and enable high-throughput inference?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Climate & Weather Forecasting"
+        },
+        {
+          "type": "string",
+          "content": "Financial Trading & Economic Forecasting"
+        },
+        {
+          "type": "string",
+          "content": "Artificial Intelligence & Deep Learning"
+        },
+        {
+          "type": "string",
+          "content": "Healthcare & Bioinformatics"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Real-World Applications",
+      "GPU Computing",
+      "Artificial Intelligence"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Parallel Computing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>GPU (Graphics Processing Unit):</em> A specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device, also highly effective for parallel computation.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks which real-world application domain explicitly leverages GPUs for drastically cutting training times and enabling high-throughput inference due to their massively parallel architectures.</div><ol><li><strong>Step 1: Review the listed real-world applications in the document.</strong><br/>The document describes several applications, including Scientific Research & Fluid Dynamics, Climate & Weather Forecasting, Real-Time Data Analytics & Autonomous Systems, Financial Trading & Economic Forecasting, Artificial Intelligence & Deep Learning, and Healthcare & Bioinformatics.</li><li><strong>Step 2: Locate the description that specifically mentions GPUs, training times, and high-throughput inference.</strong><br/>Under <span style='color:var(--orange);font-weight:bold;'>\"Artificial Intelligence & Deep Learning,\"</span> the text states: <span style='color:var(--orange);font-weight:bold;'>\"Deep learning model training involves massive volumes of vector and matrix operations that are excessively slow when executed sequentially on a single CPU. Graphics Processing Units (GPUs), which feature inherently massively parallel architectures, have revolutionized modern AI by drastically cutting training times and enabling high-throughput inference.\"</span></li><li><strong>Step 3: Compare this description with the other options.</strong><ul><li>Climate & Weather Forecasting requires massive throughput for complex mathematical models, but doesn't specifically mention GPUs for cutting training times in this context.</li><li>Financial Trading & Economic Forecasting relies on parallel algorithms for high-frequency trading and processing dense financial datasets.</li><li>Healthcare & Bioinformatics uses parallel processing for DNA sequences, protein folding, and drug discovery.</li><li>Artificial Intelligence & Deep Learning explicitly matches the full description.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: GPUs are renowned for their parallel processing capabilities, which make them ideal for the vector and matrix operations common in deep learning. The mention of \"drastically cutting training times\" and \"high-throughput inference\" is a signature benefit of GPUs in AI.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The domain that relies on massively parallel architectures like GPUs to drastically cut training times and enable high-throughput inference is Artificial Intelligence & Deep Learning.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Artificial Intelligence & Deep Learning"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Explain how parallel processing contributes to Scientific Research, specifically in the area of fluid dynamics.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Real-World Applications",
+      "Scientific Research",
+      "Fluid Dynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Parallel Processing in Scientific Research</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Fluid Dynamics:</em> A branch of fluid mechanics concerned with the movement of fluids, encompassing both liquids and gases, and the forces acting on them. Simulations in fluid dynamics are computationally intensive due to the complex partial differential equations involved.<br/><em>Parallel Processing:</em> The simultaneous use of multiple processors or cores to execute different parts of a program or multiple programs concurrently.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for an explanation of how parallel processing contributes to Scientific Research, specifically in fluid dynamics.</div><ol><li><strong>Mark Scheme Point 1: Enabling Complex Simulations.</strong><br/>Parallel processing is foundational in enabling <span style='color:var(--orange);font-weight:bold;'>complex molecular simulations and fluid dynamics modeling.</span></li><li><strong>Mark Scheme Point 2: Overcoming Physical Limitations.</strong><br/>It allows scientists and engineers to <span style='color:var(--orange);font-weight:bold;'>explore physical phenomena that are otherwise impossible or impractical to replicate in physical laboratories.</span> This means simulating scenarios that are too dangerous, too large, too small, or too expensive for real-world experimentation.</li><li><strong>Mark Scheme Point 3: Throughput and Speed.</strong><br/>By distributing the massive computational workload required for fluid dynamics across many processors, parallel computing drastically <span style='color:var(--orange);font-weight:bold;'>reduces simulation times and increases the achievable resolution and complexity of models.</span></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: A common mistake is to simply state that parallel processing makes things faster without elaborating on *why* that speed is critical or what it enables. A full answer should connect the speed and capacity to the ability to model otherwise intractable problems and phenomena.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Parallel processing contributes to Scientific Research, particularly fluid dynamics, by enabling complex molecular simulations and fluid dynamics modeling. This capability allows scientists and engineers to explore physical phenomena that are otherwise impossible to replicate in physical laboratories, by handling the immense computational requirements and drastically reducing simulation times.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parallel processing is foundational in enabling complex molecular simulations and fluid dynamics modeling. It allows scientists and engineers to explore physical phenomena that are otherwise impossible to replicate in physical laboratories, by providing the massive computational power required to process intricate mathematical models and simulations rapidly."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "In a comparison between Parallel and Distributed Computing, which architectural feature is primarily associated with isolated memory spaces per node and reliance on network message passing?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "System Model"
+        },
+        {
+          "type": "string",
+          "content": "Memory Configuration"
+        },
+        {
+          "type": "string",
+          "content": "Communication Mechanism"
+        },
+        {
+          "type": "string",
+          "content": "Fault Tolerance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Distributed Computing",
+      "Memory Configuration",
+      "Architectural Comparison"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Parallel vs. Distributed Computing Architectures</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Memory Configuration:</em> Describes how memory is organized and accessed by processing units within a system.<br/><em>Network Message Passing:</em> A method of inter-process communication where processes send and receive data packets over a network.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify the architectural feature associated with isolated memory spaces per node and reliance on network message passing, when comparing Parallel and Distributed Computing.</div><ol><li><strong>Step 1: Refer to the Comparative Architecture Matrix.</strong><br/>The matrix explicitly lists <span style='color:var(--orange);font-weight:bold;'>\"Memory Configuration\"</span> as a feature.</li><li><strong>Step 2: Examine the description for \"Distributed Computing\" under \"Memory Configuration.\"</strong><br/>For Distributed Computing, the \"Memory Configuration\" is described as <span style='color:var(--orange);font-weight:bold;'>\"Distributed, isolated memory spaces per node; relies on network message passing.\"</span> This directly matches the description in the question.</li><li><strong>Step 3: Evaluate other options.</strong><ul><li>\"System Model\" describes the overall structure (single system vs. multiple autonomous machines).</li><li>\"Communication Mechanism\" describes *how* communication happens (internal buses vs. network protocols), but the *reason* for relying on network message passing due to isolated memory is part of the memory configuration.</li><li>\"Fault Tolerance\" describes how the system handles failures (limited vs. high).</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: While network message passing is a *communication mechanism*, the fundamental reason it's needed in distributed systems is due to their *memory configuration* of isolated memory spaces. The question explicitly links the isolated memory to the reliance on message passing, making Memory Configuration the most accurate answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The architectural feature associated with isolated memory spaces per node and reliance on network message passing in Distributed Computing is Memory Configuration.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Memory Configuration"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which of the following is an example of a physical hardware component typically found in a Parallel Computing system?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Cloud computing platforms"
+        },
+        {
+          "type": "string",
+          "content": "Hadoop/Spark clusters"
+        },
+        {
+          "type": "string",
+          "content": "Multi-core desktops"
+        },
+        {
+          "type": "string",
+          "content": "Web-scale search engine indexes"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Physical Hardware Examples",
+      "Parallel Computing",
+      "Architectural Comparison"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Physical Hardware Examples for Parallel vs. Distributed Computing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Parallel Computing:</em> A single system containing multiple CPUs/cores that work together. Examples are typically individual machines with internal parallelism.<br/><em>Distributed Computing:</em> Multiple autonomous, independent physical machines connected over a network. Examples are typically large-scale, networked systems.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify a physical hardware example characteristic of a Parallel Computing system.</div><ol><li><strong>Step 1: Consult the \"Physical Hardware Examples\" row in the Comparative Architecture Matrix.</strong><br/>Under the \"Parallel Computing\" column, the examples listed are <span style='color:var(--orange);font-weight:bold;'>\"Multi-core desktops, symmetric multiprocessor servers, supercomputers, GPUs.\"</span></li><li><strong>Step 2: Under the \"Distributed Computing\" column, the examples listed are:</strong><br/>\"Cloud computing platforms, Hadoop/Spark clusters, web-scale search engine indexes.\"</li><li><strong>Step 3: Compare the given options to these lists.</strong><ul><li>\"Cloud computing platforms\" is an example of Distributed Computing.</li><li>\"Hadoop/Spark clusters\" is an example of Distributed Computing.</li><li>\"Multi-core desktops\" is an example of Parallel Computing.</li><li>\"Web-scale search engine indexes\" is an example of Distributed Computing.</li></ul></li><li><strong>Step 4: Conclude the correct option.</strong><br/>\"Multi-core desktops\" is the only option listed as a physical hardware example for Parallel Computing.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The distinction lies in whether the components share a single system's resources (Parallel) or are independent machines networked together (Distributed). Multi-core desktops fit the definition of a single system with multiple processing units.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A multi-core desktop is an example of a physical hardware component typically found in a Parallel Computing system.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Multi-core desktops"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "In the context of image processing, breaking a high-resolution image into distinct sections for concurrent processing by separate CPU/GPU cores is a practical case study for:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Distributed Processing - Web Search Engines"
+        },
+        {
+          "type": "string",
+          "content": "Parallel Processing - Image Processing & Filtering"
+        },
+        {
+          "type": "string",
+          "content": "Implicit Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Transactional Memory"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Image Processing",
+      "Parallel Processing",
+      "Case Studies"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Practical Case Studies of Parallel and Distributed Processing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Parallel Processing:</em> Involves multiple processors working simultaneously within a single system to solve a problem.<br/><em>Image Processing & Filtering:</em> Operations like edge detection or object detection applied to images.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question describes a scenario where a high-resolution image is divided into sections and processed concurrently by separate CPU/GPU cores. It asks to identify which case study this describes.</div><ol><li><strong>Step 1: Refer to the \"Practical Case Studies\" section.</strong><br/>The document provides two case studies: \"Parallel Processing - Image Processing & Filtering\" and \"Distributed Processing - Web Search Engines.\"</li><li><strong>Step 2: Read the description for \"Parallel Processing - Image Processing & Filtering.\"</strong><br/>It states: <span style='color:var(--orange);font-weight:bold;'>\"In operations like edge detection, filtering, or object detection, a single high-resolution image is broken into distinct sections or coordinate blocks. Each block is assigned to a separate CPU/GPU core for concurrent processing, vastly reducing overall rendering/processing time.\"</span> This description perfectly matches the scenario provided in the question.</li><li><strong>Step 3: Evaluate other options.</strong><ul><li>\"Distributed Processing - Web Search Engines\" involves distributing workloads across thousands of independent cluster nodes, which is different from image processing on a single system's cores.</li><li>\"Implicit Parallelism\" and \"Transactional Memory\" are programming paradigms and synchronization mechanisms, not practical case studies of applications.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The key elements are processing on a *single image* using *multiple cores* (CPU/GPU), which directly maps to the definition and example given for parallel image processing. Distributed processing would involve multiple independent machines working on parts of a larger problem.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Breaking a high-resolution image into distinct sections for concurrent processing by separate CPU/GPU cores is a practical case study for Parallel Processing - Image Processing & Filtering.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parallel Processing - Image Processing & Filtering"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What is a primary trade-off of using Implicit Parallelism?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "High development complexity"
+        },
+        {
+          "type": "string",
+          "content": "Elevated risks of deadlocks and race conditions"
+        },
+        {
+          "type": "string",
+          "content": "Low programmer control over low-level hardware optimizations"
+        },
+        {
+          "type": "string",
+          "content": "Manual management of thread lifecycles"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Implicit Parallelism",
+      "Programming Paradigms",
+      "Trade-offs"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Implicit Parallelism Trade-offs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Implicit Parallelism:</em> A programming approach where the compiler and runtime environment automatically handle the parallelization of sequential code.<br/><em>Trade-offs:</em> The compromises or disadvantages associated with a particular approach.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for a primary trade-off of using Implicit Parallelism.</div><ol><li><strong>Step 1: Locate the section on \"Implicit Parallelism\" and its \"Trade-offs.\"</strong><br/>The document states under \"Trade-offs\" for Implicit Parallelism: <span style='color:var(--orange);font-weight:bold;'>\"Minimizes development overhead by abstracting away thread lifecycle management, manual synchronization, and shared state handling. However, it offers low programmer control over low-level hardware optimizations.\"</span></li><li><strong>Step 2: Evaluate the given options against this statement.</strong><ul><li>\"High development complexity\" is a trade-off for <span style='color:var(--orange);font-weight:bold;'>Explicit Parallelism</span>, not Implicit. Implicit parallelism *minimizes* complexity.</li><li>\"Elevated risks of deadlocks and race conditions\" are associated with the challenges of <span style='color:var(--orange);font-weight:bold;'>Explicit Parallelism</span>, where the programmer directly manages concurrency.</li><li>\"Low programmer control over low-level hardware optimizations\" directly matches the stated trade-off for Implicit Parallelism.</li><li>\"Manual management of thread lifecycles\" is a characteristic of <span style='color:var(--orange);font-weight:bold;'>Explicit Parallelism</span>. Implicit parallelism *abstracts away* this management.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Implicit parallelism aims to simplify programming by automating parallelization. The cost of this automation is a lack of fine-grained control, particularly over performance-critical hardware aspects. The diagram also lists \"Less granular performance.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A primary trade-off of using Implicit Parallelism is low programmer control over low-level hardware optimizations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low programmer control over low-level hardware optimizations"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which of the following is a characteristic workflow of Explicit Parallelism?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The compiler parses code and automatically arranges parallel execution."
+        },
+        {
+          "type": "string",
+          "content": "The programmer writes code in a mostly standard, sequential fashion."
+        },
+        {
+          "type": "string",
+          "content": "The developer directly defines which tasks run concurrently."
+        },
+        {
+          "type": "string",
+          "content": "Thread lifecycle management is abstracted away by the runtime."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Explicit Parallelism",
+      "Programming Paradigms",
+      "Workflow"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Explicit Parallelism Workflow</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Explicit Parallelism:</em> A programming approach where the programmer actively designs, spawns, and coordinates concurrent execution within the source code.<br/><em>Workflow:</em> The sequence of steps or actions involved in carrying out a task.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for a characteristic workflow of Explicit Parallelism.</div><ol><li><strong>Step 1: Locate the section on \"Explicit Parallelism\" and its \"Workflow.\"</strong><br/>The document states under \"Workflow\" for Explicit Parallelism: <span style='color:var(--orange);font-weight:bold;'>\"The developer directly defines which tasks run concurrently, partitions data manually, manages thread lifecycles, and coordinates synchronization primitives.\"</span></li><li><strong>Step 2: Evaluate the given options against this statement.</strong><ul><li>\"The compiler parses code and automatically arranges parallel execution\" describes the workflow of <span style='color:var(--orange);font-weight:bold;'>Implicit Parallelism</span>.</li><li>\"The programmer writes code in a mostly standard, sequential fashion\" describes the workflow of <span style='color:var(--orange);font-weight:bold;'>Implicit Parallelism</span>.</li><li>\"The developer directly defines which tasks run concurrently\" directly matches the stated workflow for Explicit Parallelism.</li><li>\"Thread lifecycle management is abstracted away by the runtime\" is a characteristic of <span style='color:var(--orange);font-weight:bold;'>Implicit Parallelism's</span> trade-offs, where it *minimizes development overhead* by abstracting these away.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The term \"explicit\" in this context means the programmer explicitly controls the parallel aspects. Therefore, defining tasks concurrently, managing lifecycles, and synchronization are core to its workflow.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A characteristic workflow of Explicit Parallelism is that the developer directly defines which tasks run concurrently.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The developer directly defines which tasks run concurrently."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Programs introducing concurrent processing typically fall under which two primary programming approaches?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sequential and Concurrent parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Data and Task parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Implicit and Explicit parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Shared and Distributed parallelism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Programming Paradigms",
+      "Implicit Parallelism",
+      "Explicit Parallelism"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Primary Parallelism Paradigms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Programming Approaches (Paradigms):</em> Fundamental styles or models of programming used to structure and organize code, especially for concurrent execution.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the two primary programming approaches under which programs introducing concurrent processing generally fall.</div><ol><li><strong>Step 1: Refer to the introductory statement of Part 3.</strong><br/>The document explicitly states: <span style='color:var(--orange);font-weight:bold;'>\"Programs that introduce concurrent processing generally fall under two primary programming approaches: Implicit or Explicit parallelism.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Sequential and Concurrent parallelism\" is not the primary categorization used for *approaches* to introducing parallelism.</li><li>\"Data and Task parallelism\" are types of parallelism but not the overarching programming *approaches* defined here.</li><li>\"Implicit and Explicit parallelism\" directly matches the statement in the document.</li><li>\"Shared and Distributed parallelism\" refer to memory architectures, not programming approaches.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The document clearly defines these two categories as the main approaches for concurrent processing. The diagram also highlights them as \"Parallelism Paradigms.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Programs introducing concurrent processing typically fall under Implicit and Explicit parallelism.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Implicit and Explicit parallelism"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "What is a key disadvantage of Shared Memory Architecture?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "High programming complexity due to manual memory management."
+        },
+        {
+          "type": "string",
+          "content": "Memory access contention becomes a bottleneck, limiting scalability."
+        },
+        {
+          "type": "string",
+          "content": "Requires explicit communication by sending and receiving messages."
+        },
+        {
+          "type": "string",
+          "content": "Each processor having its own private, isolated physical memory."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Shared Memory Architecture",
+      "Memory Architecture",
+      "Scalability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Disadvantages of Shared Memory Architecture</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Shared Memory Architecture:</em> An architectural model where all processors can access a single global memory space.<br/><em>Memory Access Contention:</em> A situation where multiple processors try to access the same memory location simultaneously, leading to delays.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for a key disadvantage of Shared Memory Architecture.</div><ol><li><strong>Step 1: Refer to the section \"1. Shared Memory vs. Distributed Memory Systems\" and subsection \"A. Shared Memory Architecture.\"</strong><br/>Under \"Disadvantages,\" the document states: <span style='color:var(--orange);font-weight:bold;'>\"Memory access contention becomes a bottleneck, limiting scalability beyond medium-scale systems.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"High programming complexity due to manual memory management\" is not a disadvantage of shared memory; in fact, the document lists \"High programming ease\" as an advantage.</li><li>\"Memory access contention becomes a bottleneck, limiting scalability\" directly matches the stated disadvantage.</li><li>\"Requires explicit communication by sending and receiving messages\" describes a characteristic of <span style='color:var(--orange);font-weight:bold;'>Distributed Memory Architecture</span>, not Shared Memory.</li><li>\"Each processor having its own private, isolated physical memory\" describes the fundamental setup of <span style='color:var(--orange);font-weight:bold;'>Distributed Memory Architecture</span>, not Shared Memory.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Shared memory systems simplify programming because all data is directly accessible, but this convenience comes at the cost of contention when many processors try to access the same memory, which eventually limits how large the system can effectively become.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key disadvantage of Shared Memory Architecture is that memory access contention becomes a bottleneck, limiting scalability.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Memory access contention becomes a bottleneck, limiting scalability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Which of Flynn's Taxonomy classifications describes multiple autonomous processors or cores concurrently executing different instruction streams on different data sets, typical for modern multi-core systems handling heterogeneous tasks?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "SIMD (Single Instruction, Multiple Data)"
+        },
+        {
+          "type": "string",
+          "content": "SISD (Single Instruction, Single Data)"
+        },
+        {
+          "type": "string",
+          "content": "MIMD (Multiple Instruction, Multiple Data)"
+        },
+        {
+          "type": "string",
+          "content": "SIMT (Single Instruction, Multiple Threads)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Flynn's Taxonomy",
+      "MIMD",
+      "Hardware Execution Models"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Flynn's Taxonomy Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Flynn's Taxonomy:</em> A classification of computer architectures based on the number of instruction streams and data streams processed simultaneously.<br/><em>MIMD (Multiple Instruction, Multiple Data):</em> A category in Flynn's Taxonomy where multiple processors execute different instruction streams on different data streams.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the Flynn's Taxonomy classification that describes multiple autonomous processors executing different instruction streams on different data sets, typical for modern multi-core systems handling heterogeneous tasks.</div><ol><li><strong>Step 1: Refer to the section \"2. Flynn's Taxonomy & Multi-Core Architectures.\"</strong><br/>The document defines MIMD as: <span style='color:var(--orange);font-weight:bold;'>\"MIMD (Multiple Instruction, Multiple Data): Multiple autonomous processors or cores concurrently execute different instruction streams on different data sets. This is the standard for modern multi-core systems handling heterogeneous tasks.\"</span></li><li><strong>Step 2: Compare this definition with the question's description.</strong><br/>The question's description precisely matches the definition of MIMD.</li><li><strong>Step 3: Briefly review other options to confirm.</strong><ul><li>SIMD (Single Instruction, Multiple Data) applies one uniform instruction across multiple data points (vectorized math).</li><li>SISD (Single Instruction, Single Data) is implicitly sequential processing and not listed or detailed as a primary parallel category in the document.</li><li>SIMT (Single Instruction, Multiple Threads) combines vector processing with massive multithreading, typically used in GPUs.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: MIMD is the most general and widely adopted parallel architecture for general-purpose multi-core CPUs, as it allows for the execution of independent, diverse tasks, which is characteristic of \"heterogeneous tasks.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ MIMD (Multiple Instruction, Multiple Data) describes multiple autonomous processors or cores concurrently executing different instruction streams on different data sets, typical for modern multi-core systems handling heterogeneous tasks.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "MIMD (Multiple Instruction, Multiple Data)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is the primary advantage of Distributed Memory Architecture over Shared Memory Architecture?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "High programming ease"
+        },
+        {
+          "type": "string",
+          "content": "Processors communicate quickly via shared memory addresses"
+        },
+        {
+          "type": "string",
+          "content": "Avoids shared-memory bus contention entirely, allowing systems to scale significantly"
+        },
+        {
+          "type": "string",
+          "content": "All processors have equal access to memory and I/O devices"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Distributed Memory Architecture",
+      "Memory Architecture",
+      "Scalability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Advantages of Distributed Memory Architecture</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Distributed Memory Architecture:</em> An architectural model where each processor or node has its own private, isolated physical memory.<br/><em>Bus Contention:</em> Competition among multiple devices for access to a shared communication pathway (bus).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the primary advantage of Distributed Memory Architecture over Shared Memory Architecture.</div><ol><li><strong>Step 1: Refer to the section \"B. Distributed Memory Architecture\" and its \"Advantages.\"</strong><br/>The document lists: <span style='color:var(--orange);font-weight:bold;'>\"Avoids shared-memory bus contention entirely, allowing systems to scale to thousands or millions of processing cores.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"High programming ease\" is an advantage of <span style='color:var(--orange);font-weight:bold;'>Shared Memory Architecture</span>.</li><li>\"Processors communicate quickly via shared memory addresses\" is a characteristic of <span style='color:var(--orange);font-weight:bold;'>Shared Memory Architecture</span>.</li><li>\"Avoids shared-memory bus contention entirely, allowing systems to scale significantly\" directly matches the stated advantage.</li><li>\"All processors have equal access to memory and I/O devices\" describes <span style='color:var(--orange);font-weight:bold;'>Symmetric Multiprocessing (SMP)</span>, a type of shared memory system.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The fundamental limitation of shared memory is bus contention, which limits scalability. Distributed memory overcomes this by having independent memory spaces, enabling much larger-scale systems, despite the higher programming complexity for communication.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary advantage of Distributed Memory Architecture over Shared Memory Architecture is that it avoids shared-memory bus contention entirely, allowing systems to scale significantly.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Avoids shared-memory bus contention entirely, allowing systems to scale significantly"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "SIMT (Single Instruction, Multiple Threads) is commonly used in which type of computing and combines which two key features?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "CPU computing; scalar processing and pipelining"
+        },
+        {
+          "type": "string",
+          "content": "Distributed computing; message passing and fault tolerance"
+        },
+        {
+          "type": "string",
+          "content": "GPU computing; vector processing and massive multithreading"
+        },
+        {
+          "type": "string",
+          "content": "Supercomputing; shared memory and symmetric multiprocessing"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "SIMT",
+      "GPU Computing",
+      "Flynn's Taxonomy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>SIMT in GPU Computing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>SIMT (Single Instruction, Multiple Threads):</em> A hardware execution model where a single instruction is executed simultaneously across groups of threads, often used in GPUs.<br/><em>Vector Processing:</em> Operations that apply a single instruction to multiple data items simultaneously.<br/><em>Massive Multithreading:</em> The ability to execute a large number of threads concurrently.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks where SIMT is used and what two features it combines.</div><ol><li><strong>Step 1: Refer to the description of SIMT under \"2. Flynn's Taxonomy & Multi-Core Architectures.\"</strong><br/>The document states: <span style='color:var(--orange);font-weight:bold;'>\"SIMT (Single Instruction, Multiple Threads): Used widely in GPU computing (e.g., CUDA). It combines vector processing with massive multithreading by executing identical instructions across groups of threads (warps) simultaneously.\"</span></li><li><strong>Step 2: Evaluate the given options based on this information.</strong><ul><li>Option 1 (CPU computing; scalar processing and pipelining) does not match.</li><li>Option 2 (Distributed computing; message passing and fault tolerance) describes distributed systems, not SIMT.</li><li>Option 3 (GPU computing; vector processing and massive multithreading) perfectly matches the description in the document.</li><li>Option 4 (Supercomputing; shared memory and symmetric multiprocessing) describes aspects of shared memory systems, not specifically SIMT's core features.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: SIMT is a cornerstone of modern GPU architecture, enabling high-throughput parallel execution by applying a single instruction across many threads, analogous to SIMD but at a thread level.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ SIMT is commonly used in GPU computing and combines vector processing with massive multithreading.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "GPU computing; vector processing and massive multithreading"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What is the smallest unit of executable instructions managed by an operating system scheduler, and what distinguishes it from independent processes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A process; it has an isolated address space."
+        },
+        {
+          "type": "string",
+          "content": "A thread; it shares common memory spaces and system resources within the same process."
+        },
+        {
+          "type": "string",
+          "content": "A kernel; it is a parallel C/C++ function executed directly on the GPU."
+        },
+        {
+          "type": "string",
+          "content": "A warp; it is a hardware-level execution unit comprising 32 consecutive threads."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Threads",
+      "Thread Models",
+      "Operating System Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of a Thread</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Thread:</em> The smallest unit of executable instructions managed by an operating system scheduler, residing within a process and sharing its resources.<br/><em>Process:</em> An independent execution unit with its own isolated address space and resources.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the definition of the smallest executable unit managed by an OS scheduler and how it differs from a process.</div><ol><li><strong>Step 1: Refer to the definition of a thread in Part 5.</strong><br/>The document states: <span style='color:var(--orange);font-weight:bold;'>\"A thread is the smallest unit of executable instructions managed by an operating system scheduler. Unlike independent processes that have isolated address spaces, threads residing within the same process share common memory spaces, open file descriptors, and system resources.\"</span></li><li><strong>Step 2: Evaluate the given options against this definition.</strong><ul><li>\"A process; it has an isolated address space.\" This defines a process, not the smallest unit *managed by an OS scheduler* in the context of parallelism, and it's distinguished *from* threads.</li><li>\"A thread; it shares common memory spaces and system resources within the same process.\" This accurately defines a thread and its key distinction from a process as described.</li><li>\"A kernel; it is a parallel C/C++ function executed directly on the GPU.\" This defines a kernel in GPU programming (Part 7), not the general OS concept of an executable unit.</li><li>\"A warp; it is a hardware-level execution unit comprising 32 consecutive threads.\" This defines a warp in CUDA (Part 7), which is a specific hardware grouping of threads, not the fundamental smallest executable unit.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The core distinction between threads and processes is their resource sharing. Threads within the same process share resources, making them lightweight for concurrent execution within a single program, while processes are isolated.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A thread is the smallest unit of executable instructions managed by an operating system scheduler; it shares common memory spaces and system resources within the same process.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A thread; it shares common memory spaces and system resources within the same process."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Which type of parallelism is exemplified by a media software program decoding a video stream on Thread 1, rendering UI graphics on Thread 2, and playing audio on Thread 3?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Data Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Implicit Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Task Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Vector Parallelism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Task Parallelism",
+      "Parallelism Types",
+      "Thread Models"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Data Parallelism vs. Task Parallelism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Data Parallelism:</em> The same operation or instruction set is executed simultaneously across different subsets of a shared dataset.<br/><em>Task Parallelism:</em> Distinct, independent computational functions or subroutines are executed concurrently on different threads.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question presents a scenario where different functions (decoding video, rendering UI, playing audio) are executed concurrently on separate threads and asks to identify the type of parallelism.</div><ol><li><strong>Step 1: Refer to the section \"2. Data Parallelism vs. Task Parallelism.\"</strong><br/>The document provides definitions and examples for both.</li><li><strong>Step 2: Compare the scenario with the definitions.</strong><br/>The scenario involves <span style='color:var(--orange);font-weight:bold;'>\"distinct, independent computational functions\"</span> (video decoding, UI rendering, audio playback) running <span style='color:var(--orange);font-weight:bold;'>\"concurrently on different threads.\"</span> This perfectly matches the definition of <span style='color:var(--orange);font-weight:bold;'>Task Parallelism</span>, which is further illustrated by the example provided in the document: <span style='color:var(--orange);font-weight:bold;'>\"A media software program decoding a video stream on Thread 1, rendering UI graphics on Thread 2, and playing audio on Thread 3.\"</span></li><li><strong>Step 3: Evaluate other options.</strong><ul><li>\"Data Parallelism\" would involve applying the same operation to different parts of the same data (e.g., applying an image filter across millions of pixels).</li><li>\"Implicit Parallelism\" is a programming approach, not a type of parallelism itself.</li><li>\"Vector Parallelism\" is not explicitly defined in this section, though it relates to SIMD.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The key differentiator is whether the tasks are different (Task Parallelism) or if the same task is applied to different data (Data Parallelism). The example clearly shows different, independent operations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The type of parallelism exemplified is Task Parallelism.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Task Parallelism"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "What is the primary danger associated with Race Conditions in concurrent programming?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Permanent blocking of threads, leading to a system stall."
+        },
+        {
+          "type": "string",
+          "content": "Silent data corruption and erratic bugs that are difficult to reproduce."
+        },
+        {
+          "type": "string",
+          "content": "High development complexity due to explicit synchronization."
+        },
+        {
+          "type": "string",
+          "content": "Increased communication overhead between processing units."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Race Conditions",
+      "Thread Safety",
+      "Concurrency Challenges"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Danger of Race Conditions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Race Condition:</em> Occurs when multiple concurrent threads access and modify shared data simultaneously, with the final outcome depending on the unpredictable timing of their execution.<br/><em>Deadlock:</em> A state in which two or more threads are permanently blocked, each waiting for the other to release a resource.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the primary danger associated with Race Conditions.</div><ol><li><strong>Step 1: Locate the section \"3. Thread Safety Challenges: Race Conditions & Deadlocks.\"</strong><br/>Under \"Race Conditions,\" the document states: <span style='color:var(--orange);font-weight:bold;'>\"Danger: They lead to silent data corruption and erratic bugs that are difficult to reproduce.\"</span></li><li><strong>Step 2: Evaluate the given options against this statement.</strong><ul><li>\"Permanent blocking of threads, leading to a system stall\" describes a <span style='color:var(--orange);font-weight:bold;'>Deadlock</span>, not a Race Condition.</li><li>\"Silent data corruption and erratic bugs that are difficult to reproduce\" directly matches the stated danger of Race Conditions.</li><li>\"High development complexity due to explicit synchronization\" is a trade-off of <span style='color='var(--orange);font-weight:bold;'>Explicit Parallelism</span>, not a direct danger of race conditions themselves.</li><li>\"Increased communication overhead between processing units\" is a general concern in parallel/distributed systems, not the specific danger of race conditions.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Race conditions are problematic because they don't always manifest, leading to inconsistent and hard-to-trace errors in data, rather than an immediate crash or obvious stall. This makes them particularly insidious.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary danger associated with Race Conditions is silent data corruption and erratic bugs that are difficult to reproduce.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Silent data corruption and erratic bugs that are difficult to reproduce."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Describe the Fork-Join Execution Model, including its main steps.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Fork-Join Model",
+      "Thread Execution",
+      "Parallel Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Fork-Join Execution Model</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Fork-Join Model:</em> A parallel programming pattern where a master thread initiates parallel execution (forks) into multiple worker threads, and then waits for all worker threads to complete their tasks and merge back (join) into the master thread.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for a description of the Fork-Join Execution Model and its main steps.</div><ol><li><strong>Mark Scheme Point 1: Initial Sequential Execution.</strong><br/>The program begins execution sequentially on a <span style='color:var(--orange);font-weight:bold;'>single master thread.</span></li><li><strong>Mark Scheme Point 2: Fork Operation.</strong><br/>When a compute-heavy, parallelizable region of code is encountered, the master thread <span style='color:var(--orange);font-weight:bold;'>forks execution into multiple worker threads.</span> These worker threads then run concurrently on separate processing cores.</li><li><strong>Mark Scheme Point 3: Parallel Execution.</strong><br/>The worker threads perform their respective parallel execution segments <span style='color:var(--orange);font-weight:bold;'>independently and simultaneously.</span></li><li><strong>Mark Scheme Point 4: Join Operation.</strong><br/>Once all worker threads complete their parallel tasks, they <span style='color:var(--orange);font-weight:bold;'>synchronize and join back into the master thread,</span> which then continues the program's sequential execution.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: A common oversight is missing the initial sequential phase and the final return to sequential execution, or simply describing threads starting and stopping without the \"fork\" and \"join\" terminology which is central to the model. The diagram explicitly shows these stages.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Fork-Join Execution Model describes a parallel programming pattern where the program starts sequentially on a single master thread. When a parallelizable region is reached, the master thread forks execution into multiple worker threads that run concurrently on separate cores. Once these worker threads complete their tasks, they synchronize and join back into the master thread, which then continues the program's sequential execution.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Fork-Join Execution Model describes a parallel programming pattern where the program starts sequentially on a single master thread. When a compute-heavy, parallelizable region is reached, the master thread forks execution into multiple worker threads that run concurrently on separate cores. Once these worker threads finish their parallel execution segments, they synchronize and join back into the master thread, which then continues execution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Which synchronization primitive ensures that only one thread can enter a critical section at any given moment?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Semaphore"
+        },
+        {
+          "type": "string",
+          "content": "Barrier"
+        },
+        {
+          "type": "string",
+          "content": "Atomic Operation"
+        },
+        {
+          "type": "string",
+          "content": "Mutex (Mutual Exclusion Lock)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mutex",
+      "Synchronization Primitives",
+      "Critical Section"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Core Synchronization Primitives</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Critical Section:</em> A segment of code that accesses shared resources and must not be concurrently executed by more than one thread.<br/><em>Mutex (Mutual Exclusion Lock):</em> A binary locking primitive designed to enforce mutual exclusion, ensuring only one thread can access a critical section at a time.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify the synchronization primitive that ensures only one thread can enter a critical section at a given moment.</div><ol><li><strong>Step 1: Refer to the section \"1. Core Synchronization Primitives.\"</strong><br/>The document defines Mutex as: <span style='color:var(--orange);font-weight:bold;'>\"Mutex (Mutual Exclusion Lock): A binary locking primitive that ensures only one thread can enter a critical section at any given moment. Any other thread attempting to acquire the locked mutex blocks until the owner releases it.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Semaphore\" manages a set number of permits, allowing a pool of multiple threads to access a bounded shared resource, not just one.</li><li>\"Barrier\" is a synchronization checkpoint where all threads must arrive before continuing, not for critical section access.</li><li>\"Atomic Operation\" is a low-level, uninterruptible step, not a general critical section lock.</li><li>\"Mutex (Mutual Exclusion Lock)\" precisely matches the description.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The term \"mutual exclusion\" itself means that only one thread can access a resource at a time, which is the exact function of a mutex for critical sections. The diagram also clearly states \"Mutual exclusion exactly 1 thread\" under Mutex.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Mutex (Mutual Exclusion Lock) is the synchronization primitive that ensures only one thread can enter a critical section at any given moment.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutex (Mutual Exclusion Lock)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "A synchronization primitive that manages a set number of permits, allowing a defined pool of multiple threads to access a bounded shared resource concurrently, is called a:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Mutex"
+        },
+        {
+          "type": "string",
+          "content": "Semaphore"
+        },
+        {
+          "type": "string",
+          "content": "Barrier"
+        },
+        {
+          "type": "string",
+          "content": "Spinlock"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Semaphore",
+      "Synchronization Primitives",
+      "Bounded Resource"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of a Semaphore</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Semaphore:</em> A synchronization primitive that controls access to a common resource in a parallel programming environment by using a counter to manage a set number of permits.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the synchronization primitive that manages a set number of permits, allowing a defined pool of multiple threads to access a bounded shared resource concurrently.</div><ol><li><strong>Step 1: Refer to the section \"1. Core Synchronization Primitives.\"</strong><br/>The document defines Semaphore as: <span style='color:var(--orange);font-weight:bold;'>\"Semaphore: A synchronization primitive that manages a set number of permits. Unlike a mutex, a semaphore allows a defined pool of multiple threads to access a bounded shared resource concurrently.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Mutex\" ensures only *one* thread enters a critical section.</li><li>\"Semaphore\" precisely matches the description.</li><li>\"Barrier\" is a synchronization point for all threads to meet.</li><li>\"Spinlock\" is a specialized locking mechanism, not defined by managing permits for a pool of threads.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The key distinguishing feature here is the management of a *set number of permits* for *multiple threads* to access a *bounded shared resource*. This is the defining characteristic of a semaphore, contrasting with a mutex which allows only one. The diagram also shows \"Counter-based allows N threads\" for Semaphore.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A synchronization primitive that manages a set number of permits for multiple threads to access a bounded shared resource concurrently is called a Semaphore.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Semaphore"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "What is the ideal use case for a Spinlock?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Long critical sections with frequent thread context-switching."
+        },
+        {
+          "type": "string",
+          "content": "Situations where threads must yield execution to the OS scheduler."
+        },
+        {
+          "type": "string",
+          "content": "Extremely short critical sections where context-switching overhead exceeds spinning cost."
+        },
+        {
+          "type": "string",
+          "content": "Managing a defined pool of multiple threads accessing a shared resource."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Spinlocks",
+      "Locking Mechanisms",
+      "Synchronization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ideal Use Case for Spinlocks</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Spinlock:</em> A lightweight lock where waiting threads repeatedly check (spin) if the lock is available, instead of yielding execution to the OS scheduler.<br/><em>Context-switching overhead:</em> The time and resources consumed by the operating system when switching control from one thread to another.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the ideal use case for a Spinlock.</div><ol><li><strong>Step 1: Refer to the section \"2. Specialized Locking Mechanisms\" and the definition of \"Spinlocks.\"</strong><br/>Under \"Spinlocks,\" the document states: <span style='color:var(--orange);font-weight:bold;'>\"Ideal Use: Extremely short critical sections where the thread context-switching overhead exceeds the cost of spinning.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Long critical sections with frequent thread context-switching\" is the opposite of the ideal use case; spinlocks are inefficient for long waits.</li><li>\"Situations where threads must yield execution to the OS scheduler\" describes a traditional blocking lock, not a spinlock (which *does not* yield).</li><li>\"Extremely short critical sections where context-switching overhead exceeds spinning cost\" directly matches the stated ideal use.</li><li>\"Managing a defined pool of multiple threads accessing a shared resource\" describes a <span style='color:var(--orange);font-weight:bold;'>Semaphore</span>, not a spinlock.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Spinlocks are effective when the expected wait time for a lock is less than the cost of a context switch, which typically means very short critical sections. Otherwise, busy-waiting wastes CPU cycles.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The ideal use case for a Spinlock is extremely short critical sections where the thread context-switching overhead exceeds the cost of spinning.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Extremely short critical sections where context-switching overhead exceeds spinning cost."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which concept allows a thread that already holds a lock to re-acquire the same lock multiple times without deadlocking itself?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Atomic Operation"
+        },
+        {
+          "type": "string",
+          "content": "Recursive Lock (Re-entrant Lock)"
+        },
+        {
+          "type": "string",
+          "content": "Spinlock"
+        },
+        {
+          "type": "string",
+          "content": "Barrier"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recursive Locks",
+      "Locking Mechanisms",
+      "Thread Safety"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Recursive (Re-entrant) Locks</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Recursive Lock (Re-entrant Lock):</em> A type of lock that permits the same thread to acquire it multiple times without blocking itself. It keeps a count of how many times the lock has been acquired by the current owner.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the concept that allows a thread to re-acquire a lock it already holds without causing a deadlock.</div><ol><li><strong>Step 1: Refer to the section \"2. Specialized Locking Mechanisms.\"</strong><br/>The document defines Recursive Locks as: <span style='color:var(--orange);font-weight:bold;'>\"Recursive Locks (Re-entrant Locks): Allow a thread that already holds a lock to re-acquire the same lock multiple times (e.g., inside recursive functions or nested method calls) without deadlocking itself.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Atomic Operation\" performs single, uninterruptible steps, not related to re-acquiring locks.</li><li>\"Recursive Lock (Re-entrant Lock)\" directly matches the description.</li><li>\"Spinlock\" is a type of lock that busy-waits, but doesn't inherently allow re-acquiring by the same thread without potential deadlock unless specifically implemented as re-entrant.</li><li>\"Barrier\" is a synchronization point for multiple threads, not a lock for critical sections.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Standard mutexes would cause a deadlock if the same thread attempts to acquire the lock a second time before releasing it. Recursive locks are designed to handle this specific scenario, common in recursive functions or nested calls within the same thread.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Recursive Lock (Re-entrant Lock) is the concept that allows a thread that already holds a lock to re-acquire the same lock multiple times without deadlocking itself.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recursive Lock (Re-entrant Lock)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "What is the key principle behind Transactional Memory, and how does it handle conflicting modifications?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Transactional Memory",
+      "Conflict Resolution",
+      "Synchronization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transactional Memory Principles and Conflict Resolution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Transactional Memory:</em> A concurrency control mechanism that borrows concepts from database transactions (ACID properties) and applies them to shared-memory operations, aiming to simplify parallel programming by providing atomic blocks of code.<br/><em>Optimistic Execution:</em> Assuming no conflicts will occur during a transaction and executing it first, then checking for conflicts later.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the key principle behind Transactional Memory and its method for handling conflicting modifications.</div><ol><li><strong>Mark Scheme Point 1: Key Principle (Optimistic Execution).</strong><br/>The key principle is <span style='color:var(--orange);font-weight:bold;'>Optimistic Execution.</span> A thread speculatively executes a block of code, tracking all its reads and writes in a private transaction log.</li><li><strong>Mark Scheme Point 2: Validation and Commit.</strong><br/>If no other thread modifies the same memory addresses during its execution, the transaction successfully <span style='color:var(--orange);font-weight:bold;'>commits its changes to global memory atomically.</span></li><li><strong>Mark Scheme Point 3: Conflict Resolution (Abort and Retry).</strong><br/>If another thread makes conflicting modifications (i.e., interferes with the speculative execution), the transaction is <span style='color:var(--orange);font-weight:bold;'>aborted.</span> This involves rolling back its speculative changes, and the transaction is then <span style='color:var(--orange);font-weight:bold;'>retried automatically</span> until it can complete without conflicts.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The core idea is to try and run code in parallel without explicit locks, only resorting to rollback and retry if conflicts are detected. This makes it \"optimistic.\" The conflict resolution mechanism is crucial to its correctness.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The key principle behind Transactional Memory is Optimistic Execution, where a thread speculatively executes a block of code, tracking its reads and writes in a private log. If no other thread modifies the same memory addresses during execution, the transaction commits its changes atomically. However, if another thread makes conflicting modifications, the transaction aborts, rolls back its speculative changes, and retries automatically.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The key principle behind Transactional Memory is Optimistic Execution, where a thread executes a block of code speculatively, tracking all reads and writes in a private transaction log. If another thread makes conflicting modifications, the transaction aborts, rolls back its speculative changes, and retries automatically. Otherwise, if no conflicts occur, the transaction commits its changes to global memory atomically."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "What distinguishes Hardware Transactional Memory (HTM) from Software Transactional Memory (STM)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "HTM is highly flexible and hardware-agnostic, while STM offers very low latency."
+        },
+        {
+          "type": "string",
+          "content": "HTM is implemented directly in processor caches and CPU instruction sets, offering very low latency."
+        },
+        {
+          "type": "string",
+          "content": "STM tracks changes in processor caches, while HTM uses software libraries."
+        },
+        {
+          "type": "string",
+          "content": "STM avoids tracking overhead, while HTM carries higher tracking overhead."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Transactional Memory",
+      "HTM",
+      "STM"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hardware vs. Software Transactional Memory</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Hardware Transactional Memory (HTM):</em> A transactional memory implementation supported directly by processor hardware.<br/><em>Software Transactional Memory (STM):</em> A transactional memory implementation provided by software libraries or runtimes.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the distinction between Hardware Transactional Memory (HTM) and Software Transactional Memory (STM).</div><ol><li><strong>Step 1: Refer to the \"Types\" subsection under \"3. Transactional Memory (STM & HTM).\"</strong><br/>The document states:<br/>- <span style='color:var(--orange);font-weight:bold;'>\"Hardware Transactional Memory (HTM): Implemented directly inside processor caches and CPU instruction sets; offers very low latency.\"</span><br/>- <span style='color:var(--orange);font-weight:bold;'>\"Software Transactional Memory (STM): Implemented in software libraries/runtimes; highly flexible and hardware-agnostic, though it carries higher tracking overhead.\"</span></li><li><strong>Step 2: Evaluate the given options based on these definitions.</strong><ul><li>\"HTM is highly flexible and hardware-agnostic, while STM offers very low latency.\" This is incorrect. HTM is hardware-specific, and STM has higher overhead (not low latency).</li><li>\"HTM is implemented directly in processor caches and CPU instruction sets, offering very low latency.\" This accurately describes HTM as stated in the document.</li><li>\"STM tracks changes in processor caches, while HTM uses software libraries.\" This reverses the implementations and tracking mechanisms.</li><li>\"STM avoids tracking overhead, while HTM carries higher tracking overhead.\" This is incorrect. STM carries higher tracking overhead, while HTM offers very low latency.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The fundamental difference is *where* the transactional logic is implemented – hardware vs. software. This implementation choice directly affects performance characteristics like latency and flexibility.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ HTM is distinguished from STM in that HTM is implemented directly inside processor caches and CPU instruction sets, offering very low latency.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HTM is implemented directly in processor caches and CPU instruction sets, offering very low latency."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "In GPU computing, what is the role of a 'Kernel'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The central CPU that controls application flow."
+        },
+        {
+          "type": "string",
+          "content": "A parallel C/C++ function executed directly on the GPU across thousands of threads."
+        },
+        {
+          "type": "string",
+          "content": "A grouping of threads that execute on the same streaming multiprocessor."
+        },
+        {
+          "type": "string",
+          "content": "The complete collection of all thread blocks across the entire GPU."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Kernel",
+      "GPU Architecture",
+      "CUDA Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of a Kernel in GPU Computing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Kernel:</em> In GPU programming, a function written for parallel execution on the GPU's many cores, launched by the host (CPU).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the role of a 'Kernel' in GPU computing.</div><ol><li><strong>Step 1: Refer to the section \"1. CPU (Host) vs. GPU (Device)\" under Part 7.</strong><br/>The document explicitly defines Kernel as: <span style='color:var(--orange);font-weight:bold;'>\"Kernel: A parallel C/C++ function executed directly on the GPU across thousands of threads.\"</span></li><li><strong>Step 2: Evaluate the given options against this definition.</strong><ul><li>\"The central CPU that controls application flow\" describes the <span style='color:var(--orange);font-weight:bold;'>Host</span> (CPU).</li><li>\"A parallel C/C++ function executed directly on the GPU across thousands of threads\" directly matches the definition of a Kernel.</li><li>\"A grouping of threads that execute on the same streaming multiprocessor\" describes a <span style='color:var(--orange);font-weight:bold;'>Thread Block</span> in the CUDA hierarchy.</li><li>\"The complete collection of all thread blocks across the entire GPU\" describes a <span style='color:var(--orange);font-weight:bold;'>Grid</span> in the CUDA hierarchy.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Kernels are the fundamental units of parallel work that are offloaded from the CPU to the GPU. They encapsulate the computations that are performed in parallel by numerous threads on the GPU.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In GPU computing, a 'Kernel' is a parallel C/C++ function executed directly on the GPU across thousands of threads.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A parallel C/C++ function executed directly on the GPU across thousands of threads."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "In the CUDA Thread Hierarchy, what is a 'Warp'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The basic execution unit that runs an instance of the kernel function."
+        },
+        {
+          "type": "string",
+          "content": "A hardware-level execution unit comprising 32 consecutive threads running instructions in lockstep."
+        },
+        {
+          "type": "string",
+          "content": "A grouping of threads that synchronize execution and communicate via Shared Memory."
+        },
+        {
+          "type": "string",
+          "content": "The complete collection of all thread blocks across the entire GPU."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Warp",
+      "CUDA Thread Hierarchy",
+      "GPU Computing"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>CUDA Thread Hierarchy - Warp</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Warp:</em> A specific hardware-level execution unit in NVIDIA GPUs, consisting of 32 threads that execute the same instruction simultaneously (SIMT).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the definition of a 'Warp' within the CUDA Thread Hierarchy.</div><ol><li><strong>Step 1: Refer to the section \"2. CUDA Thread Hierarchy.\"</strong><br/>The document defines Warp as: <span style='color:var(--orange);font-weight:bold;'>\"Warp: A hardware-level execution unit comprising 32 consecutive threads. Warps run instructions together in lockstep (SIMT execution).\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"The basic execution unit that runs an instance of the kernel function\" describes a <span style='color:var(--orange);font-weight:bold;'>Thread</span>.</li><li>\"A hardware-level execution unit comprising 32 consecutive threads running instructions in lockstep\" directly matches the definition of a Warp.</li><li>\"A grouping of threads that synchronize execution and communicate via Shared Memory\" describes a <span style='color:var(--orange);font-weight:bold;'>Thread Block</span>.</li><li>\"The complete collection of all thread blocks allocated to execute a single kernel\" describes a <span style='color:var(--orange);font-weight:bold;'>Grid</span>.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Warps are a key hardware concept in CUDA, representing how threads are grouped and executed by the streaming multiprocessors (SMs). Their lockstep execution is fundamental to SIMT.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A 'Warp' in the CUDA Thread Hierarchy is a hardware-level execution unit comprising 32 consecutive threads running instructions in lockstep.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A hardware-level execution unit comprising 32 consecutive threads running instructions in lockstep."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which component of the CUDA Thread Hierarchy is a grouping of threads (and warps) that execute on the same streaming multiprocessor, synchronize execution, and communicate via high-speed, on-chip Shared Memory?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Thread"
+        },
+        {
+          "type": "string",
+          "content": "Warp"
+        },
+        {
+          "type": "string",
+          "content": "Thread Block"
+        },
+        {
+          "type": "string",
+          "content": "Grid"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thread Block",
+      "CUDA Thread Hierarchy",
+      "Shared Memory"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>CUDA Thread Hierarchy - Thread Block</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Thread Block:</em> A fundamental organizational unit in CUDA, grouping threads that can cooperate by sharing memory and synchronizing their execution.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify the CUDA component that is a grouping of threads (and warps) executing on the same streaming multiprocessor, capable of synchronizing and communicating via Shared Memory.</div><ol><li><strong>Step 1: Refer to the section \"2. CUDA Thread Hierarchy.\"</strong><br/>The document defines Thread Block as: <span style='color:var(--orange);font-weight:bold;'>\"Thread Block: A grouping of threads (and warps) that execute on the same streaming multiprocessor, synchronize execution, and communicate via high-speed, on-chip Shared Memory.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Thread\" is the basic execution unit.</li><li>\"Warp\" is a hardware-level execution unit of 32 threads.</li><li>\"Thread Block\" directly matches the detailed description provided in the question.</li><li>\"Grid\" is the complete collection of all thread blocks.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The ability for threads to synchronize and communicate via *Shared Memory* is the defining characteristic of a Thread Block, enabling cooperative parallelism at a fine-grained level on the GPU.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The component of the CUDA Thread Hierarchy described is a Thread Block.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thread Block"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Which load balancing strategy is suitable for unpredictable or data-dependent workloads but incurs additional communication and runtime scheduling overhead?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Static Load Balancing"
+        },
+        {
+          "type": "string",
+          "content": "Dynamic Load Balancing"
+        },
+        {
+          "type": "string",
+          "content": "Fine-Grained Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Coarse-Grained Parallelism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dynamic Load Balancing",
+      "Load Balancing Strategies",
+      "Workload Balancing"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Load Balancing Strategies</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Load Balancing:</em> The process of distributing computational work uniformly across available processing units to prevent bottlenecks.<br/><em>Dynamic Load Balancing:</em> Assigns tasks at runtime based on real-time conditions.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the load balancing strategy that adapts to unpredictable workloads but introduces runtime overhead.</div><ol><li><strong>Step 1: Refer to the section \"1. Load Balancing Strategies.\"</strong><br/>The document defines Dynamic Load Balancing as: <span style='color:var(--orange);font-weight:bold;'>\"Dynamic Load Balancing: Tasks are assigned at runtime based on worker availability and real-time processing demands. It adapts well to unpredictable or data-dependent workloads, but incurs additional communication and runtime scheduling overhead.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Static Load Balancing\" divides tasks before execution, assuming predictable times, and performs poorly if workloads fluctuate unexpectedly.</li><li>\"Dynamic Load Balancing\" precisely matches the description in the question.</li><li>\"Fine-Grained Parallelism\" and \"Coarse-Grained Parallelism\" refer to the size of tasks, not load balancing strategies themselves.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Dynamic load balancing's strength lies in its adaptability to changing conditions, which is crucial for unpredictable workloads. However, this flexibility comes with the cost of runtime computation and communication for making those dynamic decisions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dynamic Load Balancing is the strategy suitable for unpredictable or data-dependent workloads but incurs additional communication and runtime scheduling overhead.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dynamic Load Balancing"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "A workload partitioned into many small tasks, providing high parallelism potential but requiring frequent synchronization and high communication overhead, describes:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Coarse-Grained Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Static Load Balancing"
+        },
+        {
+          "type": "string",
+          "content": "Fine-Grained Parallelism"
+        },
+        {
+          "type": "string",
+          "content": "Implicit Parallelism"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Fine-Grained Parallelism",
+      "Parallel Granularity",
+      "Workload Balancing"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Parallel Granularity - Fine-Grained</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Parallel Granularity:</em> Refers to the size of the computational tasks into which a workload is divided for parallel execution.<br/><em>Fine-Grained Parallelism:</em> Workloads are divided into many small tasks.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question describes a workload partitioned into many small tasks, with high parallelism potential, but also frequent synchronization and high communication overhead. It asks what this describes.</div><ol><li><strong>Step 1: Refer to the section \"2. Parallel Granularity.\"</strong><br/>The document defines Fine-Grained Parallelism as: <span style='color:var(--orange);font-weight:bold;'>\"Fine-Grained Parallelism: Workloads are partitioned into many small tasks. This provides high parallelism potential, but requires frequent synchronization and high communication overhead.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Coarse-Grained Parallelism\" involves fewer, larger tasks, minimizing communication and synchronization overhead.</li><li>\"Static Load Balancing\" is a load balancing strategy, not a granularity type.</li><li>\"Fine-Grained Parallelism\" directly matches the description.</li><li>\"Implicit Parallelism\" is a programming approach, not a granularity type.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The trade-off between parallelism potential and communication/synchronization overhead is central to granularity. Small tasks mean more opportunities for parallel execution but also more interaction between tasks, leading to higher overhead.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ This description refers to Fine-Grained Parallelism.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fine-Grained Parallelism"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "According to Amdahl's Law, if 80% of a program (P = 0.8) can be parallelized and it runs on 4 processing units (N = 4), what is the theoretical speedup?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2.5 times"
+        },
+        {
+          "type": "string",
+          "content": "3.33 times"
+        },
+        {
+          "type": "string",
+          "content": "1.67 times"
+        },
+        {
+          "type": "string",
+          "content": "4.0 times"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amdahl's Law",
+      "Scalability Laws",
+      "Performance Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amdahl's Law Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Amdahl's Law:</em> Predicts the theoretical maximum speedup of a program when the workload size is fixed, limited by its sequential fraction.<br/><em>Formula:</em> Speedup = 1 / ((1 - P) + (P / N))<br/>Where:<br/>P = parallel proportion of the program (0 ≤ P ≤ 1)<br/>N = number of processing units/cores</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to calculate the theoretical speedup using Amdahl's Law given P = 0.8 and N = 4.</div><ol><li><strong>Step 1: Identify the given values.</strong><br/>Parallel proportion (P) = <span style='color:var(--orange);font-weight:bold;'>0.8</span><br/>Number of processing units (N) = <span style='color:var(--orange);font-weight:bold;'>4</span></li><li><strong>Step 2: Apply Amdahl's Law formula.</strong><br/>Speedup = 1 / ((1 - P) + (P / N))<br/>Speedup = 1 / ((1 - 0.8) + (0.8 / 4))<br/>Speedup = 1 / (0.2 + 0.2)<br/>Speedup = 1 / 0.4</li><li><strong>Step 3: Calculate the result.</strong><br/>Speedup = <span style='color:var(--orange);font-weight:bold;'>2.5</span></li><li><strong>Step 4: Evaluate the options.</strong><ul><li>\"2.5 times\" matches the calculated speedup.</li><li>The other options are incorrect calculations.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Amdahl's Law highlights the limitation imposed by the sequential portion. Even with perfect parallelization of 80% on 4 cores, the remaining 20% sequential part limits the overall speedup significantly, preventing it from reaching the ideal 4x speedup. The maximum speedup for P=0.8 is 1 / (1 - 0.8) = 1 / 0.2 = 5, which is approached with infinite processors. With N=4, a speedup of 2.5 is a reasonable result, significantly less than 4.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The theoretical speedup is 2.5 times.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2.5 times"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Discuss the fundamental difference between Amdahl's Law and Gustafson's Law regarding problem size and their implications for scalability.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amdahl's Law",
+      "Gustafson's Law",
+      "Scalability Laws",
+      "Problem Size"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amdahl's Law vs. Gustafson's Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Amdahl's Law (Fixed Problem Size):</em> Predicts speedup assuming the total problem size remains constant, regardless of the number of processors. It emphasizes the bottleneck of the sequential portion.<br/><em>Gustafson's Law (Scaled Problem Size):</em> Predicts speedup assuming that as more processing power becomes available, the problem size scales proportionally to utilize the increased resources. It focuses on the increased work that can be done in the same amount of time.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the fundamental difference between Amdahl's Law and Gustafson's Law regarding problem size and their implications for scalability.</div><ol><li><strong>Mark Scheme Point 1: Fundamental Assumption about Problem Size.</strong><br/>The key difference lies in their assumptions about problem size:<br/>- <span style='color:var(--orange);font-weight:bold;'>Amdahl's Law assumes a fixed problem size.</span> This means the amount of work to be done remains constant, even as the number of processors increases.<br/>- <span style='color:var(--orange);font-weight:bold;'>Gustafson's Law assumes a scaled problem size.</span> It postulates that as more processing power becomes available, the overall problem size and thus the parallel portion of the workload are increased accordingly to fully utilize the new resources.</li><li><strong>Mark Scheme Point 2: Implications for Scalability.</strong><br/>- <span style='color:var(--orange);font-weight:bold;'>Amdahl's Law implies that speedup is inherently limited by the strictly serial/sequential portion</span> of the program (1-P), irrespective of how many processors are added. As N approaches infinity, the speedup approaches 1 / (1-P). This indicates that for fixed problems, there's a ceiling to parallel performance.<br/>- <span style='color:var(--orange);font-weight:bold;'>Gustafson's Law suggests that as problem size scales with processor count, near-linear speedups are achievable.</span> This reflects the idea that with more resources, we tackle larger, more complex problems rather than just solving the same problem faster. It provides a more optimistic view of scalability for parallel systems when the workload can expand.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: A common misconception is that Amdahl's Law always presents a pessimistic view, while Gustafson's is always optimistic. The nuance is that each law applies to a different *type* of scalability: Amdahl for strong scaling (fixed problem, more processors), and Gustafson for weak scaling (scaled problem, more processors). Both are correct within their respective contexts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The fundamental difference between Amdahl's Law and Gustafson's Law lies in their assumptions about problem size. Amdahl's Law assumes a fixed problem size, implying that speedup is ultimately limited by the sequential portion of the program regardless of the number of processors. Gustafson's Law, conversely, assumes that as processing power increases, the problem size scales proportionally to utilize the available resources, thereby suggesting that near-linear speedups are achievable for sufficiently large problems, providing a more optimistic view of scalability for expanding workloads.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amdahl's Law assumes a fixed problem size, meaning the total amount of work remains constant regardless of the number of processors. Its implication for scalability is that speedup is always limited by the strictly serial portion of the program, even with an infinite number of processors. Gustafson's Law, however, assumes a scaled problem size, where the workload grows proportionally with the number of processors. This implies that as more processing power becomes available, larger and more complex problems can be tackled efficiently, suggesting that near-linear speedups are achievable when the problem scales with the system size."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Which MPI collective operation is responsible for distributing identical data, configuration parameters, or instructions from a designated root process to every other process in the communicator?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "MPI_Reduce"
+        },
+        {
+          "type": "string",
+          "content": "MPI_Gather"
+        },
+        {
+          "type": "string",
+          "content": "MPI_Bcast (Broadcasting)"
+        },
+        {
+          "type": "string",
+          "content": "MPI_Scatter"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "MPI_Bcast",
+      "Collective Operations",
+      "Distributed Memory Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>MPI Collective Operations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>MPI (Message Passing Interface):</em> A standardized and portable message-passing standard designed to allow parallel programs to be written for distributed memory systems.<br/><em>Collective Operations:</em> MPI functions that involve communication among all processes in a communicator group.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the MPI collective operation that distributes identical data from a root process to all other processes.</div><ol><li><strong>Step 1: Refer to the section \"1. Core Collective Operations\" under Part 9.</strong><br/>The document defines MPI_Bcast as: <span style='color:var(--orange);font-weight:bold;'>\"MPI_Bcast (Broadcasting): A designated root process distributes identical data, configuration parameters, or instructions to every process in the communicator.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"MPI_Reduce\" collects values and applies an operation, returning the result to the root.</li><li>\"MPI_Gather\" (not explicitly detailed, but generally gathers data to a single root) and \"MPI_Scatter\" (not explicitly detailed, but generally sends distinct portions of data from root to all processes) are common MPI operations, but the document does not define them in detail in this context to match the description. However, the exact phrasing for MPI_Bcast is present.</li><li>\"MPI_Bcast (Broadcasting)\" precisely matches the description.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Broadcasting is a one-to-all communication pattern where all processes receive the *same* data from a single source. This is a fundamental operation for initializing parameters or distributing common instructions in distributed memory programs. The diagram also illustrates this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ MPI_Bcast (Broadcasting) is the MPI collective operation responsible for distributing identical data from a designated root process to every other process in the communicator.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "MPI_Bcast (Broadcasting)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which network topology is characterized by nodes arranged in a 2D or 3D coordinate grid with multi-directional links?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ring"
+        },
+        {
+          "type": "string",
+          "content": "Mesh"
+        },
+        {
+          "type": "string",
+          "content": "Hypercube"
+        },
+        {
+          "type": "string",
+          "content": "Tree Structure"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mesh Topology",
+      "Network Topologies",
+      "Distributed Memory Programming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Network Topologies</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Network Topology:</em> The physical or logical arrangement of connections between distributed nodes in a computing system.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the network topology characterized by nodes arranged in a 2D or 3D coordinate grid with multi-directional links.</div><ol><li><strong>Step 1: Refer to the section \"2. Network & Communication Topologies.\"</strong><br/>The document defines Mesh as: <span style='color:var(--orange);font-weight:bold;'>\"Mesh: Nodes are arranged in a 2D or 3D coordinate grid with multi-directional links.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Ring\" involves each node connected to two adjacent neighbors, forming a closed loop.</li><li>\"Mesh\" directly matches the description.</li><li>\"Hypercube\" is a multi-dimensional structure that minimizes network diameter.</li><li>\"Tree Structure\" is hierarchical and effective for broadcasting.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The key elements are the grid-like arrangement (2D/3D) and multi-directional links, which are the defining features of a mesh topology, enabling flexible communication paths.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The network topology characterized by nodes arranged in a 2D or 3D coordinate grid with multi-directional links is Mesh.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesh"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which of the following scenarios represents a 'Link Failure' in distributed fault modes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A physical machine crashes due to a power loss."
+        },
+        {
+          "type": "string",
+          "content": "A specific software thread terminates unexpectedly."
+        },
+        {
+          "type": "string",
+          "content": "A network route or physical transmission cable breaks, preventing communication."
+        },
+        {
+          "type": "string",
+          "content": "An MPI process terminates without taking down the physical server."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Link Failure",
+      "Distributed Fault Modes",
+      "Fault Tolerance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distributed Fault Modes - Link Failure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Distributed Fault Modes:</em> Different ways in which individual components of a distributed system can fail.<br/><em>Link Failure:</em> A failure in the communication path between nodes.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the scenario that represents a 'Link Failure' among distributed fault modes.</div><ol><li><strong>Step 1: Refer to the section \"3. Distributed Fault Modes.\"</strong><br/>The document defines Link Failure as: <span style='color:var(--orange);font-weight:bold;'>\"Link Failure: A network route or physical transmission cable breaks, preventing communication between nodes.\"</span></li><li><strong>Step 2: Evaluate the given options against this definition.</strong><ul><li>\"A physical machine crashes due to a power loss\" describes a <span style='color:var(--orange);font-weight:bold;'>Node Failure</span>.</li><li>\"A specific software thread terminates unexpectedly\" describes a <span style='color:var(--orange);font-weight:bold;'>Process Failure</span>.</li><li>\"A network route or physical transmission cable breaks, preventing communication\" directly matches the definition of a Link Failure.</li><li>\"An MPI process terminates without taking down the physical server\" describes a <span style='color='var(--orange);font-weight:bold;'>Process Failure</span>.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Link failure specifically refers to the breakdown of the communication channels *between* nodes, distinguishing it from a node failing entirely or a process failing within a node.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A network route or physical transmission cable breaks, preventing communication, represents a 'Link Failure' in distributed fault modes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A network route or physical transmission cable breaks, preventing communication."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Describe the three main distributed fault modes mentioned in the context of distributed systems.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Distributed Fault Modes",
+      "Fault Tolerance",
+      "Distributed Systems"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distributed Fault Modes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Distributed Fault Modes:</em> Various ways in which components of a distributed system can fail, requiring the system to have fault tolerance to remain operational.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for a description of the three main distributed fault modes mentioned in the document.</div><ol><li><strong>Mark Scheme Point 1: Node Failure.</strong><br/>A <span style='color:var(--orange);font-weight:bold;'>Node Failure</span> occurs when an entire physical machine crashes or becomes unresponsive. This can be caused by various issues such as hardware failure, kernel panics (operating system errors), or a loss of power. When a node fails, all processes and resources running on that node become unavailable.</li><li><strong>Mark Scheme Point 2: Link Failure.</strong><br/>A <span style='color:var(--orange);font-weight:bold;'>Link Failure</span> refers to a breakdown in the communication infrastructure between nodes. This happens when a network route or a physical transmission cable breaks, effectively preventing any communication from flowing between the affected nodes. This can isolate parts of the distributed system.</li><li><strong>Mark Scheme Point 3: Process Failure.</strong><br/>A <span style='color:var(--orange);font-weight:bold;'>Process Failure</span> occurs when a specific software thread or an MPI (Message Passing Interface) process terminates unexpectedly. Crucially, this type of failure does not necessarily bring down the underlying physical server or node, meaning other processes on the same machine might continue to run.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: It's important to distinguish between these layers of failure. A node failure is catastrophic for that machine, a link failure affects communication between machines, and a process failure is more localized to a specific application component. Each requires different fault-tolerance mechanisms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The three main distributed fault modes are: 1. Node Failure, where a physical machine crashes or becomes unresponsive due to hardware failure, kernel panics, or power loss. 2. Link Failure, which occurs when a network route or physical transmission cable breaks, preventing communication between nodes. 3. Process Failure, where a specific software thread or MPI process terminates unexpectedly without bringing down the underlying physical server.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The three main distributed fault modes are:\n1.  **Node Failure:** This occurs when a physical machine crashes or becomes unresponsive. Causes include hardware failure, kernel panics, or power loss. This type of failure renders the entire machine and all processes running on it unavailable.\n2.  **Link Failure:** This refers to a breakdown in communication pathways. It happens when a network route or a physical transmission cable breaks, effectively preventing communication between nodes.\n3.  **Process Failure:** This occurs when a specific software thread or an MPI process terminates unexpectedly. Unlike a node failure, a process failure typically does not bring down the entire physical server, allowing other processes on the same machine to potentially continue functioning."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which of the following is a key focus area for parallel debugging, especially concerning non-deterministic bugs?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Measuring CPU core utilization per thread."
+        },
+        {
+          "type": "string",
+          "content": "Identifying hotspot functions in the code."
+        },
+        {
+          "type": "string",
+          "content": "Catching race conditions, deadlocks, and illegal memory access violations."
+        },
+        {
+          "type": "string",
+          "content": "Analyzing memory bandwidth consumption."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Parallel Debugging",
+      "Non-deterministic Bugs",
+      "Thread Safety"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2p solid var(--strongColor);padding-bottom:6px;'>Key Focus Areas for Parallel Debugging</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Parallel Debugging:</em> The process of identifying and fixing errors in parallel computing systems, often challenging due to concurrency issues.<br/><em>Non-deterministic Bugs (Heisenbugs):</em> Bugs that appear or disappear when attempts are made to debug them, making them difficult to reproduce.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for a key focus area for parallel debugging, specifically mentioning non-deterministic bugs.</div><ol><li><strong>Step 1: Refer to the section \"2. Parallel Debugging Tools & Diagnostics.\"</strong><br/>The document states: <span style='color:var(--orange);font-weight:bold;'>\"Key Focus Areas: Catching race conditions, deadlocks, lock contention bottlenecks, and illegal memory access violations.\"</span> The preceding point also mentions that \"Parallel bugs are often non-deterministic (Heisenbugs), changing or disappearing when run inside traditional debuggers due to altered thread timing.\"</li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Measuring CPU core utilization per thread\" is a task of <span style='color:var(--orange);font-weight:bold;'>Profiling</span>.</li><li>\"Identifying hotspot functions in the code\" is a task of <span style='color:var(--orange);font-weight:bold;'>Profiling</span> and optimization.</li><li>\"Catching race conditions, deadlocks, and illegal memory access violations\" directly matches the key focus areas for debugging, which are especially problematic due to their non-deterministic nature.</li><li>\"Analyzing memory bandwidth consumption\" is a task of <span style='color:var(--orange);font-weight:bold;'>Profiling</span>.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Profiling focuses on performance metrics, while debugging targets correctness issues like logical errors and concurrency hazards. Race conditions and deadlocks are classic examples of hard-to-debug non-deterministic issues in parallel programs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Catching race conditions, deadlocks, and illegal memory access violations is a key focus area for parallel debugging, especially concerning non-deterministic bugs.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catching race conditions, deadlocks, and illegal memory access violations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "What are 'Hotspots' in the context of profiling and performance tuning in parallel computing?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sections of code that account for a disproportionate amount of total execution time."
+        },
+        {
+          "type": "string",
+          "content": "Tools used to detect non-deterministic bugs and memory leaks."
+        },
+        {
+          "type": "string",
+          "content": "Regions of memory with high contention among multiple threads."
+        },
+        {
+          "type": "string",
+          "content": "Areas in a distributed system prone to node or link failures."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hotspots",
+      "Profiling",
+      "Performance Tuning"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Hotspots in Profiling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Profiling:</em> The process of measuring runtime behavior of a program, such as execution time, CPU utilization, and memory consumption.<br/><em>Hotspots:</em> Critical sections in code where the majority of the execution time is spent.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the definition of 'Hotspots' in the context of profiling and performance tuning.</div><ol><li><strong>Step 1: Refer to the section \"1. Profiling & Hotspot Optimization.\"</strong><br/>The document defines Hotspots as: <span style='color:var(--orange);font-weight:bold;'>\"Hotspots: Sections of code that account for a disproportionate amount of total execution time. Developers focus their parallelization and optimization efforts on these regions for maximum return.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Sections of code that account for a disproportionate amount of total execution time\" directly matches the definition of hotspots.</li><li>\"Tools used to detect non-deterministic bugs and memory leaks\" describes <span style='color:var(--orange);font-weight:bold;'>debugging tools</span>, not hotspots themselves.</li><li>\"Regions of memory with high contention among multiple threads\" describes a potential <span style='color='var(--orange);font-weight:bold;'>bottleneck</span> that might be found *within* a hotspot, but isn't the definition of a hotspot.</li><li>\"Areas in a distributed system prone to node or link failures\" relates to <span style='color='var(--orange);font-weight:bold;'>fault modes</span>, not performance hotspots in code.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The concept of a hotspot is crucial for optimizing performance because it directs developers to the parts of the code where improvements will have the greatest impact on overall execution time.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 'Hotspots' in parallel computing are sections of code that account for a disproportionate amount of total execution time.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sections of code that account for a disproportionate amount of total execution time."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Which of the following is an industry tool specifically mentioned for tracing thread execution, detecting race conditions, and profiling memory access patterns?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Microsoft Visual Studio"
+        },
+        {
+          "type": "string",
+          "content": "GNU Debugger (GDB)"
+        },
+        {
+          "type": "string",
+          "content": "Valgrind, Intel VTune Profiler, and CUDA Nsight"
+        },
+        {
+          "type": "string",
+          "content": "Wireshark"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Debugging Tools",
+      "Profiling Tools",
+      "Performance Tuning"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Industry Tools for Parallel Debugging and Profiling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Debugging Tools:</em> Software applications that help programmers test and debug programs by examining the state of execution.<br/><em>Profiling Tools:</em> Software tools that measure and analyze the performance characteristics of a program.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks to identify an industry tool specifically mentioned for tracing thread execution, detecting race conditions, and profiling memory access patterns.</div><ol><li><strong>Step 1: Refer to the section \"2. Parallel Debugging Tools & Diagnostics.\"</strong><br/>Under \"Industry Tools,\" the document states: <span style='color:var(--orange);font-weight:bold;'>\"Tools such as Valgrind, Intel VTune Profiler, and CUDA Nsight allow developers to trace thread execution, detect race conditions, and profile memory access patterns.\"</span></li><li><strong>Step 2: Evaluate the given options.</strong><ul><li>\"Microsoft Visual Studio\" and \"GNU Debugger (GDB)\" are general-purpose debuggers but not specifically mentioned in the document for these specialized parallel tasks.</li><li>\"Valgrind, Intel VTune Profiler, and CUDA Nsight\" is the exact set of tools mentioned that perform the specified functions.</li><li>\"Wireshark\" is a network protocol analyzer, not a parallel debugging/profiling tool as described.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The document specifically lists these three tools as examples for parallel debugging and profiling. They are widely recognized in the parallel computing community for their advanced capabilities in diagnosing concurrency issues and performance bottlenecks.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Valgrind, Intel VTune Profiler, and CUDA Nsight are industry tools specifically mentioned for tracing thread execution, detecting race conditions, and profiling memory access patterns.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Valgrind, Intel VTune Profiler, and CUDA Nsight"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "What is the main challenge in debugging parallel bugs (Heisenbugs), and how do traditional debuggers contribute to this challenge?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Parallel Debugging",
+      "Heisenbugs",
+      "Non-deterministic Bugs"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Challenges of Debugging Parallel Bugs (Heisenbugs)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Parallel Bugs:</em> Errors that arise specifically due to the concurrent execution of multiple operations, often involving timing-dependent interactions.<br/><em>Heisenbugs:</em> A play on Heisenberg's Uncertainty Principle, referring to bugs that seem to disappear or change their behavior when observed (i.e., when a debugger is attached).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks about the main challenge in debugging parallel bugs (Heisenbugs) and the role of traditional debuggers in this challenge.</div><ol><li><strong>Mark Scheme Point 1: Main Challenge - Non-determinism.</strong><br/>The main challenge in debugging parallel bugs is their <span style='color:var(--orange);font-weight:bold;'>non-deterministic nature.</span> These bugs, often called Heisenbugs, are characterized by changing or disappearing behavior across different runs or when observation tools are introduced.</li><li><strong>Mark Scheme Point 2: Contribution of Traditional Debuggers.</strong><br/>Traditional debuggers, by their very operation (e.g., setting breakpoints, single-stepping, logging), <span style='color:var(--orange);font-weight:bold;'>alter the timing and execution sequence of threads.</span> This alteration can inadvertently mask or shift the conditions under which a parallel bug occurs, making it difficult or impossible to reproduce and diagnose the bug consistently. The act of observation changes the system's behavior.</li><li><strong>Mark Scheme Point 3: Specific Examples (Implicit).</strong><br/>Such bugs often stem from <span style='color:var(--orange);font-weight:bold;'>race conditions or deadlocks,</span> which are highly sensitive to the precise timing of events in a concurrent system. Any perturbation by a debugger can alter this timing.</li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: The core issue is the interaction between observation and behavior in concurrent systems. Traditional debuggers are designed for sequential execution, where timing is largely predictable. In parallel systems, their intrusive nature can disrupt the delicate timing dependencies that cause Heisenbugs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The main challenge in debugging parallel bugs (Heisenbugs) is their non-deterministic nature; they are prone to changing or disappearing. Traditional debuggers contribute to this challenge because their intrusive operations, such as setting breakpoints or single-stepping, alter the precise timing and execution sequence of threads. This altered thread timing can inadvertently mask the conditions under which the bug appears, making it extremely difficult to reproduce and diagnose the issue consistently.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The main challenge in debugging parallel bugs (Heisenbugs) is their non-deterministic nature; they tend to change or disappear when observed. Traditional debuggers exacerbate this challenge because they alter the thread timing. Features like setting breakpoints, single-stepping, or logging introduce delays and modify the execution schedule, inadvertently masking the exact timing conditions that trigger these elusive bugs, making them difficult to reproduce and diagnose reliably."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "What is the primary objective of performance tuning in parallel computing?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To eliminate all non-deterministic bugs from the codebase."
+        },
+        {
+          "type": "string",
+          "content": "To ensure maximum resource utilization and minimize execution time."
+        },
+        {
+          "type": "string",
+          "content": "To identify and resolve memory leaks only."
+        },
+        {
+          "type": "string",
+          "content": "To simplify the parallel programming model for developers."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Performance Tuning",
+      "Profiling",
+      "Optimization"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Objective of Performance Tuning</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:12px;'><em>Performance Tuning:</em> The process of optimizing a system or application to improve its speed, efficiency, and resource utilization.<br/><em>Profiling:</em> The measurement of a program's behavior during execution, providing data to inform tuning efforts.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:12px;'>The question asks for the primary objective of performance tuning in parallel computing.</div><ol><li><strong>Step 1: Refer to the overall context of Part 10: \"Profiling, Performance Tuning & Parallel Debugging.\"</strong><br/>The introductory sentence states: <span style='color:var(--orange);font-weight:bold;'>\"Ensuring high performance and correctness in parallel systems requires specialized analysis tools.\"</span> Performance tuning specifically focuses on the \"high performance\" aspect.</li><li><strong>Step 2: Consider the definition of profiling and hotspot optimization.</strong><br/>Profiling measures runtime behavior like execution time and CPU utilization. Hotspots are targeted because they account for a disproportionate amount of execution time, implying that optimizing them will maximize return on performance. This means the overall goal is to make the program run faster and more efficiently.</li><li><strong>Step 3: Evaluate the given options.</strong><ul><li>\"To eliminate all non-deterministic bugs from the codebase\" is the objective of <span style='color='var(--orange);font-weight:bold;'>debugging</span>, which focuses on correctness, not performance.</li><li>\"To ensure maximum resource utilization and minimize execution time\" aligns with the goals of performance tuning, which involves making the program run as fast and efficiently as possible using available resources.</li><li>\"To identify and resolve memory leaks only\" is a specific aspect of debugging and memory management, not the primary, overarching objective of performance tuning.</li><li>\"To simplify the parallel programming model for developers\" relates to programming paradigms or language design, not performance tuning.</li></ul></li></ol><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:12px;'>Verification: Performance tuning aims to achieve the best possible execution speed and efficiency for a given hardware configuration by optimizing the code and its resource usage. This typically translates to minimizing execution time and maximizing the use of parallel hardware.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary objective of performance tuning in parallel computing is to ensure maximum resource utilization and minimize execution time.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To ensure maximum resource utilization and minimize execution time."
+    }
+  }
+]
