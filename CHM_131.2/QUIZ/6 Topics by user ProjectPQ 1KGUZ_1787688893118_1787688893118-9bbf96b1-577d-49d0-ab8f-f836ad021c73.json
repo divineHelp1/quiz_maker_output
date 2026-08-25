@@ -1,0 +1,1629 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "General Chemistry II",
+    "code": "CHM 131.2",
+    "session": "6 Topics by user ProjectPQ 1KGUZ",
+    "kind": "mixed",
+    "topics": [
+      "Reaction Rate",
+      "Chemical Kinetics",
+      "Factors Affecting Rate",
+      "Reaction Order",
+      "Half-life",
+      "Activation Energy",
+      "Collision Theory",
+      "Rate Constant Units",
+      "Chemical Equilibrium Definition",
+      "Chemical Equilibrium",
+      "Le Chatelier's Principle",
+      "Temperature Effect",
+      "Reaction Quotient",
+      "Equilibrium Direction",
+      "Equilibrium Constant Calculation",
+      "Inert Gas",
+      "Brønsted-Lowry Theory",
+      "Acids and Bases",
+      "Conjugate Acid-Base Pairs",
+      "pH Calculation",
+      "Strong Acid",
+      "Acid Strength",
+      "Weak Acids",
+      "Amphoteric Substances",
+      "Buffer Definition",
+      "Buffer Solutions",
+      "Buffer Composition",
+      "Acidic Buffer",
+      "Buffer Action",
+      "Acidic Buffer Mechanism",
+      "Buffer Capacity",
+      "Buffer Formation",
+      "NOT Question",
+      "Ksp Definition",
+      "Solubility Product Constant (Ksp)",
+      "Ksp Expression",
+      "Qsp vs Ksp",
+      "Precipitation",
+      "Common Ion Effect",
+      "Solubility Calculation",
+      "Ksp",
+      "Endothermic Reaction",
+      "Enthalpy",
+      "Thermochemistry",
+      "Entropy Definition",
+      "Spontaneity",
+      "Gibbs Free Energy",
+      "Equilibrium Constant",
+      "Entropy Change",
+      "Phase Transitions",
+      "Oxidation Definition",
+      "Redox Reactions",
+      "Electrochemistry",
+      "Oxidizing Agent",
+      "Voltaic Cell Components",
+      "Salt Bridge",
+      "Voltaic Cell Terminology",
+      "Anode/Cathode",
+      "Standard Electrode Potential",
+      "SHE",
+      "Rate-Determining Step",
+      "Reaction Mechanism",
+      "Insoluble Solid",
+      "Buffer Range",
+      "Voltaic Cell",
+      "Electrolytic Cell"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "CHM 131.2 General Chemistry Examination",
+    "Subheading": "Answer all questions. Carefully read the instructions for each section."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following statements best describes the rate of a chemical reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The total amount of product formed when the reaction reaches completion."
+        },
+        {
+          "type": "string",
+          "content": "The change in concentration of a reactant or product per unit time."
+        },
+        {
+          "type": "string",
+          "content": "The energy required to initiate the reaction process."
+        },
+        {
+          "type": "string",
+          "content": "The equilibrium constant for the reaction at a given temperature."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction Rate",
+      "Chemical Kinetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Reaction Rate</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>rate of reaction</strong> is a measure of how quickly reactants are consumed or products are formed over time. It is typically expressed as the change in concentration of a species (reactant or product) per unit time.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the best description of the rate of a chemical reaction.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand what 'rate' signifies in chemistry.</strong><br>In chemistry, 'rate' generally refers to how fast a process occurs. For a chemical reaction, this means how quickly chemical species transform from reactants to products.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the provided options based on the definition of reaction rate.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"The total amount of product formed when the reaction reaches completion.\"</span> This describes the yield of a reaction, not its rate. The yield tells you how much product you get, while the rate tells you how fast you get it.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"The change in concentration of a reactant or product per unit time.\"</span> This is the precise definition of reaction rate. For example, if the concentration of a reactant decreases by <span style='color:var(--orange);font-weight:bold;'>0.1 M</span> in <span style='color:var(--orange);font-weight:bold;'>10 seconds</span>, the rate of consumption of that reactant is <span style='color:var(--orange);font-weight:bold;'>0.01 M/s</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"The energy required to initiate the reaction process.\"</span> This describes the activation energy, which influences the rate but is not the rate itself.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D: \"The equilibrium constant for the reaction at a given temperature.\"</span> The equilibrium constant (<span style='color:var(--orange);font-weight:bold;'>K</span>) describes the ratio of products to reactants at equilibrium, indicating the extent of a reaction, not its speed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition of reaction rate is fundamental to chemical kinetics. It quantifies how fast a reaction proceeds, which is directly linked to the change in concentration of substances involved over time. The units often reflect this, such as mol L⁻¹ s⁻¹ or M/s.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The best description of the rate of a chemical reaction is the change in concentration of a reactant or product per unit time.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The change in concentration of a reactant or product per unit time."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following factors would typically increase the rate of a chemical reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Decreasing the temperature"
+        },
+        {
+          "type": "string",
+          "content": "Adding a catalyst"
+        },
+        {
+          "type": "string",
+          "content": "Reducing the surface area of solid reactants"
+        },
+        {
+          "type": "string",
+          "content": "Lowering the concentration of reactants"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Factors Affecting Rate",
+      "Chemical Kinetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Affecting Reaction Rate</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Several factors can influence the rate of a chemical reaction by affecting the frequency and energy of collisions between reactant particles. These include <span style='color:var(--orange);font-weight:bold;'>temperature</span>, <span style='color:var(--orange);font-weight:bold;'>concentration</span>, <span style='color:var(--orange);font-weight:bold;'>surface area</span> (for heterogeneous reactions), and the presence of a <span style='color:var(--orange);font-weight:bold;'>catalyst</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a factor that increases the rate of a chemical reaction.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the effect of various factors on reaction rate.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Temperature:</span> Increasing temperature typically increases reaction rate because particles have more kinetic energy, leading to more frequent and energetic collisions that overcome the activation energy.</li><li><span style='color:var(--orange);font-weight:bold;'>Concentration:</span> Increasing the concentration of reactants increases the frequency of collisions, thus increasing the reaction rate.</li><li><span style='color:var(--orange);font-weight:bold;'>Surface Area:</span> For reactions involving solids, increasing the surface area exposed allows more particles to collide, increasing the reaction rate.</li><li><span style='color:var(--orange);font-weight:bold;'>Catalyst:</span> A catalyst speeds up a reaction by providing an alternative reaction pathway with a lower activation energy.</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Decreasing the temperature\"</span> typically decreases the kinetic energy of reactant particles, leading to fewer successful collisions and a slower reaction rate. So, this option is incorrect.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Adding a catalyst\"</span> works by lowering the activation energy of the reaction, which increases the proportion of successful collisions and thus increases the reaction rate. This option is correct.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Reducing the surface area of solid reactants\"</span> decreases the contact points between reactants, leading to fewer collisions and a slower reaction rate. So, this option is incorrect.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Lowering the concentration of reactants\"</span> reduces the number of reactant particles in a given volume, leading to fewer collisions and a slower reaction rate. So, this option is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding how each factor influences particle collisions and activation energy is key. A catalyst specifically impacts the activation energy barrier, making it easier for reactions to proceed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Adding a catalyst would typically increase the rate of a chemical reaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adding a catalyst"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "For a first-order reaction, how does the half-life (t₁/₂) relate to the initial concentration of the reactant?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It is directly proportional to the initial concentration."
+        },
+        {
+          "type": "string",
+          "content": "It is inversely proportional to the initial concentration."
+        },
+        {
+          "type": "string",
+          "content": "It is independent of the initial concentration."
+        },
+        {
+          "type": "string",
+          "content": "It is proportional to the square of the initial concentration."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction Order",
+      "Half-life",
+      "Chemical Kinetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Half-life of First-Order Reactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>half-life (t₁/₂)</strong> of a reaction is the time required for the concentration of a reactant to decrease to half of its initial value. For a <span style='color:var(--orange);font-weight:bold;'>first-order reaction</span>, the half-life is constant and is given by the formula <span style='color:var(--orange);font-weight:bold;'>t₁/₂ = ln(2) / k</span>, where <span style='color:var(--orange);font-weight:bold;'>k</span> is the rate constant.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the relationship between the half-life and the initial concentration for a first-order reaction.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the formula for the half-life of a first-order reaction.</strong><br>For a first-order reaction, the half-life is expressed as <span style='color:var(--orange);font-weight:bold;'>t₁/₂ = 0.693 / k</span> (since <span style='color:var(--orange);font-weight:bold;'>ln(2) ≈ 0.693</span>). This formula shows that the half-life depends only on the rate constant <span style='color:var(--orange);font-weight:bold;'>k</span>.</p><p style='margin-bottom:10px;'><strong>Step 2: Analyze the dependency on initial concentration.</strong><br>The formula <span style='color:var(--orange);font-weight:bold;'>t₁/₂ = ln(2) / k</span> does not include any term for the initial concentration of the reactant. This implies that for a first-order reaction, the time it takes for half of the reactant to be consumed is the same, regardless of how much reactant you start with.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"It is directly proportional to the initial concentration.\"</span> This is characteristic of a zero-order reaction's half-life, not first-order.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"It is inversely proportional to the initial concentration.\"</span> This is characteristic of a second-order reaction's half-life, not first-order.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"It is independent of the initial concentration.\"</span> This aligns perfectly with the derived formula for a first-order reaction's half-life.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D: \"It is proportional to the square of the initial concentration.\"</span> This is not a typical relationship for common reaction orders.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common misconception is that half-life always depends on initial concentration. It's crucial to remember the specific behavior for different reaction orders. The constant half-life for a first-order reaction is a defining characteristic.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a first-order reaction, the half-life is independent of the initial concentration.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is independent of the initial concentration."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "The minimum energy required for a chemical reaction to occur between colliding particles is known as the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gibbs free energy"
+        },
+        {
+          "type": "string",
+          "content": "Activation energy"
+        },
+        {
+          "type": "string",
+          "content": "Standard enthalpy"
+        },
+        {
+          "type": "string",
+          "content": "Kinetic energy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Activation Energy",
+      "Collision Theory",
+      "Chemical Kinetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Activation Energy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> According to collision theory, reactant particles must collide with sufficient energy and correct orientation to react. The <span style='color:var(--orange);font-weight:bold;'>activation energy (Eₐ)</span> is the minimum amount of energy that reacting particles must possess in order for a reaction to occur upon collision.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the term describing the minimum energy required for a chemical reaction between colliding particles.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the premise of successful collisions.</strong><br>For reactants to transform into products, their molecules must collide. However, not all collisions lead to a reaction. Only those collisions that have enough energy to break existing bonds and form new ones will be successful. This 'enough energy' is what we are looking for.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Gibbs free energy\"</span> (<span style='color:var(--orange);font-weight:bold;'>ΔG</span>) is a thermodynamic quantity that determines the spontaneity of a reaction, not the energy barrier for reaction initiation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Activation energy\"</span> is precisely this minimum energy requirement. It represents the energy barrier that must be overcome for reactants to form an activated complex and then products.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Standard enthalpy\"</span> (<span style='color:var(--orange);font-weight:bold;'>ΔH°</span>) is the heat change of a reaction at standard conditions, indicating whether a reaction is exothermic or endothermic, but it's not the energy required to initiate it.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Kinetic energy\"</span> is the energy of motion, and while reactant particles need kinetic energy to collide, the activation energy is the threshold kinetic energy that *must* be met for a reaction to occur.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Activation energy is a central concept in chemical kinetics, explaining why reactions have varying rates even at the same temperature. A higher activation energy means a slower reaction rate, as fewer particles will possess the necessary energy to react.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The minimum energy required for a chemical reaction to occur between colliding particles is known as the activation energy.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Activation energy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "The units for the rate constant (k) of a zero-order reaction are typically:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "s⁻¹"
+        },
+        {
+          "type": "string",
+          "content": "M s⁻¹"
+        },
+        {
+          "type": "string",
+          "content": "M⁻¹ s⁻¹"
+        },
+        {
+          "type": "string",
+          "content": "M⁻² s⁻¹"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Rate Constant Units",
+      "Reaction Order",
+      "Chemical Kinetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Units of Rate Constant for Zero-Order Reactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a generic reaction <span style='color:var(--orange);font-weight:bold;'>A → products</span>, the rate law is given by <span style='color:var(--orange);font-weight:bold;'>Rate = k[A]ⁿ</span>, where <span style='color:var(--orange);font-weight:bold;'>n</span> is the order of the reaction. The overall units of rate are typically <span style='color:var(--orange);font-weight:bold;'>M/s</span> (molarity per second). We can determine the units of the rate constant <span style='color:var(--orange);font-weight:bold;'>k</span> by equating the units on both sides of the rate law.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the typical units of the rate constant (<span style='color:var(--orange);font-weight:bold;'>k</span>) for a zero-order reaction.</div><p style='margin-bottom:10px;'><strong>Step 1: Write the general rate law for a zero-order reaction.</strong><br>For a zero-order reaction, the rate depends on the concentration of the reactant raised to the power of zero. Any concentration term raised to the power of zero is <span style='color:var(--orange);font-weight:bold;'>1</span>. Therefore, the rate law simplifies to:</p><p style='text-align:center;'>Rate = k[A]⁰ = k(1) = k</p><p style='margin-bottom:10px;'><strong>Step 2: Determine the units of k from the rate law.</strong><br>Since Rate = k, the units of k must be the same as the units of the reaction rate itself. The standard units for reaction rate are molarity per second (<span style='color:var(--orange);font-weight:bold;'>M/s</span>) or <span style='color:var(--orange);font-weight:bold;'>mol L⁻¹ s⁻¹</span>.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"s⁻¹\"</span> are the units for a first-order rate constant.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"M s⁻¹\"</span> are equivalent to <span style='color:var(--orange);font-weight:bold;'>mol L⁻¹ s⁻¹</span>, which are the units for a zero-order rate constant.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"M⁻¹ s⁻¹\"</span> are the units for a second-order rate constant.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D: \"M⁻² s⁻¹\"</span> are the units for a third-order rate constant.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A helpful mnemonic for units of <span style='color:var(--orange);font-weight:bold;'>k</span> is <span style='color:var(--orange);font-weight:bold;'>M¹⁻ⁿ s⁻¹</span>, where <span style='color:var(--orange);font-weight:bold;'>n</span> is the reaction order. For a zero-order reaction (<span style='color:var(--orange);font-weight:bold;'>n=0</span>), the units are <span style='color:var(--orange);font-weight:bold;'>M¹⁻⁰ s⁻¹ = M s⁻¹</span>.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The units for the rate constant (k) of a zero-order reaction are typically M s⁻¹.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "M s⁻¹"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which of the following describes a system at chemical equilibrium?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The concentrations of reactants and products are equal."
+        },
+        {
+          "type": "string",
+          "content": "The forward reaction has stopped, but the reverse reaction continues."
+        },
+        {
+          "type": "string",
+          "content": "The net change in concentrations of reactants and products is zero."
+        },
+        {
+          "type": "string",
+          "content": "The reaction quotient (Q) is greater than the equilibrium constant (K)."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Chemical Equilibrium Definition",
+      "Chemical Equilibrium"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of Chemical Equilibrium</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Chemical equilibrium</strong> is a state in a reversible reaction where the rate of the forward reaction is equal to the rate of the reverse reaction. At equilibrium, the macroscopic properties of the system (like concentrations of reactants and products) remain constant, but the reactions are still occurring at the molecular level, making it a <span style='color:var(--orange);font-weight:bold;'>dynamic equilibrium</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the best description of a system at chemical equilibrium.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the characteristics of a system at dynamic equilibrium.</strong><br>At equilibrium, the opposing processes (forward and reverse reactions) occur at the same rate. This balance means there is no *net* change in the amounts of reactants or products over time.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the given options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"The concentrations of reactants and products are equal.\"</span> This is a common misconception. Concentrations are *constant* at equilibrium, but they are not necessarily equal. They depend on the specific reaction and initial conditions.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"The forward reaction has stopped, but the reverse reaction continues.\"</span> This describes a situation where a reaction has gone to completion in one direction, not a dynamic equilibrium. Both forward and reverse reactions are continuously occurring at equal rates.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"The net change in concentrations of reactants and products is zero.\"</span> This accurately describes equilibrium. While individual molecules are still reacting, the overall effect on concentration is zero because the rate of formation equals the rate of consumption for each species.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D: \"The reaction quotient (Q) is greater than the equilibrium constant (K).\"</span> If <span style='color:var(--orange);font-weight:bold;'>Q > K</span>, the reaction is not at equilibrium; it will proceed in the reverse direction to reach equilibrium. At equilibrium, <span style='color:var(--orange);font-weight:bold;'>Q = K</span>.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The crucial aspect of chemical equilibrium is the *dynamic* nature – reactions are ongoing, but there's no overall change. This makes Option C the most accurate description, as it reflects the constant concentrations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A system at chemical equilibrium is best described as having the net change in concentrations of reactants and products being zero.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The net change in concentrations of reactants and products is zero."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Consider the following reversible exothermic reaction at equilibrium: N₂(g) + 3H₂(g) ⇌ 2NH₃(g). According to Le Chatelier's Principle, what will happen if the temperature of the system is increased?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The equilibrium will shift to the right, favoring product formation."
+        },
+        {
+          "type": "string",
+          "content": "The equilibrium will shift to the left, favoring reactant formation."
+        },
+        {
+          "type": "string",
+          "content": "The equilibrium position will remain unchanged."
+        },
+        {
+          "type": "string",
+          "content": "The value of the equilibrium constant (K) will increase."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Le Chatelier's Principle",
+      "Temperature Effect",
+      "Chemical Equilibrium"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Le Chatelier's Principle: Effect of Temperature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Le Chatelier's Principle</strong> states that if a change of condition (e.g., temperature, pressure, concentration) is applied to a system at equilibrium, the system will shift in a direction that relieves the stress. For an <span style='color:var(--orange);font-weight:bold;'>exothermic reaction</span> (ΔH < 0), heat is a product. Increasing temperature adds heat, and the system will shift to consume that added heat.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A reversible exothermic reaction <span style='color:var(--orange);font-weight:bold;'>N₂(g) + 3H₂(g) ⇌ 2NH₃(g)</span> at equilibrium, and the temperature is increased.</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the nature of the reaction regarding heat.</strong><br>The reaction is stated to be <span style='color:var(--orange);font-weight:bold;'>exothermic</span>. This means that the forward reaction releases heat (heat is a product), while the reverse reaction is endothermic (heat is consumed).</p><p style='text-align:center;'>N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + Heat</p><p style='margin-bottom:10px;'><strong>Step 2: Apply Le Chatelier's Principle to an increase in temperature.</strong><br>If the temperature is increased, it is like adding heat to the system. To relieve this stress, the equilibrium will shift in the direction that absorbs heat. In an exothermic reaction, the reverse reaction (forming reactants) is endothermic, meaning it absorbs heat.</p><p style='margin-bottom:10px;'><strong>Step 3: Determine the consequence of the shift.</strong><br>A shift to the left means that more <span style='color:var(--orange);font-weight:bold;'>NH₃</span> will decompose into <span style='color:var(--orange);font-weight:bold;'>N₂</span> and <span style='color:var(--orange);font-weight:bold;'>H₂</span>, favoring the formation of reactants.</p><p style='margin-bottom:10px;'><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"The equilibrium will shift to the right, favoring product formation.\"</span> This would happen if the reaction were endothermic or if the temperature were decreased.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"The equilibrium will shift to the left, favoring reactant formation.\"</span> This is consistent with Le Chatelier's Principle for an exothermic reaction when temperature is increased.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"The equilibrium position will remain unchanged.\"</span> Temperature always affects the equilibrium position (and the value of K) for reactions with non-zero ΔH.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"The value of the equilibrium constant (K) will increase.\"</span> For an exothermic reaction, increasing temperature shifts the equilibrium to the left, meaning the ratio of products to reactants decreases, so the value of K actually decreases.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember that temperature is the *only* factor that changes the value of the equilibrium constant (K). For exothermic reactions, K decreases with increasing temperature, and for endothermic reactions, K increases with increasing temperature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If the temperature of the exothermic system is increased, the equilibrium will shift to the left, favoring reactant formation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The equilibrium will shift to the left, favoring reactant formation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "For the reaction N₂(g) + O₂(g) ⇌ 2NO(g), if the equilibrium constant Kc = 4.0 at a certain temperature, and at a particular instant, [N₂] = 0.5 M, [O₂] = 0.5 M, and [NO] = 1.0 M, in which direction will the reaction proceed?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To the right, favoring product formation."
+        },
+        {
+          "type": "string",
+          "content": "To the left, favoring reactant formation."
+        },
+        {
+          "type": "string",
+          "content": "The reaction is already at equilibrium."
+        },
+        {
+          "type": "string",
+          "content": "It is not possible to determine without temperature information."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction Quotient",
+      "Equilibrium Direction",
+      "Chemical Equilibrium"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reaction Quotient (Qc) and Equilibrium Direction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>reaction quotient (Qc)</strong> is a measure of the relative amounts of products and reactants present in a reaction at any given time. It has the same mathematical form as the equilibrium constant (<span style='color:var(--orange);font-weight:bold;'>Kc</span>) but uses non-equilibrium concentrations. Comparing <span style='color:var(--orange);font-weight:bold;'>Qc</span> to <span style='color:var(--orange);font-weight:bold;'>Kc</span> tells us which direction the reaction will shift to reach equilibrium:<ul><li>If <span style='color:var(--orange);font-weight:bold;'>Qc < Kc</span>, the reaction will proceed to the right (favoring products).</li><li>If <span style='color:var(--orange);font-weight:bold;'>Qc > Kc</span>, the reaction will proceed to the left (favoring reactants).</li><li>If <span style='color:var(--orange);font-weight:bold;'>Qc = Kc</span>, the reaction is at equilibrium.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Reaction <span style='color:var(--orange);font-weight:bold;'>N₂(g) + O₂(g) ⇌ 2NO(g)</span>, <span style='color:var(--orange);font-weight:bold;'>Kc = 4.0</span>. Instantaneous concentrations: <span style='color:var(--orange);font-weight:bold;'>[N₂] = 0.5 M</span>, <span style='color:var(--orange);font-weight:bold;'>[O₂] = 0.5 M</span>, <span style='color:var(--orange);font-weight:bold;'>[NO] = 1.0 M</span>.</div><p style='margin-bottom:10px;'><strong>Step 1: Write the expression for the reaction quotient (Qc).</strong><br>For the given reaction, the expression for <span style='color:var(--orange);font-weight:bold;'>Qc</span> is:</p><p style='text-align:center;'>Qc = [NO]² / ([N₂][O₂])</p><p style='margin-bottom:10px;'><strong>Step 2: Calculate the value of Qc using the given concentrations.</strong></p><p style='text-align:center;'>Qc = (1.0 M)² / (0.5 M × 0.5 M)<br>Qc = 1.0 / 0.25<br>Qc = 4.0</p><p style='margin-bottom:10px;'><strong>Step 3: Compare Qc with Kc.</strong><br>We calculated <span style='color:var(--orange);font-weight:bold;'>Qc = 4.0</span> and the given <span style='color:var(--orange);font-weight:bold;'>Kc = 4.0</span>. Since <span style='color:var(--orange);font-weight:bold;'>Qc = Kc</span>, the system is already at equilibrium.</p><p style='margin-bottom:10px;'><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"To the right, favoring product formation.\"</span> This would be true if <span style='color:var(--orange);font-weight:bold;'>Qc < Kc</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"To the left, favoring reactant formation.\"</span> This would be true if <span style='color:var(--orange);font-weight:bold;'>Qc > Kc</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"The reaction is already at equilibrium.\"</span> This is correct because <span style='color:var(--orange);font-weight:bold;'>Qc = Kc</span>.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"It is not possible to determine without temperature information.\"</span> The question explicitly states <span style='color:var(--orange);font-weight:bold;'>Kc</span> at a certain temperature, implying the temperature information needed is already incorporated in the given <span style='color:var(--orange);font-weight:bold;'>Kc</span> value.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Always remember the relationship between Q and K. If they are equal, the system has reached a stable state where the rates of forward and reverse reactions are balanced.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reaction is already at equilibrium.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The reaction is already at equilibrium."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "For the reaction A(g) + B(g) ⇌ 2C(g), the equilibrium concentrations are [A] = 0.2 M, [B] = 0.3 M, and [C] = 0.6 M. What is the value of the equilibrium constant, Kc?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "3.0"
+        },
+        {
+          "type": "string",
+          "content": "6.0"
+        },
+        {
+          "type": "string",
+          "content": "0.2"
+        },
+        {
+          "type": "string",
+          "content": "1.0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Equilibrium Constant Calculation",
+      "Chemical Equilibrium"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculation of Equilibrium Constant (Kc)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>equilibrium constant (Kc)</strong> expresses the ratio of products to reactants at equilibrium, with each concentration term raised to the power of its stoichiometric coefficient in the balanced chemical equation. For a general reaction <span style='color:var(--orange);font-weight:bold;'>aA + bB ⇌ cC + dD</span>, the equilibrium constant is <span style='color:var(--orange);font-weight:bold;'>Kc = ([C]ᶜ[D]ᵈ) / ([A]ᵃ[B]ᵇ)</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Reaction <span style='color:var(--orange);font-weight:bold;'>A(g) + B(g) ⇌ 2C(g)</span> with equilibrium concentrations <span style='color:var(--orange);font-weight:bold;'>[A] = 0.2 M</span>, <span style='color:var(--orange);font-weight:bold;'>[B] = 0.3 M</span>, and <span style='color:var(--orange);font-weight:bold;'>[C] = 0.6 M</span>.</div><p style='margin-bottom:10px;'><strong>Step 1: Write the expression for Kc for the given reaction.</strong><br>Based on the balanced equation <span style='color:var(--orange);font-weight:bold;'>A(g) + B(g) ⇌ 2C(g)</span>:</p><p style='text-align:center;'>Kc = [C]² / ([A][B])</p><p style='margin-bottom:10px;'><strong>Step 2: Substitute the equilibrium concentrations into the Kc expression.</strong></p><p style='text-align:center;'>Kc = (0.6)² / (0.2 × 0.3)<br>Kc = 0.36 / 0.06<br>Kc = 6.0</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"3.0\"</span> - Incorrect calculation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"6.0\"</span> - This matches our calculated value.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"0.2\"</span> - Incorrect calculation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D: \"1.0\"</span> - Incorrect calculation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Double-check the stoichiometry when setting up the Kc expression, especially ensuring product concentrations are in the numerator and raised to their correct powers, and reactant concentrations in the denominator similarly. Simple arithmetic errors are common in these types of questions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The value of the equilibrium constant, Kc, is 6.0.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6.0"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Adding an inert gas like argon to a reaction mixture at constant volume and temperature will:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Shift the equilibrium to the side with more moles of gas."
+        },
+        {
+          "type": "string",
+          "content": "Shift the equilibrium to the side with fewer moles of gas."
+        },
+        {
+          "type": "string",
+          "content": "Not affect the equilibrium position."
+        },
+        {
+          "type": "string",
+          "content": "Increase the partial pressures of all reactants and products."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Le Chatelier's Principle",
+      "Inert Gas",
+      "Chemical Equilibrium"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Effect of Inert Gas on Equilibrium</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Le Chatelier's Principle</strong> predicts how a system at equilibrium responds to stress. When an <span style='color:var(--orange);font-weight:bold;'>inert gas</span> (a gas that does not participate in the reaction) is added to a system at constant volume, the total pressure increases. However, the <span style='color:var(--orange);font-weight:bold;'>partial pressures</span> and thus the <span style='color:var(--orange);font-weight:bold;'>concentrations</span> of the reactants and products remain unchanged.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> An inert gas like argon is added to a reaction mixture at constant volume and temperature.</div><p style='margin-bottom:10px;'><strong>Step 1: Analyze the effect of adding an inert gas at constant volume.</strong><br>When an inert gas is added to a system at constant volume, the total number of gas molecules increases, which leads to an increase in the total pressure inside the container. However, because the volume remains constant and the number of moles of each reactant and product gas remains unchanged, their individual partial pressures (and therefore their concentrations) do not change.</p><p style='margin-bottom:10px;'><strong>Step 2: Apply Le Chatelier's Principle.</strong><br>Le Chatelier's Principle states that the system will shift to relieve stress. A shift in equilibrium is only induced by changes in concentration, partial pressure of reacting gases, or temperature. Since the partial pressures (and concentrations) of the reacting species are not altered by the inert gas addition at constant volume, there is no stress on the partial pressures of the reacting components that would cause a shift.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Shift the equilibrium to the side with more moles of gas.\"</span> This happens when the volume is *increased* (or total pressure decreased) for reactions involving gases, not by adding an inert gas at constant volume.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Shift the equilibrium to the side with fewer moles of gas.\"</span> This happens when the volume is *decreased* (or total pressure increased) for reactions involving gases, not by adding an inert gas at constant volume.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Not affect the equilibrium position.\"</span> This is correct. Since the partial pressures of the reacting gases remain unchanged, the reaction quotient (Qp or Qc) remains equal to the equilibrium constant (Kp or Kc), and thus the equilibrium position does not shift.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Increase the partial pressures of all reactants and products.\"</span> This is incorrect. The total pressure increases, but the partial pressures of the *reacting* gases remain constant because their mole fractions and the total volume are unchanged.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> It's important to distinguish between adding an inert gas at constant volume versus constant pressure. At constant volume, only the total pressure changes. If an inert gas were added at constant pressure (by increasing volume), then the partial pressures of reactants/products *would* decrease, leading to a shift.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Adding an inert gas like argon to a reaction mixture at constant volume and temperature will not affect the equilibrium position.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Not affect the equilibrium position."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "According to the Brønsted-Lowry definition, a base is a substance that:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Produces hydroxide ions (OH⁻) in aqueous solution."
+        },
+        {
+          "type": "string",
+          "content": "Accepts a proton (H⁺)."
+        },
+        {
+          "type": "string",
+          "content": "Donates an electron pair."
+        },
+        {
+          "type": "string",
+          "content": "Turns litmus paper blue."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Brønsted-Lowry Theory",
+      "Acids and Bases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Brønsted-Lowry Definition of a Base</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>Brønsted-Lowry theory</strong> defines acids and bases in terms of proton (H⁺) transfer. A <span style='color:var(--orange);font-weight:bold;'>Brønsted-Lowry acid</span> is a proton donor, and a <span style='color:var(--orange);font-weight:bold;'>Brønsted-Lowry base</span> is a proton acceptor.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the definition of a base according to the Brønsted-Lowry theory.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the core principle of Brønsted-Lowry theory.</strong><br>The Brønsted-Lowry theory focuses on the movement of protons (<span style='color:var(--orange);font-weight:bold;'>H⁺ ions</span>) during an acid-base reaction. A proton is a hydrogen atom that has lost its electron, essentially just a bare nucleus.</p><p style='margin-bottom:10px;'><strong>Step 2: Apply the definition to a base.</strong><br>If an acid donates a proton, then a base must be the species that accepts that proton. For example, in the reaction <span style='color:var(--orange);font-weight:bold;'>NH₃ + H₂O ⇌ NH₄⁺ + OH⁻</span>, <span style='color:var(--orange);font-weight:bold;'>NH₃</span> accepts a proton from <span style='color:var(--orange);font-weight:bold;'>H₂O</span> to form <span style='color:var(--orange);font-weight:bold;'>NH₄⁺</span>, so <span style='color:var(--orange);font-weight:bold;'>NH₃</span> acts as a Brønsted-Lowry base.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Produces hydroxide ions (OH⁻) in aqueous solution.\"</span> This is the definition of an Arrhenius base. While many Brønsted-Lowry bases produce OH⁻ (like <span style='color:var(--orange);font-weight:bold;'>NH₃</span> reacting with water), the Brønsted-Lowry definition is broader and not restricted to aqueous solutions or OH⁻ production.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Accepts a proton (H⁺).\"</span> This is the correct definition of a Brønsted-Lowry base.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Donates an electron pair.\"</span> This is the definition of a Lewis acid.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Turns litmus paper blue.\"</span> This is an experimental property of bases, not a fundamental definition based on proton transfer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> It's important to distinguish between the different acid-base theories (Arrhenius, Brønsted-Lowry, Lewis). The Brønsted-Lowry theory's focus on proton transfer is key.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the Brønsted-Lowry definition, a base is a substance that accepts a proton (H⁺).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accepts a proton (H⁺)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Which of the following is the conjugate acid of HPO₄²⁻?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "PO₄³⁻"
+        },
+        {
+          "type": "string",
+          "content": "H₂PO₄⁻"
+        },
+        {
+          "type": "string",
+          "content": "H₃PO₄"
+        },
+        {
+          "type": "string",
+          "content": "HPO₄⁻"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Conjugate Acid-Base Pairs",
+      "Acids and Bases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conjugate Acid of HPO₄²⁻</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In Brønsted-Lowry acid-base theory, a <strong>conjugate acid-base pair</strong> consists of two species that differ by the presence of a proton (H⁺). The <span style='color:var(--orange);font-weight:bold;'>conjugate acid</span> of a base is formed when the base accepts a proton. The <span style='color:var(--orange);font-weight:bold;'>conjugate base</span> of an acid is formed when the acid donates a proton.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the conjugate acid of <span style='color:var(--orange);font-weight:bold;'>HPO₄²⁻</span>.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand how a conjugate acid is formed.</strong><br>To find the conjugate acid of a given species, you add a proton (H⁺) to that species. Remember that adding a proton also increases the positive charge by one (or decreases the negative charge by one).</p><p style='margin-bottom:10px;'><strong>Step 2: Apply the rule to HPO₄²⁻.</strong><br>Starting with <span style='color:var(--orange);font-weight:bold;'>HPO₄²⁻</span>, add one <span style='color:var(--orange);font-weight:bold;'>H⁺</span>:<br><span style='color:var(--orange);font-weight:bold;'>HPO₄²⁻ + H⁺ → H₂PO₄⁻</span></p><p style='margin-bottom:10px;'>The resulting species is <span style='color:var(--orange);font-weight:bold;'>H₂PO₄⁻</span>. The charge changes from <span style='color:var(--orange);font-weight:bold;'>-2</span> to <span style='color:var(--orange);font-weight:bold;'>-1</span>.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"PO₄³⁻\"</span> is the conjugate base of <span style='color:var(--orange);font-weight:bold;'>HPO₄²⁻</span> (lost an H⁺).</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"H₂PO₄⁻\"</span> is correct, as it is formed by adding one <span style='color:var(--orange);font-weight:bold;'>H⁺</span> to <span style='color:var(--orange);font-weight:bold;'>HPO₄²⁻</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"H₃PO₄\"</span> is the conjugate acid of <span style='color:var(--orange);font-weight:bold;'>H₂PO₄⁻</span> (lost one H⁺ to become <span style='color:var(--orange);font-weight:bold;'>H₂PO₄⁻</span>), or formed by adding two H⁺ to <span style='color:var(--orange);font-weight:bold;'>HPO₄²⁻</span>.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"HPO₄⁻\"</span> is chemically incorrect; the charge should increase with proton addition, not decrease.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> To find a conjugate acid, always add <span style='color:var(--orange);font-weight:bold;'>H⁺</span>. To find a conjugate base, always remove <span style='color:var(--orange);font-weight:bold;'>H⁺</span>. This simple rule helps avoid errors.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The conjugate acid of HPO₄²⁻ is H₂PO₄⁻.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "H₂PO₄⁻"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is the pH of a 0.001 M solution of HCl?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "2"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "4"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "pH Calculation",
+      "Strong Acid",
+      "Acids and Bases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>pH Calculation for Strong Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a <span style='color:var(--orange);font-weight:bold;'>strong acid</span> like HCl, it dissociates completely in water, meaning that the concentration of <span style='color:var(--orange);font-weight:bold;'>H⁺</span> ions in solution is equal to the initial concentration of the acid. The <span style='color:var(--orange);font-weight:bold;'>pH</span> of a solution is defined as the negative logarithm (base 10) of the <span style='color:var(--orange);font-weight:bold;'>H⁺</span> ion concentration: <span style='color:var(--orange);font-weight:bold;'>pH = -log[H⁺]</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A 0.001 M solution of HCl.</div><p style='margin-bottom:10px;'><strong>Step 1: Determine the concentration of H⁺ ions.</strong><br>HCl is a strong acid, so it completely dissociates:</p><p style='text-align:center;'>HCl(aq) → H⁺(aq) + Cl⁻(aq)</p><p style='margin-bottom:10px;'>Therefore, if <span style='color:var(--orange);font-weight:bold;'>[HCl] = 0.001 M</span>, then <span style='color:var(--orange);font-weight:bold;'>[H⁺] = 0.001 M</span>. We can also write <span style='color:var(--orange);font-weight:bold;'>0.001 M</span> as <span style='color:var(--orange);font-weight:bold;'>1 × 10⁻³ M</span>.</p><p style='margin-bottom:10px;'><strong>Step 2: Calculate the pH using the pH formula.</strong></p><p style='text-align:center;'>pH = -log[H⁺]<br>pH = -log(1 × 10⁻³)<br>pH = -(-3)<br>pH = 3</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"1\"</span> - This would be for a 0.1 M solution of HCl.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"2\"</span> - This would be for a 0.01 M solution of HCl.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"3\"</span> - This is the correct pH.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"4\"</span> - This would be for a 0.0001 M solution of HCl.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A simple check is to remember that for strong acids, if the concentration is <span style='color:var(--orange);font-weight:bold;'>10⁻ⁿ M</span>, the pH is <span style='color:var(--orange);font-weight:bold;'>n</span>. Here, <span style='color:var(--orange);font-weight:bold;'>0.001 M = 10⁻³ M</span>, so the pH is <span style='color:var(--orange);font-weight:bold;'>3</span>.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The pH of a 0.001 M solution of HCl is 3.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which of the following compounds is considered a weak acid?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "HNO₃"
+        },
+        {
+          "type": "string",
+          "content": "H₂SO₄"
+        },
+        {
+          "type": "string",
+          "content": "CH₃COOH"
+        },
+        {
+          "type": "string",
+          "content": "HClO₄"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Acid Strength",
+      "Weak Acids",
+      "Acids and Bases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Weak Acids vs. Strong Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <span style='color:var(--orange);font-weight:bold;'>acid's strength</span> refers to its ability to donate a proton (H⁺). <span style='color:var(--orange);font-weight:bold;'>Strong acids</span> dissociate completely in water, meaning nearly all of their molecules donate protons. <span style='color:var(--orange);font-weight:bold;'>Weak acids</span> only partially dissociate in water, establishing an equilibrium between the undissociated acid and its conjugate base. Common strong acids include HCl, HBr, HI, HNO₃, H₂SO₄ (first proton), and HClO₄.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a weak acid among the given compounds.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the list of common strong acids.</strong><br>It's important to recognize the common strong acids: hydrochloric acid (HCl), hydrobromic acid (HBr), hydroiodic acid (HI), nitric acid (HNO₃), sulfuric acid (H₂SO₄ - first dissociation), and perchloric acid (HClO₄).</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate each option.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"HNO₃\"</span> - Nitric acid is a strong acid.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"H₂SO₄\"</span> - Sulfuric acid is a strong acid (for its first proton dissociation).</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"CH₃COOH\"</span> - Acetic acid (also written as <span style='color:var(--orange);font-weight:bold;'>HC₂H₃O₂</span>) is a carboxylic acid and a well-known weak acid. It only partially dissociates in water.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"HClO₄\"</span> - Perchloric acid is a strong acid.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Being able to identify strong vs. weak acids is crucial for understanding pH calculations, buffer systems, and acid-base titrations. If an acid is not on the list of common strong acids, it is generally considered a weak acid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ CH₃COOH is considered a weak acid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CH₃COOH"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "A substance that can act as both an acid and a base is described as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Conjugate"
+        },
+        {
+          "type": "string",
+          "content": "Amphoteric"
+        },
+        {
+          "type": "string",
+          "content": "Neutral"
+        },
+        {
+          "type": "string",
+          "content": "Strong"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Amphoteric Substances",
+      "Acids and Bases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amphoteric Substances</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <span style='color:var(--orange);font-weight:bold;'>amphoteric</span> substance is a molecule or ion that can react both as an acid and as a base. In the context of Brønsted-Lowry theory, this means it can both donate and accept a proton. Water (<span style='color:var(--orange);font-weight:bold;'>H₂O</span>) is a classic example of an amphoteric substance.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the term describing a substance that can act as both an acid and a base.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the dual nature of certain chemical species.</strong><br>Some substances possess chemical structures that allow them to either donate a proton (act as an acid) or accept a proton (act as a base) depending on the chemical environment they are in. This dual capability is a specific characteristic.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Conjugate\"</span> refers to a pair of acid-base species that differ by one proton (e.g., <span style='color:var(--orange);font-weight:bold;'>HCl</span> and <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span>). It describes a relationship, not an intrinsic property of acting as both acid and base.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Amphoteric\"</span> is the correct term for a substance that can behave as both an acid and a base. For example, water can accept <span style='color:var(--orange);font-weight:bold;'>H⁺</span> to form <span style='color:var(--orange);font-weight:bold;'>H₃O⁺</span> (acting as a base) or donate <span style='color:var(--orange);font-weight:bold;'>H⁺</span> to form <span style='color:var(--orange);font-weight:bold;'>OH⁻</span> (acting as an acid).</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Neutral\"</span> refers to a substance that is neither acidic nor basic (e.g., pH=7 at 25°C), or that has a balanced charge. It does not describe the ability to act as both.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Strong\"</span> describes the extent of dissociation of an acid or base, not its ability to function as both.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Amphoteric substances are crucial for understanding buffer systems and reactions in biological systems. Recognizing water and certain polyprotic acid anions (like <span style='color:var(--orange);font-weight:bold;'>HCO₃⁻</span> or <span style='color:var(--orange);font-weight:bold;'>H₂PO₄⁻</span>) as amphoteric helps solidify this concept.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A substance that can act as both an acid and a base is described as amphoteric.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphoteric"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What is the primary function of a buffer solution?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To completely neutralize an added acid or base."
+        },
+        {
+          "type": "string",
+          "content": "To conduct electricity efficiently in solution."
+        },
+        {
+          "type": "string",
+          "content": "To resist significant changes in pH upon addition of small amounts of acid or base."
+        },
+        {
+          "type": "string",
+          "content": "To increase the solubility of sparingly soluble salts."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Buffer Definition",
+      "Buffer Solutions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Function of Buffer Solutions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <strong>buffer solution</strong> is an aqueous solution that consists of a mixture of a weak acid and its conjugate base, or a weak base and its conjugate acid. Its unique property is its ability to <span style='color:var(--orange);font-weight:bold;'>resist significant changes in pH</span> when small amounts of a strong acid or strong base are added.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary function of a buffer solution.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the basic concept of a buffer.</strong><br>Buffers are crucial in chemical and biological systems because they maintain a stable pH environment. This stability is achieved by having components that can react with both added H⁺ (acid) and added OH⁻ (base) to minimize their impact on the overall solution pH.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"To completely neutralize an added acid or base.\"</span> Buffers do neutralize added acid or base, but they don't necessarily do so *completely* without any pH change, and their primary function is pH stability, not just total neutralization. A titration would achieve complete neutralization.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"To conduct electricity efficiently in solution.\"</span> While buffer solutions contain ions and thus conduct electricity, this is not their primary or defining function. Strong electrolytes (like strong acids, bases, or salts) conduct electricity more efficiently.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"To resist significant changes in pH upon addition of small amounts of acid or base.\"</span> This accurately describes the defining characteristic and primary function of a buffer solution.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"To increase the solubility of sparingly soluble salts.\"</span> While some components of a buffer might indirectly affect solubility (e.g., through common ion effect or complex formation if appropriate), this is not the primary function of a buffer system as a whole.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The ability of buffers to maintain pH is essential for many biological processes, like blood pH regulation, and in chemical applications where pH control is critical. This resistance to pH change is their defining property.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary function of a buffer solution is to resist significant changes in pH upon addition of small amounts of acid or base.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To resist significant changes in pH upon addition of small amounts of acid or base."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "An acidic buffer solution typically consists of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A strong acid and its conjugate base."
+        },
+        {
+          "type": "string",
+          "content": "A weak acid and a salt containing its conjugate base."
+        },
+        {
+          "type": "string",
+          "content": "A strong base and its conjugate acid."
+        },
+        {
+          "type": "string",
+          "content": "A weak base and a salt containing its conjugate acid."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Buffer Composition",
+      "Acidic Buffer",
+      "Buffer Solutions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Composition of an Acidic Buffer</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A buffer solution requires both an acidic component to neutralize added base and a basic component to neutralize added acid. To maintain a stable pH, these components must be in equilibrium with each other. This is best achieved by a <span style='color:var(--orange);font-weight:bold;'>conjugate acid-base pair</span> where both the acid and base forms are weak. An <span style='color:var(--orange);font-weight:bold;'>acidic buffer</span> maintains a pH below 7 and typically comprises a weak acid and its conjugate base (usually supplied by a salt).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the typical composition of an acidic buffer solution.</div><p style='margin-bottom:10px;'><strong>Step 1: Consider the requirements for an effective buffer.</strong><br>An effective buffer needs a source of a weak acid and a source of its conjugate base in significant, comparable concentrations. This allows the system to absorb both added H⁺ and OH⁻ ions with minimal pH change.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options based on buffer requirements.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"A strong acid and its conjugate base.\"</span> Strong acids dissociate completely, so their conjugate bases are extremely weak and would not be effective at neutralizing added acid to stabilize pH. This combination does not form a buffer.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"A weak acid and a salt containing its conjugate base.\"</span> This is the correct composition for an acidic buffer. For example, acetic acid (<span style='color:var(--orange);font-weight:bold;'>CH₃COOH</span>, a weak acid) and sodium acetate (<span style='color:var(--orange);font-weight:bold;'>CH₃COONa</span>, providing the conjugate base <span style='color:var(--orange);font-weight:bold;'>CH₃COO⁻</span>) form an acidic buffer.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"A strong base and its conjugate acid.\"</span> Similar to strong acids, strong bases dissociate completely. Their conjugate acids are very weak and wouldn't buffer effectively.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"A weak base and a salt containing its conjugate acid.\"</span> This describes a basic buffer solution, which maintains a pH above 7, not an acidic buffer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The critical aspect is that both components (the acid and its conjugate base, or base and its conjugate acid) must be weak to effectively buffer. If one component is strong, it won't be able to exist in equilibrium with its conjugate pair in substantial amounts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An acidic buffer solution typically consists of a weak acid and a salt containing its conjugate base.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A weak acid and a salt containing its conjugate base."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "How does an acetic acid/acetate buffer system respond to the addition of a small amount of strong base (OH⁻)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The acetate ions (CH₃COO⁻) react with the added OH⁻, forming acetic acid (CH₃COOH)."
+        },
+        {
+          "type": "string",
+          "content": "The acetic acid (CH₃COOH) reacts with the added OH⁻, forming acetate ions (CH₃COO⁻)."
+        },
+        {
+          "type": "string",
+          "content": "The H⁺ ions produced by the buffer neutralize the added OH⁻."
+        },
+        {
+          "type": "string",
+          "content": "The buffer solution completely dissociates to absorb the OH⁻."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Buffer Action",
+      "Acidic Buffer Mechanism",
+      "Buffer Solutions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Buffer Action: Adding Base to an Acidic Buffer</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <span style='color:var(--orange);font-weight:bold;'>acidic buffer</span> (e.g., <span style='color:var(--orange);font-weight:bold;'>CH₃COOH/CH₃COO⁻</span>) contains both a weak acid and its conjugate base. When a small amount of <span style='color:var(--orange);font-weight:bold;'>strong base (OH⁻)</span> is added, the <span style='color:var(--orange);font-weight:bold;'>weak acid component</span> of the buffer reacts with the added <span style='color:var(--orange);font-weight:bold;'>OH⁻</span> to neutralize it, thus preventing a large increase in pH.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> An acetic acid/acetate buffer system and the addition of a small amount of strong base (<span style='color:var(--orange);font-weight:bold;'>OH⁻</span>).</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the components of the buffer.</strong><br>An acetic acid/acetate buffer contains <span style='color:var(--orange);font-weight:bold;'>CH₃COOH</span> (weak acid) and <span style='color:var(--orange);font-weight:bold;'>CH₃COO⁻</span> (its conjugate base). The equilibrium is: <span style='color:var(--orange);font-weight:bold;'>CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq)</span>.</p><p style='margin-bottom:10px;'><strong>Step 2: Determine which component reacts with the added base.</strong><br>When a strong base (<span style='color:var(--orange);font-weight:bold;'>OH⁻</span>) is added, it will react with the <span style='color:var(--orange);font-weight:bold;'>acidic component</span> of the buffer to neutralize it. The weak acid, <span style='color:var(--orange);font-weight:bold;'>CH₃COOH</span>, will donate a proton to the <span style='color:var(--orange);font-weight:bold;'>OH⁻</span>.</p><p style='text-align:center;'>CH₃COOH(aq) + OH⁻(aq) → CH₃COO⁻(aq) + H₂O(l)</p><p style='margin-bottom:10px;'>This reaction consumes the added <span style='color:var(--orange);font-weight:bold;'>OH⁻</span> and converts the weak acid into its conjugate base, minimizing the pH change. The concentration of <span style='color:var(--orange);font-weight:bold;'>H⁺</span> is maintained because the equilibrium shifts slightly, but not drastically.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"The acetate ions (CH₃COO⁻) react with the added OH⁻, forming acetic acid (CH₃COOH).\"</span> This is incorrect. Acetate is a base, it would not react with another base (OH⁻).</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"The acetic acid (CH₃COOH) reacts with the added OH⁻, forming acetate ions (CH₃COO⁻).\"</span> This is correct, as described in Step 2.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"The H⁺ ions produced by the buffer neutralize the added OH⁻.\"</span> While H⁺ ions are involved in pH, the primary reaction that consumes significant amounts of added OH⁻ is with the bulk weak acid, not just the small equilibrium concentration of H⁺. The equilibrium will shift to replenish some H⁺, but the direct neutralization is by the weak acid.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"The buffer solution completely dissociates to absorb the OH⁻.\"</span> Buffers, by definition, contain weak acids/bases that *partially* dissociate. Complete dissociation is characteristic of strong acids/bases, which do not form effective buffers.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember that the weak acid component neutralizes added base, and the conjugate base component neutralizes added acid. This two-part system is what allows buffers to function.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The acetic acid (CH₃COOH) reacts with the added OH⁻, forming acetate ions (CH₃COO⁻).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The acetic acid (CH₃COOH) reacts with the added OH⁻, forming acetate ions (CH₃COO⁻)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "A buffer solution is most effective when the concentrations of the weak acid and its conjugate base are:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Very low, to avoid saturation."
+        },
+        {
+          "type": "string",
+          "content": "Extremely different, to allow for maximum pH range."
+        },
+        {
+          "type": "string",
+          "content": "Approximately equal, to maximize buffering capacity."
+        },
+        {
+          "type": "string",
+          "content": "Such that the acid concentration is much higher than the base concentration."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Buffer Capacity",
+      "Buffer Solutions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Buffer Effectiveness and Capacity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>buffering capacity</span> refers to the amount of acid or base a buffer can neutralize before its pH changes significantly. A buffer is most effective, meaning it has its highest buffering capacity, when the concentrations of the weak acid and its conjugate base are relatively high and approximately equal. This is evident from the <span style='color:var(--orange);font-weight:bold;'>Henderson-Hasselbalch equation: pH = pKa + log([conjugate base]/[weak acid])</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the conditions for a buffer solution to be most effective.</div><p style='margin-bottom:10px;'><strong>Step 1: Consider the Henderson-Hasselbalch equation.</strong><br>The equation shows that when <span style='color:var(--orange);font-weight:bold;'>[conjugate base] = [weak acid]</span>, the ratio <span style='color:var(--orange);font-weight:bold;'>([conjugate base]/[weak acid]) = 1</span>, and <span style='color:var(--orange);font-weight:bold;'>log(1) = 0</span>. In this ideal scenario, <span style='color:var(--orange);font-weight:bold;'>pH = pKa</span>. This point represents the center of the buffer's effective range.</p><p style='margin-bottom:10px;'><strong>Step 2: Relate concentration ratio to buffering capacity.</strong><br>When the concentrations of the acid and its conjugate base are equal, the buffer has an equal ability to neutralize both added acid and added base. If one component is in much lower concentration, it will be depleted quickly by added acid or base, leading to a rapid change in pH and loss of buffering capacity. High concentrations of both components also ensure that the buffer can absorb more acid or base before being overwhelmed.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Very low, to avoid saturation.\"</span> Low concentrations lead to low buffering capacity, meaning the buffer would be easily overwhelmed.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Extremely different, to allow for maximum pH range.\"</span> This is incorrect. A large difference in concentrations would result in a very limited buffering capacity for either acid or base. The effective range of a buffer is generally <span style='color:var(--orange);font-weight:bold;'>pKa ± 1</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Approximately equal, to maximize buffering capacity.\"</span> This is correct. When <span style='color:var(--orange);font-weight:bold;'>[acid] ≈ [base]</span>, the buffer can effectively absorb both H⁺ and OH⁻, giving it maximum buffering power around its <span style='color:var(--orange);font-weight:bold;'>pKa</span>.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Such that the acid concentration is much higher than the base concentration.\"</span> While this buffer would be better at neutralizing base, its capacity to neutralize added acid would be very limited. For overall maximum capacity, the concentrations should be similar.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The ideal buffer has a <span style='color:var(--orange);font-weight:bold;'>[conjugate base]/[weak acid]</span> ratio close to 1, and the absolute concentrations of both components are sufficiently high to neutralize a reasonable amount of added acid or base.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A buffer solution is most effective when the concentrations of the weak acid and its conjugate base are approximately equal, to maximize buffering capacity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Approximately equal, to maximize buffering capacity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which of the following mixtures would NOT form an effective buffer solution?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "NH₃ (weak base) and NH₄Cl (salt of conjugate acid)."
+        },
+        {
+          "type": "string",
+          "content": "CH₃COOH (weak acid) and CH₃COONa (salt of conjugate base)."
+        },
+        {
+          "type": "string",
+          "content": "HCl (strong acid) and NaCl (salt of strong acid)."
+        },
+        {
+          "type": "string",
+          "content": "H₂CO₃ (weak acid) and NaHCO₃ (salt of conjugate base)."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Buffer Formation",
+      "Buffer Solutions",
+      "NOT Question"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Requirements for a Buffer Solution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <span style='color:var(--orange);font-weight:bold;'>effective buffer solution</span> requires a significant concentration of both a <span style='color:var(--orange);font-weight:bold;'>weak acid</span> and its <span style='color:var(--orange);font-weight:bold;'>conjugate base</span>, or a <span style='color:var(--orange);font-weight:bold;'>weak base</span> and its <span style='color:var(--orange);font-weight:bold;'>conjugate acid</span>. The presence of a strong acid or strong base with its conjugate (which would be extremely weak) does not create a buffer.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify which mixture would *NOT* form an effective buffer solution.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the criteria for forming an effective buffer.</strong><br>A buffer needs a weak acid/base and its conjugate partner. Strong acids or bases cannot form buffers with their conjugates because they completely dissociate, meaning their conjugate partners are too weak to be effective in buffering action.</p><p style='margin-bottom:10px;'><strong>Step 2: Analyze each option based on the buffer criteria.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"NH₃ (weak base) and NH₄Cl (salt of conjugate acid).\"</span> <span style='color:var(--orange);font-weight:bold;'>NH₃</span> is a weak base, and <span style='color:var(--orange);font-weight:bold;'>NH₄Cl</span> provides the conjugate acid <span style='color:var(--orange);font-weight:bold;'>NH₄⁺</span>. This is a classic example of a basic buffer. So, this *does* form an effective buffer.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"CH₃COOH (weak acid) and CH₃COONa (salt of conjugate base).\"</span> <span style='color:var(--orange);font-weight:bold;'>CH₃COOH</span> is a weak acid, and <span style='color:var(--orange);font-weight:bold;'>CH₃COONa</span> provides the conjugate base <span style='color:var(--orange);font-weight:bold;'>CH₃COO⁻</span>. This is a classic example of an acidic buffer. So, this *does* form an effective buffer.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"HCl (strong acid) and NaCl (salt of strong acid).\"</span> <span style='color:var(--orange);font-weight:bold;'>HCl</span> is a strong acid. Its conjugate base, <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span> (from <span style='color:var(--orange);font-weight:bold;'>NaCl</span>), is an extremely weak base and does not have the capacity to neutralize added acid or base effectively. Therefore, this mixture does *NOT* form an effective buffer.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"H₂CO₃ (weak acid) and NaHCO₃ (salt of conjugate base).\"</span> <span style='color:var(--orange);font-weight:bold;'>H₂CO₃</span> (carbonic acid) is a weak acid, and <span style='color:var(--orange);font-weight:bold;'>NaHCO₃</span> provides its conjugate base <span style='color:var(--orange);font-weight:bold;'>HCO₃⁻</span>. This is an important buffer system (e.g., in blood). So, this *does* form an effective buffer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The presence of a strong acid or strong base as one of the components (or its salt) immediately rules out a mixture forming an effective buffer. Buffers rely on the partial dissociation of weak acid-base pairs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The mixture of HCl (strong acid) and NaCl (salt of strong acid) would NOT form an effective buffer solution.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HCl (strong acid) and NaCl (salt of strong acid)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "The solubility product constant (Ksp) represents the equilibrium constant for the dissolution of a(n):",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Strong acid in water."
+        },
+        {
+          "type": "string",
+          "content": "Sparingly soluble ionic compound."
+        },
+        {
+          "type": "string",
+          "content": "Soluble covalent compound."
+        },
+        {
+          "type": "string",
+          "content": "Weak base in a buffer solution."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Ksp Definition",
+      "Solubility Product Constant (Ksp)"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Solubility Product Constant (Ksp)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>solubility product constant (Ksp)</strong> is a type of equilibrium constant specifically used to describe the equilibrium between a <span style='color:var(--orange);font-weight:bold;'>sparingly soluble (or \"insoluble\") ionic solid</span> and its ions in a saturated solution. It quantifies the extent to which an ionic compound dissolves in water.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about what the solubility product constant (Ksp) represents.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the context of Ksp.</strong><br>Ksp is used for compounds that do not dissolve significantly in water. When these solids are placed in water, a small amount dissolves, forming ions, until an equilibrium is reached between the undissolved solid and the dissolved ions. The Ksp describes this specific equilibrium.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Strong acid in water.\"</span> Strong acids completely dissociate, so their dissolution is not described by an equilibrium constant like Ksp, which applies to partial dissolution.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Sparingly soluble ionic compound.\"</span> This is the correct application of Ksp. It describes the equilibrium between the undissolved solid and its ions in a saturated solution, for compounds with low solubility.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Soluble covalent compound.\"</span> Covalent compounds typically dissolve without forming ions, or if they do (like weak acids), they are described by Ka, not Ksp. Highly soluble compounds are not described by Ksp.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Weak base in a buffer solution.\"</span> The dissolution and ionization of a weak base are described by Kb (the base ionization constant), not Ksp.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Ksp specifically refers to the *product* of ion concentrations *at saturation* for ionic compounds with low solubility. It is a unique equilibrium constant.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The solubility product constant (Ksp) represents the equilibrium constant for the dissolution of a sparingly soluble ionic compound.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sparingly soluble ionic compound."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "For the dissolution of Ca₃(PO₄)₂(s) in water, which expression correctly represents its solubility product constant (Ksp)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ksp = [Ca²⁺][PO₄³⁻]"
+        },
+        {
+          "type": "string",
+          "content": "Ksp = [Ca²⁺]³[PO₄³⁻]²"
+        },
+        {
+          "type": "string",
+          "content": "Ksp = [Ca²⁺]²[PO₄³⁻]³"
+        },
+        {
+          "type": "string",
+          "content": "Ksp = [Ca²⁺]³[PO₄³⁻]"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Ksp Expression",
+      "Solubility Product Constant (Ksp)"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ksp Expression for Ca₃(PO₄)₂(s)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a generic sparingly soluble ionic compound <span style='color:var(--orange);font-weight:bold;'>MₚXᵠ(s)</span>, the dissolution equilibrium is <span style='color:var(--orange);font-weight:bold;'>MₚXᵠ(s) ⇌ pM⁺(aq) + qX⁻(aq)</span>. The <strong>Ksp expression</strong> is given by the product of the concentrations of the dissolved ions, each raised to the power of its stoichiometric coefficient: <span style='color:var(--orange);font-weight:bold;'>Ksp = [M⁺]ᵖ[X⁻]ᵠ</span>. Solids are not included in the expression.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The sparingly soluble compound is <span style='color:var(--orange);font-weight:bold;'>Ca₃(PO₄)₂(s)</span>.</div><p style='margin-bottom:10px;'><strong>Step 1: Write the balanced dissolution equilibrium equation.</strong><br>When calcium phosphate, <span style='color:var(--orange);font-weight:bold;'>Ca₃(PO₄)₂(s)</span>, dissolves, it dissociates into calcium ions (<span style='color:var(--orange);font-weight:bold;'>Ca²⁺</span>) and phosphate ions (<span style='color:var(--orange);font-weight:bold;'>PO₄³⁻</span>). From the formula, there are <span style='color:var(--orange);font-weight:bold;'>3 calcium ions</span> and <span style='color:var(--orange);font-weight:bold;'>2 phosphate ions</span> for every formula unit of <span style='color:var(--orange);font-weight:bold;'>Ca₃(PO₄)₂</span>.</p><p style='text-align:center;'>Ca₃(PO₄)₂(s) ⇌ 3Ca²⁺(aq) + 2PO₄³⁻(aq)</p><p style='margin-bottom:10px;'><strong>Step 2: Write the Ksp expression based on the equilibrium equation.</strong><br>The Ksp expression is the product of the ion concentrations, raised to their stoichiometric coefficients:</p><p style='text-align:center;'>Ksp = [Ca²⁺]³[PO₄³⁻]²</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Ksp = [Ca²⁺][PO₄³⁻]\"</span> - Incorrect, does not include stoichiometric coefficients as exponents.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Ksp = [Ca²⁺]³[PO₄³⁻]²\"</span> - This matches our derived expression.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Ksp = [Ca²⁺]²[PO₄³⁻]³\"</span> - Incorrect, the exponents are swapped.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Ksp = [Ca²⁺]³[PO₄³⁻]\"</span> - Incorrect, the exponent for phosphate is missing.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Always remember that for Ksp expressions, the coefficients from the balanced dissolution equation become the exponents for the ion concentrations in the Ksp expression. Also, the solid itself is never included in the Ksp expression.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct Ksp expression for the dissolution of Ca₃(PO₄)₂(s) is Ksp = [Ca²⁺]³[PO₄³⁻]².</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ksp = [Ca²⁺]³[PO₄³⁻]²"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "If the ion product (Qsp) for a salt is found to be greater than its solubility product constant (Ksp), what will be observed?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The solution is unsaturated, and more solid will dissolve."
+        },
+        {
+          "type": "string",
+          "content": "The solution is at equilibrium, and no net change occurs."
+        },
+        {
+          "type": "string",
+          "content": "Precipitation will occur until Qsp equals Ksp."
+        },
+        {
+          "type": "string",
+          "content": "The solution is supersaturated, but no precipitation will occur."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Qsp vs Ksp",
+      "Precipitation",
+      "Solubility Product Constant (Ksp)"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Predicting Precipitation using Qsp and Ksp</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>ion product (Qsp)</strong> is calculated similarly to Ksp but uses instantaneous (non-equilibrium) ion concentrations. Comparing <span style='color:var(--orange);font-weight:bold;'>Qsp</span> to <span style='color:var(--orange);font-weight:bold;'>Ksp</span> allows us to predict whether a precipitate will form or if more solid will dissolve:<ul><li>If <span style='color:var(--orange);font-weight:bold;'>Qsp < Ksp</span>, the solution is unsaturated; more solid can dissolve.</li><li>If <span style='color:var(--orange);font-weight:bold;'>Qsp = Ksp</span>, the solution is saturated; it is at equilibrium.</li><li>If <span style='color:var(--orange);font-weight:bold;'>Qsp > Ksp</span>, the solution is supersaturated; precipitation will occur until <span style='color:var(--orange);font-weight:bold;'>Qsp = Ksp</span>.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The ion product (Qsp) for a salt is greater than its solubility product constant (Ksp).</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the meaning of Qsp > Ksp.</strong><br>When <span style='color:var(--orange);font-weight:bold;'>Qsp > Ksp</span>, it means that the current concentrations of the ions in solution exceed what is possible at equilibrium for a saturated solution. The solution is supersaturated with respect to the solid.</p><p style='margin-bottom:10px;'><strong>Step 2: Determine the system's response to this condition.</strong><br>A system in a supersaturated state is unstable. To reach a stable equilibrium where <span style='color:var(--orange);font-weight:bold;'>Qsp = Ksp</span>, the excess ions must leave the solution. This occurs through the formation of a solid precipitate.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"The solution is unsaturated, and more solid will dissolve.\"</span> This is the case when <span style='color:var(--orange);font-weight:bold;'>Qsp < Ksp</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"The solution is at equilibrium, and no net change occurs.\"</span> This is the case when <span style='color:var(--orange);font-weight:bold;'>Qsp = Ksp</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Precipitation will occur until Qsp equals Ksp.\"</span> This is the correct outcome. The system relieves the supersaturation by forming a solid.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"The solution is supersaturated, but no precipitation will occur.\"</span> While the solution is supersaturated, precipitation *will* occur to reach equilibrium, unless kinetic factors prevent it (which is typically ignored in general Ksp problems).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This comparison is analogous to using the reaction quotient (Qc or Qp) versus the equilibrium constant (Kc or Kp) to predict the direction of a general reaction. The same principles apply.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If Qsp > Ksp, precipitation will occur until Qsp equals Ksp.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Precipitation will occur until Qsp equals Ksp."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "The addition of a common ion to a saturated solution of a sparingly soluble salt will generally:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Increase the solubility of the salt."
+        },
+        {
+          "type": "string",
+          "content": "Decrease the solubility of the salt."
+        },
+        {
+          "type": "string",
+          "content": "Not affect the solubility of the salt."
+        },
+        {
+          "type": "string",
+          "content": "Increase the Ksp value of the salt."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Common Ion Effect",
+      "Solubility Product Constant (Ksp)"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Common Ion Effect</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>common ion effect</strong> is a specific application of Le Chatelier's Principle. It states that the solubility of a sparingly soluble ionic compound is significantly <span style='color:var(--orange);font-weight:bold;'>decreased</span> when a source of one of its constituent ions (a <span style='color:var(--orange);font-weight:bold;'>common ion</span>) is added to the solution. The system shifts to consume the added common ion, which means shifting the dissolution equilibrium towards the formation of the solid.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The addition of a common ion to a saturated solution of a sparingly soluble salt.</div><p style='margin-bottom:10px;'><strong>Step 1: Consider the dissolution equilibrium of a sparingly soluble salt.</strong><br>Let's take <span style='color:var(--orange);font-weight:bold;'>AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq)</span> as an example. When this system is at equilibrium (saturated solution), adding more <span style='color:var(--orange);font-weight:bold;'>Ag⁺</span> or <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span> ions would be adding a common ion.</p><p style='margin-bottom:10px;'><strong>Step 2: Apply Le Chatelier's Principle.</strong><br>If a common ion (e.g., <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span> from <span style='color:var(--orange);font-weight:bold;'>NaCl</span>) is added to the saturated <span style='color:var(--orange);font-weight:bold;'>AgCl</span> solution, the concentration of <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span> increases. According to Le Chatelier's Principle, the equilibrium will shift to the left to consume the added <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span>. This shift results in more <span style='color:var(--orange);font-weight:bold;'>AgCl(s)</span> precipitating out of solution, and consequently, the concentration of <span style='color:var(--orange);font-weight:bold;'>Ag⁺</span> ions in solution decreases. A decrease in the concentration of dissolved ions means a decrease in the solubility of the salt.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Increase the solubility of the salt.\"</span> This is incorrect; the opposite occurs.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Decrease the solubility of the salt.\"</span> This is the correct outcome due to the common ion effect.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Not affect the solubility of the salt.\"</span> This is incorrect; the common ion effect is a significant factor in solubility.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Increase the Ksp value of the salt.\"</span> The Ksp value is an equilibrium constant and is temperature-dependent. Adding a common ion (or any ion) does not change the value of Ksp at a constant temperature. It only changes the position of the equilibrium.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The common ion effect is a fundamental concept in solubility equilibria and is often used in qualitative analysis to control precipitation. It always reduces the solubility of a sparingly soluble salt.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The addition of a common ion to a saturated solution of a sparingly soluble salt will generally decrease the solubility of the salt.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decrease the solubility of the salt."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "The Ksp of AgCl is 1.8 × 10⁻¹⁰. What is the solubility of AgCl in pure water (in M)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1.8 × 10⁻¹⁰ M"
+        },
+        {
+          "type": "string",
+          "content": "9.0 × 10⁻¹¹ M"
+        },
+        {
+          "type": "string",
+          "content": "1.3 × 10⁻⁵ M"
+        },
+        {
+          "type": "string",
+          "content": "3.24 × 10⁻²⁰ M"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Solubility Calculation",
+      "Ksp",
+      "Solubility Product Constant (Ksp)"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Solubility from Ksp for AgCl</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a sparingly soluble salt, its <span style='color:var(--orange);font-weight:bold;'>molar solubility (s)</span> in pure water is the concentration of the metal cation (or anion, depending on stoichiometry) in a saturated solution. For a 1:1 salt like <span style='color:var(--orange);font-weight:bold;'>AgCl</span>, the dissolution equilibrium is <span style='color:var(--orange);font-weight:bold;'>AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq)</span>, and the Ksp expression is <span style='color:var(--orange);font-weight:bold;'>Ksp = [Ag⁺][Cl⁻]</span>. If <span style='color:var(--orange);font-weight:bold;'>s</span> is the molar solubility, then at equilibrium <span style='color:var(--orange);font-weight:bold;'>[Ag⁺] = s</span> and <span style='color:var(--orange);font-weight:bold;'>[Cl⁻] = s</span>, so <span style='color:var(--orange);font-weight:bold;'>Ksp = s²</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The Ksp of AgCl is <span style='color:var(--orange);font-weight:bold;'>1.8 × 10⁻¹⁰</span>.</div><p style='margin-bottom:10px;'><strong>Step 1: Write the dissolution equilibrium and Ksp expression for AgCl.</strong><br>AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq)<br>Ksp = [Ag⁺][Cl⁻]</p><p style='margin-bottom:10px;'><strong>Step 2: Define molar solubility (s) and relate it to ion concentrations.</strong><br>Let <span style='color:var(--orange);font-weight:bold;'>s</span> be the molar solubility of AgCl. This means that at equilibrium, the concentration of <span style='color:var(--orange);font-weight:bold;'>Ag⁺</span> ions formed is <span style='color:var(--orange);font-weight:bold;'>s</span>, and the concentration of <span style='color:var(--orange);font-weight:bold;'>Cl⁻</span> ions formed is also <span style='color:var(--orange);font-weight:bold;'>s</span> (due to the 1:1 stoichiometry).</p><p style='text-align:center;'>[Ag⁺] = s<br>[Cl⁻] = s</p><p style='margin-bottom:10px;'><strong>Step 3: Substitute concentrations into the Ksp expression and solve for s.</strong></p><p style='text-align:center;'>Ksp = s × s = s²<br>1.8 × 10⁻¹⁰ = s²<br>s = √(1.8 × 10⁻¹⁰)<br>s ≈ 1.34 × 10⁻⁵ M</p><p style='margin-bottom:10px;'>Rounding to two significant figures (consistent with Ksp): <span style='color:var(--orange);font-weight:bold;'>s ≈ 1.3 × 10⁻⁵ M</span>.</p><p style='margin-bottom:10px;'><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"1.8 × 10⁻¹⁰ M\"</span> - This is the value of Ksp, not the solubility.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"9.0 × 10⁻¹¹ M\"</span> - This would be Ksp / 2.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"1.3 × 10⁻⁵ M\"</span> - This matches our calculated solubility.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"3.24 × 10⁻²⁰ M\"</span> - This is Ksp².</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Always remember to take the square root of Ksp for a 1:1 salt. For other stoichiometries (e.g., <span style='color:var(--orange);font-weight:bold;'>AX₂</span> or <span style='color:var(--orange);font-weight:bold;'>A₂X₃</span>), the relationship between <span style='color:var(--orange);font-weight:bold;'>s</span> and <span style='color:var(--orange);font-weight:bold;'>Ksp</span> will be different (e.g., <span style='color:var(--orange);font-weight:bold;'>4s³</span> or <span style='color:var(--orange);font-weight:bold;'>108s⁵</span>, respectively).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The solubility of AgCl in pure water is 1.3 × 10⁻⁵ M.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.3 × 10⁻⁵ M"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Which of the following describes an endothermic reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A reaction that releases heat to its surroundings (ΔH < 0)."
+        },
+        {
+          "type": "string",
+          "content": "A reaction that absorbs heat from its surroundings (ΔH > 0)."
+        },
+        {
+          "type": "string",
+          "content": "A reaction that proceeds spontaneously (ΔG < 0)."
+        },
+        {
+          "type": "string",
+          "content": "A reaction that increases the entropy of the system (ΔS > 0)."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Endothermic Reaction",
+      "Enthalpy",
+      "Thermochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Endothermic Reactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In <strong>thermochemistry</strong>, reactions are classified based on their heat exchange with the surroundings. An <span style='color:var(--orange);font-weight:bold;'>endothermic reaction</span> is a process that absorbs heat from its surroundings, resulting in a positive change in enthalpy (<span style='color:var(--orange);font-weight:bold;'>ΔH > 0</span>). Conversely, an <span style='color:var(--orange);font-weight:bold;'>exothermic reaction</span> releases heat (<span style='color:var(--orange);font-weight:bold;'>ΔH < 0</span>).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the description of an endothermic reaction.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the definition of 'endothermic'.</strong><br>The prefix 'endo-' means 'in' or 'within', implying that heat energy is taken into the system from the surroundings during the reaction. This leads to the surroundings feeling colder. The system's enthalpy increases.</p><p style='margin-bottom:10px;'><strong>Step 2: Relate heat flow to the sign of ΔH.</strong><br>By convention, if a system absorbs heat, the enthalpy change (<span style='color:var(--orange);font-weight:bold;'>ΔH</span>) is positive. If it releases heat, <span style='color:var(--orange);font-weight:bold;'>ΔH</span> is negative.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"A reaction that releases heat to its surroundings (ΔH < 0).\"</span> This describes an exothermic reaction.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"A reaction that absorbs heat from its surroundings (ΔH > 0).\"</span> This is the correct description of an endothermic reaction.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"A reaction that proceeds spontaneously (ΔG < 0).\"</span> Spontaneity is related to Gibbs Free Energy (ΔG), not solely enthalpy. An endothermic reaction can be spontaneous under certain conditions (e.g., high temperature and positive entropy change).</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"A reaction that increases the entropy of the system (ΔS > 0).\"</span> This describes an increase in disorder or randomness (positive entropy change), which is a separate thermodynamic concept, although it can influence spontaneity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The terms endothermic and exothermic are fundamental to thermodynamics. Endothermic processes require energy input and result in a net absorption of heat.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An endothermic reaction is one that absorbs heat from its surroundings (ΔH > 0).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A reaction that absorbs heat from its surroundings (ΔH > 0)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which thermodynamic quantity is a measure of the disorder or randomness of a system?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Enthalpy (H)"
+        },
+        {
+          "type": "string",
+          "content": "Entropy (S)"
+        },
+        {
+          "type": "string",
+          "content": "Gibbs Free Energy (G)"
+        },
+        {
+          "type": "string",
+          "content": "Heat capacity (Cp)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Entropy Definition",
+      "Thermochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Entropy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In <strong>thermochemistry</strong>, several state functions are used to describe the energy and spontaneity of reactions. <span style='color:var(--orange);font-weight:bold;'>Entropy (S)</span> is a thermodynamic property that measures the degree of randomness, disorder, or dispersal of energy in a system. The universe tends towards increasing entropy.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the thermodynamic quantity that measures the disorder or randomness of a system.</div><p style='margin-bottom:10px;'><strong>Step 1: Consider the basic definitions of the listed thermodynamic quantities.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Enthalpy (H):</span> Measures the total heat content of a system. Changes in enthalpy (<span style='color:var(--orange);font-weight:bold;'>ΔH</span>) relate to the heat absorbed or released during a process at constant pressure.</li><li><span style='color:var(--orange);font-weight:bold;'>Entropy (S):</span> Quantifies the disorder or randomness of a system. A more disordered system has higher entropy.</li><li><span style='color:var(--orange);font-weight:bold;'>Gibbs Free Energy (G):</span> Combines enthalpy and entropy to predict the spontaneity of a process at constant temperature and pressure.</li><li><span style='color:var(--orange);font-weight:bold;'>Heat capacity (Cp):</span> The amount of heat required to raise the temperature of a substance by a certain amount.</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options against the definition.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Enthalpy (H)\"</span> is related to heat content, not disorder.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Entropy (S)\"</span> is precisely the measure of disorder or randomness within a system. For example, a gas has higher entropy than a liquid, which has higher entropy than a solid.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Gibbs Free Energy (G)\"</span> relates to spontaneity, which involves both enthalpy and entropy, but G itself is not the direct measure of disorder.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Heat capacity (Cp)\"</span> relates to how much heat is needed to change temperature, not disorder.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Entropy is a cornerstone of the second law of thermodynamics, which states that the total entropy of an isolated system can only increase over time, or remain constant in ideal cases where the system is in a steady state or undergoing a reversible process.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Entropy (S) is the thermodynamic quantity that is a measure of the disorder or randomness of a system.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entropy (S)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "A reaction is always spontaneous at all temperatures if:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "ΔH < 0 and ΔS < 0"
+        },
+        {
+          "type": "string",
+          "content": "ΔH > 0 and ΔS > 0"
+        },
+        {
+          "type": "string",
+          "content": "ΔH < 0 and ΔS > 0"
+        },
+        {
+          "type": "string",
+          "content": "ΔH > 0 and ΔS < 0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Spontaneity",
+      "Gibbs Free Energy",
+      "Thermochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Spontaneity and Gibbs Free Energy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The spontaneity of a reaction at constant temperature and pressure is determined by the change in <span style='color:var(--orange);font-weight:bold;'>Gibbs Free Energy (ΔG)</span>, given by the equation: <span style='color:var(--orange);font-weight:bold;'>ΔG = ΔH - TΔS</span>, where <span style='color:var(--orange);font-weight:bold;'>ΔH</span> is the enthalpy change, <span style='color:var(--orange);font-weight:bold;'>T</span> is the absolute temperature, and <span style='color:var(--orange);font-weight:bold;'>ΔS</span> is the entropy change. A reaction is spontaneous if <span style='color:var(--orange);font-weight:bold;'>ΔG < 0</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the conditions under which a reaction is *always* spontaneous at all temperatures.</div><p style='margin-bottom:10px;'><strong>Step 1: Analyze the Gibbs Free Energy equation, ΔG = ΔH - TΔS, for different sign combinations of ΔH and ΔS.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Case 1: ΔH < 0 (exothermic) and ΔS > 0 (increasing disorder).</span><br>If <span style='color:var(--orange);font-weight:bold;'>ΔH</span> is negative and <span style='color:var(--orange);font-weight:bold;'>ΔS</span> is positive, then <span style='color:var(--orange);font-weight:bold;'>-TΔS</span> will always be negative (since T is always positive). Thus, <span style='color:var(--orange);font-weight:bold;'>ΔG = (negative) - (positive × positive) = negative - positive = negative</span>.<br>In this case, <span style='color:var(--orange);font-weight:bold;'>ΔG</span> will always be negative, making the reaction spontaneous at all temperatures.</li><li><span style='color:var(--orange);font-weight:bold;'>Case 2: ΔH > 0 (endothermic) and ΔS < 0 (decreasing disorder).</span><br>If <span style='color:var(--orange);font-weight:bold;'>ΔH</span> is positive and <span style='color:var(--orange);font-weight:bold;'>ΔS</span> is negative, then <span style='color:var(--orange);font-weight:bold;'>-TΔS</span> will be positive. Thus, <span style='color:var(--orange);font-weight:bold;'>ΔG = (positive) - (positive × negative) = positive + positive = positive</span>.<br>In this case, <span style='color:var(--orange);font-weight:bold;'>ΔG</span> will always be positive, meaning the reaction is non-spontaneous at all temperatures.</li><li><span style='color:var(--orange);font-weight:bold;'>Case 3: ΔH < 0 (exothermic) and ΔS < 0 (decreasing disorder).</span><br>Here, <span style='color:var(--orange);font-weight:bold;'>ΔG = (negative) - (positive × negative) = negative + positive</span>. The spontaneity depends on temperature. At low temperatures, the <span style='color:var(--orange);font-weight:bold;'>ΔH</span> term dominates, and <span style='color:var(--orange);font-weight:bold;'>ΔG</span> can be negative (spontaneous). At high temperatures, the <span style='color:var(--orange);font-weight:bold;'>-TΔS</span> term (which is positive) can dominate, making <span style='color:var(--orange);font-weight:bold;'>ΔG</span> positive (non-spontaneous).</li><li><span style='color:var(--orange);font-weight:bold;'>Case 4: ΔH > 0 (endothermic) and ΔS > 0 (increasing disorder).</span><br>Here, <span style='color:var(--orange);font-weight:bold;'>ΔG = (positive) - (positive × positive) = positive - positive</span>. The spontaneity depends on temperature. At low temperatures, the positive <span style='color:var(--orange);font-weight:bold;'>ΔH</span> term dominates, and <span style='color:var(--orange);font-weight:bold;'>ΔG</span> can be positive (non-spontaneous). At high temperatures, the negative <span style='color:var(--orange);font-weight:bold;'>-TΔS</span> term can dominate, making <span style='color:var(--orange);font-weight:bold;'>ΔG</span> negative (spontaneous).</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"ΔH < 0 and ΔS < 0\"</span> - Spontaneous at low T, non-spontaneous at high T.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"ΔH > 0 and ΔS > 0\"</span> - Spontaneous at high T, non-spontaneous at low T.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"ΔH < 0 and ΔS > 0\"</span> - This condition always results in a negative ΔG, making the reaction always spontaneous.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"ΔH > 0 and ΔS < 0\"</span> - Never spontaneous.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember the two driving forces for spontaneity: a decrease in enthalpy (exothermic, <span style='color:var(--orange);font-weight:bold;'>ΔH < 0</span>) and an increase in entropy (increasing disorder, <span style='color:var(--orange);font-weight:bold;'>ΔS > 0</span>). When both factors are favorable, the reaction is always spontaneous.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A reaction is always spontaneous at all temperatures if ΔH < 0 and ΔS > 0.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ΔH < 0 and ΔS > 0"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "The standard Gibbs Free Energy change (ΔG°) for a reaction is related to the equilibrium constant (K) by the equation:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "ΔG° = ΔH° - TΔS°"
+        },
+        {
+          "type": "string",
+          "content": "ΔG° = -RTlnK"
+        },
+        {
+          "type": "string",
+          "content": "ΔG° = ΔG + RTlnQ"
+        },
+        {
+          "type": "string",
+          "content": "ΔG° = E°_cell"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gibbs Free Energy",
+      "Equilibrium Constant",
+      "Thermochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gibbs Free Energy and Equilibrium Constant Relationship</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <strong>standard Gibbs Free Energy change (ΔG°)</strong> for a reaction is a measure of the spontaneity of a reaction under standard conditions (1 atm, 298 K, 1 M concentrations). It is directly related to the <strong>equilibrium constant (K)</strong>, which indicates the extent to which a reaction proceeds to completion at equilibrium. This fundamental relationship allows for the calculation of one from the other.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the equation relating standard Gibbs Free Energy change (ΔG°) to the equilibrium constant (K).</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the key thermodynamic equations.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>ΔG = ΔH - TΔS</span> (Gibbs-Helmholtz equation, relates spontaneity to enthalpy and entropy).</li><li><span style='color:var(--orange);font-weight:bold;'>ΔG° = ΔH° - TΔS°</span> (standard conditions version of the above).</li><li><span style='color:var(--orange);font-weight:bold;'>ΔG = ΔG° + RTlnQ</span> (relates Gibbs Free Energy under non-standard conditions to standard conditions and the reaction quotient).</li><li>At equilibrium, <span style='color:var(--orange);font-weight:bold;'>ΔG = 0</span> and <span style='color:var(--orange);font-weight:bold;'>Q = K</span>. Substituting these into the non-standard equation gives the desired relationship.</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Derive the relationship.</strong><br>Start with <span style='color:var(--orange);font-weight:bold;'>ΔG = ΔG° + RTlnQ</span>.<br>At equilibrium, <span style='color:var(--orange);font-weight:bold;'>ΔG = 0</span> and <span style='color:var(--orange);font-weight:bold;'>Q = K</span>.<br>So, <span style='color:var(--orange);font-weight:bold;'>0 = ΔG° + RTlnK</span><br>Rearranging gives: <span style='color:var(--orange);font-weight:bold;'>ΔG° = -RTlnK</span></p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"ΔG° = ΔH° - TΔS°\"</span> is the fundamental relationship defining ΔG° in terms of enthalpy and entropy, but it does not directly involve the equilibrium constant K.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"ΔG° = -RTlnK\"</span> is the correct relationship between standard Gibbs Free Energy change and the equilibrium constant.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"ΔG = ΔG + RTlnQ\"</span> is incorrect (it should be <span style='color:var(--orange);font-weight:bold;'>ΔG = ΔG° + RTlnQ</span>), and it relates non-standard ΔG to Q, not ΔG° to K.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"ΔG° = E°_cell\"</span> is incorrect. The relationship is actually <span style='color:var(--orange);font-weight:bold;'>ΔG° = -nFE°_cell</span> for electrochemical cells.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This equation is vital as it links thermodynamics (ΔG°) with the extent of a reaction (K). It implies that if K > 1, then lnK > 0, so ΔG° < 0 (spontaneous under standard conditions), which makes sense.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The standard Gibbs Free Energy change (ΔG°) for a reaction is related to the equilibrium constant (K) by the equation ΔG° = -RTlnK.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ΔG° = -RTlnK"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Which process would result in a decrease in the entropy of the system (ΔS < 0)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Melting of ice into water."
+        },
+        {
+          "type": "string",
+          "content": "Evaporation of water into steam."
+        },
+        {
+          "type": "string",
+          "content": "Condensation of steam into liquid water."
+        },
+        {
+          "type": "string",
+          "content": "Sublimation of solid CO₂ into gaseous CO₂."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Entropy Change",
+      "Phase Transitions",
+      "Thermochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Entropy Changes in Phase Transitions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Entropy (S)</strong> is a measure of the disorder or randomness of a system. Generally, gases have higher entropy than liquids, and liquids have higher entropy than solids. Processes that increase disorder (e.g., solid to liquid, liquid to gas, increasing moles of gas) lead to an increase in entropy (<span style='color:var(--orange);font-weight:bold;'>ΔS > 0</span>). Processes that decrease disorder (e.g., gas to liquid, liquid to solid, decreasing moles of gas) lead to a decrease in entropy (<span style='color:var(--orange);font-weight:bold;'>ΔS < 0</span>).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a process that results in a decrease in the entropy of the system (<span style='color:var(--orange);font-weight:bold;'>ΔS < 0</span>).</div><p style='margin-bottom:10px;'><strong>Step 1: Analyze each phase transition in terms of increasing or decreasing disorder.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Solid → Liquid → Gas:</span> This sequence represents increasing disorder (higher entropy).</li><li><span style='color:var(--orange);font-weight:bold;'>Gas → Liquid → Solid:</span> This sequence represents decreasing disorder (lower entropy).</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Melting of ice into water.\"</span> This is a solid to liquid transition (<span style='color:var(--orange);font-weight:bold;'>H₂O(s) → H₂O(l)</span>). Liquids are more disordered than solids, so entropy increases (<span style='color:var(--orange);font-weight:bold;'>ΔS > 0</span>).</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Evaporation of water into steam.\"</span> This is a liquid to gas transition (<span style='color:var(--orange);font-weight:bold;'>H₂O(l) → H₂O(g)</span>). Gases are much more disordered than liquids, so entropy increases significantly (<span style='color:var(--orange);font-weight:bold;'>ΔS > 0</span>).</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Condensation of steam into liquid water.\"</span> This is a gas to liquid transition (<span style='color:var(--orange);font-weight:bold;'>H₂O(g) → H₂O(l)</span>). Liquids are more ordered (less disordered) than gases, so entropy decreases (<span style='color:var(--orange);font-weight:bold;'>ΔS < 0</span>).</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Sublimation of solid CO₂ into gaseous CO₂.\"</span> This is a solid to gas transition (<span style='color:var(--orange);font-weight:bold;'>CO₂(s) → CO₂(g)</span>). Gases are more disordered than solids, so entropy increases significantly (<span style='color:var(--orange);font-weight:bold;'>ΔS > 0</span>).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Visualizing the states of matter helps. Solids have highly ordered structures, liquids are more disordered but still condensed, and gases are highly disordered and spread out. Any transition from a more disordered state to a more ordered state will have <span style='color:var(--orange);font-weight:bold;'>ΔS < 0</span>.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Condensation of steam into liquid water would result in a decrease in the entropy of the system (ΔS < 0).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Condensation of steam into liquid water."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "In a redox reaction, the process of oxidation is defined as the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gain of electrons."
+        },
+        {
+          "type": "string",
+          "content": "Loss of electrons."
+        },
+        {
+          "type": "string",
+          "content": "Gain of protons."
+        },
+        {
+          "type": "string",
+          "content": "Loss of oxygen."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Oxidation Definition",
+      "Redox Reactions",
+      "Electrochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Oxidation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Redox reactions</strong> (reduction-oxidation reactions) involve the transfer of electrons between species. <span style='color:var(--orange);font-weight:bold;'>Oxidation</span> is historically defined as the gain of oxygen or loss of hydrogen, but more fundamentally and broadly as the <span style='color:var(--orange);font-weight:bold;'>loss of electrons</span> and an increase in oxidation state. <span style='color:var(--orange);font-weight:bold;'>Reduction</span> is the gain of electrons and a decrease in oxidation state. A common mnemonic is LEO goes GER: <span style='color:var(--orange);font-weight:bold;'>L</span>oss of <span style='color:var(--orange);font-weight:bold;'>E</span>lectrons is <span style='color:var(--orange);font-weight:bold;'>O</span>xidation; <span style='color:var(--orange);font-weight:bold;'>G</span>ain of <span style='color:var(--orange);font-weight:bold;'>E</span>lectrons is <span style='color:var(--orange);font-weight:bold;'>R</span>eduction.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the definition of oxidation in a redox reaction.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the modern, electron-transfer definition of oxidation.</strong><br>While oxidation historically involved oxygen, the most general definition in electrochemistry and modern chemistry centers on electron transfer. When a species loses electrons, its oxidation state becomes more positive (or less negative), which is oxidation.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Gain of electrons.\"</span> This is the definition of reduction.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Loss of electrons.\"</span> This is the correct definition of oxidation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Gain of protons.\"</span> This is related to acid-base chemistry (Brønsted-Lowry base) or nuclear reactions, not oxidation in a redox context.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Loss of oxygen.\"</span> While a loss of oxygen can be a sign of reduction in some contexts, it's not the fundamental definition of oxidation in terms of electron transfer. For instance, <span style='color:var(--orange);font-weight:bold;'>Na → Na⁺ + e⁻</span> is oxidation, with no oxygen involved.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The LEO goes GER mnemonic is very useful for remembering these definitions. Oxidation is always accompanied by reduction, as electrons must be conserved in the reaction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In a redox reaction, the process of oxidation is defined as the loss of electrons.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Loss of electrons."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "In the reaction Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s), which species is the oxidizing agent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Zn(s)"
+        },
+        {
+          "type": "string",
+          "content": "CuSO₄(aq)"
+        },
+        {
+          "type": "string",
+          "content": "ZnSO₄(aq)"
+        },
+        {
+          "type": "string",
+          "content": "Cu(s)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Oxidizing Agent",
+      "Redox Reactions",
+      "Electrochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying the Oxidizing Agent</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In a <strong>redox reaction</strong>, the <span style='color:var(--orange);font-weight:bold;'>oxidizing agent</span> is the species that causes another species to be oxidized. To do this, the oxidizing agent itself must be <span style='color:var(--orange);font-weight:bold;'>reduced</span> (gain electrons). Conversely, the <span style='color:var(--orange);font-weight:bold;'>reducing agent</span> is the species that causes another species to be reduced, and it itself is <span style='color:var(--orange);font-weight:bold;'>oxidized</span> (loses electrons).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The reaction <span style='color:var(--orange);font-weight:bold;'>Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)</span>. The question asks for the oxidizing agent.</div><p style='margin-bottom:10px;'><strong>Step 1: Assign oxidation states to all species in the reaction.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Zn(s):</span> Oxidation state = 0 (elemental form)</li><li><span style='color:var(--orange);font-weight:bold;'>CuSO₄(aq):</span> This is an ionic compound. Sulfate (<span style='color:var(--orange);font-weight:bold;'>SO₄²⁻</span>) has a charge of -2. Therefore, copper must have an oxidation state of +2 (as <span style='color:var(--orange);font-weight:bold;'>Cu²⁺</span>).</li><li><span style='color:var(--orange);font-weight:bold;'>ZnSO₄(aq):</span> Zinc sulfate is also an ionic compound. Sulfate (<span style='color:var(--orange);font-weight:bold;'>SO₄²⁻</span>) has a charge of -2. Therefore, zinc must have an oxidation state of +2 (as <span style='color:var(--orange);font-weight:bold;'>Zn²⁺</span>).</li><li><span style='color:var(--orange);font-weight:bold;'>Cu(s):</span> Oxidation state = 0 (elemental form)</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Identify which species is oxidized and which is reduced.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Zinc:</span> Changes from <span style='color:var(--orange);font-weight:bold;'>Zn(0)</span> to <span style='color:var(--orange);font-weight:bold;'>Zn(+2)</span>. Its oxidation state increased, so <span style='color:var(--orange);font-weight:bold;'>Zn</span> is oxidized (loses electrons).</li><li><span style='color:var(--orange);font-weight:bold;'>Copper:</span> Changes from <span style='color:var(--orange);font-weight:bold;'>Cu(+2)</span> (in <span style='color:var(--orange);font-weight:bold;'>CuSO₄</span>) to <span style='color:var(--orange);font-weight:bold;'>Cu(0)</span>. Its oxidation state decreased, so <span style='color:var(--orange);font-weight:bold;'>Cu²⁺</span> is reduced (gains electrons).</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Determine the oxidizing agent.</strong><br>Since <span style='color:var(--orange);font-weight:bold;'>Cu²⁺</span> is reduced, the species containing <span style='color:var(--orange);font-weight:bold;'>Cu²⁺</span> (which is <span style='color:var(--orange);font-weight:bold;'>CuSO₄</span>) is the oxidizing agent. It causes <span style='color:var(--orange);font-weight:bold;'>Zn</span> to be oxidized.</p><p style='margin-bottom:10px;'><strong>Step 4: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Zn(s)\"</span> - This is the reducing agent, as it is oxidized.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"CuSO₄(aq)\"</span> - This contains the <span style='color:var(--orange);font-weight:bold;'>Cu²⁺</span> ion, which is reduced, making <span style='color:var(--orange);font-weight:bold;'>CuSO₄</span> the oxidizing agent.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"ZnSO₄(aq)\"</span> - This is a product of the reaction, not a reactant, and contains <span style='color:var(--orange);font-weight:bold;'>Zn²⁺</span> which is the oxidized form of zinc.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Cu(s)\"</span> - This is a product of the reaction, not a reactant, and is the reduced form of copper.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A good way to remember is: the oxidizing agent gets reduced, and the reducing agent gets oxidized. Always identify the oxidation states of the atoms involved in the electron transfer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the given reaction, CuSO₄(aq) is the oxidizing agent.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CuSO₄(aq)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which component of an electrochemical (voltaic) cell allows for the migration of ions between the half-cells to maintain charge neutrality?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The anode"
+        },
+        {
+          "type": "string",
+          "content": "The external wire"
+        },
+        {
+          "type": "string",
+          "content": "The salt bridge"
+        },
+        {
+          "type": "string",
+          "content": "The cathode"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Voltaic Cell Components",
+      "Salt Bridge",
+      "Electrochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Function of the Salt Bridge in a Voltaic Cell</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <strong>electrochemical cell</strong> (or voltaic/galvanic cell) generates electrical energy from spontaneous redox reactions. It consists of two half-cells. The electrodes (anode and cathode) are where oxidation and reduction occur, respectively, and an external wire connects them to allow electron flow. A crucial component for sustained operation is the <span style='color:var(--orange);font-weight:bold;'>salt bridge</span>, which maintains electrical neutrality by allowing the migration of spectator ions between the half-cells.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the component that allows ion migration to maintain charge neutrality in an electrochemical cell.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the need for charge neutrality in a working cell.</strong><br>As electrons flow from the anode to the cathode, ions are produced or consumed in each half-cell. For example, at the anode, metal atoms lose electrons and become positive ions, building up positive charge. At the cathode, metal ions gain electrons and deposit as neutral atoms, depleting positive ions (or building up negative charge if anions are formed). Without a way to balance these charge imbalances, the electron flow would quickly stop due to electrostatic repulsion/attraction.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the function of each option.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"The anode\"</span> is the electrode where oxidation occurs; it generates electrons and positive ions.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"The external wire\"</span> connects the anode and cathode, allowing electrons to flow, but it does not facilitate ion migration.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"The salt bridge\"</span> contains an electrolyte that does not react with the half-cell solutions. It provides a pathway for ions to migrate from one half-cell to the other, thus balancing the charge buildup and completing the electrical circuit. For example, anions from the salt bridge flow to the anode compartment, and cations flow to the cathode compartment. This is the correct answer.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"The cathode\"</span> is the electrode where reduction occurs; it consumes electrons and positive ions.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A voltaic cell would cease to operate almost immediately without a salt bridge because charge imbalances would prevent further electron flow. It's an indispensable component for continuous operation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The salt bridge allows for the migration of ions between the half-cells to maintain charge neutrality.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The salt bridge"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "In a voltaic (galvanic) cell, where does oxidation occur?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "At the cathode"
+        },
+        {
+          "type": "string",
+          "content": "At the anode"
+        },
+        {
+          "type": "string",
+          "content": "In the salt bridge"
+        },
+        {
+          "type": "string",
+          "content": "In the external wire"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Voltaic Cell Terminology",
+      "Anode/Cathode",
+      "Electrochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Location of Oxidation in a Voltaic Cell</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In any electrochemical cell (voltaic or electrolytic), the electrode where <span style='color:var(--orange);font-weight:bold;'>oxidation</span> occurs is called the <span style='color:var(--orange);font-weight:bold;'>anode</span>. The electrode where <span style='color:var(--orange);font-weight:bold;'>reduction</span> occurs is called the <span style='color:var(--orange);font-weight:bold;'>cathode</span>. A helpful mnemonic is <span style='color:var(--orange);font-weight:bold;'>An Ox</span> (Anode is Oxidation) and <span style='color:var(--orange);font-weight:bold;'>Red Cat</span> (Reduction at Cathode).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks where oxidation occurs in a voltaic (galvanic) cell.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the definition of anode and cathode in electrochemical cells.</strong><br>The terms anode and cathode are defined by the type of reaction that occurs at their surface, not by their charge (which can differ between voltaic and electrolytic cells).</p><ul><li><span style='color:var(--orange);font-weight:bold;'>Anode:</span> Site of oxidation.</li><li><span style='color:var(--orange);font-weight:bold;'>Cathode:</span> Site of reduction.</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Apply this definition to the question.</strong><br>Since oxidation is the process described, it must occur at the anode.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"At the cathode\"</span> - Reduction occurs at the cathode.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"At the anode\"</span> - Oxidation occurs at the anode. This is correct.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"In the salt bridge\"</span> - The salt bridge facilitates ion migration to maintain charge neutrality but is not where redox reactions occur.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"In the external wire\"</span> - The external wire conducts electrons, but no chemical reactions (oxidation or reduction) occur there.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding the roles of the anode and cathode is fundamental to electrochemistry. Electrons always flow from the anode (where they are lost) to the cathode (where they are gained) in the external circuit.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In a voltaic (galvanic) cell, oxidation occurs at the anode.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "At the anode"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "A standard hydrogen electrode (SHE) is assigned a standard reduction potential of 0.00 V. This is primarily used as a reference point for:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Calculating the cell potential of electrolytic cells."
+        },
+        {
+          "type": "string",
+          "content": "Determining the spontaneity of a redox reaction at equilibrium."
+        },
+        {
+          "type": "string",
+          "content": "Measuring the standard electrode potentials of other half-reactions."
+        },
+        {
+          "type": "string",
+          "content": "Quantifying the rate of electron flow in an electrochemical cell."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Standard Electrode Potential",
+      "SHE",
+      "Electrochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of Standard Hydrogen Electrode (SHE)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Standard electrode potentials (E°)</strong> are measured relative to a reference electrode because absolute electrode potentials cannot be directly measured. The <span style='color:var(--orange);font-weight:bold;'>Standard Hydrogen Electrode (SHE)</span>, consisting of a platinum electrode in 1 M H⁺ solution with H₂(g) at 1 atm, is assigned a standard reduction potential of <span style='color:var(--orange);font-weight:bold;'>0.00 V</span>. This arbitrary assignment allows for the systematic measurement and tabulation of standard potentials for all other half-reactions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The standard hydrogen electrode (SHE) is assigned a standard reduction potential of <span style='color:var(--orange);font-weight:bold;'>0.00 V</span>. The question asks for its primary use.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand why a reference point is needed.</strong><br>A single half-cell reaction cannot occur in isolation; it must always be paired with another half-cell to form a complete circuit. Therefore, the potential of one half-cell is always measured relative to another. To create a consistent scale for electrode potentials, a standard reference is necessary.</p><p style='margin-bottom:10px;'><strong>Step 2: Determine the role of the SHE in establishing this scale.</strong><br>By setting the SHE's potential to zero, all other half-cell potentials can be measured by pairing them with the SHE and measuring the overall cell voltage. If the other half-cell acts as a cathode (reduction), its standard reduction potential is directly the cell voltage (if SHE is anode). If it acts as an anode (oxidation), its standard reduction potential is the negative of the cell voltage (if SHE is cathode). This systematic approach creates a table of standard reduction potentials.</p><p style='margin-bottom:10px;'><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A: \"Calculating the cell potential of electrolytic cells.\"</span> While SHE potentials can be used, its primary role is not *just* for electrolytic cells, but for *any* cell, especially in defining the standard scale.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B: \"Determining the spontaneity of a redox reaction at equilibrium.\"</span> Spontaneity relates to <span style='color:var(--orange);font-weight:bold;'>E°_cell</span>, but the SHE's role is in *measuring* the E° values, not directly determining spontaneity at equilibrium. At equilibrium, <span style='color:var(--orange);font-weight:bold;'>E_cell = 0</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C: \"Measuring the standard electrode potentials of other half-reactions.\"</span> This is the primary and most significant role of the SHE. It provides the zero reference point for all other electrode potential measurements.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D: \"Quantifying the rate of electron flow in an electrochemical cell.\"</span> Electrode potentials relate to the *driving force* (voltage) of a reaction, not its *rate* (current or electron flow per unit time), which is a kinetic property.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The creation of a standardized list of reduction potentials allows chemists to predict reaction spontaneity and calculate cell voltages for various combinations of half-cells without performing every experiment. The SHE is the arbitrary but critical foundation of this system.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A standard hydrogen electrode (SHE) is primarily used as a reference point for measuring the standard electrode potentials of other half-reactions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Measuring the standard electrode potentials of other half-reactions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Explain the concept of the 'rate-determining step' in a multi-step chemical reaction. How does it influence the overall reaction rate?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Rate-Determining Step",
+      "Reaction Mechanism",
+      "Chemical Kinetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Rate-Determining Step in Reaction Mechanisms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Many chemical reactions do not occur in a single step but proceed through a sequence of elementary steps, known as a <span style='color:var(--orange);font-weight:bold;'>reaction mechanism</span>. The <strong>rate-determining step (RDS)</strong>, also known as the rate-limiting step, is the slowest elementary step in a reaction mechanism.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain the concept of the rate-determining step and its influence on the overall reaction rate.</div><p style='margin-bottom:10px;'><strong>Step 1: Define the rate-determining step.</strong><br>The rate-determining step is the elementary step in a multi-step reaction mechanism that proceeds most slowly compared to all other steps. It acts as a bottleneck for the overall reaction.</p><p style='margin-bottom:10px;'><strong>Step 2: Explain how the rate-determining step influences the overall reaction rate.</strong><br>The overall rate of a multi-step reaction is governed by the rate of its slowest step, which is the rate-determining step. Just like the narrowest part of a pipe determines the maximum flow rate of water, the slowest elementary step determines how fast the overall reaction can proceed. Any attempt to speed up the faster steps will not significantly increase the overall reaction rate because the slower step will still be holding up the process. Therefore, to increase the overall reaction rate, one must focus on speeding up the rate-determining step, for example, by increasing its temperature or concentration of reactants involved in that specific step, or by adding a catalyst that affects that step.</p><p style='margin-bottom:10px;'><strong>Step 3: Provide an analogy to illustrate.</strong><br>Consider a factory assembly line: if one particular station (e.g., quality control) takes significantly longer than all other stations, then the speed at which products can be completed and shipped out will be dictated by that slow station, regardless of how fast the other stations work.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A full explanation should clearly define the RDS and then elaborate on *why* it controls the overall rate, often using an analogy for clarity. It should also implicitly or explicitly mention that altering conditions to affect the RDS will impact the overall rate.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rate-determining step is the slowest elementary step in a multi-step reaction mechanism, and it dictates the overall rate of the reaction because the overall process cannot proceed faster than its slowest component. Therefore, to increase the overall reaction rate, efforts must focus on accelerating this specific slowest step.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The rate-determining step (RDS) is the slowest elementary step in a multi-step chemical reaction mechanism. It dictates the overall rate of the reaction because the overall process cannot proceed faster than its slowest component. Think of it like a bottleneck in a pipeline: the flow rate of the entire pipeline is limited by the section with the smallest diameter. Similarly, in a chemical reaction pathway, the slowest step determines how quickly reactants are converted into products. To increase the overall reaction rate, one must specifically find a way to accelerate this rate-determining step, as speeding up any of the faster steps will have little to no impact on the overall rate."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Discuss the effect of adding a non-reacting, insoluble solid (e.g., diamond powder) to a reversible reaction at equilibrium in a closed system.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Le Chatelier's Principle",
+      "Insoluble Solid",
+      "Chemical Equilibrium"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Effect of Non-Reacting Insoluble Solid on Equilibrium</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Le Chatelier's Principle</strong> predicts how an equilibrium system responds to stress. However, only changes that affect the concentrations (or partial pressures for gases) of reactants or products, or the temperature, can shift an equilibrium. The presence of a non-reacting, <span style='color:var(--orange);font-weight:bold;'>insoluble solid</span> does not alter these critical factors.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A reversible reaction at equilibrium in a closed system, and a non-reacting, insoluble solid (e.g., diamond powder) is added.</div><p style='margin-bottom:10px;'><strong>Step 1: Consider the nature of the added substance.</strong><br>The substance added is a non-reacting, insoluble solid. 'Non-reacting' means it does not participate in the chemical reaction, neither as a reactant, product, nor catalyst. 'Insoluble' means it does not dissolve to form ions or molecules that would change solution concentrations. 'Solid' means its presence does not significantly alter the volume or pressure of gaseous components, especially if the system volume is fixed.</p><p style='margin-bottom:10px;'><strong>Step 2: Analyze the impact on equilibrium conditions.</strong><br>According to Le Chatelier's Principle, an equilibrium shifts in response to changes in concentration of reactants/products, partial pressure of gaseous reactants/products, or temperature. Adding a non-reacting, insoluble solid does not:</p><ul><li>Change the concentration of any dissolved species (reactants or products).</li><li>Change the partial pressure of any gaseous species.</li><li>Change the temperature of the system.</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Conclude the effect on equilibrium.</strong><br>Since none of the factors that can stress an equilibrium are altered by the addition of such a solid, the equilibrium position will remain unchanged. The presence of the solid might increase the total volume of the solid phase, but it does not affect the concentrations of the species that are part of the equilibrium constant expression. The system will simply ignore its presence.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This question tests the precise understanding of what constitutes a 'stress' to an equilibrium. Only components that appear in the equilibrium constant expression (gases or solutes) or factors that affect K (temperature) can cause a shift.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The addition of a non-reacting, insoluble solid like diamond powder to a reversible reaction at equilibrium in a closed system will have no effect on the equilibrium position. This is because the solid does not participate in the reaction, does not dissolve to change the concentrations of reacting species, and does not alter the temperature or partial pressures of any gaseous reactants or products. As such, it introduces no stress that the system would need to relieve according to Le Chatelier's Principle, and the concentrations of all reactants and products at equilibrium will remain unchanged.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The addition of a non-reacting, insoluble solid to a reversible reaction at equilibrium in a closed system will have no effect on the equilibrium position. Le Chatelier's Principle states that an equilibrium will shift to relieve a stress. However, a non-reacting, insoluble solid does not constitute a 'stress' to the equilibrium for the following reasons:\n\n1.  **No Change in Concentrations/Partial Pressures:** The solid does not react with any of the species involved in the equilibrium, nor does it dissolve to change their concentrations (for solutes) or partial pressures (for gases). The equilibrium constant expression for heterogeneous equilibria does not include pure solids, so its addition does not alter the value of the reaction quotient (Q) relative to K.\n2.  **No Change in Temperature:** Adding an inert solid does not inherently change the system's temperature, which is the only factor that can change the value of the equilibrium constant (K).\n3.  **No Change in Volume for Gaseous Systems:** If the system is gaseous and the solid is added to a fixed volume, the total pressure might slightly increase (due to the volume occupied by the solid), but the partial pressures of the reacting gases remain unaffected. Therefore, there is no shift.\n\nIn essence, since the added solid does not change any of the intensive properties (like concentration, partial pressure, or temperature) that define the equilibrium, the system's equilibrium position remains undisturbed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Explain the concept of 'buffer capacity' and describe how the choice of a weak acid/conjugate base pair affects the pH range over which a buffer is effective.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Buffer Capacity",
+      "Buffer Range",
+      "Buffer Solutions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Buffer Capacity and pH Range</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>buffer solution</span> resists changes in pH. Its effectiveness is described by two main properties: <span style='color:var(--orange);font-weight:bold;'>buffer capacity</span> and <span style='color:var(--orange);font-weight:bold;'>buffer range</span>. The <strong>Henderson-Hasselbalch equation</strong>, <span style='color:var(--orange);font-weight:bold;'>pH = pKa + log([conjugate base]/[weak acid])</span>, is central to understanding these aspects.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain 'buffer capacity' and how the choice of a weak acid/conjugate base pair affects the effective pH range of a buffer.</div><p style='margin-bottom:10px;'><strong>Step 1: Define buffer capacity.</strong><br><strong>Buffer capacity</strong> is the amount of acid or base that a buffer solution can neutralize before its pH changes significantly. It is a measure of the buffer's strength. A buffer with high concentrations of both its weak acid and conjugate base components will have a higher buffer capacity because it has more available species to react with added H⁺ or OH⁻ ions, thus minimizing pH changes over a larger amount of added acid or base.</p><p style='margin-bottom:10px;'><strong>Step 2: Explain how the choice of weak acid/conjugate base pair affects the effective pH range.</strong><br>The <span style='color:var(--orange);font-weight:bold;'>pH range</span> over which a buffer is effective is primarily determined by the <span style='color:var(--orange);font-weight:bold;'>pKa</span> of the weak acid component. According to the Henderson-Hasselbalch equation, when the concentrations of the weak acid and its conjugate base are equal, <span style='color:var(--orange);font-weight:bold;'>pH = pKa</span>. A buffer is generally considered most effective when its pH is within approximately one pH unit of its pKa (i.e., <span style='color:var(--orange);font-weight:bold;'>pKa ± 1</span>). This is because outside this range, the ratio of the conjugate base to weak acid (or vice versa) becomes too extreme, meaning one component is in much lower concentration and will quickly be depleted upon addition of even small amounts of acid or base.</p><p style='margin-bottom:10px;'>Therefore, to prepare a buffer that functions effectively at a desired pH, one must choose a weak acid whose <span style='color:var(--orange);font-weight:bold;'>pKa</span> value is close to that desired pH. For instance, if a buffer is needed at <span style='color:var(--orange);font-weight:bold;'>pH 5.0</span>, an acid with a <span style='color:var(--orange);font-weight:bold;'>pKa</span> close to <span style='color:var(--orange);font-weight:bold;'>5.0</span> (like acetic acid, <span style='color:var(--orange);font-weight:bold;'>pKa ≈ 4.76</span>) would be suitable, creating an effective range from about <span style='color:var(--orange);font-weight:bold;'>pH 3.76</span> to <span style='color:var(--orange);font-weight:bold;'>5.76</span>.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer must define buffer capacity and clearly link the pKa of the weak acid to the effective pH range, ideally referencing the Henderson-Hasselbalch equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Buffer capacity is the measure of a buffer solution's ability to resist pH change upon the addition of acid or base, with higher concentrations of conjugate acid-base pairs yielding higher capacity. The choice of a weak acid/conjugate base pair directly affects the effective pH range because a buffer is most effective when its pH is within approximately one unit of the weak acid's pKa, meaning that for a desired pH, an acid with a pKa close to that pH must be selected.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Buffer capacity refers to the amount of acid or base that a buffer solution can neutralize before its pH changes significantly. It is primarily determined by the concentrations of the weak acid and its conjugate base components: higher concentrations of both components lead to a greater buffer capacity.\n\nThe choice of a specific weak acid/conjugate base pair profoundly affects the pH range over which a buffer is effective. According to the Henderson-Hasselbalch equation (pH = pKa + log([conjugate base]/[weak acid])), the pH of a buffer solution is largely dependent on the pKa of the weak acid component. A buffer works most effectively when the concentrations of the weak acid and its conjugate base are approximately equal, which means that the pH of the buffer is close to the pKa of the weak acid (pH ≈ pKa). Therefore, an effective buffer range is typically considered to be within ±1 pH unit of the weak acid's pKa. To prepare a buffer solution that functions efficiently at a desired pH, a weak acid must be chosen whose pKa value is as close as possible to that desired pH. For instance, an acetic acid/acetate buffer (pKa ≈ 4.76) is effective in the acidic range (around pH 3.76-5.76), while an ammonia/ammonium buffer (pKa of NH₄⁺ ≈ 9.25) is effective in the basic range (around pH 8.25-10.25)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Explain the concept of 'Gibbs Free Energy' and its role in predicting the spontaneity of a chemical reaction. Use the relationship ΔG = ΔH - TΔS in your explanation.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gibbs Free Energy",
+      "Spontaneity",
+      "Thermochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gibbs Free Energy and Spontaneity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Gibbs Free Energy (G)</strong> is a thermodynamic state function that combines enthalpy (H) and entropy (S) to determine the maximum reversible work that can be performed by a thermodynamic system at constant temperature (T) and pressure. The change in Gibbs Free Energy (<span style='color:var(--orange);font-weight:bold;'>ΔG</span>) for a process directly predicts its <span style='color:var(--orange);font-weight:bold;'>spontaneity</span> under these conditions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain Gibbs Free Energy and its role in predicting spontaneity, using <span style='color:var(--orange);font-weight:bold;'>ΔG = ΔH - TΔS</span>.</div><p style='margin-bottom:10px;'><strong>Step 1: Define Gibbs Free Energy.</strong><br>Gibbs Free Energy (<span style='color:var(--orange);font-weight:bold;'>G</span>) is a thermodynamic property that essentially represents the 'free' or 'useful' energy available to do work in a system at constant temperature and pressure. The change in Gibbs Free Energy (<span style='color:var(--orange);font-weight:bold;'>ΔG</span>) for a process indicates the driving force of a reaction.</p><p style='margin-bottom:10px;'><strong>Step 2: Explain the role of ΔG in predicting spontaneity using ΔG = ΔH - TΔS.</strong><br>The equation <span style='color:var(--orange);font-weight:bold;'>ΔG = ΔH - TΔS</span> shows that the spontaneity of a reaction depends on three factors: the change in enthalpy (<span style='color:var(--orange);font-weight:bold;'>ΔH</span>, heat change), the change in entropy (<span style='color:var(--orange);font-weight:bold;'>ΔS</span>, change in disorder), and the absolute temperature (<span style='color:var(--orange);font-weight:bold;'>T</span>).<br><br>The criteria for spontaneity are:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>If ΔG < 0:</span> The reaction is <span style='color:var(--orange);font-weight:bold;'>spontaneous</span> in the forward direction. This means the reaction will proceed without external intervention under the given conditions, favoring product formation.</li><li><span style='color:var(--orange);font-weight:bold;'>If ΔG > 0:</span> The reaction is <span style='color:var(--orange);font-weight:bold;'>non-spontaneous</span> in the forward direction. Energy input is required to make it proceed, or the reverse reaction is spontaneous.</li><li><span style='color:var(--orange);font-weight:bold;'>If ΔG = 0:</span> The reaction is at <span style='color:var(--orange);font-weight:bold;'>equilibrium</span>. There is no net change in reactants or products.</li></ul><p style='margin-bottom:10px;'>The equation highlights the interplay between enthalpy and entropy:</p><ul><li>A negative <span style='color:var(--orange);font-weight:bold;'>ΔH</span> (exothermic, favors spontaneity) and a positive <span style='color:var(--orange);font-weight:bold;'>ΔS</span> (increasing disorder, favors spontaneity) will always result in a negative <span style='color:var(--orange);font-weight:bold;'>ΔG</span>, making the reaction spontaneous at all temperatures.</li><li>A positive <span style='color:var(--orange);font-weight:bold;'>ΔH</span> (endothermic, disfavors spontaneity) and a negative <span style='color:var(--orange);font-weight:bold;'>ΔS</span> (decreasing disorder, disfavors spontaneity) will always result in a positive <span style='color:var(--orange);font-weight:bold;'>ΔG</span>, making the reaction non-spontaneous at all temperatures.</li><li>When <span style='color:var(--orange);font-weight:bold;'>ΔH</span> and <span style='color:var(--orange);font-weight:bold;'>ΔS</span> have the same sign, temperature plays a crucial role in determining spontaneity. For example, if both are positive, <span style='color:var(--orange);font-weight:bold;'>ΔG</span> will be negative (spontaneous) only at sufficiently high temperatures where <span style='color:var(--orange);font-weight:bold;'>TΔS > ΔH</span>.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a core concept in thermodynamics. The key is understanding that ΔG provides a definitive criterion for spontaneity by accounting for both energy (enthalpy) and disorder (entropy) factors.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gibbs Free Energy (ΔG) is a thermodynamic quantity that predicts the spontaneity of a chemical reaction at constant temperature and pressure. It is defined by the equation ΔG = ΔH - TΔS. A negative ΔG indicates a spontaneous reaction, a positive ΔG indicates a non-spontaneous reaction, and a ΔG of zero indicates a reaction at equilibrium. This equation shows how both enthalpy (ΔH) and entropy (ΔS), weighted by temperature (T), contribute to a reaction's spontaneity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gibbs Free Energy (G) is a thermodynamic state function that represents the maximum amount of reversible work that a thermodynamic system can perform at constant temperature and pressure. The change in Gibbs Free Energy ($\\Delta G$) for a chemical reaction is the primary criterion for predicting its spontaneity.\n\nThe relationship $\\Delta G = \\Delta H - T\\Delta S$ encapsulates the interplay of enthalpy ($\\Delta H$), entropy ($\\Delta S$), and absolute temperature ($T$) in determining spontaneity:\n\n*   If **$\\Delta G < 0$ (negative)**, the reaction is **spontaneous** under the given conditions. This means it can proceed without continuous external energy input, favoring the formation of products.\n*   If **$\\Delta G > 0$ (positive)**, the reaction is **non-spontaneous** as written. It will require energy input to proceed, or the reverse reaction is spontaneous.\n*   If **$\\Delta G = 0$**, the reaction is at **equilibrium**, with no net change in reactant or product concentrations.\n\nThis equation highlights how both the tendency to minimize energy (exothermicity, reflected by negative $\\Delta H$) and the tendency to maximize disorder (increase in entropy, reflected by positive $\\Delta S$) drive spontaneity. When $\\Delta H$ is negative and $\\Delta S$ is positive, $\\Delta G$ will always be negative, making the reaction spontaneous at all temperatures. Conversely, if $\\Delta H$ is positive and $\\Delta S$ is negative, $\\Delta G$ will always be positive, making the reaction non-spontaneous at all temperatures. For cases where $\\Delta H$ and $\\Delta S$ have the same sign, the spontaneity becomes temperature-dependent, with either the enthalpy or entropy term dominating at different temperature ranges."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Describe the key differences between a voltaic (galvanic) cell and an electrolytic cell.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Voltaic Cell",
+      "Electrolytic Cell",
+      "Electrochemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Voltaic vs. Electrolytic Cells</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Both <strong>voltaic (galvanic) cells</strong> and <strong>electrolytic cells</strong> are types of electrochemical cells that involve redox reactions. The fundamental distinction lies in whether they generate electrical energy from a spontaneous reaction or use electrical energy to drive a non-spontaneous reaction.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Describe the key differences between a voltaic (galvanic) cell and an electrolytic cell.</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the primary function/type of reaction for each cell.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Voltaic (Galvanic) Cell:</span> Converts chemical energy from a <span style='color:var(--orange);font-weight:bold;'>spontaneous redox reaction</span> into electrical energy. It generates electricity.</li><li><span style='color:var(--orange);font-weight:bold;'>Electrolytic Cell:</span> Uses external electrical energy to drive a <span style='color:var(--orange);font-weight:bold;'>non-spontaneous redox reaction</span>. It consumes electricity.</li></ul><p style='margin-bottom:10px;'><strong>Step 2: Compare the sign of ΔG and E_cell.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Voltaic Cell:</span> Since the reaction is spontaneous, <span style='color:var(--orange);font-weight:bold;'>ΔG < 0</span>. Consequently, the cell potential <span style='color:var(--orange);font-weight:bold;'>E_cell > 0</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Electrolytic Cell:</span> Since the reaction is non-spontaneous, <span style='color:var(--orange);font-weight:bold;'>ΔG > 0</span>. Consequently, the cell potential <span style='color:var(--orange);font-weight:bold;'>E_cell < 0</span> (requires external voltage greater than <span style='color:var(--orange);font-weight:bold;'>-E_cell</span>).</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Compare the polarity of electrodes.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Voltaic Cell:</span> The anode (site of oxidation) is the <span style='color:var(--orange);font-weight:bold;'>negative</span> electrode, and the cathode (site of reduction) is the <span style='color:var(--orange);font-weight:bold;'>positive</span> electrode. Electrons flow from negative to positive externally.</li><li><span style='color:var(--orange);font-weight:bold;'>Electrolytic Cell:</span> The anode is the <span style='color:var(--orange);font-weight:bold;'>positive</span> electrode (connected to the positive terminal of the external power supply), and the cathode is the <span style='color:var(--orange);font-weight:bold;'>negative</span> electrode (connected to the negative terminal).</li></ul><p style='margin-bottom:10px;'><strong>Step 4: Compare the cell setup.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Voltaic Cell:</span> Typically requires two separate half-cells connected by a salt bridge to prevent direct mixing of reactants and allow ion migration.</li><li><span style='color:var(--orange);font-weight:bold;'>Electrolytic Cell:</span> Often involves a single container with two electrodes immersed in an electrolyte (molten salt or solution). A salt bridge is generally not required if the reacting ions are in the same solution.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding these distinctions is fundamental to understanding how batteries (voltaic cells) work versus processes like electroplating or producing pure elements (electrolytic cells). The direction of energy flow (generating vs. consuming electricity) is the overarching difference.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The key differences between a voltaic (galvanic) cell and an electrolytic cell lie in their spontaneity, energy transformation, electrode polarities, and typical setup.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Voltaic (galvanic) cells and electrolytic cells are both electrochemical cells that involve redox reactions, but they differ fundamentally in their function, spontaneity, and energy conversion:\n\n1.  **Spontaneity of Reaction:**\n    *   **Voltaic Cell:** Drives a **spontaneous** redox reaction to produce electrical energy. For these cells, the change in Gibbs Free Energy ($\\Delta G$) is negative ($\\Delta G < 0$), and the cell potential ($E_{\\text{cell}}$) is positive ($E_{\\text{cell}} > 0$).\n    *   **Electrolytic Cell:** Uses electrical energy from an external source to force a **non-spontaneous** redox reaction to occur. Here, $\\Delta G$ is positive ($\\Delta G > 0$), and $E_{\\text{cell}}$ is negative ($E_{\\text{cell}} < 0$).\n\n2.  **Energy Conversion:**\n    *   **Voltaic Cell:** Converts **chemical energy into electrical energy**. (e.g., batteries).\n    *   **Electrolytic Cell:** Converts **electrical energy into chemical energy**. (e.g., electrolysis, electroplating).\n\n3.  **Polarity of Electrodes:**\n    *   **Voltaic Cell:** The anode (where oxidation occurs) is the **negative** electrode, and the cathode (where reduction occurs) is the **positive** electrode. Electrons flow spontaneously from anode (negative) to cathode (positive) through the external circuit.\n    *   **Electrolytic Cell:** The anode is forced to be the **positive** electrode (connected to the positive terminal of the external power supply), and the cathode is the **negative** electrode (connected to the negative terminal). Electrons are forced from anode to cathode by the external power source.\n\n4.  **Cell Setup:**\n    *   **Voltaic Cell:** Typically consists of two separate half-cells, each containing an electrode and an electrolyte, connected by an external wire and a **salt bridge** to maintain charge neutrality.\n    *   **Electrolytic Cell:** Often involves a single container with both electrodes immersed in a molten salt or an electrolyte solution. A salt bridge is generally not required as the ions are in the same medium."
+    }
+  }
+]
