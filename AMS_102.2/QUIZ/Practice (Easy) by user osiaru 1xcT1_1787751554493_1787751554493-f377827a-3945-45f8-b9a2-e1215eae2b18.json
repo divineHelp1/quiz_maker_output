@@ -1,0 +1,422 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Basic Mathematics",
+    "code": "AMS 102.2",
+    "session": "Practice (Easy) by user osiaru 1xcT1",
+    "kind": "mixed",
+    "topics": [
+      "Polynomials",
+      "Definition of Polynomials",
+      "Adding and Subtracting Polynomials",
+      "Multiplication of Polynomials",
+      "Nesting Polynomials",
+      "Horner's Method",
+      "Long Division",
+      "Remainder Theorem",
+      "Linear Equations",
+      "Definition of Linear Equations",
+      "Simultaneous Equations",
+      "Elimination Method",
+      "Substitution Method"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer any 20 of the following 40 questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following expressions represents a polynomial of degree 3?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$5x^4 - 2x^2 + 1$$"
+        },
+        {
+          "type": "string",
+          "content": "$$3x^{-3} + x + 7$$"
+        },
+        {
+          "type": "string",
+          "content": "$$2x^3 - 4x + 9$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x^5 + \\sqrt{x} - 2$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Definition of Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Polynomials and Degree</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Polynomial:</em> An expression consisting of variables and coefficients, involving only the operations of addition, subtraction, multiplication, and non-negative integer exponents of variables.<br><em>Degree of a Polynomial:</em> The highest exponent of the variable in a polynomial with non-zero coefficients.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an expression that is a polynomial of degree 3.</div><p><strong>Step 1: Understand the definition of a polynomial.</strong></p><p>A polynomial must have variables with <span style='color:var(--orange);font-weight:bold;'>non-negative integer exponents</span>. This means no negative exponents, no fractional exponents (like square roots of variables), and no variables in the denominator.</p><p><strong>Step 2: Evaluate each option based on the definition.</strong></p><ul><li>$$5x^4 - 2x^2 + 1$$: This is a polynomial. Its highest exponent is 4.</li><li>$$3x^{-3} + x + 7$$: This is <span style='color:var(--orange);font-weight:bold;'>NOT a polynomial</span> because it contains a term with a negative exponent (x<sup>-3</sup>).</li><li>$$2x^3 - 4x + 9$$: This is a polynomial. Its highest exponent is 3.</li><li>$$x^5 + \\sqrt{x} - 2$$: This is <span style='color:var(--orange);font-weight:bold;'>NOT a polynomial</span> because it contains a term with a fractional exponent ($$\\sqrt{x} = x^{1/2}$$).</li></ul><p><strong>Step 3: Identify the polynomial with degree 3.</strong></p><p>From the valid polynomials, only $$2x^3 - 4x + 9$$ has a highest exponent of 3.</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A quick check confirms that $$2x^3 - 4x + 9$$ fits all criteria: all exponents are non-negative integers (3, 1, 0 for the constant term), and the highest exponent is 3. The other options either fail the polynomial definition or have a different degree.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The expression $$2x^3 - 4x + 9$$ represents a polynomial of degree 3.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$2x^3 - 4x + 9$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "When adding the polynomials $$(3x^2 - 5x + 2)$$ and $$(x^2 + 7x - 4)$$, the result is:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$4x^2 - 12x + 6$$"
+        },
+        {
+          "type": "string",
+          "content": "$$4x^2 + 2x - 2$$"
+        },
+        {
+          "type": "string",
+          "content": "$$2x^2 + 2x - 2$$"
+        },
+        {
+          "type": "string",
+          "content": "$$4x^4 + 2x^2 - 2$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Adding and Subtracting Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Addition of Polynomials</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Adding Polynomials:</em> Combine like terms by adding their coefficients. Like terms are terms that have the same variables raised to the same powers.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks to find the sum of two polynomials: $$(3x^2 - 5x + 2)$$ and $$(x^2 + 7x - 4)$$.</div><p><strong>Step 1: Write out the polynomials for addition.</strong></p><p>$$(3x^2 - 5x + 2) + (x^2 + 7x - 4)$$</p><p><strong>Step 2: Group like terms together.</strong></p><p>Group terms with <span style='color:var(--orange);font-weight:bold;'>x²</span>, terms with <span style='color:var(--orange);font-weight:bold;'>x</span>, and <span style='color:var(--orange);font-weight:bold;'>constant terms</span>:</p><p>$$(3x^2 + x^2) + (-5x + 7x) + (2 - 4)$$</p><p><strong>Step 3: Add the coefficients of the like terms.</strong></p><ul><li>For x² terms: $$3 + 1 = 4$$, so $$4x^2$$</li><li>For x terms: $$-5 + 7 = 2$$, so $$2x$$</li><li>For constant terms: $$2 - 4 = -2$$</li></ul><p><strong>Step 4: Combine the simplified terms.</strong></p><p>The sum is $$4x^2 + 2x - 2$$.</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Let's check the options.<br><ul><li>$$4x^2 - 12x + 6$$: Incorrect, errors in adding x terms and constants.</li><li>$$4x^2 + 2x - 2$$: Correct, all like terms combined properly.</li><li>$$2x^2 + 2x - 2$$: Incorrect, error in adding x² terms.</li><li>$$4x^4 + 2x^2 - 2$$: Incorrect, exponents are not added during polynomial addition.</li></ul>The calculation is straightforward, combining coefficients of like powers of x.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The result of adding the given polynomials is $$4x^2 + 2x - 2$$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$4x^2 + 2x - 2$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "What is the product of $$(x + 3)$$ and $$(x - 5)$$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$x^2 + 2x - 15$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x^2 - 2x - 15$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x^2 - 8x - 15$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x^2 + 8x - 15$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Multiplication of Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Multiplication of Binomials (FOIL Method)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>FOIL Method:</em> A mnemonic for multiplying two binomials. It stands for First, Outer, Inner, Last, referring to the pairs of terms that are multiplied.<br><ul><li><b>F</b>irst: Multiply the first terms in each binomial.</li><li><b>O</b>uter: Multiply the outer terms in the product.</li><li><b>I</b>nner: Multiply the inner terms.</li><li><b>L</b>ast: Multiply the last terms in each binomial.</li></ul>Then, combine any like terms.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks to find the product of two binomials: $$(x + 3)$$ and $$(x - 5)$$.</div><p><strong>Step 1: Apply the FOIL method.</strong></p><p>Given: $$(x + 3)(x - 5)$$</p><ul><li><span style='color:var(--orange);font-weight:bold;'>F</span>irst terms: $$x \\cdot x = x^2$$</li><li><span style='color:var(--orange);font-weight:bold;'>O</span>uter terms: $$x \\cdot (-5) = -5x$$</li><li><span style='color:var(--orange);font-weight:bold;'>I</span>nner terms: $$3 \\cdot x = 3x$$</li><li><span style='color:var(--orange);font-weight:bold;'>L</span>ast terms: $$3 \\cdot (-5) = -15$$</li></ul><p><strong>Step 2: Combine the results.</strong></p><p>$$x^2 - 5x + 3x - 15$$</p><p><strong>Step 3: Combine like terms.</strong></p><p>$$x^2 + (-5x + 3x) - 15$$</p><p>$$x^2 - 2x - 15$$</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Let's check the options against our derived product.<br><ul><li>$$x^2 + 2x - 15$$: Incorrect, the sign of the middle term is wrong ($$-5x + 3x = -2x$$).</li><li>$$x^2 - 2x - 15$$: Correct, matches our calculation.</li><li>$$x^2 - 8x - 15$$: Incorrect, error in combining middle terms.</li><li>$$x^2 + 8x - 15$$: Incorrect, error in combining middle terms.</li></ul>The FOIL method systematically covers all pairwise products, ensuring accuracy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product of $$(x + 3)$$ and $$(x - 5)$$ is $$x^2 - 2x - 15$$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$x^2 - 2x - 15$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which polynomial multiplication technique is closely related to Horner's method for polynomial evaluation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Long Division"
+        },
+        {
+          "type": "string",
+          "content": "FOIL Method"
+        },
+        {
+          "type": "string",
+          "content": "Nesting (Synthetic Division)"
+        },
+        {
+          "type": "string",
+          "content": "Standard Polynomial Multiplication"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Nesting Polynomials",
+      "Horner's Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nesting and Horner's Method</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Nesting (Horner's Method):</em> A technique for efficiently evaluating polynomials and performing polynomial division, particularly synthetic division. It re-expresses a polynomial in a nested form to reduce the number of multiplications and additions required. For example, $ax^3+bx^2+cx+d$ becomes $$((ax+b)x+c)x+d$$.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks which polynomial multiplication technique is closely related to Horner's method.</div><p><strong>Step 1: Recall Horner's method.</strong></p><p>Horner's method, also known as <span style='color:var(--orange);font-weight:bold;'>Nesting</span>, is an algorithm for efficiently evaluating polynomials. While primarily used for evaluation, it forms the basis of synthetic division, which is a method for polynomial division.</p><p><strong>Step 2: Relate Horner's method to polynomial operations.</strong></p><p>The concept of 'nesting' a polynomial, like rewriting $$ax^3+bx^2+cx+d$$ as $$((ax+b)x+c)x+d$$, inherently simplifies the calculation process. This nesting is a form of polynomial manipulation that optimizes both multiplication (during evaluation) and division (as synthetic division).</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Long Division:</span> A general method for polynomial division, but not specifically 'nesting'. Synthetic division is a special case of long division using Horner's method.</li><li><span style='color:var(--orange);font-weight:bold;'>FOIL Method:</span> Specific to multiplying two binomials, not related to the general structure or evaluation efficiency of polynomials addressed by Horner's method.</li><li><span style='color:var(--orange);font-weight:bold;'>Nesting (Synthetic Division):</span> This directly refers to the principle behind Horner's method, where the polynomial is re-arranged for efficient computation, often leading to synthetic division as a practical application.</li><li><span style='color:var(--orange);font-weight:bold;'>Standard Polynomial Multiplication:</span> Refers to the general distributive property application, not a specific technique like nesting.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Horner's method is fundamentally about expressing a polynomial in a nested form. This nested form is directly referred to as 'nesting' in polynomial theory and is the computational backbone for synthetic division, which is a division technique, not primarily a multiplication technique in the traditional sense, but the question asks for a 'polynomial multiplication technique' *related* to it, and nesting itself involves an efficient way of performing implied multiplications for evaluation. Among the given options, 'Nesting' is the most direct and accurate connection.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The polynomial multiplication technique closely related to Horner's method for polynomial evaluation is Nesting (Synthetic Division).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nesting (Synthetic Division)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "When the polynomial $$2x^3 - 3x^2 + x - 5$$ is divided by $$(x - 2)$$, what is the remainder?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$1$$"
+        },
+        {
+          "type": "string",
+          "content": "$$9$$"
+        },
+        {
+          "type": "string",
+          "content": "$$3$$"
+        },
+        {
+          "type": "string",
+          "content": "$$-1$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Long Division",
+      "Remainder Theorem"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Remainder Theorem</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Remainder Theorem:</em> If a polynomial $$P(x)$$ is divided by a linear divisor $$(x - a)$$, then the remainder is $$P(a)$$.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks for the remainder when the polynomial $$2x^3 - 3x^2 + x - 5$$ is divided by $$(x - 2)$$.</div><p><strong>Step 1: Identify the polynomial and the divisor.</strong></p><p>Let $$P(x) = 2x^3 - 3x^2 + x - 5$$.<br>The divisor is $$(x - 2)$$.</p><p><strong>Step 2: Apply the Remainder Theorem.</strong></p><p>According to the Remainder Theorem, if a polynomial $$P(x)$$ is divided by $$(x - a)$$, the remainder is $$P(a)$$.</p><p>In this case, comparing $$(x - 2)$$ with $$(x - a)$$ gives $$a = 2$$.</p><p>Therefore, the remainder is $$P(2)$$.</p><p><strong>Step 3: Evaluate $$P(2)$$.</strong></p><p>Substitute <span style='color:var(--orange);font-weight:bold;'>x = 2</span> into the polynomial $$P(x)$$.</p><p>$$P(2) = 2(2)^3 - 3(2)^2 + (2) - 5$$</p><p>$$P(2) = 2(8) - 3(4) + 2 - 5$$</p><p>$$P(2) = 16 - 12 + 2 - 5$$</p><p>$$P(2) = 4 + 2 - 5$$</p><p>$$P(2) = 6 - 5$$</p><p>$$P(2) = 1$$</p><p>The remainder is <span style='color:var(--orange);font-weight:bold;'>1</span>.</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> We calculated the remainder to be 1. Let's compare with the options.<br><ul><li>$$1$$: Correct, matches our calculation.</li><li>$$9$$: Incorrect.</li><li>$$3$$: Incorrect.</li><li>$$-1$$: Incorrect.</li></ul>The Remainder Theorem provides a direct and efficient way to find the remainder without performing full polynomial long division.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The remainder when the polynomial $$2x^3 - 3x^2 + x - 5$$ is divided by $$(x - 2)$$ is $$1$$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$1$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which of the following is an example of nesting a polynomial $$P(x) = x^3 - 4x^2 + 7x - 1$$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$x(x^2 - 4x + 7) - 1$$"
+        },
+        {
+          "type": "string",
+          "content": "$$(x - 1)(x^2 - 3x + 4) + 3$$"
+        },
+        {
+          "type": "string",
+          "content": "$$((x - 4)x + 7)x - 1$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x^3 + (-4x^2) + 7x - 1$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Nesting Polynomials",
+      "Horner's Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nesting Polynomials (Horner's Form)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Nesting (Horner's Form):</em> A method of writing a polynomial $$P(x) = a_n x^n + a_{n-1} x^{n-1} + \\dots + a_1 x + a_0$$ in a nested structure: $$P(x) = ((\\dots(a_n x + a_{n-1})x + a_{n-2})x + \\dots + a_1)x + a_0$$. This form reduces the number of multiplications and additions required for polynomial evaluation.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the nested form of the polynomial $$P(x) = x^3 - 4x^2 + 7x - 1$$.</div><p><strong>Step 1: Identify the coefficients of the polynomial.</strong></p><p>For $$P(x) = x^3 - 4x^2 + 7x - 1$$, the coefficients are:</p><ul><li>$$a_3 = 1$$ (coefficient of $$x^3$$)</li><li>$$a_2 = -4$$ (coefficient of $$x^2$$)</li><li>$$a_1 = 7$$ (coefficient of $$x$$)</li><li>$$a_0 = -1$$ (constant term)</li></ul><p><strong>Step 2: Apply the nesting (Horner's) form formula.</strong></p><p>The general nested form for a cubic polynomial $$a_3 x^3 + a_2 x^2 + a_1 x + a_0$$ is $$((a_3 x + a_2)x + a_1)x + a_0$$.</p><p>Substitute the coefficients:</p><p>$$((1 \\cdot x + (-4))x + 7)x + (-1)$$</p><p>$$((x - 4)x + 7)x - 1$$</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>$$x(x^2 - 4x + 7) - 1$$: This is simply factoring out x from the first three terms, not fully nested.</li><li>$$(x - 1)(x^2 - 3x + 4) + 3$$: This is a result of polynomial division, showing quotient and remainder, not the nested form for evaluation.</li><li>$$((x - 4)x + 7)x - 1$$: This matches the derived nested form.</li><li>$$x^3 + (-4x^2) + 7x - 1$$: This is the original polynomial written with explicit signs, not a nested form.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Expanding the correct option: <br>$$((x - 4)x + 7)x - 1$$<br>$$ (x^2 - 4x + 7)x - 1$$<br>$$ x^3 - 4x^2 + 7x - 1$$<br>This correctly returns the original polynomial, confirming it is indeed the nested form.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The nested form of the polynomial $$x^3 - 4x^2 + 7x - 1$$ is $$((x - 4)x + 7)x - 1$$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$((x - 4)x + 7)x - 1$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Explain the primary purpose of performing long division on polynomials.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomials",
+      "Long Division"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Polynomial Long Division</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Polynomial Long Division:</em> A systematic algorithm for dividing a polynomial by another polynomial of the same or lower degree. It is analogous to the long division of integers.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary purpose of performing long division on polynomials.</div><p><strong>Marking Scheme Points:</strong></p><ul><li>Polynomial long division is primarily used to <span style='color:var(--orange);font-weight:bold;'>divide one polynomial (the dividend) by another (the divisor)</span> to find a quotient polynomial and a remainder polynomial.</li><li>It is essential when the divisor is <span style='color:var(--orange);font-weight:bold;'>not a simple linear factor</span> of the form $$(x-a)$$, where synthetic division or the Remainder Theorem could be applied.</li><li>Specifically, it helps in <span style='color:var(--orange);font-weight:bold;'>simplifying rational expressions</span>, <span style='color:var(--orange);font-weight:bold;'>finding factors of polynomials</span> (if the remainder is zero), and <span style='color:var(--orange);font-weight:bold;'>identifying oblique asymptotes</span> for rational functions in calculus.</li><li>The process allows rewriting a rational function $$P(x)/D(x)$$ in the form $$Q(x) + R(x)/D(x)$$, where $$Q(x)$$ is the quotient and $$R(x)$$ is the remainder, with the degree of $$R(x)$$ being less than the degree of $$D(x)$$. This form is particularly useful in integration (partial fractions) and curve sketching.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common misconception is that polynomial long division is only for finding factors. While it does achieve that when the remainder is zero, its primary utility is broader: to express a rational function as a sum of a polynomial and a proper rational function, which is crucial for various mathematical operations and analyses.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary purpose of polynomial long division is to divide a polynomial by another polynomial, yielding a quotient and a remainder. This allows for simplifying rational expressions, identifying factors, and preparing rational functions for further analysis or integration by rewriting them as a sum of a polynomial and a proper rational fraction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polynomial long division is primarily used to divide one polynomial (the dividend) by another (the divisor) to obtain a quotient polynomial and a remainder polynomial. This process is crucial for:\n1.  **Simplifying Rational Expressions:** It allows for the reduction of improper rational functions into a sum of a polynomial and a proper rational function. For example, if $P(x)$ is divided by $D(x)$, the result is $Q(x) + R(x)/D(x)$, where $Q(x)$ is the quotient and $R(x)$ is the remainder.\n2.  **Finding Factors and Roots:** If the remainder $R(x)$ is zero, then the divisor $D(x)$ is a factor of $P(x)$, and the roots of $D(x)$ are also roots of $P(x)$. This helps in factorizing higher-degree polynomials.\n3.  **Analyzing Asymptotes:** In calculus, it helps in identifying oblique (slant) asymptotes of rational functions when the degree of the numerator is exactly one greater than the degree of the denominator."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which of the following is a linear equation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$y = x^2 + 5$$"
+        },
+        {
+          "type": "string",
+          "content": "$$3x + 2y - 7 = 0$$"
+        },
+        {
+          "type": "string",
+          "content": "$$xy = 10$$"
+        },
+        {
+          "type": "string",
+          "content": "$$\\frac{1}{x} + y = 3$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Linear Equations",
+      "Definition of Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of a Linear Equation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Linear Equation:</em> An algebraic equation in which each term is either a constant or the product of a constant and a single variable (raised to the power of 1). The highest power of any variable in a linear equation is 1. The general form is $$Ax + By + C = 0$$ for two variables, or $$ax + b = 0$$ for one variable.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which of the given expressions is a linear equation.</div><p><strong>Step 1: Understand the characteristics of a linear equation.</strong></p><p>A linear equation is characterized by having variables raised only to the power of <span style='color:var(--orange);font-weight:bold;'>1</span>. There should be no products of variables (like $$xy$$), no variables in the denominator (like $$1/x$$), and no variables raised to powers other than 1 (like $$x^2$$).</p><p><strong>Step 2: Evaluate each option.</strong></p><ul><li>$$y = x^2 + 5$$: This is <span style='color:var(--orange);font-weight:bold;'>NOT a linear equation</span> because it contains an $$x^2$$ term (power of 2). This is a quadratic equation.</li><li>$$3x + 2y - 7 = 0$$: This is a linear equation because both $$x$$ and $$y$$ are raised to the power of <span style='color:var(--orange);font-weight:bold;'>1</span>, and there are no products of variables or variables in denominators.</li><li>$$xy = 10$$: This is <span style='color:var(--orange);font-weight:bold;'>NOT a linear equation</span> because it contains a product of variables ($$xy$$). This represents a hyperbola.</li><li>$$\\frac{1}{x} + y = 3$$: This is <span style='color:var(--orange);font-weight:bold;'>NOT a linear equation</span> because it contains a variable in the denominator ($$1/x$$ which is $$x^{-1}$$).</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition of a linear equation strictly limits the power of variables to 1 and disallows products of variables. Option B, $$3x + 2y - 7 = 0$$, perfectly fits this description as a standard form of a linear equation in two variables. The other options violate these conditions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The linear equation among the options is $$3x + 2y - 7 = 0$$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$3x + 2y - 7 = 0$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Given the system of equations:\n1. $$x + y = 7$$\n2. $$x - y = 3$$\nUsing the elimination method, what is the value of $$x$$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$x = 2$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x = 4$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x = 5$$"
+        },
+        {
+          "type": "string",
+          "content": "$$x = 7$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Linear Equations",
+      "Simultaneous Equations",
+      "Elimination Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solving Simultaneous Equations by Elimination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Elimination Method:</em> A technique for solving systems of linear equations by adding or subtracting the equations to eliminate one of the variables, allowing the remaining variable to be solved.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks to find the value of $$x$$ for the given system of linear equations using the elimination method: <br>1. $$x + y = 7$$ <br>2. $$x - y = 3$$</div><p><strong>Step 1: Set up the equations for elimination.</strong></p><p>$$(1) \\quad x + y = 7$$</p><p>$$(2) \\quad x - y = 3$$</p><p><strong>Step 2: Decide which variable to eliminate.</strong></p><p>Notice that the coefficients of $$y$$ are opposite ($$+1$$ and $$-1$$). Adding the two equations will eliminate $$y$$.</p><p><strong>Step 3: Add the two equations.</strong></p><p>$$ (x + y) + (x - y) = 7 + 3 $$</p><p>$$ x + x + y - y = 10 $$</p><p>$$ 2x = 10 $$</p><p><strong>Step 4: Solve for $$x$$.</strong></p><p>Divide both sides by 2:</p><p>$$ x = \\frac{10}{2} $$</p><p>$$ x = 5 $$</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> To ensure the answer is correct, we can also find $$y$$ and check both equations. Substitute $$x = 5$$ into equation (1):<br>$$5 + y = 7 \\implies y = 2$$<br>Now check with equation (2):<br>$$5 - 2 = 3$$<br>$$3 = 3$$ (This is true)<br>Since both equations are satisfied, the values $$x=5$$ and $$y=2$$ are correct. Our calculated $$x$$ value is $$5$$.<br><ul><li>$$x = 2$$: Incorrect, this is the value for y.</li><li>$$x = 4$$: Incorrect, possibly from an error in addition or subtraction.</li><li>$$x = 5$$: Correct, derived from adding the equations.</li><li>$$x = 7$$: Incorrect, this is the sum of x and y.</li></ul></div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Using the elimination method, the value of $$x$$ is $$5$$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$x = 5$$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "For the system of equations:\n1. $$y = 2x - 1$$\n2. $$3x + y = 9$$\nUsing the substitution method, what is the value of $$y$$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$$y = 1$$"
+        },
+        {
+          "type": "string",
+          "content": "$$y = 3$$"
+        },
+        {
+          "type": "string",
+          "content": "$$y = 5$$"
+        },
+        {
+          "type": "string",
+          "content": "$$y = 7$$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Linear Equations",
+      "Simultaneous Equations",
+      "Substitution Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solving Simultaneous Equations by Substitution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Substitution Method:</em> A technique for solving systems of"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$$y = 3$$"
+    }
+  }
+]
