@@ -1,0 +1,1619 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Introduction to pharmacy ",
+    "code": "Pcy 101.2",
+    "session": "Me by user mugabe 1pjc9",
+    "kind": "mixed",
+    "topics": [
+      "Introduction",
+      "Fundamental Concepts",
+      "Indices",
+      "Definition",
+      "Laws of Indices",
+      "Product Law",
+      "Quotient Law",
+      "Calculation",
+      "Power of a Power",
+      "Power of a Product",
+      "Zero Index",
+      "Negative Index",
+      "Fractional Index",
+      "Scientific Notation",
+      "Conversion",
+      "Pharmacy Applications of Indices",
+      "Units",
+      "Pharmacokinetics",
+      "First-Order Elimination",
+      "Logarithms",
+      "Relationship to Indices",
+      "Natural Logarithms",
+      "Base",
+      "Basic Properties",
+      "Laws of Logarithms",
+      "Change of Base",
+      "Solving Exponential Equations",
+      "Solving Logarithmic Equations",
+      "Conversion to Exponential Form",
+      "First-Order Half-life",
+      "Formula",
+      "Pharmaceutical Application",
+      "pH",
+      "Acid-Base",
+      "Henderson-Hasselbalch",
+      "Microbiological Growth",
+      "Exponential Growth",
+      "Serial Dilution",
+      "Negative Indices",
+      "Interpretation",
+      "Logarithmic Scales",
+      "Data Visualization",
+      "Applications",
+      "Concentration Units",
+      "Powers of Ten",
+      "Common Errors",
+      "NOT Question",
+      "Pharmaceutical Unit Conversions",
+      "Problem Solving",
+      "Types of Logarithms",
+      "Common Logarithms",
+      "Comparison",
+      "Logarithmic Scale",
+      "Pharmacy Applications",
+      "Importance"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer any 20 of the following 40 questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "According to the document, what fundamental mathematical concepts are essential for quantitative work in pharmaceutics, pharmaceutical chemistry, pharmacology, pharmacokinetics, biostatistics, and clinical pharmacy?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Algebra and Geometry"
+        },
+        {
+          "type": "string",
+          "content": "Trigonometry and Calculus"
+        },
+        {
+          "type": "string",
+          "content": "Indices and Logarithms"
+        },
+        {
+          "type": "string",
+          "content": "Statistics and Probability"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Introduction",
+      "Fundamental Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Indices and Logarithms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Indices and Logarithms:</strong> Mathematical concepts providing convenient ways to express repeated multiplication and powers, and their inverse operations, crucial for handling very large or very small quantities in various scientific fields.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the fundamental mathematical concepts highlighted as essential for quantitative work across various pharmaceutical sciences.</div><p><strong>Step 1: Identify key fields mentioned.</strong> The document lists pharmaceutics, pharmaceutical chemistry, pharmacology, pharmacokinetics, biostatistics, and clinical pharmacy.</p><p><strong>Step 2: Locate the introductory statement in the document.</strong> Section 1.0, \"INTRODUCTION\", states: <span style='color:var(--orange);font-weight:bold;'>\"Indices and logarithms are fundamental mathematical concepts used throughout pharmacy and pharmaceutical sciences.\"</span></p><ul><li>Option A (Algebra and Geometry) is generally important but not specifically identified as the *fundamental concepts* for these areas in the context of the document's introduction.</li><li>Option B (Trigonometry and Calculus) are advanced mathematical tools, but the document emphasizes indices and logarithms as foundational for the specific applications discussed.</li><li>Option C (Indices and Logarithms) directly matches the statement in the introduction of the document, making it the correct answer. These concepts are presented as the core subject matter.</li><li>Option D (Statistics and Probability) are crucial in biostatistics, but the introduction refers to a broader set of fields and specifically points to indices and logarithms as the foundational concepts.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly opens by stating the central role of indices and logarithms. This sets the stage for the entire lecture, confirming their foundational importance in the listed fields.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Indices and Logarithms</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Indices and Logarithms"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "What is the primary function of an index (exponent or power) as defined in the context of indices?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To indicate the base number"
+        },
+        {
+          "type": "string",
+          "content": "To specify how many times a quantity is multiplied by itself"
+        },
+        {
+          "type": "string",
+          "content": "To represent the inverse operation of multiplication"
+        },
+        {
+          "type": "string",
+          "content": "To denote a fractional part of a number"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Indices",
+      "Definition"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of an Index</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Index (Exponent/Power):</strong> A number that indicates how many times a base quantity is multiplied by itself.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of an index.</div><p><strong>Step 1: Refer to the definition of indices.</strong> Section 3.0, \"INDICES (EXPONENTS)\", explicitly states: <span style='color:var(--orange);font-weight:bold;'>\"An index, exponent or power indicates how many times a quantity is multiplied by itself.\"</span></p><ul><li>Option A (To indicate the base number) is incorrect; the base number is the quantity being multiplied, not indicated by the index.</li><li>Option B (To specify how many times a quantity is multiplied by itself) directly matches the definition provided in the document.</li><li>Option C (To represent the inverse operation of multiplication) is incorrect; an index represents repeated multiplication, not its inverse.</li><li>Option D (To denote a fractional part of a number) is incorrect; while fractional indices represent roots, the primary function of an index is not to denote a fractional part of the base number itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The example given, 5³ = 5 × 5 × 5 = 125, clearly shows that the index '3' dictates that the base '5' is multiplied by itself three times. This aligns with the definition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To specify how many times a quantity is multiplied by itself</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To specify how many times a quantity is multiplied by itself"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "When applying the Product Law of Indices, what operation is performed on the exponents if the bases are the same?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Subtraction"
+        },
+        {
+          "type": "string",
+          "content": "Multiplication"
+        },
+        {
+          "type": "string",
+          "content": "Division"
+        },
+        {
+          "type": "string",
+          "content": "Addition"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Indices",
+      "Product Law"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Product Law of Indices</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Product Law:</strong> a<sup>m</sup> × a<sup>n</sup> = a<sup>m+n</sup> (When multiplying powers with the same base, add the exponents).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the operation performed on exponents according to the Product Law of Indices.</div><p><strong>Step 1: Locate the Product Law of Indices.</strong> Section 4.1, \"Product Law\", states: <span style='color:var(--orange);font-weight:bold;'>\"a<sup>m</sup> × a<sup>n</sup> = a<sup>m+n</sup>.\"</span></p><p><strong>Step 2: Interpret the formula.</strong> The formula shows that when multiplying two terms with the same base (a) but different exponents (m and n), the exponents are added together (m+n) to form the new exponent of the base.</p><ul><li>Option A (Subtraction) is incorrect; subtraction is used for the Quotient Law.</li><li>Option B (Multiplication) is incorrect; multiplication is used for the Power of a Power Law.</li><li>Option C (Division) is incorrect; division is not an operation on exponents in this context.</li><li>Option D (Addition) is correct, as shown by the formula a<sup>m+n</sup>.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The example 2³ × 2⁴ = 2<sup>3+4</sup> = 2⁷ = 128 confirms that the exponents are added.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Addition</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Addition"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Evaluate the expression 5⁶ / 5² using the Quotient Law of Indices.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5⁸ = 390625"
+        },
+        {
+          "type": "string",
+          "content": "5³ = 125"
+        },
+        {
+          "type": "string",
+          "content": "5⁴ = 625"
+        },
+        {
+          "type": "string",
+          "content": "5¹² = 244140625"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Indices",
+      "Quotient Law",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Quotient Law of Indices</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Quotient Law:</strong> a<sup>m</sup> / a<sup>n</sup> = a<sup>m-n</sup>, provided a ≠ 0 (When dividing powers with the same base, subtract the exponents).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to evaluate 5⁶ / 5² using the Quotient Law.</div><p><strong>Step 1: Apply the Quotient Law.</strong> According to the Quotient Law (Section 4.2), when dividing powers with the same base, you subtract the exponents. So, for <span style='color:var(--orange);font-weight:bold;'>5⁶ / 5²</span>, we have:</p><p>5⁶ / 5² = 5<sup>6-2</sup> = 5⁴</p><p><strong>Step 2: Calculate the value.</strong> Now, calculate 5⁴:</p><p>5⁴ = 5 × 5 × 5 × 5 = <span style='color:var(--orange);font-weight:bold;'>625</span></p><ul><li>Option A (5⁸ = 390625) would be the result if the exponents were added (Product Law).</li><li>Option B (5³ = 125) is incorrect; the subtraction 6-2 gives 4, not 3.</li><li>Option C (5⁴ = 625) is the correct application of the Quotient Law.</li><li>Option D (5¹² = 244140625) would be the result if the exponents were multiplied.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The example given in the document is 5⁶/5² = 5⁴ = 625, which matches our calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 5⁴ = 625</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5⁴ = 625"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which of the following expressions correctly demonstrates the 'Power of a Power' law of indices?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "(a<sup>m</sup>)<sup>n</sup> = a<sup>m+n</sup>"
+        },
+        {
+          "type": "string",
+          "content": "(a<sup>m</sup>)<sup>n</sup> = a<sup>m-n</sup>"
+        },
+        {
+          "type": "string",
+          "content": "(a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup>"
+        },
+        {
+          "type": "string",
+          "content": "(a<sup>m</sup>)<sup>n</sup> = a<sup>m/n</sup>"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Indices",
+      "Power of a Power"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Power of a Power Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Power of a Power:</strong> (a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup> (When raising a power to another power, multiply the exponents).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the correct expression for the 'Power of a Power' law.</div><p><strong>Step 1: Locate the 'Power of a Power' Law.</strong> Section 4.3, \"Power of a Power\", states the law as <span style='color:var(--orange);font-weight:bold;'>\"(a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup>.\"</span></p><ul><li>Option A ((a<sup>m</sup>)<sup>n</sup> = a<sup>m+n</sup>) is incorrect; this describes the Product Law.</li><li>Option B ((a<sup>m</sup>)<sup>n</sup> = a<sup>m-n</sup>) is incorrect; this describes the Quotient Law.</li><li>Option C ((a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup>) is the correct expression for the Power of a Power Law.</li><li>Option D ((a<sup>m</sup>)<sup>n</sup> = a<sup>m/n</sup>) is incorrect; this is not a standard law of indices.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The example provided, (2³)², shows that (2³)³ = 2<sup>3×2</sup> = 2⁶ = 64. This confirms that the exponents are multiplied.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ (a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup></p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Apply the 'Power of a Product' law to simplify (2 × 3)².",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "6² = 36"
+        },
+        {
+          "type": "string",
+          "content": "2³ × 3³ = 216"
+        },
+        {
+          "type": "string",
+          "content": "2² + 3² = 13"
+        },
+        {
+          "type": "string",
+          "content": "2² × 3² = 36"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Indices",
+      "Power of a Product",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Power of a Product Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Power of a Product:</strong> (ab)<sup>n</sup> = a<sup>n</sup>b<sup>n</sup> (The power of a product is the product of the powers).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to simplify (2 × 3)² using the Power of a Product law.</div><p><strong>Step 1: Apply the Power of a Product Law.</strong> According to Section 4.4, \"Power of a Product\", the law states <span style='color:var(--orange);font-weight:bold;'>\"(ab)<sup>n</sup> = a<sup>n</sup>b<sup>n</sup>.\"</span></p><p>Applying this to (2 × 3)², we get: (2 × 3)² = 2² × 3²</p><p><strong>Step 2: Calculate the value.</strong></p><p>2² = 4</p><p>3² = 9</p><p>So, 2² × 3² = 4 × 9 = <span style='color:var(--orange);font-weight:bold;'>36</span></p><ul><li>Option A (6² = 36) is numerically correct but does not explicitly demonstrate the application of the 'Power of a Product' law by distributing the exponent. It's a calculation of (2*3) squared.</li><li>Option B (2³ × 3³ = 216) is incorrect; the exponent should be 2, not 3.</li><li>Option C (2² + 3² = 13) is incorrect; the operation between 2² and 3² should be multiplication, not addition.</li><li>Option D (2² × 3² = 36) correctly demonstrates the application of the law and yields the correct numerical result.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's example is (2 × 3)² = 2² × 3² = 36. This matches our application and result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 2² × 3² = 36</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2² × 3² = 36"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "For a non-zero base 'a', what is the value of a⁰ according to the rules of zero indices?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "a"
+        },
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Indices",
+      "Zero Index"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Zero Index Rule</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Rule:</em> <strong>Zero Index:</strong> For any non-zero base 'a', a⁰ = 1.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the value of a⁰ for a non-zero base 'a'.</div><p><strong>Step 1: Refer to the section on zero indices.</strong> Section 5.0, \"ZERO, NEGATIVE AND FRACTIONAL INDICES\", states: <span style='color:var(--orange);font-weight:bold;'>\"For a non-zero base, a⁰ = 1.\"</span></p><ul><li>Option A (a) is incorrect; raising a to the power of 0 does not result in the base itself.</li><li>Option B (0) is incorrect; a common error mentioned in the document (Section 24.0) is confusing a⁰ = 0 instead of a⁰ = 1.</li><li>Option C (Undefined) is incorrect; a⁰ is defined as 1 for any non-zero base. 0⁰ is generally considered undefined or 1 depending on context, but the question specifies a non-zero base.</li><li>Option D (1) is the correct value as stated in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a fundamental rule of indices. Any non-zero number raised to the power of zero is always 1. For example, 25⁰ = 1.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What does a negative index 'a<sup>-n</sup>' represent for a non-zero base 'a'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The opposite of 'a' raised to the power of 'n'"
+        },
+        {
+          "type": "string",
+          "content": "The reciprocal of 'a' raised to the power of 'n'"
+        },
+        {
+          "type": "string",
+          "content": "The negative value of 'a' multiplied by 'n'"
+        },
+        {
+          "type": "string",
+          "content": "Zero, if 'n' is a positive integer"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Indices",
+      "Negative Index"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Negative Index Rule</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Rule:</em> <strong>Negative Index:</strong> For a non-zero base 'a', a<sup>-n</sup> = 1/a<sup>n</sup>. It represents the reciprocal of the base raised to the positive power.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what a negative index 'a<sup>-n</sup>' represents.</div><p><strong>Step 1: Refer to the section on negative indices.</strong> Section 5.0, \"ZERO, NEGATIVE AND FRACTIONAL INDICES\", states: <span style='color:var(--orange);font-weight:bold;'>\"A negative index represents a reciprocal: a<sup>-n</sup> = 1/a<sup>n</sup>.\"</span></p><ul><li>Option A (The opposite of 'a' raised to the power of 'n') is incorrect; the negative sign in the exponent does not denote an opposite value.</li><li>Option B (The reciprocal of 'a' raised to the power of 'n') accurately describes a<sup>-n</sup> = 1/a<sup>n</sup>, where 1/a<sup>n</sup> is the reciprocal of a<sup>n</sup>.</li><li>Option C (The negative value of 'a' multiplied by 'n') is incorrect; this misinterprets the role of the exponent.</li><li>Option D (Zero, if 'n' is a positive integer) is incorrect; a negative exponent produces a fraction, not zero.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The example 2<sup>-3</sup> = 1/8 and 10<sup>-2</sup> = 0.01 clearly show that a negative index results in a reciprocal, not a negative number itself. This matches the definition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reciprocal of 'a' raised to the power of 'n'</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The reciprocal of 'a' raised to the power of 'n'"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Evaluate 16<sup>(1/2)</sup> using the rule for fractional indices.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "8"
+        },
+        {
+          "type": "string",
+          "content": "32"
+        },
+        {
+          "type": "string",
+          "content": "4"
+        },
+        {
+          "type": "string",
+          "content": "16"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Indices",
+      "Fractional Index",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Fractional Index Rule</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Rule:</em> <strong>Fractional Index:</strong> a<sup>(1/n)</sup> = <sup>n</sup>√a (A fractional index represents a root). Specifically, a<sup>(1/2)</sup> is the square root of 'a'.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to evaluate 16<sup>(1/2)</sup>.</div><p><strong>Step 1: Apply the fractional index rule.</strong> According to Section 5.0, \"ZERO, NEGATIVE AND FRACTIONAL INDICES\", a fractional index represents a root: <span style='color:var(--orange);font-weight:bold;'>a<sup>(1/n)</sup> = <sup>n</sup>√a</span>. Therefore, 16<sup>(1/2)</sup> means the square root of 16.</p><p><strong>Step 2: Calculate the root.</strong></p><p>√16 = <span style='color:var(--orange);font-weight:bold;'>4</span></p><ul><li>Option A (8) is incorrect; this would be 16 divided by 2 or 2 to the power of 3.</li><li>Option B (32) is incorrect; this would be 16 multiplied by 2 or 2 to the power of 5.</li><li>Option C (4) is the correct square root of 16.</li><li>Option D (16) is incorrect; this implies the exponent had no effect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides 16<sup>(1/2)</sup> = 4 as an example, which confirms the calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 4</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Express the number 0.00032 in scientific notation.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "3.2 × 10³"
+        },
+        {
+          "type": "string",
+          "content": "3.2 × 10⁻⁴"
+        },
+        {
+          "type": "string",
+          "content": "32 × 10⁻⁵"
+        },
+        {
+          "type": "string",
+          "content": "0.32 × 10⁻³"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Scientific Notation",
+      "Conversion"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Scientific Notation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Definition:</em> <strong>Scientific Notation:</strong> Expresses very large or very small numbers as A × 10<sup>n</sup>, where 1 ≤ A < 10.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to express 0.00032 in scientific notation.</div><p><strong>Step 1: Move the decimal point to get a number between 1 and 10.</strong> For 0.00032, move the decimal point to the right until it is after the first non-zero digit. This gives us <span style='color:var(--orange);font-weight:bold;'>3.2</span>.</p><p><strong>Step 2: Count the number of places the decimal point was moved.</strong> The decimal point moved 4 places to the right (from its original position to after the '3').</p><p><strong>Step 3: Determine the exponent of 10.</strong> Since the original number (0.00032) is less than 1, the exponent will be negative. The number of places moved determines the absolute value of the exponent. So, the exponent is <span style='color:var(--orange);font-weight:bold;'>-4</span>.</p><p><strong>Step 4: Combine to form scientific notation.</strong> 0.00032 = 3.2 × 10⁻⁴</p><ul><li>Option A (3.2 × 10³) is incorrect; this represents 3200.</li><li>Option B (3.2 × 10⁻⁴) correctly converts 0.00032 to scientific notation.</li><li>Option C (32 × 10⁻⁵) is numerically equivalent to 0.00032, but 'A' (32) is not between 1 and 10, so it is not in correct scientific notation format.</li><li>Option D (0.32 × 10⁻³) is numerically equivalent to 0.00032, but 'A' (0.32) is not between 1 and 10, so it is not in correct scientific notation format.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides the example 0.00032 = 3.2 × 10⁻⁴, which confirms the steps and the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 3.2 × 10⁻⁴</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3.2 × 10⁻⁴"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which of the following units is given as an example where negative powers (indices) occur in pharmacy applications?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "kg/m³"
+        },
+        {
+          "type": "string",
+          "content": "mmol"
+        },
+        {
+          "type": "string",
+          "content": "mol L⁻¹"
+        },
+        {
+          "type": "string",
+          "content": "g cm²"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacy Applications of Indices",
+      "Units"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Negative Powers in Pharmaceutical Units</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Negative Powers in Units:</strong> In pharmacy, negative powers are used to express concentrations (e.g., mass per volume) or rates (e.g., per second) as a numerator with a negative exponent, simplifying notation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an example of a unit from the document that uses negative powers in pharmacy applications.</div><p><strong>Step 1: Refer to the section on pharmacy applications of indices.</strong> Section 7.0, \"PHARMACY APPLICATIONS OF INDICES\", under \"Concentrations and units\", lists specific examples: <span style='color:var(--orange);font-weight:bold;'>\"negative powers occur in units such as mg mL⁻¹, mol L⁻¹ and s⁻¹.\"</span></p><ul><li>Option A (kg/m³) uses division, but it's not listed as an explicit example of negative powers in the document's specific list. It could be written as kg m⁻³, but the given examples are specific.</li><li>Option B (mmol) is a simple unit of amount, not typically involving negative powers in its base form.</li><li>Option C (mol L⁻¹) is explicitly listed in the document as an example where negative powers occur.</li><li>Option D (g cm²) is a unit of mass-area, not typically involving negative powers in the context of concentration or rates as discussed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly provides mol L⁻¹ as an example. Other correct examples given are mg mL⁻¹ and s⁻¹.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ mol L⁻¹</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "mol L⁻¹"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "In pharmacokinetics, first-order drug elimination follows an exponential model. Which of the following equations represents this model as given in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "C = Co + kt"
+        },
+        {
+          "type": "string",
+          "content": "C = Coekt"
+        },
+        {
+          "type": "string",
+          "content": "C = Coe⁻kt"
+        },
+        {
+          "type": "string",
+          "content": "C = Co / k"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacy Applications of Indices",
+      "Pharmacokinetics",
+      "First-Order Elimination"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First-Order Drug Elimination Model</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>First-order drug elimination:</strong> C = C<sub>0</sub>e<sup>-kt</sup>, where C is the concentration at time t, C<sub>0</sub> is the initial concentration, k is the elimination rate constant, and e is the base of natural logarithms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the equation representing first-order drug elimination in pharmacokinetics as presented in the document.</div><p><strong>Step 1: Refer to the relevant section.</strong> Section 7.0, \"PHARMACY APPLICATIONS OF INDICES\", under \"Pharmacokinetics\", states: <span style='color:var(--orange);font-weight:bold;'>\"first-order drug elimination follows an exponential model, C = C<sub>0</sub>e<sup>-kt</sup>.\"</span></p><ul><li>Option A (C = Co + kt) represents a linear model, not an exponential one.</li><li>Option B (C = Coekt) represents exponential growth, not elimination (decay).</li><li>Option C (C = Coe⁻kt) accurately represents first-order drug elimination, showing an exponential decrease over time.</li><li>Option D (C = Co / k) is an algebraic expression that does not capture the time-dependent exponential nature of first-order elimination.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The exact formula for first-order drug elimination, C = C<sub>0</sub>e<sup>-kt</sup>, is given in both sections 7.0 and 15.0 of the document, making it the correct choice.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ C = Coe⁻kt</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C = Coe⁻kt"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is the relationship between an exponential equation (a<sup>x</sup> = N) and its logarithmic form, as defined in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "log<sub>N</sub>a = x"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>x</sub>N = a"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>N = x"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>x = N"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Logarithms",
+      "Definition",
+      "Relationship to Indices"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of a Logarithm</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Definition:</em> <strong>Logarithm:</strong> A logarithm is the power to which a base must be raised to obtain a given number. If a<sup>x</sup> = N, then log<sub>a</sub>N = x.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the correct logarithmic form of the exponential equation a<sup>x</sup> = N.</div><p><strong>Step 1: Refer to the introduction to logarithms.</strong> Section 8.0, \"INTRODUCTION TO LOGARITHMS\", states: <span style='color:var(--orange);font-weight:bold;'>\"If a<sup>x</sup> = N, then log<sub>a</sub>N = x.\"</span> This establishes the direct relationship between exponential and logarithmic forms.</p><ul><li>Option A (log<sub>N</sub>a = x) incorrectly places 'N' as the base of the logarithm.</li><li>Option B (log<sub>x</sub>N = a) incorrectly places 'x' as the base and 'a' as the result.</li><li>Option C (log<sub>a</sub>N = x) correctly translates the exponential form a<sup>x</sup> = N into its logarithmic equivalent, where 'a' is the base, 'N' is the number, and 'x' is the exponent (logarithm).</li><li>Option D (log<sub>a</sub>x = N) incorrectly places 'x' as the number and 'N' as the result.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The example 10² = 100 is equivalent to log₁₀(100) = 2. Here, a=10, x=2, N=100. Applying the rule log<sub>a</sub>N = x gives log₁₀100 = 2, which is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ log<sub>a</sub>N = x</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "log<sub>a</sub>N = x"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "What is the base for natural logarithms, denoted as 'ln'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "10"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "e"
+        },
+        {
+          "type": "string",
+          "content": "0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Logarithms",
+      "Natural Logarithms",
+      "Base"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Base of Natural Logarithms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Definition:</em> <strong>Natural Logarithm (ln):</strong> A logarithm with base 'e', where 'e' is a mathematical constant approximately equal to 2.71828.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the base of natural logarithms.</div><p><strong>Step 1: Refer to the section on types of logarithms.</strong> Section 9.2, \"Natural Logarithms\", explicitly states: <span style='color:var(--orange);font-weight:bold;'>\"Natural logarithms have base e = 2.71828 and are written ln.\"</span></p><ul><li>Option A (10) is the base for common logarithms, not natural logarithms.</li><li>Option B (1) is incorrect; 1 cannot be a logarithm base as 1 raised to any power is always 1, not allowing it to represent other numbers.</li><li>Option C (e) is the correct base for natural logarithms.</li><li>Option D (0) is incorrect; 0 cannot be a logarithm base.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly differentiates between common logarithms (base 10) and natural logarithms (base e). The value e ≈ 2.71828 is also specified.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ e</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "e"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What is the value of log<sub>a</sub>(1) for any valid base 'a' (a > 0, a ≠ 1)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "a"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Logarithms",
+      "Basic Properties"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Logarithm Property: log<sub>a</sub>(1)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Property:</em> <strong>log<sub>a</sub>(1) = 0:</strong> Any valid base 'a' raised to the power of 0 equals 1 (a⁰ = 1). Therefore, the logarithm of 1 to any valid base is 0.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the value of log<sub>a</sub>(1).</div><p><strong>Step 1: Refer to the basic properties of logarithms.</strong> Section 10.0, \"BASIC PROPERTIES AND LAWS OF LOGARITHMS\", lists several properties, including: <span style='color:var(--orange);font-weight:bold;'>\"log<sub>a</sub>(1) = 0.\"</span></p><ul><li>Option A (a) is incorrect; this would mean a<sup>a</sup> = 1, which is not generally true.</li><li>Option B (1) is incorrect; this would mean a¹ = 1, which implies a=1, but the base 'a' must be a ≠ 1.</li><li>Option C (0) is the correct property, as a⁰ = 1 for any non-zero 'a'.</li><li>Option D (Undefined) is incorrect; log<sub>a</sub>(1) is a well-defined value.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This property is derived directly from the definition of logarithms (a<sup>x</sup> = N ↔ log<sub>a</sub>N = x) and the zero index rule (a⁰ = 1). If N=1, then a<sup>x</sup>=1, which implies x=0, so log<sub>a</sub>1 = 0.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 0</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Which of the following expressions represents the Product Law for logarithms?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>(M/N) = log<sub>a</sub>M - log<sub>a</sub>N"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>(M<sup>n</sup>) = n log<sub>a</sub>M"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>N = log<sub>b</sub>(N) / log<sub>b</sub>(a)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Logarithms",
+      "Product Law"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Product Law of Logarithms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Product Law of Logarithms:</strong> log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N (The logarithm of a product is the sum of the logarithms).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the Product Law for logarithms.</div><p><strong>Step 1: Refer to the laws of logarithms.</strong> Section 10.0, \"BASIC PROPERTIES AND LAWS OF LOGARITHMS\", and the subsequent page (Section 10.0/Page 4), lists the laws. The \"Product law\" is stated as: <span style='color:var(--orange);font-weight:bold;'>\"log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N.\"</span></p><ul><li>Option A (log<sub>a</sub>(M/N) = log<sub>a</sub>M - log<sub>a</sub>N) represents the Quotient Law.</li><li>Option B (log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N) correctly represents the Product Law for logarithms.</li><li>Option C (log<sub>a</sub>(M<sup>n</sup>) = n log<sub>a</sub>M) represents the Power Law.</li><li>Option D (log<sub>a</sub>N = log<sub>b</sub>(N) / log<sub>b</sub>(a)) represents the Change of Base formula.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The rule converts a multiplication operation inside the logarithm into an addition operation outside. This is a core property for simplifying logarithmic expressions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Simplify the expression log(100) + log(10) using the laws of logarithms.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "log(1000) = 3"
+        },
+        {
+          "type": "string",
+          "content": "log(110) = 2.04"
+        },
+        {
+          "type": "string",
+          "content": "log(90) = 1.95"
+        },
+        {
+          "type": "string",
+          "content": "log(10000) = 4"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Logarithms",
+      "Product Law",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Simplifying Logarithmic Expressions (Product Law)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Product Law of Logarithms:</strong> log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N.<br/><em>Definition:</em> When no base is specified for 'log', it implies <strong>common logarithm</strong> (base 10). So, log(X) means log<sub>10</sub>(X).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to simplify log(100) + log(10).</div><p><strong>Step 1: Apply the Product Law of Logarithms.</strong> The expression is in the form log<sub>a</sub>M + log<sub>a</sub>N, which can be rewritten as log<sub>a</sub>(MN). Here, the base is 10 (common logarithm), M = 100, and N = 10.</p><p>log(100) + log(10) = log(<span style='color:var(--orange);font-weight:bold;'>100 × 10</span>) = log(<span style='color:var(--orange);font-weight:bold;'>1000</span>)</p><p><strong>Step 2: Evaluate the logarithm.</strong> We need to find the power to which 10 must be raised to get 1000.</p><p>10³ = 1000</p><p>Therefore, log(1000) = <span style='color:var(--orange);font-weight:bold;'>3</span>.</p><ul><li>Option A (log(1000) = 3) is the correct application of the Product Law and its evaluation.</li><li>Option B (log(110) = 2.04) results from incorrectly adding the numbers (100+10) before taking the logarithm.</li><li>Option C (log(90) = 1.95) results from incorrectly subtracting the numbers (100-10).</li><li>Option D (log(10000) = 4) would be correct if the original expression was log(100) + log(100).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> We know log(100) = 2 (since 10²=100) and log(10) = 1 (since 10¹=10). So, 2 + 1 = 3. This matches the result obtained by applying the Product Law. The document also has this as Revision Question 22.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ log(1000) = 3</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "log(1000) = 3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "The change-of-base formula for logarithms is useful when a calculator only provides common or natural logarithms. Which of the following correctly expresses log<sub>a</sub>N in terms of natural logarithms?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>N = log<sub>e</sub>(N) × log<sub>e</sub>(a)"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>N = In(a) / In(N)"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>N = In(N) / In(a)"
+        },
+        {
+          "type": "string",
+          "content": "log<sub>a</sub>N = In(N) + In(a)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Logarithms",
+      "Change of Base"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Change of Base Formula</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Change of Base:</strong> log<sub>a</sub>N = log<sub>b</sub>(N) / log<sub>b</sub>(a). When using natural logarithms (base e), this becomes log<sub>a</sub>N = ln(N) / ln(a).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the change-of-base formula for log<sub>a</sub>N using natural logarithms.</div><p><strong>Step 1: Refer to the section on change of base.</strong> Section 11.0, \"CHANGE OF BASE\", states: <span style='color:var(--orange);font-weight:bold;'>\"logaN = log_b(N) / log_b(a). In particular, logaN = In(N) / In(a).\"</span></p><ul><li>Option A (log<sub>a</sub>N = log<sub>e</sub>(N) × log<sub>e</sub>(a)) is incorrect; the operation should be division, not multiplication.</li><li>Option B (log<sub>a</sub>N = In(a) / In(N)) is incorrect; the numerator and denominator are swapped.</li><li>Option C (log<sub>a</sub>N = In(N) / In(a)) is the correct change-of-base formula expressed using natural logarithms.</li><li>Option D (log<sub>a</sub>N = In(N) + In(a)) is incorrect; this would be the Product Law if the original expression was ln(Na).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The formula is a standard mathematical identity that allows logarithms of any base to be computed using a calculator that only provides logarithms in a different base (usually base 10 or base e).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ log<sub>a</sub>N = In(N) / In(a)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "log<sub>a</sub>N = In(N) / In(a)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Solve the exponential equation 2<sup>x</sup> = 32.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x = 4"
+        },
+        {
+          "type": "string",
+          "content": "x = 6"
+        },
+        {
+          "type": "string",
+          "content": "x = 5"
+        },
+        {
+          "type": "string",
+          "content": "x = 2"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Solving Exponential Equations",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solving Exponential Equations (Matching Bases)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Method:</em> <strong>Matching Bases:</strong> If both sides of an exponential equation can be expressed with the same base, then the exponents must be equal.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to solve the exponential equation 2<sup>x</sup> = 32.</div><p><strong>Step 1: Express both sides of the equation with the same base.</strong> The left side already has base 2. We need to express 32 as a power of 2.</p><p>2¹ = 2</p><p>2² = 4</p><p>2³ = 8</p><p>2⁴ = 16</p><p>2⁵ = <span style='color:var(--orange);font-weight:bold;'>32</span></p><p>So, the equation becomes <span style='color:var(--orange);font-weight:bold;'>2<sup>x</sup> = 2⁵</span>.</p><p><strong>Step 2: Equate the exponents.</strong> Since the bases are the same, the exponents must be equal.</p><p>x = <span style='color:var(--orange);font-weight:bold;'>5</span></p><ul><li>Option A (x = 4) is incorrect; 2⁴ = 16.</li><li>Option B (x = 6) is incorrect; 2⁶ = 64.</li><li>Option C (x = 5) is the correct solution.</li><li>Option D (x = 2) is incorrect; this would be the base, not the exponent.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides this exact example in Section 12.0, \"SOLVING EXPONENTIAL EQUATIONS\", stating: 2<sup>x</sup> = 32. Since 32 = 2⁵, x = 5.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ x = 5</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x = 5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Solve the logarithmic equation log₁₀(x) = 3.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x = 30"
+        },
+        {
+          "type": "string",
+          "content": "x = 100"
+        },
+        {
+          "type": "string",
+          "content": "x = 1000"
+        },
+        {
+          "type": "string",
+          "content": "x = 0.3"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Solving Logarithmic Equations",
+      "Conversion to Exponential Form",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solving Logarithmic Equations by Conversion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Method:</em> <strong>Conversion to Exponential Form:</strong> A logarithmic equation log<sub>a</sub>N = x can be rewritten in its equivalent exponential form a<sup>x</sup> = N.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to solve the logarithmic equation log₁₀(x) = 3.</div><p><strong>Step 1: Convert the logarithmic equation to exponential form.</strong> The general form is log<sub>a</sub>N = x, which converts to a<sup>x</sup> = N.</p><p>In our equation, a = 10, N = x, and x (the exponent) = 3.</p><p>So, log₁₀(x) = 3 converts to <span style='color:var(--orange);font-weight:bold;'>x = 10³</span>.</p><p><strong>Step 2: Calculate the value of x.</strong></p><p>x = 10 × 10 × 10 = <span style='color:var(--orange);font-weight:bold;'>1000</span></p><ul><li>Option A (x = 30) is incorrect; this would be 10 * 3.</li><li>Option B (x = 100) is incorrect; this is 10².</li><li>Option C (x = 1000) is the correct solution.</li><li>Option D (x = 0.3) is incorrect; this would be log(3) or 3/10.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides this exact example in Section 13.0, \"SOLVING LOGARITHMIC EQUATIONS\", stating: log₁₀(x) = 3. Converting to exponential form gives x = 10³ = 1000.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ x = 1000</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x = 1000"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "What is the formula for the first-order half-life (t½) in terms of the rate constant 'k'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "t½ = k / 0.693"
+        },
+        {
+          "type": "string",
+          "content": "t½ = 0.693 × k"
+        },
+        {
+          "type": "string",
+          "content": "t½ = 0.693 / k"
+        },
+        {
+          "type": "string",
+          "content": "t½ = ln(2) + k"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacokinetics",
+      "First-Order Half-life",
+      "Formula"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First-Order Half-Life Formula</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>First-order half-life (t½):</strong> The time it takes for the quantity of a substance to reduce to half its initial value in a first-order process. It is given by t½ = 0.693/k.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the formula for first-order half-life.</div><p><strong>Step 1: Locate the formula for first-order half-life.</strong> Section 15.0, \"PHARMACOKINETIC APPLICATION\", states: <span style='color:var(--orange);font-weight:bold;'>\"The first-order half-life is t½ = 0.693/k.\"</span></p><ul><li>Option A (t½ = k / 0.693) is incorrect; this is the inverse of the correct formula.</li><li>Option B (t½ = 0.693 × k) is incorrect; this would suggest a direct proportionality where k is in the numerator.</li><li>Option C (t½ = 0.693 / k) is the correct formula for first-order half-life.</li><li>Option D (t½ = ln(2) + k) is incorrect; while ln(2) is approximately 0.693, the relationship with k is division, not addition.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This formula is a standard result in first-order kinetics and is explicitly provided in the document and listed in the 'Key Formulae' section (25.0).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ t½ = 0.693 / k</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "t½ = 0.693 / k"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "If the elimination rate constant (k) of a drug is 0.1 h⁻¹, calculate its first-order half-life (t½).",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0.693 h"
+        },
+        {
+          "type": "string",
+          "content": "6.93 h"
+        },
+        {
+          "type": "string",
+          "content": "1.44 h"
+        },
+        {
+          "type": "string",
+          "content": "10 h"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacokinetics",
+      "First-Order Half-life",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First-Order Half-Life Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>First-order half-life (t½):</strong> t½ = 0.693/k, where k is the elimination rate constant.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Elimination rate constant (k) = 0.1 h⁻¹. <br/>The question asks to calculate the first-order half-life (t½).</div><p><strong>Step 1: Use the formula for first-order half-life.</strong> From Section 15.0, \"PHARMACOKINETIC APPLICATION\", the formula is <span style='color:var(--orange);font-weight:bold;'>t½ = 0.693/k</span>.</p><p><strong>Step 2: Substitute the given value of k and calculate.</strong></p><p>t½ = 0.693 / <span style='color:var(--orange);font-weight:bold;'>0.1 h⁻¹</span></p><p>t½ = <span style='color:var(--orange);font-weight:bold;'>6.93 h</span></p><ul><li>Option A (0.693 h) is incorrect; this would be if k=1 h⁻¹.</li><li>Option B (6.93 h) is the correct calculation.</li><li>Option C (1.44 h) is incorrect; this might be if k=0.48 or ln(2)/0.48.</li><li>Option D (10 h) is incorrect; this would be if the calculation was 1/k and the constant 0.693 was ignored.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides this exact example in Section 15.0: if k = 0.1 h⁻¹, t½ = 6.93 h. This confirms the calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 6.93 h</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6.93 h"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "What is the formula used to express pH in terms of hydrogen-ion concentration [H<sup>+</sup>]?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "pH = log₁₀[H⁺]"
+        },
+        {
+          "type": "string",
+          "content": "pH = -ln[H⁺]"
+        },
+        {
+          "type": "string",
+          "content": "pH = 10<sup>-[H⁺]</sup>"
+        },
+        {
+          "type": "string",
+          "content": "pH = -log₁₀[H⁺]"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmaceutical Application",
+      "pH",
+      "Formula"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>pH Formula</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>pH:</strong> A measure of the acidity or basicity of an aqueous solution, commonly expressed as pH = -log₁₀[H⁺], where [H⁺] is the hydrogen-ion concentration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the formula used to express pH.</div><p><strong>Step 1: Refer to the section on pharmaceutical application: pH.</strong> Section 16.0, \"PHARMACEUTICAL APPLICATION: PH\", states: <span style='color:var(--orange);font-weight:bold;'>\"pH is commonly expressed as pH = -log₁₀[H⁺].\"</span></p><ul><li>Option A (pH = log₁₀[H⁺]) is incorrect; it misses the negative sign, which is crucial for pH values.</li><li>Option B (pH = -ln[H⁺]) is incorrect; pH uses base 10 logarithms (log₁₀), not natural logarithms (ln).</li><li>Option C (pH = 10<sup>-[H⁺]</sup>) incorrectly attempts to convert it to an exponential form, and the structure is wrong.</li><li>Option D (pH = -log₁₀[H⁺]) is the correct formula for pH.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This formula is a standard definition of pH and is explicitly given in the document and listed in the 'Key Formulae' section (25.0). The document also highlights forgetting the negative sign as a common error (Section 24.0).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ pH = -log₁₀[H⁺]</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH = -log₁₀[H⁺]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "If the hydrogen-ion concentration [H⁺] is 1 x 10⁻³ mol L⁻¹, what is the pH?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "pH = 1"
+        },
+        {
+          "type": "string",
+          "content": "pH = 3"
+        },
+        {
+          "type": "string",
+          "content": "pH = 10"
+        },
+        {
+          "type": "string",
+          "content": "pH = -3"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmaceutical Application",
+      "pH",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>pH Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>pH:</strong> pH = -log₁₀[H⁺].</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Hydrogen-ion concentration [H⁺] = 1 × 10⁻³ mol L⁻¹. <br/>The question asks to calculate the pH.</div><p><strong>Step 1: Apply the pH formula.</strong></p><p>pH = -log₁₀[H⁺]</p><p>pH = -log₁₀(<span style='color:var(--orange);font-weight:bold;'>1 × 10⁻³</span>)</p><p><strong>Step 2: Evaluate the logarithm.</strong></p><p>Since log₁₀(10<sup>x</sup>) = x, then log₁₀(1 × 10⁻³) = log₁₀(10⁻³) = <span style='color:var(--orange);font-weight:bold;'>-3</span>.</p><p><strong>Step 3: Calculate the pH.</strong></p><p>pH = -(-3) = <span style='color:var(--orange);font-weight:bold;'>3</span></p><ul><li>Option A (pH = 1) is incorrect.</li><li>Option B (pH = 3) is the correct calculation.</li><li>Option C (pH = 10) is incorrect.</li><li>Option D (pH = -3) is incorrect; it forgets the negative sign in the pH formula.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides this exact example in Section 16.0: if [H⁺] = 1 x 10⁻³ mol L⁻¹, pH = -log₁₀(10⁻³) = 3.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ pH = 3</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH = 3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "For a weak acid, the Henderson-Hasselbalch equation states pH = pKa + log([A⁻]/[HA]). If pKa = 4 and the ratio [A⁻]/[HA] = 10, what is the pH?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "pH = 4"
+        },
+        {
+          "type": "string",
+          "content": "pH = 5"
+        },
+        {
+          "type": "string",
+          "content": "pH = 6"
+        },
+        {
+          "type": "string",
+          "content": "pH = 4.1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Acid-Base",
+      "Henderson-Hasselbalch",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Henderson-Hasselbalch Equation Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Henderson-Hasselbalch (weak acid):</strong> pH = pKa + log([A⁻]/[HA]).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: pKa = 4, and [A⁻]/[HA] = 10. <br/>The question asks to calculate the pH.</div><p><strong>Step 1: Apply the Henderson-Hasselbalch equation.</strong></p><p>pH = pKa + log([A⁻]/[HA])</p><p>pH = <span style='color:var(--orange);font-weight:bold;'>4</span> + log(<span style='color:var(--orange);font-weight:bold;'>10</span>)</p><p><strong>Step 2: Evaluate the logarithm.</strong></p><p>log(10) (which is log₁₀(10)) = 1, because 10¹ = 10.</p><p><strong>Step 3: Calculate the pH.</strong></p><p>pH = 4 + 1 = <span style='color:var(--orange);font-weight:bold;'>5</span></p><ul><li>Option A (pH = 4) is incorrect; it ignores the log([A⁻]/[HA]) term.</li><li>Option B (pH = 5) is the correct calculation.</li><li>Option C (pH = 6) is incorrect; this would be if the ratio was 100.</li><li>Option D (pH = 4.1) is incorrect; this might result from an incorrect log calculation for 10.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides this exact example in Section 17.0: if pKa = 4 and [A⁻]/[HA] = 10, then pH = 4 + log(10) = 5.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ pH = 5</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH = 5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "A bacterial population of 2 × 10⁶ organisms doubles three times. What is the final population?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "4 × 10⁶ organisms"
+        },
+        {
+          "type": "string",
+          "content": "8 × 10⁶ organisms"
+        },
+        {
+          "type": "string",
+          "content": "1.6 × 10⁷ organisms"
+        },
+        {
+          "type": "string",
+          "content": "1.6 × 10⁸ organisms"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Microbiological Growth",
+      "Exponential Growth",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Exponential Growth Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Exponential Growth (doubling):</strong> N = N<sub>0</sub> × 2<sup>n</sup>, where N is the final population, N<sub>0</sub> is the initial population, and n is the number of doubling periods.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Initial population (N<sub>0</sub>) = 2 × 10⁶ organisms, Number of doubling periods (n) = 3. <br/>The question asks to calculate the final population (N).</div><p><strong>Step 1: Use the formula for exponential growth through doubling.</strong> From Section 19.0, \"MICROBIOLOGICAL GROWTH APPLICATION\", the formula is <span style='color:var(--orange);font-weight:bold;'>N = N<sub>0</sub> × 2<sup>n</sup></span>.</p><p><strong>Step 2: Substitute the given values and calculate.</strong></p><p>N = (2 × 10⁶) × 2³</p><p>N = (2 × 10⁶) × <span style='color:var(--orange);font-weight:bold;'>8</span></p><p>N = 16 × 10⁶</p><p><strong>Step 3: Express the result in proper scientific notation (if necessary).</strong></p><p>16 × 10⁶ = <span style='color:var(--orange);font-weight:bold;'>1.6 × 10⁷</span> organisms.</p><ul><li>Option A (4 × 10⁶ organisms) would be after one doubling.</li><li>Option B (8 × 10⁶ organisms) would be 2³ * 10⁶, not 2*10⁶ * 2³.</li><li>Option C (1.6 × 10⁷ organisms) is the correct calculation.</li><li>Option D (1.6 × 10⁸ organisms) implies more doublings or an error in magnitude.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides this exact example in Section 23.0, \"WORKED PHARMACY EXAMPLES\": A bacterial population of 2 × 10⁶ doubles three times. Final population = 2 × 10⁶ × 2³ = 1.6 × 10⁷ organisms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1.6 × 10⁷ organisms</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.6 × 10⁷ organisms"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "A 10⁻³ dilution in laboratory work represents what fraction of the original concentration?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "One-tenth"
+        },
+        {
+          "type": "string",
+          "content": "One-hundredth"
+        },
+        {
+          "type": "string",
+          "content": "One-thousandth"
+        },
+        {
+          "type": "string",
+          "content": "Three-tenths"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Serial Dilution",
+      "Negative Indices",
+      "Interpretation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Interpretation of Negative Indices in Dilution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Negative Index as Reciprocal:</strong> A negative index 'a<sup>-n</sup>' means 1/a<sup>n</sup>. In dilutions, 10<sup>-n</sup> means 1/10<sup>n</sup>, or one-nth part of the original.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to interpret a 10⁻³ dilution.</div><p><strong>Step 1: Understand the meaning of a negative index.</strong> As stated in Section 5.0, a negative index represents a reciprocal: a<sup>-n</sup> = 1/a<sup>n</sup>. Therefore, <span style='color:var(--orange);font-weight:bold;'>10⁻³ = 1/10³</span>.</p><p><strong>Step 2: Calculate the denominator.</strong> 10³ = 1000.</p><p><strong>Step 3: Express as a fraction.</strong> So, 10⁻³ = 1/1000.</p><p><strong>Step 4: Interpret the fraction in terms of dilution.</strong> 1/1000 means one-thousandth of the original concentration.</p><ul><li>Option A (One-tenth) corresponds to 10⁻¹.</li><li>Option B (One-hundredth) corresponds to 10⁻².</li><li>Option C (One-thousandth) correctly corresponds to 10⁻³.</li><li>Option D (Three-tenths) is incorrect; it misinterprets the exponent.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 20.0, \"SERIAL DILUTION AND POWERS OF TEN\", explicitly states: \"A 10⁻³ dilution means one-thousandth of the original concentration.\" This confirms the interpretation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One-thousandth</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "One-thousandth"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Why are logarithmic scales useful when data span several orders of magnitude?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They simplify addition and subtraction of data points."
+        },
+        {
+          "type": "string",
+          "content": "They convert linear relationships into exponential ones."
+        },
+        {
+          "type": "string",
+          "content": "They compress a wide range of values into a more manageable visual space."
+        },
+        {
+          "type": "string",
+          "content": "They emphasize small differences between large values."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Logarithmic Scales",
+      "Data Visualization",
+      "Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Utility of Logarithmic Scales</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Logarithmic Scales:</strong> Scales where points are marked at distances proportional to the logarithms of the numbers. They are particularly useful for displaying data that vary over a very wide range, allowing both small and large values to be visualized simultaneously without distortion.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the utility of logarithmic scales for data spanning several orders of magnitude.</div><p><strong>Step 1: Refer to the section on logarithmic scales.</strong> Section 21.0, \"LOGARITHMIC AND SEMI-LOGARITHMIC SCALES\", states: <span style='color:var(--orange);font-weight:bold;'>\"Logarithmic scales are useful when data span several orders of magnitude.\"</span></p><p><strong>Step 2: Understand the implication of \"span several orders of magnitude\".</strong> This means values can range from very small (e.g., 0.001) to very large (e.g., 1,000,000). A linear scale would either show only the large values or only the small values, making comparison difficult.</p><p><strong>Step 3: Analyze the options based on this understanding.</strong></p><ul><li>Option A (They simplify addition and subtraction of data points) is incorrect; while logarithms convert multiplication/division to addition/subtraction, this isn't the primary reason for using logarithmic *scales* for data visualization across magnitudes.</li><li>Option B (They convert linear relationships into exponential ones) is incorrect; they typically convert exponential relationships into linear ones (e.g., on a semi-log plot).</li><li>Option C (They compress a wide range of values into a more manageable visual space) accurately describes the benefit of logarithmic scales for data spanning multiple orders of magnitude. This allows both very small and very large values to be seen on the same graph effectively.</li><li>Option D (They emphasize small differences between large values) is incorrect; logarithmic scales tend to compress large values, making large differences appear smaller and relative changes more apparent.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document specifies that logarithmic scales are used for data spanning several orders of magnitude, and common examples like pH and pharmacokinetic plots confirm their ability to represent a wide range of values effectively.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ They compress a wide range of values into a more manageable visual space.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They compress a wide range of values into a more manageable visual space."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "A solution contains 0.000001 g of drug per mL. Express this concentration in scientific notation.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1 × 10⁻⁶ g/mL"
+        },
+        {
+          "type": "string",
+          "content": "1 × 10⁶ g/mL"
+        },
+        {
+          "type": "string",
+          "content": "10 × 10⁻⁷ g/mL"
+        },
+        {
+          "type": "string",
+          "content": "0.1 × 10⁻⁵ g/mL"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Scientific Notation",
+      "Concentration Units",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Scientific Notation for Concentration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Definition:</em> <strong>Scientific Notation:</strong> A method of expressing numbers as a product of a number between 1 and 10 and a power of 10. (A × 10<sup>n</sup>, where 1 ≤ A < 10).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Concentration = 0.000001 g/mL. <br/>The question asks to express this concentration in scientific notation.</div><p><strong>Step 1: Identify the number to be converted.</strong> The number is 0.000001.</p><p><strong>Step 2: Move the decimal point to get a number between 1 and 10.</strong> To get 1 from 0.000001, the decimal point needs to move 6 places to the right. So, A = <span style='color:var(--orange);font-weight:bold;'>1</span>.</p><p><strong>Step 3: Determine the exponent of 10.</strong> Since the original number is less than 1, the exponent will be negative. The decimal moved 6 places to the right, so n = <span style='color:var(--orange);font-weight:bold;'>-6</span>.</p><p><strong>Step 4: Combine to form the scientific notation.</strong> 0.000001 g/mL = 1 × 10⁻⁶ g/mL.</p><ul><li>Option A (1 × 10⁻⁶ g/mL) is the correct scientific notation.</li><li>Option B (1 × 10⁶ g/mL) is incorrect; this would represent 1,000,000 g/mL.</li><li>Option C (10 × 10⁻⁷ g/mL) is numerically equivalent, but 10 is not between 1 and 10, so it's not in standard scientific notation.</li><li>Option D (0.1 × 10⁻⁵ g/mL) is numerically equivalent, but 0.1 is not between 1 and 10, so it's not in standard scientific notation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This problem is similar to Example 1 in Section 23.0, \"WORKED PHARMACY EXAMPLES\", which demonstrates converting a small number to scientific notation. The number 0.000001 can be written as 1.0 x 10⁻⁶.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1 × 10⁻⁶ g/mL</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1 × 10⁻⁶ g/mL"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "A drug concentration is initially 100 mg/L and follows first-order elimination with k = 0.10 h⁻¹. Calculate the concentration after 5 hours.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "60.65 mg/L"
+        },
+        {
+          "type": "string",
+          "content": "50.00 mg/L"
+        },
+        {
+          "type": "string",
+          "content": "6.07 mg/L"
+        },
+        {
+          "type": "string",
+          "content": "164.87 mg/L"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacokinetics",
+      "First-Order Elimination",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First-Order Elimination Concentration Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>First-order drug elimination:</strong> C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup>, where C<sub>t</sub> is the concentration at time t, C<sub>0</sub> is the initial concentration, k is the elimination rate constant, and t is time.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Initial concentration (C<sub>0</sub>) = 100 mg/L, rate constant (k) = 0.10 h⁻¹, time (t) = 5 hours. <br/>The question asks to calculate the concentration after 5 hours (C<sub>t</sub>).</div><p><strong>Step 1: Ensure units are consistent.</strong> The rate constant k is in h⁻¹ and time t is in hours, so the units are consistent (h⁻¹ × h = dimensionless exponent).</p><p><strong>Step 2: Apply the first-order elimination formula.</strong> From Section 15.0 and 25.0, the formula is <span style='color:var(--orange);font-weight:bold;'>C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup></span>.</p><p>C<sub>t</sub> = 100 mg/L × e<sup>-(0.10 h⁻¹ × 5 h)</sup></p><p>C<sub>t</sub> = 100 mg/L × e<sup>-0.5</sup></p><p><strong>Step 3: Calculate e<sup>-0.5</sup>.</strong></p><p>e<sup>-0.5</sup> ≈ 0.60653</p><p><strong>Step 4: Calculate C<sub>t</sub>.</strong></p><p>C<sub>t</sub> = 100 mg/L × 0.60653 = <span style='color:var(--orange);font-weight:bold;'>60.653 mg/L</span></p><ul><li>Option A (60.65 mg/L) is the correct calculation, rounded to two decimal places.</li><li>Option B (50.00 mg/L) would be the concentration after one half-life (if half-life were 5 hours).</li><li>Option C (6.07 mg/L) is incorrect, perhaps due to a miscalculation of the exponent or division by 10.</li><li>Option D (164.87 mg/L) would be the result if the exponent was positive (e<sup>0.5</sup>), indicating growth.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This problem is directly from Self-Assessment: Pharmacy Problems (27.0), question 39, which requires application of the C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup> formula, as outlined in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 60.65 mg/L</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "60.65 mg/L"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "A culture begins with 2 × 10³ organisms and doubles six times. Calculate the final population.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1.2 × 10⁴ organisms"
+        },
+        {
+          "type": "string",
+          "content": "1.28 × 10⁵ organisms"
+        },
+        {
+          "type": "string",
+          "content": "1.6 × 10⁵ organisms"
+        },
+        {
+          "type": "string",
+          "content": "3.2 × 10³ organisms"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Microbiological Growth",
+      "Exponential Growth",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Microbial Population Doubling Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Formula:</em> <strong>Exponential Growth (doubling):</strong> N = N<sub>0</sub> × 2<sup>n</sup>, where N is the final population, N<sub>0</sub> is the initial population, and n is the number of doubling periods.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Initial population (N<sub>0</sub>) = 2 × 10³ organisms, Number of doubling periods (n) = 6. <br/>The question asks to calculate the final population (N).</div><p><strong>Step 1: Apply the formula for exponential growth through doubling.</strong> From Section 19.0, the formula is <span style='color:var(--orange);font-weight:bold;'>N = N<sub>0</sub> × 2<sup>n</sup></span>.</p><p><strong>Step 2: Substitute the given values and calculate.</strong></p><p>N = (2 × 10³) × 2⁶</p><p>First, calculate 2⁶:</p><p>2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = <span style='color:var(--orange);font-weight:bold;'>64</span></p><p>Now, substitute this back into the equation:</p><p>N = (2 × 10³) × 64</p><p>N = 128 × 10³</p><p><strong>Step 3: Express the result in scientific notation.</strong></p><p>128 × 10³ = <span style='color:var(--orange);font-weight:bold;'>1.28 × 10⁵</span> organisms.</p><ul><li>Option A (1.2 × 10⁴ organisms) is incorrect; this would be after roughly 2.6 doublings.</li><li>Option B (1.28 × 10⁵ organisms) is the correct calculation.</li><li>Option C (1.6 × 10⁵ organisms) might be a result of confusing the initial population with 2*10^4 or 2^7.</li><li>Option D (3.2 × 10³ organisms) would be after only one doubling (2*10^3 * 2^1 = 4*10^3).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This problem is similar to Example 6 and Self-Assessment problem 41, both involving exponential growth via doubling. The calculation 2 * 64 * 10³ = 128 * 10³ = 1.28 * 10⁵ is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1.28 × 10⁵ organisms</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.28 × 10⁵ organisms"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "A laboratory performs five successive tenfold dilutions. What is the final dilution factor?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "10⁵"
+        },
+        {
+          "type": "string",
+          "content": "10⁻⁵"
+        },
+        {
+          "type": "string",
+          "content": "5 × 10⁻¹"
+        },
+        {
+          "type": "string",
+          "content": "1/50"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Serial Dilution",
+      "Powers of Ten",
+      "Calculation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Serial Dilution Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Serial Dilution:</strong> A method of progressively diluting a substance by a fixed ratio at each step. A 'tenfold' dilution implies a dilution factor of 10<sup>-1</sup> for each step. For 'n' successive tenfold dilutions, the total dilution factor is (10<sup>-1</sup>)<sup>n</sup> = 10<sup>-n</sup>. The inverse of the dilution factor (1/dilution factor) represents how many times the sample was diluted, which would be 10<sup>n</sup>. The question asks for the *dilution factor*.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Five successive tenfold dilutions. <br/>The question asks for the final dilution factor.</div><p><strong>Step 1: Understand a tenfold dilution.</strong> A tenfold dilution means reducing the concentration by a factor of 10. This can be represented as 10⁻¹, or 1/10.</p><p><strong>Step 2: Calculate the effect of successive dilutions.</strong> For five successive tenfold dilutions, the individual dilution factors are multiplied:</p><p>Final dilution factor = (10⁻¹) × (10⁻¹) × (10⁻¹) × (10⁻¹) × (10⁻¹)</p><p>Using the Product Law of Indices (a<sup>m</sup> × a<sup>n</sup> = a<sup>m+n</sup>), or simply raising the factor to the power of the number of steps:</p><p>Final dilution factor = (10⁻¹)⁵ = 10<sup>(-1 × 5)</sup> = <span style='color:var(--orange);font-weight:bold;'>10⁻⁵</span></p><ul><li>Option A (10⁵) is incorrect; this would represent a concentration *increase* by a factor of 100,000, not a dilution.</li><li>Option B (10⁻⁵) is the correct final dilution factor.</li><li>Option C (5 × 10⁻¹) is incorrect; this is a linear multiplication of the dilution factor by the number of steps, not an exponential one.</li><li>Option D (1/50) is incorrect; this is a calculation mistake.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 20.0 discusses serial dilutions and powers of ten, emphasizing correct interpretation of negative indices. A 10⁻³ dilution is one-thousandth. So, five 10⁻¹ dilutions would be 10⁻⁵. This problem is similar to Self-Assessment Problem 42.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 10⁻⁵</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10⁻⁵"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "According to the document, what is a common error to avoid when working with logarithms?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Using the change-of-base formula for complex calculations."
+        },
+        {
+          "type": "string",
+          "content": "Taking logarithms of zero or negative numbers in ordinary real-number calculations."
+        },
+        {
+          "type": "string",
+          "content": "Applying the power law of logarithms to simplify expressions."
+        },
+        {
+          "type": "string",
+          "content": "Converting between exponential and logarithmic forms."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Common Errors",
+      "Logarithms"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Common Errors in Logarithm Use</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Domain of Logarithms:</strong> In real-number calculations, the argument (the number inside the logarithm) must be positive. Logarithms of zero or negative numbers are undefined in the real number system.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a common error related to logarithms from the provided document.</div><p><strong>Step 1: Refer to the section on common errors.</strong> Section 24.0, \"COMMON ERRORS TO AVOID\", lists several points. Point 5 specifically states: <span style='color:var(--orange);font-weight:bold;'>\"Taking logarithms of zero or negative numbers in ordinary real-number calculations.\"</span></p><ul><li>Option A (Using the change-of-base formula for complex calculations) is not an error; the change-of-base formula is a legitimate tool for such calculations.</li><li>Option B (Taking logarithms of zero or negative numbers in ordinary real-number calculations) is explicitly listed as a common error to avoid because logarithms are undefined for non-positive numbers in the real domain.</li><li>Option C (Applying the power law of logarithms to simplify expressions) is not an error; the power law is a correct and useful rule.</li><li>Option D (Converting between exponential and logarithmic forms) is not an error; this is a fundamental skill for solving exponential and logarithmic equations.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding the domain of logarithmic functions is crucial. Logarithms are only defined for positive numbers in real number calculations (log<sub>a</sub>N requires N > 0). This is a well-known mathematical restriction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Taking logarithms of zero or negative numbers in ordinary real-number calculations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Taking logarithms of zero or negative numbers in ordinary real-number calculations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which of the following is NOT a basic property or law of logarithms listed in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "loga(1) = 0"
+        },
+        {
+          "type": "string",
+          "content": "loga(a) = 1"
+        },
+        {
+          "type": "string",
+          "content": "loga(a/x) = a - logax"
+        },
+        {
+          "type": "string",
+          "content": "loga(M<sup>n</sup>) = n logaM"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Logarithms",
+      "Basic Properties",
+      "NOT Question"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Incorrect Logarithm Laws</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Laws of Logarithms:</strong> Rules that govern how logarithmic operations relate to arithmetic operations. Key laws include Product, Quotient, and Power laws, along with basic properties like log<sub>a</sub>1 and log<sub>a</sub>a.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a basic property or law of logarithms as listed in the document.</div><p><strong>Step 1: Review the listed properties and laws of logarithms in the document.</strong> Refer to Section 10.0 and page 4 of the document.</p><ul><li>Option A (<span style='color:var(--orange);font-weight:bold;'>log<sub>a</sub>(1) = 0</span>) is a basic property listed in Section 10.0.</li><li>Option B (<span style='color:var(--orange);font-weight:bold;'>log<sub>a</sub>(a) = 1</span>) is a basic property listed in Section 10.0.</li><li>Option C (<span style='color:var(--orange);font-weight:bold;'>log<sub>a</sub>(a/x) = a - log<sub>a</sub>x</span>) is INCORRECT. The Quotient Law is log<sub>a</sub>(M/N) = log<sub>a</sub>M - log<sub>a</sub>N. If M=a and N=x, it should be log<sub>a</sub>(a/x) = log<sub>a</sub>a - log<sub>a</sub>x = 1 - log<sub>a</sub>x. The expression 'a - log<sub>a</sub>x' is not the correct form and 'a' is a value, not a logarithm itself in the subtraction.</li><li>Option D (<span style='color:var(--orange);font-weight:bold;'>log<sub>a</sub>(M<sup>n</sup>) = n log<sub>a</sub>M</span>) is the Power Law of logarithms, listed on page 4.</li></ul><p>Based on the review, Option C is not a correct law of logarithms as presented in the document.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The properties log<sub>a</sub>(1)=0, log<sub>a</sub>(a)=1, log<sub>a</sub>(MN) = log<sub>a</sub>M + log<sub>a</sub>N, log<sub>a</sub>(M/N) = log<sub>a</sub>M - log<sub>a</sub>N, and log<sub>a</sub>(M<sup>n</sup>) = n log<sub>a</sub>M are clearly stated. Option C presents a flawed combination that doesn't align with any recognized logarithmic law or property.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ loga(a/x) = a - logax</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "loga(a/x) = a - logax"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Why is it important for students to check units carefully before substituting values into equations in pharmaceutical calculations?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To ensure the numbers are large enough for calculations."
+        },
+        {
+          "type": "string",
+          "content": "To avoid rounding intermediate values too early."
+        },
+        {
+          "type": "string",
+          "content": "To prevent inconsistencies that lead to incorrect results."
+        },
+        {
+          "type": "string",
+          "content": "To correctly identify the base of the logarithm being used."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmaceutical Unit Conversions",
+      "Problem Solving",
+      "Common Errors"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Unit Consistency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Unit Consistency:</strong> All physical quantities in an equation must be expressed in compatible units to obtain a correct and meaningful result. Inconsistent units are a common source of error in scientific and engineering calculations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks why checking units is important before calculations.</div><p><strong>Step 1: Locate the advice regarding units.</strong> Section 22.0, \"PHARMACEUTICAL UNIT CONVERSIONS\", concludes with the statement: <span style='color:var(--orange);font-weight:bold;'>\"Students should check units carefully before substituting values into equations.\"</span></p><p><strong>Step 2: Relate this advice to potential problems.</strong> The section on \"COMMON ERRORS TO AVOID\" (24.0) lists \"Using inconsistent units\" as point 7. Inconsistent units (e.g., mixing hours and minutes without conversion) will lead to mathematically correct but physically wrong answers.</p><ul><li>Option A (To ensure the numbers are large enough for calculations) is incorrect; unit consistency is about the type and scale of units, not the magnitude of numbers themselves.</li><li>Option B (To avoid rounding intermediate values too early) is another common error (listed in 24.0, point 8), but it's distinct from checking units.</li><li>Option C (To prevent inconsistencies that lead to incorrect results) is the primary reason for checking units. If units are not consistent, the numerical result will be incorrect in its physical meaning, even if the arithmetic is done correctly.</li><li>Option D (To correctly identify the base of the logarithm being used) is important for logarithmic calculations but unrelated to general unit checking.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Inconsistent units are a very common source of errors in applied mathematics and science. For example, if a rate constant is in h⁻¹ and time is in minutes, one of them must be converted to ensure the exponent 'kt' is dimensionless.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To prevent inconsistencies that lead to incorrect results.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To prevent inconsistencies that lead to incorrect results."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Differentiate between 'common logarithms' and 'natural logarithms', providing examples of how each is written.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Types of Logarithms",
+      "Common Logarithms",
+      "Natural Logarithms",
+      "Comparison"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinguishing Common and Natural Logarithms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Common Logarithm:</strong> A logarithm with base 10.<br/><em>Term:</em> <strong>Natural Logarithm:</strong> A logarithm with base 'e' (Euler's number, approximately 2.71828).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to differentiate between common and natural logarithms, including how they are written.</div><ul><li><strong>Common Logarithms:</strong> These logarithms use a base of <span style='color:var(--orange);font-weight:bold;'>10</span>. They are typically written as <span style='color:var(--orange);font-weight:bold;'>log₁₀</span> or simply <span style='color:var(--orange);font-weight:bold;'>log</span> when the base is understood to be 10. They are frequently used in scientific notation and pH calculations.<br/><em>Example:</em> log(100) = 2, because 10² = 100.</li><li><strong>Natural Logarithms:</strong> These logarithms use a base of the mathematical constant <span style='color:var(--orange);font-weight:bold;'>'e'</span>, which is approximately <span style='color:var(--orange);font-weight:bold;'>2.71828</span>. They are written as <span style='color:var(--orange);font-weight:bold;'>ln</span>. Natural logarithms are particularly significant in modeling exponential growth and decay processes, such as in pharmacokinetics.<br/><em>Example:</em> ln(e) = 1, because e¹ = e.</li><li>The key difference lies in their bases: Common logarithms use base 10, while natural logarithms use base e. This choice of base influences their applications and how they are symbolically represented.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 9.0 \"TYPES OF LOGARITHMS\" explicitly defines and distinguishes between common and natural logarithms, including their bases and common notations. Section 26.0 (Revision Question 31) also asks students to differentiate between them, indicating it's a key concept.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Common logarithms use base 10 and are written as log₁₀ or log, while natural logarithms use base e (approximately 2.71828) and are written as ln.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Common logarithms have base 10 and are written as log₁₀ or simply log. An example is log(100)=2. Natural logarithms have base e, approximately 2.71828, and are written as ln. An example is ln(e)=1."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Explain why logarithms are useful in pharmacokinetic analysis, specifically for first-order drug elimination.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacokinetics",
+      "Logarithms",
+      "Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Utility of Logarithms in Pharmacokinetics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>First-order drug elimination:</strong> An exponential process where the rate of elimination is proportional to the drug concentration. Its equation is C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup>.<br/><em>Concept:</em> <strong>Linearization:</strong> The process of transforming a non-linear relationship into a linear one, often by taking logarithms, to simplify analysis and parameter estimation (e.g., using linear regression).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the usefulness of logarithms in pharmacokinetic analysis, focusing on first-order drug elimination.</div><ul><li>First-order drug elimination follows an <span style='color:var(--orange);font-weight:bold;'>exponential model: C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup></span>, where C<sub>t</sub> is the concentration at time t, C<sub>0</sub> is the initial concentration, k is the elimination rate constant, and e is the base of natural logarithms.</li><li>This exponential relationship is <span style='color:var(--orange);font-weight:bold;'>non-linear</span> when plotted on a standard graph, making it difficult to visually assess or calculate parameters directly from the graph.</li><li>By taking the <span style='color:var(--orange);font-weight:bold;'>natural logarithm (ln)</span> of both sides of the equation, the relationship can be <span style='color:var(--orange);font-weight:bold;'>converted into a linear form</span>:<br/>ln(C<sub>t</sub>) = ln(C<sub>0</sub>e<sup>-kt</sup>)<br/>ln(C<sub>t</sub>) = ln(C<sub>0</sub>) + ln(e<sup>-kt</sup>)<br/>ln(C<sub>t</sub>) = ln(C<sub>0</sub>) - kt</li><li>This transformed equation, <span style='color:var(--orange);font-weight:bold;'>ln(C<sub>t</sub>) = -kt + ln(C<sub>0</sub>)</span>, is now in the form of a straight line (y = mx + c), where y = ln(C<sub>t</sub>), m = -k (the slope), x = t, and c = ln(C<sub>0</sub>) (the y-intercept).</li><li>Therefore, a <span style='color:var(--orange);font-weight:bold;'>plot of ln(C<sub>t</sub>) against time (t) will yield a straight line</span>. This linearization simplifies the estimation of the elimination rate constant (k) from the slope of the line, and the initial concentration (C<sub>0</sub>) from the y-intercept. This allows for easier analysis of drug disposition in the body.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 15.0 and 26.0 (Revision Question 30) explicitly discuss the use of natural logarithms to linearize the first-order drug elimination model, highlighting its utility in estimating the elimination rate constant.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Logarithms are useful in pharmacokinetic analysis, especially for first-order drug elimination, because they transform the exponential relationship C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup> into a linear form: ln(C<sub>t</sub>) = ln(C<sub>0</sub>) - kt. This allows for easier graphical analysis on semi-log plots to determine parameters like the elimination rate constant (k) from the slope and initial concentration (C<sub>0</sub>) from the intercept.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "First-order drug elimination follows an exponential model (C<sub>t</sub> = C<sub>0</sub>e<sup>-kt</sup>). When natural logarithms are applied to this equation, it transforms into a linear relationship: ln(C<sub>t</sub>) = ln(C<sub>0</sub>) - kt. This linearization is highly beneficial because it allows for easy graphical representation on a semi-log plot (ln C<sub>t</sub> vs. time t), where the data points form a straight line. From this linear plot, the elimination rate constant (k) can be accurately estimated from the slope of the line, and the initial concentration (C<sub>0</sub>) can be determined from the y-intercept. This simplifies the analysis and quantification of drug disposition, making it a powerful tool in pharmacokinetic studies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "Explain why pH is expressed on a logarithmic scale and discuss the practical implication of a one-unit change in pH.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmaceutical Application",
+      "pH",
+      "Logarithmic Scale"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>pH on a Logarithmic Scale and its Implications</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>pH:</strong> A measure of the acidity or basicity of a solution, defined as pH = -log₁₀[H⁺].<br/><em>Concept:</em> <strong>Logarithmic Scale:</strong> Compresses a wide range of values into a smaller, more manageable scale, where each unit change represents a multiplicative (often tenfold) change in the original quantity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the reason pH is logarithmic and the implication of a one-unit pH change.</div><ul><li>pH is defined as <span style='color:var(--orange);font-weight:bold;'>pH = -log₁₀[H⁺]</span>, where [H⁺] is the hydrogen-ion concentration. The reason it's expressed on a logarithmic scale is that the <span style='color:var(--orange);font-weight:bold;'>hydrogen-ion concentrations in aqueous solutions can vary over an extremely wide range</span>, typically from 1 mol L⁻¹ (for strong acids) to 10⁻¹⁴ mol L⁻¹ (for strong bases).</li><li>Using a linear scale for such a vast range of concentrations would be impractical, making it difficult to compare or graph solutions across the entire acidity-basicity spectrum. The logarithmic scale <span style='color:var(--orange);font-weight:bold;'>compresses this wide range of values into a more manageable scale (typically 0 to 14)</span>.</li><li>The practical implication of a one-unit change in pH is that it corresponds to a <span style='color:var(--orange);font-weight:bold;'>tenfold (10x) change in hydrogen-ion concentration</span>. Because it's a negative logarithm, an increase in pH by one unit (e.g., from pH 3 to pH 4) means the [H⁺] has decreased by a factor of 10. Conversely, a decrease in pH by one unit (e.g., from pH 7 to pH 6) means the [H⁺] has increased by a factor of 10.</li><li>This logarithmic nature makes pH a convenient and intuitive scale for discussing acidity and basicity in many pharmaceutical and biological contexts.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 16.0, \"PHARMACEUTICAL APPLICATION: PH\", defines pH and explicitly states that \"A change of one pH unit corresponds to a tenfold change in hydrogen-ion concentration.\" Section 26.0 (Revision Question 35) also asks for this explanation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ pH is expressed on a logarithmic scale because hydrogen-ion concentrations in solutions can vary over many orders of magnitude (e.g., 10⁻¹⁴ to 1 mol L⁻¹). A logarithmic scale compresses this wide range into a more manageable and convenient scale (typically 0-14), making comparisons easier. A one-unit change in pH corresponds to a tenfold change in hydrogen-ion concentration. For example, a solution with pH 6 has ten times the H⁺ concentration compared to a solution with pH 7.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH is expressed on a logarithmic scale because the hydrogen-ion concentration [H⁺] in aqueous solutions can vary over an extremely wide range (many orders of magnitude), from very high to very low. Using a linear scale for these values would be impractical for comparison and visualization. The logarithmic scale compresses this vast range into a more manageable set of numbers (typically 0 to 14). The practical implication of a one-unit change in pH is that it represents a tenfold change in hydrogen-ion concentration. For instance, a solution with pH 5 has ten times higher [H⁺] than a solution with pH 6, and 100 times higher [H⁺] than a solution with pH 7."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Discuss two pharmaceutical applications where negative indices are utilized, providing a brief explanation for each.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Pharmacy Applications of Indices",
+      "Negative Indices",
+      "Applications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pharmaceutical Applications of Negative Indices</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Negative Index (a<sup>-n</sup> = 1/a<sup>n</sup>):</strong> Represents a reciprocal or a division. In scientific and pharmaceutical contexts, it simplifies the notation of rates, concentrations, or very small values.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to discuss two pharmaceutical applications of negative indices with brief explanations.</div><ul><li><strong>Concentrations and Units:</strong> Negative powers are commonly used to express <span style='color:var(--orange);font-weight:bold;'>concentrations</span> or <span style='color:var(--orange);font-weight:bold;'>rates</span> in a concise format. Instead of writing units like milligrams per milliliter (mg/mL) or moles per liter (mol/L), they are written with negative indices as <span style='color:var(--orange);font-weight:bold;'>mg mL⁻¹</span> or <span style='color:var(--orange);font-weight:bold;'>mol L⁻¹</span>. Similarly, rates might be expressed as <span style='color:var(--orange);font-weight:bold;'>s⁻¹</span> for 'per second'. This notation is mathematically equivalent to division but is more compact and easier to use in calculations, especially in dimensional analysis.</li><li><strong>Serial Dilution Calculations:</strong> In laboratory settings, especially in microbiology or analytical chemistry, serial dilutions are frequently performed. A tenfold dilution, for example, means reducing the concentration to 1/10 of its original value. This is conveniently expressed using a negative index as <span style='color:var(--orange);font-weight:bold;'>10⁻¹</span>. Multiple successive dilutions can then be easily calculated by adding the negative exponents (e.g., three tenfold dilutions result in a factor of 10⁻³), simplifying the understanding and calculation of very small fractional concentrations.</li><li>Another application (if needed) is <span style='color:var(--orange);font-weight:bold;'>Scientific Notation for Small Quantities</span>: Very small masses or particle sizes (e.g., 0.00032 g) are expressed using negative powers of ten (e.g., 3.2 × 10⁻⁴ g). This provides a clear, standardized way to represent magnitudes of small quantities common in pharmaceutical science.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 7.0, \"PHARMACY APPLICATIONS OF INDICES\", and Section 20.0, \"SERIAL DILUTION AND POWERS OF TEN\", explicitly mention these applications, which aligns with the request for two examples and explanations. Section 26.0 (Revision Question 34) asks for this specific explanation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Two pharmaceutical applications where negative indices are utilized include: <br/>1. **Concentrations and Units:** Negative powers are used to concisely express units of concentration (e.g., mg mL⁻¹, mol L⁻¹) or rates (e.g., s⁻¹). This notation is more compact than using a forward slash and clearly indicates that the unit is in the denominator, simplifying dimensional analysis and calculations. <br/>2. **Serial Dilution Calculations:** In laboratory practice, especially for preparing highly diluted solutions, negative indices are crucial. A dilution factor like 10⁻³ directly indicates that the concentration is one-thousandth of the original (1/1000). This provides a straightforward and efficient way to represent and calculate the cumulative effect of successive dilutions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two pharmaceutical applications where negative indices are utilized are:\n\n1.  **Concentrations and Units:** Negative powers are frequently used to express units of concentration or rates in a concise and standardized manner. For instance, instead of writing \"milligrams per milliliter,\" it is written as \"mg mL⁻¹.\" Similarly, \"moles per liter\" becomes \"mol L⁻¹,\" and units for reaction rates can be expressed as \"s⁻¹\" (per second). This notation signifies that the unit is in the denominator, making it easier to read and perform dimensional analysis in complex pharmaceutical calculations.\n\n2.  **Serial Dilution Calculations:** In laboratory settings, particularly when working with very potent drugs or microbial cultures, serial dilutions are common. Each dilution step often involves reducing the concentration by a factor of 10 (tenfold dilution). This can be represented efficiently using negative indices. For example, a 10⁻³ dilution means one-thousandth of the original concentration. The use of negative indices simplifies the calculation of overall dilution factors after multiple successive dilutions, as the exponents are simply added (e.g., three tenfold dilutions lead to a total dilution factor of 10⁻³)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Outline the importance of understanding indices and logarithms for first-year pharmacy students, citing at least three specific examples from their future studies.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Introduction",
+      "Pharmacy Applications",
+      "Importance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Indices and Logarithms in Pharmacy Education</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Quantitative Work:</strong> Refers to calculations, measurements, and data analysis in scientific fields. Many pharmaceutical processes involve quantities that span vast ranges or change exponentially.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to outline the importance of indices and logarithms for first-year pharmacy students, citing three specific examples from their future studies.</div><ul><li>Understanding indices and logarithms is <span style='color:var(--orange);font-weight:bold;'>fundamental for quantitative work</span> across various pharmaceutical sciences. Pharmacy students frequently encounter very large and very small quantities, exponential changes, and complex calculations. Indices provide a convenient way to express repeated multiplication and powers, while logarithms offer the inverse operation, effectively handling wide ranges of numbers and linearizing exponential relationships.</li><li><strong>Specific Examples:</strong></li><ol><li><strong>Pharmacokinetics:</strong> Indices are crucial for describing <span style='color:var(--orange);font-weight:bold;'>first-order drug elimination</span>, which follows an exponential model (C = C<sub>0</sub>e<sup>-kt</sup>). Logarithms are then used to linearize this relationship (ln C = ln C<sub>0</sub> - kt) for easier graphical analysis and estimation of key parameters like the elimination rate constant (k) and half-life (t½).</li><li><strong>pH Calculations:</strong> The concept of <span style='color:var(--orange);font-weight:bold;'>pH</span> (pH = -log₁₀[H⁺]) is entirely based on logarithms. A solid grasp of logarithms is essential for calculating pH from hydrogen-ion concentrations, understanding acid-base equilibria, and applying the Henderson-Hasselbalch equation (pH = pKa + log([A⁻]/[HA])) which is vital for drug ionization and absorption.</li><li><strong>Microbial Growth and Radioactive Decay:</strong> Both processes follow <span style='color:var(--orange);font-weight:bold;'>exponential models</span> (N = N<sub>0</sub>e<sup>kt</sup> for growth or N = N<sub>0</sub>e<sup>-kt</sup> for decay). Indices are used to represent the exponential nature of these changes, and logarithms are applied to calculate growth rates, doubling times, or half-lives for radioactive drugs. This is essential for sterility testing, antimicrobial therapy, and handling radiopharmaceuticals.</li><li>(Another valid example, if needed) <strong>Scientific Notation and Unit Conversions:</strong> Indices are indispensable for expressing very small or very large quantities, such as drug concentrations (e.g., 3.2 × 10⁻⁴ mol L⁻¹) or particle sizes, in scientific notation. They also simplify unit conversions involving powers of ten (e.g., g to mg, L to mL).</li></ol></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Section 1.0, \"INTRODUCTION\", strongly emphasizes the importance. Section 7.0 and 14.0-22.0 provide numerous specific examples of these concepts being applied in various pharmaceutical contexts, directly addressing the prompt for specific examples.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Understanding indices and logarithms is fundamental for pharmacy students because these mathematical tools are pervasive in quantitative pharmaceutical work. They enable students to manage extremely large and small numbers, analyze exponential changes, and perform critical calculations across various disciplines. Specific examples include:<br/>1. **Pharmacokinetics:** Used to model first-order drug elimination (C = C<sub>0</sub>e<sup>-kt</sup>) and subsequently linearize it (ln C = ln C<sub>0</sub> - kt) for determining elimination rates and half-lives.<br/>2. **pH Calculations:** Essential for understanding and calculating pH, which is defined logarithmically (pH = -log₁₀[H⁺]), and for applying the Henderson-Hasselbalch equation in acid-base equilibria and drug ionization.<br/>3. **Microbial Growth and Radioactive Decay:** Indices describe the exponential nature of these processes (N = N<sub>0</sub>e<sup>kt</sup>), while logarithms are used to determine growth rates, doubling periods, or radioactive decay half-lives, critical for microbiology and radiopharmacy.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understanding indices and logarithms is fundamental for first-year pharmacy students because these mathematical concepts are essential for handling the wide range of quantities, exponential changes, and complex calculations encountered throughout pharmacy and pharmaceutical sciences. They provide a convenient way to express repeated multiplication and powers (indices) and the inverse operation for linearizing exponential relationships (logarithms).\n\nThree specific examples from their future studies include:\n\n1.  **Pharmacokinetics and Drug Elimination:** Indices are used to describe first-order drug elimination, which follows an exponential model (C = C<sub>0</sub>e<sup>-kt</sup>). Logarithms are then critically applied to convert this exponential relationship into a linear form (ln C = ln C<sub>0</sub> - kt), allowing for easier graphical analysis on semi-log plots to estimate important parameters like the elimination rate constant (k) and drug half-life (t½).\n\n2.  **pH and Acid-Base Equilibria:** The concept of pH is entirely logarithmic (pH = -log₁₀[H⁺]), which is used to quantify the acidity or basicity of solutions. A strong understanding of logarithms is required to calculate pH values, interpret changes in hydrogen-ion concentration, and apply the Henderson-Hasselbalch equation (pH = pKa + log([A⁻]/[HA])) which is crucial for understanding drug ionization, solubility, and absorption characteristics.\n\n3.  **Microbiological Growth and Drug Stability:** Many biological processes, like microbial population growth, and pharmaceutical processes, such as drug degradation, follow exponential kinetics (e.g., N = N<sub>0</sub> × 2ⁿ for doubling, or C = C<sub>0</sub>e<sup>-kt</sup> for decay). Indices represent these exponential changes, and logarithms are used to determine growth rates, doubling times, or degradation rate constants, which are vital for understanding product shelf-life and sterility."
+    }
+  }
+]
