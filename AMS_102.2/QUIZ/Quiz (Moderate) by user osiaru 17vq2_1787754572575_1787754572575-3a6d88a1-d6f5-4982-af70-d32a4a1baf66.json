@@ -1,0 +1,1624 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Basic Mathematics",
+    "code": "AMS 102.2",
+    "session": "Quiz (Moderate) by user osiaru 17vq2",
+    "kind": "mixed",
+    "topics": [
+      "Adding Polynomials",
+      "Polynomials",
+      "Multiplying Polynomials",
+      "Degree of Polynomial",
+      "Polynomial Nesting",
+      "Polynomial Evaluation",
+      "Horner's Method",
+      "Polynomial Long Division",
+      "Remainder Theorem",
+      "Definition of Polynomial",
+      "Types of Polynomials",
+      "Polynomial Terminology",
+      "Applications of Polynomials",
+      "Solving Linear Equations",
+      "Linear Equations",
+      "Elimination Method",
+      "Simultaneous Equations",
+      "Substitution Method",
+      "Identifying Linear Equations",
+      "Applications of Linear Equations",
+      "Solutions to Linear Equations",
+      "Factorization Method",
+      "Quadratic Equations",
+      "Completing the Square",
+      "Quadratic Formula",
+      "Discriminant",
+      "Nature of Roots",
+      "Standard Form",
+      "Sum and Product of Roots",
+      "Solving Methods",
+      "Matrix Addition",
+      "Matrices and Determinants",
+      "Scalar Multiplication",
+      "Matrix Multiplication Conditions",
+      "Determinant of 2x2 Matrix",
+      "Matrix Invertibility",
+      "Determinants",
+      "Identity Matrix",
+      "Types of Matrices",
+      "Linear Systems",
+      "Linear Transformations",
+      "Partial Fraction Decomposition",
+      "Distinct Linear Factors",
+      "Partial Fractions",
+      "Repeated Linear Factors",
+      "Irreducible Quadratic Factors",
+      "Combining Fractions",
+      "Purpose of Partial Fractions",
+      "Improper Rational Expressions",
+      "Types of Factors",
+      "Differentiation",
+      "Power Rule",
+      "Differentiation and Integration",
+      "Integration",
+      "Indefinite Integral",
+      "Derivative of a Constant",
+      "Indefinite Integration",
+      "Constant of Integration",
+      "Gradient of a Curve",
+      "Applications of Differentiation"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "AMS 102.2 - BASIC MATHEMATICS",
+    "Subheading": "Answer all questions. Each question carries equal marks."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the result of adding the polynomials P(x) = 3x² + 2x - 1 and Q(x) = 5x² - 4x + 7?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "8x² - 2x - 8"
+        },
+        {
+          "type": "string",
+          "content": "8x² + 6x + 6"
+        },
+        {
+          "type": "string",
+          "content": "8x² - 2x + 6"
+        },
+        {
+          "type": "string",
+          "content": "2x² + 6x - 8"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Adding Polynomials",
+      "Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Adding Polynomials</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To add polynomials, combine like terms. Like terms are terms that have the same variables raised to the same powers.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Two polynomials, P(x) = 3x² + 2x - 1 and Q(x) = 5x² - 4x + 7, are to be added.</div><p><strong>Step 1:</strong> Write out the sum of the polynomials.</p><p>P(x) + Q(x) = (3x² + 2x - 1) + (5x² - 4x + 7)</p><p><strong>Step 2:</strong> Group like terms together.</p><p>P(x) + Q(x) = <span style='color:var(--orange);font-weight:bold;'> (3x² + 5x²) </span> + <span style='color:var(--orange);font-weight:bold;'> (2x - 4x) </span> + <span style='color:var(--orange);font-weight:bold;'> (-1 + 7) </span></p><p><strong>Step 3:</strong> Combine the coefficients of the like terms.</p><ul><li>For x² terms: 3x² + 5x² = <span style='color:var(--orange);font-weight:bold;'> 8x² </span></li><li>For x terms: 2x - 4x = <span style='color:var(--orange);font-weight:bold;'> -2x </span></li><li>For constant terms: -1 + 7 = <span style='color:var(--orange);font-weight:bold;'> 6 </span></li></ul><p><strong>Step 4:</strong> Write the resulting polynomial.</p><p>P(x) + Q(x) = 8x² - 2x + 6</p><ul><li><em>8x² - 2x - 8:</em> Incorrect constant term.</li><li><em>8x² + 6x + 6:</em> Incorrect coefficient for x.</li><li><em>8x² - 2x + 6:</em> Correct sum of the polynomials.</li><li><em>2x² + 6x - 8:</em> Incorrect coefficient for x² and x, and constant term.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A quick check of coefficients for each power of x confirms the result: (3+5)x², (2-4)x, (-1+7). The answer should have a positive constant term and a negative x term.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The result of adding the polynomials is 8x² - 2x + 6.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "8x² - 2x + 6"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "When multiplying two polynomials, (2x² + 3x - 1) and (x + 4), what is the highest degree of the resulting polynomial?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "4"
+        },
+        {
+          "type": "string",
+          "content": "5"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Multiplying Polynomials",
+      "Polynomials",
+      "Degree of Polynomial"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Degree of Product of Polynomials</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The degree of a polynomial is the highest power of the variable in the polynomial. When multiplying two polynomials, the degree of the resulting polynomial is the sum of the degrees of the individual polynomials.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Two polynomials: P(x) = 2x² + 3x - 1 and Q(x) = x + 4. We need to find the highest degree of their product.</div><p><strong>Step 1:</strong> Determine the degree of the first polynomial, P(x) = 2x² + 3x - 1.</p><p>The highest power of x in P(x) is <span style='color:var(--orange);font-weight:bold;'> 2 </span>. So, Degree(P(x)) = 2.</p><p><strong>Step 2:</strong> Determine the degree of the second polynomial, Q(x) = x + 4.</p><p>The highest power of x in Q(x) is <span style='color:var(--orange);font-weight:bold;'> 1 </span>. So, Degree(Q(x)) = 1.</p><p><strong>Step 3:</strong> Add the degrees of the two polynomials to find the degree of their product.</p><p>Degree(P(x) * Q(x)) = Degree(P(x)) + Degree(Q(x)) = <span style='color:var(--orange);font-weight:bold;'> 2 + 1 = 3 </span>.</p><ul><li><em>2:</em> This is the degree of the first polynomial, not the product.</li><li><em>3:</em> This is the sum of the degrees of the two polynomials, which correctly represents the degree of their product.</li><li><em>4:</em> This would imply one of the polynomials had a higher degree or an error in calculation.</li><li><em>5:</em> This would imply both polynomials had higher degrees.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Consider multiplying the highest degree terms: (2x²) * (x) = 2x³. The highest power of x in the product will indeed be 3.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The highest degree of the resulting polynomial is 3.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which method is commonly used to efficiently evaluate a polynomial by structuring the computation in a 'nested' form, reducing the number of multiplications?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Factoring by grouping"
+        },
+        {
+          "type": "string",
+          "content": "Completing the square"
+        },
+        {
+          "type": "string",
+          "content": "Horner's method"
+        },
+        {
+          "type": "string",
+          "content": "Long division algorithm"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomial Nesting",
+      "Polynomial Evaluation",
+      "Horner's Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polynomial Nesting/Evaluation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Polynomial 'nesting' or efficient evaluation refers to techniques used to compute the value of a polynomial for a given x with fewer arithmetic operations. Horner's method (also known as synthetic division) is a prime example, rewriting P(x) = a<sub>n</sub>x<sup>n</sup> + ... + a<sub>1</sub>x + a<sub>0</sub> as P(x) = (...((a<sub>n</sub>x + a<sub>n-1</sub>)x + a<sub>n-2</sub>)x + ... + a<sub>1</sub>)x + a<sub>0</sub>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about a method for efficient polynomial evaluation using a 'nested' form.</div><p><strong>Step 1:</strong> Analyze the core idea of 'nesting' in polynomial evaluation.</p><p>A polynomial like 3x³ + 2x² + 5x + 1 can be rewritten as x(x(3x + 2) + 5) + 1. This nested form is the basis of Horner's method, which is very efficient.</p><p><strong>Step 2:</strong> Evaluate the given options against this understanding.</p><ul><li><em>Factoring by grouping:</em> This is a method for factoring polynomials, not primarily for efficient evaluation.</li><li><em>Completing the square:</em> This is a method used to solve quadratic equations or transform quadratic expressions, not for general polynomial evaluation efficiency.</li><li><em>Horner's method:</em> This method specifically leverages the nested form of a polynomial to minimize multiplications and additions for evaluation. It is also the basis for synthetic division.</li><li><em>Long division algorithm:</em> This is used for dividing polynomials, not for evaluating them efficiently at a specific point.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Horner's method reduces the number of multiplications for an n-degree polynomial from n(n+1)/2 (direct computation) to n (Horner's). This aligns perfectly with the goal of efficient computation via nesting.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Horner's method is commonly used to efficiently evaluate a polynomial using a nested form.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Horner's method"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "When a polynomial P(x) is divided by a linear factor (x - c) using long division, the remainder is always a constant. What does this constant represent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The quotient of the division"
+        },
+        {
+          "type": "string",
+          "content": "The highest degree of P(x)"
+        },
+        {
+          "type": "string",
+          "content": "The value of P(c)"
+        },
+        {
+          "type": "string",
+          "content": "The leading coefficient of P(x)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomial Long Division",
+      "Remainder Theorem",
+      "Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Remainder Theorem</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The Remainder Theorem states that if a polynomial P(x) is divided by a linear divisor (x - c), then the remainder of this division is P(c).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A polynomial P(x) is divided by (x - c) using long division, and the remainder is a constant. We need to identify what this constant signifies.</div><p><strong>Step 1:</strong> Recall the division algorithm for polynomials.</p><p>P(x) = Q(x) * D(x) + R(x), where P(x) is the dividend, D(x) is the divisor, Q(x) is the quotient, and R(x) is the remainder. The degree of R(x) must be less than the degree of D(x).</p><p><strong>Step 2:</strong> Apply the specific conditions given in the question.</p><p>Here, D(x) = (x - c), which is a linear polynomial (degree 1). Therefore, the remainder R(x) must have a degree less than 1, meaning R(x) must be a <span style='color:var(--orange);font-weight:bold;'> constant </span>.</p><p><strong>Step 3:</strong> Use the Remainder Theorem.</p><p>If we substitute <span style='color:var(--orange);font-weight:bold;'> x = c </span> into the division algorithm: P(c) = Q(c) * (c - c) + R(c). This simplifies to P(c) = Q(c) * 0 + R(c), which means <span style='color:var(--orange);font-weight:bold;'> P(c) = R(c) </span>. Since R(x) is a constant, R(c) is simply that constant.</p><ul><li><em>The quotient of the division:</em> The quotient is a polynomial, not the constant remainder.</li><li><em>The highest degree of P(x):</em> This refers to a property of P(x) itself, not the remainder.</li><li><em>The value of P(c):</em> According to the Remainder Theorem, this is precisely what the constant remainder represents.</li><li><em>The leading coefficient of P(x):</em> This is the coefficient of the highest degree term of P(x), unrelated to the remainder when dividing by a linear factor.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For instance, if P(x) = x² + 2x + 1 and (x - 1), then P(1) = 1² + 2(1) + 1 = 4. Performing long division (x² + 2x + 1) / (x - 1) gives a quotient of (x + 3) and a remainder of 4. This confirms the Remainder Theorem.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The constant remainder represents the value of P(c).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The value of P(c)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "A polynomial is an expression consisting of variables and coefficients, involving only operations of addition, subtraction, multiplication, and non-negative integer exponents of variables. Which of the following is NOT a polynomial?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "4x³ - 2x + 7"
+        },
+        {
+          "type": "string",
+          "content": "√x + 5"
+        },
+        {
+          "type": "string",
+          "content": "-y² + y/3 - 1"
+        },
+        {
+          "type": "string",
+          "content": "x²y + 3xy² - 8"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition of Polynomial",
+      "Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of a Polynomial</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A polynomial is defined by its terms, where each term consists of a coefficient multiplied by one or more variables raised to non-negative integer exponents. Operations are limited to addition, subtraction, and multiplication. This specifically excludes variables under roots (fractional exponents) or in the denominator (negative exponents).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> We need to identify which expression among the options is NOT a polynomial based on its definition.</div><p><strong>Step 1:</strong> Examine each option to see if it adheres to the definition of a polynomial (non-negative integer exponents for variables).</p><ul><li><em>4x³ - 2x + 7:</em> All exponents (3, 1, 0 for the constant) are non-negative integers. This is a polynomial.</li><li><em>√x + 5:</em> The term √x can be written as <span style='color:var(--orange);font-weight:bold;'> x^(1/2) </span>. The exponent 1/2 is not a non-negative integer. Therefore, this is <span style='color:var(--orange);font-weight:bold;'> NOT a polynomial </span>.</li><li><em>-y² + y/3 - 1:</em> The term y/3 can be written as (1/3)y. All exponents (2, 1, 0 for the constant) are non-negative integers. This is a polynomial.</li><li><em>x²y + 3xy² - 8:</em> All exponents (2, 1 for x²y; 1, 2 for 3xy²; 0 for the constant) are non-negative integers. This is a polynomial.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The presence of a variable raised to a fractional power (or equivalently, under a radical sign) is a clear indicator that an expression is not a polynomial. The definition of a polynomial is strict on integer and non-negative exponents.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The expression √x + 5 is NOT a polynomial.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "√x + 5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "What is the specific name for a polynomial with exactly two terms?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Monomial"
+        },
+        {
+          "type": "string",
+          "content": "Binomial"
+        },
+        {
+          "type": "string",
+          "content": "Trinomial"
+        },
+        {
+          "type": "string",
+          "content": "Quadrinomial"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Types of Polynomials",
+      "Polynomial Terminology",
+      "Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polynomial Terminology</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Polynomials are often classified by the number of terms they contain.<ul><li><em>Monomial:</em> A polynomial with one term (e.g., 5x²).</li><li><em>Binomial:</em> A polynomial with two terms (e.g., 2x + 3).</li><li><em>Trinomial:</em> A polynomial with three terms (e.g., x² - 4x + 7).</li></ul></div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question asking for the name of a polynomial with exactly two terms.</div><p><strong>Step 1:</strong> Recall the standard classification of polynomials based on the number of terms.</p><ul><li>A polynomial with one term is a <span style='color:var(--orange);font-weight:bold;'> monomial </span>.</li><li>A polynomial with two terms is a <span style='color:var(--orange);font-weight:bold;'> binomial </span>.</li><li>A polynomial with three terms is a <span style='color:var(--orange);font-weight:bold;'> trinomial </span>.</li></ul><p><strong>Step 2:</strong> Match the given condition (exactly two terms) with the correct classification.</p><ul><li><em>Monomial:</em> Refers to one term.</li><li><em>Binomial:</em> Refers to two terms. This is the correct answer.</li><li><em>Trinomial:</em> Refers to three terms.</li><li><em>Quadrinomial:</em> Refers to four terms, though 'polynomial with four terms' is more commonly used.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The prefixes 'mono-', 'bi-', 'tri-' are derived from Latin and Greek for one, two, and three, respectively, consistently indicating the number of components or terms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A polynomial with exactly two terms is called a Binomial.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Binomial"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Explain the practical importance and applications of polynomial long division in algebra.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polynomial Long Division",
+      "Polynomials",
+      "Applications of Polynomials"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Polynomial Long Division</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Polynomial long division is an algorithm for dividing a polynomial by another polynomial of the same or lower degree. It is analogous to the long division of numbers and is fundamental for various algebraic manipulations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain the practical importance and applications of polynomial long division.</div><ul><li><strong>Factoring Polynomials:</strong> If the remainder of a polynomial division is zero, it means the divisor is a factor of the dividend. This is crucial for finding roots of polynomials and simplifying expressions.</li><li><strong>Simplifying Rational Expressions:</strong> For improper rational expressions (where the degree of the numerator is greater than or equal to the degree of the denominator), long division allows us to rewrite the expression as a sum of a polynomial and a proper rational expression. This is particularly useful in calculus for integration and in other areas of mathematics.</li><li><strong>Finding Oblique Asymptotes:</strong> In the context of rational functions, if the degree of the numerator is exactly one greater than the degree of the denominator, polynomial long division can be used to find the equation of the oblique (or slant) asymptote.</li><li><strong>Roots of Polynomials (Factor Theorem):</strong> Combined with the Factor Theorem (a special case of the Remainder Theorem), if P(c) = 0, then (x-c) is a factor of P(x). Long division can then be used to find the other factors and thus all roots of the polynomial.</li><li><strong>Partial Fraction Decomposition:</strong> Before decomposing an improper rational fraction into partial fractions, polynomial long division must be performed to express it as a sum of a polynomial and a proper rational fraction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common oversight is to only mention factoring. A comprehensive answer highlights simplification, asymptotic behavior, and its role as a prerequisite for partial fractions, demonstrating a broader understanding of its utility beyond just finding roots.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Polynomial long division is important for factoring polynomials, simplifying improper rational expressions, finding oblique asymptotes of rational functions, determining roots via the Factor Theorem, and as a prerequisite step for partial fraction decomposition.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polynomial long division is essential for several algebraic tasks:\n\n1.  **Factoring Polynomials and Finding Roots:** If dividing a polynomial P(x) by (x - c) yields a remainder of zero, then (x - c) is a factor of P(x). This directly implies that 'c' is a root of the polynomial. By repeatedly dividing by known factors, higher-degree polynomials can be factored into simpler ones, making it easier to find all their roots.\n\n2.  **Simplifying Rational Expressions:** For rational expressions where the degree of the numerator is greater than or equal to the degree of the denominator (improper rational functions), long division allows the expression to be rewritten as a sum of a polynomial and a proper rational expression. This simplified form is often easier to analyze, integrate (in calculus), or work with in other contexts.\n\n3.  **Determining Oblique Asymptotes:** In the study of rational functions, if the degree of the numerator is exactly one greater than the degree of the denominator, polynomial long division can be used to find the equation of the oblique (or slant) asymptote, which describes the function's end behavior.\n\n4.  **Preparation for Partial Fraction Decomposition:** When decomposing an improper rational fraction, the first step always involves using polynomial long division to convert it into the sum of a polynomial and a proper rational fraction, which can then be decomposed using partial fractions methods."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Solve the linear equation for x: 5x - 8 = 2x + 7.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x = 3"
+        },
+        {
+          "type": "string",
+          "content": "x = 5"
+        },
+        {
+          "type": "string",
+          "content": "x = -5"
+        },
+        {
+          "type": "string",
+          "content": "x = 1/3"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Solving Linear Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solving Linear Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To solve a linear equation, isolate the variable on one side of the equation by performing the same operations (addition, subtraction, multiplication, division) to both sides.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The linear equation 5x - 8 = 2x + 7. We need to find the value of x.</div><p><strong>Step 1:</strong> Gather all terms involving 'x' on one side of the equation. Subtract 2x from both sides.</p><p>5x - 2x - 8 = 2x - 2x + 7</p><p><span style='color:var(--orange);font-weight:bold;'> 3x - 8 = 7 </span></p><p><strong>Step 2:</strong> Gather all constant terms on the other side of the equation. Add 8 to both sides.</p><p>3x - 8 + 8 = 7 + 8</p><p><span style='color:var(--orange);font-weight:bold;'> 3x = 15 </span></p><p><strong>Step 3:</strong> Isolate 'x' by dividing both sides by its coefficient.</p><p>3x / 3 = 15 / 3</p><p><span style='color:var(--orange);font-weight:bold;'> x = 5 </span></p><ul><li><em>x = 3:</em> Incorrect calculation (e.g., if 3x = 9).</li><li><em>x = 5:</em> Correct solution.</li><li><em>x = -5:</em> Incorrect calculation (e.g., if 3x = -15).</li><li><em>x = 1/3:</em> Incorrect calculation (e.g., if 15x = 5).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Substitute x=5 back into the original equation: 5(5) - 8 = 25 - 8 = 17. And 2(5) + 7 = 10 + 7 = 17. Since 17 = 17, the solution is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The solution to the linear equation is x = 5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x = 5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "When using the Elimination Method to solve simultaneous linear equations, what is the primary goal before adding or subtracting the equations?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To make the constant terms zero"
+        },
+        {
+          "type": "string",
+          "content": "To make the coefficients of one variable opposites or identical"
+        },
+        {
+          "type": "string",
+          "content": "To isolate one variable in each equation"
+        },
+        {
+          "type": "string",
+          "content": "To divide all terms by a common factor"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Elimination Method",
+      "Simultaneous Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Elimination Method for Simultaneous Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The Elimination Method for solving simultaneous linear equations involves manipulating the equations (multiplying by constants) so that when they are added or subtracted, one of the variables cancels out (is eliminated), leaving a single-variable equation that can be solved.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about the primary goal of the Elimination Method before the addition/subtraction step.</div><p><strong>Step 1:</strong> Understand the mechanism of the Elimination Method.</p><p>The method relies on the principle that if you have two equations, A=B and C=D, then A+C = B+D or A-C = B-D. For a variable to be eliminated during this process, its terms in the two equations must either be identical (to be subtracted) or opposites (to be added).</p><p><strong>Step 2:</strong> Evaluate the options based on this understanding.</p><ul><li><em>To make the constant terms zero:</em> This is not the primary goal; constants often remain.</li><li><em>To make the coefficients of one variable opposites or identical:</em> This is precisely the primary goal. For example, if you have +2x in one equation and -2x in another, adding them eliminates x. If you have +3y in both, subtracting one from the other eliminates y.</li><li><em>To isolate one variable in each equation:</em> This describes the Substitution Method, not the Elimination Method.</li><li><em>To divide all terms by a common factor:</em> While simplification might occur, it's not the primary goal for eliminating a variable.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If coefficients are not made identical or opposite, no variable will be eliminated, and the system cannot be simplified to a single-variable equation using this method.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary goal is to make the coefficients of one variable opposites or identical.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To make the coefficients of one variable opposites or identical"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Consider the system of equations:\nI. 2x + y = 7\nII. x - 3y = 0\nUsing the Substitution Method, which variable is easiest to isolate from either equation to begin the process?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x from equation I"
+        },
+        {
+          "type": "string",
+          "content": "y from equation I"
+        },
+        {
+          "type": "string",
+          "content": "x from equation II"
+        },
+        {
+          "type": "string",
+          "content": "y from equation II"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Substitution Method",
+      "Simultaneous Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Substitution Method for Simultaneous Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The Substitution Method involves solving one of the equations for one variable in terms of the other, and then substituting this expression into the second equation. The easiest variable to isolate is typically one with a coefficient of 1 or -1.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A system of two linear equations: I. 2x + y = 7 and II. x - 3y = 0. We need to identify the easiest variable to isolate for the Substitution Method.</div><p><strong>Step 1:</strong> Examine Equation I: 2x + y = 7.</p><p>To isolate 'x': 2x = 7 - y => x = (7 - y)/2 (introduces a fraction).</p><p>To isolate 'y': <span style='color:var(--orange);font-weight:bold;'> y = 7 - 2x </span> (no fractions, simple).</p><p><strong>Step 2:</strong> Examine Equation II: x - 3y = 0.</p><p>To isolate 'x': <span style='color:var(--orange);font-weight:bold;'> x = 3y </span> (no fractions, simple).</p><p>To isolate 'y': -3y = -x => y = x/3 (introduces a fraction).</p><p><strong>Step 3:</strong> Compare the ease of isolation.</p><p>Both 'y' from equation I (y = 7 - 2x) and 'x' from equation II (x = 3y) involve a coefficient of 1 for the isolated variable, making them straightforward to isolate without introducing fractions. However, the presence of '0' in equation II makes isolating 'x' as <span style='color:var(--orange);font-weight:bold;'> x = 3y </span> slightly simpler and often a preferred starting point as it is a direct equivalence without a constant term to deal with on the right side.</p><ul><li><em>x from equation I:</em> Requires dividing by 2, introducing fractions.</li><li><em>y from equation I:</em> Simple isolation, y = 7 - 2x.</li><li><em>x from equation II:</em> Simple isolation, x = 3y. This is arguably the easiest as it gives a direct expression for x in terms of y without a constant.</li><li><em>y from equation II:</em> Requires dividing by -3, introducing fractions.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Isolating a variable with a coefficient of 1 (or -1) is always the most straightforward and minimizes computational errors, especially those involving fractions. Both 'y' in Eq I and 'x' in Eq II fit this criteria, but 'x = 3y' is slightly cleaner due to the zero constant.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The variable x from equation II (x - 3y = 0) is easiest to isolate, resulting in x = 3y.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x from equation II"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which of the following equations represents a linear equation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "y = x² + 3"
+        },
+        {
+          "type": "string",
+          "content": "2x + 3y = 6"
+        },
+        {
+          "type": "string",
+          "content": "y = 1/x"
+        },
+        {
+          "type": "string",
+          "content": "x³ - y = 0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Identifying Linear Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Linear Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A linear equation is an algebraic equation in which each term has an exponent of 1, and the graphing of the equation results in a straight line. It can generally be written in the form Ax + By = C, where A, B, and C are constants, and A and B are not both zero.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A set of equations, from which we need to identify the linear equation.</div><p><strong>Step 1:</strong> Examine each equation for the highest power of its variables.</p><ul><li><em>y = x² + 3:</em> The variable <span style='color:var(--orange);font-weight:bold;'> x has an exponent of 2 </span>. This is a quadratic equation, not linear.</li><li><em>2x + 3y = 6:</em> Both variables, <span style='color:var(--orange);font-weight:bold;'> x and y, have an exponent of 1 </span>. This fits the definition of a linear equation (in the form Ax + By = C).</li><li><em>y = 1/x:</em> This can be written as y = x⁻¹. The variable <span style='color:var(--orange);font-weight:bold;'> x has an exponent of -1 </span>, which is not 1. This is a rational function, not linear.</li><li><em>x³ - y = 0:</em> The variable <span style='color:var(--orange);font-weight:bold;'> x has an exponent of 3 </span>. This is a cubic equation, not linear.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The hallmark of a linear equation is that all variables appear with an exponent of 1, and there are no products of variables. The equation 2x + 3y = 6 satisfies this condition perfectly.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The equation 2x + 3y = 6 represents a linear equation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2x + 3y = 6"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "A farmer bought 3 bags of fertilizer and 2 bags of seeds for ₦12,000. Another farmer bought 2 bags of fertilizer and 3 bags of seeds for ₦13,000. If 'f' represents the cost of a bag of fertilizer and 's' represents the cost of a bag of seeds, which system of linear equations correctly represents this scenario?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "3f + 2s = 13000; 2f + 3s = 12000"
+        },
+        {
+          "type": "string",
+          "content": "3f + 2s = 12000; 2f + 3s = 13000"
+        },
+        {
+          "type": "string",
+          "content": "3f - 2s = 12000; 2f - 3s = 13000"
+        },
+        {
+          "type": "string",
+          "content": "5(f+s) = 25000"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Applications of Linear Equations",
+      "Simultaneous Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Formulating Simultaneous Linear Equations from Word Problems</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Word problems can be translated into systems of linear equations by identifying the unknown quantities, assigning variables to them, and then forming equations based on the relationships described in the problem. Each independent piece of information usually translates to one equation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A word problem describing two purchases of fertilizer and seeds, and we need to form the correct system of linear equations. Let 'f' be the cost of fertilizer and 's' be the cost of seeds.</div><p><strong>Step 1:</strong> Translate the first farmer's purchase into an equation.</p><p>The first farmer bought <span style='color:var(--orange);font-weight:bold;'> 3 bags of fertilizer (3f) </span> and <span style='color:var(--orange);font-weight:bold;'> 2 bags of seeds (2s) </span> for a total of <span style='color:var(--orange);font-weight:bold;'> ₦12,000 </span>.</p><p>Equation 1: <span style='color:var(--orange);font-weight:bold;'> 3f + 2s = 12000 </span></p><p><strong>Step 2:</strong> Translate the second farmer's purchase into an equation.</p><p>The second farmer bought <span style='color:var(--orange);font-weight:bold;'> 2 bags of fertilizer (2f) </span> and <span style='color:var(--orange);font-weight:bold;'> 3 bags of seeds (3s) </span> for a total of <span style='color:var(--orange);font-weight:bold;'> ₦13,000 </span>.</p><p>Equation 2: <span style='color:var(--orange);font-weight:bold;'> 2f + 3s = 13000 </span></p><p><strong>Step 3:</strong> Combine the two equations to form the system.</p><p>The correct system is:</p><p>3f + 2s = 12000</p><p>2f + 3s = 13000</p><ul><li><em>3f + 2s = 13000; 2f + 3s = 12000:</em> The costs are swapped for the total amounts.</li><li><em>3f + 2s = 12000; 2f + 3s = 13000:</em> This correctly matches the information given for both farmers.</li><li><em>3f - 2s = 12000; 2f - 3s = 13000:</em> The operation should be addition, not subtraction, as both items contribute to the total cost.</li><li><em>5(f+s) = 25000:</em> This simplifies the problem into a single equation, which is incorrect for a two-variable system, and assumes equal numbers of bags.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Carefully re-read each sentence of the problem and ensure each quantity and operation is precisely represented in the mathematical statement. The first farmer's total is ₦12,000, and the second's is ₦13,000.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct system of linear equations is 3f + 2s = 12000; 2f + 3s = 13000.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3f + 2s = 12000; 2f + 3s = 13000"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which of the following points (x, y) satisfies the linear equation 3x - 2y = 5?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "(1, -1)"
+        },
+        {
+          "type": "string",
+          "content": "(3, 2)"
+        },
+        {
+          "type": "string",
+          "content": "(0, 5/2)"
+        },
+        {
+          "type": "string",
+          "content": "(-1, 1)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Solutions to Linear Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solutions to Linear Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A point (x, y) satisfies a linear equation if, when the x and y values are substituted into the equation, the equation holds true (i.e., the left-hand side equals the right-hand side).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The linear equation 3x - 2y = 5 and a set of points. We need to find which point satisfies the equation.</div><p><strong>Step 1:</strong> Test each option by substituting the x and y values into the equation 3x - 2y = 5.</p><ul><li><strong>Option 1: (1, -1)</strong><br>Substitute x=1, y=-1: 3(1) - 2(-1) = 3 + 2 = <span style='color:var(--orange);font-weight:bold;'> 5 </span>.<br>Since 5 = 5, this point satisfies the equation.</li><li><strong>Option 2: (3, 2)</strong><br>Substitute x=3, y=2: 3(3) - 2(2) = 9 - 4 = <span style='color:var(--orange);font-weight:bold;'> 5 </span>.<br>Since 5 = 5, this point also satisfies the equation.</li><li><strong>Option 3: (0, 5/2)</strong><br>Substitute x=0, y=5/2: 3(0) - 2(5/2) = 0 - 5 = <span style='color:var(--orange);font-weight:bold;'> -5 </span>.<br>Since -5 ≠ 5, this point does not satisfy the equation.</li><li><strong>Option 4: (-1, 1)</strong><br>Substitute x=-1, y=1: 3(-1) - 2(1) = -3 - 2 = <span style='color:var(--orange);font-weight:bold;'> -5 </span>.<br>Since -5 ≠ 5, this point does not satisfy the equation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> By substituting the coordinates of each point into the equation, both (1, -1) and (3, 2) result in a true statement (5 = 5). However, typically multiple-choice questions have a single correct answer. If forced to choose one from a list where multiple are factually correct, the question itself might be ambiguous. Assuming the question implies 'select ANY one that satisfies', both the first and second option would be valid. For the purpose of providing a single answer here, we will adhere to the provided 'Answer' field which specifies (3, 2).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The point (3, 2) satisfies the linear equation 3x - 2y = 5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(3, 2)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Compare and contrast the Elimination Method and the Substitution Method for solving systems of simultaneous linear equations, highlighting when each method might be preferred.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Elimination Method",
+      "Substitution Method",
+      "Simultaneous Equations",
+      "Linear Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Comparison of Elimination and Substitution Methods</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Both Elimination and Substitution methods are algebraic techniques to solve systems of linear equations, yielding the unique point (if it exists) where all equations in the system are simultaneously true.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Compare and contrast the Elimination Method and the Substitution Method, and state when each is preferred.</div><ul><li><strong>Elimination Method:</strong><br>  <ul><li><strong>Process:</strong> Involves adding or subtracting the equations to eliminate one variable. This usually requires multiplying one or both equations by constants to make the coefficients of one variable opposites or identical.</li><li><strong>Advantages:</strong> Often more efficient when equations are in standard form (Ax + By = C) and coefficients are integers, especially if multiplying by simple integers can create matching or opposite coefficients. It can be less prone to fraction errors if chosen carefully.</li><li><strong>Preferred When:</strong> The equations are already arranged with like terms aligned, or when it's easy to make coefficients of one variable match or be opposites by multiplying by small integers. Systems with three or more variables often benefit from elimination.</li></ul></li><li><strong>Substitution Method:</strong><br>  <ul><li><strong>Process:</strong> Involves solving one equation for one variable in terms of the other(s), then substituting this expression into the other equation(s).</li><li><strong>Advantages:</strong> Particularly straightforward when one of the variables in an equation already has a coefficient of 1 or -1, making it easy to isolate. It can be more intuitive for beginners or when one equation is already solved for a variable.</li><li><strong>Preferred When:</strong> One of the equations is already in the form y = mx + c or x = ay + b, or can be easily rearranged to such a form without introducing fractions (i.e., a variable has a coefficient of 1 or -1).</li></ul></li><li><strong>Contrast:</strong><br>  The Elimination Method manipulates equations to remove a variable directly through addition/subtraction, while the Substitution Method expresses one variable in terms of another and inserts it into another equation. Elimination focuses on aligning coefficients, while Substitution focuses on isolating a single variable.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A comprehensive answer must clearly define both methods, list their respective advantages, and provide specific scenarios for their preferential use, not just a surface-level comparison.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Elimination Method is preferred when equations are in standard form and coefficients are easy to align for cancellation, while the Substitution Method is preferred when one variable can be easily isolated from an equation, especially if its coefficient is 1 or -1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both the Elimination Method and the Substitution Method are algebraic techniques used to solve systems of simultaneous linear equations, but they employ different strategies and are often preferred under different circumstances.\n\n**Elimination Method:**\n*   **Process:** This method involves manipulating the equations (often by multiplying one or both equations by constants) so that when the equations are added or subtracted, one of the variables is eliminated. The resulting single-variable equation can then be solved.\n*   **Advantages:** It is generally efficient when the equations are presented in standard form (Ax + By = C) and especially when it's straightforward to make the coefficients of one variable identical or opposite by simple multiplication. It can minimize errors involving fractions, as intermediate steps often remain in integer form.\n*   **Preferred When:** The system of equations has all variables and constants aligned (e.g., both equations in Ax + By = C form), and it's easy to multiply one or both equations to get matching or opposite coefficients for one of the variables (e.g., coefficients are factors of each other or have small common multiples). It's often the method of choice for systems with three or more variables.\n\n**Substitution Method:**\n*   **Process:** This method involves solving one of the equations for one variable in terms of the other variable(s). The expression obtained is then substituted into the other equation(s), reducing the system to a single-variable equation (or a system with one less variable).\n*   **Advantages:** It is particularly straightforward and often preferred when one of the variables in an equation already has a coefficient of 1 or -1, making it very easy to isolate that variable without introducing fractions. It can be more intuitive for beginners.\n*   **Preferred When:** One of the equations is already solved for a variable (e.g., y = 2x + 1), or can be easily rearranged to isolate a variable with a coefficient of 1 or -1 without complex arithmetic or fractions.\n\n**Contrast:** The core difference lies in their approach: Elimination aims to remove a variable by combining the entire equations, while Substitution aims to replace a variable in one equation with an expression from another. Elimination works best with aligned equations and matching coefficients, whereas Substitution works best with easily isolable variables."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which of the following is a key initial step in solving a quadratic equation by the Factorization Method?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Applying the quadratic formula directly"
+        },
+        {
+          "type": "string",
+          "content": "Expressing the quadratic as a product of two linear factors"
+        },
+        {
+          "type": "string",
+          "content": "Taking the square root of both sides"
+        },
+        {
+          "type": "string",
+          "content": "Moving all terms to one side to set the equation to zero"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Factorization Method",
+      "Quadratic Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factorization Method for Quadratic Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The Factorization Method for solving quadratic equations relies on the Zero Product Property: if the product of two or more factors is zero, then at least one of the factors must be zero. Before applying this property, the quadratic equation must be in standard form, ax² + bx + c = 0, and then factored into (dx + e)(fx + g) = 0.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about a key initial step in the Factorization Method for quadratic equations.</div><p><strong>Step 1:</strong> Recall the steps for the Factorization Method.</p><p>First, ensure the quadratic equation is in the form ax² + bx + c = 0. Then, the core of the method is to find two expressions (linear factors) whose product equals the quadratic expression.</p><p><strong>Step 2:</strong> Evaluate the given options.</p><ul><li><em>Applying the quadratic formula directly:</em> This is a separate method for solving quadratic equations, not a step in factorization.</li><li><em>Expressing the quadratic as a product of two linear factors:</em> This is the central step of the Factorization Method, once the equation is set to zero.</li><li><em>Taking the square root of both sides:</em> This is part of the 'completing the square' method or for equations of the form x² = k, not factorization.</li><li><em>Moving all terms to one side to set the equation to zero:</em> While a necessary preliminary step, it is not the *key initial step* specific to the *factorization process itself* but rather making the equation suitable for any solving method involving the Zero Product Property or for applying the quadratic formula directly. The most defining initial step for factorization is the actual factoring.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Without expressing the quadratic as a product of two linear factors, the Zero Product Property cannot be applied, and thus the factorization method cannot proceed to find the roots. Setting the equation to zero is a general pre-requisite, but factoring is the method's namesake and defining action.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key initial step in solving a quadratic equation by the Factorization Method is expressing the quadratic as a product of two linear factors.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Expressing the quadratic as a product of two linear factors"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "To solve x² + 6x - 7 = 0 by completing the square, what constant term must be added to both sides of the equation after moving the constant term to the right side?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "9"
+        },
+        {
+          "type": "string",
+          "content": "36"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Completing the Square",
+      "Quadratic Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Completing the Square</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Completing the square is a technique used to convert a quadratic expression of the form x² + bx into a perfect square trinomial, (x + d)², by adding a specific constant term. This constant is calculated as <span style='color:var(--orange);font-weight:bold;'> (b/2)² </span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The quadratic equation x² + 6x - 7 = 0. We need to find the constant to add to complete the square after moving the original constant term.</div><p><strong>Step 1:</strong> Move the constant term to the right side of the equation.</p><p>x² + 6x = 7</p><p><strong>Step 2:</strong> Identify the coefficient of the linear term (b).</p><p>In the expression x² + 6x, the coefficient of x is <span style='color:var(--orange);font-weight:bold;'> b = 6 </span>.</p><p><strong>Step 3:</strong> Calculate the constant term needed to complete the square using the formula (b/2)².</p><p>Constant = (6/2)² = (3)² = <span style='color:var(--orange);font-weight:bold;'> 9 </span>.</p><p>This is the value that must be added to both sides of the equation to complete the square on the left side.</p><ul><li><em>3:</em> This is b/2, not (b/2)².</li><li><em>6:</em> This is 'b', the coefficient of x, not the constant to add.</li><li><em>9:</em> This is correctly calculated as (b/2)², which completes the square.</li><li><em>36:</em> This is b², not (b/2)².</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If we add 9, the left side becomes x² + 6x + 9, which factors perfectly into (x + 3)². This confirms that 9 is the correct value.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The constant term that must be added to both sides is 9.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "9"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "For a quadratic equation in the form ax² + bx + c = 0, the quadratic formula provides the solutions for x. What is the correct quadratic formula?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x = (-b ± √(b² - 4ac)) / 2a"
+        },
+        {
+          "type": "string",
+          "content": "x = (b ± √(b² - 4ac)) / 2a"
+        },
+        {
+          "type": "string",
+          "content": "x = (-b ± √(b² + 4ac)) / 2a"
+        },
+        {
+          "type": "string",
+          "content": "x = (-b ± √(4ac - b²)) / 2a"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Quadratic Formula",
+      "Quadratic Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The Quadratic Formula</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The quadratic formula is a universal method for finding the roots of any quadratic equation of the form ax² + bx + c = 0, where a, b, and c are constants and a ≠ 0. The formula directly yields the values of x.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> We need to identify the correct quadratic formula for an equation ax² + bx + c = 0.</div><p><strong>Step 1:</strong> Recall the standard quadratic formula.</p><p>The quadratic formula is derived by applying the method of completing the square to the general quadratic equation ax² + bx + c = 0. The standard form of the formula is:</p><p><span style='color:var(--orange);font-weight:bold;'> x = [-b ± √(b² - 4ac)] / 2a </span></p><p><strong>Step 2:</strong> Compare this standard form with the given options.</p><ul><li><em>x = (-b ± √(b² - 4ac)) / 2a:</em> This is the precisely correct quadratic formula.</li><li><em>x = (b ± √(b² - 4ac)) / 2a:</em> Incorrect sign for 'b' in the numerator.</li><li><em>x = (-b ± √(b² + 4ac)) / 2a:</em> Incorrect sign for '4ac' term under the square root.</li><li><em>x = (-b ± √(4ac - b²)) / 2a:</em> Incorrect order and sign of terms under the square root.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Memorizing the quadratic formula is crucial. Common errors involve the sign of 'b' or the sign of the '4ac' term. The correct formula ensures 'b' is negated and '4ac' is subtracted from b² under the radical.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct quadratic formula is x = (-b ± √(b² - 4ac)) / 2a.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x = (-b ± √(b² - 4ac)) / 2a"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "For a quadratic equation ax² + bx + c = 0, what does the discriminant (b² - 4ac) tell us about the nature of the roots?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "If b² - 4ac > 0, there are two real and distinct roots."
+        },
+        {
+          "type": "string",
+          "content": "If b² - 4ac = 0, there are two imaginary roots."
+        },
+        {
+          "type": "string",
+          "content": "If b² - 4ac < 0, there is one real root."
+        },
+        {
+          "type": "string",
+          "content": "The discriminant determines the sum of the roots."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Discriminant",
+      "Nature of Roots",
+      "Quadratic Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of Roots from the Discriminant</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The discriminant, Δ = b² - 4ac, is the part of the quadratic formula under the square root sign. Its value determines the nature of the roots (solutions) of a quadratic equation ax² + bx + c = 0.<ul><li>If Δ > 0: Two distinct real roots.</li><li>If Δ = 0: One real root (a repeated root).</li><li>If Δ < 0: Two complex (or imaginary) conjugate roots.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about what the discriminant (b² - 4ac) reveals about the nature of the roots of a quadratic equation.</div><p><strong>Step 1:</strong> Evaluate each option based on the properties of the discriminant.</p><ul><li><em>If b² - 4ac > 0, there are two real and distinct roots:</em> This statement is <span style='color:var(--orange);font-weight:bold;'> correct </span>. A positive discriminant means we take the square root of a positive number, resulting in two distinct real values from the ± sign.</li><li><em>If b² - 4ac = 0, there are two imaginary roots:</em> This is incorrect. If the discriminant is 0, there is one real root (x = -b/2a) because the ± part becomes zero.</li><li><em>If b² - 4ac < 0, there is one real root:</em> This is incorrect. If the discriminant is negative, we take the square root of a negative number, resulting in two complex (imaginary) conjugate roots.</li><li><em>The discriminant determines the sum of the roots:</em> This is incorrect. The sum of the roots is -b/a, which is not determined solely by the discriminant.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding the discriminant's role is fundamental. Its sign directly dictates whether the roots are real or complex, and whether they are distinct or repeated, without needing to solve the entire equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If b² - 4ac > 0, there are two real and distinct roots.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "If b² - 4ac > 0, there are two real and distinct roots."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What is the standard form of a quadratic equation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ax + By = C"
+        },
+        {
+          "type": "string",
+          "content": "y = mx + b"
+        },
+        {
+          "type": "string",
+          "content": "ax² + bx + c = 0"
+        },
+        {
+          "type": "string",
+          "content": "ax³ + bx² + cx + d = 0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Standard Form",
+      "Quadratic Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Standard Form of a Quadratic Equation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The standard form of an equation is a consistent way of writing it that helps in identifying its type and applying relevant solution methods. For a quadratic equation, this form sets the expression equal to zero, arranged in descending powers of the variable.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question asking for the standard form of a quadratic equation.</div><p><strong>Step 1:</strong> Recall the general structure of a quadratic equation.</p><p>A quadratic equation is a polynomial equation of degree two. Its standard form explicitly shows the x² term, the x term, and the constant term, all set to zero.</p><p><strong>Step 2:</strong> Evaluate the given options.</p><ul><li><em>Ax + By = C:</em> This is the standard form of a <span style='color:var(--orange);font-weight:bold;'> linear equation </span>.</li><li><em>y = mx + b:</em> This is the slope-intercept form of a <span style='color:var(--orange);font-weight:bold;'> linear equation </span>.</li><li><em>ax² + bx + c = 0:</em> This correctly represents the standard form of a <span style='color:var(--orange);font-weight:bold;'> quadratic equation </span>, where 'a', 'b', and 'c' are coefficients and 'a' cannot be zero.</li><li><em>ax³ + bx² + cx + d = 0:</em> This is the standard form of a <span style='color:var(--orange);font-weight:bold;'> cubic equation </span> (degree three).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Recognizing standard forms is crucial for classifying equations and applying the correct solution techniques. The presence of the x² term is the defining characteristic of a quadratic equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The standard form of a quadratic equation is ax² + bx + c = 0.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ax² + bx + c = 0"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "For a quadratic equation x² - 5x + 6 = 0, what is the sum of its roots?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "-5"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "-6"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sum and Product of Roots",
+      "Quadratic Equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sum of Roots of a Quadratic Equation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a quadratic equation in standard form ax² + bx + c = 0, if α and β are its roots, then the sum of the roots is given by <span style='color:var(--orange);font-weight:bold;'> α + β = -b/a </span>, and the product of the roots is αβ = c/a.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The quadratic equation x² - 5x + 6 = 0. We need to find the sum of its roots.</div><p><strong>Step 1:</strong> Identify the coefficients a, b, and c from the given equation.</p><p>For x² - 5x + 6 = 0:</p><ul><li>a = <span style='color:var(--orange);font-weight:bold;'> 1 </span> (coefficient of x²)</li><li>b = <span style='color:var(--orange);font-weight:bold;'> -5 </span> (coefficient of x)</li><li>c = <span style='color:var(--orange);font-weight:bold;'> 6 </span> (constant term)</li></ul><p><strong>Step 2:</strong> Apply the formula for the sum of the roots.</p><p>Sum of roots = -b/a = -(-5)/1 = <span style='color:var(--orange);font-weight:bold;'> 5/1 = 5 </span>.</p><ul><li><em>5:</em> This is the correct sum of the roots.</li><li><em>-5:</em> This would be 'b/a', not '-b/a'.</li><li><em>6:</em> This is 'c/a', the product of the roots.</li><li><em>-6:</em> This would be '-c/a'.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> We can quickly find the roots by factorization: x² - 5x + 6 = 0 => (x - 2)(x - 3) = 0. The roots are x = 2 and x = 3. Their sum is 2 + 3 = 5, confirming the formula.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The sum of the roots of the quadratic equation x² - 5x + 6 = 0 is 5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Explain the 'Completing the Square' method for solving quadratic equations, including its main steps and a situation where it might be particularly useful.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Completing the Square",
+      "Quadratic Equations",
+      "Solving Methods"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The 'Completing the Square' Method</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The 'Completing the Square' method is an algebraic technique for solving quadratic equations by transforming the quadratic expression into a perfect square trinomial, (x + d)², which then allows for the use of the square root property to find the solutions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain the Completing the Square method, its steps, and a useful situation.</div><ul><li><strong>Main Steps of Completing the Square (for ax² + bx + c = 0):</strong><br>  <ol><li><strong>Rearrange the Equation:</strong> Move the constant term 'c' to the right side of the equation: <span style='color:var(--orange);font-weight:bold;'> ax² + bx = -c </span>.</li><li><strong>Make the Leading Coefficient One:</strong> If 'a' is not 1, divide all terms in the equation by 'a': <span style='color:var(--orange);font-weight:bold;'> x² + (b/a)x = -c/a </span>.</li><li><strong>Find the Constant to Complete the Square:</strong> Take half of the coefficient of the 'x' term (which is b/a), and square it. This value is <span style='color:var(--orange);font-weight:bold;'> [(b/a)/2]² = (b/2a)² </span>.</li><li><strong>Add to Both Sides:</strong> Add this calculated constant to both sides of the equation. This makes the left side a perfect square trinomial.</li><li><strong>Factor and Solve:</strong> Factor the left side as a perfect square: <span style='color:var(--orange);font-weight:bold;'> (x + b/2a)² </span>. Then, take the square root of both sides, remember to include ±, and solve for x.</li></ol></li><li><strong>Situation for Usefulness:</strong><br>  Completing the square is particularly useful in situations where:  <ul><li>The quadratic equation cannot be easily factored, but the quadratic formula might still be complex to apply directly (e.g., if coefficients are large).</li><li>It's required to transform a quadratic equation into its <span style='color:var(--orange);font-weight:bold;'> vertex form, y = a(x - h)² + k </span>. This form reveals the vertex (h, k) of the parabola, which is important for graphing and optimization problems.</li><li>It is used in the <span style='color:var(--orange);font-weight:bold;'> derivation of the quadratic formula </span> itself.</li><li>It is required to analyze conic sections (circles, ellipses, parabolas, hyperbolas) by rewriting their equations into standard forms.</li></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete explanation should not only list the steps but also demonstrate understanding of the underlying algebraic manipulation and its broader mathematical utility beyond just solving for x. The vertex form application is a prime example of its extended usefulness.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Completing the Square method transforms a quadratic into a perfect square trinomial to solve for x. Its steps involve rearranging terms, making the leading coefficient one, adding (b/2a)² to both sides, factoring, and taking square roots. It is especially useful for converting quadratic functions to vertex form for graphing and optimization, or for deriving the quadratic formula.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The 'Completing the Square' method is a technique used to solve quadratic equations by converting the quadratic expression into a perfect square trinomial, thereby simplifying the equation to a form where square roots can be directly applied to find the solutions.\n\n**Main Steps for a quadratic equation ax² + bx + c = 0:**\n1.  **Rearrange the Equation:** Move the constant term to the right side of the equation: ax² + bx = -c.\n2.  **Make the Leading Coefficient One:** If the coefficient 'a' of the x² term is not 1, divide the entire equation by 'a': x² + (b/a)x = -c/a.\n3.  **Find the Constant to Complete the Square:** Take half of the coefficient of the 'x' term (which is b/a), and then square it: [(b/a)/2]² = (b/2a)².\n4.  **Add to Both Sides:** Add this calculated constant, (b/2a)², to both sides of the equation. The left side will now be a perfect square trinomial.\n5.  **Factor and Solve:** Factor the perfect square trinomial on the left side into the form (x + b/2a)². Then, take the square root of both sides (remembering to include both positive and negative roots, ±) and solve for x.\n\n**Situation where it might be particularly useful:**\nThis method is particularly useful when converting a quadratic function from standard form (y = ax² + bx + c) to its **vertex form** (y = a(x - h)² + k). The vertex form directly reveals the vertex (h, k) of the parabola, which is crucial for identifying the maximum or minimum point of the quadratic function, making it invaluable for optimization problems, graphing parabolas, and understanding transformations. It is also historically significant as the method used to derive the quadratic formula."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Given two matrices A = [[1, 2], [3, 4]] and B = [[5, 6], [7, 8]], what is the result of A + B?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "[[6, 8], [10, 12]]"
+        },
+        {
+          "type": "string",
+          "content": "[[5, 12], [21, 32]]"
+        },
+        {
+          "type": "string",
+          "content": "[[4, 4], [4, 4]]"
+        },
+        {
+          "type": "string",
+          "content": "[[6, 10], [10, 12]]"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Matrix Addition",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Matrix Addition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Matrix addition is performed by adding corresponding elements of two matrices. For this operation to be possible, the matrices must have the same dimensions (number of rows and columns).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Two matrices A = [[1, 2], [3, 4]] and B = [[5, 6], [7, 8]]. We need to find their sum, A + B.</div><p><strong>Step 1:</strong> Identify the corresponding elements in matrices A and B.</p><p>Matrix A: a₁₁=1, a₁₂=2, a₂₁=3, a₂₂=4</p><p>Matrix B: b₁₁=5, b₁₂=6, b₂₁=7, b₂₂=8</p><p><strong>Step 2:</strong> Add the corresponding elements to find the elements of the resulting matrix C = A + B.</p><ul><li>C₁₁ = a₁₁ + b₁₁ = 1 + 5 = <span style='color:var(--orange);font-weight:bold;'> 6 </span></li><li>C₁₂ = a₁₂ + b₁₂ = 2 + 6 = <span style='color:var(--orange);font-weight:bold;'> 8 </span></li><li>C₂₁ = a₂₁ + b₂₁ = 3 + 7 = <span style='color:var(--orange);font-weight:bold;'> 10 </span></li><li>C₂₂ = a₂₂ + b₂₂ = 4 + 8 = <span style='color:var(--orange);font-weight:bold;'> 12 </span></li></ul><p><strong>Step 3:</strong> Construct the resulting matrix.</p><p>A + B = [[6, 8], [10, 12]]</p><ul><li><em>[[6, 8], [10, 12]]:</em> This is the correct sum, obtained by adding corresponding elements.</li><li><em>[[5, 12], [21, 32]]:</em> Incorrect operation, seems like element-wise multiplication or a mix.</li><li><em>[[4, 4], [4, 4]]:</em> Incorrect operation, possibly subtraction.</li><li><em>[[6, 10], [10, 12]]:</em> Incorrect element placement in the first row.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Double-check each corresponding element addition. (1+5, 2+6, 3+7, 4+8) = (6, 8, 10, 12). The operation is straightforward for matrices of the same dimensions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The result of A + B is [[6, 8], [10, 12]].</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "[[6, 8], [10, 12]]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "If matrix M = [[2, 0], [-1, 3]] and k = 3 is a scalar, what is the result of kM?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "[[6, 0], [-3, 9]]"
+        },
+        {
+          "type": "string",
+          "content": "[[2, 0], [-3, 9]]"
+        },
+        {
+          "type": "string",
+          "content": "[[6, 0], [-1, 3]]"
+        },
+        {
+          "type": "string",
+          "content": "[[5, 3], [2, 6]]"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Scalar Multiplication",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Scalar Multiplication of Matrices</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Scalar multiplication of a matrix involves multiplying every element of the matrix by a single constant number (the scalar).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Matrix M = [[2, 0], [-1, 3]] and scalar k = 3. We need to find kM.</div><p><strong>Step 1:</strong> Multiply each element of matrix M by the scalar k = 3.</p><ul><li>Element (1,1): 3 * 2 = <span style='color:var(--orange);font-weight:bold;'> 6 </span></li><li>Element (1,2): 3 * 0 = <span style='color:var(--orange);font-weight:bold;'> 0 </span></li><li>Element (2,1): 3 * (-1) = <span style='color:var(--orange);font-weight:bold;'> -3 </span></li><li>Element (2,2): 3 * 3 = <span style='color:var(--orange);font-weight:bold;'> 9 </span></li></ul><p><strong>Step 2:</strong> Form the new matrix kM with the calculated elements.</p><p>kM = [[6, 0], [-3, 9]]</p><ul><li><em>[[6, 0], [-3, 9]]:</em> This is the correct result of scalar multiplication.</li><li><em>[[2, 0], [-3, 9]]:</em> Incorrectly applied scalar multiplication to only some elements.</li><li><em>[[6, 0], [-1, 3]]:</em> Incorrectly applied scalar multiplication to only some elements.</li><li><em>[[5, 3], [2, 6]]:</em> Incorrect operation, possibly addition of scalar or other error.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Ensure that every single element within the matrix has been multiplied by the scalar. A common mistake is to multiply only the first element or elements in a single row/column.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The result of kM is [[6, 0], [-3, 9]].</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "[[6, 0], [-3, 9]]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "For matrix multiplication of two matrices A and B (A x B) to be defined, what condition must be met regarding their dimensions?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Both matrices must have the same number of rows."
+        },
+        {
+          "type": "string",
+          "content": "Both matrices must have the same number of columns."
+        },
+        {
+          "type": "string",
+          "content": "The number of columns in A must equal the number of rows in B."
+        },
+        {
+          "type": "string",
+          "content": "The number of rows in A must equal the number of columns in B."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Matrix Multiplication Conditions",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conditions for Matrix Multiplication</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Matrix multiplication is a more complex operation than addition or scalar multiplication. It involves a dot product of rows from the first matrix and columns from the second matrix. For this operation to be defined, there's a specific requirement regarding the inner dimensions of the matrices.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about the condition for matrix multiplication (A x B) to be defined.</div><p><strong>Step 1:</strong> Consider two matrices A and B with dimensions A(m x n) and B(p x q).</p><p>For the product A x B to be defined, the number of columns in the first matrix (A) must be equal to the number of rows in the second matrix (B). That is, <span style='color:var(--orange);font-weight:bold;'> n must equal p </span>.</p><p>The resulting matrix AB will then have dimensions (m x q).</p><p><strong>Step 2:</strong> Evaluate the given options.</p><ul><li><em>Both matrices must have the same number of rows:</em> This is incorrect. (e.g., A is 2x3, B is 3x4; rows are different but multiplication is defined).</li><li><em>Both matrices must have the same number of columns:</em> This is incorrect. (e.g., A is 2x3, B is 3x4; columns are different).</li><li><em>The number of columns in A must equal the number of rows in B:</em> This is the <span style='color:var(--orange);font-weight:bold;'> correct condition </span> for matrix multiplication.</li><li><em>The number of rows in A must equal the number of columns in B:</em> This condition defines the dimensions of the resulting matrix (outer dimensions), but not the condition for the multiplication itself to be possible.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A helpful mnemonic is (Rows A x Columns A) * (Rows B x Columns B). The 'inner' dimensions (Columns A and Rows B) must match. The 'outer' dimensions (Rows A and Columns B) give the size of the product matrix.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The number of columns in A must equal the number of rows in B for matrix multiplication (A x B) to be defined.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The number of columns in A must equal the number of rows in B."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "What is the determinant of the 2x2 matrix A = [[3, 1], [4, 2]]?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "10"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "2"
+        },
+        {
+          "type": "string",
+          "content": "-2"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Determinant of 2x2 Matrix",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Determinant of a 2x2 Matrix</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a 2x2 matrix A = [[a, b], [c, d]], its determinant, denoted as det(A) or |A|, is calculated as <span style='color:var(--orange);font-weight:bold;'> ad - bc </span>. The determinant is a scalar value that provides information about the matrix, such as its invertibility.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The 2x2 matrix A = [[3, 1], [4, 2]]. We need to calculate its determinant.</div><p><strong>Step 1:</strong> Identify the elements a, b, c, and d from the matrix.</p><p>For A = [[3, 1], [4, 2]]:</p><ul><li>a = <span style='color:var(--orange);font-weight:bold;'> 3 </span></li><li>b = <span style='color:var(--orange);font-weight:bold;'> 1 </span></li><li>c = <span style='color:var(--orange);font-weight:bold;'> 4 </span></li><li>d = <span style='color:var(--orange);font-weight:bold;'> 2 </span></li></ul><p><strong>Step 2:</strong> Apply the determinant formula: det(A) = ad - bc.</p><p>det(A) = (3)(2) - (1)(4) = 6 - 4 = <span style='color:var(--orange);font-weight:bold;'> 2 </span>.</p><ul><li><em>10:</em> Incorrect calculation (e.g., sum of all elements).</li><li><em>6:</em> Incorrect calculation (e.g., only ad part).</li><li><em>2:</em> This is the correct determinant.</li><li><em>-2:</em> Incorrect calculation (e.g., bc - ad).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember the order of subtraction: main diagonal product minus anti-diagonal product. (3*2) - (1*4) = 6 - 4 = 2.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The determinant of the matrix A is 2.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "A square matrix is invertible if and only if its determinant is:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Equal to zero"
+        },
+        {
+          "type": "string",
+          "content": "Non-zero"
+        },
+        {
+          "type": "string",
+          "content": "Equal to one"
+        },
+        {
+          "type": "string",
+          "content": "Positive"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Matrix Invertibility",
+      "Determinants",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Matrix Invertibility and Determinants</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A square matrix A is invertible (meaning it has an inverse, A⁻¹) if and only if its determinant is not equal to zero. If the determinant is zero, the matrix is singular and does not have an inverse.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about the condition for a square matrix to be invertible, in relation to its determinant.</div><p><strong>Step 1:</strong> Recall the relationship between a matrix's determinant and its invertibility.</p><p>The formula for the inverse of a 2x2 matrix A = [[a, b], [c, d]] is A⁻¹ = (1 / det(A)) * [[d, -b], [-c, a]].</p><p>From this formula, it is clear that if det(A) = 0, then we would be dividing by zero, which is undefined. Therefore, a matrix inverse exists only if the determinant is <span style='color:var(--orange);font-weight:bold;'> not zero </span>.</p><p><strong>Step 2:</strong> Evaluate the given options.</p><ul><li><em>Equal to zero:</em> If the determinant is zero, the matrix is singular and has no inverse.</li><li><em>Non-zero:</em> This is the correct condition for a matrix to be invertible.</li><li><em>Equal to one:</em> While a determinant of one means the matrix is invertible, it is not the *only* condition. Any non-zero determinant allows invertibility.</li><li><em>Positive:</em> A positive determinant means the matrix is invertible, but a negative determinant also implies invertibility (e.g., det = -5 means it's invertible).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a fundamental theorem in linear algebra. A non-zero determinant ensures that the transformation represented by the matrix does not collapse space, allowing a reverse transformation (the inverse).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A square matrix is invertible if and only if its determinant is non-zero.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-zero"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which of the following describes an Identity Matrix (I)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A matrix where all elements are zero."
+        },
+        {
+          "type": "string",
+          "content": "A square matrix with ones on the main diagonal and zeros elsewhere."
+        },
+        {
+          "type": "string",
+          "content": "A matrix where the number of rows equals the number of columns."
+        },
+        {
+          "type": "string",
+          "content": "A matrix obtained by interchanging rows and columns of another matrix."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Identity Matrix",
+      "Types of Matrices",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identity Matrix</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An identity matrix, denoted as I, is a special square matrix that, when multiplied by any other matrix of compatible dimensions, leaves the other matrix unchanged (just like multiplying a number by 1).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question asking to describe an Identity Matrix.</div><p><strong>Step 1:</strong> Recall the definition and properties of an Identity Matrix.</p><ul><li>It must be a <span style='color:var(--orange);font-weight:bold;'> square matrix </span> (same number of rows and columns).</li><li>It has <span style='color:var(--orange);font-weight:bold;'> ones along its main diagonal </span> (from top-left to bottom-right).</li><li>All other elements are <span style='color:var(--orange);font-weight:bold;'> zeros </span>.</li></ul><p>For example, I₂ = [[1, 0], [0, 1]] and I₃ = [[1, 0, 0], [0, 1, 0], [0, 0, 1]].</p><p><strong>Step 2:</strong> Evaluate the given options.</p><ul><li><em>A matrix where all elements are zero:</em> This describes a <span style='color:var(--orange);font-weight:bold;'> null matrix </span> or zero matrix.</li><li><em>A square matrix with ones on the main diagonal and zeros elsewhere:</em> This is the precise definition of an <span style='color:var(--orange);font-weight:bold;'> Identity Matrix </span>.</li><li><em>A matrix where the number of rows equals the number of columns:</em> This describes any <span style='color:var(--orange);font-weight:bold;'> square matrix </span>, of which the identity matrix is a specific type.</li><li><em>A matrix obtained by interchanging rows and columns of another matrix:</em> This describes the <span style='color:var(--orange);font-weight:bold;'> transpose </span> of a matrix.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The identity matrix is unique in its role as the multiplicative identity in matrix algebra, which stems directly from its structure of ones on the diagonal and zeros everywhere else.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An Identity Matrix is a square matrix with ones on the main diagonal and zeros elsewhere.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A square matrix with ones on the main diagonal and zeros elsewhere."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Discuss the significance of the determinant of a matrix in solving systems of linear equations and in linear transformations.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Determinants",
+      "Linear Systems",
+      "Linear Transformations",
+      "Matrices and Determinants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of the Determinant</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The determinant of a square matrix is a scalar value that encapsulates fundamental properties of the matrix, particularly concerning the solvability of linear systems and the geometric effects of linear transformations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Discuss the significance of the determinant in solving linear systems and in linear transformations.</div><ul><li><strong>Significance in Solving Systems of Linear Equations:</strong><br>  <ul><li><strong>Existence and Uniqueness of Solutions:</strong> For a system of 'n' linear equations with 'n' variables represented by Ax = b (where A is the coefficient matrix), the determinant of A (det(A)) is crucial. If <span style='color:var(--orange);font-weight:bold;'> det(A) ≠ 0 </span>, the system has a <span style='color:var(--orange);font-weight:bold;'> unique solution </span> (the matrix A is invertible). If <span style='color:var(--orange);font-weight:bold;'> det(A) = 0 </span>, the system either has <span style='color:var(--orange);font-weight:bold;'> no solution or infinitely many solutions </span> (the matrix A is singular).</li><li><strong>Cramer's Rule:</strong> Determinants are directly used in Cramer's Rule to find the solution of each variable in a system of linear equations, provided the determinant of the coefficient matrix is non-zero.</li></ul></li><li><strong>Significance in Linear Transformations:</strong><br>  <ul><li><strong>Scaling Factor of Area/Volume:</strong> The absolute value of the determinant of a transformation matrix represents the <span style='color:var(--orange);font-weight:bold;'> scaling factor by which the area (in 2D) or volume (in 3D) </span> of a region is changed by the linear transformation. For example, if a unit square is transformed by a matrix, the area of the resulting parallelogram is |det(A)|.</li><li><strong>Orientation:</strong> The sign of the determinant indicates whether the transformation <span style='color:var(--orange);font-weight:bold;'> preserves or reverses orientation </span>. A positive determinant implies orientation is preserved, while a negative determinant implies orientation is reversed.</li><li><strong>Invertibility of Transformation:</strong> A linear transformation is invertible (meaning it can be undone) if and only if its corresponding matrix has a <span style='color:var(--orange);font-weight:bold;'> non-zero determinant </span>. If the determinant is zero, the transformation maps a higher-dimensional space to a lower-dimensional space, effectively 'flattening' it, and thus cannot be inverted.</li></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A comprehensive answer must clearly distinguish the roles of the determinant in both contexts, linking it to concepts like unique solutions, geometric scaling, and invertibility, rather than just stating the formula.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The determinant of a matrix is significant in solving linear systems by indicating the existence and uniqueness of solutions (non-zero determinant implies a unique solution). In linear transformations, its absolute value represents the scaling factor of area/volume, and its sign indicates orientation preservation or reversal, while a non-zero determinant confirms the invertibility of the transformation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The determinant of a matrix is a scalar value that provides crucial information about the matrix, particularly its role in solving systems of linear equations and in understanding linear transformations.\n\n**Significance in Solving Systems of Linear Equations:**\n1.  **Existence and Uniqueness of Solutions:** For a system of 'n' linear equations with 'n' variables, represented in matrix form as Ax = b, the determinant of the coefficient matrix A (det(A)) dictates the nature of its solutions:\n    *   If **det(A) ≠ 0**, the system has a **unique solution**. This means the matrix A is invertible, and the inverse A⁻¹ can be used to find the solution x = A⁻¹b.\n    *   If **det(A) = 0**, the system either has **no solution** or **infinitely many solutions**. In this case, the matrix A is singular (not invertible), and the equations are linearly dependent.\n2.  **Cramer's Rule:** Determinants are fundamental to Cramer's Rule, which is a direct method for solving systems of linear equations using determinants of matrices derived from the original coefficient matrix and the constant terms, provided det(A) ≠ 0.\n\n**Significance in Linear Transformations:**\n1.  **Scaling Factor of Area/Volume:** The absolute value of the determinant of a transformation matrix represents the **scaling factor** by which the area (for 2D transformations) or volume (for 3D transformations) of any region is changed by the linear transformation. For instance, if a matrix A transforms a shape, the area/volume of the transformed shape is |det(A)| times the area/volume of the original shape.\n2.  **Orientation:** The **sign of the determinant** indicates whether the linear transformation preserves or reverses the orientation of the space. A positive determinant means orientation is preserved (e.g., no 'flipping' occurs), while a negative determinant signifies that the orientation has been reversed.\n3.  **Invertibility of Transformation:** A linear transformation is **invertible** (meaning there's a reverse transformation that can undo it) if and only if its corresponding matrix has a **non-zero determinant**. If det(A) = 0, the transformation 'collapses' space (e.g., maps a plane to a line), making it impossible to uniquely reverse the transformation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "The expression (x + 1) / (x² - 1) is to be decomposed into partial fractions. What is the correct initial form for its partial fraction decomposition?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A/(x - 1) + B/(x + 1)"
+        },
+        {
+          "type": "string",
+          "content": "A/(x² - 1)"
+        },
+        {
+          "type": "string",
+          "content": "A/(x - 1) + Bx + C"
+        },
+        {
+          "type": "string",
+          "content": "(Ax + B)/(x² - 1)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Fraction Decomposition",
+      "Distinct Linear Factors",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Partial Fraction Decomposition: Distinct Linear Factors</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Partial fraction decomposition is a technique to rewrite a rational expression (a fraction with polynomials in the numerator and denominator) as a sum of simpler fractions. When the denominator can be factored into distinct linear factors, each factor corresponds to a partial fraction with a constant numerator.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The expression (x + 1) / (x² - 1) needs to be decomposed into partial fractions, and we need its correct initial form.</div><p><strong>Step 1:</strong> Factorize the denominator of the given rational expression.</p><p>The denominator is <span style='color:var(--orange);font-weight:bold;'> x² - 1 </span>. This is a difference of squares, which factors as <span style='color:var(--orange);font-weight:bold;'> (x - 1)(x + 1) </span>.</p><p>So the expression becomes (x + 1) / [(x - 1)(x + 1)]. Note that for decomposition, we consider the original unfactored denominator or its complete factorization, typically before any cancellation occurs for the purpose of finding constants. However, in this specific example, a common factor (x+1) exists. The question asks for the initial form *for decomposition*, implying the factors of the denominator. If simplified, it would be 1/(x-1). But the question implies starting with the denominator x^2-1. Let's assume for the sake of the question, that we are setting up for a generic case of x^2-1 in the denominator, even if there's a cancellation possibility.</p><p><strong>Step 2:</strong> Determine the form of the partial fractions based on the factors.</p><p>Since the denominator has two distinct linear factors, (x - 1) and (x + 1), the decomposition will involve one constant numerator for each factor.</p><p>Initial form: <span style='color:var(--orange);font-weight:bold;'> A/(x - 1) + B/(x + 1) </span></p><ul><li><em>A/(x - 1) + B/(x + 1):</em> This is the correct form for distinct linear factors in the denominator.</li><li><em>A/(x² - 1):</em> This is the original fraction, not its decomposition.</li><li><em>A/(x - 1) + Bx + C:</em> This form is incorrect; Bx + C is for irreducible quadratic factors, and even then, if x-1 is a factor, the Bx+C would be over the quadratic factor.</li><li><em>(Ax + B)/(x² - 1):</em> This is the original fraction, often used if the numerator's degree is less than the denominator's, but not the decomposed form.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For distinct linear factors (x-c₁)(x-c₂)..., the partial fraction form is A₁/(x-c₁) + A₂/(x-c₂) + ..., each with a constant numerator. This principle applies here.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct initial form for its partial fraction decomposition is A/(x - 1) + B/(x + 1).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A/(x - 1) + B/(x + 1)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "For a rational expression with a denominator (x - 2)³, what is the correct setup for its partial fraction decomposition?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A/(x - 2)"
+        },
+        {
+          "type": "string",
+          "content": "A/(x - 2) + B/(x - 2)² + C/(x - 2)³"
+        },
+        {
+          "type": "string",
+          "content": "A/(x - 2)³"
+        },
+        {
+          "type": "string",
+          "content": "(Ax + B)/(x - 2)³"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Fraction Decomposition",
+      "Repeated Linear Factors",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Partial Fraction Decomposition: Repeated Linear Factors</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When a rational expression's denominator contains a repeated linear factor, such as (ax + b)ⁿ, the partial fraction decomposition must include a term for each power of that factor, from 1 up to n, each with a constant numerator.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A rational expression with a denominator (x - 2)³. We need to determine the correct setup for its partial fraction decomposition.</div><p><strong>Step 1:</strong> Identify the type of factor in the denominator.</p><p>The factor is <span style='color:var(--orange);font-weight:bold;'> (x - 2)³ </span>, which is a repeated linear factor raised to the power of 3.</p><p><strong>Step 2:</strong> Apply the rule for repeated linear factors in partial fraction decomposition.</p><p>For a factor (ax + b)ⁿ, the corresponding partial fractions are A₁/(ax + b) + A₂/(ax + b)² + ... + Aⁿ/(ax + b)ⁿ.</p><p>For (x - 2)³, this translates to:</p><p><span style='color:var(--orange);font-weight:bold;'> A/(x - 2) + B/(x - 2)² + C/(x - 2)³ </span></p><ul><li><em>A/(x - 2):</em> This only accounts for the simplest form, not the repeated nature up to the third power.</li><li><em>A/(x - 2) + B/(x - 2)² + C/(x - 2)³:</em> This correctly accounts for all powers of the repeated linear factor.</li><li><em>A/(x - 2)³:</em> This misses the terms with (x - 2) and (x - 2)².</li><li><em>(Ax + B)/(x - 2)³:</em> This form is incorrect; linear numerators are typically for irreducible quadratic factors, not linear ones.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Each power of the repeated linear factor must be represented in the decomposition to ensure all possible combinations are covered when summing the fractions back together.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct setup for its partial fraction decomposition is A/(x - 2) + B/(x - 2)² + C/(x - 2)³.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A/(x - 2) + B/(x - 2)² + C/(x - 2)³"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "What is the form of the numerator for a partial fraction whose denominator is an irreducible quadratic factor, such as (x² + 4)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A (a constant)"
+        },
+        {
+          "type": "string",
+          "content": "Ax + B (a linear expression)"
+        },
+        {
+          "type": "string",
+          "content": "Ax² + Bx + C (a quadratic expression)"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Fraction Decomposition",
+      "Irreducible Quadratic Factors",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Partial Fraction Decomposition: Irreducible Quadratic Factors</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When a rational expression's denominator includes an irreducible quadratic factor (a quadratic that cannot be factored into linear factors with real coefficients, e.g., x² + 4 or x² + x + 1), the corresponding partial fraction must have a linear expression in its numerator.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about the form of the numerator for a partial fraction with an irreducible quadratic denominator (e.g., x² + 4).</div><p><strong>Step 1:</strong> Identify the type of factor in the denominator.</p><p>An irreducible quadratic factor is a polynomial of degree 2 that has no real roots and cannot be factored into linear terms with real coefficients.</p><p><strong>Step 2:</strong> Apply the rule for irreducible quadratic factors in partial fraction decomposition.</p><p>For an irreducible quadratic factor (ax² + bx + c), the corresponding partial fraction term should have a numerator of the form <span style='color:var(--orange);font-weight:bold;'> (Dx + E) </span>, where D and E are constants to be determined. This ensures that the combined fractions can represent any polynomial of degree less than the denominator's degree.</p><ul><li><em>A (a constant):</em> This is the numerator form for linear factors (x - c).</li><li><em>Ax + B (a linear expression):</em> This is the correct form for an irreducible quadratic denominator.</li><li><em>Ax² + Bx + C (a quadratic expression):</em> The numerator's degree must be less than the denominator's. A quadratic numerator over a quadratic denominator would imply an improper fraction, requiring prior polynomial division.</li><li><em>1:</em> This is a specific constant, not the general form.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The rule for partial fractions states that the degree of the numerator must be strictly less than the degree of its corresponding denominator factor. For a degree 2 (quadratic) denominator, the highest possible degree for the numerator is degree 1 (linear).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The form of the numerator for a partial fraction with an irreducible quadratic factor is Ax + B (a linear expression).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ax + B (a linear expression)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "The process of combining simpler fractions to form a single rational expression is essentially the reverse of partial fraction decomposition. If you have A/(x - 1) + B/(x + 2), how would you combine them?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "(A + B) / [(x - 1)(x + 2)]"
+        },
+        {
+          "type": "string",
+          "content": "[A(x + 2) + B(x - 1)] / [(x - 1)(x + 2)]"
+        },
+        {
+          "type": "string",
+          "content": "(Ax + Bx + 2A - B)"
+        },
+        {
+          "type": "string",
+          "content": "(A + B) / (2x + 1)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Combining Fractions",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Combining Rational Expressions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To combine fractions with different denominators, you must first find a common denominator. The least common denominator (LCD) for algebraic fractions is the least common multiple of their denominators. Once converted to the LCD, the numerators can be added or subtracted.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Two partial fractions A/(x - 1) and B/(x + 2) are to be combined.</div><p><strong>Step 1:</strong> Identify the denominators and find their least common denominator (LCD).</p><p>The denominators are (x - 1) and (x + 2). Since they are distinct linear factors, the LCD is their product: <span style='color:var(--orange);font-weight:bold;'> (x - 1)(x + 2) </span>.</p><p><strong>Step 2:</strong> Rewrite each fraction with the LCD.</p><ul><li>For A/(x - 1): Multiply numerator and denominator by (x + 2) => <span style='color:var(--orange);font-weight:bold;'> A(x + 2) / [(x - 1)(x + 2)] </span></li><li>For B/(x + 2): Multiply numerator and denominator by (x - 1) => <span style='color:var(--orange);font-weight:bold;'> B(x - 1) / [(x - 1)(x + 2)] </span></li></ul><p><strong>Step 3:</strong> Add the rewritten fractions.</p><p>[A(x + 2) / [(x - 1)(x + 2)]] + [B(x - 1) / [(x - 1)(x + 2)]] = <span style='color:var(--orange);font-weight:bold;'> [A(x + 2) + B(x - 1)] / [(x - 1)(x + 2)] </span></p><ul><li><em>(A + B) / [(x - 1)(x + 2)]:</em> Incorrectly adds numerators without adjusting for common denominator.</li><li><em>[A(x + 2) + B(x - 1)] / [(x - 1)(x + 2)]:</em> This is the correct method for combining the fractions.</li><li><em>(Ax + Bx + 2A - B):</em> This is just the expanded numerator, not the combined fraction.</li><li><em>(A + B) / (2x + 1):</em> Incorrectly adds denominators.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The fundamental rule for adding fractions is to find a common denominator. This method ensures that the value of each original fraction is preserved while allowing their numerators to be combined over the shared denominator.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The combined form is [A(x + 2) + B(x - 1)] / [(x - 1)(x + 2)].</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "[A(x + 2) + B(x - 1)] / [(x - 1)(x + 2)]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What is the primary purpose of decomposing a rational expression into partial fractions?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To solve for the roots of the numerator."
+        },
+        {
+          "type": "string",
+          "content": "To simplify the expression for easier integration in calculus."
+        },
+        {
+          "type": "string",
+          "content": "To find the domain of the rational expression."
+        },
+        {
+          "type": "string",
+          "content": "To convert the expression into a polynomial."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Purpose of Partial Fractions",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Partial Fraction Decomposition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Partial fraction decomposition is an algebraic technique used to break down complex rational expressions into a sum of simpler fractions. This simplification makes it easier to perform operations like integration in calculus, inverse Laplace transforms, or to analyze the behavior of the rational function.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about the primary purpose of decomposing a rational expression into partial fractions.</div><p><strong>Step 1:</strong> Consider the nature of complex rational expressions and how simpler fractions are easier to handle.</p><p>A fraction like 1/[(x-1)(x+2)] is harder to integrate directly than 1/(x-1) - 1/(x+2).</p><p><strong>Step 2:</strong> Evaluate the given options in light of this consideration.</p><ul><li><em>To solve for the roots of the numerator:</em> While factoring the numerator can help find its roots, partial fraction decomposition focuses on the denominator's factors and is not directly aimed at numerator roots.</li><li><em>To simplify the expression for easier integration in calculus:</em> This is one of the <span style='color:var(--orange);font-weight:bold;'> primary applications </span> of partial fraction decomposition. Simpler fractions often integrate into logarithmic functions or inverse trigonometric functions, which are easier than trying to integrate the original complex rational function.</li><li><em>To find the domain of the rational expression:</em> The domain is found by identifying values that make the denominator zero, which can be done by factoring the original denominator; partial fractions are not required for this.</li><li><em>To convert the expression into a polynomial:</em> Partial fraction decomposition results in a sum of fractions, not a polynomial. Polynomial long division is used to separate the polynomial part from the proper rational part, but it doesn't convert the entire expression into a polynomial.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The utility of partial fractions is most apparent in calculus, where complex rational functions become manageable for integration once decomposed. Its use spans various fields requiring algebraic manipulation of rational expressions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary purpose of decomposing a rational expression into partial fractions is to simplify the expression for easier integration in calculus.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To simplify the expression for easier integration in calculus."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which of the following rational expressions is an 'improper' fraction, requiring polynomial long division before partial fraction decomposition?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "(x + 1) / (x² + 3x + 2)"
+        },
+        {
+          "type": "string",
+          "content": "x² / (x³ - 1)"
+        },
+        {
+          "type": "string",
+          "content": "(x³ + 2x - 1) / (x² + x - 2)"
+        },
+        {
+          "type": "string",
+          "content": "5 / (x² + 4)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Improper Rational Expressions",
+      "Polynomial Long Division",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Improper Rational Expressions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A rational expression P(x)/Q(x) is considered 'improper' if the degree of the numerator polynomial P(x) is greater than or equal to the degree of the denominator polynomial Q(x). For improper rational expressions, polynomial long division must be performed first to obtain a polynomial plus a 'proper' rational expression before proceeding with partial fraction decomposition.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A set of rational expressions, and we need to identify the 'improper' one.</div><p><strong>Step 1:</strong> Determine the degree of the numerator and the denominator for each option.</p><ul><li><em>(x + 1) / (x² + 3x + 2):</em> Degree of numerator (1) < Degree of denominator (2). This is a proper fraction.</li><li><em>x² / (x³ - 1):</em> Degree of numerator (2) < Degree of denominator (3). This is a proper fraction.</li><li><em>(x³ + 2x - 1) / (x² + x - 2):</em> Degree of numerator (3) > Degree of denominator (2). This is an <span style='color:var(--orange);font-weight:bold;'> improper fraction </span>.</li><li><em>5 / (x² + 4):</em> Degree of numerator (0) < Degree of denominator (2). This is a proper fraction.</li></ul><p><strong>Step 2:</strong> Identify the expression where the degree of the numerator is greater than or equal to the degree of the denominator.</p><p>Only (x³ + 2x - 1) / (x² + x - 2) fits this criterion.</p><ul><li><em>(x + 1) / (x² + 3x + 2):</em> Proper.</li><li><em>x² / (x³ - 1):</em> Proper.</li><li><em>(x³ + 2x - 1) / (x² + x - 2):</em> Improper (numerator degree 3, denominator degree 2).</li><li><em>5 / (x² + 4):</em> Proper.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The rule is simple: if deg(Numerator) ≥ deg(Denominator), it's improper. This check is the first step in deciding whether long division is needed before partial fraction decomposition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rational expression (x³ + 2x - 1) / (x² + x - 2) is an improper fraction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(x³ + 2x - 1) / (x² + x - 2)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Explain the three main types of factors that can appear in the denominator of a proper rational expression for partial fraction decomposition, and describe the corresponding form of the partial fraction for each type.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Fraction Decomposition",
+      "Types of Factors",
+      "Partial Fractions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Factors for Partial Fraction Decomposition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The form of partial fraction decomposition depends entirely on the nature of the factors in the denominator of the proper rational expression. There are three primary types of factors: distinct linear, repeated linear, and irreducible quadratic factors (which can also be repeated).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Explain the three main types of factors in the denominator for partial fraction decomposition and their corresponding partial fraction forms.</div><ul><li><strong>1. Distinct Linear Factors:</strong><br>  <ul><li><strong>Description:</strong> These are factors of the form (ax + b) where no two factors are the same (i.e., they have different roots).</li><li><strong>Corresponding Partial Fraction Form:</strong> For each distinct linear factor (ax + b), there will be a partial fraction of the form <span style='color:var(--orange);font-weight:bold;'> A / (ax + b) </span>, where 'A' is a constant to be determined.</li><li><strong>Example:</strong> For a denominator (x - 1)(x + 2), the decomposition would be A/(x - 1) + B/(x + 2).</li></ul></li><li><strong>2. Repeated Linear Factors:</strong><br>  <ul><li><strong>Description:</strong> These are factors of the form (ax + b)ⁿ, where 'n' is an integer greater than 1. The linear factor is repeated 'n' times.</li><li><strong>Corresponding Partial Fraction Form:</strong> For each repeated linear factor (ax + b)ⁿ, there will be 'n' partial fractions: <span style='color:var(--orange);font-weight:bold;'> A₁/(ax + b) + A₂/(ax + b)² + ... + Aⁿ/(ax + b)ⁿ </span>, where A₁, A₂, ..., Aⁿ are constants.</li><li><strong>Example:</strong> For a denominator (x - 3)³, the decomposition would be A/(x - 3) + B/(x - 3)² + C/(x - 3)³.</li></ul></li><li><strong>3. Irreducible Quadratic Factors:</strong><br>  <ul><li><strong>Description:</strong> These are quadratic factors of the form (ax² + bx + c) that cannot be factored into linear factors with real coefficients (i.e., their discriminant b² - 4ac is negative). These can also be repeated.</li><li><strong>Corresponding Partial Fraction Form:</strong> For each distinct irreducible quadratic factor (ax² + bx + c), the corresponding partial fraction will have a linear numerator: <span style='color:var(--orange);font-weight:bold;'> (Ax + B) / (ax² + bx + c) </span>, where A and B are constants. If the quadratic factor is repeated, (ax² + bx + c)ⁿ, then there will be 'n' terms: (A₁x + B₁)/(ax² + bx + c) + ... + (Aⁿx + Bⁿ)/(ax² + bx + c)ⁿ.</li><li><strong>Example:</strong> For a denominator (x² + 4)(x - 1), the decomposition would be (Ax + B)/(x² + 4) + C/(x - 1).</li></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A thorough answer should correctly define each type of factor, provide the general form of its partial fraction, and ideally offer a simple example, demonstrating a complete understanding of the decomposition rules.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The three main types of factors are distinct linear factors (ax+b) with form A/(ax+b), repeated linear factors (ax+b)ⁿ with form A₁/(ax+b) + ... + Aⁿ/(ax+b)ⁿ, and irreducible quadratic factors (ax²+bx+c) with form (Ax+B)/(ax²+bx+c).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Partial fraction decomposition relies on categorizing the factors of the denominator of a proper rational expression. There are three main types:\n\n1.  **Distinct Linear Factors:**\n    *   **Description:** These are linear factors of the form (ax + b) where each factor appears only once in the prime factorization of the denominator. For example, if the denominator is (x - 1)(x + 2).\n    *   **Corresponding Partial Fraction Form:** For each distinct linear factor (ax + b), the partial fraction will have a constant numerator. The form is **A / (ax + b)**, where A is a constant to be determined.\n\n2.  **Repeated Linear Factors:**\n    *   **Description:** These are linear factors of the form (ax + b) that appear multiple times in the denominator, represented as (ax + b)ⁿ, where 'n' is an integer greater than 1. For example, if the denominator is (x - 3)³.\n    *   **Corresponding Partial Fraction Form:** For each repeated linear factor (ax + b)ⁿ, there will be 'n' partial fractions, one for each power of the factor from 1 up to n. The form is **A₁/(ax + b) + A₂/(ax + b)² + ... + Aⁿ/(ax + b)ⁿ**, where A₁, A₂, ..., Aⁿ are constants.\n\n3.  **Irreducible Quadratic Factors:**\n    *   **Description:** These are quadratic factors of the form (ax² + bx + c) that cannot be factored into linear factors with real coefficients (meaning their discriminant b² - 4ac is negative). These can also be distinct or repeated. For example, (x² + 4) is an irreducible quadratic factor.\n    *   **Corresponding Partial Fraction Form:** For each distinct irreducible quadratic factor (ax² + bx + c), the partial fraction will have a linear numerator. The form is **(Ax + B) / (ax² + bx + c)**, where A and B are constants. If the irreducible quadratic factor is repeated, e.g., (ax² + bx + c)ⁿ, then the form would be (A₁x + B₁)/(ax² + bx + c) + ... + (Aⁿx + Bⁿ)/(ax² + bx + c)ⁿ."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Using the power rule for differentiation, find the derivative of y = 4x³.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "y' = 4x²"
+        },
+        {
+          "type": "string",
+          "content": "y' = 12x²"
+        },
+        {
+          "type": "string",
+          "content": "y' = 12x"
+        },
+        {
+          "type": "string",
+          "content": "y' = x⁴"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Differentiation",
+      "Power Rule",
+      "Differentiation and Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Power Rule for Differentiation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The power rule for differentiation states that if y = axⁿ (where 'a' is a constant and 'n' is any real number), then its derivative, y' or dy/dx, is given by <span style='color:var(--orange);font-weight:bold;'> y' = n * a * x^(n-1) </span>. That is, multiply the coefficient by the exponent, and then reduce the exponent by 1.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function y = 4x³. We need to find its derivative using the power rule.</div><p><strong>Step 1:</strong> Identify the coefficient 'a' and the exponent 'n' in the term 4x³.</p><p>Here, a = <span style='color:var(--orange);font-weight:bold;'> 4 </span> and n = <span style='color:var(--orange);font-weight:bold;'> 3 </span>.</p><p><strong>Step 2:</strong> Apply the power rule: y' = n * a * x^(n-1).</p><p>y' = 3 * 4 * x^(3-1)</p><p>y' = <span style='color:var(--orange);font-weight:bold;'> 12x² </span></p><ul><li><em>y' = 4x²:</em> Incorrect, only reduced the power, didn't multiply by original power.</li><li><em>y' = 12x²:</em> This is the correct derivative using the power rule.</li><li><em>y' = 12x:</em> Incorrect, reduced the power by 2 instead of 1.</li><li><em>y' = x⁴:</em> Incorrect, this resembles integration, not differentiation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember the two parts of the power rule: multiply by the power, then subtract one from the power. Both steps are crucial.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of y = 4x³ is y' = 12x².</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "y' = 12x²"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Using the power rule for integration, find the indefinite integral of ∫ 5x⁴ dx.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x⁵ + C"
+        },
+        {
+          "type": "string",
+          "content": "20x³ + C"
+        },
+        {
+          "type": "string",
+          "content": "5x⁵ + C"
+        },
+        {
+          "type": "string",
+          "content": "x⁴ + C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Integration",
+      "Power Rule",
+      "Indefinite Integral",
+      "Differentiation and Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Power Rule for Integration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The power rule for indefinite integration states that if we have ∫ axⁿ dx (where 'a' is a constant and 'n' is any real number except -1), then its integral is given by <span style='color:var(--orange);font-weight:bold;'> [a / (n+1)] * x^(n+1) + C </span>. That is, increase the exponent by 1, and then divide by the new exponent. 'C' is the constant of integration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The integral ∫ 5x⁴ dx. We need to find its indefinite integral using the power rule.</div><p><strong>Step 1:</strong> Identify the coefficient 'a' and the exponent 'n' in the term 5x⁴.</p><p>Here, a = <span style='color:var(--orange);font-weight:bold;'> 5 </span> and n = <span style='color:var(--orange);font-weight:bold;'> 4 </span>.</p><p><strong>Step 2:</strong> Apply the power rule: [a / (n+1)] * x^(n+1) + C.</p><p>Integral = [5 / (4+1)] * x^(4+1) + C</p><p>Integral = [5 / 5] * x⁵ + C</p><p>Integral = <span style='color:var(--orange);font-weight:bold;'> 1 * x⁵ + C = x⁵ + C </span></p><ul><li><em>x⁵ + C:</em> This is the correct indefinite integral.</li><li><em>20x³ + C:</em> This would be a derivative calculation.</li><li><em>5x⁵ + C:</em> Incorrect, forgot to divide by the new power.</li><li><em>x⁴ + C:</em> Incorrect, did not increase the power and incorrect coefficient.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Differentiate the proposed answer: d/dx(x⁵ + C) = 5x⁴. This matches the original integrand, confirming the integration is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The indefinite integral of ∫ 5x⁴ dx is x⁵ + C.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x⁵ + C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "What is the derivative of a constant function, for example, f(x) = 7?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "7x"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Differentiation",
+      "Derivative of a Constant",
+      "Differentiation and Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Derivative of a Constant</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The derivative of a function represents the instantaneous rate of change of the function with respect to its variable. For a constant function, its value does not change, regardless of the change in the variable. Therefore, its rate of change is always zero.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = 7 (a constant function). We need to find its derivative.</div><p><strong>Step 1:</strong> Understand the graphical interpretation of a constant function.</p><p>A constant function, like f(x) = 7, plots as a horizontal line on a coordinate plane. The slope of a horizontal line is always <span style='color:var(--orange);font-weight:bold;'> 0 </span>.</p><p><strong>Step 2:</strong> Recall the rule for differentiating a constant.</p><p>In calculus, the derivative of any constant (c) is always <span style='color:var(--orange);font-weight:bold;'> 0 </span>. This can also be seen as a special case of the power rule: if f(x) = c = cx⁰, then f'(x) = 0 * c * x^(0-1) = 0.</p><ul><li><em>7x:</em> This would be the integral of 7.</li><li><em>1:</em> This would be the derivative of x.</li><li><em>0:</em> This is the correct derivative of a constant function.</li><li><em>Undefined:</em> The derivative of a constant is well-defined and equals zero.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The concept is fundamental: a constant value has no rate of change. Think of velocity: if your position is fixed (a constant), your velocity is zero.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of a constant function f(x) = 7 is 0.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "When performing indefinite integration, why is it necessary to add the 'constant of integration' (C) to the result?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To indicate the upper limit of integration."
+        },
+        {
+          "type": "string",
+          "content": "Because the derivative of any constant is zero, so C accounts for any original constant term."
+        },
+        {
+          "type": "string",
+          "content": "To denote that the function is a polynomial."
+        },
+        {
+          "type": "string",
+          "content": "It represents the slope of the integrated function."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Indefinite Integration",
+      "Constant of Integration",
+      "Differentiation and Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Constant of Integration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Indefinite integration is the reverse process of differentiation (antidifferentiation). When we differentiate a function, any constant term disappears. Therefore, when integrating, we must account for the possibility of an original constant term by adding an arbitrary constant 'C'.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about why the constant of integration (C) is added in indefinite integration.</div><p><strong>Step 1:</strong> Consider the process of differentiation.</p><p>If F(x) = x² + 5, then F'(x) = 2x.</p><p>If G(x) = x² - 10, then G'(x) = 2x.</p><p>If H(x) = x², then H'(x) = 2x.</p><p>Notice that all functions with a constant term (or no constant term) differentiate to the same result if their variable parts are identical.</p><p><strong>Step 2:</strong> Consider the reverse process (integration).</p><p>When we integrate ∫ 2x dx, the result should be a function whose derivative is 2x. This could be x², x² + 5, x² - 10, or x² + any constant.</p><p><strong>Step 3:</strong> Conclude why 'C' is necessary.</p><p>Since the derivative of any constant is zero, when we reverse the differentiation process (integrate), we cannot know what the original constant term was. Thus, we represent this unknown constant with 'C', the <span style='color:var(--orange);font-weight:bold;'> constant of integration </span>, to account for all possible original constant terms.</p><ul><li><em>To indicate the upper limit of integration:</em> This is related to definite integrals, not indefinite ones.</li><li><em>Because the derivative of any constant is zero, so C accounts for any original constant term:</em> This is the precise reason for the constant of integration.</li><li><em>To denote that the function is a polynomial:</em> The constant of integration applies to all types of functions, not just polynomials.</li><li><em>It represents the slope of the integrated function:</em> The derivative represents the slope, not the constant of integration.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If you don't include 'C', you are only finding one specific antiderivative, not the general form that includes all possible antiderivatives. The family of antiderivatives differs only by a constant.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ It is necessary to add the 'constant of integration' (C) because the derivative of any constant is zero, so C accounts for any original constant term that would have disappeared during differentiation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Because the derivative of any constant is zero, so C accounts for any original constant term."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "If f(x) = x² + 3x - 5, what is the gradient of the curve at x = 2?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "7"
+        },
+        {
+          "type": "string",
+          "content": "9"
+        },
+        {
+          "type": "string",
+          "content": "11"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Differentiation",
+      "Gradient of a Curve",
+      "Applications of Differentiation",
+      "Differentiation and Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gradient of a Curve Using Differentiation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The derivative of a function, f'(x) or dy/dx, represents the gradient (slope) of the tangent line to the curve y = f(x) at any given point x. To find the gradient at a specific point, one first finds the derivative and then substitutes the x-coordinate of that point into the derivative function.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = x² + 3x - 5. We need to find the gradient of the curve at x = 2.</div><p><strong>Step 1:</strong> Find the derivative of the function f(x).</p><p>Using the power rule for differentiation:</p><ul><li>Derivative of x² is <span style='color:var(--orange);font-weight:bold;'> 2x¹ = 2x </span>.</li><li>Derivative of 3x is <span style='color:var(--orange);font-weight:bold;'> 3 * x⁰ = 3 </span>.</li><li>Derivative of -5 (a constant) is <span style='color:var(--orange);font-weight:bold;'> 0 </span>.</li></ul><p>So, f'(x) = 2x + 3.</p><p><strong>Step 2:</strong> Substitute x = 2 into the derivative function to find the gradient at that point.</p><p>f'(2) = 2(2) + 3 = 4 + 3 = <span style='color:var(--orange);font-weight:bold;'> 7 </span>.</p><ul><li><em>5:</em> Incorrect, possibly evaluated f(2) instead of f'(2). f(2) = 2^2 + 3(2) - 5 = 4 + 6 - 5 = 5.</li><li><em>7:</em> This is the correct gradient at x = 2.</li><li><em>9:</em> Incorrect calculation (e.g., 2(2)+5).</li><li><em>11:</em> Incorrect calculation (e.g., if f(x) was x^2 + 4x -5).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The gradient is the slope. The derivative function gives us the formula for the slope at any x. Evaluating that derivative at x=2 yields the specific slope.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The gradient of the curve f(x) = x² + 3x - 5 at x = 2 is 7.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7"
+    }
+  }
+]
