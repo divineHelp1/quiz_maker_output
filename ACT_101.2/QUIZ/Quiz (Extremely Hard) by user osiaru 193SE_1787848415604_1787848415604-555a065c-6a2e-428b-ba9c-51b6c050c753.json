@@ -1,0 +1,657 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Introduction To Financial Accounting",
+    "code": "ACT 101.2",
+    "session": "Quiz (Extremely Hard) by user osiaru 193SE",
+    "kind": "mixed",
+    "topics": [
+      "Error Correction",
+      "Journal Entries",
+      "Errors of Principle",
+      "Suspense Account",
+      "Accruals",
+      "Non-Profit Accounting",
+      "Income and Expenditure Account",
+      "Statement of Financial Position",
+      "Incomplete Records",
+      "Drawings Calculation",
+      "Manufacturing Account",
+      "Cost of Raw Material Used",
+      "Inventory Management",
+      "Cost Accounting",
+      "Error Classification",
+      "Errors of Original Entry",
+      "Accounting Errors",
+      "Partnership Law",
+      "Partnership Agreement",
+      "Partnership Act 1890",
+      "Limited Liability Company",
+      "Business Structures",
+      "Disadvantages of LLC",
+      "Auditing",
+      "Accounting Concepts",
+      "Credibility in Financial Reporting",
+      "Sales Returns",
+      "Depreciation",
+      "Causes of Depreciation",
+      "Asset Management",
+      "Investments",
+      "Asset Valuation",
+      "Errors of Compensation",
+      "Accounting Definitions",
+      "Bookkeeping",
+      "Financial Accounting Concepts",
+      "Independence",
+      "Financial Statement Credibility",
+      "External Users",
+      "Partnership Advantages",
+      "Sole Proprietorship",
+      "Strategic Management",
+      "Legal Ramifications",
+      "Financial Ramifications"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "A business purchased a motor vehicle for N50,000. This transaction was correctly credited in the cash book but erroneously debited to the purchases account. Which of the following journal entries correctly rectifies this error, assuming no suspense account was initially used?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Debit Motor Vehicle N50,000, Credit Purchases N50,000"
+        },
+        {
+          "type": "string",
+          "content": "Debit Motor Vehicle N100,000, Credit Purchases N100,000"
+        },
+        {
+          "type": "string",
+          "content": "Debit Motor Vehicle N50,000, Credit Cash N50,000"
+        },
+        {
+          "type": "string",
+          "content": "Debit Purchases N50,000, Credit Motor Vehicle N50,000"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Error Correction",
+      "Journal Entries",
+      "Errors of Principle",
+      "Suspense Account"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Error of Principle Correction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Error of Principle:</em> An error arising from the incorrect application of an accounting principle, such as treating a capital expenditure as a revenue expenditure. This type of error does not affect the trial balance.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the correct journal entry to rectify an error where a motor vehicle purchase (capital expenditure) was wrongly debited to the purchases account (revenue expenditure). The cash book entry was correct.</div><p><strong>Step 1: Identify the correct entry.</strong><br>A motor vehicle is an asset, so its acquisition should be debited to the Motor Vehicle account. The payment for it was correctly credited to the Cash account.</p><p><strong>Step 2: Identify the erroneous entry.</strong><br>Instead of debiting Motor Vehicle, the Purchases account was debited with <span style='color:var(--orange);font-weight:bold;'>N50,000</span>. The credit to Cash was correct.</p><p><strong>Step 3: Formulate the correcting entry.</strong><br>To correct the error, we need to:</p><ul><li>Debit the correct account: The <span style='color:var(--orange);font-weight:bold;'>Motor Vehicle account</span> should be debited by <span style='color:var(--orange);font-weight:bold;'>N50,000</span> to recognize the asset.</li><li>Credit the incorrect account: The <span style='color:var(--orange);font-weight:bold;'>Purchases account</span> was erroneously debited. To reverse this incorrect debit, we must credit the Purchases account by <span style='color:var(--orange);font-weight:bold;'>N50,000</span>.</li></ul><p><strong>Step 4: Evaluate the options.</strong></p><ul><li><strong>Debit Motor Vehicle N50,000, Credit Purchases N50,000:</strong> This entry correctly debits the asset account and credits the account that was erroneously debited, thus rectifying the error without affecting the Cash account, which was correctly handled.</li><li><strong>Debit Motor Vehicle N100,000, Credit Purchases N100,000:</strong> This would incorrectly double the amount needed for correction. The original debit error was N50,000, so reversing it and making the correct entry each involves N50,000.</li><li><strong>Debit Motor Vehicle N50,000, Credit Cash N50,000:</strong> This would be the correct initial entry if Cash hadn't been credited already. However, the problem states the cash book was correctly credited, so no adjustment to Cash is needed.</li><li><strong>Debit Purchases N50,000, Credit Motor Vehicle N50,000:</strong> This entry would further incorrectly debit the Purchases account and incorrectly credit the Motor Vehicle account, compounding the error.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The error was an error of principle, affecting the classification of an expenditure but not the debits and credits of the overall transaction (one debit, one credit). The correcting entry must reverse the incorrect classification and make the correct one. The net effect of debiting Motor Vehicle and crediting Purchases is to transfer the N50,000 from the Purchases account to the Motor Vehicle account, which is precisely what is needed. The trial balance was initially balanced, and this correction also maintains the balance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The journal entry to correct this error is Debit Motor Vehicle N50,000, Credit Purchases N50,000.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Debit Motor Vehicle N50,000, Credit Purchases N50,000"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "An accrued telephone expense of N105,000 was identified at year-end for Oloibiri Social Society. This amount was outstanding and not yet paid. How should this adjustment impact the Income and Expenditure Account and the Statement of Financial Position?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Increase Telephone Expense in Income and Expenditure Account by N105,000 and create an Accrued Expenses Liability of N105,000."
+        },
+        {
+          "type": "string",
+          "content": "Decrease Telephone Expense in Income and Expenditure Account by N105,000 and increase Telephone Asset by N105,000."
+        },
+        {
+          "type": "string",
+          "content": "Increase Telephone Expense in Income and Expenditure Account by N105,000 and decrease Cash by N105,000."
+        },
+        {
+          "type": "string",
+          "content": "No impact on Income and Expenditure Account, increase Accrued Expenses Liability by N105,000."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Accruals",
+      "Non-Profit Accounting",
+      "Income and Expenditure Account",
+      "Statement of Financial Position"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Accrued Expense Adjustment</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Accrued Expense:</em> An expense incurred but not yet paid or recorded. Under the accrual basis of accounting, these expenses must be recognized in the period they are incurred, regardless of when cash is paid. This creates a liability on the Statement of Financial Position.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the impact of an accrued telephone expense on a non-profit organization's financial statements.</div><p><strong>Step 1: Understand the nature of an accrued expense.</strong><br>An accrued expense means a service has been received (expense incurred) but the payment has not yet been made. According to the accrual concept, expenses must be matched to the period in which they are incurred to accurately determine the surplus or deficit for that period.</p><p><strong>Step 2: Determine the impact on the Income and Expenditure Account.</strong><br>Since the <span style='color:var(--orange);font-weight:bold;'>N105,000</span> telephone expense was incurred during the year but not recorded, it needs to be added to the existing telephone expenses to reflect the true cost for the period. Therefore, Telephone Expense in the Income and Expenditure Account will <span style='color:var(--orange);font-weight:bold;'>increase by N105,000</span>.</p><p><strong>Step 3: Determine the impact on the Statement of Financial Position.</strong><br>As the expense is outstanding and represents an amount owed by the organization, it creates a liability. This liability is categorized as a current liability, typically termed 'Accrued Expenses' or 'Telephone Payable'. Thus, a new liability of <span style='color:var(--orange);font-weight:bold;'>N105,000</span> will be recognized on the Statement of Financial Position.</p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li><strong>Increase Telephone Expense in Income and Expenditure Account by N105,000 and create an Accrued Expenses Liability of N105,000:</strong> This option accurately reflects both the increase in expense for the period and the creation of a corresponding liability, aligning with accrual accounting principles.</li><li><strong>Decrease Telephone Expense in Income and Expenditure Account by N105,000 and increase Telephone Asset by N105,000:</strong> This is incorrect. Accrued expenses increase, not decrease, expenses, and they create a liability, not an asset.</li><li><strong>Increase Telephone Expense in Income and Expenditure Account by N105,000 and decrease Cash by N105,000:</strong> This is incorrect. A decrease in cash would occur if the expense was paid, but it is accrued (outstanding), meaning cash has not been paid yet.</li><li><strong>No impact on Income and Expenditure Account, increase Accrued Expenses Liability by N105,000:</strong> This is incorrect. While the liability is correctly identified, an accrued expense must impact the Income and Expenditure Account to ensure accurate periodic reporting.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The accrual concept dictates that expenses are recognized when incurred, not when paid. The increase in expense accurately reflects the consumption of the telephone service. The corresponding liability shows the obligation to pay for that service. This dual effect maintains the accounting equation (Assets = Liabilities + Equity) by increasing expenses (which reduces accumulated fund/equity) and increasing liabilities.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The adjustment will Increase Telephone Expense in Income and Expenditure Account by N105,000 and create an Accrued Expenses Liability of N105,000.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increase Telephone Expense in Income and Expenditure Account by N105,000 and create an Accrued Expenses Liability of N105,000."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Essien Business Enterprise reports cash drawings for private use of N200 per week and recharge card withdrawals of N250 per week for 52 weeks in a year. Additionally, cash drawing of N21,700 by Johnny Cole was credited as cash sales in error. If this N21,700 was also for private use, what is the total adjusted amount of drawings for Essien Business Enterprise that would be reported in the Statement of Financial Position?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "N450"
+        },
+        {
+          "type": "string",
+          "content": "N23,400"
+        },
+        {
+          "type": "string",
+          "content": "N23,650"
+        },
+        {
+          "type": "string",
+          "content": "N44,050"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Incomplete Records",
+      "Drawings Calculation",
+      "Error Correction",
+      "Statement of Financial Position"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculation of Total Drawings</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Drawings:</em> Funds or goods withdrawn by the owner of a sole proprietorship for personal use. Drawings reduce the owner's capital.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the total adjusted drawings for Essien Business Enterprise, considering both regular weekly withdrawals and an error correction related to another business's drawings example.</div><p><strong>Step 1: Calculate regular weekly drawings for Essien Business Enterprise.</strong><br>Cash drawings per week: <span style='color:var(--orange);font-weight:bold;'>N200</span><br>Recharge card withdrawals per week: <span style='color:var(--orange);font-weight:bold;'>N250</span><br>Total weekly drawings: N200 + N250 = <span style='color:var(--orange);font-weight:bold;'>N450</span><br>Number of weeks in a year: <span style='color:var(--orange);font-weight:bold;'>52</span><br>Annual regular drawings: N450 * 52 weeks = <span style='color:var(--orange);font-weight:bold;'>N23,400</span></p><p><strong>Step 2: Identify and incorporate additional drawings from error correction information.</strong><br>The problem statement includes an additional piece of information that seems to be a distractor or a mislabeled example from another question (Johnny Cole's cash drawing). However, the question specifically asks for Essien Business Enterprise's drawings. The information given for Essien Business Enterprise only refers to the weekly drawings.<br>The phrase \"Additionally, cash drawing of N21,700 by Johnny Cole was credited as cash sales in error. If this N21,700 was also for private use...\" is context for another question (Question 1 from Solution 1, part vi) and refers to Johnny Cole Enterprises, not Essien Business Enterprise. Therefore, this N21,700 should NOT be added to Essien's drawings.</p><p><strong>Step 3: Determine the total adjusted drawings.</strong><br>Based purely on the information relevant to Essien Business Enterprise, the total drawings are the annual regular drawings calculated in Step 1.</p><ul><li>Annual regular drawings: <span style='color:var(--orange);font-weight:bold;'>N23,400</span></li></ul><p><strong>Step 4: Evaluate the options.</strong></p><ul><li><strong>N450:</strong> This is only the weekly drawing, not the annual total.</li><li><strong>N23,400:</strong> This represents the total annual drawings from cash and recharge cards for Essien Business Enterprise (N450 * 52 weeks). This is the correct calculation based on Essien's own specific information.</li><li><strong>N23,650:</strong> This might be an intermediate calculation or a distractor resulting from miscalculation.</li><li><strong>N44,050:</strong> This figure (N23,400 + N21,700) would result if the N21,700 drawing (from the Johnny Cole Enterprises example) was mistakenly included in Essien's drawings. This is a plausible distractor because the question asks about 'Essien Business Enterprise' and then immediately provides data about 'Johnny Cole's drawings'. However, the problem specifies the additional N21,700 is from a *different* business context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> It's crucial to correctly identify the scope of the question. Although information about 'Johnny Cole's drawings' is provided, the question explicitly asks for the 'total adjusted amount of drawings for Essien Business Enterprise'. Therefore, only the weekly cash and recharge card withdrawals for 52 weeks are relevant for Essien. N200 + N250 = N450 per week. N450 * 52 = N23,400. The N21,700 is a specific error correction from Solution 1 (vi) for Johnny Cole Enterprises, not Essien.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The total adjusted amount of drawings for Essien Business Enterprise is N23,400.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "N23,400"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Dokunnu Manufacturing Enterprise records an opening inventory of raw material at N21,500 and purchases of N74,000. If the closing inventory of raw material is N15,300, what is the cost of raw material used in production?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "N80,200"
+        },
+        {
+          "type": "string",
+          "content": "N95,500"
+        },
+        {
+          "type": "string",
+          "content": "N52,800"
+        },
+        {
+          "type": "string",
+          "content": "N110,800"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Manufacturing Account",
+      "Cost of Raw Material Used",
+      "Inventory Management",
+      "Cost Accounting"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cost of Raw Material Used Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Cost of Raw Material Used:</em> This is a key component in a manufacturing account, representing the value of raw materials consumed during the production process. It is calculated by adding opening raw material inventory to purchases and subtracting closing raw material inventory.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to calculate the cost of raw material used, given opening inventory, purchases, and closing inventory of raw materials.</div><p><strong>Step 1: Determine raw material available for use.</strong><br>Opening Inventory of Raw Material: <span style='color:var(--orange);font-weight:bold;'>N21,500</span><br>Add: Purchases of Raw Material: <span style='color:var(--orange);font-weight:bold;'>N74,000</span><br>Cost of Raw Material Available: N21,500 + N74,000 = <span style='color:var(--orange);font-weight:bold;'>N95,500</span></p><p><strong>Step 2: Calculate cost of raw material used.</strong><br>Cost of Raw Material Available: <span style='color:var(--orange);font-weight:bold;'>N95,500</span><br>Less: Closing Inventory of Raw Material: <span style='color:var(--orange);font-weight:bold;'>N15,300</span><br>Cost of Raw Material Used: N95,500 - N15,300 = <span style='color:var(--orange);font-weight:bold;'>N80,200</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li><strong>N80,200:</strong> This correctly represents the cost of raw material used, calculated as opening inventory + purchases - closing inventory.</li><li><strong>N95,500:</strong> This represents the total raw material available for use, before deducting closing inventory.</li><li><strong>N52,800:</strong> This would be an incorrect calculation, possibly N74,000 - N21,500.</li><li><strong>N110,800:</strong> This would be an incorrect calculation, possibly N74,000 + N15,300 + N21,500 or N74,000 + N21,500 + N15,300, or some other combination.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The fundamental inventory equation is: Beginning Inventory + Purchases - Ending Inventory = Cost of Goods Used (or Sold). Applying this directly: N21,500 + N74,000 - N15,300 = N80,200. This confirms the calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The cost of raw material used in production is N80,200.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "N80,200"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which of the following is an error of original entry?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A N65,000 purchase invoice entered in the purchase day book as N6,500."
+        },
+        {
+          "type": "string",
+          "content": "A motor vehicle purchase incorrectly debited to the purchases account."
+        },
+        {
+          "type": "string",
+          "content": "A transport fare not posted to the transport expenses account."
+        },
+        {
+          "type": "string",
+          "content": "Discount received entered as discount allowed in both cash book and ledger."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Error Classification",
+      "Errors of Original Entry",
+      "Accounting Errors"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Error of Original Entry</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Error of Original Entry:</em> An error made at the initial stage of recording a transaction in a book of prime entry (e.g., day book or journal), where the wrong amount is entered. This error will propagate to the ledger accounts and will not typically cause a trial balance to disagree, if both sides are posted with the incorrect amount.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an error of original entry from the given scenarios.</div><p><strong>Step 1: Analyze each option against the definition of an error of original entry.</strong></p><ul><li><strong>A N65,000 purchase invoice entered in the purchase day book as N6,500:</strong> This scenario describes an incorrect amount being recorded in the book of prime entry (purchase day book). The original figure of N65,000 was miscopied as N6,500. This directly fits the definition of an error of original entry. Since the incorrect figure (N6,500) would then be posted to both the Purchases account and the Payable account, the trial balance would still balance, but with incorrect figures.</li><li><strong>A motor vehicle purchase incorrectly debited to the purchases account:</strong> This is an <span style='color:var(--orange);font-weight:bold;'>error of principle</span>, as a capital expenditure is treated as a revenue expenditure. It does not relate to an incorrect amount in the original record but rather a misclassification of the account.</li><li><strong>A transport fare not posted to the transport expenses account:</strong> This is an <span style='color:var(--orange);font-weight:bold;'>error of omission</span> (if the entire transaction was omitted from the books) or an error affecting one account (if the other side was posted). If only one side of a transaction is not posted, it's a type of <span style='color:var(--orange);font-weight:bold;'>transposition error or single-sided error</span>, affecting the trial balance. If the entry was partially made, e.g., credit cash but no debit for transport, then it would lead to a suspense account.</li><li><strong>Discount received entered as discount allowed in both cash book and ledger:</strong> This is an <span style='color:var(--orange);font-weight:bold;'>error of principle or complete reversal of entries</span>. It involves recording a credit item as a debit item and vice versa, which is a misapplication of accounting principles. It would typically not affect the trial balance if both sides are reversed correctly (e.g., Cash debited, Discount Allowed credited instead of Cash credited, Discount Received debited).</li></ul><p><strong>Step 2: Conclude the correct error type.</strong><br>The scenario where a <span style='color:var(--orange);font-weight:bold;'>N65,000 purchase invoice from supplier was entered in the purchase day book as N6,500</span> is a clear example of an error of original entry because the amount was incorrectly recorded at the initial stage of the accounting cycle.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> An error of original entry means the initial record in a book of prime entry is wrong in amount, but the double-entry principle is typically maintained for that incorrect amount. This distinguishes it from errors of principle (wrong account type), errors of omission (missing entry), or errors of commission (wrong amount or account, but not in the *initial* record).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A N65,000 purchase invoice entered in the purchase day book as N6,500 is an error of original entry.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A N65,000 purchase invoice entered in the purchase day book as N6,500."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "In the absence of a partnership agreement, the Partnership Act 1890 dictates several conditions. Which of the following conditions is NOT provided by the Partnership Act 1890 when an agreement is absent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "All profits and losses are to be shared equally between the partners."
+        },
+        {
+          "type": "string",
+          "content": "No interest is allowed on capital and current accounts."
+        },
+        {
+          "type": "string",
+          "content": "Partners are allowed to introduce additional capital at a 5% interest per annum."
+        },
+        {
+          "type": "string",
+          "content": "Every partner may take part in the management of the partnership business."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partnership Law",
+      "Partnership Agreement",
+      "Partnership Act 1890"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Partnership Act 1890 Provisions (Absence of Agreement)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Partnership Act 1890:</em> This Act provides default rules that govern a partnership in the absence of a specific partnership agreement. These rules cover profit/loss sharing, interest on capital/loans, remuneration, and management rights.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the condition that is NOT provided by the Partnership Act 1890 when there is no partnership agreement.</div><p><strong>Step 1: Review the provisions of the Partnership Act 1890 in the absence of an agreement.</strong><br>According to the document (Solution 2, b.ii), in the absence of any agreement, the Partnership Act 1890 provides among other things, that:</p><ul><li>a. All profits and losses are to be shared equally between the partners.</li><li>b. No interest is allowed on capital and current accounts.</li><li>c. No remuneration will be paid to a partner.</li><li>d. Any advance or loan made by a partner in excess of his agreed share of capital will attract interest at 5% per annum.</li><li>e. Unless otherwise agreed, capital will be assumed to be contributed equally.</li><li>f. 5% interest on loan given to the business by any partner.</li><li>g. Every partner may take part in the management of the partnership business.</li></ul><p><strong>Step 2: Evaluate each option against these provisions.</strong></p><ul><li><strong>All profits and losses are to be shared equally between the partners:</strong> This is a stated provision (a).</li><li><strong>No interest is allowed on capital and current accounts:</strong> This is a stated provision (b).</li><li><strong>Partners are allowed to introduce additional capital at a 5% interest per annum:</strong> The Act states that \"Any advance or loan made by a partner in excess of his agreed share of capital will attract interest at 5% per annum.\" (d and f). This refers to loans, not necessarily additional *capital* which is subject to different treatment (no interest allowed on capital). While loans attract 5% interest, the statement implies this applies to *additional capital*, which is distinct. The Act does not provide for interest on *capital* in the absence of an agreement. The 5% interest is specifically for *advances or loans* by partners, not their capital contributions.</li><li><strong>Every partner may take part in the management of the partnership business:</strong> This is a stated provision (g).</li></ul><p><strong>Step 3: Identify the NOT condition.</strong><br>The provision for 5% interest specifically applies to *loans* or *advances* made by partners, not to additional *capital* introduced. The Act explicitly states \"No interest is allowed on capital and current accounts.\" Therefore, the statement that \"Partners are allowed to introduce additional capital at a 5% interest per annum\" is incorrect under the Partnership Act 1890 provisions for capital.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The distinction between 'capital' and 'loans/advances' from partners is critical under the Partnership Act 1890. Capital usually does not earn interest unless agreed upon, whereas loans from partners typically attract a default interest rate of 5% in the absence of an agreement. The option incorrectly conflates 'additional capital' with 'loans' in the context of interest.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The condition NOT provided by the Partnership Act 1890 when an agreement is absent is that partners are allowed to introduce additional capital at a 5% interest per annum.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Partners are allowed to introduce additional capital at a 5% interest per annum."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "A limited liability company's formation requires costly legal and registration expenses, and its decision-making may be delayed due to bureaucratic bottlenecks. These are examples of which of the following?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Advantages of a Sole Proprietorship"
+        },
+        {
+          "type": "string",
+          "content": "Features of a Partnership Business"
+        },
+        {
+          "type": "string",
+          "content": "Disadvantages of a Limited Liability Company"
+        },
+        {
+          "type": "string",
+          "content": "Characteristics of a Private Company"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Limited Liability Company",
+      "Business Structures",
+      "Disadvantages of LLC"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Disadvantages of Limited Liability Company</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Limited Liability Company (LLC):</em> A business structure that provides limited liability to its owners while offering operational flexibility. Despite its benefits, LLCs come with specific challenges, particularly related to formation and administration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes two specific aspects of limited liability companies: costly formation and delayed decision-making due to bureaucracy. We need to categorize these aspects.</div><p><strong>Step 1: Analyze the given characteristics.</strong></p><ul><li>\"Costly legal and registration expenses\": Forming an LLC involves legal fees, registration fees, and compliance costs, which are generally higher than for sole proprietorships or partnerships.</li><li>\"Decision-making may be delayed due to bureaucratic bottlenecks\": LLCs often have more formal structures, boards, and regulatory requirements (like annual general meetings, filing returns) which can make decision-making slower compared to simpler business forms.</li></ul><p><strong>Step 2: Relate these characteristics to the nature of business structures.</strong><br>These descriptions clearly point to drawbacks or negative aspects associated with the organizational complexity and regulatory requirements of a limited liability company.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li><strong>Advantages of a Sole Proprietorship:</strong> Sole proprietorships are known for ease of formation and quick decision-making, which are the opposite of the characteristics described.</li><li><strong>Features of a Partnership Business:</strong> While partnerships have more formality than sole proprietorships, they generally avoid the extensive bureaucratic bottlenecks and high registration costs associated with limited liability companies.</li><li><strong>Disadvantages of a Limited Liability Company:</strong> The document explicitly lists \"Formation of Limited Liability Company requires costly legal and registration expenses\" and \"Decision making may be delayed due to bureaucratic bottlenecks\" under the disadvantages of a limited liability company (Solution 2, e.ii). This option perfectly matches the given characteristics.</li><li><strong>Characteristics of a Private Company:</strong> A private company is a type of limited liability company. While these characteristics apply to private companies, \"disadvantages\" is a more specific and accurate categorization of the negative aspects described, as opposed to simply 'characteristics' which could be positive or neutral.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The costs and delays mentioned are common criticisms and documented disadvantages of incorporating a company. They contrast sharply with the ease and speed associated with less formal business structures. The explanation in the document directly supports this classification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ These are examples of disadvantages of a Limited Liability Company.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Disadvantages of a Limited Liability Company"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "The definition of auditing in the document states it is the 'independent examination of the books of accounts and records of an entity, with a view to expressing opinion on the true and fair state of the entity's position.' Which characteristic is most central to the credibility of an audit opinion?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Its focus on books of accounts."
+        },
+        {
+          "type": "string",
+          "content": "Its independent nature."
+        },
+        {
+          "type": "string",
+          "content": "Its objective to express an opinion."
+        },
+        {
+          "type": "string",
+          "content": "Its coverage of all entity's records."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Auditing",
+      "Accounting Concepts",
+      "Credibility in Financial Reporting"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Central Characteristic of Audit Credibility</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Auditing:</em> The systematic and independent examination of financial information to determine whether financial statements are presented fairly in accordance with applicable accounting standards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the characteristic most central to the credibility of an audit opinion, based on the provided definition of auditing.</div><p><strong>Step 1: Analyze the provided definition of auditing.</strong><br>The definition states: \"Auditing is the <span style='color:var(--orange);font-weight:bold;'>independent examination</span> of the books of accounts and records of an entity, with a view to <span style='color:var(--orange);font-weight:bold;'>expressing opinion</span> on the <span style='color:var(--orange);font-weight:bold;'>true and fair state of the entity's position</span>.\"</p><p><strong>Step 2: Evaluate how each component contributes to credibility.</strong></p><ul><li><strong>Its focus on books of accounts:</strong> While essential for an audit, merely focusing on records does not guarantee the credibility of the opinion itself. The quality of examination matters more.</li><li><strong>Its independent nature:</strong> The term \"independent examination\" explicitly highlights that the auditor must be free from influence and bias by the entity being audited. This independence is paramount because it assures users that the opinion is objective and unbiased, thereby making it credible. Without independence, an opinion, no matter how thorough, would lack trustworthiness.</li><li><strong>Its objective to express an opinion:</strong> Expressing an opinion is the ultimate outcome of an audit. However, the *credibility* of that opinion stems from the process and the qualities of the auditor, primarily independence.</li><li><strong>Its coverage of all entity's records:</strong> A comprehensive examination (covering records) is necessary for an informed opinion, but the *trust* placed in that opinion comes from the auditor's independence.</li></ul><p><strong>Step 3: Conclude the most central characteristic.</strong><br>The <span style='color:var(--orange);font-weight:bold;'>independent nature</span> of the examination is what lends authority and trustworthiness (credibility) to the auditor's opinion. If an auditor were not independent, their opinion would be viewed with skepticism, regardless of the thoroughness of their work.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Independence is a fundamental ethical principle in auditing. Without it, the auditor cannot be seen as objective, and stakeholders would have little faith in the audit report. The other options describe aspects of the audit *process* or *goal*, but independence is the bedrock of its *credibility*.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The characteristic most central to the credibility of an audit opinion is its independent nature.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Its independent nature."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "For Johnny Cole Enterprises, sales returns of N15,600 were correctly treated in the customer's account but credited to the sales returns account as N5,600. What is the amount of the additional debit required in the Sales Returns account to correct this error?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "N5,600"
+        },
+        {
+          "type": "string",
+          "content": "N10,000"
+        },
+        {
+          "type": "string",
+          "content": "N15,600"
+        },
+        {
+          "type": "string",
+          "content": "N21,200"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Error Correction",
+      "Sales Returns",
+      "Journal Entries",
+      "Suspense Account"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Correction of Understated Sales Returns</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Sales Returns Account:</em> This account is used to record the value of goods returned by customers. It is a contra-revenue account and normally has a debit balance, reducing total sales revenue.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes an error where sales returns of N15,600 were correctly posted to the customer's account (credit to customer, effectively reducing their debt) but incorrectly credited to the Sales Returns account as N5,600. We need to find the additional debit required in the Sales Returns account.</div><p><strong>Step 1: Identify the correct posting to Sales Returns.</strong><br>Sales returns should be debited to the Sales Returns account. The correct debit amount should have been <span style='color:var(--orange);font-weight:bold;'>N15,600</span>.</p><p><strong>Step 2: Identify the erroneous posting to Sales Returns.</strong><br>The Sales Returns account was credited as N5,600. This is incorrect in two ways:</p><ul><li>It was credited instead of debited.</li><li>The amount N5,600 is wrong; it should be N15,600.</li></ul><p><strong>Step 3: Calculate the adjustment needed to correct the Sales Returns account.</strong><br>To correct the Sales Returns account:</p><ul><li>First, reverse the incorrect credit of <span style='color:var(--orange);font-weight:bold;'>N5,600</span> by debiting Sales Returns by N5,600.</li><li>Second, record the correct debit of <span style='color:var(--orange);font-weight:bold;'>N15,600</span> to Sales Returns.</li></ul><p>Total debit needed in Sales Returns = (To reverse incorrect credit) + (To record correct debit)<br>= N5,600 (to reverse credit) + N15,600 (to record correct debit)<br>= <span style='color:var(--orange);font-weight:bold;'>N21,200</span></p><p>Alternatively, the Sales Returns account was understated and recorded on the wrong side. The net effect of an incorrect credit of N5,600 when it should have been a debit of N15,600 is a difference of N15,600 - (-N5,600) = N21,200.</p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li><strong>N5,600:</strong> This amount is either the incorrect credited amount or the amount to reverse the incorrect credit, but not the total correction needed.</li><li><strong>N10,000:</strong> This is the difference between the correct amount and the incorrectly recorded amount (N15,600 - N5,600), but does not account for the fact that it was credited instead of debited.</li><li><strong>N15,600:</strong> This is the correct amount of sales returns, but it only addresses the correct recording and does not account for reversing the initial incorrect credit.</li><li><strong>N21,200:</strong> This is the total debit required to reverse the incorrect credit and then apply the correct debit.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If Sales Returns had a credit balance of N5,600, and it should have had a debit balance of N15,600, then to move from -N5,600 to +N15,600, you need to add N5,600 to get to zero, and then add another N15,600 to reach the correct debit balance. The total adjustment is N5,600 + N15,600 = N21,200. The journal entry for correction involves debiting Sales Returns for N21,200 and crediting a Suspense Account for N21,200 (since the customer's account was correct).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The additional debit required in the Sales Returns account to correct this error is N21,200.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "N21,200"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which of the following causes of depreciation is most associated with technological advancements rather than physical wear and tear?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Physical deterioration"
+        },
+        {
+          "type": "string",
+          "content": "Obsolescence"
+        },
+        {
+          "type": "string",
+          "content": "Effluxion of time"
+        },
+        {
+          "type": "string",
+          "content": "Depletion"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Depreciation",
+      "Causes of Depreciation",
+      "Asset Management"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Causes of Depreciation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Depreciation:</em> The systematic allocation of the cost of a tangible asset over its useful life. It reflects the decline in an asset's value and utility over time.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the cause of depreciation most linked to technological advancements rather than physical wear and tear.</div><p><strong>Step 1: Understand the nature of each depreciation cause.</strong></p><ul><li><strong>Physical deterioration:</strong> This refers to the wear and tear on an asset from regular use, exposure to elements, or accidental damage. It is a physical breakdown or decay.</li><li><strong>Obsolescence:</strong> This occurs when an asset becomes outdated or inefficient compared to newer, more advanced alternatives, even if it is still physically functional. It's often driven by technological advancements, changes in consumer tastes, or new production methods.</li><li><strong>Effluxion of time:</strong> Some assets, like leases or patents, lose value simply because time passes, regardless of use or physical condition. Their legal or contractual life expires.</li><li><strong>Depletion:</strong> This specifically applies to natural resources (like mines, oil wells, timberland) and represents the consumption of the resource over time. It's based on extraction, not wear and tear of a manufactured asset.</li></ul><p><strong>Step 2: Relate to technological advancements.</strong><br>Technological advancements make older assets less efficient or desirable, even if they are in perfect working order. This phenomenon is precisely what <span style='color:var(--orange);font-weight:bold;'>obsolescence</span> describes. A computer, for instance, might be perfectly functional but is considered obsolete if a much faster and more capable model is released.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li><strong>Physical deterioration:</strong> Directly related to wear and tear.</li><li><strong>Obsolescence:</strong> Directly related to technological advancements (or changing trends/demand), making existing assets less competitive or efficient.</li><li><strong>Effluxion of time:</strong> Related to the passage of time or legal lifespan, not technology.</li><li><strong>Depletion:</strong> Related to the consumption of natural resources, not technology.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core idea of obsolescence is becoming outdated or less useful due to external factors, prominently including rapid changes in technology. This clearly differentiates it from physical degradation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The cause of depreciation most associated with technological advancements rather than physical wear and tear is Obsolescence.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Obsolescence"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Oloibiri Social Society purchased an investment for N60,000,000 at December 31, 2019. During the year ended December 31, 2020, additional investments totaling N3,750,000 were made. What is the total value of investments that should be reported in the Statement of Financial Position as at December 31, 2020?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "N60,000,000"
+        },
+        {
+          "type": "string",
+          "content": "N3,750,000"
+        },
+        {
+          "type": "string",
+          "content": "N56,250,000"
+        },
+        {
+          "type": "string",
+          "content": "N63,750,000"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Non-Profit Accounting",
+      "Statement of Financial Position",
+      "Investments",
+      "Asset Valuation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Investment Valuation in Statement of Financial Position</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Investments:</em> Assets held by an organization for capital appreciation, income generation (like interest or dividends), or other benefits. In a non-profit context, these are often long-term assets.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the total value of investments to be reported in the Statement of Financial Position at year-end, considering opening balance and additional purchases.</div><p><strong>Step 1: Identify the opening balance of investments.</strong><br>Value of investment at December 31, 2019 (which is the opening balance for 2020): <span style='color:var(--orange);font-weight:bold;'>N60,000,000</span>.</p><p><strong>Step 2: Identify additional investments made during the year.</strong><br>Purchases during the year: <span style='color:var(--orange);font-weight:bold;'>N3,750,000</span> (from the Receipts and Payments account as an outflow, and confirmed in Working Note 8).</p><p><strong>Step 3: Calculate the closing balance of investments.</strong><br>Total Investments = Opening Investments + Purchases During the Year<br>= N60,000,000 + N3,750,000<br>= <span style='color:var(--orange);font-weight:bold;'>N63,750,000</span></p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li><strong>N60,000,000:</strong> This is only the opening balance, ignoring the purchases during the year.</li><li><strong>N3,750,000:</strong> This is only the value of purchases made during the year, not the total investment.</li><li><strong>N56,250,000:</strong> This would be the result if the purchases were subtracted from the opening balance, which is incorrect.</li><li><strong>N63,750,000:</strong> This correctly aggregates the opening investment balance and the additional investments made during the year.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The Statement of Financial Position presents assets at a specific point in time. To arrive at the closing balance of an asset like investments, all additions during the period must be added to the opening balance. The calculation directly reflects this principle.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The total value of investments that should be reported in the Statement of Financial Position as at December 31, 2020, is N63,750,000.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "N63,750,000"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Which of the following is an example of an error of compensation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A debit to Purchases of N7,500 that should have been a debit to Transport Expenses of N7,500."
+        },
+        {
+          "type": "string",
+          "content": "A debit error in one account is exactly offset by a credit error of the same amount in another account, where both errors cancel each other out."
+        },
+        {
+          "type": "string",
+          "content": "A purchase invoice of N65,000 mistakenly entered as N6,500 in the purchases day book."
+        },
+        {
+          "type": "string",
+          "content": "A N5,000 commission on turnover debited on the bank statement not reflected in the cash book."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Error Classification",
+      "Errors of Compensation",
+      "Accounting Errors"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Error of Compensation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Error of Compensation:</em> An error where the effect of one error is canceled out by the effect of another error, usually of the same amount but on different sides or in different accounts, such that the trial balance still agrees. These errors are difficult to detect as they do not affect the arithmetic equality of debits and credits.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an example of an error of compensation from the given options.</div><p><strong>Step 1: Analyze each option in the context of an error of compensation.</strong></p><ul><li><strong>A debit to Purchases of N7,500 that should have been a debit to Transport Expenses of N7,500:</strong> This describes an error of principle, or an error of commission (wrong account of same type), where an expense is classified incorrectly. While the amount is the same, it's a single misclassification, not two offsetting errors.</li><li><strong>A debit error in one account is exactly offset by a credit error of the same amount in another account, where both errors cancel each other out:</strong> This is a classic definition of an error of compensation. For example, if the Sales account is overstated by N1,000 (credit error) and the Purchases account is also overstated by N1,000 (debit error), the trial balance would still balance, but both accounts are incorrect.</li><li><strong>A purchase invoice of N65,000 mistakenly entered as N6,500 in the purchases day book:</strong> This is an error of original entry, where the initial amount recorded is incorrect.</li><li><strong>A N5,000 commission on turnover debited on the bank statement not reflected in the cash book:</strong> This is an error of omission in the cash book or a bank reconciliation item. It would cause the bank balance in the cash book to differ from the bank statement, and if uncorrected, could lead to a suspense account if the trial balance does not agree.</li></ul><p><strong>Step 2: Conclude the correct example.</strong><br>The option that describes a debit error in one account being exactly offset by a credit error of the same amount in another account perfectly matches the definition and characteristic of an <span style='color:var(--orange);font-weight:bold;'>error of compensation</span>. These errors are often undetected by a trial balance because the total debits still equal total credits.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Errors of compensation are tricky because they don't prevent the trial balance from balancing. They involve multiple mistakes that happen to cancel each other out, making them difficult to spot without detailed checking. The example clearly illustrates this offsetting effect.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An example of an error of compensation is when a debit error in one account is exactly offset by a credit error of the same amount in another account, where both errors cancel each other out.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A debit error in one account is exactly offset by a credit error of the same amount in another account, where both errors cancel each other out."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Differentiate between 'accounting' and 'bookkeeping' in terms of their scope, purpose, and the skills typically required for each.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Accounting Definitions",
+      "Bookkeeping",
+      "Financial Accounting Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Accounting vs. Bookkeeping</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Accounting:</em> The comprehensive process of identifying, measuring, recording, classifying, summarizing, analyzing, interpreting, and communicating financial information.<br><em>Bookkeeping:</em> The mechanical aspect of accounting, primarily concerned with the systematic recording and classification of financial transactions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question requires a differentiation between accounting and bookkeeping based on scope, purpose, and required skills.</div><p><strong>Mark-scheme points for a full-credit answer:</strong></p><ul><li><strong>Scope:</strong><ul><li><span style='color:var(--orange);font-weight:bold;'>Bookkeeping:</span> Is a narrow phase of accounting, limited to the recording and classification of financial transactions. It is essentially the 'how-to' of recording.</li><li><span style='color:var(--orange);font-weight:bold;'>Accounting:</span> Is a broader field that encompasses bookkeeping and extends to summarizing, analyzing, interpreting, and communicating financial information to various stakeholders. It's about the 'why' and 'what it means'.</li></ul></li><li><strong>Purpose:</strong><ul><li><span style='color:var(--orange);font-weight:bold;'>Bookkeeping:</span> Its primary purpose is to maintain complete and accurate records of all financial transactions, ensuring that the books reflect the exact position of the owner's affairs (as per the document). It provides the raw data for accounting.</li><li><span style='color:var(--orange);font-weight:bold;'>Accounting:</span> Its purpose is to provide financial information that is useful for decision-making by a wide range of users. This involves preparing financial statements, interpreting performance, and planning for the future.</li></ul></li><li><strong>Required Skills:</strong><ul><li><span style='color:var(--orange);font-weight:bold;'>Bookkeeping:</span> Primarily requires clerical and transactional skills, attention to detail, and a good understanding of debits, credits, and basic accounting rules. It's often rule-based.</li><li><span style='color:var(--orange);font-weight:bold;'>Accounting:</span> Requires analytical, interpretative, and conceptual skills. Accountants need to understand financial principles, apply judgment, and communicate complex financial data effectively. It's more about problem-solving and strategic insight.</li></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common misconception is that accounting and bookkeeping are interchangeable. However, bookkeeping is foundational, providing the data, while accounting builds upon this data to provide insights and reporting. This distinction is critical for understanding the hierarchy and roles within financial management. Bookkeeping focuses on recording; accounting focuses on reporting and analysis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Bookkeeping is the systematic recording and classification of financial transactions (the recording phase), serving as the foundation for accounting. Accounting, in contrast, is a broader process that includes recording, classifying, summarizing, analyzing, and interpreting financial transactions to provide useful financial information for decision-making.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bookkeeping is primarily the recording phase of accounting, focused on the methodical classification and recording of business transactions. Its scope is narrow, aiming to maintain accurate records of transactions. It requires clerical skills and attention to detail.\n\nAccounting, on the other hand, is the art of recording, classifying, summarizing, and analyzing financial transactions. Its scope is broader, extending to the analysis and interpretation of financial data to produce useful financial information for a wide range of users. It requires analytical, interpretative, and conceptual skills for decision-making and strategic planning."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Explain the independent nature of 'auditing' and elaborate on its significance in enhancing the credibility of financial statements for external users.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Auditing",
+      "Independence",
+      "Financial Statement Credibility",
+      "External Users"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Auditing Independence and Credibility</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Auditing:</em> The independent examination of financial information to provide an opinion on its true and fair presentation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to explain the independent nature of auditing and its significance in enhancing the credibility of financial statements for external users.</div><p><strong>Mark-scheme points for a full-credit answer:</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Independent Nature of Auditing:</span> Auditing is characterized by its independence, meaning the auditor (or audit firm) must be free from any financial, personal, or professional relationships with the entity being audited that could impair their objectivity. This implies that the auditor should not be biased, nor should there be any perceived bias. The auditor must maintain a skeptical mindset and act with integrity and professional judgment.</li><li><span style='color:var(--orange);font-weight:bold;'>Significance for Credibility:</span><ul><li><span style='color:var(--orange);font-weight:bold;'>Objectivity:</span> Independence ensures that the auditor's opinion is objective and not influenced by management or other vested interests within the company. This objectivity is crucial for stakeholders to trust the information presented.</li><li><span style='color:var(--orange);font-weight:bold;'>Reduced Information Asymmetry:</span> External users (investors, creditors, customers, regulators) often lack direct access to an entity's internal financial records. An independent audit opinion bridges this information gap, assuring them that the financial statements present a true and fair view of the entity's position.</li><li><span style='color:var(--orange);font-weight:bold;'>Enhanced Decision-Making:</span> With increased confidence in the financial statements due to an independent audit, external users can make more informed and reliable decisions regarding investment, lending, or business relationships.</li><li><span style='color:var(--orange);font-weight:bold;'>Regulatory Compliance and Public Trust:</span> In many jurisdictions, independent audits are a regulatory requirement. They uphold public trust in capital markets and corporate governance by providing assurance that companies comply with reporting standards and that their financial reports are reliable.</li></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Without auditor independence, the entire audit process would be compromised. An audit performed by an interested party would lack the necessary objectivity, rendering the audit report worthless to external users who rely on unbiased assurance. This aligns with the document's emphasis on \"independent examination\" for \"expressing opinion on the true and fair state.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The independent nature of auditing ensures that the auditor's examination and opinion are objective and unbiased, which is paramount for enhancing the credibility of financial statements for external users by reducing information asymmetry and fostering trust in financial reporting for informed decision-making.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The independent nature of auditing refers to the auditor's ability to perform their examination free from any influence, bias, or conflict of interest from the entity being audited. This means the auditor must be impartial, objective, and perceived as such by third parties. It is a cornerstone of the auditing profession, ensuring that the audit opinion is formed purely on the evidence gathered, rather than on pressure from management or other stakeholders.\n\nThis independence significantly enhances the credibility of financial statements for external users (such as investors, creditors, and regulators) in several ways:\n1.  **Objectivity and Trust:** External users rely on financial statements to make critical decisions. If the audit is independent, these users can trust that the financial statements have been subjected to an unbiased and rigorous examination, leading to an objective opinion on their truth and fairness. This trust is vital as users often lack direct access to the entity's internal records.\n2.  **Reduced Information Risk:** Independent audits reduce information asymmetry between management and external users. Without an independent check, management might be tempted to present financial information in a way that serves their interests. Independence provides assurance that the financial data is reliable and not materially misstated.\n3.  **Informed Decision-Making:** With enhanced credibility, external users can make more confident and informed decisions regarding investment, lending, or other dealings with the entity. This contributes to the efficient functioning of capital markets.\n4.  **Compliance and Governance:** Independent audits ensure that entities comply with relevant accounting standards and regulatory frameworks, reinforcing good corporate governance practices and protecting the public interest."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Elaborate on two specific advantages of a partnership over a sole proprietorship, focusing on strategic implications beyond mere capital.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partnership Advantages",
+      "Sole Proprietorship",
+      "Business Structures",
+      "Strategic Management"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Strategic Advantages of Partnership over Sole Proprietorship</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Partnership:</em> A business structure where two or more individuals agree to share in the profits or losses of a business that is carried on by all or any of them acting for all.<br><em>Sole Proprietorship:</em> A business owned and run by one individual, where there is no legal distinction between the owner and the business.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for two specific strategic advantages of a partnership over a sole proprietorship, moving beyond just the capital aspect.</div><p><strong>Mark-scheme points for a full-credit answer:</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Higher Performance through Diverse Expertise (Two heads are better than one):</span><ul><li><span style='color:var(--orange);font-weight:bold;'>Explanation:</span> In a sole proprietorship, all decisions, skills, and responsibilities rest on one individual. A partnership brings together multiple individuals, each potentially possessing different skills, knowledge, and experiences (e.g., one partner might excel in marketing, another in finance, and a third in operations). This diversification of expertise can lead to more robust decision-making, innovative problem-solving, and a higher quality of execution across various business functions. The collaborative environment allows for mutual learning and oversight, often resulting in better overall business performance and resilience compared to the singular perspective of a sole owner.</li></ul></li><li><span style='color:var(--orange);font-weight:bold;'>Distribution of Financial and Operational Responsibilities:</span><ul><li><span style='color:var(--orange);font-weight:bold;'>Explanation:</span> A sole proprietor bears the entire burden of managing the business, from daily operations to strategic planning, and assumes all financial risks. In a partnership, these responsibilities are distributed among the partners. This division of labor can significantly reduce the workload and stress on any single individual, allowing each partner to focus on areas where they are most competent or passionate. This shared burden also provides continuity; if one partner is unavailable, others can step in, ensuring smooth operations. Financially, risks and losses are also shared, making the business potentially more stable in adverse conditions than a sole proprietorship where the entire financial burden rests on one person. Partners can also leverage individual contacts and networks to expand the business more effectively than a single individual.</li></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> These advantages extend beyond simply having more money. They involve synergistic benefits from diverse human capital and a more sustainable distribution of workload and risk, which are crucial for strategic growth and stability. The document mentions \"Higher performance... since two heads are better than one\" and \"burden of financial and operational responsibilities is distributed.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Two specific advantages of a partnership over a sole proprietorship, focusing on strategic implications, include higher performance through diverse expertise and the distribution of financial and operational responsibilities among partners.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.  **Higher Performance through Diverse Expertise:** In a sole proprietorship, the business relies entirely on the skills, knowledge, and efforts of one individual. This can limit growth and problem-solving capabilities. A partnership, however, brings together multiple individuals who often possess complementary skills, diverse experiences, and broader networks. For instance, one partner might be strong in marketing, another in production, and a third in finance. This collective expertise allows for more robust decision-making, innovative strategies, and a higher overall quality of execution across various business functions. The synergy created by different perspectives can lead to better solutions and enhanced competitive advantage compared to the singular vision of a sole proprietor.\n\n2.  **Distribution of Financial and Operational Responsibilities:** A sole proprietor bears the full weight of the business, including all operational tasks, financial burdens, and ultimate liability. This can lead to burnout, missed opportunities due to limited capacity, and significant personal risk. In a partnership, the immense burden of financial and operational responsibilities is distributed among the partners. This division of labor allows each partner to specialize, focus on their strengths, and manage specific aspects of the business more effectively. It also provides a built-in support system, ensuring continuity even if one partner is unavailable. Furthermore, the shared financial responsibility can make the business more resilient to economic downturns, as losses are borne by multiple individuals rather than just one. Partners can also leverage their individual contacts and networks to expand the business, which is a powerful strategic advantage for growth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Discuss the legal and financial ramifications for partners operating in the absence of a partnership agreement under the Partnership Act 1890, for two distinct conditions.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partnership Act 1890",
+      "Partnership Agreement",
+      "Legal Ramifications",
+      "Financial Ramifications"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ramifications of Operating Without a Partnership Agreement</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Partnership Act 1890:</em> Legislation that outlines the default legal framework for partnerships in the absence of a formal agreement between partners.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to discuss the legal and financial ramifications for partners operating without a partnership agreement, specifically for two distinct conditions as per the Partnership Act 1890.</div><p><strong>Mark-scheme points for a full-credit answer:</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Condition 1: Profit and Loss Sharing:</span><ul><li><span style='color:var(--orange);font-weight:bold;'>Act's Provision:</span> In the absence of an agreement, the Partnership Act 1890 stipulates that <span style='color:var(--orange);font-weight:bold;'>all profits and losses are to be shared equally</span> between the partners, regardless of their capital contributions, workload, or individual expertise.</li><li><span style='color:var(--orange);font-weight:bold;'>Ramifications:</span></li><ul><li><span style='color:var(--orange);font-weight:bold;'>Financial:</span> This can lead to significant financial inequity and dissatisfaction if partners have contributed disproportionate amounts of capital, effort, or skills. A partner contributing 80% of the capital might only receive 50% of the profits, or bear 50% of losses despite minimal involvement.</li><li><span style='color:var(--orange);font-weight:bold;'>Legal/Interpersonal:</span> Disagreements over profit sharing are a primary cause of partnership disputes and dissolution. Without clear terms, partners may feel unfairly treated, leading to legal challenges or the breakdown of the business relationship.</li></ul></ul></li><li><span style='color:var(--orange);font-weight:bold;'>Condition 2: Interest on Capital, Loans, and Remuneration:</span><ul><li><span style='color:var(--orange);font-weight:bold;'>Act's Provision:</span> The Act states that <span style='color:var(--orange);font-weight:bold;'>no interest is allowed on capital and current accounts</span>, and <span style='color:var(--orange);font-weight:bold;'>no remuneration will be paid to a partner</span>. However, any advance or <span style='color:var(--orange);font-weight:bold;'>loan made by a partner will attract interest at 5% per annum</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Ramifications:</span></li><ul><li><span style='color:var(--orange);font-weight:bold;'>Financial:</span> Partners who invest substantial capital or devote significant time and effort to the business (which would normally warrant a salary or interest on capital) will receive no additional financial compensation beyond their equal share of profits. This can disincentivize greater capital contributions or dedicated work. Conversely, partners making loans will earn a fixed 5% interest, potentially incentivizing loans over capital contributions.</li><li><span style='color:var(--orange);font-weight:bold;'>Legal/Motivational:</span> The lack of provisions for salaries or interest on capital can lead to resentment and demotivation, especially for active partners or those with higher capital at risk. This rigid default rule can undermine the perceived fairness of the partnership structure.</li></ul></ul></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The Partnership Act 1890 provides a basic framework, but its default rules are often too rigid for the complexities of real-world business contributions and expectations. The ramifications highlight why a tailored partnership agreement is crucial to avoid disputes and ensure equitable treatment among partners. The document explicitly lists these conditions as part of the Act's provisions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Operating without a partnership agreement under the Partnership Act 1890 leads to strict default rules, such as equal profit/loss sharing regardless of contributions, and no interest on capital or remuneration for partners, which can cause significant financial inequity, disputes, and demotivation among partners.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Operating without a comprehensive partnership agreement means the default provisions of the Partnership Act 1890 automatically apply. This can have significant legal and financial ramifications for partners, often leading to undesirable outcomes if partners' expectations and contributions are not uniform.\n\n1.  **Profit and Loss Sharing:**\n    *   **Act's Provision:** In the absence of an agreement, the Partnership Act 1890 mandates that **all profits and losses are to be shared equally** between the partners (Solution 2, b.ii.a). This rule applies irrespective of the partners' individual capital contributions, their level of involvement in the business, or the expertise they bring.\n    *   **Ramifications:**\n        *   **Financial:** This can lead to severe financial unfairness. A partner who invests a substantially larger amount of capital or dedicates significantly more time and effort to the business may receive the same share of profits as a partner with minimal contribution. Conversely, a partner with limited involvement would bear an equal share of losses, which they might deem unjust. This disproportionate outcome often causes resentment and financial strain.\n        *   **Legal/Interpersonal:** Disagreements over profit sharing are a primary cause of partnership disputes and dissolution. Without explicit terms agreed upon, partners may feel exploited, leading to strained working relationships, potential legal battles to resolve the conflict, and ultimately, the breakdown of the business.\n\n2.  **Interest on Capital, Loans, and Remuneration:**\n    *   **Act's Provision:** The Act stipulates that **no interest is allowed on capital and current accounts**, and **no remuneration will be paid to a partner** (Solution 2, b.ii.b & c). However, any **advance or loan made by a partner** to the firm will attract interest at **5% per annum** (Solution 2, b.ii.d & f).\n    *   **Ramifications:**\n        *   **Financial:** Partners who inject significant capital into the business for its long-term stability or who forgo external employment opportunities to work full-time in the partnership will not receive any financial compensation (interest or salary) for their capital or labor beyond their share of profits. This can act as a disincentive for partners to contribute more capital or dedicate more time, as these efforts are not separately rewarded. Conversely, it might encourage partners to provide funds as loans rather than capital to earn the guaranteed 5% interest.\n        *   **Legal/Motivational:** The absence of remuneration can be a major source of demotivation, particularly for active partners who are effectively working for free or for less than market rates. This rigid rule can undermine the perceived fairness of the partnership and create a situation where partners seek opportunities elsewhere, jeopardizing the partnership's operational stability and long-term success."
+    }
+  }
+]
