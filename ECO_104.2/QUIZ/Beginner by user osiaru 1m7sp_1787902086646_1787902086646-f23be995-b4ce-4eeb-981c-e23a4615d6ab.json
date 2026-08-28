@@ -1,0 +1,1689 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Introductory Mathematics II",
+    "code": "ECO 104.2",
+    "session": "Beginner by user osiaru 1m7sp",
+    "kind": "mixed",
+    "topics": [
+      "Concept of Limit",
+      "Limits and Continuity",
+      "Definition of Continuity",
+      "Evaluating Limits by Direct Substitution",
+      "Types of Discontinuity",
+      "Limit of a Constant Function",
+      "Limit Laws (Sum Rule)",
+      "Conditions for Continuity",
+      "Special Trigonometric Limits",
+      "Geometric Interpretation of Derivative",
+      "The Derivative",
+      "Power Rule of Differentiation",
+      "Derivative of a Constant",
+      "Differentiation of Polynomials",
+      "Notation for Derivatives",
+      "Relationship between Differentiability and Continuity",
+      "Derivative of Exponential Functions",
+      "Derivative of Logarithmic Functions",
+      "Partial Derivatives Definition",
+      "Differentiation of Multi Variable Function",
+      "Calculating Partial Derivatives (x)",
+      "Calculating Partial Derivatives (y)",
+      "Definition of Multivariable Function",
+      "Partial Differentiation of Polynomial Terms",
+      "Second Partial Derivatives",
+      "Mixed Partial Derivatives Notation",
+      "Marginal Concepts",
+      "Application of Differentiation in Economic Analysis",
+      "Marginal Cost Calculation",
+      "Optimization Criteria (First Derivative)",
+      "Marginal Revenue Calculation",
+      "Profit Maximization Rule",
+      "Elasticity Calculation (Calculus)",
+      "Marginal Revenue and Total Revenue Maximization",
+      "Inverse of Differentiation",
+      "Integration",
+      "Power Rule of Integration",
+      "Constant of Integration",
+      "Integral of 1/x",
+      "Basic Indefinite Integration",
+      "Basic Definite Integration",
+      "Integral of Exponential Functions",
+      "Total Variable Cost from Marginal Cost",
+      "Consumption Function"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer all questions. Each question carries equal marks."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following best describes the concept of a limit in calculus?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The exact value of a function at a specific point."
+        },
+        {
+          "type": "string",
+          "content": "The value a function approaches as the input approaches a certain value."
+        },
+        {
+          "type": "string",
+          "content": "The largest possible value a function can attain."
+        },
+        {
+          "type": "string",
+          "content": "The slope of the tangent line to a curve."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Concept of Limit",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Concept of Limit</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>limit</span> describes the behavior of a function as its input approaches a certain value, regardless of the function's actual value at that point. It's the value that the function 'gets closer and closer to'.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the best description of the concept of a limit in calculus.</div><p><strong>Step 1: Understand the definition of a limit.</strong></p><p>A limit in calculus is a fundamental concept concerning the value that a function 'approaches' as the input or index approaches some value. It describes the behavior of the function near a point, not necessarily at the point itself.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"The exact value of a function at a specific point.\"</span> This describes f(a), not lim x→a f(x), which can be different or undefined even if the limit exists.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"The value a function approaches as the input approaches a certain value.\"</span> This is the precise definition of a limit.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"The largest possible value a function can attain.\"</span> This describes a maximum value, which is unrelated to the concept of a limit at a specific point.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The slope of the tangent line to a curve.\"</span> This describes the derivative of a function, not a limit itself, although derivatives are defined using limits.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition of a limit is crucial for understanding continuity and derivatives. The option stating 'the value a function approaches' correctly captures this essence, distinguishing it from the function's value at the point or other calculus concepts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The best description of a limit is the value a function approaches as the input approaches a certain value.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The value a function approaches as the input approaches a certain value."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "A function f(x) is said to be continuous at a point x=c if which of the following conditions is met?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The limit of f(x) as x approaches c does not exist."
+        },
+        {
+          "type": "string",
+          "content": "f(c) is undefined."
+        },
+        {
+          "type": "string",
+          "content": "limₓ→c f(x) = f(c)."
+        },
+        {
+          "type": "string",
+          "content": "The derivative of f(x) at x=c is zero."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition of Continuity",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Continuity at a Point</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A function f(x) is <span style='color:var(--orange);font-weight:bold;'>continuous at a point x=c</span> if three conditions are satisfied: 1) f(c) is defined, 2) limₓ→c f(x) exists, and 3) limₓ→c f(x) = f(c).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the condition that defines continuity of a function at a specific point x=c.</div><p><strong>Step 1: Recall the conditions for continuity.</strong></p><p>For a function f(x) to be continuous at a point x=c, all three of the following conditions must hold true:</p><ol><li>The function value f(c) must be defined.</li><li>The limit of the function as x approaches c, limₓ→c f(x), must exist.</li><li>The limit of the function as x approaches c must be equal to the function's value at c, i.e., limₓ→c f(x) = f(c).</li></ol><p><strong>Step 2: Evaluate the provided options against these conditions.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"The limit of f(x) as x approaches c does not exist.\"</span> This describes a condition for discontinuity, not continuity.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"f(c) is undefined.\"</span> This also describes a condition for discontinuity, as a function must be defined at the point of continuity.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"limₓ→c f(x) = f(c).\"</span> This statement encapsulates the third and most comprehensive condition for continuity, which implies the first two are also met. If the limit equals the function value, then both must exist and be defined.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The derivative of f(x) at x=c is zero.\"</span> While a continuous function might have a derivative of zero at a point (e.g., a local extremum), this is not the definition of continuity itself, nor is differentiability required for continuity (though differentiability implies continuity).</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The condition limₓ→c f(x) = f(c) is the defining characteristic of continuity at a point, as it inherently requires both the limit to exist and the function to be defined at that point, and for those values to be equal.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A function f(x) is continuous at a point x=c if limₓ→c f(x) = f(c).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "limₓ→c f(x) = f(c)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Evaluate the limit: limₓ→2 (3x² - 5x + 1).",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "7"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Evaluating Limits by Direct Substitution",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Evaluating Limits by Direct Substitution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For polynomial functions, and many other elementary functions, the <span style='color:var(--orange);font-weight:bold;'>limit as x approaches a value 'c'</span> can be found by direct substitution, meaning you simply evaluate the function at 'c'. This is because polynomial functions are continuous everywhere.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The limit to evaluate is limₓ→2 (3x² - 5x + 1).</div><p><strong>Step 1: Identify the type of function.</strong></p><p>The function f(x) = 3x² - 5x + 1 is a polynomial function.</p><p><strong>Step 2: Apply the direct substitution property for limits.</strong></p><p>Since polynomial functions are continuous everywhere, we can find the limit by substituting the value x=2 directly into the function.</p><p>limₓ→2 (3x² - 5x + 1) = 3(2)² - 5(2) + 1</p><p><strong>Step 3: Perform the calculation.</strong></p><p>= 3(4) - 10 + 1</p><p>= 12 - 10 + 1</p><p>= <span style='color:var(--orange);font-weight:bold;'>2 + 1 = 3</span></p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"1\"</span> is incorrect.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"3\"</span> is the correct calculated value.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"5\"</span> is incorrect.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"7\"</span> is incorrect.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For polynomial functions, direct substitution is the most straightforward and accurate method for evaluating limits. The calculation is arithmetic, confirming the result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The limit limₓ→2 (3x² - 5x + 1) is 3.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which type of discontinuity occurs when a hole exists in the graph of a function that can be 'filled in' by defining or redefining the function at that single point?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Jump discontinuity"
+        },
+        {
+          "type": "string",
+          "content": "Infinite discontinuity"
+        },
+        {
+          "type": "string",
+          "content": "Removable discontinuity"
+        },
+        {
+          "type": "string",
+          "content": "Essential discontinuity"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Types of Discontinuity",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Discontinuity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>removable discontinuity</span> occurs at a point 'c' where limₓ→c f(x) exists but is not equal to f(c), or f(c) is undefined. It can be 'removed' by redefining the function at that single point.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the type of discontinuity characterized by a 'hole' in the graph that can be filled by redefining the function at that point.</div><p><strong>Step 1: Understand the characteristics of different discontinuities.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Jump discontinuity:</span> Occurs when the left-hand limit and the right-hand limit at a point both exist but are not equal. The graph 'jumps' from one value to another.</li><li><span style='color:var(--orange);font-weight:bold;'>Infinite discontinuity:</span> Occurs when the function approaches positive or negative infinity as x approaches a point (e.g., at a vertical asymptote). The limit does not exist.</li><li><span style='color:var(--orange);font-weight:bold;'>Removable discontinuity:</span> Occurs when the limit of the function exists at a point, but the function value at that point is either undefined or does not equal the limit. This creates a 'hole' in the graph.</li></ul><p><strong>Step 2: Match the description to the correct type.</strong></p><p>The description provided, a 'hole' in the graph that can be 'filled in' by defining or redefining the function at that single point, perfectly matches the definition of a removable discontinuity.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Jump discontinuity\"</span> does not fit, as it involves a break where the function values jump.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Infinite discontinuity\"</span> does not fit, as it involves the function approaching infinity, not a single hole.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Removable discontinuity\"</span> matches the description exactly.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Essential discontinuity\"</span> is a broader term sometimes used to refer to non-removable discontinuities (like jump or infinite), but not a specific type that describes a 'hole'.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A removable discontinuity is characterized by the existence of a limit at the point, even if the function itself is undefined or has a different value there. This allows for the 'removal' of the discontinuity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The type of discontinuity described is a removable discontinuity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Removable discontinuity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Given f(x) = 5, what is limₓ→3 f(x)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Limit of a Constant Function",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Limit of a Constant Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>limit of a constant function</span> as x approaches any value 'c' is always equal to the constant itself. That is, if f(x) = k (where k is a constant), then limₓ→c f(x) = k.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = 5, and we need to find limₓ→3 f(x).</div><p><strong>Step 1: Identify the function type.</strong></p><p>The function f(x) = 5 is a constant function.</p><p><strong>Step 2: Apply the limit property for constant functions.</strong></p><p>According to the properties of limits, the limit of a constant function is the constant itself, regardless of what value 'x' approaches.</p><p>limₓ→3 5 = <span style='color:var(--orange);font-weight:bold;'>5</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"0\"</span> is incorrect. The limit is not zero unless the constant itself is zero.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"3\"</span> is incorrect. This is the value 'x' is approaching, not the function's value.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"5\"</span> is correct, as it is the value of the constant function.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Undefined\"</span> is incorrect. The limit of a constant function is always defined.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A constant function graphically is a horizontal line. As x approaches any point on the x-axis, the y-value (function value) remains the same constant value.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The limit limₓ→3 f(x) is 5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "If limₓ→a f(x) = L and limₓ→a g(x) = M, what is limₓ→a [f(x) + g(x)]?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "L - M"
+        },
+        {
+          "type": "string",
+          "content": "L * M"
+        },
+        {
+          "type": "string",
+          "content": "L / M (if M ≠ 0)"
+        },
+        {
+          "type": "string",
+          "content": "L + M"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Limit Laws (Sum Rule)",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Limit Sum Rule</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>Sum Rule for Limits</span> states that if the limits of two functions exist as x approaches a certain value, then the limit of their sum is the sum of their individual limits. Mathematically, if limₓ→a f(x) = L and limₓ→a g(x) = M, then limₓ→a [f(x) + g(x)] = L + M.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> We are given the limits of two functions, f(x) and g(x), as x approaches 'a': limₓ→a f(x) = L and limₓ→a g(x) = M. We need to find the limit of their sum, limₓ→a [f(x) + g(x)].</div><p><strong>Step 1: Identify the relevant limit property.</strong></p><p>This question directly tests the Sum Rule for limits.</p><p><strong>Step 2: Apply the Sum Rule.</strong></p><p>According to the Sum Rule, the limit of the sum of two functions is the sum of their limits:</p><p>limₓ→a [f(x) + g(x)] = limₓ→a f(x) + limₓ→a g(x)</p><p>Substitute the given limit values:</p><p>= <span style='color:var(--orange);font-weight:bold;'>L + M</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"L - M\"</span> represents the difference rule.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"L * M\"</span> represents the product rule.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"L / M (if M ≠ 0)\"</span> represents the quotient rule.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"L + M\"</span> is the correct application of the sum rule.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The limit laws are fundamental properties that simplify the computation of limits for combined functions. The sum rule is one of the most basic.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ limₓ→a [f(x) + g(x)] = L + M.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "L + M"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "For a function to be continuous at x=c, which of these is NOT a necessary condition?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "f(c) is defined."
+        },
+        {
+          "type": "string",
+          "content": "limₓ→c f(x) exists."
+        },
+        {
+          "type": "string",
+          "content": "The derivative f'(c) exists."
+        },
+        {
+          "type": "string",
+          "content": "limₓ→c f(x) = f(c)."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Conditions for Continuity",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conditions for Continuity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A function f(x) is <span style='color:var(--orange);font-weight:bold;'>continuous at a point x=c</span> if and only if three conditions are met: (1) f(c) is defined, (2) limₓ→c f(x) exists, and (3) limₓ→c f(x) = f(c). Differentiability implies continuity, but continuity does not necessarily imply differentiability.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify which condition is NOT necessary for a function to be continuous at x=c.</div><p><strong>Step 1: List the necessary conditions for continuity at x=c.</strong></p><p>The three necessary conditions for continuity at x=c are:</p><ol><li>f(c) must be defined.</li><li>limₓ→c f(x) must exist.</li><li>limₓ→c f(x) must be equal to f(c).</li></ol><p><strong>Step 2: Evaluate each option against these conditions.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"f(c) is defined.\"</span> This is a necessary condition.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"limₓ→c f(x) exists.\"</span> This is a necessary condition.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"The derivative f'(c) exists.\"</span> This is NOT a necessary condition for continuity. For example, the absolute value function f(x)=|x| is continuous at x=0 but its derivative does not exist at x=0 (it has a sharp corner).</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"limₓ→c f(x) = f(c).\"</span> This is the third and overall condition, which implies the first two are met. Thus, it's a necessary condition.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A function can be continuous but not differentiable (e.g., at a sharp corner or cusp). Therefore, the existence of the derivative is not a prerequisite for continuity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The existence of the derivative f'(c) is NOT a necessary condition for a function to be continuous at x=c.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The derivative f'(c) exists."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "When evaluating limₓ→0 (sin x / x), what is the value of this special limit?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "-1"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Special Trigonometric Limits",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Special Trigonometric Limit</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> There are several <span style='color:var(--orange);font-weight:bold;'>special trigonometric limits</span> that are commonly used in calculus. One of the most important is limₓ→0 (sin x / x), which evaluates to a specific constant.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the value of the limit limₓ→0 (sin x / x).</div><p><strong>Step 1: Recognize the special limit form.</strong></p><p>The limit limₓ→0 (sin x / x) is a fundamental special trigonometric limit in calculus. It cannot be evaluated by direct substitution because it results in the indeterminate form 0/0.</p><p><strong>Step 2: Recall the value of this special limit.</strong></p><p>Through geometric arguments (Squeeze Theorem) or L'Hôpital's Rule (which requires knowledge of derivatives), it is proven that:</p><p>limₓ→0 (sin x / x) = <span style='color:var(--orange);font-weight:bold;'>1</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"0\"</span> is incorrect. While the numerator approaches 0, the denominator also approaches 0, leading to an indeterminate form, not necessarily 0.</li><li>Option 2: <span style='color='var(--orange);font-weight:bold;'>\"1\"</span> is the correct value for this special limit.</li><li>Option 3: <span style='color='var(--orange);font-weight:bold;'>\"-1\"</span> is incorrect.</li><li>Option 4: <span style='color='var(--orange);font-weight:bold;'>\"Undefined\"</span> is incorrect. The limit is well-defined and equals 1.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a standard result that students are expected to know or be able to derive. It is foundational for differentiating trigonometric functions.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The value of limₓ→0 (sin x / x) is 1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The derivative of a function at a point gives the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Area under the curve."
+        },
+        {
+          "type": "string",
+          "content": "Value of the function at that point."
+        },
+        {
+          "type": "string",
+          "content": "Slope of the tangent line to the curve at that point."
+        },
+        {
+          "type": "string",
+          "content": "Y-intercept of the curve."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Geometric Interpretation of Derivative",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Geometric Interpretation of the Derivative</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Geometrically, the <span style='color:var(--orange);font-weight:bold;'>derivative of a function f(x) at a point x=a</span>, denoted f'(a), represents the <span style='color:var(--orange);font-weight:bold;'>slope of the tangent line</span> to the graph of y=f(x) at the point (a, f(a)). It also signifies the instantaneous rate of change of the function at that specific point.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the geometric meaning of the derivative of a function at a point.</div><p><strong>Step 1: Recall the definition and interpretations of the derivative.</strong></p><p>The derivative, f'(x), is defined as the limit of the difference quotient: f'(x) = limₕ→0 [f(x+h) - f(x)] / h. This definition captures the instantaneous rate of change and, geometrically, the slope of the tangent line.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Area under the curve.\"</span> This concept is related to integration (definite integrals), not differentiation.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Value of the function at that point.\"</span> This is f(x), not f'(x).</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Slope of the tangent line to the curve at that point.\"</span> This is the primary geometric interpretation of the derivative.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Y-intercept of the curve.\"</span> This is the value of f(0), which is generally unrelated to the derivative at an arbitrary point.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The concept of the derivative as the slope of the tangent line is central to understanding its applications in geometry and physics (e.g., velocity).</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of a function at a point gives the slope of the tangent line to the curve at that point.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slope of the tangent line to the curve at that point."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Using the power rule, what is the derivative of f(x) = x⁵?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x⁶"
+        },
+        {
+          "type": "string",
+          "content": "5x⁴"
+        },
+        {
+          "type": "string",
+          "content": "x⁴"
+        },
+        {
+          "type": "string",
+          "content": "5x⁵"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Power Rule of Differentiation",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Power Rule of Differentiation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>Power Rule of differentiation</span> states that for any real number n, the derivative of xⁿ is n*x^(n-1). That is, d/dx (xⁿ) = n*x^(n-1).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = x⁵, and we need to find its derivative using the power rule.</div><p><strong>Step 1: Identify the function and the exponent.</strong></p><p>The function is f(x) = x⁵. Here, x is the variable and n = 5 is the exponent.</p><p><strong>Step 2: Apply the Power Rule.</strong></p><p>According to the Power Rule, d/dx (xⁿ) = n*x^(n-1).</p><p>Substitute n = 5:</p><p>f'(x) = 5 * x^(5-1)</p><p>f'(x) = <span style='color:var(--orange);font-weight:bold;'>5x⁴</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"x⁶\"</span> is incorrect. This would be the result of integrating x⁵/5 or adding 1 to the power.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"5x⁴\"</span> is the correct derivative according to the power rule.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"x⁴\"</span> is incorrect. This would be obtained if you only subtracted 1 from the power without multiplying by the original power.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"5x⁵\"</span> is incorrect. This would be the result of multiplying by the power but not reducing the power.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The power rule is a foundational rule in differentiation. Remembering to both multiply by the original exponent and reduce the exponent by one is key.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of f(x) = x⁵ is 5x⁴.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5x⁴"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "What is the derivative of a constant function, such as f(x) = 10?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "10"
+        },
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "Undefined"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Derivative of a Constant",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Derivative of a Constant Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>derivative of a constant function</span> is always zero. This is because a constant function represents a horizontal line, and the slope of a horizontal line is always 0. Mathematically, if f(x) = c (where c is a constant), then f'(x) = 0.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = 10, which is a constant function. We need to find its derivative.</div><p><strong>Step 1: Identify the function type.</strong></p><p>f(x) = 10 is a constant function. Its value does not change with x.</p><p><strong>Step 2: Apply the rule for the derivative of a constant.</strong></p><p>The rate of change of a constant value is always zero, as it never changes.</p><p>Therefore, d/dx (10) = <span style='color:var(--orange);font-weight:bold;'>0</span>.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"1\"</span> is incorrect. This would be the derivative of x (i.e., x¹).</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"10\"</span> is incorrect. This is the original function value, not its rate of change.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"0\"</span> is the correct derivative of any constant function.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Undefined\"</span> is incorrect. The derivative of a constant is always well-defined as zero.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A graph of f(x)=10 is a horizontal line at y=10. The slope of any horizontal line is 0, which aligns with the definition of the derivative as the slope of the tangent line.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of a constant function f(x) = 10 is 0.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "If f(x) = 4x² + 2x - 7, what is f'(x)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "8x + 2 - 7"
+        },
+        {
+          "type": "string",
+          "content": "4x + 2"
+        },
+        {
+          "type": "string",
+          "content": "8x + 2"
+        },
+        {
+          "type": "string",
+          "content": "4x² + 2"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Differentiation of Polynomials",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Differentiation of Polynomials</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To differentiate a polynomial function, we apply the <span style='color:var(--orange);font-weight:bold;'>power rule</span> to each term involving a variable, and the <span style='color:var(--orange);font-weight:bold;'>constant rule</span> to constant terms. The <span style='color:var(--orange);font-weight:bold;'>sum/difference rule</span> allows us to differentiate each term separately.<ul><li>Power Rule: d/dx(axⁿ) = anxⁿ⁻¹</li><li>Constant Rule: d/dx(c) = 0</li></ul></div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = 4x² + 2x - 7. We need to find its derivative f'(x).</div><p><strong>Step 1: Differentiate each term separately.</strong></p><p>The function is f(x) = 4x² + 2x - 7. We will differentiate each term using the appropriate rules:</p><ol><li><span style='color:var(--orange);font-weight:bold;'>For the term 4x²:</span> Apply the power rule. d/dx(4x²) = 4 * 2x^(2-1) = 8x¹.</li><li><span style='color:var(--orange);font-weight:bold;'>For the term 2x:</span> This is 2x¹. Apply the power rule. d/dx(2x¹) = 2 * 1x^(1-1) = 2x⁰ = 2 * 1 = 2.</li><li><span style='color:var(--orange);font-weight:bold;'>For the term -7:</span> This is a constant. Apply the constant rule. d/dx(-7) = 0.</li></ol><p><strong>Step 2: Combine the derivatives of each term.</strong></p><p>f'(x) = 8x + 2 - 0</p><p>f'(x) = <span style='color:var(--orange);font-weight:bold;'>8x + 2</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"8x + 2 - 7\"</span> is incorrect because the constant -7 should differentiate to 0.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"4x + 2\"</span> is incorrect because 4x² differentiates to 8x, not 4x.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"8x + 2\"</span> is the correct derivative.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"4x² + 2\"</span> is incorrect as it implies no change to the first term and an incorrect derivative for the constant.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The process involves applying basic differentiation rules term by term. Carefully applying the power rule and constant rule yields the correct result.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of f(x) = 4x² + 2x - 7 is f'(x) = 8x + 2.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "8x + 2"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "The notation dy/dx represents the derivative of y with respect to x. What is another common notation for the derivative of y = f(x)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "∫f(x)dx"
+        },
+        {
+          "type": "string",
+          "content": "f''(x)"
+        },
+        {
+          "type": "string",
+          "content": "f'(x)"
+        },
+        {
+          "type": "string",
+          "content": "lim f(x)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Notation for Derivatives",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Notation for Derivatives</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> There are several common notations for the derivative of a function. For a function y = f(x), the derivative can be denoted as <span style='color:var(--orange);font-weight:bold;'>f'(x)</span> (prime notation), <span style='color:var(--orange);font-weight:bold;'>dy/dx</span> (Leibniz notation), or y' (Lagrange's notation).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question states that dy/dx represents the derivative of y with respect to x and asks for another common notation for the derivative of y = f(x).</div><p><strong>Step 1: Recall common derivative notations.</strong></p><p>Calculus uses various notations for derivatives to suit different contexts. The most common are:</p><ul><li>Leibniz notation: dy/dx or d/dx [f(x)]</li><li>Lagrange's notation (prime notation): f'(x) or y'</li><li>Newton's notation (dot notation, often for time derivatives): ẋ</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"∫f(x)dx\"</span> represents the indefinite integral (antiderivative) of f(x), not its derivative.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"f''(x)\"</span> represents the second derivative of f(x), which is the derivative of f'(x). While it's a derivative notation, it's not the *first* derivative.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"f'(x)\"</span> is a widely used and correct notation for the first derivative of f(x).</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"lim f(x)\"</span> represents a limit, not a derivative. (Derivatives are defined using limits, but the limit itself is not the derivative notation).</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding different notations is crucial for reading and writing mathematical expressions in calculus. f'(x) and dy/dx are the two most fundamental notations for the first derivative.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Another common notation for the derivative of y = f(x) is f'(x).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "f'(x)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "If a function is differentiable at a point, it must also be __________ at that point.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "linear"
+        },
+        {
+          "type": "string",
+          "content": "constant"
+        },
+        {
+          "type": "string",
+          "content": "continuous"
+        },
+        {
+          "type": "string",
+          "content": "discontinuous"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Relationship between Differentiability and Continuity",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Relationship between Differentiability and Continuity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A fundamental theorem in calculus states that if a function is <span style='color:var(--orange);font-weight:bold;'>differentiable at a point</span>, then it must also be <span style='color:var(--orange);font-weight:bold;'>continuous at that point</span>. However, the converse is not true; a function can be continuous but not differentiable (e.g., at a sharp corner or cusp).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the property a function must possess if it is differentiable at a point.</div><p><strong>Step 1: Understand the implication of differentiability.</strong></p><p>Differentiability means that the function has a well-defined tangent line (and thus a finite slope) at that point. For a tangent line to exist, the function cannot have a break, a jump, or a hole; nor can it have a sharp corner or a vertical tangent. These conditions directly imply that the function must be smooth and unbroken at that point, which is the definition of continuity.</p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"linear\"</span> is incorrect. A differentiable function doesn't have to be linear; it can be curved.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"constant\"</span> is incorrect. A differentiable function doesn't have to be constant; it can have varying slopes.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"continuous\"</span> is correct. Differentiability implies continuity.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"discontinuous\"</span> is incorrect. If a function is discontinuous, a derivative cannot exist at that point.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a core theorem in introductory calculus. A function must be connected and not have any 'jumps' or 'holes' (i.e., be continuous) to be smooth enough to have a well-defined tangent line (i.e., be differentiable).</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If a function is differentiable at a point, it must also be continuous at that point.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "continuous"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What is the derivative of f(x) = eˣ?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "xeˣ⁻¹"
+        },
+        {
+          "type": "string",
+          "content": "1/eˣ"
+        },
+        {
+          "type": "string",
+          "content": "eˣ"
+        },
+        {
+          "type": "string",
+          "content": "ln(x)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Derivative of Exponential Functions",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Derivative of the Natural Exponential Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>natural exponential function</span>, f(x) = eˣ, has the unique property that its derivative is itself. That is, d/dx (eˣ) = eˣ.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = eˣ. We need to find its derivative.</div><p><strong>Step 1: Recall the derivative rule for eˣ.</strong></p><p>The derivative of the natural exponential function eˣ is one of the most distinctive and straightforward differentiation rules. It remains unchanged after differentiation.</p><p>d/dx (eˣ) = <span style='color:var(--orange);font-weight:bold;'>eˣ</span></p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"xeˣ⁻¹\"</span> is incorrect. This looks like an attempt to apply the power rule, but it is not applicable for exponential functions.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"1/eˣ\"</span> is incorrect. This would be the derivative of e⁻ˣ with a negative sign or related to the integral of e⁻ˣ.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"eˣ\"</span> is the correct derivative of eˣ.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"ln(x)\"</span> is incorrect. This is the antiderivative of 1/x, or the inverse function of eˣ. The derivative of ln(x) is 1/x.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a fundamental differentiation rule that should be memorized. Its unique self-derivative property makes eˣ a very important function in calculus and various applications.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of f(x) = eˣ is eˣ.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "eˣ"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "The derivative of ln(x) is:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x"
+        },
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "1/x"
+        },
+        {
+          "type": "string",
+          "content": "ln(x)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Derivative of Logarithmic Functions",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Derivative of the Natural Logarithm Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>derivative of the natural logarithm function</span>, f(x) = ln(x), is 1/x. This rule is crucial for differentiating logarithmic expressions and is often derived from the inverse relationship with the exponential function.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = ln(x). We need to find its derivative.</div><p><strong>Step 1: Recall the derivative rule for ln(x).</strong></p><p>The derivative of the natural logarithm function is a standard differentiation rule that should be known.</p><p>d/dx (ln(x)) = <span style='color:var(--orange);font-weight:bold;'>1/x</span></p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"x\"</span> is incorrect. This is related to the derivative of x²/2.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"1\"</span> is incorrect. This is the derivative of x.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"1/x\"</span> is the correct derivative of ln(x).</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"ln(x)\"</span> is incorrect. This is the original function, not its derivative. (The derivative of eˣ is eˣ, but this property does not apply to ln(x)).</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This rule is fundamental in calculus and is often used in conjunction with the chain rule for more complex logarithmic functions. It's a direct result of applying implicit differentiation to y = ln(x), which means eʸ = x. Differentiating both sides with respect to x gives eʸ * dy/dx = 1, so dy/dx = 1/eʸ = 1/x.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of ln(x) is 1/x.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1/x"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "For a multivariable function f(x, y), what does ∂f/∂x represent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The total derivative of f with respect to x."
+        },
+        {
+          "type": "string",
+          "content": "The derivative of f with respect to y, holding x constant."
+        },
+        {
+          "type": "string",
+          "content": "The derivative of f with respect to x, holding y constant."
+        },
+        {
+          "type": "string",
+          "content": "The integral of f with respect to x."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Derivatives Definition",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Partial Derivative</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For a <span style='color:var(--orange);font-weight:bold;'>multivariable function</span>, a <span style='color:var(--orange);font-weight:bold;'>partial derivative</span> measures the rate of change of the function with respect to one of its independent variables, while treating the other independent variables as constants. The notation ∂f/∂x specifically means the partial derivative of f with respect to x.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the meaning of the notation ∂f/∂x for a multivariable function f(x, y).</div><p><strong>Step 1: Understand the concept of partial differentiation.</strong></p><p>When a function has more than one independent variable (like x and y in f(x, y)), we can differentiate it with respect to one variable while holding the others constant. This process is called partial differentiation.</p><p><strong>Step 2: Interpret the notation ∂f/∂x.</strong></p><p>The symbol '∂' indicates a partial derivative. The denominator '∂x' indicates that the differentiation is with respect to the variable 'x'. The implicit rule is that all other variables (in this case, 'y') are treated as constants during this differentiation.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"The total derivative of f with respect to x.\"</span> The total derivative considers how f changes when both x and y change (if y is also a function of x), which is different from a partial derivative.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"The derivative of f with respect to y, holding x constant.\"</span> This describes ∂f/∂y, not ∂f/∂x.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"The derivative of f with respect to x, holding y constant.\"</span> This is the correct definition of the partial derivative ∂f/∂x.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The integral of f with respect to x.\"</span> This notation uses the integral sign (∫) and relates to integration, not differentiation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Understanding partial derivative notation is fundamental for working with multivariable functions. The key distinction is treating other variables as constants.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a multivariable function f(x, y), ∂f/∂x represents the derivative of f with respect to x, holding y constant.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The derivative of f with respect to x, holding y constant."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Given f(x, y) = 3x² + 2y - 5xy, what is ∂f/∂x?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "6x - 5y"
+        },
+        {
+          "type": "string",
+          "content": "2 - 5x"
+        },
+        {
+          "type": "string",
+          "content": "6x + 2"
+        },
+        {
+          "type": "string",
+          "content": "3x² - 5y"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Calculating Partial Derivatives (x)",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Partial Derivatives with respect to x</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To find the <span style='color:var(--orange);font-weight:bold;'>partial derivative with respect to x (∂f/∂x)</span> of a multivariable function f(x, y), treat 'y' as a constant and differentiate the function with respect to 'x' using standard differentiation rules (power rule, constant rule, product rule if necessary).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The multivariable function f(x, y) = 3x² + 2y - 5xy. We need to find its partial derivative with respect to x, ∂f/∂x.</div><p><strong>Step 1: Treat y as a constant and differentiate each term with respect to x.</strong></p><p>We have f(x, y) = 3x² + 2y - 5xy.</p><ol><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 3x² with respect to x:</span> Using the power rule, d/dx(3x²) = 3 * 2x^(2-1) = 6x.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 2y with respect to x:</span> Since y is treated as a constant, 2y is also a constant. The derivative of a constant is 0. So, d/dx(2y) = 0.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate -5xy with respect to x:</span> Here, -5y is treated as a constant coefficient of x. So, d/dx(-5xy) = -5y * d/dx(x) = -5y * 1 = -5y.</li></ol><p><strong>Step 2: Combine the differentiated terms.</strong></p><p>∂f/∂x = 6x + 0 - 5y</p><p>∂f/∂x = <span style='color:var(--orange);font-weight:bold;'>6x - 5y</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"6x - 5y\"</span> is the correct partial derivative.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"2 - 5x\"</span> would be ∂f/∂y.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"6x + 2\"</span> is incorrect; it misses the term involving y and incorrectly differentiates the '2y' term.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"3x² - 5y\"</span> is incorrect; it does not differentiate the 3x² term and treats 2y as if it disappeared without being a constant that differentiated to 0.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The key is to remember that when differentiating with respect to x, any term containing only y (or other variables) or just a constant will differentiate to zero, and terms like -5xy are treated as (constant) * x.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For f(x, y) = 3x² + 2y - 5xy, ∂f/∂x = 6x - 5y.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6x - 5y"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Given f(x, y) = 3x² + 2y - 5xy, what is ∂f/∂y?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "6x - 5y"
+        },
+        {
+          "type": "string",
+          "content": "2 - 5x"
+        },
+        {
+          "type": "string",
+          "content": "6x + 2"
+        },
+        {
+          "type": "string",
+          "content": "3x² - 5x"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Calculating Partial Derivatives (y)",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Partial Derivatives with respect to y</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To find the <span style='color:var(--orange);font-weight:bold;'>partial derivative with respect to y (∂f/∂y)</span> of a multivariable function f(x, y), treat 'x' as a constant and differentiate the function with respect to 'y' using standard differentiation rules.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The multivariable function f(x, y) = 3x² + 2y - 5xy. We need to find its partial derivative with respect to y, ∂f/∂y.</div><p><strong>Step 1: Treat x as a constant and differentiate each term with respect to y.</strong></p><p>We have f(x, y) = 3x² + 2y - 5xy.</p><ol><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 3x² with respect to y:</span> Since x is treated as a constant, 3x² is also a constant. The derivative of a constant is 0. So, d/dy(3x²) = 0.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 2y with respect to y:</span> Using the power rule for y, d/dy(2y) = 2 * 1y^(1-1) = 2y⁰ = 2 * 1 = 2.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate -5xy with respect to y:</span> Here, -5x is treated as a constant coefficient of y. So, d/dy(-5xy) = -5x * d/dy(y) = -5x * 1 = -5x.</li></ol><p><strong>Step 2: Combine the differentiated terms.</strong></p><p>∂f/∂y = 0 + 2 - 5x</p><p>∂f/∂y = <span style='color:var(--orange);font-weight:bold;'>2 - 5x</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"6x - 5y\"</span> is incorrect. This is ∂f/∂x.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"2 - 5x\"</span> is the correct partial derivative.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"6x + 2\"</span> is incorrect; it differentiates the x-term with respect to x and the y-term with respect to y, but ignores the mixed term or treats it incorrectly.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"3x² - 5x\"</span> is incorrect as it does not differentiate the 3x² term and incorrectly differentiates 2y.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The key is to remember that when differentiating with respect to y, any term containing only x (or other variables) or just a constant will differentiate to zero, and terms like -5xy are treated as (constant) * y.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For f(x, y) = 3x² + 2y - 5xy, ∂f/∂y = 2 - 5x.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 - 5x"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "A function that has more than one independent variable is known as a:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Constant function"
+        },
+        {
+          "type": "string",
+          "content": "Univariate function"
+        },
+        {
+          "type": "string",
+          "content": "Multivariable function"
+        },
+        {
+          "type": "string",
+          "content": "Linear function"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition of Multivariable Function",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Multivariable Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>multivariable function</span> is a function whose input consists of multiple independent variables, typically mapping from a subset of ℝⁿ to ℝ. For example, f(x, y) = x² + y² is a multivariable function with two independent variables.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the name of a function that has more than one independent variable.</div><p><strong>Step 1: Understand the terminology related to function variables.</strong></p><ul><li>A function with one independent variable (e.g., f(x)) is called a univariate function.</li><li>A function with multiple independent variables (e.g., f(x, y), f(x, y, z)) is called a multivariable function.</li></ul><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Constant function\"</span> means the function's output is always the same value, regardless of its input variables (e.g., f(x,y) = 5). This is a type of function, but not the general term for having multiple variables.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Univariate function\"</span> specifically means a function with only one independent variable.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Multivariable function\"</span> correctly describes a function with more than one independent variable.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Linear function\"</span> describes a function whose graph is a straight line or a plane (e.g., f(x,y) = ax + by + c), but this is a specific type of function, not the general term for having multiple variables.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'multivariable' directly indicates 'multiple variables', which is precisely what the question describes.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A function that has more than one independent variable is known as a multivariable function.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Multivariable function"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "For f(x, y) = 2x³y + 7y², what is the partial derivative ∂f/∂x?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "6x²y + 14y"
+        },
+        {
+          "type": "string",
+          "content": "2x³ + 14y"
+        },
+        {
+          "type": "string",
+          "content": "6x²y"
+        },
+        {
+          "type": "string",
+          "content": "2x³ + 7y²"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Differentiation of Polynomial Terms",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Partial Differentiation with Respect to x</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When calculating the <span style='color:var(--orange);font-weight:bold;'>partial derivative ∂f/∂x</span> of a multivariable function f(x, y), treat all variables other than x (in this case, y) as constants. Apply standard differentiation rules to terms involving x, and any term that is purely a function of y (or other constants) will differentiate to zero.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x, y) = 2x³y + 7y². We need to find ∂f/∂x.</div><p><strong>Step 1: Differentiate each term with respect to x, treating y as a constant.</strong></p><p>We have f(x, y) = 2x³y + 7y².</p><ol><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 2x³y with respect to x:</span> Here, 2y is a constant coefficient. Apply the power rule to x³. d/dx(2x³y) = 2y * (3x²) = 6x²y.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 7y² with respect to x:</span> Since this term contains only y and a constant, and we are differentiating with respect to x, 7y² is treated as a constant. The derivative of a constant is 0. So, d/dx(7y²) = 0.</li></ol><p><strong>Step 2: Combine the derivatives.</strong></p><p>∂f/∂x = 6x²y + 0</p><p>∂f/∂x = <span style='color:var(--orange);font-weight:bold;'>6x²y</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"6x²y + 14y\"</span> is incorrect, as 14y would be part of ∂f/∂y.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"2x³ + 14y\"</span> is incorrect. This involves incorrect differentiation of both terms.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"6x²y\"</span> is the correct partial derivative.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"2x³ + 7y²\"</span> is incorrect, as it shows no differentiation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The key rule is to treat non-differentiation variables as constants. The term 7y² contains no x, so its derivative with respect to x is 0. The term 2x³y treats 2y as a constant multiplier for x³.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For f(x, y) = 2x³y + 7y², the partial derivative ∂f/∂x = 6x²y.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6x²y"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "For f(x, y) = 2x³y + 7y², what is the partial derivative ∂f/∂y?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "6x²y + 14y"
+        },
+        {
+          "type": "string",
+          "content": "2x³ + 14y"
+        },
+        {
+          "type": "string",
+          "content": "6x²y"
+        },
+        {
+          "type": "string",
+          "content": "2x³ + 7y²"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Partial Differentiation of Polynomial Terms",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Partial Differentiation with Respect to y</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When calculating the <span style='color:var(--orange);font-weight:bold;'>partial derivative ∂f/∂y</span> of a multivariable function f(x, y), treat all variables other than y (in this case, x) as constants. Apply standard differentiation rules to terms involving y, and any term that is purely a function of x (or other constants) will differentiate to zero.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x, y) = 2x³y + 7y². We need to find ∂f/∂y.</div><p><strong>Step 1: Differentiate each term with respect to y, treating x as a constant.</strong></p><p>We have f(x, y) = 2x³y + 7y².</p><ol><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 2x³y with respect to y:</span> Here, 2x³ is a constant coefficient. Apply the power rule to y. d/dy(2x³y) = 2x³ * (1y⁰) = 2x³.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 7y² with respect to y:</span> Apply the power rule to y². d/dy(7y²) = 7 * (2y¹) = 14y.</li></ol><p><strong>Step 2: Combine the derivatives.</strong></p><p>∂f/∂y = 2x³ + 14y</p><p>∂f/∂y = <span style='color:var(--orange);font-weight:bold;'>2x³ + 14y</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"6x²y + 14y\"</span> is incorrect. This is a mix of ∂f/∂x and ∂f/∂y derivatives.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"2x³ + 14y\"</span> is the correct partial derivative.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"6x²y\"</span> is incorrect. This is ∂f/∂x.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"2x³ + 7y²\"</span> is incorrect, as it shows no differentiation for the second term.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The key rule is to treat non-differentiation variables as constants. The term 2x³y treats 2x³ as a constant multiplier for y. The term 7y² is differentiated normally with respect to y.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For f(x, y) = 2x³y + 7y², the partial derivative ∂f/∂y = 2x³ + 14y.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2x³ + 14y"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "What is the second partial derivative ∂²f/∂x² for the function f(x, y) = x⁴ - 3xy²?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "12x²"
+        },
+        {
+          "type": "string",
+          "content": "4x³ - 3y²"
+        },
+        {
+          "type": "string",
+          "content": "12x² - 3y²"
+        },
+        {
+          "type": "string",
+          "content": "-6x"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Second Partial Derivatives",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Second Partial Derivative ∂²f/∂x²</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>second partial derivative</span> involves differentiating a partial derivative with respect to one of its variables again. For ∂²f/∂x², it means differentiating f with respect to x, and then differentiating the result again with respect to x. Other variables are treated as constants throughout.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x, y) = x⁴ - 3xy². We need to find the second partial derivative ∂²f/∂x².</div><p><strong>Step 1: Find the first partial derivative with respect to x, ∂f/∂x.</strong></p><p>Treat y as a constant.</p><p>∂f/∂x = d/dx(x⁴ - 3xy²)</p><p>∂f/∂x = d/dx(x⁴) - d/dx(3xy²)</p><p>∂f/∂x = 4x³ - 3y²(1)  (since y² is a constant multiplier of x)</p><p>∂f/∂x = <span style='color:var(--orange);font-weight:bold;'>4x³ - 3y²</span></p><p><strong>Step 2: Find the second partial derivative with respect to x by differentiating ∂f/∂x again with respect to x.</strong></p><p>Treat y as a constant.</p><p>∂²f/∂x² = d/dx(4x³ - 3y²)</p><p>∂²f/∂x² = d/dx(4x³) - d/dx(3y²)</p><p>∂²f/∂x² = 4 * 3x² - 0 (since 3y² is a constant with respect to x)</p><p>∂²f/∂x² = <span style='color:var(--orange);font-weight:bold;'>12x²</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"12x²\"</span> is the correct second partial derivative.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"4x³ - 3y²\"</span> is the first partial derivative ∂f/∂x, not the second.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"12x² - 3y²\"</span> is incorrect as the term -3y² differentiates to 0 when differentiating again with respect to x.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"-6x\"</span> is incorrect. This might be ∂²f/∂y∂x, a mixed partial derivative.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember to apply the partial differentiation rule twice. The first differentiation gives 4x³ - 3y². Differentiating this result with respect to x again means 4x³ becomes 12x², and -3y² (which is a constant with respect to x) becomes 0.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The second partial derivative ∂²f/∂x² for f(x, y) = x⁴ - 3xy² is 12x².</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "12x²"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which of the following describes a mixed partial derivative, such as ∂²f/∂y∂x?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Differentiating with respect to x twice."
+        },
+        {
+          "type": "string",
+          "content": "Differentiating with respect to y twice."
+        },
+        {
+          "type": "string",
+          "content": "Differentiating first with respect to y, then with respect to x."
+        },
+        {
+          "type": "string",
+          "content": "Differentiating first with respect to x, then with respect to y."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mixed Partial Derivatives Notation",
+      "Differentiation of Multi Variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mixed Partial Derivatives Notation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>mixed partial derivative</span> involves differentiating a function with respect to one variable, and then differentiating the result with respect to a different variable. The order of differentiation is read from right to left in the Leibniz notation (e.g., ∂²f/∂y∂x means differentiate with respect to x first, then y).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the meaning of a mixed partial derivative notation, specifically ∂²f/∂y∂x.</div><p><strong>Step 1: Interpret the Leibniz notation for mixed partial derivatives.</strong></p><p>In the notation ∂²f/∂y∂x:</p><ul><li>The variable closer to the function (x) indicates the first differentiation.</li><li>The variable further from the function (y) indicates the second differentiation.</li></ul><p>So, ∂²f/∂y∂x means to differentiate f with respect to x first, then differentiate the resulting expression with respect to y.</p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Differentiating with respect to x twice.\"</span> This would be ∂²f/∂x².</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Differentiating with respect to y twice.\"</span> This would be ∂²f/∂y².</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Differentiating first with respect to y, then with respect to x.\"</span> This would be ∂²f/∂x∂y (the order of variables in the denominator is reversed from the order of operations). This is a common point of confusion.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Differentiating first with respect to x, then with respect to y.\"</span> This correctly describes the operation for ∂²f/∂y∂x.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A mnemonic for Leibniz notation is to read the differentiation operators from right to left. So, ∂/∂y (∂f/∂x) means 'the partial derivative with respect to y of (the partial derivative of f with respect to x)'.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The mixed partial derivative ∂²f/∂y∂x means differentiating first with respect to x, then with respect to y.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differentiating first with respect to x, then with respect to y."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "The concept of 'marginal cost' in economics is an application of:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Integration"
+        },
+        {
+          "type": "string",
+          "content": "Limits"
+        },
+        {
+          "type": "string",
+          "content": "Differentiation"
+        },
+        {
+          "type": "string",
+          "content": "Algebra"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Marginal Concepts",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Marginal Concepts and Differentiation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In economics, <span style='color:var(--orange);font-weight:bold;'>marginal concepts</span> (like marginal cost, marginal revenue, marginal utility, marginal product) refer to the change in a total quantity resulting from a one-unit change in an independent variable. Mathematically, these marginal concepts are represented by the <span style='color:var(--orange);font-weight:bold;'>first derivative</span> of the total function.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks which mathematical concept is applied to derive 'marginal cost' in economics.</div><p><strong>Step 1: Understand 'marginal cost'.</strong></p><p>Marginal cost is defined as the change in total cost that arises when the quantity produced is incremented by one unit. It's essentially the rate of change of total cost with respect to the quantity produced.</p><p><strong>Step 2: Relate 'rate of change' to mathematical operations.</strong></p><p>In calculus, the rate of change of a function is precisely what the derivative measures. If C(Q) is the total cost function (where Q is quantity), then marginal cost (MC) is given by MC = dC/dQ.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Integration\"</span> is used to find total quantities from marginal quantities, or areas under curves. It's the reverse of differentiation.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Limits\"</span> are foundational to differentiation but not the direct operation that yields marginal cost.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Differentiation\"</span> is the correct operation to find the instantaneous rate of change, which is the definition of marginal cost.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Algebra\"</span> is a broader mathematical field and forms the basis for calculations, but differentiation is the specific calculus tool for this concept.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The direct relationship between marginal economic concepts and derivatives is a core application of calculus in economics. For instance, if C(Q) = aQ² + bQ + c, then MC = C'(Q) = 2aQ + b.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The concept of 'marginal cost' in economics is an application of differentiation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differentiation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "If a firm's total cost function is C(Q) = 5Q² + 10Q + 50, what is the marginal cost function (MC)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "5Q + 10"
+        },
+        {
+          "type": "string",
+          "content": "10Q + 10"
+        },
+        {
+          "type": "string",
+          "content": "5Q² + 10Q"
+        },
+        {
+          "type": "string",
+          "content": "Q² + Q + 50"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Marginal Cost Calculation",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Marginal Cost</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In economics, the <span style='color:var(--orange);font-weight:bold;'>marginal cost (MC)</span> is the rate of change of the total cost (C) with respect to the quantity (Q) produced. Mathematically, MC is the first derivative of the total cost function with respect to quantity: MC = dC/dQ.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The total cost function C(Q) = 5Q² + 10Q + 50. We need to find the marginal cost function (MC).</div><p><strong>Step 1: Understand the relationship between total cost and marginal cost.</strong></p><p>Marginal cost (MC) is the derivative of the total cost function C(Q) with respect to Q.</p><p>MC = dC/dQ</p><p><strong>Step 2: Differentiate the total cost function term by term.</strong></p><p>C(Q) = 5Q² + 10Q + 50</p><ol><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 5Q² with respect to Q:</span> Using the power rule, d/dQ(5Q²) = 5 * 2Q^(2-1) = 10Q.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 10Q with respect to Q:</span> Using the power rule, d/dQ(10Q) = 10 * 1Q^(1-1) = 10Q⁰ = 10.</li><li><span style='color:var(--orange);font-weight:bold;'>Differentiate 50 with respect to Q:</span> Since 50 is a constant, its derivative is 0.</li></ol><p><strong>Step 3: Combine the differentiated terms to get MC.</strong></p><p>MC = 10Q + 10 + 0</p><p>MC = <span style='color:var(--orange);font-weight:bold;'>10Q + 10</span></p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"5Q + 10\"</span> is incorrect; it shows incorrect differentiation for 5Q².</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"10Q + 10\"</span> is the correct marginal cost function.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"5Q² + 10Q\"</span> is incorrect; it shows partial differentiation, not full.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Q² + Q + 50\"</span> is incorrect; it shows an attempt at integration or an incorrect simplification.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Applying the basic rules of differentiation (power rule and constant rule) correctly to each term of the cost function yields the marginal cost.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The marginal cost function (MC) is 10Q + 10.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10Q + 10"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "What does a zero first derivative (f'(x) = 0) at a point typically indicate in optimization problems?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A point of inflection."
+        },
+        {
+          "type": "string",
+          "content": "A horizontal asymptote."
+        },
+        {
+          "type": "string",
+          "content": "A potential local maximum or minimum."
+        },
+        {
+          "type": "string",
+          "content": "The function is increasing."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Optimization Criteria (First Derivative)",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Derivative Test for Optimization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In optimization, points where the <span style='color:var(--orange);font-weight:bold;'>first derivative of a function is zero (f'(x) = 0)</span> are called <span style='color:var(--orange);font-weight:bold;'>critical points</span>. These points are candidates for local maxima, local minima, or points of inflection where the tangent line is horizontal. They represent potential optimal values for economic functions like profit or cost.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks what a zero first derivative (f'(x) = 0) at a point typically indicates in optimization problems.</div><p><strong>Step 1: Understand the role of the first derivative in optimization.</strong></p><p>The first derivative of a function tells us about the slope of the tangent line. When the slope is zero, the tangent line is horizontal. This occurs at peaks (local maxima) or valleys (local minima) of a function, or at certain inflection points where the curve temporarily flattens out.</p><p><strong>Step 2: Relate to optimization.</strong></p><p>In optimization problems (like maximizing profit or minimizing cost), we are looking for these 'turning points' where the rate of change is momentarily zero before changing direction. These are the crucial points to examine for potential optimal solutions.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"A point of inflection.\"</span> While a point of inflection can sometimes have a zero first derivative, it's not the *primary* or *only* indication. The second derivative test is more definitive for inflection points. More importantly, it's a critical point for local max/min.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"A horizontal asymptote.\"</span> A horizontal asymptote describes the behavior of a function as x approaches infinity or negative infinity, not a specific point where the derivative is zero.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"A potential local maximum or minimum.\"</span> This is the most accurate and general interpretation. A zero first derivative identifies a critical point that could be a local maximum, local minimum, or a saddle point/inflection point.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The function is increasing.\"</span> If the function is increasing, its first derivative is positive, not zero.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The First Derivative Test relies on finding points where f'(x)=0 (or is undefined) as candidates for local extrema. This is a foundational step in optimizing economic models.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A zero first derivative (f'(x) = 0) at a point typically indicates a potential local maximum or minimum in optimization problems.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A potential local maximum or minimum."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "If the demand function for a product is P = 20 - 2Q, what is the marginal revenue (MR) function?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "20 - Q"
+        },
+        {
+          "type": "string",
+          "content": "20Q - 2Q²"
+        },
+        {
+          "type": "string",
+          "content": "20 - 4Q"
+        },
+        {
+          "type": "string",
+          "content": "20 - 2Q"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Marginal Revenue Calculation",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Calculating Marginal Revenue</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Marginal revenue (MR)</span> is the additional revenue generated by selling one more unit of a good or service. Mathematically, it is the first derivative of the total revenue (TR) function with respect to the quantity (Q) sold: MR = dTR/dQ. Total revenue is calculated as Price (P) multiplied by Quantity (Q), so TR = P * Q.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The demand function for a product is P = 20 - 2Q. We need to find the marginal revenue (MR) function.</div><p><strong>Step 1: Derive the Total Revenue (TR) function.</strong></p><p>Total Revenue (TR) = Price (P) * Quantity (Q)</p><p>Substitute the given demand function for P:</p><p>TR(Q) = (20 - 2Q) * Q</p><p>TR(Q) = <span style='color:var(--orange);font-weight:bold;'>20Q - 2Q²</span></p><p><strong>Step 2: Differentiate the Total Revenue (TR) function to find Marginal Revenue (MR).</strong></p><p>MR = dTR/dQ</p><p>MR = d/dQ (20Q - 2Q²)</p><p>MR = d/dQ(20Q) - d/dQ(2Q²)</p><p>MR = 20 * 1Q⁰ - 2 * 2Q^(2-1)</p><p>MR = 20 - 4Q¹</p><p>MR = <span style='color:var(--orange);font-weight:bold;'>20 - 4Q</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"20 - Q\"</span> is incorrect.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"20Q - 2Q²\"</span> is the total revenue function, not the marginal revenue.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"20 - 4Q\"</span> is the correct marginal revenue function.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"20 - 2Q\"</span> is the demand (price) function, not the marginal revenue.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common error is to mistake the demand function (P) for marginal revenue or to forget to derive the total revenue first. The demand function is the average revenue, which is only equal to marginal revenue in perfect competition for a price-taking firm.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The marginal revenue (MR) function is 20 - 4Q.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "20 - 4Q"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "To find the quantity that maximizes profit, a firm should set its marginal cost (MC) equal to what?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Average Total Cost (ATC)"
+        },
+        {
+          "type": "string",
+          "content": "Total Revenue (TR)"
+        },
+        {
+          "type": "string",
+          "content": "Marginal Revenue (MR)"
+        },
+        {
+          "type": "string",
+          "content": "Price (P)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Profit Maximization Rule",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Profit Maximization Rule</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In economics, a firm maximizes its profit when it produces the quantity of output where its <span style='color:var(--orange);font-weight:bold;'>marginal revenue (MR) equals its marginal cost (MC)</span>, provided that the second-order condition (d²Profit/dQ² < 0) is met, ensuring it's a maximum. This rule is derived from differentiating the profit function (Profit = TR - TC) and setting the first derivative to zero.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the condition a firm should set its marginal cost (MC) equal to, in order to maximize profit.</div><p><strong>Step 1: Recall the profit maximization condition.</strong></p><p>Profit (π) = Total Revenue (TR) - Total Cost (TC)</p><p>To maximize profit, we take the first derivative of the profit function with respect to quantity (Q) and set it to zero:</p><p>dπ/dQ = dTR/dQ - dTC/dQ = 0</p><p>We know that dTR/dQ is Marginal Revenue (MR) and dTC/dQ is Marginal Cost (MC).</p><p>So, MR - MC = 0, which implies <span style='color:var(--orange);font-weight:bold;'>MR = MC</span>.</p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Average Total Cost (ATC)\"</span> is incorrect. Setting MC = ATC is related to finding the minimum point of ATC.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Total Revenue (TR)\"</span> is incorrect. Setting MC = TR doesn't have a standard economic interpretation for profit maximization.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Marginal Revenue (MR)\"</span> is the correct condition for profit maximization.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Price (P)\"</span> is a condition for profit maximization only under perfect competition, where P = MR. In general, it's MR = MC.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The MR=MC rule is a cornerstone of microeconomic theory regarding firm behavior. It ensures that the last unit produced adds exactly as much to revenue as it does to cost, thus maximizing the difference (profit).</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To find the quantity that maximizes profit, a firm should set its marginal cost (MC) equal to Marginal Revenue (MR).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Marginal Revenue (MR)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Elasticity, such as price elasticity of demand, measures the responsiveness of quantity demanded to a change in price. How is it fundamentally calculated using calculus?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Total change in quantity divided by total change in price."
+        },
+        {
+          "type": "string",
+          "content": "The derivative of quantity with respect to price, multiplied by the ratio of price to quantity."
+        },
+        {
+          "type": "string",
+          "content": "The integral of the demand function."
+        },
+        {
+          "type": "string",
+          "content": "The area under the demand curve."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Elasticity Calculation (Calculus)",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Elasticity Calculation using Calculus</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Elasticity</span> measures the percentage change in one variable in response to a one percent change in another variable. Using calculus, the formula for elasticity (E) of Y with respect to X is E = (dY/dX) * (X/Y). For price elasticity of demand (Epd), where Q is quantity demanded and P is price, it is Epd = (dQ/dP) * (P/Q).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks how elasticity (specifically price elasticity of demand) is fundamentally calculated using calculus.</div><p><strong>Step 1: Recall the definition of point elasticity.</strong></p><p>Point elasticity, which is what calculus enables us to calculate precisely, is defined as the instantaneous responsiveness. The general formula for the elasticity of Y with respect to X is:</p><p>E = (percentage change in Y) / (percentage change in X)</p><p>E = (ΔY/Y) / (ΔX/X) = (ΔY/ΔX) * (X/Y)</p><p>In calculus, for infinitesimal changes, ΔY/ΔX becomes the derivative dY/dX.</p><p><strong>Step 2: Apply to price elasticity of demand.</strong></p><p>For price elasticity of demand, Y = Quantity (Q) and X = Price (P).</p><p>Epd = (dQ/dP) * (P/Q)</p><p>This means the derivative of quantity with respect to price, multiplied by the ratio of price to quantity.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Total change in quantity divided by total change in price.\"</span> This is the simple slope, not elasticity, which is unitless and uses proportional changes.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"The derivative of quantity with respect to price, multiplied by the ratio of price to quantity.\"</span> This correctly states the calculus formula for point price elasticity of demand.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"The integral of the demand function.\"</span> Integration is not used for calculating elasticity.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The area under the demand curve.\"</span> The area under the demand curve is also related to integration, often representing total consumer expenditure or surplus, not elasticity.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The elasticity formula using derivatives is a standard application of differentiation in economic analysis, providing a precise measure of responsiveness at any given point on a curve.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Elasticity is fundamentally calculated using calculus as the derivative of quantity with respect to price, multiplied by the ratio of price to quantity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The derivative of quantity with respect to price, multiplied by the ratio of price to quantity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "If the total revenue function is TR(Q) = 100Q - 2Q², at what quantity Q is marginal revenue (MR) equal to zero?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Q = 20"
+        },
+        {
+          "type": "string",
+          "content": "Q = 25"
+        },
+        {
+          "type": "string",
+          "content": "Q = 50"
+        },
+        {
+          "type": "string",
+          "content": "Q = 100"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Marginal Revenue and Total Revenue Maximization",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Total Revenue Maximization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Total revenue is maximized when <span style='color:var(--orange);font-weight:bold;'>marginal revenue (MR) is equal to zero</span>. Marginal revenue is the first derivative of the total revenue function with respect to quantity (MR = dTR/dQ).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The total revenue function TR(Q) = 100Q - 2Q². We need to find the quantity Q where marginal revenue (MR) is equal to zero.</div><p><strong>Step 1: Find the Marginal Revenue (MR) function.</strong></p><p>MR = dTR/dQ</p><p>MR = d/dQ (100Q - 2Q²)</p><p>MR = d/dQ(100Q) - d/dQ(2Q²)</p><p>MR = 100 - 4Q</p><p><strong>Step 2: Set MR equal to zero and solve for Q.</strong></p><p>100 - 4Q = 0</p><p>100 = 4Q</p><p>Q = 100 / 4</p><p>Q = <span style='color:var(--orange);font-weight:bold;'>25</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Q = 20\"</span> is incorrect.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Q = 25\"</span> is the correct quantity at which MR = 0.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Q = 50\"</span> is incorrect. This might be from incorrectly calculating the derivative or setting 100-2Q=0.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Q = 100\"</span> is incorrect.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Setting the first derivative of TR to zero finds the critical point for total revenue. In this case, since it's a downward-opening parabola, this critical point will be the maximum total revenue.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Marginal revenue (MR) is equal to zero at Q = 25.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Q = 25"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Which of the following is the inverse operation of differentiation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Algebra"
+        },
+        {
+          "type": "string",
+          "content": "Limits"
+        },
+        {
+          "type": "string",
+          "content": "Integration"
+        },
+        {
+          "type": "string",
+          "content": "Logarithms"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Inverse of Differentiation",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Integration as the Inverse of Differentiation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Integration</span> is the fundamental inverse operation to differentiation. If differentiation finds the rate of change of a function, integration finds the function given its rate of change (antiderivative) or the accumulated quantity (area under the curve). This inverse relationship is formally stated by the Fundamental Theorem of Calculus.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the inverse operation of differentiation.</div><p><strong>Step 1: Understand the definitions of differentiation and integration.</strong></p><p>Differentiation is the process of finding the derivative of a function, which measures the rate at which the function's output changes with respect to its input. Integration, on the other hand, is the process of finding the antiderivative (or indefinite integral) of a function, or calculating the area under a curve (definite integral).</p><p><strong>Step 2: Recognize the inverse relationship.</strong></p><p>If we differentiate a function F(x) to get f(x) (i.e., F'(x) = f(x)), then integrating f(x) will give us F(x) (plus a constant of integration). This inverse relationship is a cornerstone of calculus.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Algebra\"</span> is a broad branch of mathematics, not a specific inverse operation to differentiation.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Limits\"</span> are used in the *definition* of both derivatives and integrals, but limits themselves are not the inverse operation.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Integration\"</span> is precisely the inverse operation of differentiation.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Logarithms\"</span> are functions related to exponentials, not the general inverse of differentiation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a foundational concept in calculus. The Fundamental Theorem of Calculus explicitly links differentiation and integration as inverse processes.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The inverse operation of differentiation is integration.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Integration"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What is the indefinite integral of f(x) = x³?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "3x² + C"
+        },
+        {
+          "type": "string",
+          "content": "x⁴ + C"
+        },
+        {
+          "type": "string",
+          "content": "x⁴/4 + C"
+        },
+        {
+          "type": "string",
+          "content": "1/x² + C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Power Rule of Integration",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Power Rule of Integration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>Power Rule for integration</span> states that for any real number n ≠ -1, the indefinite integral of xⁿ is (xⁿ⁺¹)/(n+1) + C, where C is the constant of integration. This is the reverse of the power rule for differentiation.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = x³. We need to find its indefinite integral.</div><p><strong>Step 1: Identify the function and the exponent.</strong></p><p>The function is f(x) = x³. Here, the exponent n = 3.</p><p><strong>Step 2: Apply the Power Rule for integration.</strong></p><p>According to the Power Rule, ∫xⁿ dx = xⁿ⁺¹/(n+1) + C.</p><p>Substitute n = 3:</p><p>∫x³ dx = x^(3+1) / (3+1) + C</p><p>= x⁴ / 4 + C</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"3x² + C\"</span> is incorrect. This is the derivative of x³.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"x⁴ + C\"</span> is incorrect. It adds 1 to the exponent but doesn't divide by the new exponent.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"x⁴/4 + C\"</span> is the correct indefinite integral.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"1/x² + C\"</span> is incorrect. This would be related to integrating x⁻³.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> To verify an indefinite integral, differentiate the result. If (d/dx)(x⁴/4 + C) = (1/4)*4x³ + 0 = x³, which matches the original function.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The indefinite integral of f(x) = x³ is x⁴/4 + C.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x⁴/4 + C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Why is a 'constant of integration' (C) included in indefinite integrals?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To represent the area under the curve."
+        },
+        {
+          "type": "string",
+          "content": "Because the derivative of any constant is zero."
+        },
+        {
+          "type": "string",
+          "content": "To indicate that the integral is definite."
+        },
+        {
+          "type": "string",
+          "content": "It is a placeholder for the function's initial value."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Constant of Integration",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The Constant of Integration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When finding an <span style='color:var(--orange);font-weight:bold;'>indefinite integral (antiderivative)</span>, we are looking for a function whose derivative is the original function. Since the derivative of any constant is zero, there is an infinite family of functions that have the same derivative. The <span style='color:var(--orange);font-weight:bold;'>constant of integration (C)</span> accounts for this arbitrary constant value that disappears during differentiation.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks why a 'constant of integration' (C) is included in indefinite integrals.</div><p><strong>Step 1: Consider the reverse process of differentiation.</strong></p><p>Differentiation means finding the slope or rate of change. When we differentiate a function like x², (x² + 5), or (x² - 100), all of them yield 2x. This means that if we are given 2x and asked to find its antiderivative, there isn't a single unique function, but rather a family of functions that differ only by a constant.</p><p><strong>Step 2: Explain the role of 'C'.</strong></p><p>The arbitrary constant 'C' represents this family of functions. When we perform indefinite integration, we are effectively reversing differentiation, and since the derivative of any constant is zero, we lose information about the original constant term. 'C' restores this generality.</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"To represent the area under the curve.\"</span> While integrals can represent area, 'C' itself does not represent the area. The definite integral calculates the area.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Because the derivative of any constant is zero.\"</span> This is the correct reason. Since d/dx(F(x) + C) = f(x), any constant C will differentiate to zero, meaning C is indeterminate in the antiderivative.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"To indicate that the integral is definite.\"</span> This is incorrect. The constant C is *only* included in indefinite integrals; definite integrals have specific bounds and result in a numerical value without C.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"It is a placeholder for the function's initial value.\"</span> While 'C' can be determined if an initial condition (a point the original function passes through) is known, its *inclusion* is due to the nature of differentiation, not solely as an initial value placeholder in the general indefinite integral.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This concept is crucial for distinguishing between indefinite and definite integrals and understanding why a family of antiderivatives exists for a given function.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A 'constant of integration' (C) is included in indefinite integrals because the derivative of any constant is zero.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Because the derivative of any constant is zero."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "What is the indefinite integral of f(x) = 1/x?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "ln(x) + C"
+        },
+        {
+          "type": "string",
+          "content": "ln|x| + C"
+        },
+        {
+          "type": "string",
+          "content": "-1/x² + C"
+        },
+        {
+          "type": "string",
+          "content": "x⁰ + C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Integral of 1/x",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Integral of 1/x</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>indefinite integral of 1/x</span> is a special case in integration because the power rule (∫xⁿ dx = xⁿ⁺¹/(n+1) + C) does not apply when n = -1. Instead, the integral of 1/x is the natural logarithm of the absolute value of x, plus the constant of integration. That is, ∫(1/x) dx = ln|x| + C. The absolute value is used because ln(x) is only defined for x > 0, while 1/x is defined for x ≠ 0.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = 1/x. We need to find its indefinite integral.</div><p><strong>Step 1: Recall the special integration rule for 1/x.</strong></p><p>When integrating functions of the form xⁿ, the power rule applies for all n except n = -1. For n = -1, which is 1/x, the integral is the natural logarithm function.</p><p>∫(1/x) dx = <span style='color:var(--orange);font-weight:bold;'>ln|x| + C</span></p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"ln(x) + C\"</span> is close, but technically incorrect because it omits the absolute value. The domain of ln(x) is x>0, but the domain of 1/x includes negative numbers.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"ln|x| + C\"</span> is the correct indefinite integral, including the absolute value to cover the full domain of 1/x (excluding x=0).</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"-1/x² + C\"</span> is incorrect. This is the derivative of 1/x.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"x⁰ + C\"</span> is incorrect. x⁰ = 1, and its integral is x + C.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Differentiating ln|x| gives 1/x. The absolute value is essential for mathematical rigor, as it extends the validity of the antiderivative to x < 0 as well as x > 0.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The indefinite integral of f(x) = 1/x is ln|x| + C.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ln|x| + C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Evaluate the indefinite integral: ∫(2x + 3) dx.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "x² + 3x"
+        },
+        {
+          "type": "string",
+          "content": "2x² + 3x + C"
+        },
+        {
+          "type": "string",
+          "content": "x² + 3x + C"
+        },
+        {
+          "type": "string",
+          "content": "2 + C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Basic Indefinite Integration",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Basic Indefinite Integration (Power Rule and Constant Rule)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> To integrate a sum or difference of functions, integrate each term separately (Sum/Difference Rule for Integrals). Apply the <span style='color:var(--orange);font-weight:bold;'>Power Rule of Integration</span>: ∫xⁿ dx = xⁿ⁺¹/(n+1) + C (for n ≠ -1) and the <span style='color:var(--orange);font-weight:bold;'>Constant Rule of Integration</span>: ∫k dx = kx + C (for any constant k). Don't forget the constant of integration, C, for indefinite integrals.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The indefinite integral ∫(2x + 3) dx. We need to evaluate it.</div><p><strong>Step 1: Apply the sum rule for integration.</strong></p><p>∫(2x + 3) dx = ∫2x dx + ∫3 dx</p><p><strong>Step 2: Integrate each term separately.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>For ∫2x dx:</span> Apply the power rule. 2x = 2x¹. So, 2 * (x^(1+1))/(1+1) = 2 * (x²/2) = x².</li><li><span style='color:var(--orange);font-weight:bold;'>For ∫3 dx:</span> Apply the constant rule. The integral of a constant is the constant times x. So, 3x.</li></ul><p><strong>Step 3: Combine the integrated terms and add the constant of integration.</strong></p><p>∫(2x + 3) dx = x² + 3x + C</p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"x² + 3x\"</span> is incorrect because it misses the constant of integration, C.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"2x² + 3x + C\"</span> is incorrect because the coefficient of x² should be 1, not 2 (2x² comes from integrating 4x, not 2x).</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"x² + 3x + C\"</span> is the correct indefinite integral.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"2 + C\"</span> is incorrect. This is the derivative of 2x + C, not the integral.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Differentiate the result: d/dx(x² + 3x + C) = 2x + 3 + 0 = 2x + 3, which matches the original integrand.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The indefinite integral of ∫(2x + 3) dx is x² + 3x + C.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "x² + 3x + C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Evaluate the definite integral ∫ from 1 to 2 of (4x) dx.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2"
+        },
+        {
+          "type": "string",
+          "content": "4"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "8"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Basic Definite Integration",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Evaluating Definite Integrals</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>definite integral</span> ∫ from a to b of f(x) dx is evaluated using the Fundamental Theorem of Calculus. First, find an antiderivative F(x) of f(x). Then, calculate F(b) - F(a). The result is a numerical value representing the net signed area under the curve.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The definite integral ∫ from 1 to 2 of (4x) dx. We need to evaluate it.</div><p><strong>Step 1: Find the indefinite integral (antiderivative) of 4x.</strong></p><p>Using the power rule for integration:</p><p>∫4x dx = 4 * (x^(1+1))/(1+1) = 4 * (x²/2) = 2x².</p><p>We don't need the constant 'C' for definite integrals, as it cancels out.</p><p>So, F(x) = 2x².</p><p><strong>Step 2: Evaluate F(b) - F(a) using the limits of integration.</strong></p><p>Here, a = 1 and b = 2.</p><p>∫ from 1 to 2 of (4x) dx = F(2) - F(1)</p><p>= 2(2)² - 2(1)²</p><p>= 2(4) - 2(1)</p><p>= 8 - 2</p><p>= <span style='color:var(--orange);font-weight:bold;'>6</span></p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"2\"</span> is incorrect.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"4\"</span> is incorrect.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"6\"</span> is the correct value of the definite integral.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"8\"</span> is incorrect. This would be 2(2)², omitting the subtraction of F(1).</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definite integral represents the area under the line y=4x from x=1 to x=2. This area is a trapezoid. At x=1, y=4. At x=2, y=8. Area = (1/2) * (base1 + base2) * height = (1/2) * (4 + 8) * (2-1) = (1/2) * 12 * 1 = 6. The geometric calculation matches the calculus result.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The definite integral ∫ from 1 to 2 of (4x) dx is 6.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "What is the indefinite integral of eˣ?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "xeˣ⁻¹ + C"
+        },
+        {
+          "type": "string",
+          "content": "ln(x) + C"
+        },
+        {
+          "type": "string",
+          "content": "eˣ + C"
+        },
+        {
+          "type": "string",
+          "content": "0 + C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Integral of Exponential Functions",
+      "Integration"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Integral of the Natural Exponential Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The <span style='color:var(--orange);font-weight:bold;'>natural exponential function</span>, eˣ, has the unique property that both its derivative and its integral (antiderivative) are itself. That is, d/dx (eˣ) = eˣ and ∫eˣ dx = eˣ + C.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The function f(x) = eˣ. We need to find its indefinite integral.</div><p><strong>Step 1: Recall the integration rule for eˣ.</strong></p><p>The function eˣ is unique in calculus because it is its own derivative and its own integral (up to a constant).</p><p>∫eˣ dx = <span style='color:var(--orange);font-weight:bold;'>eˣ + C</span></p><p><strong>Step 2: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"xeˣ⁻¹ + C\"</span> is incorrect. This resembles an incorrect application of the power rule combined with exponential.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"ln(x) + C\"</span> is incorrect. This is the integral of 1/x.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"eˣ + C\"</span> is the correct indefinite integral of eˣ.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"0 + C\"</span> is incorrect. This would be the integral of 0, which is C.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Differentiate the result: d/dx(eˣ + C) = eˣ + 0 = eˣ, which matches the original integrand. This confirms the integral.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The indefinite integral of eˣ is eˣ + C.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "eˣ + C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "If marginal cost (MC) is given by MC(Q) = 2Q + 5, what is the total variable cost (TVC) function? (Assume fixed costs are zero for TVC).",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Q² + 5Q"
+        },
+        {
+          "type": "string",
+          "content": "Q² + 5Q + C"
+        },
+        {
+          "type": "string",
+          "content": "2Q² + 5Q + C"
+        },
+        {
+          "type": "string",
+          "content": "2"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Total Variable Cost from Marginal Cost",
+      "Integration",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Deriving Total Variable Cost from Marginal Cost</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Marginal cost (MC)</span> is the derivative of total cost (TC) with respect to quantity (Q). Conversely, the <span style='color:var(--orange);font-weight:bold;'>total cost (TC)</span> function is the integral of the marginal cost function. Total Cost = Total Variable Cost (TVC) + Total Fixed Cost (TFC). Since TVC is the part of cost that varies with output and is zero when output is zero, integrating MC gives TVC, assuming the constant of integration C is 0 (as TVC(0)=0).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Marginal cost function MC(Q) = 2Q + 5. We need to find the total variable cost (TVC) function.</div><p><strong>Step 1: Recognize that TVC is the integral of MC.</strong></p><p>Since MC = d(TVC)/dQ, then TVC = ∫MC(Q) dQ.</p><p><strong>Step 2: Integrate the marginal cost function.</strong></p><p>TVC(Q) = ∫(2Q + 5) dQ</p><p>Apply the sum rule and power rule for integration:</p><p>∫2Q dQ = 2 * (Q^(1+1))/(1+1) = 2 * (Q²/2) = Q²</p><p>∫5 dQ = 5Q</p><p>So, TVC(Q) = Q² + 5Q + C</p><p><strong>Step 3: Determine the constant of integration (C).</strong></p><p>For total variable cost, when quantity Q = 0, total variable cost TVC(0) must be 0 (as variable costs are those that change with output, so if no output, no variable cost).<br>TVC(0) = (0)² + 5(0) + C = 0<br>C = 0</p><p>Therefore, TVC(Q) = <span style='color:var(--orange);font-weight:bold;'>Q² + 5Q</span>.</p><p><strong>Step 4: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Q² + 5Q\"</span> is the correct total variable cost function.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Q² + 5Q + C\"</span> is the general indefinite integral. While mathematically correct, in an economic context for TVC, C is typically assumed to be 0.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"2Q² + 5Q + C\"</span> is incorrect (the coefficient for Q² is wrong).</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"2\"</span> is incorrect. This is the derivative of the '2Q' term in MC.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Differentiate Q² + 5Q to check: d/dQ(Q² + 5Q) = 2Q + 5, which matches the given MC(Q). The condition TVC(0)=0 is essential to resolve the constant of integration in economic applications.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The total variable cost (TVC) function is Q² + 5Q.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Q² + 5Q"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "If the Marginal Propensity to Consume (MPC) is given as 0.8, and autonomous consumption is 100, what is the consumption function C(Y)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "C = 0.8Y + 100"
+        },
+        {
+          "type": "string",
+          "content": "C = 100Y + 0.8"
+        },
+        {
+          "type": "string",
+          "content": "C = 100 - 0.8Y"
+        },
+        {
+          "type": "string",
+          "content": "C = 100Y + C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Consumption Function",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Consumption Function and Marginal Propensity to Consume</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In macroeconomics, the <span style='color:var(--orange);font-weight:bold;'>consumption function</span> (C) relates total consumption to disposable income (Y). It is typically expressed as C = a + bY, where 'a' is <span style='color:var(--orange);font-weight:bold;'>autonomous consumption</span> (consumption when income is zero) and 'b' is the <span style='color:var(--orange);font-weight:bold;'>Marginal Propensity to Consume (MPC)</span>. MPC is the derivative of the consumption function with respect to income: MPC = dC/dY.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Marginal Propensity to Consume (MPC) = 0.8, and autonomous consumption = 100. We need to find the consumption function C(Y).</div><p><strong>Step 1: Recall the general form of the consumption function.</strong></p><p>The consumption function is generally written as C = a + bY, where 'a' is autonomous consumption and 'b' is the MPC.</p><p><strong>Step 2: Substitute the given values into the consumption function formula.</strong></p><p>Autonomous consumption (a) = 100</p><p>Marginal Propensity to Consume (b) = 0.8</p><p>C(Y) = <span style='color:var(--orange);font-weight:bold;'>100 + 0.8Y</span></p><p>Or, more conventionally written as:</p><p>C(Y) = 0.8Y + 100</p><p><strong>Step 3: Evaluate the options.</strong></p><ul><li>Option 1: <span style='color:var(--orange);font-weight:bold;'>\"C = 0.8Y + 100\"</span> is the correct consumption function.</li><li>Option 2: <span style='color:var(--orange);font-weight:bold;'>\"C = 100Y + 0.8\"</span> incorrectly swaps the MPC and autonomous consumption.</li><li>Option 3: <span style='color:var(--orange);font-weight:bold;'>\"C = 100 - 0.8Y\"</span> suggests a negative MPC or a reduction in autonomous consumption, which is not stated.</li><li>Option 4: <span style='color:var(--orange);font-weight:bold;'>\"C = 100Y + C\"</span> is incorrect notation and value.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> To check, if C(Y) = 0.8Y + 100, then dC/dY = 0.8, which is the given MPC. Also, if Y=0, C=100, which is the autonomous consumption.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The consumption function C(Y) is C = 0.8Y + 100.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C = 0.8Y + 100"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Explain the three conditions that must be met for a function f(x) to be continuous at a specific point x=c.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Conditions for Continuity",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conditions for Continuity at a Point</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Continuity</span> is a fundamental property of functions in calculus, indicating that the graph of a function can be drawn without lifting the pen. Formally, a function f(x) is continuous at a point x=c if its behavior near 'c' matches its behavior exactly at 'c'. This is broken down into three specific conditions.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an explanation of the three conditions necessary for a function f(x) to be continuous at a specific point x=c.</div><p><strong>Step 1: State the first condition.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Condition 1: f(c) must be defined.</span> This means that the function must have a specific output value when the input is 'c'. There should not be a 'hole' or a vertical asymptote at x=c where the function's value is missing or tends to infinity.</li></ul><p><strong>Step 2: State the second condition.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Condition 2: The limit of f(x) as x approaches c must exist (limₓ→c f(x) exists).</span> This implies that as x gets arbitrarily close to c (from both the left and the right sides), the function's values must approach a single, finite value. If the left-hand limit and the right-hand limit are not equal, or if the function approaches infinity, then the limit does not exist, and the function is not continuous.</li></ul><p><strong>Step 3: State the third condition.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Condition 3: The limit of f(x) as x approaches c must be equal to the function's value at c (limₓ→c f(x) = f(c)).</span> This condition ensures that there are no 'jumps' or 'holes' where the limit exists but the function value is different or undefined. It effectively ties the first two conditions together, ensuring that the function's predicted behavior near the point actually matches its actual behavior at the point.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A common mistake is to only mention one or two of these conditions. All three are individually necessary, and together they are sufficient to guarantee continuity at a point. If any one of these conditions fails, the function is considered discontinuous at x=c.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a function f(x) to be continuous at a specific point x=c, three conditions must be met: f(c) must be defined, the limit of f(x) as x approaches c must exist, and the limit of f(x) as x approaches c must be equal to f(c).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "For a function f(x) to be continuous at a specific point x=c, three essential conditions must be satisfied:\n\n1.  **f(c) must be defined:** This means that when you substitute the value 'c' into the function, you must get a real, finite output. The point (c, f(c)) must exist on the graph of the function. If the function is undefined at 'c' (e.g., due to division by zero or taking the square root of a negative number), then it cannot be continuous at 'c'.\n\n2.  **The limit of f(x) as x approaches c must exist (limₓ→c f(x) exists):** This implies that as 'x' gets arbitrarily close to 'c' from both the left side and the right side, the values of f(x) must approach a single, specific finite number. If the left-hand limit and the right-hand limit are different, or if the function approaches infinity (or negative infinity), then the limit does not exist, and the function is not continuous at 'c'.\n\n3.  **The limit of f(x) as x approaches c must be equal to the function's value at c (limₓ→c f(x) = f(c)):** This is the final and most comprehensive condition. It ensures that there are no 'holes' or 'jumps' in the graph at x=c. Even if the function is defined at 'c' and the limit exists, if these two values are not the same, the function is still discontinuous. This condition essentially means that the graph of the function must pass through the point (c, f(c)) without any breaks or interruptions."
+    }
+  }
+]
