@@ -1,0 +1,522 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Introductory Mathematics II",
+    "code": "ECO 104.2",
+    "session": "Master by user osiaru 1kg4g",
+    "kind": "mixed",
+    "topics": [
+      "Limit Evaluation",
+      "Limits and Continuity",
+      "Continuity of Piecewise Functions",
+      "Types of Discontinuity",
+      "Limits at Infinity",
+      "Product Rule",
+      "Chain Rule",
+      "The Derivative",
+      "Implicit Differentiation",
+      "Kinematics",
+      "Application of Derivatives",
+      "Higher-Order Derivatives",
+      "First-Order Partial Derivatives",
+      "Differentiation of Multi-variable Function",
+      "Mixed Partial Derivatives",
+      "Marginal Cost",
+      "Application of Differentiation in Economic Analysis",
+      "Point Elasticity of Demand"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Eco 104.2 Introductory Mathematics II",
+    "Subheading": "Answer all questions. All questions carry equal marks."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Evaluate the limit: $\\\\lim_{x \\\\to 2} \\\\frac{x^3 - 8}{x^2 - 4}$",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "0"
+        },
+        {
+          "type": "string",
+          "content": "2"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "4"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Limit Evaluation",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Limit Evaluation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Limit:</em> The value that a function approaches as the input approaches some value. If direct substitution results in an indeterminate form (e.g., 0/0), algebraic manipulation or L'Hopital's Rule may be necessary.<br><em>Factorization Formulas:</em> $a^3 - b^3 = (a-b)(a^2+ab+b^2)$ and $a^2 - b^2 = (a-b)(a+b)$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The limit expression $\\\\lim_{x \\\\to 2} \\\\frac{x^3 - 8}{x^2 - 4}$.</div><strong>Step 1:</strong> Attempt direct substitution.<br>Substituting $x=2$ into the expression yields $\\\\frac{2^3 - 8}{2^2 - 4} = \\\\frac{8 - 8}{4 - 4} = \\\\frac{0}{0}$. This is an indeterminate form, indicating that further manipulation is required.<br><strong>Step 2:</strong> Factorize the numerator and denominator.<br>The numerator is a difference of cubes: $x^3 - 8 = x^3 - 2^3 = (x-2)(x^2 + 2x + 4)$.<br>The denominator is a difference of squares: $x^2 - 4 = x^2 - 2^2 = (x-2)(x+2)$.<br><strong>Step 3:</strong> Simplify the expression by cancelling the common factor.<br>\\\\frac{x^3 - 8}{x^2 - 4} = \\\\frac{(x-2)(x^2 + 2x + 4)}{(x-2)(x+2)}$.<br>Since $x \\\\to 2$, $x \\\\neq 2$, so we can cancel the $(x-2)$ term:<br>\\\\frac{x^2 + 2x + 4}{x+2}$.<br><strong>Step 4:</strong> Evaluate the limit of the simplified expression.<br>\\\\lim_{x \\\\to 2} \\\\frac{x^2 + 2x + 4}{x+2} = \\\\frac{2^2 + 2(2) + 4}{2+2} = \\\\frac{4 + 4 + 4}{4} = \\\\frac{12}{4} = <span style='color:var(--orange);font-weight:bold;'>3</span>$.<ul><li>Option A (0): Incorrect, results from an incorrect simplification or evaluation.</li><li>Option B (2): Incorrect, possibly from simplifying the numerator only to $x^2+4$ or other algebraic error.</li><li>Option C (3): Correct, obtained after proper factorization and cancellation of the indeterminate form.</li><li>Option D (4): Incorrect, would result if the denominator were 3 or some other error.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: We could also use L'Hopital's Rule since we have an indeterminate form 0/0. Taking the derivative of the numerator and denominator separately: $\\\\lim_{x \\\\to 2} \\\\frac{3x^2}{2x} = \\\\lim_{x \\\\to 2} \\\\frac{3x}{2} = \\\\frac{3(2)}{2} = \\\\frac{6}{2} = 3$. This confirms our result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The limit of the given expression as $x$ approaches 2 is 3.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "For what value of $k$ is the function $f(x) = \\\\begin{cases} \\\\frac{\\\\sin(kx)}{x} & \\\\text{if } x \\\\neq 0 \\\\\\\\ 5 & \\\\text{if } x = 0 \\\\end{cases}$ continuous at $x=0$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        },
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "0"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Continuity of Piecewise Functions",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Continuity of Piecewise Functions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Continuity at a point:</em> A function $f(x)$ is continuous at a point $x=c$ if all three conditions are met:<br>1. $f(c)$ is defined.<br>2. $\\\\lim_{x \\\\to c} f(x)$ exists.<br>3. $\\\\lim_{x \\\\to c} f(x) = f(c)$.<br><em>Special Limit:</em> $\\\\lim_{x \\\\to 0} \\\\frac{\\\\sin(ax)}{x} = a$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: A piecewise function $f(x)$ and the requirement for it to be continuous at $x=0$.</div><strong>Step 1:</strong> Check the first condition for continuity: $f(c)$ is defined.<br>From the definition of $f(x)$, $f(0) = <span style='color:var(--orange);font-weight:bold;'>5</span>$. So, the first condition is met.<br><strong>Step 2:</strong> Check the second condition: $\\\\lim_{x \\\\to c} f(x)$ exists.<br>We need to evaluate $\\\\lim_{x \\\\to 0} f(x)$. For $x \\\\neq 0$, $f(x) = \\\\frac{\\\\sin(kx)}{x}$.<br>Using the special limit property, $\\\\lim_{x \\\\to 0} \\\\frac{\\\\sin(kx)}{x} = k$.<br>For the limit to exist, this value must be finite, which it is, given $k$ is a constant.<br><strong>Step 3:</strong> Check the third condition: $\\\\lim_{x \\\\to c} f(x) = f(c)$.<br>For continuity at $x=0$, we must have $\\\\lim_{x \\\\to 0} f(x) = f(0)$.<br>From Step 1, $f(0) = 5$. From Step 2, $\\\\lim_{x \\\\to 0} f(x) = k$.<br>Therefore, we must set $k = <span style='color:var(--orange);font-weight:bold;'>5</span>$.<ul><li>Option A (1): Incorrect, setting $k=1$ would make the limit 1, not 5.</li><li>Option B (3): Incorrect, setting $k=3$ would make the limit 3, not 5.</li><li>Option C (5): Correct, this value ensures that the limit of the function as $x \\\\to 0$ equals the function's value at $x=0$.</li><li>Option D (0): Incorrect, setting $k=0$ would make the limit 0, not 5.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: If $k=5$, then $\\\\lim_{x \\\\to 0} \\\\frac{\\\\sin(5x)}{x} = 5$, and $f(0)=5$. Since $\\\\lim_{x \\\\to 0} f(x) = f(0)$, the function is continuous.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The value of $k$ that makes the function continuous at $x=0$ is 5.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following functions has a removable discontinuity at $x=3$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$f(x) = \\\\frac{x^2 - 9}{x-3}$"
+        },
+        {
+          "type": "string",
+          "content": "$f(x) = \\\\frac{1}{x-3}$"
+        },
+        {
+          "type": "string",
+          "content": "$f(x) = \\\\tan(\\\\frac{\\\\pi x}{6})$"
+        },
+        {
+          "type": "string",
+          "content": "$f(x) = \\\\begin{cases} x+1 & \\\\text{if } x \\\\neq 3 \\\\\\\\ 7 & \\\\text{if } x = 3 \\\\end{cases}$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Types of Discontinuity",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Discontinuity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Removable Discontinuity:</em> Occurs at a point $x=c$ if $\\\\lim_{x \\\\to c} f(x)$ exists but $f(c)$ is either undefined or $f(c) \\\\neq \\\\lim_{x \\\\to c} f(x)$. This can often be 'removed' by redefining the function at that single point.<br><em>Non-Removable Discontinuity (Jump):</em> Occurs when the left-hand limit and right-hand limit exist but are not equal.<br><em>Non-Removable Discontinuity (Infinite):</em> Occurs when one or both of the one-sided limits approach $\\\\pm \\\\infty$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Four functions, identify which one has a removable discontinuity at $x=3$.</div><strong>Step 1:</strong> Analyze Option A: $f(x) = \\\\frac{x^2 - 9}{x-3}$.<br>The function is undefined at $x=3$ because the denominator becomes zero. Let's evaluate the limit as $x \\\\to 3$:<br>\\\\lim_{x \\\\to 3} \\\\frac{x^2 - 9}{x-3} = \\\\lim_{x \\\\to 3} \\\\frac{(x-3)(x+3)}{x-3} = \\\\lim_{x \\\\to 3} (x+3) = <span style='color:var(--orange);font-weight:bold;'>6</span>$.<br>Since the limit exists (equals 6) but $f(3)$ is undefined, this is a removable discontinuity. We could redefine $f(3)=6$ to make it continuous.<br><strong>Step 2:</strong> Analyze Option B: $f(x) = \\\\frac{1}{x-3}$.<br>At $x=3$, the denominator is 0. The limit as $x \\\\to 3^+$ is $+\\\\infty$ and as $x \\\\to 3^-$ is $-\\\\infty$. This is an <span style='color:var(--orange);font-weight:bold;'>infinite discontinuity</span> (vertical asymptote), which is non-removable.<br><strong>Step 3:</strong> Analyze Option C: $f(x) = \\\\tan(\\\\frac{\\\\pi x}{6})$.<br>The tangent function is undefined when its argument is an odd multiple of $\\\\frac{\\\\pi}{2}$. So, $\\\\frac{\\\\pi x}{6} = \\\\frac{\\\\pi}{2} \\\\implies x=3$. This means $f(3)$ is undefined. As $x \\\\to 3$, $\\\\tan(\\\\frac{\\\\pi x}{6})$ approaches $\\\\pm \\\\infty$. This is also an <span style='color:var(--orange);font-weight:bold;'>infinite discontinuity</span>, which is non-removable.<br><strong>Step 4:</strong> Analyze Option D: $f(x) = \\\\begin{cases} x+1 & \\\\text{if } x \\\\neq 3 \\\\\\\\ 7 & \\\\text{if } x = 3 \\\\end{cases}$.<br>Here, $f(3)=7$. Let's find the limit as $x \\\\to 3$: $\\\\lim_{x \\\\to 3} (x+1) = 3+1 = <span style='color:var(--orange);font-weight:bold;'>4</span>$.<br>Since $f(3)=7$ and $\\\\lim_{x \\\\to 3} f(x) = 4$, the limit exists but is not equal to the function value. This is a <span style='color:var(--orange);font-weight:bold;'>removable discontinuity</span>. However, the question asks \"Which of the following functions\", implying only one correct answer. Option A is a classic example. If both were correct, the question would be flawed. In an exam context, Option A is the most direct and common representation of a removable discontinuity where a hole exists due to cancellation of a factor.<br>Re-evaluating the choice: Both A and D represent removable discontinuities. However, Option A is a simpler, rational function where the discontinuity is caused by a common factor in the numerator and denominator, which is the textbook example of a 'hole' in the graph. Option D is explicitly defined as discontinuous. Usually, 'removable discontinuity' refers to the form $g(x)/h(x)$ where $g(c)=0$ and $h(c)=0$ and $(x-c)$ cancels out. Let's prioritize A as the canonical form. If a question is strictly \"Which ONE\", A is often preferred. However, both are technically removable. If forced to choose, and given that A involves finding the limit via algebraic manipulation, it fits the 'hard' difficulty better for students who might just see the definition of the piecewise function D. Assuming the question expects identification of a function that *becomes* undefined (0/0) but has a limit.<ul><li>Option A ($f(x) = \\\\frac{x^2 - 9}{x-3}$): Correct. The function is undefined at $x=3$, but $\\\\lim_{x \\\\to 3} f(x) = 6$. The discontinuity can be removed by defining $f(3)=6$.</li><li>Option B ($f(x) = \\\\frac{1}{x-3}$): Incorrect. This has an infinite discontinuity at $x=3$.</li><li>Option C ($f(x) = \\\\tan(\\\\frac{\\\\pi x}{6})$): Incorrect. This has an infinite discontinuity at $x=3$.</li><li>Option D ($f(x) = \\\\begin{cases} x+1 & \\\\text{if } x \\\\neq 3 \\\\\\\\ 7 & \\\\text{if } x = 3 \\\\end{cases}$): This also has a removable discontinuity as $\\\\lim_{x \\\\to 3} f(x) = 4$ but $f(3)=7$. It is technically removable. However, Option A is a more fundamental algebraic form of removable discontinuity. In multiple-choice questions seeking the \"best\" answer, Option A perfectly illustrates the concept where a factor can be cancelled.</li></ul>Considering the common interpretation and challenge level for introductory calculus, Option A is the most appropriate answer as it requires algebraic simplification to reveal the removable nature. Option D is explicit in its definition for a point and its limit. The prompt asks for *a* function with removable discontinuity, and both A and D fit. However, if only one answer can be chosen, A is the common pedagogical example when teaching removable discontinuities via rational functions. To avoid ambiguity, let's select A, as it demonstrates the algebraic technique to *find* the discontinuity's nature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The function $f(x) = \\\\frac{x^2 - 9}{x-3}$ has a removable discontinuity at $x=3$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$f(x) = \\\\frac{x^2 - 9}{x-3}$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Evaluate $\\\\lim_{x \\\\to \\\\infty} \\\\frac{3x^4 - 2x^2 + 5}{5x^4 + x^3 - 7x}$",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$3/5$"
+        },
+        {
+          "type": "string",
+          "content": "$\\\\infty$"
+        },
+        {
+          "type": "string",
+          "content": "$0$"
+        },
+        {
+          "type": "string",
+          "content": "$5/3$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Limits at Infinity",
+      "Limits and Continuity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Limits at Infinity of Rational Functions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Limits at Infinity:</em> For a rational function $P(x)/Q(x)$, where $P(x)$ and $Q(x)$ are polynomials, the limit as $x \\\\to \\\\pm \\\\infty$ depends on the degrees of the polynomials.<br>If $\\\\text{deg}(P) > \\\\text{deg}(Q)$, the limit is $\\\\pm \\\\infty$.<br>If $\\\\text{deg}(P) < \\\\text{deg}(Q)$, the limit is $0$.<br>If $\\\\text{deg}(P) = \\\\text{deg}(Q)$, the limit is the ratio of the leading coefficients.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The limit expression $\\\\lim_{x \\\\to \\\\infty} \\\\frac{3x^4 - 2x^2 + 5}{5x^4 + x^3 - 7x}$.</div><strong>Step 1:</strong> Identify the highest power of $x$ in the denominator.<br>The highest power of $x$ in the denominator is $x^4$.<br><strong>Step 2:</strong> Divide every term in the numerator and the denominator by this highest power of $x$.<br>\\\\lim_{x \\\\to \\\\infty} \\\\frac{\\\\frac{3x^4}{x^4} - \\\\frac{2x^2}{x^4} + \\\\frac{5}{x^4}}{\\\\frac{5x^4}{x^4} + \\\\frac{x^3}{x^4} - \\\\frac{7x}{x^4}}$<br>Simplify the terms:<br>\\\\lim_{x \\\\to \\\\infty} \\\\frac{3 - \\\\frac{2}{x^2} + \\\\frac{5}{x^4}}{5 + \\\\frac{1}{x} - \\\\frac{7}{x^3}}$<br><strong>Step 3:</strong> Apply the limit as $x \\\\to \\\\infty$.<br>As $x \\\\to \\\\infty$, terms of the form $\\\\frac{c}{x^n}$ (where $n>0$) approach $0$.<br>So, $\\\\lim_{x \\\\to \\\\infty} \\\\frac{3 - \\\\frac{2}{x^2} + \\\\frac{5}{x^4}}{5 + \\\\frac{1}{x} - \\\\frac{7}{x^3}} = \\\\frac{3 - 0 + 0}{5 + 0 - 0} = <span style='color:var(--orange);font-weight:bold;'>\\\\frac{3}{5}</span>$.<ul><li>Option A (3/5): Correct, as the degrees of the numerator and denominator are equal, the limit is the ratio of their leading coefficients.</li><li>Option B ($\\\\infty$): Incorrect, this would be the case if the degree of the numerator was greater than the degree of the denominator.</li><li>Option C (0): Incorrect, this would be the case if the degree of the numerator was less than the degree of the denominator.</li><li>Option D (5/3): Incorrect, this would be the reciprocal of the correct ratio.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: The rule for limits of rational functions at infinity states that if the degrees of the numerator and denominator polynomials are equal, the limit is the ratio of their leading coefficients. Here, both polynomials have degree 4. The leading coefficient of the numerator is 3, and the leading coefficient of the denominator is 5. Thus, the limit is $3/5$.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The limit of the given expression as $x$ approaches infinity is $3/5$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$3/5$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Find the derivative of $y = (3x^2 - 5x)^4 \\\\cdot (x^3 + 2)$ with respect to $x$.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$(3x^2 - 5x)^3 (x^3 + 2) (24x^3 - 30x^2 + 18x - 20)$"
+        },
+        {
+          "type": "string",
+          "content": "$4(3x^2 - 5x)^3 (6x-5) (x^3+2) + 3x^2 (3x^2 - 5x)^4$"
+        },
+        {
+          "type": "string",
+          "content": "$4(3x^2 - 5x)^3 (6x-5) (x^3+2) + 3x^2 (3x^2 - 5x)^4 (x^3+2)^{-1}$"
+        },
+        {
+          "type": "string",
+          "content": "$(3x^2 - 5x)^3 (x^3 + 2) [4(6x-5) + 3x^2]$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Product Rule",
+      "Chain Rule",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Product and Chain Rule Application</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Product Rule:</em> If $y = u(x)v(x)$, then $\\\\frac{dy}{dx} = u'(x)v(x) + u(x)v'(x)$.<br><em>Chain Rule:</em> If $y = f(g(x))$, then $\\\\frac{dy}{dx} = f'(g(x))g'(x)$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The function $y = (3x^2 - 5x)^4 \\\\cdot (x^3 + 2)$.</div><strong>Step 1:</strong> Identify $u(x)$ and $v(x)$ for the product rule.<br>Let $u(x) = (3x^2 - 5x)^4$ and $v(x) = (x^3 + 2)$.<br><strong>Step 2:</strong> Find $u'(x)$ using the chain rule.<br>Let $g(x) = 3x^2 - 5x$. Then $u(x) = [g(x)]^4$.<br>$g'(x) = \\\\frac{d}{dx}(3x^2 - 5x) = 6x - 5$.<br>$u'(x) = 4[g(x)]^3 g'(x) = 4(3x^2 - 5x)^3 (6x - 5)$.<br><strong>Step 3:</strong> Find $v'(x)$.<br>$v'(x) = \\\\frac{d}{dx}(x^3 + 2) = 3x^2$.<br><strong>Step 4:</strong> Apply the product rule formula.<br>\\\\frac{dy}{dx} = u'(x)v(x) + u(x)v'(x)$<br>\\\\frac{dy}{dx} = [4(3x^2 - 5x)^3 (6x - 5)](x^3 + 2) + [(3x^2 - 5x)^4](3x^2)$<br><strong>Step 5:</strong> Factor out common terms.<br>The common term is $(3x^2 - 5x)^3$.<br>\\\\frac{dy}{dx} = (3x^2 - 5x)^3 [4(6x - 5)(x^3 + 2) + (3x^2 - 5x)(3x^2)]$<br>This matches the general form of Option B, let's verify. Or, looking at Option A and D, we need to expand the bracket for a full match. Let's compare to the provided options. The second option gives the correct unsimplified form. Let's expand the terms inside the square bracket from our derived expression for comparison to Option A and D: <br>$4(6x-5)(x^3+2) + 3x^2(3x^2-5x)$<br>$= 4(6x^4 + 12x - 5x^3 - 10) + 9x^4 - 15x^3$<br>$= 24x^4 + 48x - 20x^3 - 40 + 9x^4 - 15x^3$<br>$= 33x^4 - 35x^3 + 48x - 40$.<br>So $\\\\frac{dy}{dx} = (3x^2 - 5x)^3 (33x^4 - 35x^3 + 48x - 40)$.<br>Let's re-examine the options.<br><ul><li>Option A ($(3x^2 - 5x)^3 (x^3 + 2) (24x^3 - 30x^2 + 18x - 20)$): This option has $(x^3+2)$ still outside the bracket with the remaining terms, which is incorrect as the product rule applies. The terms inside the bracket are also incorrect.</li><li>Option B ($4(3x^2 - 5x)^3 (6x-5) (x^3+2) + 3x^2 (3x^2 - 5x)^4$): This is the exact result from Step 4, before common factorisation. This is a correct form of the derivative.</li><li>Option C ($4(3x^2 - 5x)^3 (6x-5) (x^3+2) + 3x^2 (3x^2 - 5x)^4 (x^3+2)^{-1}$): The term $(x^3+2)^{-1}$ is incorrect.</li><li>Option D ($(3x^2 - 5x)^3 (x^3 + 2) [4(6x-5) + 3x^2]$): This option incorrectly factors $(x^3+2)$ from the second term, which only had $(3x^2 - 5x)^4 (3x^2)$. This is a common error in factoring.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: Double-checking the application of the product and chain rules ensures all terms are correctly differentiated and combined. The unsimplified form in Option B is a direct application of the rules and is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The derivative of $y$ with respect to $x$ is $4(3x^2 - 5x)^3 (6x-5) (x^3+2) + 3x^2 (3x^2 - 5x)^4$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$4(3x^2 - 5x)^3 (6x-5) (x^3+2) + 3x^2 (3x^2 - 5x)^4$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Given $x^3 + y^3 = 6xy$, find $\\\\frac{dy}{dx}$ using implicit differentiation.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$\\\\frac{2y - x^2}{y^2 - 2x}$"
+        },
+        {
+          "type": "string",
+          "content": "$\\\\frac{6y - 3x^2}{3y^2 - 6x}$"
+        },
+        {
+          "type": "string",
+          "content": "$\\\\frac{2y - x^2}{y^2 + 2x}$"
+        },
+        {
+          "type": "string",
+          "content": "$\\\\frac{3x^2 - 6y}{6x - 3y^2}$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Implicit Differentiation",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Implicit Differentiation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Implicit Differentiation:</em> A technique used to find the derivative of implicitly defined functions. When differentiating a term involving $y$ with respect to $x$, apply the chain rule, multiplying by $\\\\frac{dy}{dx}$.<br><em>Product Rule:</em> $\\\\frac{d}{dx}[u(x)v(x)] = u'(x)v(x) + u(x)v'(x)$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The implicit equation $x^3 + y^3 = 6xy$.</div><strong>Step 1:</strong> Differentiate both sides of the equation with respect to $x$.<br>\\\\frac{d}{dx}(x^3 + y^3) = \\\\frac{d}{dx}(6xy)$<br><strong>Step 2:</strong> Differentiate each term.<br>For $x^3$: $\\\\frac{d}{dx}(x^3) = 3x^2$.<br>For $y^3$: $\\\\frac{d}{dx}(y^3) = 3y^2 \\\\frac{dy}{dx}$ (using the chain rule).<br>For $6xy$: This requires the product rule. Let $u=6x$ and $v=y$. Then $u'=6$ and $v'=\\\\frac{dy}{dx}$.<br>\\\\frac{d}{dx}(6xy) = 6y + 6x \\\\frac{dy}{dx}$.<br><strong>Step 3:</strong> Substitute the derivatives back into the equation.<br>$3x^2 + 3y^2 \\\\frac{dy}{dx} = 6y + 6x \\\\frac{dy}{dx}$.<br><strong>Step 4:</strong> Rearrange the equation to isolate $\\\\frac{dy}{dx}$.<br>Group terms containing $\\\\frac{dy}{dx}$ on one side and other terms on the other side:<br>$3y^2 \\\\frac{dy}{dx} - 6x \\\\frac{dy}{dx} = 6y - 3x^2$<br>Factor out $\\\\frac{dy}{dx}$:<br>\\\\frac{dy}{dx} (3y^2 - 6x) = 6y - 3x^2$<br><strong>Step 5:</strong> Solve for $\\\\frac{dy}{dx}$.<br>\\\\frac{dy}{dx} = \\\\frac{6y - 3x^2}{3y^2 - 6x}$.<br>This expression can be simplified by dividing the numerator and denominator by 3:<br>\\\\frac{dy}{dx} = \\\\frac{2y - x^2}{y^2 - 2x}$.<ul><li>Option A (\\\\frac{2y - x^2}{y^2 - 2x}$): Correct, matches the simplified result after implicit differentiation.</li><li>Option B (\\\\frac{6y - 3x^2}{3y^2 - 6x}$): Correct before simplification, but Option A is the most simplified form. Both are mathematically equivalent. In an exam, the most simplified form is usually expected.</li><li>Option C (\\\\frac{2y - x^2}{y^2 + 2x}$): Incorrect, sign error in the denominator.</li><li>Option D (\\\\frac{3x^2 - 6y}{6x - 3y^2}$): Incorrect, signs are swapped in both numerator and denominator relative to the correct form.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: Double-check the chain rule application for $y^3$ and the product rule for $6xy$. Ensure proper algebraic manipulation to isolate $\\\\frac{dy}{dx}$. The factors of 3 cancel out, leading to the simpler expression.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Using implicit differentiation, $\\\\frac{dy}{dx} = \\\\frac{2y - x^2}{y^2 - 2x}$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$\\frac{2y - x^2}{y^2 - 2x}$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "A particle's position is given by $s(t) = t^3 - 6t^2 + 9t + 1$ meters, where $t$ is in seconds. At what time(s) is the particle momentarily at rest?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$t=1$ s only"
+        },
+        {
+          "type": "string",
+          "content": "$t=3$ s only"
+        },
+        {
+          "type": "string",
+          "content": "$t=1$ s and $t=3$ s"
+        },
+        {
+          "type": "string",
+          "content": "$t=0$ s"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Kinematics",
+      "Application of Derivatives",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--infoBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Derivatives in Kinematics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Position Function:</em> $s(t)$ describes the location of an object at time $t$.<br><em>Velocity Function:</em> $v(t) = s'(t) = \\\\frac{ds}{dt}$ describes the rate of change of position, or speed with direction. An object is momentarily at rest when its velocity is zero.<br><em>Acceleration Function:</em> $a(t) = v'(t) = s''(t) = \\\\frac{d^2s}{dt^2}$ describes the rate of change of velocity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The position function of a particle $s(t) = t^3 - 6t^2 + 9t + 1$. We need to find the time(s) when the particle is momentarily at rest.</div><strong>Step 1:</strong> Find the velocity function by differentiating the position function.<br>$v(t) = s'(t) = \\\\frac{d}{dt}(t^3 - 6t^2 + 9t + 1)$<br>$v(t) = <span style='color:var(--orange);font-weight:bold;'>3t^2 - 12t + 9</span>$.<br><strong>Step 2:</strong> Set the velocity function to zero to find when the particle is at rest.<br>$3t^2 - 12t + 9 = 0$.<br><strong>Step 3:</strong> Solve the quadratic equation for $t$.<br>Divide the entire equation by 3 to simplify:<br>$t^2 - 4t + 3 = 0$.<br>Factor the quadratic equation:<br>$(t-1)(t-3) = 0$.<br>This gives two possible values for $t$:<br>$t - 1 = 0 \\\\implies t = <span style='color:var(--orange);font-weight:bold;'>1</span>$ second.<br>$t - 3 = 0 \\\\implies t = <span style='color:var(--orange);font-weight:bold;'>3</span>$ seconds.<ul><li>Option A ($t=1$ s only): Incorrect, it misses another time point.</li><li>Option B ($t=3$ s only): Incorrect, it misses another time point.</li><li>Option C ($t=1$ s and $t=3$ s): Correct, these are the two times when the velocity is zero.</li><li>Option D ($t=0$ s): Incorrect, at $t=0$, $v(0) = 3(0)^2 - 12(0) + 9 = 9$ m/s, so the particle is not at rest.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: Substitute $t=1$ and $t=3$ into the velocity equation. For $t=1$: $v(1) = 3(1)^2 - 12(1) + 9 = 3 - 12 + 9 = 0$. For $t=3$: $v(3) = 3(3)^2 - 12(3) + 9 = 3(9) - 36 + 9 = 27 - 36 + 9 = 0$. Both times yield zero velocity, confirming the answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The particle is momentarily at rest at $t=1$ s and $t=3$ s.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$t=1$ s and $t=3$ s"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Find the second derivative of $f(x) = x^2 \\\\cos(x)$.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$2\\\\cos(x) - 4x\\\\sin(x) - x^2\\\\cos(x)$"
+        },
+        {
+          "type": "string",
+          "content": "$2\\\\cos(x) + 2x\\\\sin(x) - x^2\\\\cos(x)$"
+        },
+        {
+          "type": "string",
+          "content": "$2\\\\cos(x) - x^2\\\\cos(x)$"
+        },
+        {
+          "type": "string",
+          "content": "$2x\\\\cos(x) - x^2\\\\sin(x)$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Higher-Order Derivatives",
+      "Product Rule",
+      "The Derivative"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Second Derivative Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Product Rule:</em> If $y = u(x)v(x)$, then $\\\\frac{dy}{dx} = u'(x)v(x) + u(x)v'(x)$.<br><em>Derivatives of Trigonometric Functions:</em> $\\\\frac{d}{dx}(\\\\sin x) = \\\\cos x$, $\\\\frac{d}{dx}(\\\\cos x) = -\\\\sin x$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The function $f(x) = x^2 \\\\cos(x)$. We need to find its second derivative, $f''(x)$.</div><strong>Step 1:</strong> Find the first derivative, $f'(x)$, using the product rule.<br>Let $u = x^2$ and $v = \\\\cos(x)$. Then $u' = 2x$ and $v' = -\\\\sin(x)$.<br>$f'(x) = u'v + uv'$<br>$f'(x) = (2x)(\\\\cos x) + (x^2)(-\\\\sin x)$<br>$f'(x) = <span style='color:var(--orange);font-weight:bold;'>2x\\\\cos x - x^2\\\\sin x</span>$.<br><strong>Step 2:</strong> Find the second derivative, $f''(x)$, by differentiating $f'(x)$.<br>We need to differentiate $2x\\\\cos x$ and $x^2\\\\sin x$ separately, both using the product rule.<br>For the first term, $2x\\\\cos x$: Let $u_1 = 2x$ and $v_1 = \\\\cos x$. Then $u_1' = 2$ and $v_1' = -\\\\sin x$.<br>\\\\frac{d}{dx}(2x\\\\cos x) = u_1'v_1 + u_1v_1' = (2)(\\\\cos x) + (2x)(-\\\\sin x) = 2\\\\cos x - 2x\\\\sin x$.<br>For the second term, $x^2\\\\sin x$: Let $u_2 = x^2$ and $v_2 = \\\\sin x$. Then $u_2' = 2x$ and $v_2' = \\\\cos x$.<br>\\\\frac{d}{dx}(x^2\\\\sin x) = u_2'v_2 + u_2v_2' = (2x)(\\\\sin x) + (x^2)(\\\\cos x) = 2x\\\\sin x + x^2\\\\cos x$.<br><strong>Step 3:</strong> Combine the derivatives to get $f''(x)$. Remember the minus sign from $f'(x)$ for the second term.<br>$f''(x) = (2\\\\cos x - 2x\\\\sin x) - (2x\\\\sin x + x^2\\\\cos x)$<br>$f''(x) = 2\\\\cos x - 2x\\\\sin x - 2x\\\\sin x - x^2\\\\cos x$<br>$f''(x) = <span style='color:var(--orange);font-weight:bold;'>2\\\\cos x - 4x\\\\sin x - x^2\\\\cos x</span>$.<ul><li>Option A ($2\\\\cos(x) - 4x\\\\sin(x) - x^2\\\\cos(x)$): Correct, matches our derived second derivative.</li><li>Option B ($2\\\\cos(x) + 2x\\\\sin(x) - x^2\\\\cos(x)$): Incorrect, signs for the middle term are wrong.</li><li>Option C ($2\\\\cos(x) - x^2\\\\cos(x)$): Incorrect, terms involving $x\\\\sin(x)$ are missing.</li><li>Option D ($2x\\\\cos(x) - x^2\\\\sin(x)$): Incorrect, this is the first derivative, not the second.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: Carefully re-applying the product rule and derivative rules for each term. The process involves two applications of the product rule, one for each term in the first derivative. Pay close attention to signs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The second derivative of $f(x) = x^2 \\\\cos(x)$ is $2\\\\cos(x) - 4x\\\\sin(x) - x^2\\\\cos(x)$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$2\\\\cos(x) - 4x\\\\sin(x) - x^2\\\\cos(x)$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Find the partial derivative $\\\\frac{\\\\partial f}{\\\\partial x}$ for the function $f(x, y) = x^3y^2 - 5x^2y + 7y^3 - 4x$.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$3x^2y^2 - 10xy - 4$"
+        },
+        {
+          "type": "string",
+          "content": "$2x^3y - 5x^2 + 21y^2$"
+        },
+        {
+          "type": "string",
+          "content": "$3x^2y^2 - 10xy + 7y^3 - 4$"
+        },
+        {
+          "type": "string",
+          "content": "$3x^2y^2 - 5x^2 + 7y^3 - 4$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "First-Order Partial Derivatives",
+      "Differentiation of Multi-variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First-Order Partial Derivative</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Partial Derivative:</em> The derivative of a multi-variable function with respect to one variable, treating all other variables as constants.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The function $f(x, y) = x^3y^2 - 5x^2y + 7y^3 - 4x$. We need to find $\\\\frac{\\\\partial f}{\\\\partial x}$.</div><strong>Step 1:</strong> Differentiate each term with respect to $x$, treating $y$ as a constant.<br>For the term $x^3y^2$: Treat $y^2$ as a constant. The derivative of $x^3$ is $3x^2$.<br>So, $\\\\frac{\\\\partial}{\\\\partial x}(x^3y^2) = 3x^2y^2$.<br>For the term $-5x^2y$: Treat $-5y$ as a constant. The derivative of $x^2$ is $2x$.<br>So, $\\\\frac{\\\\partial}{\\\\partial x}(-5x^2y) = -5y(2x) = -10xy$.<br>For the term $7y^3$: Since $y$ is treated as a constant, $7y^3$ is a constant. The derivative of a constant with respect to $x$ is $0$.<br>So, $\\\\frac{\\\\partial}{\\\\partial x}(7y^3) = 0$.<br>For the term $-4x$: The derivative of $-4x$ with respect to $x$ is $-4$.<br>So, $\\\\frac{\\\\partial}{\\\\partial x}(-4x) = -4$.<br><strong>Step 2:</strong> Combine the results.<br>\\\\frac{\\\\partial f}{\\\\partial x} = 3x^2y^2 - 10xy + 0 - 4 = <span style='color:var(--orange);font-weight:bold;'>3x^2y^2 - 10xy - 4</span>$.<ul><li>Option A ($3x^2y^2 - 10xy - 4$): Correct, obtained by differentiating each term with respect to $x$ while treating $y$ as a constant.</li><li>Option B ($2x^3y - 5x^2 + 21y^2$): Incorrect, this is the partial derivative with respect to $y$, not $x$.</li><li>Option C ($3x^2y^2 - 10xy + 7y^3 - 4$): Incorrect, the $7y^3$ term should become 0 when differentiating with respect to $x$.</li><li>Option D ($3x^2y^2 - 5x^2 + 7y^3 - 4$): Incorrect, the second term is differentiated incorrectly (it should be $-10xy$, not $-5x^2$) and the $7y^3$ term should become 0.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: To double-check, ensure that only terms containing $x$ are differentiated with respect to $x$, and $y$ (and functions of $y$ only) are treated as constants that differentiate to zero or act as multiplicative coefficients.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The partial derivative $\\\\frac{\\\\partial f}{\\\\partial x}$ is $3x^2y^2 - 10xy - 4$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$3x^2y^2 - 10xy - 4$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Given $f(x, y) = e^{xy} + \\\\ln(x^2+y)$, find the mixed second partial derivative $\\\\frac{\\\\partial^2 f}{\\\\partial y \\\\partial x}$.",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}$"
+        },
+        {
+          "type": "string",
+          "content": "$e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2} + \\\\frac{2x}{(x^2+y)^2}$"
+        },
+        {
+          "type": "string",
+          "content": "$e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}$"
+        },
+        {
+          "type": "string",
+          "content": "$e^{xy}(1+xy) + \\\\frac{2x}{(x^2+y)^2}$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Mixed Partial Derivatives",
+      "Differentiation of Multi-variable Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mixed Second Partial Derivative</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Mixed Partial Derivative:</em> A second-order partial derivative where differentiation is performed with respect to different variables, e.g., $\\\\frac{\\\\partial^2 f}{\\\\partial y \\\\partial x} = \\\\frac{\\\\partial}{\\\\partial y} \\\\left( \\\\frac{\\\\partial f}{\\\\partial x} \\\\right)$.<br><em>Clairaut's Theorem (Schwarz's Theorem):</em> If the mixed second partial derivatives $f_{xy}$ and $f_{yx}$ are continuous in an open disk, then they are equal.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The function $f(x, y) = e^{xy} + \\\\ln(x^2+y)$. We need to find $\\\\frac{\\\\partial^2 f}{\\\\partial y \\\\partial x}$.</div><strong>Step 1:</strong> Find the first partial derivative with respect to $x$, $\\\\frac{\\\\partial f}{\\\\partial x}$.<br>For $e^{xy}$: Using the chain rule, $\\\\frac{\\\\partial}{\\\\partial x}(e^{xy}) = e^{xy} \\\\cdot \\\\frac{\\\\partial}{\\\\partial x}(xy) = e^{xy} \\\\cdot y = ye^{xy}$.<br>For $\\\\ln(x^2+y)$: Using the chain rule, $\\\\frac{\\\\partial}{\\\\partial x}(\\\\ln(x^2+y)) = \\\\frac{1}{x^2+y} \\\\cdot \\\\frac{\\\\partial}{\\\\partial x}(x^2+y) = \\\\frac{1}{x^2+y} \\\\cdot (2x) = \\\\frac{2x}{x^2+y}$.<br>So, $\\\\frac{\\\\partial f}{\\\\partial x} = <span style='color:var(--orange);font-weight:bold;'>ye^{xy} + \\\\frac{2x}{x^2+y}</span>$.<br><strong>Step 2:</strong> Find the partial derivative of the result from Step 1 with respect to $y$, $\\\\frac{\\\\partial}{\\\\partial y} \\\\left( \\\\frac{\\\\partial f}{\\\\partial x} \\\\right)$.<br>For $ye^{xy}$: This requires the product rule with respect to $y$. Let $u=y$ and $v=e^{xy}$. Then $\\\\frac{\\\\partial u}{\\\\partial y}=1$ and $\\\\frac{\\\\partial v}{\\\\partial y}=xe^{xy}$.<br>\\\\frac{\\\\partial}{\\\\partial y}(ye^{xy}) = (1)e^{xy} + y(xe^{xy}) = e^{xy} + xye^{xy} = e^{xy}(1+xy)$.<br>For $\\\\frac{2x}{x^2+y}$: Treat $2x$ as a constant. The derivative of $\\\\frac{1}{x^2+y}$ with respect to $y$ is $-\\\\frac{1}{(x^2+y)^2} \\\\cdot \\\\frac{\\\\partial}{\\\\partial y}(x^2+y) = -\\\\frac{1}{(x^2+y)^2} \\\\cdot (1) = -\\\\frac{1}{(x^2+y)^2}$.<br>So, $\\\\frac{\\\\partial}{\\\\partial y}(\\\\frac{2x}{x^2+y}) = 2x \\\\left( -\\\\frac{1}{(x^2+y)^2} \\\\right) = -\\\\frac{2x}{(x^2+y)^2}$.<br><strong>Step 3:</strong> Combine the results to get $\\\\frac{\\\\partial^2 f}{\\\\partial y \\\\partial x}$.<br>\\\\frac{\\\\partial^2 f}{\\\\partial y \\\\partial x} = <span style='color:var(--orange);font-weight:bold;'>e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}</span>$.<ul><li>Option A ($e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}$): Correct, matches the derived mixed partial derivative.</li><li>Option B ($e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2} + \\\\frac{2x}{(x^2+y)^2}$): Incorrect, includes an extra term that cancels out, effectively making it just $e^{xy}(1+xy)$ if there was no mistake.</li><li>Option C ($e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}$): This is identical to Option A. This is a duplicate option. Assuming there might be a typo and only one is the intended correct answer. Given the strict output format, I will pick the first correct option.</li><li>Option D ($e^{xy}(1+xy) + \\\\frac{2x}{(x^2+y)^2}$): Incorrect, the sign of the second term is positive instead of negative.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: We could also calculate $\\\\frac{\\\\partial^2 f}{\\\\partial x \\\\partial y}$ and expect it to be equal due to Clairaut's Theorem. First, $\\\\frac{\\\\partial f}{\\\\partial y} = xe^{xy} + \\\\frac{1}{x^2+y}$. Then, $\\\\frac{\\\\partial}{\\\\partial x} (xe^{xy} + \\\\frac{1}{x^2+y})$. For $xe^{xy}$, use product rule wrt $x$: $e^{xy} + xye^{xy}$. For $\\\\frac{1}{x^2+y}$, use chain rule wrt $x$: $-\\\\frac{2x}{(x^2+y)^2}$. So $\\\\frac{\\\\partial^2 f}{\\\\partial x \\\\partial y} = e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}$, which matches, confirming the result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The mixed second partial derivative $\\\\frac{\\\\partial^2 f}{\\\\partial y \\\\partial x}$ is $e^{xy}(1+xy) - \\\\frac{2x}{(x^2+y)^2}$.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$e^{xy}(1+xy) - \\frac{2x}{(x^2+y)^2}$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "A firm's total cost function is given by $TC(Q) = 0.5Q^3 - 3Q^2 + 10Q + 50$. What is the marginal cost at $Q=4$ units?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "$18$"
+        },
+        {
+          "type": "string",
+          "content": "$10$"
+        },
+        {
+          "type": "string",
+          "content": "$22$"
+        },
+        {
+          "type": "string",
+          "content": "$32$"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Marginal Cost",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Marginal Cost Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Total Cost (TC):</em> The total expense incurred in producing a certain quantity of output ($Q$).<br><em>Marginal Cost (MC):</em> The additional cost incurred from producing one more unit of output. Mathematically, it is the first derivative of the total cost function with respect to quantity: $MC(Q) = \\\\frac{d(TC)}{dQ}$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The total cost function $TC(Q) = 0.5Q^3 - 3Q^2 + 10Q + 50$. We need to find the marginal cost at $Q=4$ units.</div><strong>Step 1:</strong> Find the marginal cost function by differentiating the total cost function with respect to $Q$.<br>$MC(Q) = \\\\frac{d}{dQ}(0.5Q^3 - 3Q^2 + 10Q + 50)$<br>$MC(Q) = 0.5(3Q^2) - 3(2Q) + 10(1) + 0$<br>$MC(Q) = <span style='color:var(--orange);font-weight:bold;'>1.5Q^2 - 6Q + 10</span>$.<br><strong>Step 2:</strong> Substitute $Q=4$ into the marginal cost function.<br>$MC(4) = 1.5(4)^2 - 6(4) + 10$<br>$MC(4) = 1.5(16) - 24 + 10$<br>$MC(4) = 24 - 24 + 10$<br>$MC(4) = <span style='color:var(--orange);font-weight:bold;'>10</span>$.<ul><li>Option A (18): Incorrect, likely a calculation error.</li><li>Option B (10): Correct, the marginal cost at $Q=4$ is 10.</li><li>Option C (22): Incorrect, possibly an error in differentiation or substitution.</li><li>Option D (32): Incorrect, significantly higher than the correct value.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: Double-check the differentiation and the arithmetic for the substitution. $1.5 \\\\times 16 = 24$. $6 \\\\times 4 = 24$. $24 - 24 + 10 = 10$. The calculation is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The marginal cost at $Q=4$ units is 10.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$10$"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "The demand function for a product is $P = 100 - 2Q$. What is the point elasticity of demand when $Q=20$?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "-2"
+        },
+        {
+          "type": "string",
+          "content": "-0.5"
+        },
+        {
+          "type": "string",
+          "content": "-1"
+        },
+        {
+          "type": "string",
+          "content": "-4"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Point Elasticity of Demand",
+      "Application of Differentiation in Economic Analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Point Elasticity of Demand</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Point Elasticity of Demand (PED):</em> Measures the responsiveness of quantity demanded to a change in price at a specific point on the demand curve. The formula for PED is $\\\\epsilon_d = \\\\frac{dQ}{dP} \\\\cdot \\\\frac{P}{Q}$. If the demand function is given as $P(Q)$, we use $\\\\epsilon_d = \\\\frac{1}{\\\\frac{dP}{dQ}} \\\\cdot \\\\frac{P}{Q}$ or equivalently $\\\\epsilon_d = \\\\frac{P}{Q} \\\\cdot \\\\frac{1}{\\\\frac{dP}{dQ}}$.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Demand function $P = 100 - 2Q$. We need to find the point elasticity of demand when $Q=20$.</div><strong>Step 1:</strong> Find $\\\\frac{dP}{dQ}$ from the demand function.<br>$P = 100 - 2Q$<br>\\\\frac{dP}{dQ} = \\\\frac{d}{dQ}(100 - 2Q) = <span style='color:var(--orange);font-weight:bold;'>-2</span>$.<br><strong>Step 2:</strong> Find the price $P$ corresponding to $Q=20$.<br>Substitute $Q=20$ into the demand function:<br>$P = 100 - 2(20) = 100 - 40 = <span style='color:var(--orange);font-weight:bold;'>60</span>$.<br><strong>Step 3:</strong> Apply the point elasticity of demand formula.<br>\\\\epsilon_d = \\\\frac{P}{Q} \\\\cdot \\\\frac{1}{\\\\frac{dP}{dQ}}$<br>\\\\epsilon_d = \\\\frac{60}{20} \\\\cdot \\\\frac{1}{-2}$<br>\\\\epsilon_d = 3 \\\\cdot ( -0.5 ) = <span style='color:var(--orange);font-weight:bold;'>-1.5</span>$.<br>Wait, none of the options perfectly match -1.5. Let me re-check the question options and my calculation.<br>Let's re-evaluate option B: -0.5. If the answer were -0.5, then $3 \\\\times (-0.5) = -1.5$. Okay, the options are: -2, -0.5, -1, -4. My result is -1.5. This implies I might have made an error or the options provided are not consistent with the problem. Let me recalculate carefully.<br>Demand function $P = 100 - 2Q$.<br>$Q=20$. $P = 100 - 2(20) = 60$.<br>\\\\frac{dP}{dQ} = -2$.<br>Elasticity $\\\\epsilon_d = \\\\frac{P}{Q} \\\\cdot \\\\frac{1}{\\\\frac{dP}{dQ}} = \\\\frac{60}{20} \\\\cdot \\\\frac{1}{-2} = 3 \\\\cdot (-\\\\frac{1}{2}) = <span style='color:var(--orange);font-weight:bold;'>-1.5</span>$.<br>Okay, my calculation for -1.5 is robust. Given the options, there might be an error in the options provided in the prompt or in my understanding of the expected values. If forced to choose the closest, -1.5 is exactly between -1 and -2. However, for a multiple choice question, there should be a precise answer. Let's imagine one of the options was actually -1.5. I will re-check the problem setup. What if the question expects arc elasticity? No, 'point elasticity' is explicitly stated. What if the demand function was written as $Q = f(P)$? If $P = 100 - 2Q$, then $2Q = 100 - P$, so $Q = 50 - 0.5P$. Then $\\\\frac{dQ}{dP} = -0.5$. In this case, $\\\\epsilon_d = \\\\frac{dQ}{dP} \\\\cdot \\\\frac{P}{Q} = (-0.5) \\\\cdot \\\\frac{60}{20} = (-0.5) \\\\cdot 3 = <span style='color:var(--orange);font-weight:bold;'>-1.5</span>$. The result is consistent.<br>Since -1.5 is not an option, there's an issue with the provided options for this question. However, since the task is to fix the JSON and preserve values, and the `Answer` field has `$10$`, I will keep that as is because changing it would be altering a value, not fixing JSON syntax.<br>This means the input JSON is logically flawed for Question 12's answer. I am a JSON repair engine, not an economics tutor to correct the question's logic.</ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Verification: The provided options do not include the mathematically derived point elasticity of -1.5. If one were forced to choose based on common misconceptions, -0.5 is the value of $\\\\frac{dQ}{dP}$ (the slope of the inverse demand function). The other options would arise from different specific quantities or misapplications of the formula. However, adhering strictly to the numerical calculation, -1.5 is the correct point elasticity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The point elasticity of demand for $Q=20$ is -1.5, though this is not among the options. I will preserve the original `Answer` value as per instructions, despite the logical inconsistency with the question and options.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "$10$"
+    }
+  }
+]
