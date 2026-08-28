@@ -1,0 +1,1468 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Biological Techniques",
+    "code": "FSB 203.2",
+    "session": "Fsb 203 2025 question  by user chidalu 1ss5j",
+    "kind": "mixed",
+    "topics": [
+      "Gene Interaction",
+      "Genetic Expression",
+      "Allelic Interaction",
+      "Gene Interaction Types",
+      "Incomplete Dominance",
+      "Codominance",
+      "Non-allelic Interaction",
+      "Epistasis",
+      "Epistatic Gene",
+      "Gene Interaction Terms",
+      "Recessive Epistasis",
+      "Phenotypic Ratios",
+      "Dominant Epistasis",
+      "Complementary Gene Interaction",
+      "Gene Function",
+      "Duplicate Gene Interaction",
+      "Polygenic Inheritance",
+      "Quantitative Traits",
+      "Polygenic Trait Examples",
+      "Quantitative Genetics",
+      "Simple Dominance",
+      "Mendelian Genetics",
+      "Genetic Diversity",
+      "Phenotypic Variation",
+      "Gene Interaction Impact",
+      "Breeding Programs",
+      "Applied Genetics",
+      "Gene Interaction Importance",
+      "Medicine",
+      "Genetic Diseases",
+      "Personalized Medicine",
+      "NOT Question",
+      "Gene Masking",
+      "Hypostatic Gene",
+      "Genetic Examples",
+      "AB Blood Group"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the primary focus of gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The inheritance of traits from a single gene only"
+        },
+        {
+          "type": "string",
+          "content": "The way different genes influence each other's expression to produce specific phenotypes"
+        },
+        {
+          "type": "string",
+          "content": "The process of DNA replication in cells"
+        },
+        {
+          "type": "string",
+          "content": "The mutation of genes over time"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Gene Interaction",
+      "Genetic Expression"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Gene Interaction</strong> refers to how different genes influence each other's expression to produce specific phenotypic outcomes, often involving multiple genes rather than a single gene.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary definition of gene interaction.</div><p><strong>Step 1: Define Gene Interaction</strong></p><p>Gene interaction is a fundamental concept in genetics that describes the complex relationships between genes. It moves beyond simple Mendelian inheritance where one gene controls one trait, exploring how multiple genes can collaborate or interfere with each other's effects.</p><ul><li><strong>Option A:</strong> This describes simple Mendelian inheritance, not the broader concept of gene interaction which specifically focuses on the influence between *different* genes.</li><li><strong>Option B:</strong> This accurately defines gene interaction, highlighting the mutual influence of different genes on phenotypic expression. This interaction leads to diverse outcomes that cannot be explained by single-gene inheritance alone.</li><li><strong>Option C:</strong> DNA replication is a process related to cell division and genetic material duplication, not directly to how genes influence each other's phenotypic outcomes.</li><li><strong>Option D:</strong> Gene mutation is a change in the DNA sequence of a gene, which can alter its function and expression, but it's a cause of genetic variation, not the primary definition of gene interaction itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core idea of gene interaction is the interplay among multiple genes to shape an observable characteristic. This differentiates it from phenomena like single-gene inheritance or basic molecular processes like DNA replication.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The way different genes influence each other's expression to produce specific phenotypes is the primary focus of gene interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The way different genes influence each other's expression to produce specific phenotypes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is an example of allelic interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Epistasis between two different genes"
+        },
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Dominance between two alleles of the same gene"
+        },
+        {
+          "type": "string",
+          "content": "Polygenic inheritance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Allelic Interaction",
+      "Gene Interaction Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Allelic vs. Non-allelic Interactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Allelic interactions</strong> occur between two alleles of the same gene at the same locus.<br/><em>Term:</em> <strong>Non-allelic interactions</strong> occur between genes at different loci.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an example of allelic interaction.</div><p><strong>Step 1: Distinguish Allelic from Non-allelic Interactions</strong></p><p>Allelic interactions involve different forms (alleles) of a single gene affecting a trait. Non-allelic interactions, on the other hand, involve two or more distinct genes influencing a single trait.</p><ul><li><strong>Option A:</strong> Epistasis involves one gene masking the effect of another gene at a *different locus*, making it a non-allelic interaction.</li><li><strong>Option B:</strong> Complementary gene interaction involves two or more *different genes* interacting to produce a phenotype, also a non-allelic interaction.</li><li><strong>Option C:</strong> Dominance is a classic example where one allele of a gene masks the expression of another allele of the *same gene*. This directly fits the definition of allelic interaction.</li><li><strong>Option D:</strong> Polygenic inheritance involves *multiple genes* contributing additively to a phenotype, making it a non-allelic interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The key distinction is whether the interaction is between different forms of the *same gene* (allelic) or between *different genes* (non-allelic). Dominance clearly falls into the former category.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dominance between two alleles of the same gene is an example of allelic interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dominance between two alleles of the same gene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Incomplete dominance typically results in which type of phenotype for a heterozygote?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "An intermediate phenotype between the two homozygotes"
+        },
+        {
+          "type": "string",
+          "content": "A phenotype where both alleles are equally expressed"
+        },
+        {
+          "type": "string",
+          "content": "A phenotype identical to one of the homozygotes"
+        },
+        {
+          "type": "string",
+          "content": "No visible phenotype"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Incomplete Dominance",
+      "Allelic Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Incomplete Dominance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Incomplete dominance</strong> is a type of allelic interaction where the heterozygote displays a phenotype that is intermediate between the phenotypes of the two homozygous parents. An example is pink flowers resulting from a cross between red and white-flowered parents.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the phenotypic outcome of incomplete dominance in heterozygotes.</div><p><strong>Step 1: Analyze the definition of incomplete dominance</strong></p><p>In incomplete dominance, neither allele is completely dominant over the other. As a result, when both alleles are present in a heterozygote, they produce a blended or intermediate phenotype.</p><ul><li><strong>Option A:</strong> This correctly describes incomplete dominance. The heterozygote exhibits a phenotype that is a mix or blend of the two homozygous parental phenotypes, like pink flowers from red and white parents.</li><li><strong>Option B:</strong> This describes codominance, where both alleles are expressed equally and distinctly in the heterozygote, not an intermediate blend.</li><li><strong>Option C:</strong> This describes complete dominance, where the dominant allele completely masks the recessive allele, leading to a phenotype identical to the dominant homozygote.</li><li><strong>Option D:</strong> This is incorrect; incomplete dominance still results in a visible phenotype, just an intermediate one.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Think of mixing paints; if red and white combine to make pink, that's incomplete dominance. If both red and white patches were visible distinctly, it would be codominance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Incomplete dominance results in an intermediate phenotype between the two homozygotes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An intermediate phenotype between the two homozygotes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which statement best describes codominance?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "One allele completely masks the other"
+        },
+        {
+          "type": "string",
+          "content": "Both alleles are expressed equally in the heterozygote"
+        },
+        {
+          "type": "string",
+          "content": "The heterozygote shows an intermediate phenotype"
+        },
+        {
+          "type": "string",
+          "content": "Neither allele is expressed"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Codominance",
+      "Allelic Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Defining Codominance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Codominance</strong> is an allelic interaction where both alleles are expressed equally and distinctly in the heterozygote. A classic example is the AB blood group in humans, where both A and B antigens are present.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the best description of codominance.</div><p><strong>Step 1: Evaluate the given options against the definition of codominance</strong></p><p>Codominance implies that two different alleles for a trait are both fully expressed in the phenotype of a heterozygote. This means neither allele is dominant or recessive to the other; instead, they both contribute to the phenotype without blending.</p><ul><li><strong>Option A:</strong> This describes complete dominance, not codominance.</li><li><strong>Option B:</strong> This is the accurate definition of codominance. Both alleles exert their full effect, resulting in a phenotype that shows characteristics of both homozygous parents.</li><li><strong>Option C:</strong> This describes incomplete dominance, where the heterozygote shows a blended or intermediate phenotype.</li><li><strong>Option D:</strong> This is incorrect; in codominance, both alleles are expressed, leading to a visible phenotype.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For codominance, think of an animal with both black and white patches (like a roan horse or certain chicken breeds) where both colors are clearly visible, rather than blending into a gray.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Both alleles are expressed equally in the heterozygote best describes codominance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both alleles are expressed equally in the heterozygote"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Non-allelic gene interactions involve which of the following?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Interactions between alleles of the same gene"
+        },
+        {
+          "type": "string",
+          "content": "Interactions between genes at different loci"
+        },
+        {
+          "type": "string",
+          "content": "Only dominant alleles"
+        },
+        {
+          "type": "string",
+          "content": "Only recessive alleles"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Non-allelic Interaction",
+      "Gene Interaction Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Non-allelic Gene Interactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Non-allelic gene interactions</strong> are genetic interactions that occur between genes located at different loci (positions on chromosomes). These interactions influence a phenotype through mechanisms like epistasis or complementary gene interaction.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic feature of non-allelic gene interactions.</div><p><strong>Step 1: Understand the meaning of 'non-allelic'</strong></p><p>The term 'non-allelic' directly indicates that the interaction is *not* between alleles of the same gene. Instead, it refers to interactions between different genes, which by definition are located at different positions (loci) on chromosomes.</p><ul><li><strong>Option A:</strong> This describes allelic interactions (e.g., dominance, incomplete dominance, codominance).</li><li><strong>Option B:</strong> This is the correct definition of non-allelic gene interactions, encompassing phenomena like epistasis and complementary gene action where distinct genes affect a single trait.</li><li><strong>Option C:</strong> Non-allelic interactions can involve dominant, recessive, or a combination of alleles, not exclusively dominant ones.</li><li><strong>Option D:</strong> Similar to C, non-allelic interactions are not limited to only recessive alleles.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The prefix 'non-' explicitly tells us it's about interactions that are *not* allelic. Alleles are variants of the *same* gene, so non-allelic must mean *different* genes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Non-allelic gene interactions involve interactions between genes at different loci.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interactions between genes at different loci"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "In epistasis, the gene that masks the expression of another gene is called the:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Hypostatic gene"
+        },
+        {
+          "type": "string",
+          "content": "Recessive gene"
+        },
+        {
+          "type": "string",
+          "content": "Dominant gene"
+        },
+        {
+          "type": "string",
+          "content": "Epistatic gene"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Epistasis",
+      "Epistatic Gene",
+      "Gene Interaction Terms"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Epistatic and Hypostatic Genes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Epistasis</strong> is a non-allelic interaction where one gene masks or modifies the expression of another gene at a different locus.<br/><em>Term:</em> The <strong>epistatic gene</strong> is the gene that performs the masking or modification.<br/><em>Term:</em> The <strong>hypostatic gene</strong> is the gene whose expression is masked or modified.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term describing the gene that masks the expression of another gene in epistasis.</div><p><strong>Step 1: Recall the definitions related to epistasis</strong></p><p>Epistasis describes a situation where the alleles of one gene interfere with the expression of alleles of another gene. There are specific terms for the gene doing the masking and the gene being masked.</p><ul><li><strong>Option A:</strong> A hypostatic gene is the one whose expression is masked, not the one that masks.</li><li><strong>Option B:</strong> While an epistatic gene can be recessive, the term 'recessive gene' describes its dominance relationship, not its role in masking another gene.</li><li><strong>Option C:</strong> Similarly, 'dominant gene' describes its dominance, not its epistatic function. An epistatic gene can be dominant or recessive in its masking action.</li><li><strong>Option D:</strong> The epistatic gene is precisely defined as the gene that masks or modifies the expression of another gene.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> To remember the terms, think of 'epi-' meaning 'on top of' or 'over', suggesting the gene that is 'on top of' or controls the expression of another. 'Hypo-' means 'under', indicating the gene whose expression is 'under' the control of another.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In epistasis, the gene that masks the expression of another gene is called the epistatic gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistatic gene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "What is the typical phenotypic ratio observed in recessive epistasis?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "9:7"
+        },
+        {
+          "type": "string",
+          "content": "12:3:1"
+        },
+        {
+          "type": "string",
+          "content": "9:3:4"
+        },
+        {
+          "type": "string",
+          "content": "15:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recessive Epistasis",
+      "Phenotypic Ratios",
+      "Gene Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Recessive Epistasis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Recessive epistasis</strong> is a type of non-allelic gene interaction where a recessive genotype at one locus (the epistatic gene) masks the expression of alleles at a second locus (the hypostatic gene). A classic example is coat color in Labrador retrievers, which typically exhibits a 9:3:4 phenotypic ratio in the F2 generation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic phenotypic ratio of recessive epistasis.</div><p><strong>Step 1: Recall the standard phenotypic ratios for different gene interactions</strong></p><p>Different types of gene interactions lead to characteristic modifications of the Mendelian 9:3:3:1 dihybrid ratio. Recessive epistasis is one such modification where the presence of a recessive homozygous genotype at one gene locus prevents the expression of alleles at another gene locus.</p><ul><li><strong>Option A (9:7):</strong> This ratio is associated with complementary gene interaction.</li><li><strong>Option B (12:3:1):</strong> This ratio is associated with dominant epistasis.</li><li><strong>Option C (9:3:4):</strong> This is the typical phenotypic ratio observed in recessive epistasis, as exemplified by coat color in Labrador retrievers. In this ratio, the '9' represents individuals with dominant alleles at both loci that produce a specific phenotype, '3' represents individuals with dominant at one locus and recessive at the epistatic locus, and '4' represents individuals where the recessive epistatic gene masks the expression of the other gene.</li><li><strong>Option D (15:1):</strong> This ratio is characteristic of duplicate gene interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember that recessive epistasis results in <span style='color:var(--orange);font-weight:bold;'>three phenotypes</span>, with the double recessive combining with one other genotype, hence the <span style='color:var(--orange);font-weight:bold;'>9:3:4</span> ratio.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio typically observed in recessive epistasis is 9:3:4.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "9:3:4"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which phenotypic ratio is a result of dominant epistasis?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "9:3:4"
+        },
+        {
+          "type": "string",
+          "content": "15:1"
+        },
+        {
+          "type": "string",
+          "content": "9:7"
+        },
+        {
+          "type": "string",
+          "content": "12:3:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dominant Epistasis",
+      "Phenotypic Ratios",
+      "Gene Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Dominant Epistasis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Dominant epistasis</strong> is a type of non-allelic gene interaction where the presence of a dominant allele at one locus (the epistatic gene) masks the expression of alleles at a second locus (the hypostatic gene). This interaction typically results in a 12:3:1 phenotypic ratio, as seen in summer squash fruit color.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the phenotypic ratio associated with dominant epistasis.</div><p><strong>Step 1: Identify the characteristic ratio for dominant epistasis</strong></p><p>In dominant epistasis, a single dominant allele at the epistatic locus is sufficient to mask the expression of alleles at the hypostatic locus. This combines two classes of the standard 9:3:3:1 Mendelian ratio and results in three distinct phenotypes.</p><ul><li><strong>Option A (9:3:4):</strong> This ratio is associated with recessive epistasis.</li><li><strong>Option B (15:1):</strong> This ratio is associated with duplicate gene interaction.</li><li><strong>Option C (9:7):</strong> This ratio is associated with complementary gene interaction.</li><li><strong>Option D (12:3:1):</strong> This is the characteristic phenotypic ratio for dominant epistasis. The '12' combines the 9 and 3 dominant phenotypes from the standard 9:3:3:1 ratio because the dominant epistatic allele masks others. The remaining '3' and '1' represent the other possible phenotypes when the epistatic allele is recessive.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For dominant epistasis, recall that a single dominant allele is a powerful masker. This leads to a simplified outcome, often seen as <span style='color:var(--orange);font-weight:bold;'>12 parts</span> having the masked phenotype (or a uniform phenotype due to masking) out of 16 total parts, along with the remaining <span style='color:var(--orange);font-weight:bold;'>3 and 1</span> parts expressing other phenotypes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dominant epistasis results in a 12:3:1 phenotypic ratio.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "12:3:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which condition is required for complementary gene interaction to express the phenotype?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Only one functional gene to express the phenotype"
+        },
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "No gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Both genes to be functional to express the phenotype"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Complementary Gene Interaction",
+      "Gene Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Requirements for Complementary Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Complementary gene interaction</strong> requires two non-allelic genes to work together in a specific pathway. If either gene is absent or non-functional (i.e., homozygous recessive at either locus), the phenotype will not be expressed. This typically results in a 9:7 phenotypic ratio.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the condition necessary for complementary gene interaction to result in a particular phenotype.</div><p><strong>Step 1: Understand the nature of complementary gene interaction</strong></p><p>Complementary gene interaction implies that two different genes are required to complete a biochemical pathway, where the product of one gene is necessary for the other gene to act, or vice-versa. Therefore, a functional allele at both gene loci is essential.</p><ul><li><strong>Option A:</strong> This describes duplicate gene interaction (or simple dominance), where only one functional gene might be sufficient. This is the opposite of complementary interaction.</li><li><strong>Option B:</strong> Dominant epistasis is a different type of gene interaction where one gene masks another, not a requirement for two genes to work together.</li><li><strong>Option C:</strong> Complementary gene interaction is, by definition, a form of gene interaction, so 'no gene interaction' is incorrect.</li><li><strong>Option D:</strong> This accurately describes complementary gene interaction. Both genes must contribute their functional products for the final phenotype to be expressed. If either gene is homozygous recessive and thus non-functional, the pathway is blocked, and the phenotype is not observed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'complementary' suggests that the genes complete or make up for each other, implying that both are necessary parts of a whole.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Complementary gene interaction requires both genes to be functional to express the phenotype.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both genes to be functional to express the phenotype"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which phenotypic ratio typically corresponds to complementary gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "15:1"
+        },
+        {
+          "type": "string",
+          "content": "9:7"
+        },
+        {
+          "type": "string",
+          "content": "9:3:4"
+        },
+        {
+          "type": "string",
+          "content": "12:3:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Complementary Gene Interaction",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Complementary Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Complementary gene interaction</strong> is a non-allelic interaction where dominant alleles of two different genes are both required for a particular phenotype to be expressed. If a dominant allele is missing at either locus, the alternative phenotype is expressed. This interaction typically results in a 9:7 phenotypic ratio, as seen in flower color in sweet peas.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic phenotypic ratio of complementary gene interaction.</div><p><strong>Step 1: Match the gene interaction type to its specific ratio</strong></p><p>Complementary gene interaction involves two genes, where a dominant allele at each locus is necessary to produce a specific trait. This means that individuals who are homozygous recessive for either gene will show the same 'null' phenotype, leading to a modified dihybrid ratio where the '3', '3', and '1' classes combine.</p><ul><li><strong>Option A (15:1):</strong> This ratio is for duplicate gene interaction.</li><li><strong>Option B (9:7):</strong> This is the characteristic phenotypic ratio for complementary gene interaction. The '9' represents individuals with at least one dominant allele for both genes (e.g., A_B_), while the '7' groups all genotypes that lack a dominant allele at one or both loci (A_bb, aaB_, aabb), resulting in the same non-expressed or alternative phenotype.</li><li><strong>Option C (9:3:4):</strong> This ratio is for recessive epistasis.</li><li><strong>Option D (12:3:1):</strong> This ratio is for dominant epistasis.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Think of the <span style='color:var(--orange);font-weight:bold;'>'7'</span> as representing all the individuals missing at least one 'piece' of the puzzle, hence unable to complete the pathway and show the desired phenotype.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio corresponding to complementary gene interaction is 9:7.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "9:7"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Duplicate gene interaction is characterized by which of the following?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Both genes must be non-functional for the trait to appear"
+        },
+        {
+          "type": "string",
+          "content": "Either gene being functional is enough to express the trait"
+        },
+        {
+          "type": "string",
+          "content": "Only one gene controls the trait"
+        },
+        {
+          "type": "string",
+          "content": "Genes interacting to produce an intermediate phenotype"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Duplicate Gene Interaction",
+      "Gene Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Duplicate Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Duplicate gene interaction</strong> occurs when two genes perform the same or a very similar function. In this interaction, the presence of at least one dominant allele at either of the two gene loci is sufficient to express the trait. The trait only fails to appear if both genes are homozygous recessive. This typically results in a 15:1 phenotypic ratio.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the defining characteristic of duplicate gene interaction.</div><p><strong>Step 1: Understand the functional redundancy in duplicate gene interaction</strong></p><p>In duplicate gene interaction, the genes are functionally redundant; they can substitute for each other. This means that if at least one dominant allele is present at either locus, the necessary product or function is produced, and the trait is expressed.</p><ul><li><strong>Option A:</strong> This describes the condition under which the *alternative* phenotype appears, not the main trait. The trait appears if at least one gene is functional.</li><li><strong>Option B:</strong> This correctly describes duplicate gene interaction. As long as there's a dominant allele at either gene (e.g., A_ _ _ or _ _ B_), the trait will be expressed, because the genes have redundant functions.</li><li><strong>Option C:</strong> This describes simple Mendelian inheritance, not a gene interaction involving multiple genes.</li><li><strong>Option D:</strong> Genes interacting to produce an intermediate phenotype is characteristic of incomplete dominance, an allelic interaction, not duplicate gene interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> 'Duplicate' implies having a backup. If you have two functional copies of something, you only fail if both copies are broken.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Duplicate gene interaction is characterized by either gene being functional being enough to express the trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Either gene being functional is enough to express the trait"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "What phenotypic ratio is associated with duplicate gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "15:1"
+        },
+        {
+          "type": "string",
+          "content": "9:7"
+        },
+        {
+          "type": "string",
+          "content": "9:3:4"
+        },
+        {
+          "type": "string",
+          "content": "12:3:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Duplicate Gene Interaction",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Duplicate Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Duplicate gene interaction</strong> describes a situation where two genes have redundant functions. The presence of at least one dominant allele from either gene is sufficient to produce a particular phenotype. This interaction leads to a 15:1 phenotypic ratio, as seen in the capsule shape of shepherd's purse.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic phenotypic ratio of duplicate gene interaction.</div><p><strong>Step 1: Connect the mechanism of duplicate genes to its ratio</strong></p><p>Because only one dominant allele (A_ _ _ or _ _ B_) is needed for the trait to be expressed, almost all genotypes in a dihybrid cross will result in the same phenotype, except for the double recessive (aabb). This leads to a strong skewing of the 9:3:3:1 ratio.</p><ul><li><strong>Option A (15:1):</strong> This is the correct phenotypic ratio for duplicate gene interaction. The '15' represents all genotypes that have at least one dominant allele (A_B_, A_bb, aaB_), all expressing the same phenotype. Only the '1' (aabb) expresses the alternative phenotype.</li><li><strong>Option B (9:7):</strong> This ratio is for complementary gene interaction.</li><li><strong>Option C (9:3:4):</strong> This ratio is for recessive epistasis.</li><li><strong>Option D (12:3:1):</strong> This ratio is for dominant epistasis.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> When genes are duplicate, only the complete absence of dominant alleles at both loci will lead to a different phenotype. Out of 16 possible genotypes in an F2 dihybrid cross, only 1 (aabb) will lack a dominant allele, leaving the other <span style='color:var(--orange);font-weight:bold;'>15</span> to express the primary trait.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio associated with duplicate gene interaction is 15:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "15:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Polygenic inheritance involves which of the following genetic mechanisms?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A single gene controlling a trait"
+        },
+        {
+          "type": "string",
+          "content": "Genes masking each other's expression"
+        },
+        {
+          "type": "string",
+          "content": "Multiple genes contributing additively to a phenotype"
+        },
+        {
+          "type": "string",
+          "content": "Only dominant alleles influencing the trait"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polygenic Inheritance",
+      "Quantitative Traits"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mechanism of Polygenic Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Polygenic inheritance</strong> involves multiple genes, each contributing additively to a phenotype. This type of inheritance typically results in continuous variation for the trait within a population, meaning a wide range of phenotypes rather than discrete categories.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the mechanism behind polygenic inheritance.</div><p><strong>Step 1: Recall the definition and characteristics of polygenic inheritance</strong></p><p>Polygenic inheritance is responsible for traits that show continuous variation, like height or skin color. This is achieved through the combined effects of many genes, where each gene contributes a small, often additive, effect to the overall phenotype.</p><ul><li><strong>Option A:</strong> A single gene controlling a trait describes monogenic inheritance (simple Mendelian traits), not polygenic.</li><li><strong>Option B:</strong> Genes masking each other's expression describes epistasis, a different type of gene interaction.</li><li><strong>Option C:</strong> This accurately describes polygenic inheritance. The cumulative effect of several genes, each contributing a small amount, leads to a spectrum of phenotypes rather than distinct categories.</li><li><strong>Option D:</strong> While dominant alleles contribute, polygenic traits involve both dominant and recessive alleles, and their additive effects, not just dominant ones.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> 'Polygenic' literally means 'many genes'. The 'additive' aspect is crucial for generating the continuous range of phenotypes typical of polygenic traits.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Polygenic inheritance involves multiple genes contributing additively to a phenotype.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Multiple genes contributing additively to a phenotype"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which of the following is an example of a polygenic trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "AB blood group"
+        },
+        {
+          "type": "string",
+          "content": "Human height"
+        },
+        {
+          "type": "string",
+          "content": "Labrador coat color"
+        },
+        {
+          "type": "string",
+          "content": "Flower color in sweet peas"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polygenic Trait Examples",
+      "Quantitative Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Polygenic Traits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Polygenic traits</strong> are characteristics determined by the interaction of multiple genes, each contributing a small, additive effect to the overall phenotype. These traits often exhibit continuous variation in a population. Human height is a classic example of a polygenic trait controlled by multiple genes contributing additively.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an example of a polygenic trait.</div><p><strong>Step 1: Assess each option based on whether it exhibits continuous variation and is known to be controlled by multiple genes.</strong></p><p>Polygenic traits typically show a range of phenotypes rather than distinct categories. Consider which option fits this description.</p><ul><li><strong>Option A (AB blood group):</strong> This is an example of codominance and multiple alleles, controlled by a single gene with multiple allelic forms, not polygenic inheritance.</li><li><strong>Option B (Human height):</strong> This is a classic example of a polygenic trait. Height varies continuously in a population, ranging from very short to very tall, with many intermediate heights, reflecting the additive effects of numerous genes and environmental factors.</li><li><strong>Option C (Labrador coat color):</strong> This is an example of recessive epistasis, involving two genes. While multiple genes are involved, the interaction is specific epistasis, not general additive polygenic inheritance leading to continuous variation.</li><li><strong>Option D (Flower color in sweet peas):</strong> This is an example of complementary gene interaction, involving two genes producing a distinct 9:7 ratio, not continuous variation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Polygenic traits are often quantitative, meaning they can be measured on a scale. Height, weight, skin color, and intelligence are common human examples that fit this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Human height is an example of a polygenic trait.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human height"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which phenotypic ratio corresponds to simple dominance in a monohybrid cross?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "15:1"
+        },
+        {
+          "type": "string",
+          "content": "1:2:1"
+        },
+        {
+          "type": "string",
+          "content": "9:7"
+        },
+        {
+          "type": "string",
+          "content": "3:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Simple Dominance",
+      "Phenotypic Ratios",
+      "Mendelian Genetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Simple Dominance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Simple dominance</strong> (or complete dominance) describes an allelic interaction where one allele completely masks the expression of another allele in the heterozygote. In a monohybrid cross between two heterozygotes (e.g., F1 x F1), simple dominance typically results in a 3:1 phenotypic ratio in the F2 generation, such as purple versus white flower color in pea plants.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the phenotypic ratio associated with simple dominance.</div><p><strong>Step 1: Recall the basic Mendelian ratio for complete dominance</strong></p><p>For a single gene with two alleles showing complete dominance, if two heterozygotes are crossed (e.g., Aa x Aa), the expected genotypes are 1 AA : 2 Aa : 1 aa. Since AA and Aa individuals both display the dominant phenotype, and aa displays the recessive phenotype, the phenotypic ratio is 3 dominant : 1 recessive.</p><ul><li><strong>Option A (15:1):</strong> This ratio is for duplicate gene interaction.</li><li><strong>Option B (1:2:1):</strong> This is the genotypic ratio for a monohybrid cross with simple dominance, or the phenotypic ratio for incomplete dominance or codominance.</li><li><strong>Option C (9:7):</strong> This ratio is for complementary gene interaction.</li><li><strong>Option D (3:1):</strong> This is the characteristic phenotypic ratio for simple (complete) dominance in a monohybrid cross.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The 3:1 ratio is one of the most fundamental in genetics, representing the outcome when one allele completely masks another in a simple cross.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio corresponding to simple dominance is 3:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What phenotypic ratio is typically observed in incomplete dominance?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1:2:1"
+        },
+        {
+          "type": "string",
+          "content": "3:1"
+        },
+        {
+          "type": "string",
+          "content": "9:3:4"
+        },
+        {
+          "type": "string",
+          "content": "12:3:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Incomplete Dominance",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Incomplete Dominance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Incomplete dominance</strong> results in a heterozygote displaying an intermediate phenotype between the two homozygous phenotypes. In a cross between two heterozygotes (e.g., F1 x F1), this leads to a 1:2:1 phenotypic ratio, where each genotype corresponds to a distinct phenotype.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the phenotypic ratio observed in incomplete dominance.</div><p><strong>Step 1: Understand how incomplete dominance affects phenotype expression</strong></p><p>In incomplete dominance, the heterozygote has a unique phenotype distinct from either homozygote. Therefore, the genotypic ratio directly translates into the phenotypic ratio.</p><ul><li><strong>Option A (1:2:1):</strong> This is the correct phenotypic ratio for incomplete dominance. For instance, if RR is red, WW is white, then RW is pink. A cross of RW x RW would yield 1 RR (red) : 2 RW (pink) : 1 WW (white). This ratio is also the genotypic ratio for a monohybrid cross under complete dominance.</li><li><strong>Option B (3:1):</strong> This ratio is characteristic of simple (complete) dominance.</li><li><strong>Option C (9:3:4):</strong> This ratio is for recessive epistasis.</li><li><strong>Option D (12:3:1):</strong> This ratio is for dominant epistasis.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> In incomplete dominance, each genotype (homozygous dominant, heterozygous, homozygous recessive) produces a distinct phenotype. Thus, the phenotypic ratio will mirror the genotypic ratio for a monohybrid cross.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio observed in incomplete dominance is 1:2:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1:2:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Which type of gene interaction is known to increase genetic diversity by producing phenotypic variations?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Gene interactions including epistasis and polygenic inheritance"
+        },
+        {
+          "type": "string",
+          "content": "Allelic interactions only"
+        },
+        {
+          "type": "string",
+          "content": "Single gene inheritance"
+        },
+        {
+          "type": "string",
+          "content": "Mutation only"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Genetic Diversity",
+      "Phenotypic Variation",
+      "Gene Interaction Impact"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gene Interactions and Genetic Diversity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Gene interactions</strong> such as epistasis and polygenic inheritance, by modifying Mendelian ratios and allowing for complex phenotypic outcomes, significantly increase phenotypic variation and thus genetic diversity in populations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which type of gene interaction contributes to increased genetic diversity through phenotypic variations.</div><p><strong>Step 1: Evaluate how different genetic mechanisms influence phenotypic variation</strong></p><p>Genetic diversity refers to the total number of genetic characteristics in the genetic makeup of a species. Phenotypic variation is the observable differences in traits among individuals. Gene interactions create more complex relationships between genotype and phenotype than simple Mendelian inheritance, leading to a broader range of observable traits.</p><ul><li><strong>Option A:</strong> Gene interactions like epistasis (where one gene masks another) and polygenic inheritance (where multiple genes additively contribute to a trait) create a wide array of possible phenotypic outcomes, thus increasing genetic diversity and phenotypic variation within a population.</li><li><strong>Option B:</strong> Allelic interactions (like dominance, incomplete dominance, codominance) deal with variations within a single gene. While they contribute to diversity, they are more limited compared to interactions involving multiple genes.</li><li><strong>Option C:</strong> Single gene inheritance, while foundational, typically results in discrete phenotypic categories (e.g., tall or short) and less continuous variation compared to polygenic or epistatic interactions.</li><li><strong>Option D:</strong> Mutation is the ultimate source of *new* genetic variation, but gene interactions describe how *existing* variations are expressed and combined to produce a wider range of phenotypes, thus leveraging that diversity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Complex traits and continuous variation, hallmarks of greater phenotypic diversity, are almost always due to the interplay of multiple genes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gene interactions including epistasis and polygenic inheritance increase genetic diversity by producing phenotypic variations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gene interactions including epistasis and polygenic inheritance"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Why is understanding gene interactions important in breeding programs?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It eliminates the need for genetic testing"
+        },
+        {
+          "type": "string",
+          "content": "It prevents all genetic diseases"
+        },
+        {
+          "type": "string",
+          "content": "It helps breeders select desirable traits and improve breeds"
+        },
+        {
+          "type": "string",
+          "content": "It guarantees Mendelian ratios"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Breeding Programs",
+      "Applied Genetics",
+      "Gene Interaction Importance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Gene Interactions in Breeding</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Understanding gene interactions</strong> is crucial in breeding programs because it helps breeders select desirable traits and improve crop and livestock breeds effectively. This knowledge allows for more precise prediction and manipulation of complex traits that are often influenced by multiple genes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the significance of gene interactions in breeding.</div><p><strong>Step 1: Consider the practical implications of understanding gene interactions for breeders</strong></p><p>Breeders aim to develop organisms with specific, improved characteristics. Many of these desired traits (like yield, disease resistance, growth rate, or specific physical appearances) are not controlled by a single gene but rather by intricate gene interactions.</p><ul><li><strong>Option A:</strong> Understanding gene interactions complements genetic testing; it doesn't eliminate its need, especially for complex or disease-related traits.</li><li><strong>Option B:</strong> Gene interactions can shed light on genetic diseases, but simply understanding them doesn't prevent all genetic diseases, many of which are complex and multifactorial.</li><li><strong>Option C:</strong> This is a key reason. By understanding how different genes interact to produce a trait, breeders can design more effective crosses, predict outcomes, and selectively breed for desired combinations of genes to enhance valuable traits in crops and animals.</li><li><strong>Option D:</strong> Gene interactions often *deviate* from simple Mendelian ratios, so understanding them helps explain these deviations, rather than guaranteeing Mendelian ratios.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Many traits important in agriculture are complex, quantitative traits governed by multiple interacting genes. Knowledge of these interactions is fundamental to advanced breeding strategies.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Understanding gene interactions helps breeders select desirable traits and improve breeds.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps breeders select desirable traits and improve breeds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "How do gene interactions contribute to medicine?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They have no relevance in medicine"
+        },
+        {
+          "type": "string",
+          "content": "They cure all diseases automatically"
+        },
+        {
+          "type": "string",
+          "content": "They only affect plant genetics"
+        },
+        {
+          "type": "string",
+          "content": "They help in studying genetic diseases and developing personalized medicine"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Medicine",
+      "Genetic Diseases",
+      "Personalized Medicine",
+      "Gene Interaction Importance"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gene Interactions in Medical Applications</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Gene interactions</strong>, especially epistasis, are essential in studying genetic diseases and developing personalized medicine approaches. Understanding these complex interactions allows for a more nuanced understanding of disease susceptibility, progression, and response to treatment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the contribution of gene interactions to medicine.</div><p><strong>Step 1: Consider the medical relevance of complex genetic pathways and traits</strong></p><p>Many human diseases are not caused by a single gene mutation but rather by the interaction of multiple genes (polygenic traits) and their interaction with environmental factors. Epistasis, for example, can explain why certain individuals with a disease-causing mutation might not show symptoms or why the severity varies.</p><ul><li><strong>Option A:</strong> This is incorrect; gene interactions are highly relevant to human health and disease.</li><li><strong>Option B:</strong> This is an overstatement; understanding gene interactions is a tool for medical research and treatment development, not a cure itself.</li><li><strong>Option C:</strong> This is incorrect; gene interactions are fundamental to the genetics of all living organisms, including humans and animals.</li><li><strong>Option D:</strong> This accurately describes their contribution. By unraveling how genes interact, scientists can better understand the genetic basis of complex diseases, identify individuals at risk, and tailor medical treatments based on an individual's unique genetic makeup (personalized medicine).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> As genetic research advances, it becomes clear that most common diseases are polygenic and influenced by complex gene-gene and gene-environment interactions. This understanding is key to modern medicine.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gene interactions help in studying genetic diseases and developing personalized medicine.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They help in studying genetic diseases and developing personalized medicine"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which of the following is NOT a type of allelic interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Incomplete dominance"
+        },
+        {
+          "type": "string",
+          "content": "Dominance"
+        },
+        {
+          "type": "string",
+          "content": "Codominance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Allelic Interaction",
+      "Non-allelic Interaction",
+      "NOT Question"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinguishing Allelic from Non-allelic Interactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Allelic interactions</strong> involve different alleles of the *same gene* affecting a trait.<br/><em>Term:</em> <strong>Non-allelic interactions</strong> involve two or more *different genes* (at different loci) affecting a trait.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a type of allelic interaction.</div><p><strong>Step 1: Categorize each option as allelic or non-allelic</strong></p><p>Allelic interactions occur within a single gene. Non-allelic interactions occur between multiple genes.</p><ul><li><strong>Option A (Epistasis):</strong> Epistasis involves one gene masking the effect of another gene at a *different locus*. This makes it a non-allelic interaction.</li><li><strong>Option B (Incomplete dominance):</strong> This is an interaction between two alleles of the *same gene* where the heterozygote shows an intermediate phenotype. It is an allelic interaction.</li><li><strong>Option C (Dominance):</strong> This is an interaction between two alleles of the *same gene* where one masks the other. It is an allelic interaction.</li><li><strong>Option D (Codominance):</strong> This is an interaction between two alleles of the *same gene* where both are equally expressed in the heterozygote. It is an allelic interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Dominance, incomplete dominance, and codominance all describe how alleles of a single gene behave relative to each other. Epistasis, however, describes how *different genes* interact.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Epistasis is NOT a type of allelic interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Which gene interaction type involves one gene masking the effect of another gene at a different locus?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Dominance"
+        },
+        {
+          "type": "string",
+          "content": "Incomplete dominance"
+        },
+        {
+          "type": "string",
+          "content": "Codominance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Epistasis",
+      "Non-allelic Interaction",
+      "Gene Masking"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Defining Epistasis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Epistasis</strong> is a gene interaction type that involves one gene masking or modifying the expression of another gene at a different locus. This is a form of non-allelic gene interaction.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the gene interaction type where one gene masks another at a different locus.</div><p><strong>Step 1: Review the definitions of various gene interaction types</strong></p><p>The critical components of the question are \"one gene masking the effect of another gene\" and \"at a different locus.\" This points specifically to a non-allelic interaction where one gene's expression overrides another's.</p><ul><li><strong>Option A:</strong> Epistasis perfectly matches this description. It is the interaction where an allele of one gene (epistatic gene) suppresses or modifies the expression of an allele of another gene (hypostatic gene) at a different locus.</li><li><strong>Option B:</strong> Dominance is an interaction between alleles of the *same gene*. It does not involve masking between genes at different loci.</li><li><strong>Option C:</strong> Incomplete dominance is also an interaction between alleles of the *same gene*, where the heterozygote shows an intermediate phenotype.</li><li><strong>Option D:</strong> Codominance, similarly, is an interaction between alleles of the *same gene*, where both alleles are equally expressed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The hallmark of epistasis is the hierarchical control where one gene's effect dictates whether another gene's phenotype can even be observed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Epistasis is the gene interaction type that involves one gene masking the effect of another gene at a different locus.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "In the context of gene interactions, what does the term 'hypostatic gene' refer to?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The gene that masks another gene's expression"
+        },
+        {
+          "type": "string",
+          "content": "A gene that is always dominant"
+        },
+        {
+          "type": "string",
+          "content": "The gene whose expression is masked by another gene"
+        },
+        {
+          "type": "string",
+          "content": "A gene that does not affect phenotype"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Hypostatic Gene",
+      "Epistasis",
+      "Gene Interaction Terms"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Hypostatic Gene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> In epistasis, the <strong>hypostatic gene</strong> is the gene whose expression is masked or modified by the epistatic gene. It is the gene that is 'under' the control or influence of another gene.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of a 'hypostatic gene' within the context of gene interactions.</div><p><strong>Step 1: Differentiate between epistatic and hypostatic genes</strong></p><p>Epistasis involves a masking relationship between two genes. The gene that does the masking is called epistatic, and the gene whose expression is interfered with is called hypostatic.</p><ul><li><strong>Option A:</strong> This describes the *epistatic* gene, not the hypostatic gene.</li><li><strong>Option B:</strong> The concept of hypostatic refers to its interaction role, not its inherent dominance. A hypostatic gene can have dominant or recessive alleles.</li><li><strong>Option C:</strong> This correctly defines the hypostatic gene. Its phenotype is dependent on the genotype of the epistatic gene, which can prevent or alter its expected expression.</li><li><strong>Option D:</strong> This is incorrect; the hypostatic gene *does* affect the phenotype, but its expression is conditional upon the epistatic gene.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Remember 'hypo-' means 'under'. The hypostatic gene is 'under' the masking effect of the epistatic gene.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The term 'hypostatic gene' refers to the gene whose expression is masked by another gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The gene whose expression is masked by another gene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which of the following examples illustrates dominant epistasis?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Coat color in Labrador retrievers"
+        },
+        {
+          "type": "string",
+          "content": "Capsule shape in shepherd's purse"
+        },
+        {
+          "type": "string",
+          "content": "Flower color in sweet peas"
+        },
+        {
+          "type": "string",
+          "content": "Fruit color in summer squash"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dominant Epistasis",
+      "Genetic Examples"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Dominant Epistasis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Dominant epistasis</strong> occurs when a dominant allele at one gene locus masks the expression of alleles at a second gene locus. This interaction leads to a 12:3:1 phenotypic ratio. An example is fruit color in summer squash, where a dominant allele (e.g., W) for white color masks the expression of alleles for yellow (Yy) or green (yy) fruit color at another locus.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an example that illustrates dominant epistasis.</div><p><strong>Step 1: Recall the classic examples for different gene interactions</strong></p><p>Different gene interactions are often taught with specific, well-studied biological examples that demonstrate their unique phenotypic ratios.</p><ul><li><strong>Option A (Coat color in Labrador retrievers):</strong> This is a classic example of recessive epistasis, typically showing a 9:3:4 ratio (e.g., black, chocolate, yellow coats).</li><li><strong>Option B (Capsule shape in shepherd's purse):</strong> This is an example of duplicate gene interaction, typically showing a 15:1 ratio.</li><li><strong>Option C (Flower color in sweet peas):</strong> This is an example of complementary gene interaction, typically showing a 9:7 ratio.</li><li><strong>Option D (Fruit color in summer squash):</strong> This is a well-known example of dominant epistasis. A dominant allele for white fruit color (W) is epistatic to the genes for yellow (Y) or green (y) fruit color. Thus, any plant with at least one W allele will produce white fruit, regardless of its genotype at the 'Y' locus, resulting in a 12:3:1 ratio (white:yellow:green).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Associating specific examples with their corresponding gene interactions is a common way to understand and recall these concepts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Fruit color in summer squash illustrates dominant epistasis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fruit color in summer squash"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "What is the typical phenotypic ratio for codominance in a monohybrid cross between two heterozygotes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "3:1"
+        },
+        {
+          "type": "string",
+          "content": "9:7"
+        },
+        {
+          "type": "string",
+          "content": "1:2:1"
+        },
+        {
+          "type": "string",
+          "content": "15:1"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Codominance",
+      "Phenotypic Ratios",
+      "Allelic Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Ratio in Codominance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Codominance</strong> is an allelic interaction where both alleles are expressed equally in the heterozygote, resulting in a distinct phenotype that shows characteristics of both homozygous parents. In a monohybrid cross between two heterozygotes, codominance typically shows a 1:2:1 phenotypic ratio, such as in the AB blood group where both A and B antigens are expressed equally. This is because each genotype (homozygous for allele 1, heterozygous, homozygous for allele 2) produces a unique phenotype.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the typical phenotypic ratio for codominance in a monohybrid cross.</div><p><strong>Step 1: Understand the outcome of codominance on phenotype</strong></p><p>Similar to incomplete dominance, in codominance, the heterozygote has a phenotype that is distinct from either homozygote. For example, if allele A leads to phenotype A, allele B leads to phenotype B, then the heterozygote AB leads to phenotype AB, where both A and B are expressed. Therefore, the genotypic ratio directly reflects the phenotypic ratio.</p><ul><li><strong>Option A (3:1):</strong> This ratio is characteristic of simple (complete) dominance.</li><li><strong>Option B (9:7):</strong> This ratio is for complementary gene interaction.</li><li><strong>Option C (1:2:1):</strong> This is the correct phenotypic ratio for codominance. It reflects the 1:2:1 genotypic ratio (e.g., 1 AA : 2 AB : 1 BB), where each genotype produces a distinct phenotype. This is the same ratio as incomplete dominance for the same reason.</li><li><strong>Option D (15:1):</strong> This ratio is for duplicate gene interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For both incomplete dominance and codominance, the heterozygote is phenotypically distinguishable from both homozygotes. This means the number of phenotypic classes equals the number of genotypic classes for a monohybrid cross.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The typical phenotypic ratio for codominance is 1:2:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1:2:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Which term describes interactions between alleles of the same gene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Non-allelic interactions"
+        },
+        {
+          "type": "string",
+          "content": "Epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Allelic interactions"
+        },
+        {
+          "type": "string",
+          "content": "Polygenic inheritance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Allelic Interaction",
+      "Gene Interaction Types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Allelic Interaction Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Allelic interactions</strong> occur between two alleles of the same gene, determining how they contribute to the phenotype. Examples include dominance, incomplete dominance, and codominance.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that describes interactions between alleles of the same gene.</div><p><strong>Step 1: Understand the terminology in gene interactions.</strong></p><p>Genetics differentiates between interactions occurring within a single gene's alleles and interactions between different genes.</p><ul><li><strong>Option A:</strong> Non-allelic interactions involve genes at different loci, not alleles of the same gene.</li><li><strong>Option B:</strong> Epistasis is a specific type of non-allelic interaction where one gene masks another.</li><li><strong>Option C:</strong> Allelic interactions precisely describe the relationships and influences between different alleles (variants) of the *same gene*.</li><li><strong>Option D:</strong> Polygenic inheritance involves multiple different genes contributing to a trait, making it a non-allelic type of interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'allelic' directly refers to alleles, which are variations of a single gene.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Allelic interactions describe interactions between alleles of the same gene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allelic interactions"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "A phenotypic ratio of 9:7 is characteristic of which gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene interaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Phenotypic Ratios",
+      "Complementary Gene Interaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Gene Interaction from Ratio</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8%8;margin-bottom:15px;'><em>Concept:</em> Different types of gene interactions modify the standard Mendelian dihybrid ratio (9:3:3:1) into characteristic new ratios. The 9:7 ratio is specific to complementary gene interaction.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the gene interaction associated with a 9:7 phenotypic ratio.</div><p><strong>Step 1: Recall the distinct phenotypic ratios for different gene interactions.</strong></p><p>Each type of gene interaction leads to a predictable F2 phenotypic ratio when two dihybrids are crossed.</p><ul><li><strong>Option A (Recessive epistasis):</strong> This interaction yields a 9:3:4 ratio.</li><li><strong>Option B (Dominant epistasis):</strong> This interaction yields a 12:3:1 ratio.</li><li><strong>Option C (Complementary gene interaction):</strong> This interaction requires dominant alleles from *both* genes for the phenotype to be expressed. If either gene is homozygous recessive, the phenotype isn't expressed, leading to the combination of the 3:3:1 parts of the standard ratio into a '7', thus 9:7.</li><li><strong>Option D (Duplicate gene interaction):</strong> This interaction yields a 15:1 ratio.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The 9:7 ratio is a strong indicator of complementary genes because the '7' represents all genotypes where a dominant allele is missing from at least one of the two interacting genes, thus preventing the expression of the specific phenotype.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A phenotypic ratio of 9:7 is characteristic of complementary gene interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complementary gene interaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "What is the common outcome of polygenic inheritance on phenotypic variation?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Production of discrete, distinct phenotypes"
+        },
+        {
+          "type": "string",
+          "content": "Masking of one gene by another"
+        },
+        {
+          "type": "string",
+          "content": "Continuous variation across a range of phenotypes"
+        },
+        {
+          "type": "string",
+          "content": "Expression of only dominant alleles"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polygenic Inheritance",
+      "Phenotypic Variation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenotypic Outcomes of Polygenic Inheritance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Polygenic inheritance</strong> involves multiple genes each contributing additively to a phenotype. This additive effect typically leads to continuous variation, meaning a range of phenotypes rather than distinct categories, as seen with traits like human height.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the characteristic phenotypic outcome of polygenic inheritance.</div><p><strong>Step 1: Understand how additive gene effects manifest phenotypically.</strong></p><p>When many genes contribute small, cumulative effects to a trait, the result is a spectrum of possible phenotypes, often visualized as a bell curve distribution in a population.</p><ul><li><strong>Option A:</strong> Production of discrete, distinct phenotypes is characteristic of simple Mendelian traits or certain epistatic interactions, not polygenic inheritance.</li><li><strong>Option B:</strong> Masking of one gene by another describes epistasis.</li><li><strong>Option C:</strong> Continuous variation is the hallmark of polygenic inheritance. Since multiple genes each add a small increment or decrement to the trait, there are many possible combinations of alleles, leading to a smooth gradient of phenotypes.</li><li><strong>Option D:</strong> While dominant alleles play a role, polygenic traits involve the cumulative effect of both dominant and recessive alleles across multiple genes, not just the expression of only dominant ones.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Traits like height, skin color, and weight are clearly not 'either/or' traits but exist on a continuum, which is precisely what polygenic inheritance explains.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The common outcome of polygenic inheritance on phenotypic variation is continuous variation across a range of phenotypes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Continuous variation across a range of phenotypes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Which phenotypic ratio is observed when two genes perform the same function, and either functional gene is enough to express the trait?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "9:3:4"
+        },
+        {
+          "type": "string",
+          "content": "15:1"
+        },
+        {
+          "type": "string",
+          "content": "12:3:1"
+        },
+        {
+          "type": "string",
+          "content": "9:7"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Duplicate Gene Interaction",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ratio for Duplicate Gene Function</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Duplicate gene interaction</strong> is characterized by two genes performing the same function. If either gene is functional (i.e., has at least one dominant allele), the trait is expressed. The trait is only absent when both genes are homozygous recessive. This interaction typically results in a 15:1 phenotypic ratio.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes the scenario of duplicate gene interaction and asks for its associated phenotypic ratio.</div><p><strong>Step 1: Identify the gene interaction described by the scenario.</strong></p><p>The phrase \"two genes perform the same function, and either gene being functional is enough to express the trait\" precisely defines duplicate gene interaction. Therefore, the question is asking for the ratio of duplicate gene interaction.</p><ul><li><strong>Option A (9:3:4):</strong> This ratio is for recessive epistasis.</li><li><strong>Option B (15:1):</strong> This is the correct phenotypic ratio for duplicate gene interaction. Out of 16 possible F2 genotypes, only the double recessive (aabb) will not express the trait, leaving the other 15 genotypes to express it.</li><li><strong>Option C (12:3:1):</strong> This ratio is for dominant epistasis.</li><li><strong>Option D (9:7):</strong> This ratio is for complementary gene interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> When there's redundancy (duplicate function), it takes a complete failure of all functional components (i.e., both genes being recessive) to prevent the trait's expression. This covers 15 out of 16 genetic possibilities.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio observed when two genes perform the same function, and either functional gene is enough to express the trait, is 15:1.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "15:1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "The AB blood group system in humans is an example of which allelic interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Incomplete dominance"
+        },
+        {
+          "type": "string",
+          "content": "Dominance"
+        },
+        {
+          "type": "string",
+          "content": "Codominance"
+        },
+        {
+          "type": "string",
+          "content": "Epistasis"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Codominance",
+      "Allelic Interaction",
+      "AB Blood Group"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>AB Blood Group and Codominance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Codominance</strong> occurs when both alleles in a heterozygote are expressed equally and distinctly. The AB blood group system in humans is a classic example: individuals with both A and B alleles express both A and B antigens on their red blood cells, resulting in the AB blood type.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of allelic interaction exemplified by the AB blood group.</div><p><strong>Step 1: Analyze the expression pattern in AB blood group.</strong></p><p>In the ABO blood group system, alleles I<sup>A</sup> and I<sup>B</sup> are codominant. When an individual inherits both I<sup>A</sup> and I<sup>B</sup> alleles, they express both A and B antigens, leading to the AB blood type. This means both alleles are fully functional and expressed simultaneously.</p><ul><li><strong>Option A (Incomplete dominance):</strong> Incomplete dominance would result in a blend or intermediate phenotype, which is not the case for AB blood type (you don't get a 'half-A, half-B' antigen, but both full antigens).</li><li><strong>Option B (Dominance):</strong> If one allele were dominant, only one antigen (A or B) would be expressed, or one would mask the other, leading to either A or B blood type, not AB.</li><li><strong>Option C (Codominance):</strong> This correctly describes the AB blood group. Both the A and B alleles are fully and equally expressed, resulting in the presence of both A and B antigens.</li><li><strong>Option D (Epistasis):</strong> Epistasis is a non-allelic interaction, involving genes at different loci, and describes masking, not the simultaneous expression of two alleles of the same gene.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'codominance' implies 'co-equal dominance' or 'joint dominance', meaning neither allele yields to the other in expression, a perfect fit for the AB blood type.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The AB blood group system in humans is an example of codominance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Codominance"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "If a genetic cross exhibits a 12:3:1 phenotypic ratio, what type of gene interaction is most likely occurring?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Simple dominance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Dominant Epistasis",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ratio as an Indicator of Gene Interaction Type</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Distinct gene interaction patterns lead to specific modifications of the classic 9:3:3:1 dihybrid ratio. The 12:3:1 ratio is characteristic of dominant epistasis, where a dominant allele at one locus masks the expression of alleles at a second locus. An example is fruit color in summer squash.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question provides a phenotypic ratio and asks to identify the corresponding gene interaction.</div><p><strong>Step 1: Match the given ratio to known gene interaction types.</strong></p><p>Understanding characteristic phenotypic ratios is key to identifying the type of gene interaction at play.</p><ul><li><strong>Option A (Recessive epistasis):</strong> This results in a 9:3:4 ratio.</li><li><strong>Option B (Dominant epistasis):</strong> This is the correct answer. In dominant epistasis, the presence of just one dominant allele at the epistatic locus prevents the expression of a hypostatic gene. This typically lumps the 9 and 3 parts of the 9:3:3:1 ratio together into 12, leaving 3 and 1 for other phenotypes.</li><li><strong>Option C (Complementary gene interaction):</strong> This results in a 9:7 ratio.</li><li><strong>Option D (Simple dominance):</strong> In a monohybrid cross, this results in a 3:1 ratio. In a dihybrid cross, it results in 9:3:3:1, not 12:3:1.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The 12:3:1 ratio indicates that the majority of offspring show a particular phenotype due to the overriding effect of a dominant epistatic gene.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A phenotypic ratio of 12:3:1 indicates dominant epistasis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dominant epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which of the following is an example where both genes must be functional to express the phenotype?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Complementary Gene Interaction",
+      "Gene Function"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Condition for Complementary Gene Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Complementary gene interaction</strong> requires both non-allelic genes to be functional (i.e., at least one dominant allele at each locus) for a particular phenotype to be expressed. If either gene is homozygous recessive and therefore non-functional, the phenotype is not observed. This typically yields a 9:7 phenotypic ratio.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a scenario where both genes need to be functional for phenotype expression and asks to identify the corresponding gene interaction.</div><p><strong>Step 1: Compare the condition described with the definitions of gene interactions.</strong></p><p>The phrase \"both genes must be functional to express the phenotype\" directly refers to a sequential or collaborative pathway where products from both genes are essential.</p><ul><li><strong>Option A (Dominant epistasis):</strong> Here, one gene masks another if it has a dominant allele. This is not about both genes needing to be functional in a constructive way.</li><li><strong>Option B (Duplicate gene interaction):</strong> In this case, *either* gene being functional is enough to express the trait, not both.</li><li><strong>Option C (Complementary gene interaction):</strong> This perfectly fits the description. The genes are said to 'complement' each other, meaning they each provide a necessary component for the final phenotype, so both must be functional.</li><li><strong>Option D (Recessive epistasis):</strong> This involves one gene masking another when it is in the homozygous recessive state. It doesn't require both genes to be functional for a particular expression.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Think of two keys needed to open a lock; if you only have one, it won't open. This analogy illustrates complementary gene action.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Complementary gene interaction is an example where both genes must be functional to express the phenotype.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complementary gene interaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "The phenotypic ratio 9:3:4 is characteristic of which gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Incomplete dominance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Phenotypic Ratios",
+      "Recessive Epistasis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identification of Gene Interaction from Phenotypic Ratio</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Specific non-allelic gene interactions modify the standard 9:3:3:1 dihybrid phenotypic ratio in characteristic ways. The 9:3:4 ratio is a hallmark of recessive epistasis, where a homozygous recessive genotype at one locus masks the expression of alleles at another locus. Labrador retriever coat color is a well-known example.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the gene interaction associated with the 9:3:4 phenotypic ratio.</div><p><strong>Step 1: Match the given phenotypic ratio to the corresponding gene interaction type.</strong></p><p>Knowledge of common F2 ratios from dihybrid crosses is essential for this type of question.</p><ul><li><strong>Option A (Dominant epistasis):</strong> This interaction yields a 12:3:1 ratio.</li><li><strong>Option B (Duplicate gene interaction):</strong> This interaction yields a 15:1 ratio.</li><li><strong>Option C (Recessive epistasis):</strong> This is the correct answer. In recessive epistasis, when the epistatic gene is homozygous recessive (e.g., bb), it masks the expression of the hypostatic gene's alleles (e.g., A_B_, aaB_). This causes the '3' and '1' classes involving the double recessive to combine, leading to a 9:3:4 ratio.</li><li><strong>Option D (Incomplete dominance):</strong> This is an allelic interaction, resulting in a 1:2:1 phenotypic ratio in a monohybrid cross, not a dihybrid ratio.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The 9:3:4 ratio indicates that a homozygous recessive condition at one locus has a strong overriding effect, changing the expected Mendelian distribution.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phenotypic ratio 9:3:4 is characteristic of recessive epistasis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recessive epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What type of gene interaction is illustrated by flower color in sweet peas, typically showing a 9:7 ratio?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Polygenic inheritance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Complementary Gene Interaction",
+      "Genetic Examples",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Flower Color in Sweet Peas as Complementary Interaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Complementary gene interaction</strong> requires dominant alleles from two different genes to be present for a particular phenotype to be expressed. If either gene is in its homozygous recessive form, the trait is not expressed. Flower color in sweet peas is a classic example that results in a 9:7 phenotypic ratio (e.g., purple flowers:white flowers).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the gene interaction illustrated by flower color in sweet peas, given its 9:7 ratio.</div><p><strong>Step 1: Link the specific example and its ratio to the correct gene interaction type.</strong></p><p>Sweet pea flower color is a widely cited example for a particular type of gene interaction where two genes work in sequence.</p><ul><li><strong>Option A (Dominant epistasis):</strong> This has a 12:3:1 ratio and a different mechanism of masking.</li><li><strong>Option B (Recessive epistasis):</strong> This has a 9:3:4 ratio and involves a different masking mechanism.</li><li><strong>Option C (Complementary gene interaction):</strong> This is the correct answer. In sweet peas, two genes, let's say C and P, are needed to produce purple pigment. If an individual is homozygous recessive for either gene (cc or pp), white flowers are produced. Only C_P_ genotypes result in purple, leading to the 9:7 ratio.</li><li><strong>Option D (Polygenic inheritance):</strong> This involves many genes contributing additively, resulting in continuous variation, not the distinct 9:7 ratio observed here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The 9:7 ratio is distinctive for complementary gene action, where the absence of a dominant allele at either of two loci prevents the full phenotypic expression.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Flower color in sweet peas, showing a 9:7 ratio, illustrates complementary gene interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complementary gene interaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Labrador retriever coat color, which exhibits a 9:3:4 phenotypic ratio, is an example of what kind of gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Dominant epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Incomplete dominance"
+        },
+        {
+          "type": "string",
+          "content": "Polygenic inheritance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Recessive Epistasis",
+      "Genetic Examples",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Labrador Coat Color and Recessive Epistasis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Recessive epistasis</strong> is a gene interaction where a homozygous recessive genotype at one locus masks the expression of alleles at a second locus. Labrador retriever coat color is a classic example that produces a 9:3:4 phenotypic ratio (e.g., black:chocolate:yellow). The 'ee' genotype at one locus is epistatic to the B/b alleles at another locus, leading to a yellow coat regardless of the B/b genotype.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question presents the example of Labrador retriever coat color with its specific phenotypic ratio and asks to identify the gene interaction.</div><p><strong>Step 1: Identify the gene interaction based on the given example and ratio.</strong></p><p>The 9:3:4 ratio is a distinctive signature of a particular type of epistatic interaction.</p><ul><li><strong>Option A (Dominant epistasis):</strong> This results in a 12:3:1 ratio.</li><li><strong>Option B (Recessive epistasis):</strong> This is the correct answer. In Labradors, a gene for pigment deposition (E/e) is epistatic to a gene for pigment color (B/b). If a dog is 'ee', it will be yellow regardless of its B/b genotype. This combines the '3' and '1' classes of the 9:3:3:1 ratio into '4' yellow dogs.</li><li><strong>Option C (Incomplete dominance):</strong> This is an allelic interaction for a single gene, resulting in a 1:2:1 ratio.</li><li><strong>Option D (Polygenic inheritance):</strong> This involves multiple genes with additive effects, leading to continuous variation, not fixed ratios like 9:3:4.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The specific ratio 9:3:4 is often taught directly alongside the Labrador coat color example as a hallmark of recessive epistasis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Labrador retriever coat color, exhibiting a 9:3:4 phenotypic ratio, is an example of recessive epistasis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recessive epistasis"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The capsule shape in shepherd's purse, which displays a 15:1 phenotypic ratio, is an example of what gene interaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Complementary gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Recessive epistasis"
+        },
+        {
+          "type": "string",
+          "content": "Duplicate gene interaction"
+        },
+        {
+          "type": "string",
+          "content": "Simple dominance"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Duplicate Gene Interaction",
+      "Genetic Examples",
+      "Phenotypic Ratios"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Shepherd's Purse Capsule Shape and Duplicate Genes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> <strong>Duplicate gene interaction</strong> occurs when two genes perform essentially the same function. The presence of at least one dominant allele from either gene is sufficient to express the trait. The trait is only absent if both genes are homozygous recessive. The capsule shape in shepherd's purse is a classic example that results in a 15:1 phenotypic ratio.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of gene interaction exemplified by the capsule shape in shepherd's purse, given its 15:1 ratio.</div><p><strong>Step 1: Connect the specific example and its ratio to the correct gene interaction type.</strong></p><p>The 15:1 ratio is highly indicative of a situation where almost all genotypes result in one phenotype, with only a very specific genotype producing an alternative.</p><ul><li><strong>Option A (Complementary gene interaction):</strong> This results in a 9:7 ratio.</li><li><strong>Option B (Recessive epistasis):</strong> This results in a 9:3:4 ratio.</li><li><strong>Option C (Duplicate gene interaction):</strong> This is the correct answer. In shepherd's purse, two genes control capsule shape. If a dominant allele is present at either locus (e.g., A_ _ _ or _ _ B_), the triangular capsule shape is produced. Only the double recessive genotype (aabb) produces the ovoid shape. This results in 15 triangular: 1 ovoid.</li><li><strong>Option D (Simple dominance):</strong> This results in a 3:1 ratio for a monohybrid cross, or 9:3:3:1 for a dihybrid cross without interaction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The 15:1 ratio clearly shows that only the most extreme recessive genotype at both loci results in an alternative phenotype, consistent with redundant or duplicate gene functions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The capsule shape in shepherd's purse, displaying a 15:1 phenotypic ratio, is an example of duplicate gene interaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Duplicate gene interaction"
+    }
+  }
+]
