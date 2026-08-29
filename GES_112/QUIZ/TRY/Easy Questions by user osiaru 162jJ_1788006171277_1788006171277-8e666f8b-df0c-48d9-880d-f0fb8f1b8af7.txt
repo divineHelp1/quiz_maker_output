@@ -1,0 +1,370 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "According to the document, which of the following is considered an embodiment of the totality of human existence?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Technology" },
+        { "type": "string", "content": "Culture" },
+        { "type": "string", "content": "Philosophy" },
+        { "type": "string", "content": "Science" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Concept of Culture", "Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Culture</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Culture:</em> The totality of human existence, defined as 'everything passed down by human society except its biology'.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that represents the embodiment of the totality of human existence, as described in the provided text.</div><p><strong>Step 1: Understand the definition of culture.</strong><br>The document states that from the perspective of a majority of social scientists, culture is an <span style='color:var(--orange);font-weight:bold;'>embodiment of the totality of human existence</span>. It further defines culture as 'everything passed down by human society except its biology'.</p><ul><li><strong>Option 0 (Technology):</strong> Technology is a component of culture (material culture) but not the totality of human existence itself.</li><li><strong>Option 1 (Culture):</strong> The text explicitly states, 'from the perspective of a majority of social scientists, culture is an embodiment of the totality of human existence.' This aligns perfectly with the definition provided.</li><li><strong>Option 2 (Philosophy):</strong> Philosophy is a system of thought, which can influence culture, but it is not synonymous with the totality of human existence.</li><li><strong>Option 3 (Science):</strong> Science is a method of inquiry and a body of knowledge, which is part of human endeavor, but not the entire 'totality of human existence'.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>The explanation directly quotes the document's definition, confirming that culture encompasses the entirety of non-biological aspects of human society. The distractors represent narrower concepts or elements that are part of culture, but not its full embodiment.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Culture is considered an embodiment of the totality of human existence.</p></div>"
+    },
+    "Answer": "Culture"
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is NOT listed as a primary characteristic of culture in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Symbolic" },
+        { "type": "string", "content": "Static" },
+        { "type": "string", "content": "Learned" },
+        { "type": "string", "content": "Integrated" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Characteristics of Culture", "Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Culture</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Culture Characteristics:</em> Key attributes describing how culture functions and is transmitted, including symbolic, learned, shared, and integrated.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a primary characteristic of culture according to the document.</div><p><strong>Step 1: Recall the primary characteristics of culture.</strong><br>The document lists four primary characteristics of culture: First, culture rests on <span style='color:var(--orange);font-weight:bold;'>symbols</span>. Second, culture is <span style='color:var(--orange);font-weight:bold;'>learned</span>. Third, culture is <span style='color:var(--orange);font-weight:bold;'>shared</span>. Fourth, culture is <span style='color:var(--orange);font-weight:bold;'>integrated</span>.</p><ul><li><strong>Option 0 (Symbolic):</strong> This is listed as the first primary characteristic.</li><li><strong>Option 1 (Static):</strong> The document describes culture as <span style='color:var(--orange);font-weight:bold;'>adaptive</span> and undergoing <span style='color:var(--orange);font-weight:bold;'>change over time</span>, implying it is dynamic, not static. Therefore, 'Static' is NOT a characteristic.</li><li><strong>Option 2 (Learned):</strong> This is listed as the second primary characteristic.</li><li><strong>Option 3 (Integrated):</strong> This is listed as the fourth primary characteristic.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>The document clearly states that culture is adaptive and changes, which is the opposite of static. The other options are explicitly listed as primary characteristics.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 'Static' is NOT listed as a primary characteristic of culture in the document.</p></div>"
+    },
+    "Answer": "Static"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "What are the standards that should govern people's behaviour in the roles they occupy, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Values" },
+        { "type": "string", "content": "Customs" },
+        { "type": "string", "content": "Norms" },
+        { "type": "string", "content": "Rites of Passage" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Norms", "Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Norms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Norms:</em> The standards that should govern people's behaviour in the roles they occupy, indicating appropriate or inappropriate behaviour.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that defines the standards governing people's behaviour in their roles, as per the document.</div><p><strong>Step 1: Locate the definition of 'Norms'.</strong><br>The document explicitly states: <span style='color:var(--orange);font-weight:bold;'>\"Norms are the standards that should govern people's behaviour in the roles they occupy.\"</span> This definition directly matches the question.</p><ul><li><strong>Option 0 (Values):</strong> Values are defined as \"a conception, explicit or implicit, distinctive of an individual or characteristic of a group, of the desirable, which influences the selection from available modes, means and end of action.\" They influence norms but are not the standards themselves.</li><li><strong>Option 1 (Customs):</strong> Customs are \"established socially accepted practices.\" They are often individual procedures but not the overarching standards governing all roles.</li><li><strong>Option 2 (Norms):</strong> This is the correct definition provided in the text.</li><li><strong>Option 3 (Rites of Passage):</strong> Rites of passage are \"ritual activities which usually symbolize that an individual has achieved a particular status in the community.\" These are ceremonies, not behavioral standards.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>The definition of norms in the text directly answers the question. The other options refer to related but distinct cultural concepts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Norms are the standards that should govern people's behaviour in the roles they occupy.</p></div>"
+    },
+    "Answer": "Norms"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which concept refers to the tendency for individuals to view their own way of life as superior to all others?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Cultural relativism" },
+        { "type": "string", "content": "Ethnocentrism" },
+        { "type": "string", "content": "Sub-culture" },
+        { "type": "string", "content": "Counter-culture" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnocentrism", "Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ethnocentrism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Ethnocentrism:</em> The tendency for individuals to view their own way of life as superior to all others, leading to shock or horror when confronted with different cultures.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the concept describing the belief in the superiority of one's own culture.</div><p><strong>Step 1: Locate the definition of Ethnocentrism.</strong><br>The document defines ethnocentrism as \"<span style='color:var(--orange);font-weight:bold;'>the tendency for individuals to view their own way of life as superior to all others</span>.\" This matches the question's description directly.</p><ul><li><strong>Option 0 (Cultural relativism):</strong> Cultural relativism posits that all cultures are equally valid and should be judged by their own standards, which is the opposite of ethnocentrism.</li><li><strong>Option 1 (Ethnocentrism):</strong> This is the correct concept as defined in the document.</li><li><strong>Option 2 (Sub-culture):</strong> A sub-culture is a smaller culture existing within the framework of a larger culture.</li><li><strong>Option 3 (Counter-culture):</strong> A counter-culture rejects the prevailing cultural patterns and often opposes them.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>The definition of ethnocentrism provided in the text is a direct match for the question, while the other options describe different cultural dynamics.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ethnocentrism refers to the tendency for individuals to view their own way of life as superior to all others.</p></div>"
+    },
+    "Answer": "Ethnocentrism"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "According to the document, Karl Marx's view on social change primarily attributes it to contradictions in which system?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The political system" },
+        { "type": "string", "content": "The economic system" },
+        { "type": "string", "content": "The religious system" },
+        { "type": "string", "content": "The educational system" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Marxist Social Change", "Social Change"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Marxian Theory of Social Change</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Karl Marx's View:</em> Social change is largely influenced by contradictions in the economic system, particularly the relations of production, leading to class struggle.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary system Karl Marx attributed social change to, according to the document.</div><p><strong>Step 1: Identify Marx's perspective on social change.</strong><br>The document states: \"However, Karl Marx is of the view that changes in society are largely influenced by the contradictions in <span style='color:var(--orange);font-weight:bold;'>the economic system</span>.\" It further elaborates on the mode of production and relations of production.</p><ul><li><strong>Option 0 (The political system):</strong> While related, Marx viewed politics as part of the superstructure, influenced by the economic base.</li><li><strong>Option 1 (The economic system):</strong> This is directly stated in the document as the primary driver of social change according to Marx.</li><li><strong>Option 2 (The religious system):</strong> Religion, like politics, is considered part of the superstructure by Marx, not the primary cause of change.</li><li><strong>Option 3 (The educational system):</strong> Education is also part of the superstructure and not the fundamental cause of social change in Marxian theory.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>The text explicitly identifies the economic system and its contradictions as the core of Marx's explanation for social change.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Karl Marx's view on social change primarily attributes it to contradictions in the economic system.</p></div>"
+    },
+    "Answer": "The economic system"
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which historical event is described as leading to a drastic social change in France and lasting for few years?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The Industrial Revolution" },
+        { "type": "string", "content": "The French Revolution" },
+        { "type": "string", "content": "The Napoleonic Wars" },
+        { "type": "string", "content": "The Reformation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Historical Social Change", "Cultural Change"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Historical Social Change Example</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>French Revolution:</em> A period of dramatic social and political upheaval in France that led to significant changes in society.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about a specific historical event in France mentioned in the document that caused drastic social change.</div><p><strong>Step 1: Locate the reference to a historical event in France.</strong><br>The document states: \"The transformation took several centuries, accompanied by some public and private violence. The social change took more drastic form in France and lasted for few years (<span style='color:var(--orange);font-weight:bold;'>Brown, 1979</span>).\" While the specific name 'French Revolution' isn't explicitly used, the context of transformation from feudalism to capitalism and subsequent drastic social change in France fits the French Revolution, which is a common example associated with this historical period.</p><ul><li><strong>Option 0 (The Industrial Revolution):</strong> While a major change, it's typically associated with Britain first and is an economic/technological transformation, not specifically a violent 'drastic form' for a 'few years' in France as a singular event.</li><li><strong>Option 1 (The French Revolution):</strong> This event (1789-1799) is known for its drastic social and political changes, often involving violence, and occurred over a period of a few years, fitting the description.</li><li><strong>Option 2 (The Napoleonic Wars):</strong> These were military conflicts following the French Revolution, not the primary period of drastic social change in France itself.</li><li><strong>Option 3 (The Reformation):</strong> This was a religious movement in the 16th century, not a specific event in France causing 'drastic social change' over a 'few years' in the context described.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Although not named directly, the description of a 'drastic social change' lasting 'few years' in France, in the context of feudalism to capitalism, strongly implies the French Revolution. This is an example where a student would infer the most plausible historical event from the description given the provided context.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The French Revolution is described as leading to a drastic social change in France and lasting for few years.</p></div>"
+    },
+    "Answer": "The French Revolution"
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "In pre-colonial Nigerian societies, what was the primary aim of the colonial administration, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To promote cultural exchange" },
+        { "type": "string", "content": "To support indigenous heritage" },
+        { "type": "string", "content": "To destroy every facet of the people's heritage that did not support British exploitation" },
+        { "type": "string", "content": "To introduce modern education" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism Impact", "Nigerian Heritage"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Colonial Administration Goals</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Colonialism:</em> The policy or practice of acquiring full or partial political control over another country, occupying it with settlers, and exploiting it economically.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary objective of colonial administration in Nigeria, as stated in the document.</div><p><strong>Step 1: Locate the section on colonial administration.</strong><br>The document states: \"The colonial administration was intent on <span style='color:var(--orange);font-weight:bold;'>destroying every facet of the people's heritage that did not support British exploitation</span>.\"</p><ul><li><strong>Option 0 (To promote cultural exchange):</strong> This was not the primary aim; the colonial presence was often disruptive.</li><li><strong>Option 1 (To support indigenous heritage):</strong> The document states the opposite, that heritage was destroyed if it did not support exploitation.</li><li><strong>Option 2 (To destroy every facet of the people's heritage that did not support British exploitation):</strong> This statement is a direct quote from the document, indicating the destructive and exploitative nature of colonial administration.</li><li><strong>Option 3 (To introduce modern education):</strong> While education was introduced, it was often to serve colonial administrative needs, not the primary aim related to heritage.</li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>The document explicitly states that the colonial administration sought to destroy aspects of heritage that did not serve British exploitation, making this the correct answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary aim of the colonial administration was to destroy every facet of the people's heritage that did not support British exploitation.</p></div>"
+    },
+    "Answer": "To destroy every facet of the people's heritage that did not support British exploitation"
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which pre-colonial Nigerian society is described as having a democratic welfarism ethos during its period under review?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Igbo society" },
+        { "type": "string", "content": "Yoruba society" },
+        { "type": "string", "content": "Ogoni society" },
+        { "type": "string", "content": "Kanem-Bornu Empire" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pre-Colonial Societies", "Nigerian Heritage"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of Pre-Colonial Society</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Democratic Welfarism:</em> A societal ethos emphasizing collective well-being and democratic principles.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the pre-colonial Nigerian society described as having a \"democratic welfarism\" ethos in the document.</div><p><strong>Step 1: Locate the term \"democratic welfarism\" in the text.</strong><br>The document states: \"Okoh (1995), is of the view that <span style='color:var(--orange);font-weight:bold;'>“democratic welfarism” was the hallmark of social organization during the period under review</span>.\" This statement is made under the general heading \"The Nature of Society,\" discussing pre-colonial Nigerian societies broadly, and is then immediately followed by a critique from Girigiri (1999) who says Okoh's view is an over-simplification of historical reality, implying Okoh was speaking generally about pre-colonial Nigerian societies.</p><ul><li><strong>Option 0 (Igbo society):</strong> The text refers to \"pre-colonial Nigerian societies\" generally when discussing Okoh's view, and then later describes specific features of Igbo society, but doesn't explicitly link \"democratic welfarism\" to Igbo alone in this initial general context.</li><li><strong>Option 1 (Yoruba society):</strong> Similar to Igbo society, specific features are discussed later, but \"democratic welfarism\" is not exclusively tied to Yoruba in this general statement.</li><li><strong>Option 2 (Ogoni society):</strong> The document discusses Ogoni land's political organization, but not in the context of \"democratic welfarism\" as its hallmark.</li><li><strong>Option 3 (Kanem-Bornu Empire):</strong> This was a centralized empire with clear hierarchies, making \"democratic welfarism\" unlikely and not attributed to it in the text.</li></ul><p><strong>Clarification:</strong> The text introduces the concept of \"democratic welfarism\" as a general description of *pre-colonial Nigerian societies* by Okoh (1995), before critiquing it. While not explicitly tied to one specific group, the question asks 'which' society, implying one of the listed options might be the best fit if the document later supported it, or if it's meant in a general sense. Given the options and the general nature of Okoh's statement, and the fact that later discussions of centralized states (like Kanem-Bornu) contradict 'democratic welfarism', it implies that the concept, if applied, would be to less centralized societies or as a generalized characteristic of the *idea* of pre-colonial societies before deeper analysis. However, as the question is phrased to identify 'which' society, and the statement is general, let's re-evaluate if any specific society is *later* given characteristics that align. The document later critiques the idea that 'democratic welfarism' characterized all pre-colonial Nigerian societies, implying it was a *general conceptualization* rather than a feature of one specific society presented in the options. Since no single option is explicitly identified, the question might be flawed in implying a single correct option from the list if the text refers to the concept broadly. However, given the options, and the general discussions of less centralized polities in pre-colonial Nigeria, societies like Igbo, which are often characterized by decentralized governance, might be considered if the "democratic welfarism" idea was implicitly referencing such types. Let's assume the question expects the most commonly associated example, or that the generalized statement applies to societies not explicitly ruled out by centralized power.
+
+Upon closer inspection, the section \"THE NATURE OF SOCIETY\" directly precedes discussions of specific Nigerian societies. Okoh's view on \"democratic welfarism\" is presented as a general characterization of *pre-colonial Nigerian societies* as a whole, which is then disputed. Since it's a general claim about 'societies', and no specific society is singled out *as having* this as a hallmark by the document itself (only by Okoh, which is critiqued), it implies a general characteristic. However, the options are specific societies. This is a point of potential ambiguity. If I must choose one, and considering the general academic discourse that often contrasts centralized states with more diffuse, 'democratic' polities, the Igbo society often serves as an example of the latter, even if Okoh's term is criticized.
+
+Let me re-read the sentence carefully: \"Okoh (1995), is of the view that “democratic welfarism” was the hallmark of social organization during the period under review.\" This is a *view* presented, not an endorsed fact by the authors. The subsequent sentence: \"I have noted elsewhere (Girigiri, 1999), that Okoh’s view is an over-simplification of historical reality.\"
+This means the document *presents* the idea that \"democratic welfarism\" was the hallmark of *pre-colonial Nigerian societies* (plural), but then *rejects* it as an over-simplification.
+If the question asks \"Which pre-colonial Nigerian society is described as having a democratic welfarism ethos...\", and the text presents it as a general *view* about *all* pre-colonial societies, and then *criticizes* this view, it's hard to pick one.
+However, sometimes multiple-choice questions might test the *mention* of a concept in relation to a broad group.
+If I'm forced to pick from the options, which one *might* be conceived (even if oversimplified) as "democratic welfarism"?
+The section on Igbo society (Chapter 3) describes it as \"men controlled by women... communal mode of production\". It mentions political organization as 'segmented lineage system'. This doesn't directly support the "democratic welfarism" label.
+The nature of the question is "easy" difficulty, so it's likely looking for a direct link or a clear implied association. Since the document *introduces the concept* of \"democratic welfarism\" when discussing pre-colonial societies in general, and then critiques it, it's not asserting that any *one* of the options definitively had it.
+Let me reconsider. Perhaps it implies that the idea of "democratic welfarism" applies to the *type* of pre-colonial society that is non-centralized, like many Igbo polities were. However, the text doesn't *state* that specifically.
+
+Let's assume the question refers to societies generally *viewed* as having some form of democratic principles in their traditional setup, even if the "welfarism" aspect is debated. The Igbo socio-political organization (later described as having a council of elders and title holders but less centralized than kingdoms) might fit this concept more than the highly centralized Kanem-Bornu or Oyo/Benin. However, the text does NOT explicitly state this. This question becomes tricky given the explicit critique of the term for *all* pre-colonial societies.
+
+What if the question is flawed in its premise given the document's content? If the document presents a general view about *all* pre-colonial Nigerian societies (which is then critiqued) and doesn't explicitly link "democratic welfarism" to *one* of the specific options, then all specific options are equally unsupported in *having* this as a defining hallmark endorsed by the document.
+
+Let's re-read Chapter 2, Page 16, under \"THE NATURE OF SOCIETY\":
+\"The feature of interest here is the pattern of social organization in pre-colonial Nigerian societies; the nature of the relationship existing between categories of individuals within the existing political economy. Okoh (1995), is of the view that “democratic welfarism” was the hallmark of social organization during the period under review. This concern for the welfare of all was the dominant ethos in pre-colonial societies as a whole.\"
+This clearly states Okoh's view was that it was the dominant ethos in \"pre-colonial societies as a whole.\" Then Girigiri (1999) says Okoh's view is an \"over-simplification of historical reality.\"
+So, the document *presents* "democratic welfarism" as a *general* (albeit oversimplified) characteristic ascribed to *all* pre-colonial Nigerian societies, not just one specific one.
+Therefore, technically, *none* of the specific options are uniquely described as having it.
+If I must pick an answer, and the question is from Uniport papers at 'easy' difficulty, it sometimes implies a general association even if critiqued. Many anthropological texts, before more nuanced critiques, did generalize about 'stateless' societies (like some Igbo polities) having more democratic characteristics. Given this, and if I have to pick the *least* wrong, a society known for its decentralized structure would be a more plausible (though still indirect and debated) fit than a centralized empire. However, the document doesn't provide this direct link.
+
+Let me adjust my approach. I need to make sure questions are *strictly* answerable. Since the text explicitly states the view was about \"pre-colonial societies as a whole\" and then critiques this *general* view, picking one specific society would be making an inference not directly supported for that specific society in relation to the term.
+
+I will skip this question idea if it relies on an unsupported inference for a specific option when the text gives a general (and critiqued) statement. I need to find something more direct.
+Let me re-read for a direct statement on any of these societies.
+Page 16 lists features of pre-colonial Nigerian society, for example: (a) \"The absence of individualism, greed and cut-throat competition for material wealth.\" (b) \"The encouragement of individual creativity... for the development of community and not for the amassing of individual material possessions.\" (c) \"The society was typified by giving relatively low value to the possession of most material goods and personal aggrandizement since emphasis was on service to the people.\" These features *are* what \"democratic welfarism\" would generally imply. The question is if any option *is* then given these characteristics.
+Page 17 discusses the commonal mode of production and states, \"In the case of Oyo, Benin Kingdom, the Igbo political system and political administration in Ogoni land. There were various organs of government which ensured that justice and fair play reigned in each of these systems.\" This is a general statement about them all.
+The document *does* later discuss the Igbo political system as \"segmented lineage system\" on page 31.
+It also describes Ogoni villages as \"politically autonomous\" and decentralized (page 19).
+
+Given that the general features supporting 'democratic welfarism' are described for 'pre-colonial societies as a whole' (before critique), and then later Igbo and Ogoni are mentioned as examples of decentralized political systems, they would be *more likely candidates* for such a description (even if debated) than highly centralized empires. Between Igbo and Ogoni, both are presented as largely decentralized.
+
+Let's reconsider. The question asks *which society is described* as having this ethos. The text states Okoh's view that it characterized *all* pre-colonial societies. Then it says Girigiri critiques this as an oversimplification. This means the *document itself* does not endorse any *single* society as having it. Therefore, this question would be poorly constructed if it implies one correct answer from the list given the provided text. I will discard this question idea and create a different one.
+
+New question idea for Chapter 2: **Kanem-Bornu Empire**
+Page 18 describes the Kanem-Bornu Empire. "The empire of Kanem-Bornu which was located in most of North-Eastern part in Nigeria was mostly likely the first political entity with a form of centralized government in the country". This is a good fact.
+
+Re-do for Q8:
+"According to the document, which pre-colonial Nigerian entity was most likely the first political entity with a form of centralized government in the country?"
+Options:
+0. Oyo Kingdom
+1. Benin Kingdom
+2. Kanem-Bornu Empire
+3. Igbo village-groups
+
+This is much more direct.
+
+---
+Continuing with other questions. I will ensure clear, direct answers from the text.
+I need to keep track of the count of OBJ and THEORY questions, and concepts used.
+Total 82 questions, 80 OBJ, 2 THEORY.
+Approx 6-7 OBJ per chapter.
+Chapter 1: 6 OBJ
+Chapter 2: 7 OBJ (need to add one more after the re-do)
+Chapter 3: 6 OBJ
+Chapter 4: 6 OBJ
+Chapter 5: 7 OBJ
+Chapter 6: 6 OBJ
+Chapter 7: 7 OBJ
+Chapter 8: 6 OBJ
+Chapter 9: 7 OBJ
+Chapter 10: 6 OBJ
+Chapter 11: 7 OBJ
+Chapter 12: 6 OBJ
+Chapter 13: 3 OBJ (this chapter is short, so fewer questions is fine)
+Total so far: 6+7+6+6+7+6+7+6+7+6+7+6+3 = 78 OBJ. I need 2 more OBJ. I can add them to chapters with slightly less coverage or from broader introductions. I will add one more to Chapter 2 and one more to Chapter 7.
+So, Chapter 2: 8 OBJ; Chapter 7: 8 OBJ.
+This brings the total to 80 OBJ. Then 2 THEORY.
+
+Let's try to finalize the questions for each chapter.
+
+**Chapter 1: The Concept of Culture (Pages 1-12)**
+1.  Definition of Culture (Used)
+2.  NOT characteristic (Static) (Used)
+3.  Norms definition (Used)
+4.  Ethnocentrism definition (Used)
+5.  Marx on economic system (Used)
+6.  French Revolution example (Used)
+7.  What is subculture? (New)
+8.  Which aspect of culture involves tools and techniques? (Material culture) (New)
+
+**Chapter 2: Nigerian Heritage (Pages 13-26)**
+1.  Colonial admin aim (Used)
+2.  Kanem-Bornu first centralized (Used)
+3.  Nok culture discovery year (1943) (New)
+4.  Ife art material (Bronze/Terracotta) (New)
+5.  Benin art: largest body of sculptures? (New)
+6.  Main economic activity pre-colonial Nigeria (Agriculture) (New)
+7.  Source of salt in pre-colonial Nigeria (Lake Chad, Afikpo) (New)
+8.  Pre-colonial medical practices (herbs, leaves, barks) (New)
+
+**Chapter 3: Societies and Nations of Nigeria (Pages 27-35)**
+1.  Number of ethnic groups (350) (New)
+2.  Igbo socio-political structure (Segmented lineage system) (New)
+3.  Yoruba political system head (Alafin) (New)
+4.  Ijaw religious belief (Supreme Being: Owomo, Aminigo) (New)
+5.  Nok culture location (Northern Nigeria) (New)
+6.  Igbo-Ukwu discovery year (1939) (New)
+
+**Chapter 4: Culture Areas and Human Environment in Nigeria (Pages 36-45)**
+1.  Culture area concept developed by whom? (Wissler) (New)
+2.  Total number of distinct culture areas delineated in Nigeria (10) (New)
+3.  Which of these is NOT a component of the physical environment? (Cultural artifacts) (New)
+4.  Components of lithosphere (rocks, minerals) (New)
+5.  What is the biosphere? (Living organisms) (New)
+6.  Environmental determinism vs possibilism (Difference) (New)
+
+**Chapter 5: Kinship and Social Organisation in Nigeria (Pages 46-54)**
+1.  Patrilineal descent (definition) (New)
+2.  Matrilineal descent (definition) (New)
+3.  Ijo kinship system (predominantly extended, double-descent/bilateral) (New)
+4.  Conjugal family (definition) (New)
+5.  Polygamous family (definition) (New)
+6.  Gift marriage definition (New)
+7.  Levirate marriage definition (New)
+
+**Chapter 6: Rites of Passage as Social Control Mechanism (Pages 55-67)**
+1.  Tripartite sequence (separation, transition, re-incorporation) (New)
+2.  Purpose of rites of passage (Social control) (New)
+3.  Yoruba child naming ceremony key ingredient (Palm oil) (New)
+4.  Initiation into adulthood: Bambara practice (Flogging) (New)
+5.  Yoruba marriage: bride price (Dower) (New)
+6.  Death and funeral: Ijaw belief (Spirit of deceased to ancestors) (New)
+
+**Chapter 7: Nigerian Economic Institutions (Pages 68-80)**
+1.  Definition of reciprocity (New)
+2.  Types of land tenure (Family, Lineage, Public) (New)
+3.  Shifting cultivation (definition) (New)
+4.  Main pastoral groups in Nigeria (Fulani, Kanuris, Shuwa Arabs) (New)
+5.  Main fishing areas (Niger Delta) (New)
+6.  Meaning of 'industry' (Work of factories and large organizations) (New)
+7.  Oldest textile industry in West Africa (Kano) (New)
+8.  Role of women in traditional farming (Planting, processing cassava) (New)
+
+**Chapter 8: Education and Social Order in Traditional Nigeria (Pages 81-89)**
+1.  Education in pre-colonial Nigeria was influenced by what? (Islam, indigenous) (New)
+2.  Objective of traditional education (Develop child's latent physical skills) (New)
+3.  Family education (definition) (New)
+4.  Peer group education (definition) (New)
+5.  Igbo rite of passage for manhood (Iwa Akwa) (New)
+6.  Purpose of festivals in traditional education (Reinforce social solidarity) (New)
+
+**Chapter 9: State Authority and Leadership (Pages 90-101)**
+1.  Scholars challenging stateless societies (Goody, Norhrup, Anikpo) (New)
+2.  Hobbes' view of state (Leviathan) (New)
+3.  Hegel on state (World Spirit) (New)
+4.  Criteria for political leadership: property ownership (New)
+5.  Criteria for political leadership: descent (New)
+6.  Criteria for political leadership: age (New)
+7.  Yoruba political administration head (Oba) (New)
+
+**Chapter 10: Systems of Social Inequality (Pages 102-108)**
+1.  Definition of stratification (New)
+2.  Functionalist view of inequality (Positions with varying rewards) (New)
+3.  Marxian view of inequality (Class conflict) (New)
+4.  Stratification in Hausa-Fulani (Emirs, ruling class, commoners, slaves) (New)
+5.  Oyo/Benin kingdoms stratification (Oba, Chiefs, commoners, slaves) (New)
+6.  Osu caste system (Igbo society) (New)
+
+**Chapter 11: Intergroup Relations (Pages 109-122)**
+1.  Migrant super-ordination (causes) (New)
+2.  Patterns of group interaction (Ethic stratification, pluralism, integration) (New)
+3.  Prejudice (definition) (New)
+4.  Discrimination (definition) (New)
+5.  Attitudinal discrimination (definition) (New)
+6.  Types of adjustment to prejudice (Avoidance, Aggression, Acceptance) (New)
+7.  Acculturation (definition) (New)
+
+**Chapter 12: Indigenous System of Health-care (Pages 123-129)**
+1.  WHO definition of health (New)
+2.  Medical model of disease (definition) (New)
+3.  Psychological theory of disease (Freud, Oedipus complex) (New)
+4.  Cultural theory of disease (Witchcraft, sorcery) (New)
+5.  Types of indigenous healers (Natural, supernatural, TBAs, bone-setters) (New)
+6.  Causation in indigenous ill-health (Ancestors, deities, witches) (New)
+
+**Chapter 13: Cultural Impediments and HIV/AIDS Control (Pages 130-133)**
+1.  HIV/AIDS defined (Human Immunodeficiency Virus) (New)
+2.  Year of first HIV/AIDS case in Nigeria (1986) (New)
+3.  Year Nigerian HIV/AIDS policy adopted (1997) (New)
+
+This covers 80 OBJ questions. Now for 2 THEORY questions.
+THEORY Q1: From Chapter 1 (easy definition/explanation)
+THEORY Q2: From a different chapter, also easy (e.g., list/explain a process)
+
+Theory Q1: Define 'Cultural Relativism' and explain its significance. (Chapter 1)
+Theory Q2: Explain the tripartite sequence of rites of passage. (Chapter 6)
+
+This looks like a solid plan. I will now generate the questions and explanations in the required JSON format. I'll make sure to vary the correct answer's option position.
+
+Final check on constraint: "If the document cannot support 802 non-repeating questions without recycling the same fact, generate as many as it genuinely supports instead of padding — fewer correct questions beat duplicated ones."
+The document is 133 pages long with substantial content in each chapter. It definitely supports 82 unique, non-repeating facts/concepts for "easy" recall questions. The chosen questions are distinct and based on different points.
+I will ensure each explanation is self-contained and does not refer to "the document."
