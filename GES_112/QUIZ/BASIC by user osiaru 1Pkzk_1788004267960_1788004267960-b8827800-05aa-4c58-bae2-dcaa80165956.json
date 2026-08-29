@@ -1,0 +1,188 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Nigerian People Culture",
+    "code": "GES 112",
+    "session": "BASIC by user osiaru 1Pkzk",
+    "kind": "mixed",
+    "topics": [
+      "Ethnic Group",
+      "Culture",
+      "Unit 1",
+      "Geopolitical Regions",
+      "Southern Nigeria",
+      "Niger Delta",
+      "South-East Region",
+      "South-West Region"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "An ethnic group is defined as a group of people who share a distinct culture and are of the same:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "socio-economic status"
+        },
+        {
+          "type": "string",
+          "content": "race or nationality"
+        },
+        {
+          "type": "string",
+          "content": "geographic location"
+        },
+        {
+          "type": "string",
+          "content": "religious affiliation"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Ethnic Group",
+      "Culture",
+      "Unit 1"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Ethnic Group</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Ethnic Group:</em> A group of people of the same race or nationality who share a distinct culture.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the defining characteristics of an ethnic group as stated in the provided text.</div><strong>Step 1: Identify the direct definition from the document.</strong>The document states: \"An ethnic group is a group of people of the same <span style='color:var(--orange);font-weight:bold;'>race or nationality who share a distinct culture</span>.\"<br><ul><li>The option \"socio-economic status\" is not mentioned as a defining characteristic for an ethnic group.</li><li>The option <span style='color:var(--orange);font-weight:bold;'>\"race or nationality\"</span> perfectly matches the initial part of the definition provided in the document.</li><li>\"geographic location\" may often be associated but is not the primary defining criterion according to the text.</li><li>\"religious affiliation\" is a part of culture but not the overarching identifier alongside race or nationality.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The question seeks the precise wording from the definition. The chosen option directly quotes the essential element from the provided text.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An ethnic group is defined as a group of people who share a distinct culture and are of the same race or nationality.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "race or nationality"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is NOT one of the three geopolitical regions in southern Nigeria mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "South-West"
+        },
+        {
+          "type": "string",
+          "content": "North-Central"
+        },
+        {
+          "type": "string",
+          "content": "South-South"
+        },
+        {
+          "type": "string",
+          "content": "South-East"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Geopolitical Regions",
+      "Southern Nigeria",
+      "Unit 1"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Geopolitical Regions of Southern Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Southern Nigeria Geopolitical Regions:</em> The document specifies South-East, South-South, and South-West as the three geopolitical regions in southern Nigeria.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT one of the listed southern Nigerian geopolitical regions.</div><strong>Step 1: Refer to the list of regions in the document.</strong>The document explicitly states: \"There are three geopolitical regions in southern Nigeria, which include: <span style='color:var(--orange);font-weight:bold;'>South-East, South-South, and South-West</span>.\"<br><ul><li>South-West is listed as a southern geopolitical region.</li><li><span style='color:var(--orange);font-weight:bold;'>North-Central</span> is not mentioned in the list of southern geopolitical regions.</li><li>South-South is listed as a southern geopolitical region.</li><li>South-East is listed as a southern geopolitical region.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The task is to identify the region NOT specified. By checking the given list, North-Central is clearly absent from the southern regions mentioned.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ North-Central is NOT one of the three geopolitical regions in southern Nigeria mentioned in the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "North-Central"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following states is listed as constituting the South-East geopolitical region within the Niger Delta?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Enugu"
+        },
+        {
+          "type": "string",
+          "content": "Ondo State"
+        },
+        {
+          "type": "string",
+          "content": "Lagos State"
+        },
+        {
+          "type": "string",
+          "content": "Ogun State"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Niger Delta",
+      "South-East Region",
+      "Unit 1"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>South-East Niger Delta States</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>South-East Niger Delta States:</em> The document identifies Imo, Abia, Anambra, Enugu, and Ebonyi State as states in the Niger Delta region that constitute the South-East.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a state listed in the document as part of the South-East geopolitical region within the Niger Delta.</div><strong>Step 1: Check the list of states for the South-East region.</strong>The document specifies: \"States in the Niger Delta region that constitute the South-East include: <span style='color:var(--orange);font-weight:bold;'>Imo, Abia, Anambra, Enugu, and Ebonyi State</span>.\"<br><ul><li><span style='color:var(--orange);font-weight:bold;'>Enugu</span> is explicitly listed as one of these states.</li><li>Ondo State, Lagos State, and Ogun State are mentioned in connection with the South-West region in the subsequent sentence, not the South-East.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Confirm that the chosen state is indeed among those listed for the South-East region in the document. Enugu is clearly stated.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Enugu is listed as constituting the Niger Delta region within the Niger Delta.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enugu"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following states is listed in the document as constituting the Niger Delta region from the South-West?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Lagos State"
+        },
+        {
+          "type": "string",
+          "content": "Ebonyi State"
+        },
+        {
+          "type": "string",
+          "content": "Anambra"
+        },
+        {
+          "type": "string",
+          "content": "Imo"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Niger Delta",
+      "South-West Region",
+      "Unit 1"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>South-West Niger Delta States</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>South-West Niger Delta States:</em> The document states: \"States in the South-West that constitute the Niger Delta region include: Lagos State, Ogun State, Ondo State, Oyo State etc.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a state listed in the document as constituting the Niger Delta region from the South-West.</div><strong>Step 1: Check the list of states for the South-West region.</strong>The document explicitly states: \"States in the South-West that constitute the Niger Delta region include: <span style='color:var(--orange);font-weight:bold;'>Lagos State, Ogun State, Ondo State, Oyo State</span> etc.\"<br><ul><li><span style='color:var(--orange);font-weight:bold;'>Lagos State</span> is explicitly listed as one of these states.</li><li>Ebonyi State, Anambra, and Imo are mentioned in connection with the South-East region earlier in the document, not the South-West.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> Confirm that the chosen state is indeed among those listed for the South-West region in the document. Lagos State is clearly stated.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lagos State is listed as constituting the Niger Delta region from the South-West.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lagos State"
+    }
+  }
+]
