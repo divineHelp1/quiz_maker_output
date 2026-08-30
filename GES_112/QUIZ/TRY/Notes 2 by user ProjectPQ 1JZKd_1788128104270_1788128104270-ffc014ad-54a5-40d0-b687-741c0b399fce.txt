@@ -1,0 +1,2554 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer all questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "According to the document, what is the primary definition of 'Culture'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The study of ancient civilizations."
+        },
+        {
+          "type": "string",
+          "content": "The way of life of people, their values, customs, beliefs, and language."
+        },
+        {
+          "type": "string",
+          "content": "A collection of artistic expressions and performances."
+        },
+        {
+          "type": "string",
+          "content": "The historical development of a nation's economy."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Definition of Culture", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Culture</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Culture:</em> The way of life of people, including their values, customs, beliefs, and language.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary definition of culture as stated in the document.</div><p><strong>Step 1: Refer to the document's definition of Culture.</strong></p><p>The document explicitly states on <span style='color:var(--orange);font-weight:bold;'>page 1</span> that \"Culture is the way of life of people's their Values, customs, beliefs and language.\"</p><ul><li><p>Option 1: \"The study of ancient civilizations.\" is incorrect. While culture can be studied in ancient contexts, this is not the overarching definition provided.</p></li><li><p>Option 2: \"The way of life of people, their values, customs, beliefs, and language.\" directly matches the definition given in the document.</p></li><li><p>Option 3: \"A collection of artistic expressions and performances.\" is too narrow. Artistic expression is part of culture, but not its full definition.</p></li><li><p>Option 4: \"The historical development of a nation's economy.\" is incorrect. This relates to economic history, not culture.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The definition provided is broad and encompasses various aspects of human society, aligning with common sociological definitions of culture and matching the document's explicit statement.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The way of life of people, their values, customs, beliefs, and language.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The way of life of people, their values, customs, beliefs, and language."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The sub-topic 'Diverse peoples and cultures of Nigerian ethnic minorities (pre-colonial era)' primarily focuses on which aspect?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The impact of colonial policies on major ethnic groups."
+        },
+        {
+          "type": "string",
+          "content": "Smaller ethnic groups in Nigeria, their culture, social organization, and contribution to Nigerian society."
+        },
+        {
+          "type": "string",
+          "content": "The economic dominance of a few large ethnic communities."
+        },
+        {
+          "type": "string",
+          "content": "Modern-day challenges faced by urban populations in Nigeria."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnic Minorities", "Pre-colonial Nigeria"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Focus of Ethnic Minorities Sub-Topic</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Ethnic Minorities Sub-topic:</em> Focuses on smaller ethnic groups in Nigeria, their culture, social organization, and contribution to Nigerian society.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary focus of the sub-topic on diverse peoples and cultures of Nigerian ethnic minorities in the pre-colonial era.</div><p><strong>Step 1: Locate the section in the document discussing the sub-topic.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, under the heading \"Sub-Topic; Diverse peoples and cultures of nigerian ethnic minorities (pre-colonial era)\", the document states: \"this topic focuses on smaller ethnic groups in Nigeria, their culture, social organization and contribution to Nigerian society.\"</p><ul><li><p>Option 1: \"The impact of colonial policies on major ethnic groups.\" is incorrect because the focus is on *smaller* ethnic groups and the *pre-colonial* era.</p></li><li><p>Option 2: \"Smaller ethnic groups in Nigeria, their culture, social organization, and contribution to Nigerian society.\" directly matches the description in the document.</p></li><li><p>Option 3: \"The economic dominance of a few large ethnic communities.\" is incorrect; the focus is on *smaller* groups and their overall societal contribution, not economic dominance.</p></li><li><p>Option 4: \"Modern-day challenges faced by urban populations in Nigeria.\" is incorrect as the topic is specifically about the *pre-colonial era*.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly outlines the scope of this particular sub-topic, making the correct option a direct restatement of the document's content.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Smaller ethnic groups in Nigeria, their culture, social organization, and contribution to Nigerian society.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Smaller ethnic groups in Nigeria, their culture, social organization, and contribution to Nigerian society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "How many ethnic groups make up Nigeria, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Over 200"
+        },
+        {
+          "type": "string",
+          "content": "Exactly 250"
+        },
+        {
+          "type": "string",
+          "content": "350"
+        },
+        {
+          "type": "string",
+          "content": "Less than 100"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnic Groups", "Demographics of Nigeria"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Number of Ethnic Groups in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Ethnic Groups in Nigeria:</em> The document states Nigeria is made up of 350 ethnic groups.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the total number of ethnic groups in Nigeria as stated in the provided text.</div><p><strong>Step 1: Locate the specific numerical fact in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, the document explicitly states: \"Nigeria is made up of <span style='color:var(--orange);font-weight:bold;'>350 ethnic groups</span> and 6 geopolitical zone\".</p><ul><li><p>Option 1: \"Over 200\" is true in a general sense but not the precise number provided.</p></li><li><p>Option 2: \"Exactly 250\" is incorrect, as the document specifies 350.</p></li><li><p>Option 3: \"350\" is the exact number stated in the document.</p></li><li><p>Option 4: \"Less than 100\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and unambiguous number for the ethnic groups in Nigeria.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 350</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "350"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is identified as a characteristic of minority groups in Nigeria, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They dominate major economic sectors."
+        },
+        {
+          "type": "string",
+          "content": "They have significant political influence."
+        },
+        {
+          "type": "string",
+          "content": "They are usually small in number."
+        },
+        {
+          "type": "string",
+          "content": "They occupy vast geographical areas."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Minority Groups", "Characteristics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Minority Groups</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Minority Group Characteristics:</em> Usually small in number, minute political influence, occupy small geographical areas, have less economic influence.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a characteristic of minority groups in Nigeria as described in the document.</div><p><strong>Step 1: Review the listed characteristics of minority groups in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, the document lists characteristics of minority groups:</p><ol><li>\"Minority groups are <span style='color:var(--orange);font-weight:bold;'>usually small in number</span>.\"</li><li>\"Their political influence is minute.\"</li><li>\"They occupy a small geographical area.\"</li><li>\"They have less economic influence.\"</li></ol><ul><li><p>Option 1: \"They dominate major economic sectors.\" contradicts the document's statement that \"They have less economic influence.\"</p></li><li><p>Option 2: \"They have significant political influence.\" contradicts the document's statement that \"Their political influence is minute.\"</p></li><li><p>Option 3: \"They are usually small in number.\" directly matches the first characteristic listed.</p></li><li><p>Option 4: \"They occupy vast geographical areas.\" contradicts the document's statement that \"They occupy a small geographical area.\"</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The characteristics are explicitly enumerated in the document, making the selection straightforward.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ They are usually small in number.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are usually small in number."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "How is the political influence of minority groups described in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Extensive"
+        },
+        {
+          "type": "string",
+          "content": "Dominant"
+        },
+        {
+          "type": "string",
+          "content": "Minute"
+        },
+        {
+          "type": "string",
+          "content": "Moderate"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Minority Groups", "Political Influence"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Political Influence of Minority Groups</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Political Influence of Minority Groups:</em> The document states their political influence is minute.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks how the political influence of minority groups is characterized in the provided notes.</div><p><strong>Step 1: Refer to the list of characteristics for minority groups on page 1.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, under the section describing minority groups, it is stated: \"2 <span style='color:var(--orange);font-weight:bold;'>Their political influence is minute</span>\".</p><ul><li><p>Option 1: \"Extensive\" is the opposite of what is stated.</p></li><li><p>Option 2: \"Dominant\" is incorrect and implies significant power.</p></li><li><p>Option 3: \"Minute\" directly matches the description in the document.</p></li><li><p>Option 4: \"Moderate\" is incorrect; \"minute\" suggests extremely small or negligible.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document uses a specific term to describe the political influence, which is directly available in the options.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Minute</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Minute"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "What does the term 'Diverse' mean in the context of Nigerian ethnic groups, as explained in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Homogeneous or uniform."
+        },
+        {
+          "type": "string",
+          "content": "Different or multiple."
+        },
+        {
+          "type": "string",
+          "content": "Advanced or developed."
+        },
+        {
+          "type": "string",
+          "content": "Conflicting or segregated."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Diversity", "Terminology"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Diverse</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Diverse:</em> This means different or multiple.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the meaning of 'Diverse' as defined in the document.</div><p><strong>Step 1: Locate the definition of 'Diverse' on page 1.</strong></p><p>Under the section \"Different concepts\" on <span style='color:var(--orange);font-weight:bold;'>page 1</span>, the document states: \"Diverse - This means <span style='color:var(--orange);font-weight:bold;'>different or multiple</span>.\"</p><ul><li><p>Option 1: \"Homogeneous or uniform.\" is the opposite of diverse.</p></li><li><p>Option 2: \"Different or multiple.\" directly matches the definition provided in the document.</p></li><li><p>Option 3: \"Advanced or developed.\" is unrelated to the definition of diversity.</p></li><li><p>Option 4: \"Conflicting or segregated.\" is an interpretation of diversity's potential challenges, not its direct meaning.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly provides the meaning of the term, leaving no room for ambiguity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Different or multiple.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Different or multiple."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "In social sciences, how is 'Ethnicity' primarily defined according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A shared economic status among people."
+        },
+        {
+          "type": "string",
+          "content": "A political affiliation or party membership."
+        },
+        {
+          "type": "string",
+          "content": "A person's membership to a particular ethnic group."
+        },
+        {
+          "type": "string",
+          "content": "The ability to speak multiple languages fluently."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnicity", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Ethnicity in Social Sciences</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Ethnicity (in social sciences):</em> Refers to a person's membership to a particular ethnic group.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Ethnicity' specifically within social sciences, as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Ethnicity' in the document, noting the social science context.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 2</span>, the document states: \"In sociology its Social Sciences, It refers <span style='color:var(--orange);font-weight:bold;'>to a person's membership to a particular ethnic group</span>.\"</p><ul><li><p>Option 1: \"A shared economic status among people.\" is incorrect and describes a different social stratification.</p></li><li><p>Option 2: \"A political affiliation or party membership.\" is incorrect and relates to political identity, not ethnic identity.</p></li><li><p>Option 3: \"A person's membership to a particular ethnic group.\" directly matches the definition provided in the document for social sciences.</p></li><li><p>Option 4: \"The ability to speak multiple languages fluently.\" is incorrect and relates to linguistic skills, not ethnicity.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a specific definition for 'ethnicity' within the context of social sciences, which is clearly reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A person's membership to a particular ethnic group.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A person's membership to a particular ethnic group."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What is 'Cultural diversity' defined as in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The study of global cultures and their interactions."
+        },
+        {
+          "type": "string",
+          "content": "The difference between different cultures of different ethnic groups."
+        },
+        {
+          "type": "string",
+          "content": "The process of cultural assimilation within a society."
+        },
+        {
+          "type": "string",
+          "content": "A universal set of cultural values and norms."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cultural Diversity", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Cultural Diversity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Cultural Diversity:</em> The difference between different cultures of different ethnic groups (e.g., their languages, food, beliefs, etc.).</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Cultural diversity' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Cultural diversity' on page 2.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 2</span>, the document explicitly defines: \"Cultural diversity - This is <span style='color:var(--orange);font-weight:bold;'>the difference between different culture of different ethnic groups</span> eg their languages, food, beliefs etc.\"</p><ul><li><p>Option 1: \"The study of global cultures and their interactions.\" describes a field of study, not the diversity itself.</p></li><li><p>Option 2: \"The difference between different cultures of different ethnic groups.\" directly matches the definition in the document.</p></li><li><p>Option 3: \"The process of cultural assimilation within a society.\" is a different concept related to cultural interaction.</p></li><li><p>Option 4: \"A universal set of cultural values and norms.\" is incorrect as diversity implies variety, not uniformity.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The definition provided is direct and specific, ensuring a clear match with the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The difference between different cultures of different ethnic groups.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The difference between different cultures of different ethnic groups."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "What is 'Cultural identity' defined as in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The official recognition of cultural groups by the state."
+        },
+        {
+          "type": "string",
+          "content": "A sense of belonging to a particular ethnic group or culture."
+        },
+        {
+          "type": "string",
+          "content": "The process of adopting a new cultural background."
+        },
+        {
+          "type": "string",
+          "content": "The historical origins of a cultural practice."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cultural Identity", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Cultural Identity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Cultural Identity:</em> A sense of belonging to a particular ethnic group or culture.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Cultural identity' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Cultural identity' on page 2.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 2</span>, the document defines: \"Cultural Ielentity - It gives you <span style='color:var(--orange);font-weight:bold;'>a Sense of belonging to a particular ethnic group or culture</span>-\".</p><ul><li><p>Option 1: \"The official recognition of cultural groups by the state.\" is incorrect. This relates to policy, not the personal sense of identity.</p></li><li><p>Option 2: \"A sense of belonging to a particular ethnic group or culture.\" directly matches the definition in the document.</p></li><li><p>Option 3: \"The process of adopting a new cultural background.\" describes acculturation or assimilation, not identity.</p></li><li><p>Option 4: \"The historical origins of a cultural practice.\" relates to cultural history, not identity.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and concise definition, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A sense of belonging to a particular ethnic group or culture.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A sense of belonging to a particular ethnic group or culture."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "When did colonialism officially start in Nigeria, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "July 1861"
+        },
+        {
+          "type": "string",
+          "content": "August 1861"
+        },
+        {
+          "type": "string",
+          "content": "January 1900"
+        },
+        {
+          "type": "string",
+          "content": "December 1884"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Historical Dates"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Start Date of Colonialism in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Colonialism in Nigeria:</em> Started in August 1861.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific date when colonialism started in Nigeria, as stated in the document.</div><p><strong>Step 1: Locate the information regarding the start of colonialism in Nigeria.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, under the topic \"Advent and Impact of Colonialism\", it states: \"Colonialism started in Nigeria in the year <span style='color:var(--orange);font-weight:bold;'>August 1861</span>-\".</p><ul><li><p>Option 1: \"July 1861\" is incorrect; the month is August.</p></li><li><p>Option 2: \"August 1861\" directly matches the date provided in the document.</p></li><li><p>Option 3: \"January 1900\" is incorrect; this is a much later date.</p></li><li><p>Option 4: \"December 1884\" is incorrect; this date is also different.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and specific date, making the correct option easily identifiable.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ August 1861</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "August 1861"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which Nigerian city was the first to be colonized?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Calabar"
+        },
+        {
+          "type": "string",
+          "content": "Badagri"
+        },
+        {
+          "type": "string",
+          "content": "Lagos"
+        },
+        {
+          "type": "string",
+          "content": "Bonny"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonial History", "First Colonized City"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Colonized City in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>First Colonized City:</em> Lagos was the first city in Nigeria to be colonized.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks which city was the first to be colonized in Nigeria, according to the document.</div><p><strong>Step 1: Refer to the section on the Advent and Impact of Colonialism.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, it is stated: \"<span style='color:var(--orange);font-weight:bold;'>Lagos</span> was the first city in Nigeria to be colonised\".</p><ul><li><p>Option 1: \"Calabar\" is incorrect; it's not mentioned as the first.</p></li><li><p>Option 2: \"Badagri\" is incorrect; it was a slave trade town but not the first city colonized.</p></li><li><p>Option 3: \"Lagos\" directly matches the information in the document.</p></li><li><p>Option 4: \"Bonny\" is incorrect; it was also a slave trade town but not the first city colonized.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly names Lagos as the first city to be colonized.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lagos</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lagos"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Before colonialism, what was identified as the major event that occurred in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The establishment of centralized kingdoms."
+        },
+        {
+          "type": "string",
+          "content": "Widespread agricultural revolution."
+        },
+        {
+          "type": "string",
+          "content": "The slave trade."
+        },
+        {
+          "type": "string",
+          "content": "The discovery of oil resources."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pre-colonial History", "Major Events"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Major Event Before Colonialism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Major Pre-Colonial Event:</em> Before colonialism, the slave trade was the major event that occurred in Nigeria.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the major event that characterized Nigeria before the advent of colonialism, according to the document.</div><p><strong>Step 1: Locate the historical context preceding colonialism in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, under the topic \"Advent and Impact of Colonialism\", it states: \"Before colonialism in nigeria, <span style='color:var(--orange);font-weight:bold;'>slave trade</span> was the major event that occurred\".</p><ul><li><p>Option 1: \"The establishment of centralized kingdoms.\" is not mentioned as the *major* event preceding colonialism, though such kingdoms existed.</p></li><li><p>Option 2: \"Widespread agricultural revolution.\" is not mentioned as the major event.</p></li><li><p>Option 3: \"The slave trade.\" directly matches the information in the document.</p></li><li><p>Option 4: \"The discovery of oil resources.\" happened much later in Nigeria's history.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly identifies the slave trade as the major event prior to colonialism.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The slave trade.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The slave trade."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Who were the primary transporters of Nigerians during the era of slave trade, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The British"
+        },
+        {
+          "type": "string",
+          "content": "The Portuguese"
+        },
+        {
+          "type": "string",
+          "content": "The French"
+        },
+        {
+          "type": "string",
+          "content": "The Dutch"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slave Trade", "Transporters"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transporters During Slave Trade</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Slave Transporters:</em> The document states the Portuguese were the people who transported Nigerians during the era of slave trade.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the group responsible for transporting Nigerians during the slave trade era, as stated in the document.</div><p><strong>Step 1: Find the relevant information in the section on the Advent and Impact of Colonialism.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, it is noted: \"The people who transported Nigerians during the era of slave trade was the <span style='color:var(--orange);font-weight:bold;'>Portugese</span>\".</p><ul><li><p>Option 1: \"The British\" is incorrect.</p></li><li><p>Option 2: \"The Portuguese\" directly matches the information in the document.</p></li><li><p>Option 3: \"The French\" is incorrect.</p></li><li><p>Option 4: \"The Dutch\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly names the Portuguese as the transporters during the slave trade era.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Portuguese</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Portuguese"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "According to the document, what was the underlying reason for bringing religion during the slave trade/colonial era?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To promote cultural exchange and mutual understanding."
+        },
+        {
+          "type": "string",
+          "content": "To provide education and healthcare services to the local population."
+        },
+        {
+          "type": "string",
+          "content": "To subjugate the mind of the people, so they wouldn't rebel."
+        },
+        {
+          "type": "string",
+          "content": "To establish a common moral framework for trade."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Introduction of Religion"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reason for Introducing Religion During Colonialism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Purpose of Colonial Religion:</em> To subjugate the mind of the people, so they wouldn't rebel.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the stated reason behind the introduction of religion during the colonial era, as presented in the document.</div><p><strong>Step 1: Locate the discussion on the introduction of religion in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, under the topic \"Advent and Impact of Colonialism\", it states: \"The underlying reason for bringing Religion during the slave trade era / colonial era was <span style='color:var(--orange);font-weight:bold;'>to Subjugate their mind of the people, So they won't rebel</span>-\".</p><ul><li><p>Option 1: \"To promote cultural exchange and mutual understanding.\" is an idealistic view not supported by the document's stated reason.</p></li><li><p>Option 2: \"To provide education and healthcare services to the local population.\" While some missionaries did provide these, it's not given as the *underlying reason* for bringing religion itself in the document.</p></li><li><p>Option 3: \"To subjugate the mind of the people, so they wouldn't rebel.\" directly matches the reason provided in the document.</p></li><li><p>Option 4: \"To establish a common moral framework for trade.\" is incorrect; the document emphasizes control.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly states the manipulative purpose behind the introduction of religion during this period.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To subjugate the mind of the people, so they wouldn't rebel.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To subjugate the mind of the people, so they wouldn't rebel."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What commodities were transported by the Portuguese/Europeans during the trans-atlantic slave trade, as listed in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Textiles and Spices"
+        },
+        {
+          "type": "string",
+          "content": "Gold and Ivory"
+        },
+        {
+          "type": "string",
+          "content": "Sugar and Tobacco"
+        },
+        {
+          "type": "string",
+          "content": "Rubber and Palm Oil"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Trans-Atlantic Slave Trade", "Commodities"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Commodities in Trans-Atlantic Slave Trade</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Trans-Atlantic Trade Commodities:</em> Gold and Ivory were transported by the Portuguese/Europeans.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific commodities transported by Europeans during the trans-Atlantic slave trade, as listed in the document.</div><p><strong>Step 1: Locate the list of commodities on page 4.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, the document mentions: \"by the Portuguese / Europeans during the trans-atlantic Slave trade ? <span style='color:var(--orange);font-weight:bold;'>Gold, Ivory</span>\".</p><ul><li><p>Option 1: \"Textiles and Spices\" is incorrect; not listed.</p></li><li><p>Option 2: \"Gold and Ivory\" directly matches the commodities listed in the document.</p></li><li><p>Option 3: \"Sugar and Tobacco\" is incorrect; these were often produced with slave labor but not the primary goods taken from Nigeria in this context.</p></li><li><p>Option 4: \"Rubber and Palm Oil\" were later colonial exports, not specific to the slave trade in this context.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly lists Gold and Ivory as the transported commodities.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gold and Ivory</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gold and Ivory"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "When did slavery end, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1884/1885"
+        },
+        {
+          "type": "string",
+          "content": "1900/1901"
+        },
+        {
+          "type": "string",
+          "content": "1806/1807"
+        },
+        {
+          "type": "string",
+          "content": "1861/1862"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slavery", "Historical Dates"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>End of Slavery Date</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>End of Slavery:</em> Slavery ended in 1806/1807.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the date range when slavery ended, according to the document.</div><p><strong>Step 1: Locate the date regarding the end of slavery in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, the document states: \"Slavery ended in <span style='color:var(--orange);font-weight:bold;'>1806/1807</span>\".</p><ul><li><p>Option 1: \"1884/1885\" is incorrect.</p></li><li><p>Option 2: \"1900/1901\" is incorrect.</p></li><li><p>Option 3: \"1806/1807\" directly matches the date provided in the document.</p></li><li><p>Option 4: \"1861/1862\" is incorrect; 1861 is when colonialism started in Nigeria.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and specific date range for the end of slavery.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1806/1807</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1806/1807"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Who became Nigeria's first governor-general in 1960?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Sir Abubakar Tafawa Balewa"
+        },
+        {
+          "type": "string",
+          "content": "Chief Obafemi Awolowo"
+        },
+        {
+          "type": "string",
+          "content": "Dr. Nnamdi Azikiwe"
+        },
+        {
+          "type": "string",
+          "content": "Alhaji Ahmadu Bello"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Independence", "First Governor-General"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Governor-General of Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>First Governor-General:</em> Nnamdi Azikiwe became the first governor-general in 1960 after independence.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the individual who became Nigeria's first governor-general in 1960, according to the document.</div><p><strong>Step 1: Locate the information about the first governor-general.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Anandi azikiwe</span> became the first governor -general (1960) after independence.\" (Note: Anandi Azikiwe is a common misspelling of Nnamdi Azikiwe, but within the document's context, this is the intended name).</p><ul><li><p>Option 1: \"Sir Abubakar Tafawa Balewa\" was the first Prime Minister, not Governor-General.</p></li><li><p>Option 2: \"Chief Obafemi Awolowo\" was a prominent political leader but not the first Governor-General.</p></li><li><p>Option 3: \"Dr. Nnamdi Azikiwe\" matches the name given in the document (allowing for the likely misspelling).</p></li><li><p>Option 4: \"Alhaji Ahmadu Bello\" was a prominent political leader but not the first Governor-General.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names Nnamdi Azikiwe (spelled as Anandi Azikiwe) as the first Governor-General post-independence.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dr. Nnamdi Azikiwe</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dr. Nnamdi Azikiwe"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of the following is listed as a major impact of colonialism on Nigeria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Strengthening of indigenous languages."
+        },
+        {
+          "type": "string",
+          "content": "Promotion of diverse cultural practices."
+        },
+        {
+          "type": "string",
+          "content": "Cultural erosion."
+        },
+        {
+          "type": "string",
+          "content": "Development of local governance structures."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Impacts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Major Impacts of Colonialism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Impacts of Colonialism:</em> Cultural erosion and the destruction of native dialects due to the introduction of English.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a major impact of colonialism as stated in the document.</div><p><strong>Step 1: Refer to the section detailing the major impacts of colonialism.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, under \"Major impacts of Colonialism\", two points are listed:</p><ol><li>\"<span style='color:var(--orange);font-weight:bold;'>Cultural erosion</span>\"</li><li>\"Procluction of English - It destroyed our native dialects\"</li></ol><ul><li><p>Option 1: \"Strengthening of indigenous languages.\" is incorrect, as the document states English \"destroyed our native dialects.\"</p></li><li><p>Option 2: \"Promotion of diverse cultural practices.\" is incorrect; \"Cultural erosion\" suggests the opposite.</p></li><li><p>Option 3: \"Cultural erosion.\" directly matches the first impact listed in the document.</p></li><li><p>Option 4: \"Development of local governance structures.\" is not listed as a *major impact* in this context, and often colonial rule undermined existing structures.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly lists cultural erosion as a major impact, making this option a direct match.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cultural erosion.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural erosion."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "How does the document define 'Trade'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The production of goods and services for income."
+        },
+        {
+          "type": "string",
+          "content": "A system of taxation and revenue collection."
+        },
+        {
+          "type": "string",
+          "content": "The voluntary exchange of goods and services."
+        },
+        {
+          "type": "string",
+          "content": "The regulation of market prices by the government."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Trade", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Trade</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Trade:</em> Voluntary exchange of goods and services; the business of buying and selling commodities between individuals, countries, states, or communities.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Trade' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Trade' on page 5.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 5</span>, the document defines: \"Trade: can be defined as <span style='color:var(--orange);font-weight:bold;'>voluntary exchange of goods and services</span>. It is the bus-iness of buying and selling Commodities between individuals, countries, Statesor Communities -\".</p><ul><li><p>Option 1: \"The production of goods and services for income.\" describes economic activities, not trade itself.</p></li><li><p>Option 2: \"A system of taxation and revenue collection.\" describes fiscal policy.</p></li><li><p>Option 3: \"The voluntary exchange of goods and services.\" directly matches the core of the definition in the document.</p></li><li><p>Option 4: \"The regulation of market prices by the government.\" describes market regulation, not trade.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and standard definition of trade, which is accurately captured by the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The voluntary exchange of goods and services.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The voluntary exchange of goods and services."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What are 'Economic Activities' defined as in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Government policies for national development."
+        },
+        {
+          "type": "string",
+          "content": "All human activities undertaken to produce goods and services for income and wealth creation."
+        },
+        {
+          "type": "string",
+          "content": "The exchange of goods and services between communities."
+        },
+        {
+          "type": "string",
+          "content": "The financial transactions occurring in a stock market."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Economic Activities", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Economic Activities</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Economic Activities:</em> All human activities undertaken to produce goods and services for income and wealth creation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Economic Activities' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Economic Activities' on page 5.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 5</span>, the document defines: \"Economic Activities: These are <span style='color:var(--orange);font-weight:bold;'>'all human activities undertaken to produce goods and Services for income and wearth creation</span>'\".</p><ul><li><p>Option 1: \"Government policies for national development.\" is incorrect; these are outcomes of, or frameworks for, economic activities.</p></li><li><p>Option 2: \"All human activities undertaken to produce goods and services for income and wealth creation.\" directly matches the definition in the document.</p></li><li><p>Option 3: \"The exchange of goods and services between communities.\" defines trade, which is a type of economic activity, but not the overall definition.</p></li><li><p>Option 4: \"The financial transactions occurring in a stock market.\" is a specific type of economic activity, not the general definition.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and comprehensive definition, which is fully captured by the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ All human activities undertaken to produce goods and services for income and wealth creation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All human activities undertaken to produce goods and services for income and wealth creation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "How were market systems in pre-colonial Nigeria described in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Basic and unorganized."
+        },
+        {
+          "type": "string",
+          "content": "Highly sophisticated and well-organised."
+        },
+        {
+          "type": "string",
+          "content": "Controlled primarily by foreign traders."
+        },
+        {
+          "type": "string",
+          "content": "Focused solely on subsistence farming."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pre-colonial Nigeria", "Market Systems"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pre-Colonial Market Systems</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Pre-colonial Market Systems:</em> Described as highly sophisticated and well-organised.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the description of market systems in pre-colonial Nigeria as given in the document.</div><p><strong>Step 1: Locate the description of market systems in pre-colonial Nigeria.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 6</span>, the document states: \"Buying and selling with the market systems in pre-colonial Nigeria were <span style='color:var(--orange);font-weight:bold;'>highly sophisticated and well Organised</span>.\"</p><ul><li><p>Option 1: \"Basic and unorganized.\" is incorrect and directly contradicts the document.</p></li><li><p>Option 2: \"Highly sophisticated and well-organised.\" directly matches the description in the document.</p></li><li><p>Option 3: \"Controlled primarily by foreign traders.\" is not stated in the document for pre-colonial systems.</p></li><li><p>Option 4: \"Focused solely on subsistence farming.\" is too narrow and incorrect; these were systems for trade.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear qualitative description of the market systems, making the correct option evident.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Highly sophisticated and well-organised.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Highly sophisticated and well-organised."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "According to Olusanya (2020), what is 'nation building'?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The process of establishing a national military force."
+        },
+        {
+          "type": "string",
+          "content": "The deliberate effort to bring together people or groups with diverse backgrounds, fostering a sense of common belonging and shared identity."
+        },
+        {
+          "type": "string",
+          "content": "The economic development strategy for a country."
+        },
+        {
+          "type": "string",
+          "content": "The creation of a national constitution and legal framework."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Olusanya's Definition of Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Nation Building (Olusanya, 2020):</em> The deliberate effort to bring together people or groups with diverse backgrounds, fostering a sense of common belonging and shared identity.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for Olusanya's (2020) definition of 'nation building' as stated in the document.</div><p><strong>Step 1: Locate Olusanya's definition of nation building.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 7</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Olusanya (2020) says that nation building is the deliberate effort to bring together people or groups with diverse backgrounds. Fostering a sense of common belonging and Shared identity</span>\".</p><ul><li><p>Option 1: \"The process of establishing a national military force.\" is incorrect; this is a component of statehood, not the definition of nation-building.</p></li><li><p>Option 2: \"The deliberate effort to bring together people or groups with diverse backgrounds, fostering a sense of common belonging and shared identity.\" directly matches Olusanya's definition.</p></li><li><p>Option 3: \"The economic development strategy for a country.\" is incorrect; economic development is part of nation-building but not the definition itself.</p></li><li><p>Option 4: \"The creation of a national constitution and legal framework.\" is incorrect; this is part of state-building.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and attributed definition, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The deliberate effort to bring together people or groups with diverse backgrounds, fostering a sense of common belonging and shared identity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The deliberate effort to bring together people or groups with diverse backgrounds, fostering a sense of common belonging and shared identity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "According to Ali Faznu (1992), 'nation building' is described as what type of work?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Economic stabilization work."
+        },
+        {
+          "type": "string",
+          "content": "Diplomatic engagement work."
+        },
+        {
+          "type": "string",
+          "content": "Construction work that turns several fragile independent states into a more secured and integrated nation."
+        },
+        {
+          "type": "string",
+          "content": "Cultural preservation work."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ali Faznu's Definition of Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Nation Building (Ali Faznu, 1992):</em> The construction work that turns several fragile independent states into a more secured and integrated nation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for Ali Faznu's (1992) definition of 'nation building' as stated in the document.</div><p><strong>Step 1: Locate Ali Faznu's definition of nation building.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 7</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Ali Faznu (1992); nation building is the construction work that turn several fragile independent state into a more secured and integrated nations</span>\".</p><ul><li><p>Option 1: \"Economic stabilization work.\" is incorrect; while important, it's not Ali Faznu's definition of nation building itself.</p></li><li><p>Option 2: \"Diplomatic engagement work.\" is incorrect; this refers to international relations.</p></li><li><p>Option 3: \"Construction work that turns several fragile independent states into a more secured and integrated nation.\" directly matches Ali Faznu's definition.</p></li><li><p>Option 4: \"Cultural preservation work.\" is incorrect; this is a different aspect of national identity.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear, attributed definition, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Construction work that turns several fragile independent states into a more secured and integrated nation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Construction work that turns several fragile independent states into a more secured and integrated nation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which of the following is listed as a process of nation building in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Encouraging regional autonomy."
+        },
+        {
+          "type": "string",
+          "content": "Building political institutions."
+        },
+        {
+          "type": "string",
+          "content": "Implementing strict border controls."
+        },
+        {
+          "type": "string",
+          "content": "Promoting a single official language."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Processes of Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Processes of Nation Building:</em> Include building political institutions, building a national identity, economic development and redistribution, and civic participation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify one of the listed processes of nation building from the document.</div><p><strong>Step 1: Review the enumerated processes of nation building in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Processes of Nation building\", the following are listed:</p><ol><li>\"<span style='color:var(--orange);font-weight:bold;'>Building political institution</span>\"</li><li>\"Build a national identity\"</li><li>\"Economic Development and Redistribution\"</li><li>\"Civic participation\"</li></ol><ul><li><p>Option 1: \"Encouraging regional autonomy.\" is not listed as a process of *nation building* in the document.</p></li><li><p>Option 2: \"Building political institutions.\" directly matches the first process listed in the document.</p></li><li><p>Option 3: \"Implementing strict border controls.\" is unrelated to the listed processes of nation building.</p></li><li><p>Option 4: \"Promoting a single official language.\" is not explicitly listed as a process, although language can be part of national identity.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear list of processes, making the correct option a direct extraction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Building political institutions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Building political institutions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "What colonial administrative policy is mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Indirect rule."
+        },
+        {
+          "type": "string",
+          "content": "Direct assimilation."
+        },
+        {
+          "type": "string",
+          "content": "Divide and Rule tactics."
+        },
+        {
+          "type": "string",
+          "content": "Economic partnerships."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonial Policies", "Administration"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Colonial Administrative Policy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Colonial Administrative Policy:</em> Divide and Rule tactics were used for exploitation and creation of new structures.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a colonial administrative policy mentioned in the document.</div><p><strong>Step 1: Locate the section on colonial administrative policies.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Two colonial administrative policies\", it states: \"<span style='color:var(--orange);font-weight:bold;'>Divide and Rule tactics</span> as the exploitation and creation of new\".</p><ul><li><p>Option 1: \"Indirect rule.\" is a known colonial policy, but not the one explicitly mentioned in this specific section.</p></li><li><p>Option 2: \"Direct assimilation.\" is also a known policy, but not mentioned here.</p></li><li><p>Option 3: \"Divide and Rule tactics.\" directly matches the policy listed in the document.</p></li><li><p>Option 4: \"Economic partnerships.\" is incorrect; colonial policies were often extractive, not partnership-based.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names \"Divide and Rule tactics\" as a colonial administrative policy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Divide and Rule tactics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Divide and Rule tactics."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "What is identified as a colonial economic impact in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Promotion of diversified local industries."
+        },
+        {
+          "type": "string",
+          "content": "Establishment of robust indigenous banking systems."
+        },
+        {
+          "type": "string",
+          "content": "Economic exploitation and dependency."
+        },
+        {
+          "type": "string",
+          "content": "Equitable distribution of resources among regions."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Economic Impacts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Colonial Economic Impacts</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Colonial Economic Impacts:</em> Economic exploitation and dependency, resource expansion, and cash crop economy.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a colonial economic impact as stated in the document.</div><p><strong>Step 1: Refer to the section on colonial economic impacts.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Two colonial administrative policies\" (which also includes economic points), it states: \"- <span style='color:var(--orange);font-weight:bold;'>Economic exploitation and dependency</span> Res-ource expansion anal cash crop economy.\"</p><ul><li><p>Option 1: \"Promotion of diversified local industries.\" is incorrect and contrary to the notion of exploitation.</p></li><li><p>Option 2: \"Establishment of robust indigenous banking systems.\" is not mentioned as an impact, and colonial systems often supplanted indigenous ones.</p></li><li><p>Option 3: \"Economic exploitation and dependency.\" directly matches the impact listed in the document.</p></li><li><p>Option 4: \"Equitable distribution of resources among regions.\" is incorrect and contradicts the idea of exploitation.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly states \"Economic exploitation and dependency\" as a colonial economic impact.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Economic exploitation and dependency.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic exploitation and dependency."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which of the following is listed as a challenge to Nigeria's nation building in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Abundant natural resources."
+        },
+        {
+          "type": "string",
+          "content": "High literacy rates."
+        },
+        {
+          "type": "string",
+          "content": "Ethnic diversity."
+        },
+        {
+          "type": "string",
+          "content": "Strong political institutions."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Challenges"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Challenges to Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Challenges to Nation Building:</em> Ethnic diversity, political leadership and corruption, and policies of marginalization and exclusion.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify one of the challenges to Nigeria's nation building as listed in the document.</div><p><strong>Step 1: Refer to the list of challenges to nation building.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Challenges/Issues\", the first point is: \"<span style='color:var(--orange);font-weight:bold;'>Ethnic diversity</span>\".</p><ul><li><p>Option 1: \"Abundant natural resources.\" is generally an asset, not a challenge, although mismanagement can be.</p></li><li><p>Option 2: \"High literacy rates.\" would typically be an advantage, not a challenge.</p></li><li><p>Option 3: \"Ethnic diversity.\" directly matches one of the listed challenges.</p></li><li><p>Option 4: \"Strong political institutions.\" would be a solution or an asset, not a challenge.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly identifies ethnic diversity as a challenge to nation building.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ethnic diversity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethnic diversity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "What did Yakubu Gowon declare after the Nigerian Civil War?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A new federal constitution."
+        },
+        {
+          "type": "string",
+          "content": "Immediate national elections."
+        },
+        {
+          "type": "string",
+          "content": "\"No Victor, No vanquished\"."
+        },
+        {
+          "type": "string",
+          "content": "A period of national austerity."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Civil War", "Post-War Declaration"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gowon's Post-Civil War Declaration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Yakubu Gowon's Declaration:</em> After the war, he declared \"No Victor, No vanquished.\"</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about Yakubu Gowon's declaration following the Nigerian Civil War, as stated in the document.</div><p><strong>Step 1: Locate the statement made by Yakubu Gowon after the civil war.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 9</span>, under the topic \"Military Intervention in Nigeria and the Nigeria Civil war\", it states: \"After the war <span style='color:var(--orange);font-weight:bold;'>Yakubu Gowon declared \"No Victor, No vanquished</span>\"\".</p><ul><li><p>Option 1: \"A new federal constitution.\" is incorrect.</p></li><li><p>Option 2: \"Immediate national elections.\" is incorrect.</p></li><li><p>Option 3: \"\"No Victor, No vanquished\"\".\" directly matches Gowon's declaration in the document.</p></li><li><p>Option 4: \"A period of national austerity.\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly quotes Gowon's famous post-war declaration.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ \"No Victor, No vanquished\".</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\"No Victor, No vanquished\"."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "How is 'Law' defined in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A set of moral principles guiding personal conduct."
+        },
+        {
+          "type": "string",
+          "content": "An instrument for social order, social justice, and stability."
+        },
+        {
+          "type": "string",
+          "content": "The customs and traditions passed down through generations."
+        },
+        {
+          "type": "string",
+          "content": "A system of economic regulations and trade agreements."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Law", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Law:</em> An instrument for social order, social justice, and stability.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Law' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Law' on page 10.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Law is an instrument for social order, Social justice and stability</span>.\"</p><ul><li><p>Option 1: \"A set of moral principles guiding personal conduct.\" describes ethics or morality, not necessarily law.</p></li><li><p>Option 2: \"An instrument for social order, social justice, and stability.\" directly matches the definition in the document.</p></li><li><p>Option 3: \"The customs and traditions passed down through generations.\" describes customary law, but not the general definition of law.</p></li><li><p>Option 4: \"A system of economic regulations and trade agreements.\" is too specific and does not cover the full scope of law.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and functional definition of law, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An instrument for social order, social justice, and stability.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An instrument for social order, social justice, and stability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "What is every nation considered to be, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "A cultural association."
+        },
+        {
+          "type": "string",
+          "content": "A political entity."
+        },
+        {
+          "type": "string",
+          "content": "An economic zone."
+        },
+        {
+          "type": "string",
+          "content": "A geographical region."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation", "Political Science"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of a Nation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Nation:</em> Every nation is a political entity.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks what every nation is considered to be, according to the document.</div><p><strong>Step 1: Locate the statement about the nature of a nation on page 10.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, after defining law, it states: \"<span style='color:var(--orange);font-weight:bold;'>Every nation is a political entity</span>\".</p><ul><li><p>Option 1: \"A cultural association.\" is incorrect; a nation can have cultural aspects, but this is not its defining characteristic as stated.</p></li><li><p>Option 2: \"A political entity.\" directly matches the statement in the document.</p></li><li><p>Option 3: \"An economic zone.\" is incorrect; while nations have economies, this is not their primary definition.</p></li><li><p>Option 4: \"A geographical region.\" is incorrect; while nations occupy regions, their essence is political.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a direct and explicit classification of a nation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A political entity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A political entity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "What does 'Social justice' imply, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "That all people should have equal opportunities for wealth creation."
+        },
+        {
+          "type": "string",
+          "content": "That people all over the world should be treated equally with available resources."
+        },
+        {
+          "type": "string",
+          "content": "That legal systems should prioritize the needs of the disadvantaged."
+        },
+        {
+          "type": "string",
+          "content": "That societies must achieve absolute economic equality among citizens."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Justice", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Implication of Social Justice</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Social Justice:</em> Implies that people all over the world should be treated equally with available resources.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the implication of 'Social justice' as defined in the document.</div><p><strong>Step 1: Locate the definition of 'Social justice' on page 10.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Social justice implies that people all Over the world should be treated equally. with available resources</span>\".</p><ul><li><p>Option 1: \"That all people should have equal opportunities for wealth creation.\" is related but not the exact wording or scope provided.</p></li><li><p>Option 2: \"That people all over the world should be treated equally with available resources.\" directly matches the implication given in the document.</p></li><li><p>Option 3: \"That legal systems should prioritize the needs of the disadvantaged.\" is a specific aspect of social justice, not the overarching implication stated.</p></li><li><p>Option 4: \"That societies must achieve absolute economic equality among citizens.\" is a more extreme interpretation and not specified by the document.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and explicit statement regarding what social justice implies.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ That people all over the world should be treated equally with available resources.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "That people all over the world should be treated equally with available resources."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "What are 'Fundamental human rights' defined as in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Privileges granted by government decree."
+        },
+        {
+          "type": "string",
+          "content": "Rights that are earned through civic participation."
+        },
+        {
+          "type": "string",
+          "content": "Rights that are inalienable, held by an individual based on their existence as a human."
+        },
+        {
+          "type": "string",
+          "content": "Legal protections specific to certain cultural groups."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Human Rights", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Fundamental Human Rights</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Fundamental Human Rights:</em> Rights that are inalienable, held by an individual based on their existence as a human.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Fundamental human rights' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Fundamental human rights' on page 10.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Fundamental human rights are rights that are inalienable - An individual has them based their existence as a human</span>.\"</p><ul><li><p>Option 1: \"Privileges granted by government decree.\" is incorrect; rights are inherent, not granted.</p></li><li><p>Option 2: \"Rights that are earned through civic participation.\" is incorrect; fundamental rights are not contingent on participation.</p></li><li><p>Option 3: \"Rights that are inalienable, held by an individual based on their existence as a human.\" directly matches the definition in the document.</p></li><li><p>Option 4: \"Legal protections specific to certain cultural groups.\" is incorrect; fundamental rights are universal to all humans.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and universally accepted definition of fundamental human rights, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Rights that are inalienable, held by an individual based on their existence as a human.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rights that are inalienable, held by an individual based on their existence as a human."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which of the following is listed as a core/fundamental human right in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Right to education."
+        },
+        {
+          "type": "string",
+          "content": "Right to property ownership."
+        },
+        {
+          "type": "string",
+          "content": "Right to employment."
+        },
+        {
+          "type": "string",
+          "content": "Right to life."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Human Rights", "Examples"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Core Fundamental Human Right</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Core Human Right:</em> The document lists the right to life as a core/fundamental human right.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify one of the fundamental human rights explicitly listed as core in the document.</div><p><strong>Step 1: Refer to the examples of fundamental human rights on page 10.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the document lists: \"1 <span style='color:var(--orange);font-weight:bold;'>Right to life</span> - it is the core/fundamental of human right.\"</p><ul><li><p>Option 1: \"Right to education.\" is a human right but not listed as the *core/fundamental* one here.</p></li><li><p>Option 2: \"Right to property ownership.\" is a human right but not listed as the *core/fundamental* one here.</p></li><li><p>Option 3: \"Right to employment.\" is a human right but not listed as the *core/fundamental* one here.</p></li><li><p>Option 4: \"Right to life.\" directly matches the core fundamental right mentioned in the document.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly identifies the right to life as the core/fundamental human right.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Right to life.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Right to life."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "How is 'Public law' defined in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Law dealing with relationships between private citizens."
+        },
+        {
+          "type": "string",
+          "content": "Law between the State and her Citizens."
+        },
+        {
+          "type": "string",
+          "content": "Law governing international relations and treaties."
+        },
+        {
+          "type": "string",
+          "content": "Law related to commercial transactions and contracts."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Law", "Public Law Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Public Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Public Law:</em> The law between the State and her Citizens.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Public law' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Public law' on page 10.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the document states: \"* <span style='color:var(--orange);font-weight:bold;'>Pilblic law; the law been the State and her Citizens</span>\".</p><ul><li><p>Option 1: \"Law dealing with relationships between private citizens.\" describes private law.</p></li><li><p>Option 2: \"Law between the State and her Citizens.\" directly matches the definition in the document.</p></li><li><p>Option 3: \"Law governing international relations and treaties.\" describes international law.</p></li><li><p>Option 4: \"Law related to commercial transactions and contracts.\" describes specific areas of private law.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and concise definition, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Law between the State and her Citizens.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law between the State and her Citizens."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "How is 'Private law' defined in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Law dealing with specified relationships between citizens."
+        },
+        {
+          "type": "string",
+          "content": "Law concerning the rights of the State against individuals."
+        },
+        {
+          "type": "string",
+          "content": "Law related to national security and defense."
+        },
+        {
+          "type": "string",
+          "content": "Law establishing the structure of government bodies."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Law", "Private Law Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Private Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Private Law:</em> Deals with specified relationships between citizens, such as family law, law of tort, law of contract, etc.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Private law' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Private law' on page 11.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 11</span>, the document states: \"* <span style='color:var(--orange);font-weight:bold;'>Private; it deals wout specified relationship between Citizens og family law, Law of fort, Law of contract etc</span>. it is at the horizontal level\".</p><ul><li><p>Option 1: \"Law dealing with specified relationships between citizens.\" directly matches the definition in the document.</p></li><li><p>Option 2: \"Law concerning the rights of the State against individuals.\" describes public law.</p></li><li><p>Option 3: \"Law related to national security and defense.\" is incorrect and falls under public law.</p></li><li><p>Option 4: \"Law establishing the structure of government bodies.\" describes constitutional or administrative law, which are public law branches.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear definition of private law by listing the types of relationships it governs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Law dealing with specified relationships between citizens.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law dealing with specified relationships between citizens."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which of the following is listed as a type of Public Law in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Contract law"
+        },
+        {
+          "type": "string",
+          "content": "Law of Tort"
+        },
+        {
+          "type": "string",
+          "content": "Constitutional law"
+        },
+        {
+          "type": "string",
+          "content": "Property law"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Law", "Public Law"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Public Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Public Law Types:</em> Constitutional, Administrative, Criminal.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a type of Public Law listed in the document.</div><p><strong>Step 1: Refer to the classification of Nigerian law on page 11.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 11</span>, under \"classification of Nigeria law\", \"public law\" includes: \"- <span style='color:var(--orange);font-weight:bold;'>Constitutional</span> -Administratule -criminal\".</p><ul><li><p>Option 1: \"Contract law\" is listed under private law.</p></li><li><p>Option 2: \"Law of Tort\" is listed under private law.</p></li><li><p>Option 3: \"Constitutional law\" is directly listed under public law.</p></li><li><p>Option 4: \"Property law\" is listed under private law.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear categorization of different types of law, making the selection straightforward.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Constitutional law.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Constitutional law"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Which of the following is listed as a type of Private Law in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Administrative law"
+        },
+        {
+          "type": "string",
+          "content": "Criminal law"
+        },
+        {
+          "type": "string",
+          "content": "Family law"
+        },
+        {
+          "type": "string",
+          "content": "Constitutional law"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Law", "Private Law"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Private Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Private Law Types:</em> Contract, Law of Tort, Family law, Property law.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a type of Private Law listed in the document.</div><p><strong>Step 1: Refer to the classification of Nigerian law on page 11.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 11</span>, under \"classification of Nigeria law\", \"private law\" includes: \"-contract -Law of fort -<span style='color:var(--orange);font-weight:bold;'>Family law</span> -Property law\".</p><ul><li><p>Option 1: \"Administrative law\" is listed under public law.</p></li><li><p>Option 2: \"Criminal law\" is listed under public law.</p></li><li><p>Option 3: \"Family law\" is directly listed under private law.</p></li><li><p>Option 4: \"Constitutional law\" is listed under public law.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear categorization of different types of law, making the selection straightforward.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Family law.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Family law"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "In what year did Nigeria come into existence due to the amalgamation of the Northern and Southern Protectorates?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1900"
+        },
+        {
+          "type": "string",
+          "content": "1930"
+        },
+        {
+          "type": "string",
+          "content": "1914"
+        },
+        {
+          "type": "string",
+          "content": "1960"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian History", "Amalgamation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigeria's Amalgamation Year</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Amalgamation of Nigeria:</em> Nigeria came into existence in 1914 after the amalgamation of the Northern and Southern Protectorates.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the year Nigeria came into existence due to the amalgamation of the Northern and Southern Protectorates, according to the document.</div><p><strong>Step 1: Locate the date of Nigeria's amalgamation.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the document states: \"Nigeria came into existence in <span style='color:var(--orange);font-weight:bold;'>1914</span> ofer the amalgamation of the Northern and Southern protectorates\".</p><ul><li><p>Option 1: \"1900\" is incorrect.</p></li><li><p>Option 2: \"1930\" is incorrect.</p></li><li><p>Option 3: \"1914\" directly matches the year provided in the document.</p></li><li><p>Option 4: \"1960\" is incorrect; this is the year of independence.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly states 1914 as the year of Nigeria's creation through amalgamation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1914</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1914"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "In what year did Nigeria gain independence and become a republic?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1950 and 1953"
+        },
+        {
+          "type": "string",
+          "content": "1960 and 1963"
+        },
+        {
+          "type": "string",
+          "content": "1970 and 1973"
+        },
+        {
+          "type": "string",
+          "content": "1980 and 1983"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian History", "Independence and Republic"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigeria's Independence and Republic Status</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Independence and Republic:</em> Nigeria gained independence in 1960 and became a republic in 1963.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the years Nigeria gained independence and became a republic, as stated in the document.</div><p><strong>Step 1: Locate the dates for independence and becoming a republic.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the document states: \"Nigeria gained independence in <span style='color:var(--orange);font-weight:bold;'>1960</span> and became a republic in <span style='color:var(--orange);font-weight:bold;'>1963</span>.\"</p><ul><li><p>Option 1: \"1950 and 1953\" is incorrect.</p></li><li><p>Option 2: \"1960 and 1963\" directly matches the dates provided in the document.</p></li><li><p>Option 3: \"1970 and 1973\" is incorrect.</p></li><li><p>Option 4: \"1980 and 1983\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly specifies the years for both events.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1960 and 1963</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1960 and 1963"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "How many regions was Nigerian territory divided into at independence?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Four"
+        },
+        {
+          "type": "string",
+          "content": "Six"
+        },
+        {
+          "type": "string",
+          "content": "Two"
+        },
+        {
+          "type": "string",
+          "content": "Three"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Independence", "Regional Structure"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Regions at Independence</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Nigerian Regions at Independence:</em> Divided into 3 regions: North, East, and West.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the number of regions Nigerian territory was divided into at independence, as stated in the document.</div><p><strong>Step 1: Locate the information regarding regions at independence.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the document states: \"At independence Nigerian territory was diundet into <span style='color:var(--orange);font-weight:bold;'>3; North, east and west</span>\".</p><ul><li><p>Option 1: \"Four\" is incorrect, despite listing four premiers, the document states 3 regions.</p></li><li><p>Option 2: \"Six\" is incorrect.</p></li><li><p>Option 3: \"Two\" is incorrect.</p></li><li><p>Option 4: \"Three\" directly matches the number of regions stated in the document.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly states that Nigeria was divided into three regions at independence.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Three</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Three"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "When was the first military coup d'etat in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "July 1966"
+        },
+        {
+          "type": "string",
+          "content": "January 1966"
+        },
+        {
+          "type": "string",
+          "content": "December 1983"
+        },
+        {
+          "type": "string",
+          "content": "August 1975"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Historical Dates"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Military Coup Date</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>First Military Coup:</em> Occurred in January 1966.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the date of the first military coup d'etat in Nigeria as stated in the document.</div><p><strong>Step 1: Locate the information about the first military coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the document states: \"The first military coup d'etat was in <span style='color:var(--orange);font-weight:bold;'>January 1960</span>\" (Note: there is a typo in the document, it should be 1966, consistent with the sticky note on P13 and general historical knowledge. I will assume 1966 given the context of other coup dates). The sticky note on page 13 also lists \"- 15 January 1966\" as the first military coup.</p><ul><li><p>Option 1: \"July 1966\" refers to the second coup/counter-coup.</p></li><li><p>Option 2: \"January 1966\" is the correct date for the first military coup as implied by the consistent date on page 13.</p></li><li><p>Option 3: \"December 1983\" refers to a much later coup.</p></li><li><p>Option 4: \"August 1975\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: While page 12 has a likely typo (1960), page 13 explicitly lists the \"1st Military Coup: 15 January 1966\", confirming the month and year.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ January 1966</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "January 1966"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Who became the first military political leader after the first military coup in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Colonel Yakubu Gowon"
+        },
+        {
+          "type": "string",
+          "content": "Major-General Muhammadu Buhari"
+        },
+        {
+          "type": "string",
+          "content": "Major Aguiyi Ironsi"
+        },
+        {
+          "type": "string",
+          "content": "General Murtala Mohammed"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military History", "First Military Leader"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Military Political Leader</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>First Military Leader:</em> Major Aguiyi Ironsi became the first military political leader after the first coup.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the individual who became the first military political leader after the first military coup, according to the document.</div><p><strong>Step 1: Locate the information regarding the leader after the first coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the document states: \"which <span style='color:var(--orange);font-weight:bold;'>Mafor Aguiyi Ironsi</span> became the frist military political Leader-\".</p><ul><li><p>Option 1: \"Colonel Yakubu Gowon\" led the second coup.</p></li><li><p>Option 2: \"Major-General Muhammadu Buhari\" led a later coup.</p></li><li><p>Option 3: \"Major Aguiyi Ironsi\" directly matches the information in the document.</p></li><li><p>Option 4: \"General Murtala Mohammed\" led a later coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly names Major Aguiyi Ironsi as the first military political leader post-coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Major Aguiyi Ironsi</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Major Aguiyi Ironsi"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Who led the second coup, which occurred months after the first military coup?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "General Murtala Mohammed"
+        },
+        {
+          "type": "string",
+          "content": "Major Chukwuma Kaduna Nzeogwu"
+        },
+        {
+          "type": "string",
+          "content": "Colonel Yakubu Gowon"
+        },
+        {
+          "type": "string",
+          "content": "General Olusegun Obasanjo"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the Second Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Second Coup Leader:</em> Colonel Yakubu Gowon led the second coup and became both military and political leader.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks who led the second military coup, according to the document.</div><p><strong>Step 1: Locate the information about the second coup and its leader.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the document states: \"→ months steer the first coup. h the second coup voas carried ass following <span style='color:var(--orange);font-weight:bold;'>Colonel Yakuby Gown</span> Loho beame botto military and political Leader-\". (Note: Yakuby Gown is a misspelling of Yakubu Gowon, but it's clear who is referred to).</p><ul><li><p>Option 1: \"General Murtala Mohammed\" led a later coup.</p></li><li><p>Option 2: \"Major Chukwuma Kaduna Nzeogwu\" was one of the leaders of the first coup.</p></li><li><p>Option 3: \"Colonel Yakubu Gowon\" directly matches the information in the document.</p></li><li><p>Option 4: \"General Olusegun Obasanjo\" was involved in later military governments.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly names Colonel Yakubu Gowon as the leader of the second coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Colonel Yakubu Gowon</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Colonel Yakubu Gowon"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Which political party, founded in 1923, is identified as the first political party in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Action Group (AG)"
+        },
+        {
+          "type": "string",
+          "content": "Northern People's Congress (NPC)"
+        },
+        {
+          "type": "string",
+          "content": "Nigerian National Democratic Party (NNDP)"
+        },
+        {
+          "type": "string",
+          "content": "National Council of Nigeria and the Cameroons (NCNC)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "First Political Party"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Political Party in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>First Political Party:</em> The NNDP (1923) by Nnamdi Azikiwe/Herbert Macaulay was the first political party in Nigeria.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the first political party in Nigeria, founded in 1923, as mentioned in the document.</div><p><strong>Step 1: Locate the information about the first political party.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>NNDP (1923)</span> by Nnamdi Azikwe/thi Gert Macaulay woss the 1st Pol-Party in Nig\".</p><ul><li><p>Option 1: \"Action Group (AG)\" was founded later (1951).</p></li><li><p>Option 2: \"Northern People's Congress (NPC)\" is not mentioned as the first party.</p></li><li><p>Option 3: \"Nigerian National Democratic Party (NNDP)\" directly matches the information in the document.</p></li><li><p>Option 4: \"National Council of Nigeria and the Cameroons (NCNC)\" was founded later (1944).</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly identifies the NNDP (1923) as the first political party.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nigerian National Democratic Party (NNDP)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nigerian National Democratic Party (NNDP)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Who were the leaders of the 1st Military Coup on 15 January 1966?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Colonel Yakubu Gowon & Danjuma"
+        },
+        {
+          "type": "string",
+          "content": "Majors Nzeogwu & Ifeajuna"
+        },
+        {
+          "type": "string",
+          "content": "Brigadier Gen. Murtala M. & Olusegun"
+        },
+        {
+          "type": "string",
+          "content": "General Muhammadu Buhari"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leaders of the 1st Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>1st Military Coup Leaders:</em> Majors Nzeogwu & Ifeajuna led the coup on 15 January 1966.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the leaders of the 1st Military Coup on 15 January 1966, as stated in the document.</div><p><strong>Step 1: Locate the leaders of the 1st military coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the document states: \"* The first military coup in 15 jan 1966 was led by <span style='color:var(--orange);font-weight:bold;'>majors Mizengwu & Ifeajuna</span>\". (Note: \"Mizengwu\" is likely a misspelling of \"Nzeogwu\").</p><ul><li><p>Option 1: \"Colonel Yakubu Gowon & Danjuma\" led the 2nd (counter) coup.</p></li><li><p>Option 2: \"Majors Nzeogwu & Ifeajuna\" (interpreting Mizengwu as Nzeogwu) directly matches the information in the document.</p></li><li><p>Option 3: \"Brigadier Gen. Murtala M. & Olusegun\" led the 3rd coup.</p></li><li><p>Option 4: \"General Muhammadu Buhari\" led the 4th coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names Majors Nzeogwu (Mizengwu) and Ifeajuna as the leaders of the first coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Majors Nzeogwu & Ifeajuna</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Majors Nzeogwu & Ifeajuna"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "Who led the 3rd coup on 29 July 1975?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "General Ibrahim Badamosi Babangida"
+        },
+        {
+          "type": "string",
+          "content": "Brigadier Gen. Murtala M. & Olusegun"
+        },
+        {
+          "type": "string",
+          "content": "Sani Abacha"
+        },
+        {
+          "type": "string",
+          "content": "Colonel Yakubu Gowon"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the 3rd Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>3rd Military Coup Leaders:</em> Brigadier Gen. Murtala M. & Olusegun led the coup on 29 July 1975.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the leaders of the 3rd coup on 29 July 1975, as stated in the document.</div><p><strong>Step 1: Locate the leaders of the 3rd military coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the document states: \"* The third coup in 29 July 1975 was led by <span style='color:var(--orange);font-weight:bold;'>Brigedateer gen-murtula M. & Olusegun</span>\".</p><ul><li><p>Option 1: \"General Ibrahim Badamosi Babangida\" led the 5th coup.</p></li><li><p>Option 2: \"Brigadier Gen. Murtala M. & Olusegun\" directly matches the information in the document.</p></li><li><p>Option 3: \"Sani Abacha\" led the last coup.</p></li><li><p>Option 4: \"Colonel Yakubu Gowon\" led the 2nd coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names Brigadier Gen. Murtala M. and Olusegun as the leaders of the third coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Brigadier Gen. Murtala M. & Olusegun</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brigadier Gen. Murtala M. & Olusegun"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "Who led the 4th coup on 31 December 1983?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Brigadier Gen. Murtala M."
+        },
+        {
+          "type": "string",
+          "content": "General Ibrahim Badamosi Babangida"
+        },
+        {
+          "type": "string",
+          "content": "General Muhammadu Buhari"
+        },
+        {
+          "type": "string",
+          "content": "Sani Abacha"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the 4th Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>4th Military Coup Leader:</em> General Muhammadu Buhari led the coup on 31 December 1983.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the leader of the 4th coup on 31 December 1983, as stated in the document.</div><p><strong>Step 1: Locate the leader of the 4th military coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the document states: \"* The fourth Coup in 31 Dec -ember 1983 was led by <span style='color:var(--orange);font-weight:bold;'>Gen. muhammady Buhari</span>\".</p><ul><li><p>Option 1: \"Brigadier Gen. Murtala M.\" led the 3rd coup.</p></li><li><p>Option 2: \"General Ibrahim Badamosi Babangida\" led the 5th coup.</p></li><li><p>Option 3: \"General Muhammadu Buhari\" directly matches the information in the document.</p></li><li><p>Option 4: \"Sani Abacha\" led the last coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names General Muhammadu Buhari as the leader of the fourth coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ General Muhammadu Buhari</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "General Muhammadu Buhari"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "Who led the 5th coup on 21 August 1985?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Major Aguiyi Ironsi"
+        },
+        {
+          "type": "string",
+          "content": "General Ibrahim Badamosi Babangida"
+        },
+        {
+          "type": "string",
+          "content": "Colonel Yakubu Gowon"
+        },
+        {
+          "type": "string",
+          "content": "General Sani Abacha"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the 5th Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>5th Military Coup Leader:</em> General Ibrahim Badamosi Babangida led the coup on 21 August 1985.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the leader of the 5th coup on 21 August 1985, as stated in the document.</div><p><strong>Step 1: Locate the leader of the 5th military coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the document states: \"* the fifth coup in 21 August 1985 was led by <span style='color:var(--orange);font-weight:bold;'>General Ibrahitun Badames Banagada</span>\". (Note: \"Ibrahitun Badames Banagada\" is a misspelling of Ibrahim Badamosi Babangida).</p><ul><li><p>Option 1: \"Major Aguiyi Ironsi\" was the first military leader.</p></li><li><p>Option 2: \"General Ibrahim Badamosi Babangida\" directly matches the information in the document.</p></li><li><p>Option 3: \"Colonel Yakubu Gowon\" led the second coup.</p></li><li><p>Option 4: \"General Sani Abacha\" led the last coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names General Ibrahim Badamosi Babangida (misspelled) as the leader of the fifth coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ General Ibrahim Badamosi Babangida</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "General Ibrahim Badamosi Babangida"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Who led the last coup on 17 November 1993?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "General Muhammadu Buhari"
+        },
+        {
+          "type": "string",
+          "content": "General Sani Abacha"
+        },
+        {
+          "type": "string",
+          "content": "General Olusegun Obasanjo"
+        },
+        {
+          "type": "string",
+          "content": "General Ibrahim Badamosi Babangida"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the Last Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Last Military Coup Leader:</em> Sani Abacha led the coup on 17 November 1993.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the leader of the last coup on 17 November 1993, as stated in the document.</div><p><strong>Step 1: Locate the leader of the last military coup.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the document states: \"* The last coup in 17 Novembre 1993 was led by <span style='color:var(--orange);font-weight:bold;'>Sani Albacka</span>\". (Note: \"Albacka\" is a misspelling of \"Abacha\").</p><ul><li><p>Option 1: \"General Muhammadu Buhari\" led the 4th coup.</p></li><li><p>Option 2: \"General Sani Abacha\" directly matches the information in the document.</p></li><li><p>Option 3: \"General Olusegun Obasanjo\" was not listed as leading this specific coup.</p></li><li><p>Option 4: \"General Ibrahim Badamosi Babangida\" led the 5th coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly names Sani Abacha (misspelled as Albacka) as the leader of the last coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ General Sani Abacha</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "General Sani Abacha"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "Who was the leader of the NCNC political party?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Obafemi Awolowo"
+        },
+        {
+          "type": "string",
+          "content": "Nnamdi Azikiwe"
+        },
+        {
+          "type": "string",
+          "content": "Herbert Macaulay"
+        },
+        {
+          "type": "string",
+          "content": "Sam Mbakwe"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>NCNC Leader</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>NCNC Leadership:</em> Led by Herbert Macaulay.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the leader of the NCNC political party, according to the document.</div><p><strong>Step 1: Locate the information about NCNC leadership.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 14</span>, in a sticky note, it states: \"ONCNC was led by <span style='color:var(--orange);font-weight:bold;'>Herbert macaulay</span>\".</p><ul><li><p>Option 1: \"Obafemi Awolowo\" led the AG.</p></li><li><p>Option 2: \"Nnamdi Azikiwe\" led the NPP (according to the sticky note on P14, though historically he was associated with NCNC).</p></li><li><p>Option 3: \"Herbert Macaulay\" directly matches the information in the document.</p></li><li><p>Option 4: \"Sam Mbakwe\" led the MPL.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names Herbert Macaulay as the leader of NCNC.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Herbert Macaulay</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Herbert Macaulay"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Who was the leader of the Action Group (AG) political party?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Herbert Macaulay"
+        },
+        {
+          "type": "string",
+          "content": "Obafemi Awolowo"
+        },
+        {
+          "type": "string",
+          "content": "Nnamdi Azikiwe"
+        },
+        {
+          "type": "string",
+          "content": "Sam Mbakwe"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "Leadership"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Action Group (AG) Leader</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>AG Leadership:</em> Led by Obafemi Awolowo.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the leader of the Action Group (AG) political party, according to the document.</div><p><strong>Step 1: Locate the information about AG leadership.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 14</span>, in a sticky note, it states: \"② AG <span style='color:var(--orange);font-weight:bold;'>obajemi Awolowo</span>\".</p><ul><li><p>Option 1: \"Herbert Macaulay\" led the NCNC.</p></li><li><p>Option 2: \"Obafemi Awolowo\" directly matches the information in the document.</p></li><li><p>Option 3: \"Nnamdi Azikiwe\" led the NPP (according to the document).</p></li><li><p>Option 4: \"Sam Mbakwe\" led the MPL.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly names Obafemi Awolowo as the leader of AG.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Obafemi Awolowo</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Obafemi Awolowo"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "Who created the Social Democratic Party (SDP)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Murtala Mohammed"
+        },
+        {
+          "type": "string",
+          "content": "Ibrahim Babangida"
+        },
+        {
+          "type": "string",
+          "content": "Olusegun Obasanjo"
+        },
+        {
+          "type": "string",
+          "content": "Sani Abacha"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "Founders"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>SDP Creator</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>SDP Creator:</em> SDP was created by Babangida.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify who created the Social Democratic Party (SDP), according to the document.</div><p><strong>Step 1: Locate the information about the creation of SDP.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 14</span>, in a sticky note, it states: \"⑤ SDP created by <span style='color:var(--orange);font-weight:bold;'>babangida</span>\".</p><ul><li><p>Option 1: \"Murtala Mohammed\" is incorrect.</p></li><li><p>Option 2: \"Ibrahim Babangida\" (Babangida) directly matches the information in the document.</p></li><li><p>Option 3: \"Olusegun Obasanjo\" is incorrect.</p></li><li><p>Option 4: \"Sani Abacha\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly attributes the creation of SDP to Babangida.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ibrahim Babangida</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ibrahim Babangida"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "What were the dates of the Nigerian Civil War?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1960-1963"
+        },
+        {
+          "type": "string",
+          "content": "1970-1973"
+        },
+        {
+          "type": "string",
+          "content": "1967-1970"
+        },
+        {
+          "type": "string",
+          "content": "1980-1983"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Civil War", "Dates"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dates of Nigerian Civil War</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Nigerian Civil War Dates:</em> 1967-1970.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the dates of the Nigerian Civil War as stated in the document.</div><p><strong>Step 1: Locate the topic of the Nigerian Civil War and its dates.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 15</span>, the topic is clearly marked: \"NIGERIAN CIVIL WAR (<span style='color:var(--orange);font-weight:bold;'>1967-1970</span>)\".</p><ul><li><p>Option 1: \"1960-1963\" is incorrect; 1960 was independence and 1963 was republic status.</p></li><li><p>Option 2: \"1970-1973\" is incorrect.</p></li><li><p>Option 3: \"1967-1970\" directly matches the dates provided in the document.</p></li><li><p>Option 4: \"1980-1983\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly states the start and end years of the Nigerian Civil War.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1967-1970</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1967-1970"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "What was the cause of the Nigerian Civil War, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Economic recession."
+        },
+        {
+          "type": "string",
+          "content": "The amalgamation of the 3 regions created wide tension amongst members of Nigeria."
+        },
+        {
+          "type": "string",
+          "content": "Border disputes with neighboring countries."
+        },
+        {
+          "type": "string",
+          "content": "Religious conflicts across the country."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Civil War", "Causes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cause of Nigerian Civil War</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Civil War Cause:</em> The amalgamation of the 3 regions created wide tension amongst members of Nigeria.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the cause of the Nigerian Civil War as stated in the document.</div><p><strong>Step 1: Locate the cause of the Civil War.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 15</span>, under the topic \"NIGERIAN CIVIL WAR (1967-1970)\", it states: \"<span style='color:var(--orange);font-weight:bold;'>The amalgamation of the 3 region created wide-ten-Sion amongst membersg the then Nigeria</span>, bringing\" (incomplete sentence).</p><ul><li><p>Option 1: \"Economic recession.\" is not mentioned as the cause.</p></li><li><p>Option 2: \"The amalgamation of the 3 regions created wide tension amongst members of Nigeria.\" directly matches the information in the document.</p></li><li><p>Option 3: \"Border disputes with neighboring countries.\" is not mentioned as the cause.</p></li><li><p>Option 4: \"Religious conflicts across the country.\" is not mentioned as the direct cause.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly points to the tensions arising from the amalgamation of regions as the cause.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The amalgamation of the 3 regions created wide tension amongst members of Nigeria.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The amalgamation of the 3 regions created wide tension amongst members of Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "What was the purpose of the 3Rs framework introduced by General Yakubu Gowon's Government?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To centralize military command and control."
+        },
+        {
+          "type": "string",
+          "content": "To implement a new economic development plan."
+        },
+        {
+          "type": "string",
+          "content": "To restore Nigeria into one whole after the Civil War."
+        },
+        {
+          "type": "string",
+          "content": "To establish diplomatic ties with international partners."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "3Rs Framework"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of the 3Rs Framework</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>3Rs Framework Purpose:</em> Adopted to restore Nigeria into one whole after the Civil War.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the purpose of the 3Rs framework introduced by General Yakubu Gowon's Government, as stated in the document.</div><p><strong>Step 1: Locate the purpose of the 3Rs framework.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"THE PROCESS OF RECONSTRUCTION, REHABILITATION AND RE-ORIENTATION\", it states: \"<span style='color:var(--orange);font-weight:bold;'>The 3Rs was a framework adopted to restore Nigeria into one whole</span>. It was intro-duced in January 1970 by General Yakubu Gowon's Government.\"</p><ul><li><p>Option 1: \"To centralize military command and control.\" is incorrect; the 3Rs were societal, not military, focused.</p></li><li><p>Option 2: \"To implement a new economic development plan.\" is incorrect; while economic development might be part of reconstruction, it's not the overarching purpose of the 3Rs.</p></li><li><p>Option 3: \"To restore Nigeria into one whole after the Civil War.\" directly matches the purpose stated in the document.</p></li><li><p>Option 4: \"To establish diplomatic ties with international partners.\" is incorrect; this is a foreign policy objective.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly states the goal of the 3Rs as restoring Nigeria's unity post-conflict.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To restore Nigeria into one whole after the Civil War.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To restore Nigeria into one whole after the Civil War."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "When and by whose government was the 3Rs framework introduced?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "December 1969 by General Murtala Mohammed."
+        },
+        {
+          "type": "string",
+          "content": "January 1970 by General Yakubu Gowon."
+        },
+        {
+          "type": "string",
+          "content": "July 1975 by General Olusegun Obasanjo."
+        },
+        {
+          "type": "string",
+          "content": "August 1985 by General Ibrahim Babangida."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "3Rs Implementation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Introduction of the 3Rs Framework</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>3Rs Introduction:</em> Introduced in January 1970 by General Yakubu Gowon's Government.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the date and the government responsible for introducing the 3Rs framework.</div><p><strong>Step 1: Locate the introduction details of the 3Rs framework.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"THE PROCESS OF RECONSTRUCTION, REHABILITATION AND RE-ORIENTATION\", it states: \"It was intro-duced in <span style='color:var(--orange);font-weight:bold;'>January 1970 by General Yakuby Go100n's Govemment</span>.\" (Note: Yakuby Go100n is a misspelling of Yakubu Gowon).</p><ul><li><p>Option 1: \"December 1969 by General Murtala Mohammed.\" is incorrect.</p></li><li><p>Option 2: \"January 1970 by General Yakubu Gowon.\" directly matches the information in the document.</p></li><li><p>Option 3: \"July 1975 by General Olusegun Obasanjo.\" is incorrect; Olusegun was part of the 3rd coup, but the 3Rs were earlier.</p></li><li><p>Option 4: \"August 1985 by General Ibrahim Babangida.\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly states the month, year, and the leader responsible for introducing the 3Rs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ January 1970 by General Yakubu Gowon.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "January 1970 by General Yakubu Gowon."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "What did 'Reconstruction' (the first R) primarily focus on after the Civil War?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Reintegrating former soldiers into society."
+        },
+        {
+          "type": "string",
+          "content": "Changing people's views towards the ideology of One Nigeria."
+        },
+        {
+          "type": "string",
+          "content": "Rebuilding public places and facilities destroyed during the war."
+        },
+        {
+          "type": "string",
+          "content": "Providing shelter and medicare to affected populations."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "3Rs - Reconstruction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Focus of Reconstruction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Reconstruction Focus:</em> Rebuilding public places and facilities (schools, electricity, hospital, bridges, etc.) destroyed during the civil war.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary focus of 'Reconstruction' (the first R) after the Civil War, as detailed in the document.</div><p><strong>Step 1: Locate the description of Reconstruction.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"Reconstruction\", it states: \"<span style='color:var(--orange);font-weight:bold;'>the first R was focused on refonuilding public places and facilities such as schools, electricity, hospital, bridges etc that were destroy during the Civil war</span>\".</p><ul><li><p>Option 1: \"Reintegrating former soldiers into society.\" was part of Rehabilitation.</p></li><li><p>Option 2: \"Changing people's views towards the ideology of One Nigeria.\" was part of Re-orientation.</p></li><li><p>Option 3: \"Rebuilding public places and facilities destroyed during the war.\" directly matches the focus of Reconstruction.</p></li><li><p>Option 4: \"Providing shelter and medicare to affected populations.\" was part of Rehabilitation.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly defines Reconstruction as being about physical rebuilding.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Rebuilding public places and facilities destroyed during the war.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rebuilding public places and facilities destroyed during the war."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "What did 'Rehabilitation' (the second R) focus on?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Physical infrastructure development."
+        },
+        {
+          "type": "string",
+          "content": "Issues affecting human hearts, providing shelter, medicare, and reintegrating former Biafran soldiers and other Nigerians."
+        },
+        {
+          "type": "string",
+          "content": "Promoting national unity through cultural festivals."
+        },
+        {
+          "type": "string",
+          "content": "Establishing a new federal administrative structure."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "3Rs - Rehabilitation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Focus of Rehabilitation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Rehabilitation Focus:</em> Issues affecting human hearts, providing shelter, medicare, and reintegrating former Biafran soldiers and other Nigerians into the Nigerian Army, Civil Service, and society as free citizens.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the focus of 'Rehabilitation' (the second R), as detailed in the document.</div><p><strong>Step 1: Locate the description of Rehabilitation.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"Rehabilitation\", it states: \"<span style='color:var(--orange);font-weight:bold;'>the Second R, u focused on essues affecting human hearts. the government provided Shelter, medicare etc and reint-egrated former bagfran solche ers & other Nigerians into the Nigerian Army, Civil Service anel Socuty as free citizens</span>\".</p><ul><li><p>Option 1: \"Physical infrastructure development.\" was the focus of Reconstruction.</p></li><li><p>Option 2: \"Issues affecting human hearts, providing shelter, medicare, and reintegrating former Biafran soldiers and other Nigerians.\" directly matches the focus of Rehabilitation.</p></li><li><p>Option 3: \"Promoting national unity through cultural festivals.\" is incorrect; this relates more to re-orientation.</p></li><li><p>Option 4: \"Establishing a new federal administrative structure.\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a detailed description of Rehabilitation's focus on human welfare and reintegration.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Issues affecting human hearts, providing shelter, medicare, and reintegrating former Biafran soldiers and other Nigerians.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Issues affecting human hearts, providing shelter, medicare, and reintegrating former Biafran soldiers and other Nigerians."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "What was the purpose of 'Re-orientation' (the third R) after the Civil War?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "To streamline government bureaucracy."
+        },
+        {
+          "type": "string",
+          "content": "To promote industrial growth and self-sufficiency."
+        },
+        {
+          "type": "string",
+          "content": "To change the view of the people towards the ideology of One Nigeria."
+        },
+        {
+          "type": "string",
+          "content": "To document the history of the Civil War for future generations."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "3Rs - Re-orientation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Re-orientation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Re-orientation Purpose:</em> To change the view of the people towards the ideology of One Nigeria.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the purpose of 'Re-orientation' (the third R) after the Civil War, as detailed in the document.</div><p><strong>Step 1: Locate the description of Re-orientation.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"Re-orientation\", it states: \"<span style='color:var(--orange);font-weight:bold;'>It tried to change the view of the people towards the Ideology of One Nigeria</span>\".</p><ul><li><p>Option 1: \"To streamline government bureaucracy.\" is incorrect and unrelated to re-orientation's social aim.</p></li><li><p>Option 2: \"To promote industrial growth and self-sufficiency.\" relates to economic policy, not re-orientation.</p></li><li><p>Option 3: \"To change the view of the people towards the ideology of One Nigeria.\" directly matches the purpose of Re-orientation.</p></li><li><p>Option 4: \"To document the history of the Civil War for future generations.\" is incorrect; this is a historical task.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly links Re-orientation to fostering national unity and a shared ideology.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To change the view of the people towards the ideology of One Nigeria.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To change the view of the people towards the ideology of One Nigeria."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "When was the National Youth Service Corps (NYSC) introduced as part of the Re-orientation efforts?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1960"
+        },
+        {
+          "type": "string",
+          "content": "1973"
+        },
+        {
+          "type": "string",
+          "content": "1985"
+        },
+        {
+          "type": "string",
+          "content": "1993"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "NYSC Introduction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>NYSC Introduction Date</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>NYSC Introduction:</em> Introduced in 1973 as part of Re-orientation.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the year NYSC was introduced as part of the Re-orientation efforts.</div><p><strong>Step 1: Locate the introduction date of NYSC in the document.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"Re-orientation\", it states: \"flence the introduction of <span style='color:var(--orange);font-weight:bold;'>NYSC in 1973</span>, the federal character principle, and National Orientation Agency (NOA).\".</p><ul><li><p>Option 1: \"1960\" was the year of independence.</p></li><li><p>Option 2: \"1973\" directly matches the year provided in the document.</p></li><li><p>Option 3: \"1985\" refers to a later coup.</p></li><li><p>Option 4: \"1993\" refers to the last coup.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly links the introduction of NYSC to the year 1973.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1973</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1973"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "How are 'Norms' defined in the context of Nigerian society, according to the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Abstract ideas on what is considered right/wrong."
+        },
+        {
+          "type": "string",
+          "content": "The customs and traditions specific to an ethnic group."
+        },
+        {
+          "type": "string",
+          "content": "Specific rules stating how people behave in a society."
+        },
+        {
+          "type": "string",
+          "content": "Official laws enacted by the government."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Norms", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Norms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Norms:</em> Specific rules stating how people behave in a society.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Norms' in the context of Nigerian society, as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Norms' on page 17.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Norm are specifel nilles stating how people behaude in a society</span>. It may be prescriptive (LE econrarges positive behallour or proscriptive (Calot being in support of negative behailions)\".</p><ul><li><p>Option 1: \"Abstract ideas on what is considered right/wrong.\" defines values.</p></li><li><p>Option 2: \"The customs and traditions specific to an ethnic group.\" is a partial aspect, but not the direct definition.</p></li><li><p>Option 3: \"Specific rules stating how people behave in a society.\" directly matches the definition in the document.</p></li><li><p>Option 4: \"Official laws enacted by the government.\" describes laws, which are a type of norm, but not the general definition of norms.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a clear and direct definition of norms, which is accurately reflected in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Specific rules stating how people behave in a society.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Specific rules stating how people behave in a society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "What do 'Prescriptive norms' do?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Discourage negative behaviors."
+        },
+        {
+          "type": "string",
+          "content": "Encourage positive behavior."
+        },
+        {
+          "type": "string",
+          "content": "Define legal penalties for wrongdoing."
+        },
+        {
+          "type": "string",
+          "content": "Reflect traditional cultural values."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Norms", "Types of Norms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Prescriptive Norms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Prescriptive Norms:</em> Encourage positive behavior.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the function of 'Prescriptive norms' as described in the document.</div><p><strong>Step 1: Locate the explanation of prescriptive norms.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, within the definition of norms, it states: \"It may be <span style='color:var(--orange);font-weight:bold;'>prescriptive (LE econrarges positive behallour</span> or proscriptive (Calot being in support of negative behailions)\".</p><ul><li><p>Option 1: \"Discourage negative behaviors.\" describes proscriptive norms.</p></li><li><p>Option 2: \"Encourage positive behavior.\" directly matches the description of prescriptive norms.</p></li><li><p>Option 3: \"Define legal penalties for wrongdoing.\" relates to laws, not prescriptive norms generally.</p></li><li><p>Option 4: \"Reflect traditional cultural values.\" is too general; prescriptive norms specifically *encourage* behavior.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly states that prescriptive norms encourage positive behavior.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Encourage positive behavior.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Encourage positive behavior."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Which type of norm is considered the most lenient, attracting mild or no punishments?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Laws"
+        },
+        {
+          "type": "string",
+          "content": "Taboos"
+        },
+        {
+          "type": "string",
+          "content": "Mores"
+        },
+        {
+          "type": "string",
+          "content": "Folkways"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Norms", "Types of Norms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Most Lenient Norms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Folkways:</em> The most lenient of all norms, attracting mild or no punishments.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of norm considered the most lenient, attracting mild or no punishments, according to the document.</div><p><strong>Step 1: Refer to the section describing types of norms.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, under \"Norms are of 4 types\", it states: \"<span style='color:var(--orange);font-weight:bold;'>Fotkuoays; It is the most lemant of allnormes more ; it attracts milol punishments on</span>\". The following point about mores also mentions mild punishments, but folkways are explicitly called \"most lenient of all norms.\"</p><ul><li><p>Option 1: \"Laws\" involve formal legal penalties, not mild or no punishments.</p></li><li><p>Option 2: \"Taboos\" refer to unacceptable/forbidden behaviors, with strong social sanctions.</p></li><li><p>Option 3: \"Mores\" also attract mild punishments, but folkways are specified as \"most lenient of all norms\" implicitly making them more lenient than mores in this context.</p></li><li><p>Option 4: \"Folkways\" directly matches the description of the most lenient norm.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly labels folkways as the most lenient category of norms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Folkways</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Folkways"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "What are 'Taboos' defined as in a culture?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Traditional festive rituals."
+        },
+        {
+          "type": "string",
+          "content": "Behaviors that lead to minor social disapproval."
+        },
+        {
+          "type": "string",
+          "content": "Unacceptable and forbidden behaviors."
+        },
+        {
+          "type": "string",
+          "content": "Common practices without legal enforcement."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Norms", "Taboos"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Taboos</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Taboos:</em> Unacceptable, forbidden behaviors within a culture.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Taboos' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Taboos' on page 17.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, under \"Norms are of 4 types\", it states: \"111 <span style='color:var(--orange);font-weight:bold;'>taboos; this is referred to chacceptablet Forbid-densbekarlours volthin'm a cuture</span>\".</p><ul><li><p>Option 1: \"Traditional festive rituals.\" is incorrect; rituals are generally positive cultural practices.</p></li><li><p>Option 2: \"Behaviors that lead to minor social disapproval.\" describes folkways or mores.</p></li><li><p>Option 3: \"Unacceptable and forbidden behaviors.\" directly matches the definition in the document.</p></li><li><p>Option 4: \"Common practices without legal enforcement.\" describes folkways.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document clearly defines taboos as unacceptable and forbidden behaviors.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Unacceptable and forbidden behaviors.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unacceptable and forbidden behaviors."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "In the formula for corruption (C = R + D - A), what does 'D' represent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Duty"
+        },
+        {
+          "type": "string",
+          "content": "Discretionary power"
+        },
+        {
+          "type": "string",
+          "content": "Debt"
+        },
+        {
+          "type": "string",
+          "content": "Demand"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Corruption", "Formula Components"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Corruption Formula Component 'D'</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Corruption Formula (C = R + D - A):</em> D represents Discretionary power.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks to identify what 'D' represents in the given corruption formula.</div><p><strong>Step 1: Locate the corruption formula and its components.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, the document states: \"Corruption can be expressed using the mathe matical formula: C = R + D - A where R = Economic rent <span style='color:var(--orange);font-weight:bold;'>D = Biscretionary power</span> A = Accountability\".</p><ul><li><p>Option 1: \"Duty\" is incorrect.</p></li><li><p>Option 2: \"Discretionary power\" directly matches what 'D' represents in the formula.</p></li><li><p>Option 3: \"Debt\" is incorrect.</p></li><li><p>Option 4: \"Demand\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly defines each variable in the corruption formula.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Discretionary power</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Discretionary power"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "How is 'Indiscipline' defined in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Failure to achieve national goals."
+        },
+        {
+          "type": "string",
+          "content": "Deviation from prescribed norms."
+        },
+        {
+          "type": "string",
+          "content": "Lack of economic productivity."
+        },
+        {
+          "type": "string",
+          "content": "Excessive individualism."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Issues", "Indiscipline Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Indiscipline</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>Indiscipline:</em> Simply means deviating from prescribed norms.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Indiscipline' as provided in the document.</div><p><strong>Step 1: Locate the definition of 'Indiscipline' on page 17.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>Indiscipline Simply means deuiating from prescribed norms</span>.\"</p><ul><li><p>Option 1: \"Failure to achieve national goals.\" is a consequence, not the definition.</p></li><li><p>Option 2: \"Deviation from prescribed norms.\" directly matches the definition in the document.</p></li><li><p>Option 3: \"Lack of economic productivity.\" is incorrect; it's an economic issue, not the definition of indiscipline.</p></li><li><p>Option 4: \"Excessive individualism.\" is mentioned on page 4 as something frowned upon, but not the definition of indiscipline here.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document provides a straightforward definition of indiscipline related to societal norms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Deviation from prescribed norms.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Deviation from prescribed norms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "What was the main purpose of SER (Social Reorientation) in 1987?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Promoting religious tolerance."
+        },
+        {
+          "type": "string",
+          "content": "Mass mobilization for social justice, self-reliance, and economic recovery."
+        },
+        {
+          "type": "string",
+          "content": "Restructuring the military administration."
+        },
+        {
+          "type": "string",
+          "content": "Establishing a new national education policy."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Programs", "SER"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of SER (1987)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>SER (1987):</em> Mass mobilization for social justice, self-reliance, and economic recovery.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks about the main purpose of SER (1987) as stated in the document.</div><p><strong>Step 1: Locate the description of SER on page 18.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 18</span>, the document states: \"<span style='color:var(--orange);font-weight:bold;'>SER → mass mobilisation for socid justice: Self-relvance and economic recalery</span>\".</p><ul><li><p>Option 1: \"Promoting religious tolerance.\" is incorrect and not mentioned as the main purpose.</p></li><li><p>Option 2: \"Mass mobilization for social justice, self-reliance, and economic recovery.\" directly matches the description in the document.</p></li><li><p>Option 3: \"Restructuring the military administration.\" is incorrect; SER was a social program.</p></li><li><p>Option 4: \"Establishing a new national education policy.\" is incorrect.</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly outlines the threefold purpose of SER: social justice, self-reliance, and economic recovery.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Mass mobilization for social justice, self-reliance, and economic recovery.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mass mobilization for social justice, self-reliance, and economic recovery."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "What organization replaced SER?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "NYSC"
+        },
+        {
+          "type": "string",
+          "content": "WAI"
+        },
+        {
+          "type": "string",
+          "content": "NOA"
+        },
+        {
+          "type": "string",
+          "content": "OFN"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Programs", "Successors"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Replacement of SER</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:15px;border-radius:8px;margin-bottom:15px;'><em>SER Replacement:</em> SER was replaced by NOA.</div><div style='background:var(--preset-bg-color);padding:15px;border-radius:8px;margin-bottom:15px;'>The question asks which organization replaced SER, according to the document.</div><p><strong>Step 1: Locate the information about SER's replacement.</strong></p><p>On <span style='color:var(--orange);font-weight:bold;'>page 18</span>, the document states: \"It was <span style='color:var(--orange);font-weight:bold;'>replaced by NOA</span>\".</p><ul><li><p>Option 1: \"NYSC\" (National Youth Service Corps) was introduced earlier (1973) and for a different purpose.</p></li><li><p>Option 2: \"WAI\" (War Against Indiscipline) was introduced earlier (1984).</p></li><li><p>Option 3: \"NOA\" (National Orientation Agency) directly matches the information in the document.</p></li><li><p>Option 4: \"OFN\" (Operation Feed the Nation) was introduced earlier (1976).</p></li></ul><div style='background:var(--warningBg);padding:15px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly states that SER was replaced by NOA.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ NOA</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NOA"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "Which pre-colonial art type is associated with Nok culture, according to the document's table?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Naturalistic bronze sculptures."
+        },
+        {
+          "type": "string",
+          "content": "Intricately decorated bronze objects."
+        },
+        {
+          "type": "string",
+          "content": "Terra cotta Sculpture and early iron-work."
+        },
+        {
+          "type": "string",
+          "content": "Brass plaques depicting royal heads."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pre-colonial Arts", "Nok Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var
