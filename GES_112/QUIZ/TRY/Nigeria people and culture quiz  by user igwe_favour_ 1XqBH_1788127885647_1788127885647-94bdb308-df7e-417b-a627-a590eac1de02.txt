@@ -1,0 +1,87 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "According to the provided notes, what is the fundamental definition of 'Culture'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The study of ancient civilizations and their customs." },
+        { "type": "string", "content": "The way of life of people, encompassing their values, norms, beliefs, and language." },
+        { "type": "string", "content": "A system of governance established within a society." },
+        { "type": "string", "content": "The natural resources available to a community." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Culture Definition", "Introduction to Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Culture Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Culture:</em> The way of life of people, including their values, norms, beliefs, and language.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the fundamental definition of 'Culture' as provided in the notes.</div><p><strong>Step 1: Identify the core definition of Culture.</strong> The notes explicitly state that \"<span style='color:var(--orange);font-weight:bold;'>Culture is the way of life of people's their Values, norms, beliefs and language</span>.\"</p><ul><li><p>Option 0: \"The study of ancient civilizations and their customs.\" This is too narrow and not the general definition given.</p></li><li><p>Option 1: \"The way of life of people, encompassing their values, norms, beliefs, and language.\" This directly matches the definition provided in the notes.</p></li><li><p>Option 2: \"A system of governance established within a society.\" This describes a political system, not the broader concept of culture.</p></li><li><p>Option 3: \"The natural resources available to a community.\" This describes economic or environmental aspects, not culture.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The definition of culture is a foundational concept. The provided notes clearly outline its core components, making other options incorrect as they describe different societal elements.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The fundamental definition of 'Culture' is the way of life of people, encompassing their values, norms, beliefs, and language.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The way of life of people, encompassing their values, norms, beliefs, and language." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Nigeria is characterized by a significant number of distinct ethnic groups and geopolitical zones. How many ethnic groups and geopolitical zones are explicitly mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "250 ethnic groups and 3 geopolitical zones" },
+        { "type": "string", "content": "300 ethnic groups and 5 geopolitical zones" },
+        { "type": "string", "content": "350 ethnic groups and 6 geopolitical zones" },
+        { "type": "string", "content": "400 ethnic groups and 4 geopolitical zones" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnic Demographics", "Nigerian Diversity"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigerian Demographics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Ethnic Groups:</em> Distinct populations within a country sharing common ancestry, culture, and language.<br/><em>Geopolitical Zones:</em> Administrative divisions used for political and resource allocation purposes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific numbers of ethnic groups and geopolitical zones in Nigeria as stated in the notes.</div><p><strong>Step 1: Locate information on ethnic groups and geopolitical zones.</strong> The notes explicitly state: \"<span style='color:var(--orange);font-weight:bold;'>Nigeria is made up of 350 ethnic groups and 6 geopolitical zone</span>.\"</p><ul><li><p>Option 0: \"250 ethnic groups and 3 geopolitical zones\" does not match the figures in the notes.</p></li><li><p>Option 1: \"300 ethnic groups and 5 geopolitical zones\" does not match the figures in the notes.</p></li><li><p>Option 2: \"350 ethnic groups and 6 geopolitical zones\" directly matches the information provided in the notes.</p></li><li><p>Option 3: \"400 ethnic groups and 4 geopolitical zones\" does not match the figures in the notes.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>It is crucial to refer strictly to the numbers provided in the text. Any deviation makes the option incorrect.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nigeria is explicitly mentioned to have 350 ethnic groups and 6 geopolitical zones in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "350 ethnic groups and 6 geopolitical zones" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following is NOT listed as a characteristic of minority groups in Nigeria, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They are usually small in number." },
+        { "type": "string", "content": "Their political influence is minute." },
+        { "type": "string", "content": "They possess significant economic influence." },
+        { "type": "string", "content": "They occupy a small geographical area." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Minority Groups", "Ethnic Minorities", "Nigerian Society"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Minority Groups</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Minority Group:</em> A group of people that, due to various factors like numerical size or power, is subordinate to a dominant group within a society.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which characteristic is NOT attributed to minority groups in Nigeria based on the notes.</div><p><strong>Step 1: Review the listed characteristics of minority groups.</strong> The notes provide four characteristics: <br/>1. \"<span style='color:var(--orange);font-weight:bold;'>Minority groups are usually small in number.</span>\" <br/>2. \"<span style='color:var(--orange);font-weight:bold;'>Their political influence is minute.</span>\" <br/>3. \"<span style='color:var(--orange);font-weight:bold;'>They occupy a small geographical area.</span>\" <br/>4. \"<span style='color:var(--orange);font-weight:bold;'>They have less economic influence.</span>\"</p><ul><li><p>Option 0: \"They are usually small in number.\" This is explicitly listed as a characteristic.</p></li><li><p>Option 1: \"Their political influence is minute.\" This is explicitly listed as a characteristic.</p></li><li><p>Option 2: \"They possess significant economic influence.\" This contradicts the listed characteristic \"They have less economic influence.\" Therefore, this is the correct answer to the 'NOT' question.</p></li><li><p>Option 3: \"They occupy a small geographical area.\" This is explicitly listed as a characteristic.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The question tests careful reading of negative statements. The notes clearly state minority groups have *less* economic influence, making 'significant economic influence' a contradictory statement.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ "They possess significant economic influence" is NOT listed as a characteristic of minority groups in Nigeria.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They possess significant economic influence." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "In sociology, how is 'ethnicity' specifically defined according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The study of cultural variations across different societies." },
+        { "type": "string", "content": "A person's membership to a particular ethnic group." },
+        { "type": "string", "content": "A shared geographical origin among diverse communities." },
+        { "type": "string", "content": "The political influence wielded by a cultural group." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnicity Definition", "Sociological Concepts"],
+    "Explanation": {
+      "type": "string",
+      "content
