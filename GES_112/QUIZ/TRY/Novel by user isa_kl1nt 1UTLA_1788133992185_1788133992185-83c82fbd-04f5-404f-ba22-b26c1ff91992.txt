@@ -1,0 +1,65 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "In the early narrative, the significant journey undertaken by Adaugo's family from Rumuimo to Okiti was characterized by a duration most accurately described as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Approximately two hundred and forty minutes" },
+        { "type": "string", "content": "Slightly less than three hours" },
+        { "type": "string", "content": "A full working day" },
+        { "type": "string", "content": "A brief ninety-minute commute" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Journey Duration", "Early Plot Details", "Rumuimo to Okiti", "Travel"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Journey Duration Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Converting time units (hours to minutes) is essential for precise calculations and understanding duration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: The journey took approximately four hours.</div><p><strong>Step 1: Identify the given duration.</strong><br>The journey from Rumuimo to Okiti is stated to have taken <span style='color:var(--orange);font-weight:bold;'>approximately four hours</span>.</p><p><strong>Step 2: Convert the duration to minutes.</strong><br>Knowing that one hour equals 60 minutes, four hours can be converted as follows: <span style='color:var(--orange);font-weight:bold;'>4 hours * 60 minutes/hour = 240 minutes</span>.</p><ul><li>Evaluating Option 0: <span style='color:var(--orange);font-weight:bold;'>Approximately two hundred and forty minutes</span>. This directly corresponds to the calculated duration from four hours.</li><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>Slightly less than three hours</span>. Three hours is 180 minutes, so this option is incorrect.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>A full working day</span>. A typical working day is 8-9 hours, which is much longer than four hours.</li><li>Evaluating Option 3: <span style='color:var(--orange);font-weight:bold;'>A brief ninety-minute commute</span>. Ninety minutes is 1.5 hours, which is significantly shorter than four hours.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The question asks for the duration in a less direct way than simply stating \"four hours.\" Converting to minutes provides a precise numerical equivalent, allowing for an accurate selection among the options provided. The other options represent significantly different timeframes, confirming the correctness of the calculated value.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The journey from Rumuimo to Okiti took approximately two hundred and forty minutes.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Approximately two hundred and forty minutes" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Adaugo's father, Nwankwo, maintained a professional role that placed him in direct service to an expatriate religious figure. His specific capacity was best described as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A high-ranking administrator within the mission" },
+        { "type": "string", "content": "A personal assistant responsible for household management and support" },
+        { "type": "string", "content": "A clerical officer managing church records" },
+        { "type": "string", "content": "A lay preacher serving the local congregation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Character Occupation", "Nwankwo's Role", "Missionary Service", "Social Status"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nwankwo's Occupation Analysis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A 'steward' often refers to someone who manages property or domestic affairs, particularly for another person. In a missionary context, this implies a role of personal service and management rather than clerical or administrative leadership.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Adaugo's father, Nwankwo, was a steward to a missionary.</div><p><strong>Step 1: Understand the term 'steward' in context.</strong><br>A <span style='color:var(--orange);font-weight:bold;'>steward to a missionary</span> typically denotes someone who manages the household affairs, property, or domestic staff for the missionary. This is a role of trust and responsibility, often involving personal support.</p><ul><li>Evaluating Option 0: <span style='color:var(--orange);font-weight:bold;'>A high-ranking administrator within the mission</span>. While a steward has responsibilities, it doesn't necessarily imply a high-ranking administrative position within the mission's organizational structure. It's more personal service.</li><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>A personal assistant responsible for household management and support</span>. This accurately describes the duties implied by the term 'steward to a missionary', covering personal assistance and management of the household.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>A clerical officer managing church records</span>. This describes a different function, related to office work, not personal stewardship.</li><li>Evaluating Option 3: <span style='color:var(--orange);font-weight:bold;'>A lay preacher serving the local congregation</span>. This is a spiritual leadership role, distinct from the duties of a steward.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'steward' carries connotations of managing another's affairs or property. In the context of a missionary, this most closely aligns with managing their domestic or personal needs rather than institutional administration or religious leadership.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nwankwo's role was best described as a personal assistant responsible for household management and support.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A personal assistant responsible for household management and support" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The specific denomination of the church associated with Rev John Lewars, Adaugo's father's employer, was notably characterized by its historical origins in a particular European country and its reformed theology. This church was the:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Catholic Church" },
+        { "type": "string", "content": "Anglican Communion" },
+        { "type": "string", "content": "Presbyterian Church, with Scottish roots" },
+        { "type": "string", "content": "Methodist Connection" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Religious Affiliation", "Church Denomination", "Rev John Lewars", "Colonial History"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Church Denomination of Rev. Lewars</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Identifying religious denominations often involves recognizing their specific names and historical associations, such as a country of origin or a foundational theological tradition (e.g., Presbyterianism's Scottish roots).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>Given: Adaugo's father worked for Rev John Lewars of the Church of Scotland (Presbyterian).</div><p><strong>Step 1: Identify the explicitly stated denomination.</strong><br>The text clearly states that Rev John Lewars was associated with the <span style='color:var(--orange);font-weight:bold;'>Church of Scotland (Presbyterian)</span>.</p><p><strong>Step 2: Relate the denomination to its characteristic origins.</strong><br>The Presbyterian Church has strong historical and theological ties to Scotland, making the option that highlights these roots the most accurate description.</p><ul><li>Evaluating Option 0: <span style='color:var(--orange);font-weight:bold;'>Catholic Church</span>. This is a different major Christian denomination.</li><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>Anglican Communion</span>. While prominent, it has distinct historical and theological characteristics from Presbyterianism.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>Presbyterian Church, with Scottish roots</span>. This directly matches the information given, elaborating on the historical context.</li><li>Evaluating Option 3: <span style='color:var(--orange);font-weight:bold;'>Methodist Connection</span>. This is another distinct Protestant denomination.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The question requires not just recall of the name but an understanding of its typical descriptor,
