@@ -1,0 +1,1544 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the primary definition of 'Culture' as provided in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The study of ancient civilizations." },
+        { "type": "string", "content": "The totality of a people's way of life, including their beliefs, language, and artistic expression." },
+        { "type": "string", "content": "A collection of historical artifacts from a region." },
+        { "type": "string", "content": "The economic system of a society." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Culture", "Definition of Culture", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Culture</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Culture</strong> refers to the shared ways of life, including beliefs, values, customs, behaviors, and material objects, that characterize a group or society.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary definition of 'Culture' as presented in the academic notes.</div><strong>Step 1: Locate the definition.</strong> The document explicitly defines culture. On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, it states, \"Culture is the way of life of people's their Values, customs, beliefs and language.\" On <span style='color:var(--orange);font-weight:bold;'>page 26</span>, it further elaborates, \"Culture is the totality of a people's way of life including their beliefs, language system and artistic expression.\"<br/><ul><li>Option 0: \"The study of ancient civilizations.\" This is a field of study, not the definition of culture itself.</li><li>Option 1: \"The totality of a people's way of life, including their beliefs, language, and artistic expression.\" This perfectly matches the definition provided on <span style='color:var(--orange);font-weight:bold;'>page 26</span> of the notes.</li><li>Option 2: \"A collection of historical artifacts from a region.\" This describes material culture or historical records, but not the holistic concept of culture.</li><li>Option 3: \"The economic system of a society.\" This is one aspect of a society, not the overarching definition of culture.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition emphasizes the comprehensive nature of culture, encompassing both tangible and intangible aspects of human society. The selected option accurately reflects this breadth as stated in the notes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The totality of a people's way of life, including their beliefs, language, and artistic expression.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The totality of a people's way of life, including their beliefs, language, and artistic expression."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "How many ethnic groups constitute Nigeria, according to the provided notes?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "150 ethnic groups" },
+        { "type": "string", "content": "200 ethnic groups" },
+        { "type": "string", "content": "350 ethnic groups" },
+        { "type": "string", "content": "500 ethnic groups" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnic Groups", "Demographics of Nigeria", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigerian Ethnic Groups</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Nigeria is known for its vast diversity, particularly in terms of ethnic groups and languages, which are foundational to its cultural fabric.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific number of ethnic groups in Nigeria as stated in the notes.</div><strong>Step 1: Locate the numerical fact.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, under the section for \"Diverse peoples and cultures of Nigerian ethnic minorities (pre-colonial era),\" the notes clearly state: \"Nigerca is made up of <span style='color:var(--orange);font-weight:bold;'>350 ethnic groups</span>\".<br/><ul><li>Option 0: \"150 ethnic groups\" is incorrect.</li><li>Option 1: \"200 ethnic groups\" is incorrect.</li><li>Option 2: \"350 ethnic groups\" directly matches the information in the notes.</li><li>Option 3: \"500 ethnic groups\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a direct recall question. The number 350 is explicitly written in the document, confirming the correct answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 350 ethnic groups</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "350 ethnic groups"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following is NOT a characteristic of minority groups, as listed in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They are usually small in number." },
+        { "type": "string", "content": "Their political influence is minute." },
+        { "type": "string", "content": "They occupy a large geographical area." },
+        { "type": "string", "content": "They have less economic influence." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Minority Groups", "Ethnic Minorities", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Minority Groups</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Minority groups are typically defined by their relatively smaller size and often, a reduced level of power or influence within a larger society.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a characteristic of minority groups according to the document.</div><strong>Step 1: Review the listed characteristics.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 1</span>, the document lists four characteristics of minority groups:<br/>1. \"Minority groups are usually <span style='color:var(--orange);font-weight:bold;'>small in number</span>.\"<br/>2. \"Their political influence is <span style='color:var(--orange);font-weight:bold;'>minute</span>.\"<br/>3. \"They cover/occupy a <span style='color:var(--orange);font-weight:bold;'>small geographical area</span>.\"<br/>4. \"They have <span style='color:var(--orange);font-weight:bold;'>less economic influence</span>.\"<br/><ul><li>Option 0: \"They are usually small in number.\" This is explicitly listed as a characteristic (point 1).</li><li>Option 1: \"Their political influence is minute.\" This is explicitly listed as a characteristic (point 2).</li><li>Option 2: \"They occupy a large geographical area.\" This contradicts point 3, which states they occupy a <span style='color:var(--orange);font-weight:bold;'>small geographical area</span>. Therefore, this is NOT a characteristic.</li><li>Option 3: \"They have less economic influence.\" This is explicitly listed as a characteristic (point 4).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> By comparing each option to the direct list in the notes, it's clear that occupying a large geographical area is the opposite of what the document states for minority groups.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ They occupy a large geographical area.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They occupy a large geographical area."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "In sociology, 'Ethnicity' refers to a person's membership to a particular:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Social class." },
+        { "type": "string", "content": "Economic bracket." },
+        { "type": "string", "content": "Political party." },
+        { "type": "string", "content": "Ethnic group." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnicity", "Sociology", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Ethnicity in Sociology</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Ethnicity</strong> is a concept that relates to shared cultural heritage, ancestry, language, and often a common geographical origin, binding a group of people together.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific sociological reference of 'Ethnicity' as defined in the document.</div><strong>Step 1: Locate the definition of Ethnicity in sociology.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 2</span>, the notes define ethnicity: \"Ethnicity - is a group of people who share common language, ancestry, culture and a common geographical Origin. In sociology its Social Sciences, It refers to a person's membership <span style='color:var(--orange);font-weight:bold;'>to a particular ethnic group</span>\".<br/><ul><li>Option 0: \"Social class.\" While related to identity, social class is distinct from ethnicity.</li><li>Option 1: \"Economic bracket.\" This pertains to financial status, not ethnicity.</li><li>Option 2: \"Political party.\" This refers to political affiliation, not ethnic identity.</li><li>Option 3: \"Ethnic group.\" This directly matches the definition provided in the notes for the sociological understanding of ethnicity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly link sociological ethnicity to membership in an ethnic group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ethnic group.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethnic group."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "'Cultural diversity' is defined as the difference between different cultures of ethnic groups, covering aspects like:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Economic systems and governance." },
+        { "type": "string", "content": "Languages, food, beliefs, etc." },
+        { "type": "string", "content": "Population size and geographical spread." },
+        { "type": "string", "content": "Military strength and alliances." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cultural Diversity", "Culture", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cultural Diversity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Cultural diversity</strong> refers to the variety of human societies or cultures in a specific region or in the world as a whole. It encompasses the differences in cultural elements across these groups.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific aspects covered by 'Cultural diversity' according to the document's definition.</div><strong>Step 1: Locate the definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 2</span>, the notes state: \"Cultural diversity - This is the difference between different culture of different ethnic groups <span style='color:var(--orange);font-weight:bold;'>eg their languages, food, beliefs etc</span>\".<br/><ul><li>Option 0: \"Economic systems and governance.\" While cultures can influence these, they are not the primary examples given for cultural diversity in the definition.</li><li>Option 1: \"Languages, food, beliefs, etc.\" This directly matches the examples provided in the notes.</li><li>Option 2: \"Population size and geographical spread.\" These are demographic and spatial characteristics, not directly cultural elements as exemplified.</li><li>Option 3: \"Military strength and alliances.\" These are aspects of political or military power, not cultural diversity as defined here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly list 'languages, food, beliefs' as examples, which is precisely what Option B states.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Languages, food, beliefs, etc.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Languages, food, beliefs, etc."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "When did colonialism officially begin in Nigeria, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "July 1850" },
+        { "type": "string", "content": "August 1861" },
+        { "type": "string", "content": "December 1872" },
+        { "type": "string", "content": "January 1888" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Nigerian History", "Advent of Colonialism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Start of Colonialism in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Colonialism refers to the policy or practice of acquiring full or partial political control over another country, occupying it with settlers, and exploiting it economically. In Nigeria, this period is marked by specific historical events.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the exact date colonialism started in Nigeria as specified in the notes.</div><strong>Step 1: Locate the specific date.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, under the topic \"Advent and Impact of Colonialism,\" point 1 states: \"Colonialism started in Nigeria in the year <span style='color:var(--orange);font-weight:bold;'>August 1861</span>\".<br/><ul><li>Option 0: \"July 1850\" is incorrect.</li><li>Option 1: \"August 1861\" directly matches the date provided in the notes.</li><li>Option 2: \"December 1872\" is incorrect.</li><li>Option 3: \"January 1888\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This is a direct recall of a historical date from the document, which unambiguously states August 1861.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ August 1861</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "August 1861"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Which city was the first to be colonized in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Calabar" },
+        { "type": "string", "content": "Benin City" },
+        { "type": "string", "content": "Lagos" },
+        { "type": "string", "content": "Port Harcourt" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Nigerian History", "First Colonized City"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Colonized City in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The British colonial enterprise in Nigeria often began with strategic coastal areas, vital for trade and naval control.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific city that was first colonized in Nigeria, according to the document.</div><strong>Step 1: Locate the information about the first colonized city.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, point 2 under the colonialism topic states: \"<span style='color:var(--orange);font-weight:bold;'>Lagos</span> was the first city in aligeria to be colonised\".<br/><ul><li>Option 0: \"Calabar\" is incorrect.</li><li>Option 1: \"Benin City\" is incorrect.</li><li>Option 2: \"Lagos\" directly matches the information in the notes.</li><li>Option 3: \"Port Harcourt\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly names Lagos as the first city to be colonized.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lagos</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lagos"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which European group primarily transported Nigerians during the era of slave trade?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The British" },
+        { "type": "string", "content": "The Spanish" },
+        { "type": "string", "content": "The French" },
+        { "type": "string", "content": "The Portuguese" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slave Trade", "Colonialism", "Nigerian History"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transporters of Slaves</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The transatlantic slave trade involved various European powers, but specific nations played more dominant roles in different regions and periods.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the European group primarily responsible for transporting Nigerians during the slave trade era, as indicated in the notes.</div><strong>Step 1: Locate the relevant information.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, it states: \"The people who transported Nigerians during the era of slave trade was the <span style='color:var(--orange);font-weight:bold;'>Portugese</span>\". The same information is reiterated on <span style='color:var(--orange);font-weight:bold;'>page 4</span>, mentioning \"by the Portuguese / Europeans during the trans-atlantic slave trade\".<br/><ul><li>Option 0: \"The British\" is incorrect according to the document.</li><li>Option 1: \"The Spanish\" is incorrect according to the document.</li><li>Option 2: \"The French\" is incorrect according to the document.</li><li>Option 3: \"The Portuguese\" directly matches the information provided in the notes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly name the Portuguese as the primary transporters during the slave trade era in this context.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Portuguese</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Portuguese"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The two major towns in Lagos where slave trade took place were Badagri and:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Lekki" },
+        { "type": "string", "content": "Epe" },
+        { "type": "string", "content": "Bonny" },
+        { "type": "string", "content": "Ikorodu" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slave Trade", "Nigerian History", "Slave Trade Routes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Major Slave Trade Towns in Lagos</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Certain locations in West Africa, particularly coastal towns, became major hubs for the transatlantic slave trade due to their geographical accessibility and established trading networks.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the second major town in Lagos, alongside Badagri, where slave trade occurred, as noted in the document.</div><strong>Step 1: Locate the information about slave trade towns.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, point 5 states: \"The two major towns in Lagos where slave trade took place in <span style='color:var(--orange);font-weight:bold;'>Badagri and Bonny</span>\".<br/><ul><li>Option 0: \"Lekki\" is incorrect.</li><li>Option 1: \"Epe\" is incorrect.</li><li>Option 2: \"Bonny\" directly matches the second town listed in the notes.</li><li>Option 3: \"Ikorodu\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists Bonny as the other major town alongside Badagri for slave trade.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Bonny</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bonny"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "What was the underlying reason for bringing religion during the slave trade era/colonial era?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To promote cultural exchange." },
+        { "type": "string", "content": "To subjugate the minds of the people, so they won't rebel." },
+        { "type": "string", "content": "To educate the local population." },
+        { "type": "string", "content": "To establish diplomatic relations." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Religion", "Slave Trade Impact"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Religion in Colonialism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Religion was often used by colonial powers as a tool for social control and justification of their rule, rather than purely for spiritual conversion.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the underlying reason for the introduction of religion during the colonial and slave trade eras, as explained in the notes.</div><strong>Step 1: Locate the reason for bringing religion.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 3</span>, point 6 states: \"The underlying reason for bringing Religion during the slave trade era / colonial era was <span style='color:var(--orange);font-weight:bold;'>to Subjugate their mind of the people, So they won't repel</span>\".<br/><ul><li>Option 0: \"To promote cultural exchange.\" While cultural exchange might occur, this was not the primary underlying reason stated.</li><li>Option 1: \"To subjugate the minds of the people, so they won't rebel.\" This directly matches the reason provided in the notes.</li><li>Option 2: \"To educate the local population.\" Education might have been a secondary effect, but not the core underlying reason for introducing religion in this context.</li><li>Option 3: \"To establish diplomatic relations.\" Religion was used for control, not primarily diplomacy in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly state the manipulative purpose of religion's introduction as a means of control and preventing rebellion.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To subjugate the minds of the people, so they won't rebel.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To subjugate the minds of the people, so they won't rebel."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which commodities were primarily transported by the Portuguese/Europeans during the transatlantic slave trade?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Textiles and spices" },
+        { "type": "string", "content": "Gold and Ivory" },
+        { "type": "string", "content": "Timber and minerals" },
+        { "type": "string", "content": "Grains and livestock" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slave Trade", "Colonialism", "Trade Commodities"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transatlantic Slave Trade Commodities</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The transatlantic trade network involved the exchange of various goods, with Europeans seeking specific valuable resources from Africa alongside enslaved people.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the primary commodities transported by Europeans during the transatlantic slave trade, as stated in the notes.</div><strong>Step 1: Locate the specific commodities.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, in response to a question about transported commodities, the notes mention: \"by the <span style='color:var(--orange);font-weight:bold;'>Portuguese / Europeans</span> during the trans-atlantic slave trade? <span style='color:var(--orange);font-weight:bold;'>Gold, Ivory</span>\".<br/><ul><li>Option 0: \"Textiles and spices\" are incorrect.</li><li>Option 1: \"Gold and Ivory\" directly matches the commodities listed in the notes.</li><li>Option 2: \"Timber and minerals\" are incorrect.</li><li>Option 3: \"Grains and livestock\" are incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly identifies Gold and Ivory as the commodities traded during the transatlantic slave trade era by Europeans.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Gold and Ivory</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gold and Ivory"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "In which years did slavery end, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "1780/1781" },
+        { "type": "string", "content": "1806/1807" },
+        { "type": "string", "content": "1833/1834" },
+        { "type": "string", "content": "1865/1866" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slavery", "Nigerian History", "End of Slavery"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>End of Slavery</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The abolition of slavery and the slave trade was a gradual process influenced by various political and social movements, with specific legislative acts marking its end in different territories.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific years when slavery ended, as noted in the document.</div><strong>Step 1: Locate the dates for the end of slavery.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, point 8 explicitly states: \"Slavery ended in <span style='color:var(--orange);font-weight:bold;'>1806/1807</span>\".<br/><ul><li>Option 0: \"1780/1781\" is incorrect.</li><li>Option 1: \"1806/1807\" directly matches the years provided in the notes.</li><li>Option 2: \"1833/1834\" is incorrect.</li><li>Option 3: \"1865/1866\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides a precise range of years for the end of slavery, which is 1806/1807.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1806/1807</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1806/1807"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Between 1881-1914, Nigeria was known as what entity?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The West African Colony" },
+        { "type": "string", "content": "The United Nigerian Protectorate" },
+        { "type": "string", "content": "The Royal Niger Company" },
+        { "type": "string", "content": "The British Nigerian Territory" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian History", "Colonial Administration", "Royal Niger Company"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigeria's Identity (1881-1914)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> During the late 19th and early 20th centuries, significant parts of what would become Nigeria were administered by a chartered company on behalf of the British government before full colonial administration was established.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name Nigeria was known by between 1881 and 1914, according to the document.</div><strong>Step 1: Locate the historical name.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, point 9 states: \"From 1881-1914 Nigeria was renown as the <span style='color:var(--orange);font-weight:bold;'>Royal Niger company (1886-1899)</span>\". Note that the Royal Niger Company's specific operational years (1886-1899) fall within the broader 1881-1914 period during which Nigeria was 'renown' as such.<br/><ul><li>Option 0: \"The West African Colony\" is incorrect.</li><li>Option 1: \"The United Nigerian Protectorate\" is incorrect.</li><li>Option 2: \"The Royal Niger Company\" directly matches the information in the notes.</li><li>Option 3: \"The British Nigerian Territory\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly state that Nigeria was known as the Royal Niger Company during this period.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Royal Niger Company</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Royal Niger Company"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Who became the first governor-general of Nigeria in 1960 after independence?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Abubakar Tafawa Balewa" },
+        { "type": "string", "content": "Nnamdi Azikiwe" },
+        { "type": "string", "content": "Obafemi Awolowo" },
+        { "type": "string", "content": "Ahmadu Bello" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian History", "Independence", "Governor-General"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Governor-General of Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Upon gaining independence, Nigeria transitioned from a colonial administration to a sovereign state, initially retaining the British monarch as head of state, represented by a Governor-General.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the first governor-general of Nigeria in 1960 following independence, as stated in the notes.</div><strong>Step 1: Locate the name of the first governor-general.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, the notes state: \"<span style='color:var(--orange);font-weight:bold;'>Anandi azikiwe</span> became the first governor-general (1960) after independena\". (Note: The name is spelled as 'Anandi Azikiwe' in the document, but commonly known as Nnamdi Azikiwe. I will use the document's spelling for the option but clarify the common spelling here).<br/><ul><li>Option 0: \"Abubakar Tafawa Balewa\" was the first Prime Minister.</li><li>Option 1: \"Nnamdi Azikiwe\" matches the person mentioned in the notes as the first governor-general.</li><li>Option 2: \"Obafemi Awolowo\" was a prominent political leader, but not the first governor-general.</li><li>Option 3: \"Ahmadu Bello\" was a prominent political leader, but not the first governor-general.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly name Anandi Azikiwe (Nnamdi Azikiwe) as the first governor-general in 1960.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nnamdi Azikiwe</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nnamdi Azikiwe"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "One of the major impacts of Colonialism listed in the document is:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Technological advancement." },
+        { "type": "string", "content": "Cultural erosion." },
+        { "type": "string", "content": "Political stability." },
+        { "type": "string", "content": "Economic prosperity." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonialism", "Impact of Colonialism", "Nigerian History"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Impacts of Colonialism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Colonial rule brought about significant and often detrimental changes to the social, political, and cultural landscapes of colonized territories.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify one of the major impacts of Colonialism as stated in the document.</div><strong>Step 1: Locate the major impacts.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 4</span>, under \"Major impacts of Colonialism,\" two points are listed:<br/>1. \"<span style='color:var(--orange);font-weight:bold;'>Cultural erosion</span>\"<br/>2. \"Procluction of English - It destroyed our nature dialects\"<br/><ul><li>Option 0: \"Technological advancement.\" While some infrastructure might have been built, the document does not list this as a major impact in the given context.</li><li>Option 1: \"Cultural erosion.\" This is explicitly listed as a major impact in the notes.</li><li>Option 2: \"Political stability.\" Colonialism often led to political instability or imposed stability that was not organic. This is not listed as a positive impact.</li><li>Option 3: \"Economic prosperity.\" Colonial economies were often designed to benefit the colonizers, not the colonized; this is not listed as a major impact.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states \"Cultural erosion\" as a major impact.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cultural erosion.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural erosion."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "According to the notes, what is the definition of 'Trade'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The process of industrial manufacturing." },
+        { "type": "string", "content": "Voluntary exchange of goods and services; the business of buying and selling commodities." },
+        { "type": "string", "content": "Government regulation of markets." },
+        { "type": "string", "content": "The cultivation of agricultural products." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Trade", "Economics", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Trade</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Trade</strong> fundamentally involves the exchange of goods, services, or capital between entities, typically for mutual benefit.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Trade' as given in the document.</div><strong>Step 1: Locate the definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 5</span>, under the topic \"Trade Economic Activities and Self-Reliance in Nigeria,\" the notes state: \"Trade: can be defined as <span style='color:var(--orange);font-weight:bold;'>voluntary exchange of goods and services. It is the business of buying and selling Commodities between individuals, countries, States or Communities</span>\".<br/><ul><li>Option 0: \"The process of industrial manufacturing.\" This is a production activity, not the definition of trade.</li><li>Option 1: \"Voluntary exchange of goods and services; the business of buying and selling commodities.\" This precisely matches the definition provided in the notes.</li><li>Option 2: \"Government regulation of markets.\" This is a function of government, not the definition of trade itself.</li><li>Option 3: \"The cultivation of agricultural products.\" This describes agriculture, which is a type of economic activity, not the definition of trade.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition given in the document is directly reproduced in option B, confirming its correctness.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Voluntary exchange of goods and services; the business of buying and selling commodities.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Voluntary exchange of goods and services; the business of buying and selling commodities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "'Economic Activities' are defined as human activities undertaken to produce goods and services for:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Government taxation and control." },
+        { "type": "string", "content": "International export and diplomacy." },
+        { "type": "string", "content": "Religious ceremonies and festivals." },
+        { "type": "string", "content": "Income and wealth creation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Economic Activities", "Economics", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Economic Activities</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Economic activities</strong> are processes that involve the production, distribution, and consumption of goods and services, aimed at satisfying human wants and needs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the purpose of 'Economic Activities' as defined in the document.</div><strong>Step 1: Locate the definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 5</span>, the notes state: \"Economic Activities: These are all human activities undertaken to produce goods and Services for <span style='color:var(--orange);font-weight:bold;'>income and wearth creation</span>\".<br/><ul><li>Option 0: \"Government taxation and control.\" While economic activities are taxed and controlled, this is not their primary purpose.</li><li>Option 1: \"International export and diplomacy.\" This is a specific outcome or aspect of some economic activities, not the general purpose.</li><li>Option 2: \"Religious ceremonies and festivals.\" These are cultural or social activities, not economic activities in this context.</li><li>Option 3: \"Income and wealth creation.\" This directly matches the purpose stated in the notes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly defines the purpose of economic activities as generating income and wealth.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Income and wealth creation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Income and wealth creation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of the following is listed as a major economic activity in Nigeria, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Tourism" },
+        { "type": "string", "content": "Information technology" },
+        { "type": "string", "content": "Agriculture" },
+        { "type": "string", "content": "Automobile manufacturing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Economic Activities", "Nigerian Economy", "Major Economic Sectors"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Major Economic Activities in Nigeria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Nigeria's economy is characterized by several key sectors that contribute significantly to its Gross Domestic Product and employment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify one of the major economic activities in Nigeria as listed in the document.</div><strong>Step 1: Locate the list of major economic activities.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 5</span>, under \"Major Economic Activities in Nigeria,\" two activities are mentioned:<br/>- \"<span style='color:var(--orange);font-weight:bold;'>Agriculture</span>\"<br/>- \"Petroleum industry\"<br/><ul><li>Option 0: \"Tourism\" is not listed.</li><li>Option 1: \"Information technology\" is not listed.</li><li>Option 2: \"Agriculture\" is explicitly listed as a major economic activity.</li><li>Option 3: \"Automobile manufacturing\" is not listed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document specifically names Agriculture as a major economic activity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Agriculture</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agriculture"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Pre-colonial Nigerian market systems for buying and selling were described as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Basic and unorganized." },
+        { "type": "string", "content": "Highly sophisticated and well-organized." },
+        { "type": "string", "content": "Controlled by foreign traders." },
+        { "type": "string", "content": "Primarily barter-based with no currency." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pre-colonial Economy", "Trade Systems", "Nigerian History"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pre-colonial Nigerian Market Systems</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Before colonial interference, many African societies had established complex and efficient economic systems adapted to their local environments and inter-group relations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the description of pre-colonial Nigerian market systems as presented in the document.</div><strong>Step 1: Locate the description.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 6</span>, the notes state: \"Pre-colonial Nigeria Buying and selling with the market systems in pre-colonial Nigeria were <span style='color:var(--orange);font-weight:bold;'>highly sophisticated and well Organised</span>\".<br/><ul><li>Option 0: \"Basic and unorganized.\" This contradicts the document's description.</li><li>Option 1: \"Highly sophisticated and well-organized.\" This directly matches the description in the notes.</li><li>Option 2: \"Controlled by foreign traders.\" The document emphasizes indigenous systems, not foreign control.</li><li>Option 3: \"Primarily barter-based with no currency.\" The document mentions sophisticated systems, implying more than just simple barter, though barter might have been a component.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly uses the terms \"highly sophisticated and well-organized\" to describe the pre-colonial market systems.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Highly sophisticated and well-organized.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Highly sophisticated and well-organized."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "According to Olusanya (2020), nation building is defined as a deliberate effort to foster a sense of common belonging and shared identity by bringing together people or groups with:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Similar economic interests." },
+        { "type": "string", "content": "Diverse backgrounds." },
+        { "type": "string", "content": "Shared political ideologies." },
+        { "type": "string", "content": "Common religious beliefs." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Political Science", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Olusanya's Definition of Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Nation building</strong> is the process of constructing or structuring a national identity using the power of the state. It involves uniting people within a state by encouraging a sense of common belonging and purpose.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific condition or characteristic of groups that nation building aims to unite, according to Olusanya (2020) in the document.</div><strong>Step 1: Locate Olusanya's definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 7</span>, the notes state: \"Olusanya (2020) says that nation build-ing is the deliberate effort to bring together people or groups with <span style='color:var(--orange);font-weight:bold;'>clinterse background</span>. Fostering a sense of common belonging and Shared identity\".<br/><ul><li>Option 0: \"Similar economic interests.\" This is not mentioned as the primary uniting factor in the definition.</li><li>Option 1: \"Diverse backgrounds.\" This directly matches the phrase used in Olusanya's definition.</li><li>Option 2: \"Shared political ideologies.\" While important for governance, this isn't the primary focus of 'bringing people together' in this specific definition.</li><li>Option 3: \"Common religious beliefs.\" This is not specified as the uniting factor.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Olusanya's definition specifically highlights the challenge and goal of uniting people from diverse backgrounds.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Diverse backgrounds.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diverse backgrounds."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Ali Mazrui (1992) defines nation building as the construction work that transforms several fragile independent states into:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Economic blocs." },
+        { "type": "string", "content": "Cultural federations." },
+        { "type": "string", "content": "More secured and integrated nations." },
+        { "type": "string", "content": "Militarily powerful empires." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Political Science", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ali Mazrui's Definition of Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Nation building</strong>, as described by Ali Mazrui, emphasizes the stabilization and consolidation of newly independent states to overcome fragilities and achieve greater unity and security.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific outcome of nation building as defined by Ali Mazrui (1992) in the document.</div><strong>Step 1: Locate Ali Mazrui's definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 7</span>, the notes state: \"Ali Faznu (1992); nation building is the constriction work that turn several fragile independent state into a <span style='color:var(--orange);font-weight:bold;'>more secured and integrated nations</span>\". (Note: The name is spelled 'Ali Faznu' in the document, but commonly known as Ali Mazrui. I will use the document's spelling in the explanation text for exact adherence but reference the common name if needed).<br/><ul><li>Option 0: \"Economic blocs.\" This refers to economic unions, not the primary outcome of nation building as defined here.</li><li>Option 1: \"Cultural federations.\" This focuses on cultural unity, which is part of nation building but not the complete outcome in this definition.</li><li>Option 2: \"More secured and integrated nations.\" This directly matches the outcome specified in Mazrui's definition.</li><li>Option 3: \"Militarily powerful empires.\" This focuses on military strength, not the core idea of security and integration of existing fragile states.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Mazrui's definition in the notes explicitly aims for states to become \"more secured and integrated nations.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ More secured and integrated nations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More secured and integrated nations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which of the following is listed as a process of nation building in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Promoting religious uniformity." },
+        { "type": "string", "content": "Centralizing all economic power." },
+        { "type": "string", "content": "Building political institutions." },
+        { "type": "string", "content": "Encouraging regional autonomy." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Political Science", "Processes of Nation Building"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Processes of Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Nation building involves a deliberate and multifaceted effort to create a cohesive national identity and functional state apparatus.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify one of the listed processes of nation building from the document.</div><strong>Step 1: Locate the processes of nation building.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Processes of Nation building,\" the following are listed:<br/>1. \"<span style='color:var(--orange);font-weight:bold;'>Building political institutions</span>\"<br/>2. \"Build a national identity\"<br/>3. \"Economic Development and Redistribution\"<br/>4. \"Civic participation\"<br/><ul><li>Option 0: \"Promoting religious uniformity.\" This is not listed as a process; nation building often aims for unity despite diversity.</li><li>Option 1: \"Centralizing all economic power.\" This is not listed; economic development and redistribution are mentioned.</li><li>Option 2: \"Building political institutions.\" This is explicitly listed as the first process.</li><li>Option 3: \"Encouraging regional autonomy.\" Nation building typically involves strengthening the central state, though decentralization can occur. This specific action is not listed as a process.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states \"Building political institutions\" as a process of nation building.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Building political institutions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Building political institutions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "One of the two colonial administrative policies mentioned in the document is 'Divide and Rule tactics'. What is the other one?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Direct taxation policy." },
+        { "type": "string", "content": "Economic exploitation and dependency." },
+        { "type": "string", "content": "Promotion of local industries." },
+        { "type": "string", "content": "Establishment of universal education." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Colonial Policies", "Administration", "Nigerian History"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Colonial Administrative Policies</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Colonial powers implemented specific administrative and economic policies designed to assert control, extract resources, and maintain their dominance over colonized territories.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the second colonial administrative policy listed in the document, besides 'Divide and Rule tactics'.</div><strong>Step 1: Locate the colonial administrative policies.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Two colonial administrative policies,\" the notes list:<br/>- \"Divide and Rule tactics as the exploitation cind Creation of new\" (This is incomplete but clearly refers to 'Divide and Rule tactics')<br/>- \"<span style='color:var(--orange);font-weight:bold;'>Economic exploitation and dependency</span> Res-ource expansion anal cash crop economy.\" (This is given as a separate bullet point, signifying another policy or a key aspect of their policies).<br/><ul><li>Option 0: \"Direct taxation policy.\" While a colonial policy, it is not explicitly listed here as one of the two main administrative policies.</li><li>Option 1: \"Economic exploitation and dependency.\" This is clearly listed as the second policy/aspect of policy.</li><li>Option 2: \"Promotion of local industries.\" Colonialism typically suppressed local industries. This is incorrect.</li><li>Option 3: \"Establishment of universal education.\" This was not a primary colonial administrative policy, especially not listed here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists \"Economic exploitation and dependency\" as the other major colonial administrative policy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Economic exploitation and dependency.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic exploitation and dependency."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which of the following is identified as a challenge to nation building in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Strong national identity." },
+        { "type": "string", "content": "Abundant natural resources." },
+        { "type": "string", "content": "Political leadership and corruption." },
+        { "type": "string", "content": "High civic participation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nation Building", "Challenges", "Political Science"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Challenges to Nation Building</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Nation building is often hindered by various internal factors that prevent unity, effective governance, and equitable development.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a challenge to nation building as specified in the document.</div><strong>Step 1: Locate the challenges to nation building.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 8</span>, under \"Challenges:\" (at the bottom), the notes list:<br/>- \"Ethnic diversity\"<br/>- \"<span style='color:var(--orange);font-weight:bold;'>Political leadership and corruption</span>. policies of marginalization and exclusion\"<br/><ul><li>Option 0: \"Strong national identity.\" This is a goal of nation building, not a challenge.</li><li>Option 1: \"Abundant natural resources.\" While resource curse is a concept, the document lists other challenges directly.</li><li>Option 2: \"Political leadership and corruption.\" This is explicitly listed as a challenge.</li><li>Option 3: \"High civic participation.\" This is a positive process for nation building, not a challenge.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly names \"Political leadership and corruption\" as a challenge to nation building.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Political leadership and corruption.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Political leadership and corruption."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "After the Nigerian Civil War, General Yakubu Gowon famously declared:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "United we stand, divided we fall." },
+        { "type": "string", "content": "No Victor, No vanquished." },
+        { "type": "string", "content": "Peace at all costs." },
+        { "type": "string", "content": "The war has just begun." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Civil War", "Post-War Declarations", "Yakubu Gowon"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Yakubu Gowon's Post-Civil War Declaration</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The Nigerian Civil War (1967-1970) was a deeply divisive conflict. Upon its conclusion, a message of reconciliation was crucial for national healing and reintegration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the famous declaration made by General Yakubu Gowon after the Nigerian Civil War, as stated in the document.</div><strong>Step 1: Locate the declaration.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 9</span>, under \"Military Interclention in Nigeria and the Nigeria Civil war,\" the notes state: \"After the war <span style='color:var(--orange);font-weight:bold;'>Yakubu Gowon declared \"No Victor, No ilanquished\"</span>\".<br/><ul><li>Option 0: \"United we stand, divided we fall.\" This is a general proverb, not Gowon's specific declaration.</li><li>Option 1: \"No Victor, No vanquished.\" This directly matches the declaration mentioned in the notes.</li><li>Option 2: \"Peace at all costs.\" While the goal was peace, this is not the exact quote.</li><li>Option 3: \"The war has just begun.\" This is antithetical to a post-war reconciliation message.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly quote Gowon's declaration, \"No Victor, No vanquished.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ No Victor, No vanquished.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No Victor, No vanquished."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "According to the document, what is 'Law' defined as?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A system of moral principles." },
+        { "type": "string", "content": "An instrument for social order, social justice, and stability." },
+        { "type": "string", "content": "The customs and traditions of a community." },
+        { "type": "string", "content": "A set of guidelines for economic development." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Law", "Social Justice", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Law</strong> refers to a system of rules that a society or government develops to deal with crime, business agreements, and social relations. It is often enforced through social or governmental institutions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Law' as provided in the document.</div><strong>Step 1: Locate the definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, under the topic \"Social Justice, Fundamental rights and the role of the judiciary,\" the notes state: \"<span style='color:var(--orange);font-weight:bold;'>Law is an instrument for social order, Social justice and stability</span>. Every nation is a political entity\".<br/><ul><li>Option 0: \"A system of moral principles.\" While law often reflects morality, this is not the explicit definition given.</li><li>Option 1: \"An instrument for social order, social justice, and stability.\" This directly matches the definition provided in the notes.</li><li>Option 2: \"The customs and traditions of a community.\" This describes customary law or cultural norms, but not the general definition of law as given.</li><li>Option 3: \"A set of guidelines for economic development.\" This describes economic policy, not law in its broader sense.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly defines law by its instrumental role in maintaining social order, justice, and stability.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An instrument for social order, social justice, and stability.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An instrument for social order, social justice, and stability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "What does 'Social justice' imply, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "That people worldwide should be treated equally with available resources." },
+        { "type": "string", "content": "That governments should redistribute wealth equally." },
+        { "type": "string", "content": "That social classes should be abolished." },
+        { "type": "string", "content": "That all people should have the same opportunities." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Social Justice", "Ethics", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Implication of Social Justice</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Social justice</strong> refers to the fair and equitable distribution of resources, opportunities, and privileges within a society, addressing systemic inequalities.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for what 'Social justice' implies, as defined in the document.</div><strong>Step 1: Locate the implication of social justice.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the notes state: \"Social justice implies that <span style='color:var(--orange);font-weight:bold;'>people all over the world should be treated equally with available resources</span>\".<br/><ul><li>Option 0: \"That people worldwide should be treated equally with available resources.\" This directly matches the implication provided in the notes.</li><li>Option 1: \"That governments should redistribute wealth equally.\" This is a specific policy approach, not the general implication.</li><li>Option 2: \"That social classes should be abolished.\" This is a specific political ideology, not the core implication of social justice.</li><li>Option 3: \"That all people should have the same opportunities.\" While related, the document specifically focuses on equal treatment with available resources.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's definition explicitly ties social justice to equal treatment with available resources for all people worldwide.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ That people worldwide should be treated equally with available resources.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "That people worldwide should be treated equally with available resources."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Fundamental human rights are described as 'inalienable', meaning they are based on a person's existence as a:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Citizen." },
+        { "type": "string", "content": "Human." },
+        { "type": "string", "content": "Resident." },
+        { "type": "string", "content": "Taxpayer." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Fundamental Rights", "Human Rights", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Basis of Fundamental Human Rights</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Fundamental human rights</strong> are universal rights inherent to all human beings, regardless of nationality, place of residence, sex, national or ethnic origin, color, religion, language, or any other status. They are often considered inalienable.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the fundamental basis of inalienable human rights, according to the document.</div><strong>Step 1: Locate the basis of fundamental human rights.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 10</span>, the notes state: \"Fundamental human rights are Tigris (rights) thet are <span style='color:var(--orange);font-weight:bold;'>inalienable</span> - An individwal has them based their existence as a <span style='color:var(--orange);font-weight:bold;'>humor</span> (human).\".<br/><ul><li>Option 0: \"Citizen.\" Rights as a citizen are political or civil rights, but not the fundamental basis for *all* human rights.</li><li>Option 1: \"Human.\" This directly matches the basis provided in the notes.</li><li>Option 2: \"Resident.\" Residency grants certain rights but is not the universal basis for human rights.</li><li>Option 3: \"Taxpayer.\" This relates to fiscal responsibilities and corresponding rights, not fundamental human rights.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly state that fundamental human rights are based on existence as a human.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Human.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Which type of law deals with specified relationships between citizens, such as family law or contract law?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Public law." },
+        { "type": "string", "content": "Criminal law." },
+        { "type": "string", "content": "Private law." },
+        { "type": "string", "content": "Constitutional law." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Law", "Classification of Law", "Private Law"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Private Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Private law</strong> is a branch of law that deals with the relationships between individuals, such as contracts, property, and family matters, rather than relations between individuals and the state.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of law that governs relationships between citizens, giving examples like family and contract law, as defined in the document.</div><strong>Step 1: Locate the definition for private law.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 11</span>, under the \"Classification of Caw\" (Law) section, the notes state: \"<span style='color(--orange);font-weight:bold;'>Private</span>; it deals wout specified relationship between Citizens og family law, Law of tort, Law of contract etc. it is at the horizontal lead\".<br/><ul><li>Option 0: \"Public law.\" Public law deals with the relationship between the state and individuals.</li><li>Option 1: \"Criminal law.\" Criminal law is a branch of public law, dealing with offenses against the state.</li><li>Option 2: \"Private law.\" This directly matches the description and examples given in the notes.</li><li>Option 3: \"Constitutional law.\" Constitutional law is a branch of public law, dealing with the fundamental principles of governance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly defines private law by its focus on relationships between citizens and provides the examples given in the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Private law.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Private law."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Nigeria became a republic in which year?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "1957" },
+        { "type": "string", "content": "1960" },
+        { "type": "string", "content": "1963" },
+        { "type": "string", "content": "1966" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian History", "Republic Status", "Political Development"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigeria Becoming a Republic</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> After gaining independence, many former British colonies transitioned from a monarchy (with the British monarch as head of state) to a republic (with an elected or appointed head of state from within the country).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific year Nigeria became a republic, as stated in the document.</div><strong>Step 1: Locate the year Nigeria became a republic.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the notes state: \"Nigeria gained independence in 1960 and became a republic in <span style='color:var(--orange);font-weight:bold;'>1963</span>\".<br/><ul><li>Option 0: \"1957\" is incorrect.</li><li>Option 1: \"1960\" is the year of independence, not when it became a republic.</li><li>Option 2: \"1963\" directly matches the year provided in the notes for becoming a republic.</li><li>Option 3: \"1966\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly distinguish between independence (1960) and becoming a republic (1963).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1963</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1963"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "At independence, Nigerian territory was divided into how many regions?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "2 regions" },
+        { "type": "string", "content": "3 regions" },
+        { "type": "string", "content": "4 regions" },
+        { "type": "string", "content": "5 regions" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian History", "Regional Structure", "Independence"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nigerian Regions at Independence</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The political structure of Nigeria at independence was based on a regional system, inheriting the administrative divisions established during the colonial era.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the number of regions Nigeria was divided into at independence, as specified in the document.</div><strong>Step 1: Locate the number of regions.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the notes state: \"At independence Nigerian territory was diundet (divided) into <span style='color:var(--orange);font-weight:bold;'>3</span>; North, east and west\".<br/><ul><li>Option 0: \"2 regions\" is incorrect.</li><li>Option 1: \"3 regions\" directly matches the information in the notes.</li><li>Option 2: \"4 regions\" is incorrect.</li><li>Option 3: \"5 regions\" is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly states 3 regions (North, East, West).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 3 regions</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3 regions"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Who became the first military political leader after the first military coup in January 1966?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Yakubu Gowon" },
+        { "type": "string", "content": "Murtala Mohammed" },
+        { "type": "string", "content": "Major Aguiyi Ironsi" },
+        { "type": "string", "content": "Olusegun Obasanjo" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Nigerian History", "First Military Leader"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Military Political Leader</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Nigeria's first military coup marked a significant turning point, ending the First Republic and ushering in military rule. The leader of this coup became the first military head of state.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the first military political leader after the January 1966 coup, as stated in the document.</div><strong>Step 1: Locate the leader's name.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the notes state: \"The first military coup d'etat was in January 1960 (1966), which <span style='color:var(--orange);font-weight:bold;'>Mafor Aguiyi Ironsi</span> became the frist military political Leader-\". (Note: The date is written as 1960 and then corrected to 1966, consistent with other pages. The name is 'Mafor Aguiyi Ironsi' in the document, but commonly known as Major General Johnson Aguiyi-Ironsi).<br/><ul><li>Option 0: \"Yakubu Gowon\" became leader after the second coup.</li><li>Option 1: \"Murtala Mohammed\" led a later coup.</li><li>Option 2: \"Major Aguiyi Ironsi\" directly matches the information in the notes.</li><li>Option 3: \"Olusegun Obasanjo\" became military head of state later.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly identifies Major Aguiyi Ironsi as the first military political leader after the initial coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Major Aguiyi Ironsi</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Major Aguiyi Ironsi"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "The second military coup, which occurred months after the first, was led by Colonel:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Chukwuemeka Ojukwu" },
+        { "type": "string", "content": "Yakubu Gowon" },
+        { "type": "string", "content": "Ibrahim Babangida" },
+        { "type": "string", "content": "Sani Abacha" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Nigerian History", "Second Military Coup"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the Second Military Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The rapid succession of coups in 1966 led to significant political upheaval and eventually contributed to the Nigerian Civil War. The second coup overthrew the regime established by the first.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the Colonel who led the second military coup, as stated in the document.</div><strong>Step 1: Locate the leader of the second coup.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 12</span>, the notes state: \"months steer the first coup. h the second coup voas carried ass following <span style='color:var(--orange);font-weight:bold;'>Colonel Yakuby Gown</span> Loho beame botto military and political Leader-\". (Note: The name is spelled 'Yakuby Gown' in the document, but commonly known as Yakubu Gowon).<br/><ul><li>Option 0: \"Chukwuemeka Ojukwu\" was involved but not the leader of this coup.</li><li>Option 1: \"Yakubu Gowon\" (as spelled 'Yakuby Gown' in notes) directly matches the information.</li><li>Option 2: \"Ibrahim Babangida\" led a later coup.</li><li>Option 3: \"Sani Abacha\" led a later coup.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly identify Colonel Yakubu Gowon as the leader of the second coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Yakubu Gowon</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yakubu Gowon"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "The NNDP (Nigerian National Democratic Party) was formed in 1923 by Nnamdi Azikiwe and:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Obafemi Awolowo." },
+        { "type": "string", "content": "Herbert Macaulay." },
+        { "type": "string", "content": "Ahmadu Bello." },
+        { "type": "string", "content": "Tafawa Balewa." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "Nigerian History", "NNDP"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Founders of NNDP</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Early political parties in Nigeria played a crucial role in mobilizing nationalist sentiment and advocating for greater indigenous participation in governance, eventually leading to independence.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the co-founder of the NNDP alongside Nnamdi Azikiwe, as stated in the document.</div><strong>Step 1: Locate the founders of NNDP.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, the notes state: \"NNDP (1923) by <span style='color:var(--orange);font-weight:bold;'>Anamali Azikwe/thi Gert Macaulay</span> woss the 1st Pol-Party in Nig\". (Note: The name is spelled 'Anamali Azikwe' and 'thi Gert Macaulay' in the document, but commonly known as Nnamdi Azikiwe and Herbert Macaulay. I will use the common spelling for the options and clarify).<br/><ul><li>Option 0: \"Obafemi Awolowo.\" He founded the Action Group (AG).</li><li>Option 1: \"Herbert Macaulay.\" This matches the individual mentioned in the notes as co-founder.</li><li>Option 2: \"Ahmadu Bello.\" He was a leader of the Northern People's Congress (NPC).</li><li>Option 3: \"Tafawa Balewa.\" He was a prominent leader and first Prime Minister, but not a founder of NNDP.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly identify Herbert Macaulay as a co-founder of the NNDP.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Herbert Macaulay.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Herbert Macaulay."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The first military coup in Nigeria occurred on January 15, 1966. What was the date of the counter-coup?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "July 29, 1966" },
+        { "type": "string", "content": "December 31, 1983" },
+        { "type": "string", "content": "August 27, 1985" },
+        { "type": "string", "content": "November 17, 1993" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Nigerian History", "Counter-Coup"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Date of the Counter-Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The political instability following Nigeria's first military coup quickly led to another coup, often referred to as the 'counter-coup,' which changed the leadership and direction of the military government.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the date of the counter-coup, specifically identified in the document as countering the January 15, 1966 coup.</div><strong>Step 1: Locate the date of the counter-coup.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, under \"Nigeria had six major Coup d'etat,\" point 2 is: \"<span style='color:var(--orange);font-weight:bold;'>29 July 1966 (counter coup)</span>\". This is also confirmed by a pink sticky note on <span style='color:var(--orange);font-weight:bold;'>page 14</span>, \"coup was a counter coup against the 15 jan 1966 Coup\".<br/><ul><li>Option 0: \"July 29, 1966\" directly matches the date provided for the counter-coup.</li><li>Option 1: \"December 31, 1983\" is the date of a later coup.</li><li>Option 2: \"August 27, 1985\" is the date of a later coup.</li><li>Option 3: \"November 17, 1993\" is the date of a later coup.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly labels July 29, 1966, as the counter-coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ July 29, 1966</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "July 29, 1966"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Who led the third coup d'etat in Nigeria on July 29, 1975?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Brigadier-General Murtala Mohammed" },
+        { "type": "string", "content": "General Muhammadu Buhari" },
+        { "type": "string", "content": "General Ibrahim Babangida" },
+        { "type": "string", "content": "General Sani Abacha" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Nigerian History", "Third Coup"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the Third Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Nigeria experienced a series of military coups following its independence, each bringing a new regime and leadership.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the leader of the third coup d'etat on July 29, 1975, as stated in the document.</div><strong>Step 1: Locate the leader of the third coup.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, under \"Nigeria had six major Coup d'etat,\" point 3 is: \"The third coup in 29 July 1975 was led by <span style='color:var(--orange);font-weight:bold;'>Brigedateer gen-murtula M. & Olusegun</span>\". (Note: This is recorded as Brigadier-General Murtala Mohammed. Olusegun likely refers to Obasanjo, who became his deputy and later successor, but the prompt focuses on the *leader* of the coup, which was Murtala Mohammed).<br/><ul><li>Option 0: \"Brigadier-General Murtala Mohammed\" aligns with the document's information.</li><li>Option 1: \"General Muhammadu Buhari\" led the 1983 coup.</li><li>Option 2: \"General Ibrahim Babangida\" led the 1985 coup.</li><li>Option 3: \"General Sani Abacha\" led the 1993 coup.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes specifically credit Brigadier-General Murtala Mohammed with leading the July 1975 coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Brigadier-General Murtala Mohammed</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brigadier-General Murtala Mohammed"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Who led the fifth coup in Nigeria on August 21, 1985?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "General Ibrahim Babangida" },
+        { "type": "string", "content": "General Muhammadu Buhari" },
+        { "type": "string", "content": "General Yakubu Gowon" },
+        { "type": "string", "content": "Brigadier-General Murtala Mohammed" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Nigerian History", "Fifth Coup"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the Fifth Coup</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The 1980s saw further military interventions in Nigeria, with changes in leadership and policy direction often initiated through coups.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the leader of the fifth coup d'etat on August 21, 1985, as specified in the document.</div><strong>Step 1: Locate the leader of the fifth coup.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, under \"Nigeria had six major Coup d'etat,\" point 5 is: \"* the fifth coup in 21 August 1985 was led by <span style='color:var(--orange);font-weight:bold;'>General Ibrahitun Badames Banagada</span>\". (Note: This is recorded as General Ibrahim Badamasi Babangida).<br/><ul><li>Option 0: \"General Ibrahim Babangida\" aligns with the document's information.</li><li>Option 1: \"General Muhammadu Buhari\" led the 1983 coup.</li><li>Option 2: \"General Yakubu Gowon\" led the 1966 counter-coup.</li><li>Option 3: \"Brigadier-General Murtala Mohammed\" led the 1975 coup.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly state General Ibrahim Babangida led the 1985 coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ General Ibrahim Babangida</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "General Ibrahim Babangida"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "The last coup listed in the document, on November 17, 1993, was led by:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "General Olusegun Obasanjo" },
+        { "type": "string", "content": "General Sani Abacha" },
+        { "type": "string", "content": "General Abdulsalami Abubakar" },
+        { "type": "string", "content": "General Murtala Mohammed" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Military Coups", "Nigerian History", "Last Coup"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of the Last Coup (1993)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The 1993 coup occurred amidst a political crisis following the annulment of presidential election results, ushering in another period of military rule.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the leader of the last coup mentioned in the document, which took place on November 17, 1993.</div><strong>Step 1: Locate the leader of the last coup.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 13</span>, under \"Nigeria had six major Coup d'etat,\" point 6 is: \"* The last coup in 17 November 1993 was led by <span style='color:var(--orange);font-weight:bold;'>Sani Albacka</span>\". (Note: This is recorded as Sani Abacha).<br/><ul><li>Option 0: \"General Olusegun Obasanjo\" was not the leader of this coup.</li><li>Option 1: \"General Sani Abacha\" (as spelled 'Sani Albacka' in notes) directly matches the information.</li><li>Option 2: \"General Abdulsalami Abubakar\" succeeded Abacha.</li><li>Option 3: \"General Murtala Mohammed\" led a much earlier coup.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes clearly state Sani Abacha as the leader of the November 1993 coup.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ General Sani Abacha</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "General Sani Abacha"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Which political party was led by Herbert Macaulay?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Action Group (AG)" },
+        { "type": "string", "content": "National Council of Nigeria and the Cameroons (NCNC)" },
+        { "type": "string", "content": "Nigerian National Democratic Party (NNDP)" },
+        { "type": "string", "content": "Northern People's Congress (NPC)" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "Nigerian History", "Party Leaders"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of NCNC</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Major political parties in colonial and post-colonial Nigeria were often associated with prominent nationalist figures who championed their respective platforms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the political party led by Herbert Macaulay, according to the document.</div><strong>Step 1: Locate the party led by Herbert Macaulay.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 14</span>, under the list of political party leaders, point 0 states: \"<span style='color:var(--orange);font-weight:bold;'>NCNC was led by Herbert Macaulay</span>\".<br/><ul><li>Option 0: \"Action Group (AG)\" was led by Obafemi Awolowo.</li><li>Option 1: \"National Council of Nigeria and the Cameroons (NCNC)\" directly matches the information in the notes.</li><li>Option 2: \"Nigerian National Democratic Party (NNDP)\" was formed by Herbert Macaulay and Nnamdi Azikiwe, but NCNC is explicitly stated as 'led by Herbert Macaulay'.</li><li>Option 3: \"Northern People's Congress (NPC)\" was led by Ahmadu Bello.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly state NCNC was led by Herbert Macaulay.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ National Council of Nigeria and the Cameroons (NCNC)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "National Council of Nigeria and the Cameroons (NCNC)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Who led the Action Group (AG) political party?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Nnamdi Azikiwe" },
+        { "type": "string", "content": "Obafemi Awolowo" },
+        { "type": "string", "content": "Sam Mbakwe" },
+        { "type": "string", "content": "Alex Ekueme" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Political Parties", "Nigerian History", "Party Leaders"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leader of Action Group (AG)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The Action Group was one of the major political parties in Nigeria during the pre-independence and First Republic periods, primarily active in the Western Region.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the leader of the Action Group (AG) political party, as stated in the document.</div><strong>Step 1: Locate the leader of AG.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 14</span>, under the list of political party leaders, point 2 states: \"<span style='color:var(--orange);font-weight:bold;'>AG obajemi Awolowo</span>\". (Note: This is recorded as Obafemi Awolowo).<br/><ul><li>Option 0: \"Nnamdi Azikiwe\" led the NCNC.</li><li>Option 1: \"Obafemi Awolowo\" directly matches the information in the notes.</li><li>Option 2: \"Sam Mbakwe\" led the MPL.</li><li>Option 3: \"Alex Ekueme\" was associated with PDP.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly state Obafemi Awolowo as the leader of the AG.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Obafemi Awolowo</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Obafemi Awolowo"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "The Nigerian Civil War took place between which years?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "1960-1963" },
+        { "type": "string", "content": "1967-1970" },
+        { "type": "string", "content": "1975-1979" },
+        { "type": "string", "content": "1983-1985" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Civil War", "Nigerian History", "Conflict Dates"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dates of Nigerian Civil War</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The Nigerian Civil War, also known as the Biafran War, was a major internal conflict that significantly shaped the nation's history and national identity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific years during which the Nigerian Civil War occurred, as stated in the document.</div><strong>Step 1: Locate the dates of the civil war.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 15</span>, the heading for the section is: \"<span style='color:var(--orange);font-weight:bold;'>NIGERIAN CIVIL WAR (1967-1970)</span>\".<br/><ul><li>Option 0: \"1960-1963\" covers independence and becoming a republic.</li><li>Option 1: \"1967-1970\" directly matches the years provided in the notes.</li><li>Option 2: \"1975-1979\" covers later military regimes.</li><li>Option 3: \"1983-1985\" covers later military regimes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly states the Nigerian Civil War years as 1967-1970 in its heading.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1967-1970</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1967-1970"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "The process of Reconstruction, Rehabilitation, and Re-orientation (3Rs) was introduced in January 1970 by the government of General:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Murtala Mohammed." },
+        { "type": "string", "content": "Olusegun Obasanjo." },
+        { "type": "string", "content": "Yakubu Gowon." },
+        { "type": "string", "content": "Shehu Shagari." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Civil War", "3Rs Program", "Nigerian History"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Introduction of 3Rs Program</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Following the Nigerian Civil War, the federal government initiated a comprehensive program aimed at reunifying the country, rehabilitating affected populations, and reorienting national identity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the General whose government introduced the 3Rs program in January 1970, as stated in the document.</div><strong>Step 1: Locate the information about the 3Rs introduction.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, under \"THE PROCESS OF RECONSTRUCTION, REHABILITATION AND RE-ORIENTATION,\" the notes state: \"The 3Rs was a framework adopted to restore Nigeria into one whole. It was intro-duced in <span style='color:var(--orange);font-weight:bold;'>January 1970 by General Yakuby Gowon's Govemment</span>\".<br/><ul><li>Option 0: \"Murtala Mohammed\" led a coup later in 1975.</li><li>Option 1: \"Olusegun Obasanjo\" was part of a later military regime.</li><li>Option 2: \"Yakubu Gowon\" directly matches the information in the notes.</li><li>Option 3: \"Shehu Shagari\" was the first civilian president of the Second Republic.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly states General Yakubu Gowon's government introduced the 3Rs in January 1970.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Yakubu Gowon.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yakubu Gowon."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "The 'Rehabilitation' aspect of the 3Rs program focused on issues affecting human hearts and provided:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Advanced education and scholarships." },
+        { "type": "string", "content": "Shelter, medicare, and reintegration for affected Nigerians." },
+        { "type": "string", "content": "New political structures and democratic reforms." },
+        { "type": "string", "content": "Economic loans and business grants." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["3Rs Program", "Rehabilitation", "Post-Civil War"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Rehabilitation Component of 3Rs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Rehabilitation, in a post-conflict context, focuses on addressing the immediate human needs and the psychological and social reintegration of individuals affected by the conflict.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific provisions and focus of the 'Rehabilitation' component of the 3Rs program, as described in the document.</div><strong>Step 1: Locate the details of 'Rehabilitation'.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, the notes state: \"- <span style='color:var(--orange);font-weight:bold;'>Rehabilitation</span>: the Second R, u focused on issues affecting human hearts. the government provided <span style='color:var(--orange);font-weight:bold;'>Shelter, medicare etc and reint-egrated former Bagfran (Biafran) soldiers & other Nigerians into the Nigerian Army, Civil Service and Socuty as free citizens</span>\".<br/><ul><li>Option 0: \"Advanced education and scholarships.\" This is not explicitly mentioned as the primary focus of rehabilitation here.</li><li>Option 1: \"Shelter, medicare, and reintegration for affected Nigerians.\" This directly matches the provisions listed in the notes.</li><li>Option 2: \"New political structures and democratic reforms.\" This pertains to political restructuring, not rehabilitation.</li><li>Option 3: \"Economic loans and business grants.\" While part of recovery, it's not the explicit focus mentioned for rehabilitation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly outlines shelter, medicare, and reintegration as key elements of the rehabilitation effort.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Shelter, medicare, and reintegration for affected Nigerians.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shelter, medicare, and reintegration for affected Nigerians."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "The 'Re-orientation' aspect of the 3Rs program, which aimed to change the view of the people towards the ideology of One Nigeria, led to the introduction of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Operation Feed the Nation (OFN)." },
+        { "type": "string", "content": "National Youth Service Corps (NYSC) in 1973 and National Orientation Agency (NOA)." },
+        { "type": "string", "content": "War Against Indiscipline (WAI)." },
+        { "type": "string", "content": "The Green Revolution program." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["3Rs Program", "Re-orientation", "NYSC", "NOA"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Re-orientation Component of 3Rs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Re-orientation in a post-conflict society seeks to foster national unity and cohesion by promoting a shared national identity and values, often through educational and social programs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific programs introduced as a result of the 'Re-orientation' aspect of the 3Rs, as described in the document.</div><strong>Step 1: Locate the details of 'Re-orientation'.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, the notes state: \"- <span style='color:var(--orange);font-weight:bold;'>Re-orientation</span> / reconciliation this follows the end of the war It tried to change the view of the people towards the Ideology of One Nigeria - flence the introduction of <span style='color:var(--orange);font-weight:bold;'>NYSC in 1973, the federal character principle, and National Orientation Agency (CHOAS - NOA)</span>\". (Note: CHOAS is likely a misspelling of NOA or a related agency, but NOA is clear).<br/><ul><li>Option 0: \"Operation Feed the Nation (OFN)\" was introduced later and focused on agriculture.</li><li>Option 1: \"National Youth Service Corps (NYSC) in 1973 and National Orientation Agency (NOA).\" This directly matches the programs mentioned in the notes.</li><li>Option 2: \"War Against Indiscipline (WAI)\" was introduced much later.</li><li>Option 3: \"The Green Revolution program\" was introduced later and focused on agriculture.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly links the introduction of NYSC in 1973 and the National Orientation Agency to the Re-orientation efforts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ National Youth Service Corps (NYSC) in 1973 and National Orientation Agency (NOA).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "National Youth Service Corps (NYSC) in 1973 and National Orientation Agency (NOA)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "'Reconstruction' as part of the 3Rs program focused on rebuilding public places such as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Schools, electricity, hospitals, and bridges." },
+        { "type": "string", "content": "Military barracks and training camps." },
+        { "type": "string", "content": "New national capitals and government buildings." },
+        { "type": "string", "content": "International airports and seaports." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["3Rs Program", "Reconstruction", "Post-Civil War"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reconstruction Component of 3Rs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Reconstruction in a post-conflict scenario involves the physical rebuilding of damaged infrastructure and public amenities to restore functionality and normalcy to affected regions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific types of public places that 'Reconstruction' focused on rebuilding, as described in the document.</div><strong>Step 1: Locate the details of 'Reconstruction'.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 16</span>, the notes state: \"<span style='color:var(--orange);font-weight:bold;'>Reconstruction</span>; the first R was focused on refonuilding public places and facilities such as <span style='color:var(--orange);font-weight:bold;'>schools, electricity, hospital, bridges etc that were destroy during the civil war</span>\".<br/><ul><li>Option 0: \"Schools, electricity, hospitals, and bridges.\" This directly matches the examples provided in the notes.</li><li>Option 1: \"Military barracks and training camps.\" While potentially damaged, the focus here is on public civil infrastructure.</li><li>Option 2: \"New national capitals and government buildings.\" This is a much larger-scale political project, not the immediate focus of post-war reconstruction listed.</li><li>Option 3: \"International airports and seaports.\" These are specific large infrastructures, but the list given is broader and more fundamental.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides a clear list of public places like schools, electricity infrastructure, hospitals, and bridges as targets for reconstruction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Schools, electricity, hospitals, and bridges.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Schools, electricity, hospitals, and bridges."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "According to the document, which type of norm is considered the most lenient, attracting mild punishments?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Laws." },
+        { "type": "string", "content": "Taboos." },
+        { "type": "string", "content": "Folkways." },
+        { "type": "string", "content": "Mores." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Norms", "Social Norms", "Folkways"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leniency of Norms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Norms</strong> are shared rules of conduct that tell people how to act in specific situations. They vary in their level of importance and the severity of sanctions for their violation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of norm that is considered the most lenient and associated with mild punishments, according to the document.</div><strong>Step 1: Locate the description of lenient norms.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, under \"Norms are of 4 types,\" point 1 states: \"<span style='color:var(--orange);font-weight:bold;'>Fotkuoays</span> (Folkways); It is the most lemant of allnormes (lenient of all norms) more ; it attracts milol punishments on <span style='color:var(--orange);font-weight:bold;'>milol punishments</span>\".<br/><ul><li>Option 0: \"Laws.\" Laws are formal norms with serious consequences.</li><li>Option 1: \"Taboos.\" Taboos represent the strongest prohibitions.</li><li>Option 2: \"Folkways.\" This directly matches the description of the most lenient norms with mild punishments.</li><li>Option 3: \"Mores.\" While often carrying mild punishments, the document explicitly states Folkways are the *most* lenient.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly state that folkways are the most lenient norms and attract mild punishments.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Folkways.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Folkways."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "'Taboos' are described as what kind of behaviors?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Encouraged and celebrated." },
+        { "type": "string", "content": "Optional and discretionary." },
+        { "type": "string", "content": "Unacceptable and forbidden." },
+        { "type": "string", "content": "Common and everyday." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Norms", "Taboos", "Social Norms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Taboos</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Taboos</strong> are powerful social prohibitions that forbid specific actions, words, or objects considered to be sacred, cursed, or dangerous. Violating a taboo often carries severe social consequences.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the description of 'Taboos' as provided in the document.</div><strong>Step 1: Locate the description of taboos.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, under \"Norms are of 4 types,\" point 3 states: \"<span style='color:var(--orange);font-weight:bold;'>taboos</span>; This is referred to <span style='color:var(--orange);font-weight:bold;'>chacceptable & Forbid-den (forbidden) behaicours</span> volthin'm (within) a cuture (culture)\".<br/><ul><li>Option 0: \"Encouraged and celebrated.\" This is the opposite of taboos.</li><li>Option 1: \"Optional and discretionary.\" Taboos are strict prohibitions.</li><li>Option 2: \"Unacceptable and forbidden.\" This directly matches the description provided in the notes.</li><li>Option 3: \"Common and everyday.\" Taboos are exceptional and highly restricted.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The notes explicitly define taboos as unacceptable and forbidden behaviors.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Unacceptable and forbidden.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unacceptable and forbidden."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "The mathematical formula for Corruption (C) is given as C = R + D - A. What does 'A' represent in this formula?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Allocation." },
+        { "type": "string", "content": "Authority." },
+        { "type": "string", "content": "Accountability." },
+        { "type": "string", "content": "Advantage." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Corruption", "Social Issues", "Formula"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Corruption Formula Component 'A'</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> The formula for corruption (C = R + D - A) suggests that corruption increases with economic rent and discretionary power, and decreases with accountability.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify what the variable 'A' stands for in the given corruption formula.</div><strong>Step 1: Locate the corruption formula and its components.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 17</span>, the notes state: \"Corruption can be expressed using the mathematical formula: <span style='color:var(--orange);font-weight:bold;'>C = R + D - A</span> where R = Economic rent D = Discretionary power A = <span style='color:var(--orange);font-weight:bold;'>Accountability</span>\".<br/><ul><li>Option 0: \"Allocation.\" This is not listed as 'A'.</li><li>Option 1: \"Authority.\" This is not listed as 'A'.</li><li>Option 2: \"Accountability.\" This directly matches the definition of 'A' in the formula.</li><li>Option 3: \"Advantage.\" This is not listed as 'A'.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly defines 'A' as Accountability within the corruption formula.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Accountability.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accountability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "The program 'SER' (Social Education/Enlightenment/Mobilisation?) was introduced in 1987 for mass mobilization focused on social justice, self-reliance, and:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Political reforms." },
+        { "type": "string", "content": "Cultural preservation." },
+        { "type": "string", "content": "Economic recovery." },
+        { "type": "string", "content": "Environmental protection." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["National Programs", "SER", "Social Issues"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Focus of SER Program</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> National orientation and mobilization programs are often implemented by governments to instill certain values, promote development goals, and foster national cohesion.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the third focus area of the SER program, alongside social justice and self-reliance, as stated in the document.</div><strong>Step 1: Locate the focus areas of SER.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 18</span>, the notes state: \"SER <span style='color:var(--orange);font-weight:bold;'>→ mass mobilisation for socid justice: Self-relcance and economic recalery</span> (recovery)\".<br/><ul><li>Option 0: \"Political reforms.\" While indirectly related, it is not explicitly stated as a core focus.</li><li>Option 1: \"Cultural preservation.\" This is not mentioned as a primary goal of SER.</li><li>Option 2: \"Economic recovery.\" This directly matches the third focus area mentioned in the notes.</li><li>Option 3: \"Environmental protection.\" This is not stated as a focus of SER.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists \"economic recovery\" as a key focus of the SER program.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Economic recovery.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic recovery."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "What art form is primarily associated with the Benin Kingdom, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Terra cotta figures." },
+        { "type": "string", "content": "Igbo-Ukwu bronze masks." },
+        { "type": "string", "content": "Bronze sculptures and brass plaques." },
+        { "type": "string", "content": "Stone carvings from Esie." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Art", "Benin Kingdom", "Historical Arts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Benin Art Forms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The Benin Kingdom is renowned for its sophisticated art production, particularly in metalwork, which served both aesthetic and political purposes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the primary art form associated with the Benin Kingdom, as specified in the document.</div><strong>Step 1: Locate the art form for Benin.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 19</span>, under \"HISTORICAL ROOTS OF NIGERIAN CULTURE & ARTS (PRE COLONIAL ERA),\" it states: \"<span style='color:var(--orange);font-weight:bold;'>Bronze Sculptures where of the Benin Kinght</span> (Kingdom)\". On <span style='color:var(--orange);font-weight:bold;'>page 21</span>, under \"Sculpture of Nigeria's heritage,\" it says: \"The art of Benin ise royal art expressed in Ivory carving and bronze casting. It is panow for it's <span style='color:var(--orange);font-weight:bold;'>bronze & brass saeptures and plagnes (plaques)</span>\". The table on the same page confirms \"Benin: Edo State, Bronze (Brass plaques), royal heads and Ivory\".<br/><ul><li>Option 0: \"Terra cotta figures.\" These are associated with Nok culture.</li><li>Option 1: \"Igbo-Ukwu bronze masks.\" Igbo-Ukwu is associated with bronze/copper-alloy work, but masks are not exclusively mentioned.</li><li>Option 2: \"Bronze sculptures and brass plaques.\" This directly matches the descriptions from the notes.</li><li>Option 3: \"Stone carvings from Esie.\" Esie carvings are not mentioned in this document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document consistently highlights bronze sculptures, brass plaques, and ivory carving as key Benin art forms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Bronze sculptures and brass plaques.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bronze sculptures and brass plaques."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "According to the document, which culture is associated with Terra cotta figures?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Ife culture." },
+        { "type": "string", "content": "Benin culture." },
+        { "type": "string", "content": "Nok culture." },
+        { "type": "string", "content": "Igbo-Ukwu culture." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Art", "Nok Culture", "Historical Arts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Culture Associated with Terra Cotta Figures</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Ancient Nigerian cultures developed distinct artistic traditions, often characterized by the materials and techniques they employed for their sculptures and artifacts.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the culture primarily associated with Terra cotta figures, as stated in the document.</div><strong>Step 1: Locate the association of Terra cotta.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 19</span>, under \"HISTORICAL ROOTS OF NIGERIAN CULTURE & ARTS,\" it states: \"Terra colta figure of the <span style='color:var(--orange);font-weight:bold;'>Nok culture</span>\". On <span style='color:var(--orange);font-weight:bold;'>page 20</span>, under \"Nok Callture (Culture),\" it mentions: \"The abk (Nok) culture thrived in life-size <span style='color:var(--orange);font-weight:bold;'>terra cotical (terra cotta) capottery (sculpture/pottery)</span>\". The table on <span style='color:var(--orange);font-weight:bold;'>page 21</span> confirms \"Nok: Central Nigeria, Terra cotta Sculpture\".<br/><ul><li>Option 0: \"Ife culture.\" Ife is known for naturalistic bronzes, brass, and terra cotta sculptures but Nok is specifically highlighted for terra cotta figures.</li><li>Option 1: \"Benin culture.\" Benin is known for bronze and brass.</li><li>Option 2: \"Nok culture.\" This directly matches the information provided in the notes.</li><li>Option 3: \"Igbo-Ukwu culture.\" Igbo-Ukwu is known for bronze/copper-alloy work.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document consistently associates terra cotta figures with the Nok culture.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nok culture.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nok culture."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "The Yoruba people's traditional system was described as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Fragmented and local." },
+        { "type": "string", "content": "Decentralized with village autonomy." },
+        { "type": "string", "content": "Centralized to an extent and ruled by a constitutional monarch." },
+        { "type": "string", "content": "Primarily democratic with elected leaders." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Yoruba Culture", "Traditional Political Systems", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Yoruba Traditional System</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Pre-colonial Nigerian societies had diverse political structures, ranging from highly centralized empires to decentralized village-based governance. The Yoruba system had specific characteristics.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the description of the Yoruba traditional system as provided in the document.</div><strong>Step 1: Locate the description of the Yoruba system.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 19</span>, under \"THE YORUBA PEOPLE AND CULTURE,\" the notes state: \"the <span style='color:var(--orange);font-weight:bold;'>Yoruba traditional system was centralized to an extent</span>. * the system was <span style='color:var(--orange);font-weight:bold;'>ruled by a constitutional monarch</span>\".<br/><ul><li>Option 0: \"Fragmented and local.\" This contradicts the \"centralized\" aspect.</li><li>Option 1: \"Decentralized with village autonomy.\" This describes some other groups, not explicitly the Yoruba in this context.</li><li>Option 2: \"Centralized to an extent and ruled by a constitutional monarch.\" This directly matches the description in the notes.</li><li>Option 3: \"Primarily democratic with elected leaders.\" This is not how the Yoruba system is described.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly characterizes the Yoruba system as centralized to an extent and led by a constitutional monarch.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Centralized to an extent and ruled by a constitutional monarch.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Centralized to an extent and ruled by a constitutional monarch."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "The 'Ogboni' were described as a secret cult of the earth, made up of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Religious priests only." },
+        { "type": "string", "content": "Highly influential people." },
+        { "type": "string", "content": "Warriors and soldiers." },
+        { "type": "string", "content": "Farmers and traders." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Yoruba Culture", "Ogboni Society", "Traditional Governance"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Composition of the Ogboni Society</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> In traditional Yoruba society, secret societies like the Ogboni played significant roles in governance, justice, and spiritual matters, often comprising individuals with substantial societal standing.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the composition of the 'Ogboni' society as described in the document.</div><strong>Step 1: Locate the description of Ogboni.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 19</span>, under \"THE YORUBA PEOPLE AND CULTURE,\" the notes state: \"+ The <span style='color:var(--orange);font-weight:bold;'>Ogboni</span> are the secret cult of the earth <span style='color:var(--orange);font-weight:bold;'>made up of highly influencial people</span>\".<br/><ul><li>Option 0: \"Religious priests only.\" This is too narrow; the description focuses on influence.</li><li>Option 1: \"Highly influential people.\" This directly matches the description in the notes.</li><li>Option 2: \"Warriors and soldiers.\" This describes a different societal role.</li><li>Option 3: \"Farmers and traders.\" These are occupations, not necessarily indicating influence in the context of the Ogboni.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly states the Ogboni were comprised of \"highly influential people.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Highly influential people.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Highly influential people."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Which ancient Nigerian culture's best-known achievement is the Terra Cotta Art, and was also known for early iron-smelting?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Ife Culture." },
+        { "type": "string", "content": "Benin Culture." },
+        { "type": "string", "content": "Nok Culture." },
+        { "type": "string", "content": "Igbo-Ukwu Culture." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Art", "Nok Culture", "Terra Cotta"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nok Culture's Achievements</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> The Nok culture is significant in West African archaeology for its distinctive terracotta sculptures and for evidence of early iron-working, indicating advanced technological and artistic skills.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the ancient Nigerian culture renowned for Terra Cotta Art and early iron-smelting, as described in the document.</div><strong>Step 1: Locate the cultural achievements.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 20</span>, under \"Nok Callture (Culture),\" the notes state: \"Their best know acheulement is the <span style='color:var(--orange);font-weight:bold;'>berry catty ART (terra cotta ART)</span>. Earliest to practice <span style='color:var(--orange);font-weight:bold;'>iron-smelting</span> cam (and) liron (iron) work\". This explicitly links Nok culture to both terra cotta and iron-smelting.<br/><ul><li>Option 0: \"Ife Culture.\" Ife is known for metal casting, but Nok is specifically linked to the *earliest* iron-smelting and terra cotta as its best-known art.</li><li>Option 1: \"Benin Culture.\" Benin is famous for bronze and brass, not terra cotta and early iron-smelting.</li><li>Option 2: \"Nok Culture.\" This directly matches the information in the notes for both achievements.</li><li>Option 3: \"Igbo-Ukwu Culture.\" Igbo-Ukwu is known for bronze/copper-alloy work.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly attributes Terra Cotta Art as the best-known achievement and earliest iron-smelting practice to Nok culture.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Nok Culture.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nok Culture."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Ife Art originated between which centuries?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "7th and 9th Century." },
+        { "type": "string", "content": "11th and 15th Century." },
+        { "type": "string", "content": "16th and 18th Century." },
+        { "type": "string", "content": "19th and 20th Century." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Art", "Ife Art", "Historical Arts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Origin Century of Ife Art</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Ife, considered the spiritual heartland of the Yoruba people, is renowned for its naturalistic and sophisticated art, which emerged during a specific period in its history.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the centuries between which Ife Art originated, as stated in the document.</div><strong>Step 1: Locate the origin period of Ife Art.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 20</span>, under \"IFE ART,\" the notes state: \"It anginated (originated) between <span style='color:var(--orange);font-weight:bold;'>11th and 15th Century</span>\".<br/><ul><li>Option 0: \"7th and 9th Century.\" This is incorrect.</li><li>Option 1: \"11th and 15th Century.\" This directly matches the information in the notes.</li><li>Option 2: \"16th and 18th Century.\" This is incorrect.</li><li>Option 3: \"19th and 20th Century.\" This is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly states the 11th and 15th centuries as the origin period for Ife Art.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 11th and 15th Century.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "11th and 15th Century."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "The ancient archaeological site known for its highly sophisticated bronze/copper-alloy work, discovered in 1938 by Isigah Amozie, is located in:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Osun State." },
+        { "type": "string", "content": "Edo State." },
+        { "type": "string", "content": "Anambra State." },
+        { "type": "string", "content": "Plateau State." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Nigerian Archaeology", "Igbo-Ukwu", "Historical Arts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Location of Igbo-Ukwu</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Context:</em> Igbo-Ukwu is an internationally renowned archaeological site that provides crucial insights into the artistic, technological, and social achievements of the Igbo people long before the arrival of Europeans.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the location (state) of the ancient archaeological site known for sophisticated bronze/copper-alloy work, discovered by Isigah Amozie in 1938, as specified in the document.</div><strong>Step 1: Locate the location of the site.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 21</span>, under \"<span style='color:var(--orange);font-weight:bold;'>IGBO-UKWy</span> (Igbo-Ukwu),\" the notes state: \"<span style='color:var(--orange);font-weight:bold;'>Anambra State</span>, Souchen east Nigerng (Southeastern Nigeria). It is an ancient archeological Site Known for it's faighly sophisticated bronze & Copper-alloy work. The discovers were made in 1938 by a Locd man <span style='color:var(--orange);font-weight:bold;'>1591ah Amozie</span> (Isigah Amozie) - volute digging a well-\". This is further confirmed in the table on <span style='color:var(--orange);font-weight:bold;'>page 22</span>.<br/><ul><li>Option 0: \"Osun State.\" This is the location for Ife art.</li><li>Option 1: \"Edo State.\" This is the location for Benin art.</li><li>Option 2: \"Anambra State.\" This directly matches the location given in the notes.</li><li>Option 3: \"Plateau State.\" This is associated with Nok culture.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly identifies Anambra State as the location of Igbo-Ukwu.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Anambra State.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anambra State."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "When was Operation Feed the Nation (OFN) introduced?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "1970" },
+        { "type": "string", "content": "1976" },
+        { "type": "string", "content": "1979" },
+        { "type": "string", "content": "1984" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["National Programs", "Operation Feed the Nation (OFN)", "Agricultural Policies"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Introduction Date of OFN</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Program:</em> <strong>Operation Feed the Nation (OFN)</strong> was a Nigerian agricultural program initiated to encourage local food production and reduce reliance on food imports.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific year Operation Feed the Nation (OFN) was introduced, as stated in the document.</div><strong>Step 1: Locate the introduction date.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 22</span>, the notes state: \"<span style='color:var(--orange);font-weight:bold;'>Operation Feed the National (OFit - OFN) was antroduced (introduced) in 1976 by Chisegun Obasanjo</span>\".<br/><ul><li>Option 0: \"1970\" is the year the 3Rs program was introduced.</li><li>Option 1: \"1976\" directly matches the year provided in the notes.</li><li>Option 2: \"1979\" is when the Green Revolution was introduced.</li><li>Option 3: \"1984\" is when War Against Indiscipline (WAI) was introduced.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly states 1976 as the year OFN was introduced.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 1976</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1976"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "The 'War Against Indiscipline' (WAI) was introduced in March 1984 by the Buhari-Idiagbon military administration and was the brainchild of the:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "National Orientation Agency." },
+        { "type": "string", "content": "Federal Executive Council." },
+        { "type": "string", "content": "Supreme Military Council." },
+        { "type": "string", "content": "Ministry of Information." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["National Programs", "WAI", "Social Discipline"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Origin of WAI</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Program:</em> <strong>War Against Indiscipline (WAI)</strong> was a national re-orientation program launched by the military government to instill discipline, patriotism, and order among Nigerians.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the originating body or group behind the 'War Against Indiscipline' (WAI) program, as specified in the document.</div><strong>Step 1: Locate the origin of WAI.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 22</span>, the notes state: \"<span style='color:var(--orange);font-weight:bold;'>War Against Indisupline (WAI)</span> wins (was) atroduced (introduced) ia (in) digerim (Nigeria) in march 1984 by Bulbari-Idiagbon military adorinistration, it was the brain child of <span style='color:var(--orange);font-weight:bold;'>the supreme military council</span> te (it) had 6 phasu (phases)\".<br/><ul><li>Option 0: \"National Orientation Agency.\" While relevant to orientation, it was introduced later and not the *brainchild* of WAI.</li><li>Option 1: \"Federal Executive Council.\" This is a governing body, but the document specifically names the military council.</li><li>Option 2: \"Supreme Military Council.\" This directly matches the information in the notes.</li><li>Option 3: \"Ministry of Information.\" This is a government ministry, not the originating council.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly states that WAI was the brainchild of the Supreme Military Council.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Supreme Military Council.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Supreme Military Council."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Who coined the term 'ethnocentrism'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Karl Marx." },
+        { "type": "string", "content": "William Graham." },
+        { "type": "string", "content": "Ali Mazrui." },
+        { "type": "string", "content": "Olusanya." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnocentrism", "Sociology", "Key Thinkers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Origin of 'Ethnocentrism' Term</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Ethnocentrism</strong> is the act of judging another culture based on the standards of one's own culture, often leading to a belief in the superiority of one's own culture.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the individual credited with coining the term 'ethnocentrism', as stated in the document.</div><strong>Step 1: Locate the originator of the term.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 23</span>, the notes state: \"The ferm (term) <span style='color:var(--orange);font-weight:bold;'>enthocentrism</span> (ethnocentrism) was coined by <span style='color:var(--orange);font-weight:bold;'>William Graham</span>\".<br/><ul><li>Option 0: \"Karl Marx.\" Marx is associated with conflict theory and mode of production.</li><li>Option 1: \"William Graham.\" This directly matches the individual credited in the notes.</li><li>Option 2: \"Ali Mazrui.\" Mazrui is associated with nation building definitions.</li><li>Option 3: \"Olusanya.\" Olusanya is also associated with nation building definitions.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly names William Graham as the coiner of the term ethnocentrism.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ William Graham.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "William Graham."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "According to Kymlicka (1995), an ethnic minority is defined as a group that is numerically small and:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Economically self-sufficient compared to others." },
+        { "type": "string", "content": "Militarily strong compared to others." },
+        { "type": "string", "content": "Non-dominant when compared to other groups within a society." },
+        { "type": "string", "content": "Culturally isolated from other groups." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnic Minorities", "Kymlicka", "Definitions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Kymlicka's Definition of Ethnic Minority</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Will Kymlicka is a political philosopher known for his work on multiculturalism and the rights of minority groups. His definitions often highlight power differentials.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the additional characteristic of an ethnic minority, beyond being numerically small, according to Kymlicka (1995) as cited in the document.</div><strong>Step 1: Locate Kymlicka's definition.</strong> On <span style='color:var(--orange);font-weight:bold;'>page 24</span>, the notes state: \"According to <span style='color:var(--orange);font-weight:bold;'>Kymlicka (1995: 10) defined an ethnic minetry (minority) as a 'gaup (group) that o numerically small and non-dominant when compareal to othe grap(s) wuts (within) a society</span>'\".<br/><ul><li>Option 0: \"Economically self-sufficient compared to others.\" This is not part of Kymlicka's definition here.</li><li>Option 1: \"Militarily strong compared to others.\" This is not part of Kymlicka's definition here.</li><li>Option 2: \"Non-dominant when compared to other groups within a society.\" This directly matches the definition provided in the notes.</li><li>Option 3: \"Culturally isolated from other groups.\" While they might have distinct cultures, isolation is not the key aspect of non-dominance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Kymlicka's definition in the notes clearly identifies non-dominance as the other key characteristic of an ethnic minority.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Non-dominant when compared to other groups within a society.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-dominant when compared to other groups within a society."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "Explain the four types of norms as identified in the document.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Norms", "Social Norms", "Types of Norms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Social Norms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Norms</strong> are shared rules that guide behavior in a society. They vary in their level of formality and the severity of sanctions for their violation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an explanation of the four types of norms as identified in the document.</div><strong>Step 1: Identify and define each type of norm from the document.</strong> The document on <span style='color:var(--orange);font-weight:bold;'>page 17</span> lists four types of norms:<br/><ul><li><strong>Folkways:</strong> These are described as the <span style='color:var(--orange);font-weight:bold;'>most lenient of all norms</span>, attracting <span style='color:var(--orange);font-weight:bold;'>mild punishments</span> for their violation. They are typically customary ways of thinking, feeling, and behaving that are not morally significant.</li><li><strong>Mores:</strong> The document notes that mores also attract <span style='color:var(--orange);font-weight:bold;'>mild punishments</span>. While the distinction from folkways regarding punishment severity isn't heavily elaborated, mores are generally understood to be norms that are more closely linked to a society's moral values and beliefs.</li><li><strong>Taboos:</strong> These are referred to as <span style='color:var(--orange);font-weight:bold;'>unacceptable and forbidden behaviors</span> within a culture. Violating taboos often carries severe social disapproval and consequences because they are deeply ingrained prohibitions.</li><li><strong>Laws:</strong> Defined as a <span style='color:var(--orange);font-weight:bold;'>system of rules put in place to guide the actions of citizens/people in that region</span>. Laws are formal, codified norms enforced by the state, with specific penalties for infractions.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer must clearly differentiate between each type of norm based on their characteristics and the severity of associated sanctions, as outlined in the provided notes. For instance, clearly stating Folkways as the *most* lenient and Taboos as unacceptable/forbidden.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The four types of norms identified in the document are Folkways, Mores, Taboos, and Laws. Folkways are the most lenient norms, attracting mild punishments. Mores are also noted to attract mild punishments, indicating a slightly stronger social expectation than folkways. Taboos represent unacceptable and forbidden behaviors within a culture, carrying strong social sanctions. Laws are formal systems of rules established to guide citizen actions, enforced by the governing authority with prescribed penalties.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The four types of norms identified in the document are Folkways, Mores, Taboos, and Laws. Folkways are the most lenient norms, attracting mild punishments. Mores are also noted to attract mild punishments, indicating a slightly stronger social expectation than folkways. Taboos represent unacceptable and forbidden behaviors within a culture, carrying strong social sanctions. Laws are formal systems of rules established to guide citizen actions, enforced by the governing authority with prescribed penalties."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "Briefly describe two characteristics of the Ijaw/Izon ethnic nationality as presented in the document.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ethnic Minorities", "Ijaw/Izon", "Nigerian People and Culture"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Ijaw/Izon Ethnic Nationality</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Concept:</em> Ethnic groups in Nigeria possess distinct cultural, geographical, and political characteristics that shape their identity and way of life.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a brief description of two characteristics of the Ijaw/Izon ethnic nationality as presented in the document.</div><strong>Step 1: Identify characteristics from the document.</strong> The document on <span style='color:var(--orange);font-weight:bold;'>page 24</span> provides several characteristics for the Ijaw/Izon ethnic nationality:<br/><ul><li><strong>Geographical Location/Affinity:</strong> They are \"<span style='color:var(--orange);font-weight:bold;'>primarily found in B-ROD (Bayelsa, Rivers, Ondo, Delta) States</span>\" and have an \"<span style='color:var(--orange);font-weight:bold;'>affinity with water</span>.\" This means their lifestyle and economy are heavily influenced by their riverine environment.</li><li><strong>Economic Activities:</strong> They practice \"<span style='color:var(--orange);font-weight:bold;'>fishing, and also agriculture</span>\" and are involved in \"<span style='color:var(--orange);font-weight:bold;'>oil production</span>.\" Their economy is diverse, blending traditional practices with modern resource extraction.</li><li><strong>Political Organization:</strong> Their pre-colonial political organization was \"<span style='color:var(--orange);font-weight:bold;'>highly decentralized</span>\" with \"<span style='color:var(--orange);font-weight:bold;'>village elders constituting the governing body</span>.\" They did not have a centralized monarchical system.</li><li><strong>Prominent Deity:</strong> Their most prominent deity is \"<span style='color:var(--orange);font-weight:bold;'>Egwasy, god of war justice and protection</span>.\"</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A good answer would extract any two distinct and accurately described characteristics directly from the document. For instance, combining their geographical location with their decentralized political structure.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Ijaw/Izon ethnic nationality is primarily found in Bayelsa, Rivers, Ondo, and Delta States, with a strong affinity for water. Their pre-colonial political organization was highly decentralized, with village elders constituting the governing body.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Ijaw/Izon ethnic nationality is primarily found in Bayelsa, Rivers, Ondo, and Delta States, with a strong affinity for water. Their pre-colonial political organization was highly decentralized, with village elders constituting the governing body."
+    }
+  }
+]
+```
