@@ -1,0 +1,70 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Multiple Choice Questions (OBJ)"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the fundamental principle describing the gradual change in populations of organisms over successive generations?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Metamorphism" },
+        { "type": "string", "content": "Sedimentation" },
+        { "type": "string", "content": "Evolution" },
+        { "type": "string", "content": "Stratification" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Definition", "Evolution of Organisms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Evolution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Evolution:</em> The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the Earth. It involves changes in the heritable characteristics of biological populations over successive generations.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that describes the gradual change in populations of organisms over successive generations.</div><p style='margin-bottom:10px;'><strong>Step 1: Understand the core concept.</strong></p><p>The process of gradual change in living organisms over time, leading to diversification and the development of new species, is a central concept in biology and geology.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Metamorphism</span> refers to the change in the mineral composition and texture of rocks due to heat and pressure, not biological populations.</li><li><span style='color:var(--orange);font-weight:bold;'>Sedimentation</span> is the process of depositing sediments, forming layers, primarily in water.</li><li><span style='color:var(--orange);font-weight:bold;'>Evolution</span> precisely describes the gradual change in populations of organisms over successive generations.</li><li><span style='color:var(--orange);font-weight:bold;'>Stratification</span> refers to the layering of sedimentary rocks.</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Identify the correct term.</strong></p><p>Based on the definitions, <span style='color:var(--orange);font-weight:bold;'>Evolution</span> is the correct term.</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The other options describe geological processes related to rocks and layers, not biological change. The definition provided in the Key Concept box directly matches the question's premise.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The fundamental principle describing the gradual change in populations of organisms over successive generations is Evolution.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Evolution" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "In the context of the theory of evolution, what do changes in heritable characteristics of biological populations primarily result from?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Constant environmental conditions" },
+        { "type": "string", "content": "Random genetic drift and natural selection" },
+        { "type": "string", "content": "Immediate organismal adaptation during a single lifespan" },
+        { "type": "string", "content": "Fixed species forms over geological time" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Mechanisms", "Evolution of Organisms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mechanisms of Evolution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Natural Selection:</em> The process whereby organisms better adapted to their environment tend to survive and produce more offspring.<br/><em>Genetic Drift:</em> Random fluctuations in the numbers of gene variants in a population.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary causes for changes in heritable characteristics of biological populations within the theory of evolution.</div><p style='margin-bottom:10px;'><strong>Step 1: Recall the main drivers of evolutionary change.</strong></p><p>The theory of evolution, particularly modern synthesis, identifies several key mechanisms that lead to changes in heritable traits within populations over generations.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Constant environmental conditions</span> would generally lead to stable populations, not significant evolutionary change, as there would be no selective pressure for change.</li><li><span style='color:var(--orange);font-weight:bold;'>Random genetic drift and natural selection</span> are two of the most fundamental mechanisms of evolution. Natural selection drives adaptation by favoring advantageous traits, while genetic drift causes random changes in gene frequencies.</li><li><span style='color:var(--orange);font-weight:bold;'>Immediate organismal adaptation during a single lifespan</span> refers to phenotypic plasticity, which is not genetic change passed to offspring. Evolution operates on populations over generations.</li><li><span style='color:var(--orange);font-weight:bold;'>Fixed species forms over geological time</span> contradicts the very essence of the theory of evolution, which posits change and diversification.</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Conclude the primary mechanisms.</strong></p><p>Therefore, <span style='color:var(--orange);font-weight:bold;'>Random genetic drift and natural selection</span> are primary mechanisms driving evolutionary change.</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> These two mechanisms, along with mutation and gene flow, are widely recognized as the core processes that drive evolutionary change and the diversification of life.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Changes in heritable characteristics of biological populations primarily result from random genetic drift and natural selection.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Random genetic drift and natural selection" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which geological concept is most directly related to providing the framework for understanding the timeline of evolutionary changes in organisms?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Petrology" },
+        { "type": "string", "content": "Mineralogy" },
+        { "type": "string", "content": "Geomorphology" },
+        { "type": "string", "content": "Geological time scale" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Geological Time", "Evolution of Organisms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Geological Time Scale and Evolution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Geological Time Scale:</em> A system of chronological dating that relates geological strata (stratigraphy) to time, used by geologists, paleontologists, and other Earth scientists to describe the timing and relationships of events in Earth history.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'>The question asks for the geological concept that provides a timeline for understanding evolutionary changes.</div><p style='margin-bottom:10px;'><strong>Step 1: Identify the role of geological concepts in dating.</strong></p><p>Evolutionary changes occur over vast spans of time. To understand these changes, a chronological framework is essential.</p><p style='margin-bottom:10px;'><strong>Step 2: Evaluate the options.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Petrology</span> is the study of rocks, their composition, texture, structure, occurrence, and formation. It doesn't directly provide a timeline for biological evolution.</li><li><span style='color:var(--orange);font-weight:bold;'>Mineralogy</span> is the study of minerals, their chemistry, crystal structure, and physical properties. It's not directly about historical timelines.</li><li><span style='color:var(--orange);font-weight:bold;'>Geomorphology</span> is the study of landforms and the processes that shape them. While it deals with Earth's surface changes, it doesn't provide the grand chronological framework for evolution.</li><li><span style='color:var(--orange);font-weight:bold;'>Geological time scale</span> is precisely the chronological system developed by geologists to sequence and date events in Earth's history, including the appearance and evolution of life. It provides the 'when' for evolutionary changes.</li></ul><p style='margin-bottom:10px;'><strong>Step 3: Conclude the most relevant concept.</strong></p><p>The <span style='color:var(--orange);font-weight:bold;'>Geological time scale</span> is fundamental to understanding the timing and sequence of evolutionary events.</p><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-top:15px;'><strong>Verification:</strong> The entire history of life and its evolution is mapped onto
