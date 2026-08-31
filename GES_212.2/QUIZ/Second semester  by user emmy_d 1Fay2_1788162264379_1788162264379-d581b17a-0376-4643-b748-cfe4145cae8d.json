@@ -1,0 +1,897 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Logic And Philosophy",
+    "code": "GES 212.2",
+    "session": "Second semester  by user emmy_d 1Fay2",
+    "kind": "mixed",
+    "topics": [
+      "Definition of Philosophy",
+      "Nature of Philosophy",
+      "Etymology of Philosophy",
+      "History of Philosophy",
+      "Scope of Philosophy",
+      "Philosophy vs Science",
+      "Characteristics of Philosophy",
+      "Philosophical Method",
+      "Philosophical Methodology",
+      "Scientific Methodology",
+      "Branches of Philosophy",
+      "Metaphysics",
+      "Epistemology",
+      "Ethics",
+      "Aesthetics",
+      "Logic",
+      "Philosophy vs Religion",
+      "Nature of Religion",
+      "Political Philosophy",
+      "Fundamental Problems of Philosophy",
+      "Free Will",
+      "Classical Philosophical Questions",
+      "Methodology"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer all questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "The etymological meaning of 'philosophy' as 'love of wisdom' primarily implies a profound commitment to:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The active and continuous pursuit of understanding fundamental truths."
+        },
+        {
+          "type": "string",
+          "content": "Accumulating a vast collection of historical facts and events."
+        },
+        {
+          "type": "string",
+          "content": "Mastering the art of eloquent public speaking and debate."
+        },
+        {
+          "type": "string",
+          "content": "Developing practical skills for managing personal finances effectively."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Definition of Philosophy",
+      "Nature of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Meaning of Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy, derived from Greek words 'philos' (love) and 'sophia' (wisdom), fundamentally means <span style='color:var(--orange);font-weight:bold;'>'love of wisdom'</span>. This etymological root points to a deep-seated human desire to understand the world and one's place within it.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary implication of philosophy meaning 'love of wisdom'.</div><ol><li><strong>Step 1: Understand 'wisdom' in a philosophical context:</strong> Wisdom in philosophy is not merely factual knowledge but a deeper insight into the fundamental nature of reality, existence, values, and knowledge itself. It involves understanding the underlying principles and ultimate causes.</li><li><strong>Step 2: Understand 'love' in this context:</strong> 'Love' implies a strong desire, a dedication, and a passionate engagement. It signifies an active pursuit rather than a passive reception of knowledge.</li><li><strong>Step 3: Synthesize 'love of wisdom':</strong> Combining these, 'love of wisdom' translates to a continuous, active, and dedicated endeavor to seek out and understand these fundamental truths. It's a journey of intellectual inquiry and critical reflection.</li></ol><ul><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>\"The active and continuous pursuit of understanding fundamental truths.\"</span> This option perfectly aligns with the active 'love' and the profound 'wisdom' sought in philosophy, encompassing the continuous nature of inquiry.</li><li>Evaluating Option 2: \"Accumulating a vast collection of historical facts and events.\" While history can inform philosophy, philosophy's primary goal is not mere factual accumulation but understanding underlying principles, which goes beyond historical data.</li><li>Evaluating Option 3: \"Mastering the art of eloquent public speaking and debate.\" Rhetoric is a tool, not the core essence of philosophy. While philosophers often engage in debate, their goal is truth and wisdom, not just winning arguments.</li><li>Evaluating Option 4: \"Developing practical skills for managing personal finances effectively.\" This is a pragmatic concern of daily life, distinct from philosophy's fundamental inquiries into existence, knowledge, and values.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition of philosophy as 'love of wisdom' inherently emphasizes an ongoing intellectual quest for deep understanding, not just practical skills or superficial knowledge. The correct option captures this active, profound, and continuous search.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The active and continuous pursuit of understanding fundamental truths.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The active and continuous pursuit of understanding fundamental truths."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which statement accurately describes the historical origin of the term 'philosophy' and the individual often credited with its coinage?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The term originated in Latin and was coined by Socrates."
+        },
+        {
+          "type": "string",
+          "content": "The term 'philosophy' is derived from the <span style='color:var(--orange);font-weight:bold;'>Greek</span> language, and it is traditionally attributed to <span style='color:var(--orange);font-weight:bold;'>Pythagoras</span>."
+        },
+        {
+          "type": "string",
+          "content": "It emerged from ancient Egyptian texts and was first used by Thales."
+        },
+        {
+          "type": "string",
+          "content": "The word is French in origin, popularized by Aristotle."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Etymology of Philosophy",
+      "History of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Origin of 'Philosophy'</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The word 'philosophy' has a specific etymological origin. It is derived from the <span style='color:var(--orange);font-weight:bold;'>Greek</span> words 'philos' (love) and 'sophia' (wisdom). The ancient Greek mathematician and philosopher <span style='color:var(--orange);font-weight:bold;'>Pythagoras</span> is traditionally credited with coining the term 'philosopher' (one who loves wisdom).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the correct historical origin of the term 'philosophy' and the individual credited with coining it.</div><ol><li><strong>Step 1: Identify the language of origin:</strong> The provided material (Question 2 in the original document) states that 'philosophy' is derived from the <span style='color:var(--orange);font-weight:bold;'>Greek</span> language.</li><li><strong>Step 2: Identify the individual credited with coining the term:</strong> The provided material (Question 3 in the original document) states that <span style='color:var(--orange);font-weight:bold;'>Pythagoras</span> is traditionally credited with coining the term 'philosophy'.</li><li><strong>Step 3: Combine these two facts:</strong> The correct statement must accurately reflect both the language of origin and the coiner.</li></ol><ul><li>Evaluating Option 1: \"The term originated in Latin and was coined by Socrates.\" This is incorrect. The origin is Greek, and Pythagoras, not Socrates, is credited with coining the term.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>\"The term 'philosophy' is derived from the Greek language, and it is traditionally attributed to Pythagoras.\"</span> This statement accurately combines the facts about the Greek origin and Pythagoras as the coiner.</li><li>Evaluating Option 3: \"It emerged from ancient Egyptian texts and was first used by Thales.\" This is incorrect. The origin is Greek, and the credit for coining the term is given to Pythagoras.</li><li>Evaluating Option 4: \"The word is French in origin, popularized by Aristotle.\" This is incorrect. The origin is Greek, and Pythagoras is the credited coiner, not Aristotle.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Historical and etymological sources confirm that 'philosophy' is a Greek word and Pythagoras is widely acknowledged for its first use to describe intellectual pursuit. The chosen option correctly reflects these two historical points.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The term 'philosophy' is derived from the Greek language, and it is traditionally attributed to Pythagoras.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The term 'philosophy' is derived from the Greek language, and it is traditionally attributed to Pythagoras."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "A central distinguishing feature of philosophical inquiry, especially compared to empirical sciences, is its primary focus on:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The application of scientific experiments to validate hypotheses."
+        },
+        {
+          "type": "string",
+          "content": "Understanding the <span style='color:var(--orange);font-weight:bold;'>fundamental nature of reality, knowledge, and existence</span> beyond empirical observation."
+        },
+        {
+          "type": "string",
+          "content": "Documenting historical events and their immediate societal impacts."
+        },
+        {
+          "type": "string",
+          "content": "Developing practical technologies for societal advancement."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nature of Philosophy",
+      "Scope of Philosophy",
+      "Philosophy vs Science"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Core Focus of Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy primarily seeks to understand the <span style='color:var(--orange);font-weight:bold;'>fundamental nature of reality, knowledge, and existence</span>. Unlike empirical sciences that rely on experiments and observable phenomena, philosophy delves into questions that often transcend the realm of direct sensory experience or scientific measurement.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a central distinguishing feature of philosophical inquiry, especially in comparison to empirical sciences.</div><ol><li><strong>Step 1: Recall the primary aims of philosophy:</strong> The original document states that philosophy primarily seeks to understand the <span style='color:var(--orange);font-weight:bold;'>fundamental nature of reality, knowledge, and existence</span>. These are broad, foundational questions.</li><li><strong>Step 2: Contrast with empirical sciences:</strong> Empirical sciences focus on observable phenomena, testable hypotheses, and experimental validation within the physical world. Their scope is often limited to what can be measured or directly experienced.</li><li><strong>Step 3: Identify the distinct philosophical focus:</strong> The distinct feature of philosophy lies in its engagement with foundational questions that underpin all other forms of knowledge and experience, often using reason and conceptual analysis rather than empirical methods.</li></ol><ul><li>Evaluating Option 1: \"The application of scientific experiments to validate hypotheses.\" This describes the methodology of empirical science, not philosophy.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Understanding the fundamental nature of reality, knowledge, and existence beyond empirical observation.\"</span> This directly reflects the core concerns of philosophy, as stated in the document, and highlights its distinction from empirical sciences by emphasizing 'fundamental nature' and 'beyond empirical observation'.</li><li>Evaluating Option 3: \"Documenting historical events and their immediate societal impacts.\" This is the domain of history and social sciences, not the primary distinguishing feature of philosophy.</li><li>Evaluating Option 4: \"Developing practical technologies for societal advancement.\" This is the domain of engineering and applied sciences, not the core philosophical pursuit.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Philosophy investigates the 'why' and 'what it means' at the deepest levels, whereas science often addresses the 'how' within observed phenomena. The chosen option correctly identifies this fundamental difference in their scopes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Understanding the fundamental nature of reality, knowledge, and existence beyond empirical observation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understanding the fundamental nature of reality, knowledge, and existence beyond empirical observation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is most indicative of a philosophical approach to understanding the world, as opposed to relying on uncritical beliefs or propaganda?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Acceptance of narratives based solely on traditional authority."
+        },
+        {
+          "type": "string",
+          "content": "Dissemination of political ideologies to influence public opinion."
+        },
+        {
+          "type": "string",
+          "content": "Unquestioning adherence to supernatural explanations for all phenomena."
+        },
+        {
+          "type": "string",
+          "content": "Engagement in <span style='color:var(--orange);font-weight:bold;'>critical thinking and rational inquiry</span> to evaluate beliefs and claims."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Characteristics of Philosophy",
+      "Philosophical Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Philosophical Approach vs. Uncritical Beliefs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy is often characterized as a discipline that emphasizes <span style='color:var(--orange);font-weight:bold;'>critical thinking and rational inquiry</span>. It distinguishes itself from reliance on superstition and myths, or political propaganda. Conversely, dogmatism is explicitly identified as NOT a characteristic of philosophical reasoning.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify what best represents a philosophical approach, contrasting it with uncritical beliefs or propaganda.</div><ol><li><strong>Step 1: Identify characteristics *of* philosophy:</strong> The document indicates that critical thinking and rational inquiry are characteristics of philosophy (opposite of what philosophy is *not*).</li><li><strong>Step 2: Identify what philosophy is *not*:</strong> The document lists superstition, myths, political propaganda, and dogmatism as not characteristic of philosophy.</li><li><strong>Step 3: Evaluate options against these points:</strong> Look for an option that reflects critical, rational engagement and excludes uncritical acceptance.</li></ol><ul><li>Evaluating Option 1: \"Acceptance of narratives based solely on traditional authority.\" This represents an uncritical approach, often associated with dogmatism, not philosophy.</li><li>Evaluating Option 2: \"Dissemination of political ideologies to influence public opinion.\" This aligns with political propaganda, which the document states is not a characteristic of philosophy.</li><li>Evaluating Option 3: \"Unquestioning adherence to supernatural explanations for all phenomena.\" This represents reliance on superstition/myths and lacks critical inquiry, making it non-philosophical.</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Engagement in critical thinking and rational inquiry to evaluate beliefs and claims.\"</span> This directly matches the positive characteristics of philosophy and stands in opposition to the uncritical approaches mentioned.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core of philosophical methodology involves rigorous examination of assumptions, logical reasoning, and a questioning attitude, all encapsulated by critical thinking and rational inquiry. This is precisely what distinguishes it from passive belief or propaganda.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Engagement in critical thinking and rational inquiry to evaluate beliefs and claims.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Engagement in critical thinking and rational inquiry to evaluate beliefs and claims."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "A philosophical inquiry would typically eschew which of the following approaches in its pursuit of understanding?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Logical reasoning."
+        },
+        {
+          "type": "string",
+          "content": "Critical analysis."
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Dogmatic assertion of unquestionable doctrines.</span>"
+        },
+        {
+          "type": "string",
+          "content": "Systematic thinking."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Philosophical Method",
+      "Characteristics of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Approaches Eschewed by Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophical inquiry is characterized by <span style='color:var(--orange);font-weight:bold;'>logical reasoning, critical analysis, and systematic thinking</span>. Conversely, <span style='color:var(--orange);font-weight:bold;'>dogmatism</span> is explicitly stated as NOT a characteristic of philosophy. Dogmatism involves asserting principles as undeniably true without consideration of evidence or other opinions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks which approach a philosophical inquiry would typically avoid or reject ('eschew') in its pursuit of understanding.</div><ol><li><strong>Step 1: Identify what philosophy *does* embrace:</strong> The document lists logical reasoning, critical analysis, and systematic thinking as characteristics of philosophy.</li><li><strong>Step 2: Identify what philosophy *does not* embrace:</strong> The document explicitly states that dogmatism is NOT a characteristic of philosophy.</li><li><strong>Step 3: Relate 'dogmatic assertion' to 'dogmatism':</strong> A 'dogmatic assertion of unquestionable doctrines' is a direct description of dogmatism.</li></ol><ul><li>Evaluating Option 1: \"Logical reasoning.\" This is a fundamental characteristic of philosophy.</li><li>Evaluating Option 2: \"Critical analysis.\" This is a fundamental characteristic of philosophy.</li><li>Evaluating Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Dogmatic assertion of unquestionable doctrines.\"</span> This directly reflects dogmatism, which is explicitly stated as NOT a characteristic of philosophical inquiry. Philosophy requires openness to questioning and re-evaluation.</li><li>Evaluating Option 4: \"Systematic thinking.\" This is a fundamental characteristic of philosophy.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Philosophy is characterized by continuous questioning and rigorous examination of beliefs. Dogmatism, which demands uncritical acceptance of doctrines, stands in direct opposition to this core philosophical tenet.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dogmatic assertion of unquestionable doctrines.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dogmatic assertion of unquestionable doctrines."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The methodological divergence between philosophy and science is best understood as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Science relies on subjective interpretations, while philosophy uses objective data."
+        },
+        {
+          "type": "string",
+          "content": "Philosophy primarily relies on <span style='color:var(--orange);font-weight:bold;'>reasoning and conceptual analysis</span>, whereas science predominantly depends on <span style='color:var(--orange);font-weight:bold;'>empirical experiments and observations</span>."
+        },
+        {
+          "type": "string",
+          "content": "Both disciplines exclusively deal with abstract theoretical constructs without practical application."
+        },
+        {
+          "type": "string",
+          "content": "Science investigates ethical principles, while philosophy focuses on natural phenomena."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Philosophy vs Science",
+      "Philosophical Methodology",
+      "Scientific Methodology"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Methodological Divergence: Philosophy vs. Science</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy differs from science in its primary methodology. <span style='color:var(--orange);font-weight:bold;'>Philosophy relies on reasoning</span>, engaging in conceptual analysis, logical argumentation, and critical evaluation of ideas. <span style='color:var(--orange);font-weight:bold;'>Science relies on experiments</span>, employing empirical observation, hypothesis testing, and data collection to understand the natural world.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to characterize the methodological difference between philosophy and science.</div><ol><li><strong>Step 1: Identify philosophy's primary method:</strong> The document states philosophy relies on <span style='color:var(--orange);font-weight:bold;'>reasoning</span>. This encompasses logical thought, conceptual analysis, and argumentation.</li><li><strong>Step 2: Identify science's primary method:</strong> The document states science relies on <span style='color:var(--orange);font-weight:bold;'>experiments</span>. This implies empirical observation, data collection, and testing hypotheses.</li><li><strong>Step 3: Find the option that correctly contrasts these methods:</strong> Look for a choice that accurately captures this distinction.</li></ol><ul><li>Evaluating Option 1: \"Science relies on subjective interpretations, while philosophy uses objective data.\" This is generally incorrect; science strives for objectivity, and philosophy uses reason which can be critically assessed for its objectivity.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Philosophy primarily relies on reasoning and conceptual analysis, whereas science predominantly depends on empirical experiments and observations.\"</span> This accurately reflects the core methodological distinction identified in the document, highlighting philosophy's reliance on 'reasoning' and science's reliance on 'experiments'.</li><li>Evaluating Option 3: \"Both disciplines exclusively deal with abstract theoretical constructs without practical application.\" This is incorrect. Both can have practical applications, and science heavily involves empirical (not just abstract) constructs.</li><li>Evaluating Option 4: \"Science investigates ethical principles, while philosophy focuses on natural phenomena.\" This reverses the typical domains; ethics is a branch of philosophy, and natural phenomena are largely the domain of science.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The distinction is foundational: philosophy uses intellectual inquiry and logical processes to explore concepts, while science employs systematic observation and experimentation to explain physical reality. The chosen option clearly articulates this difference.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Philosophy primarily relies on reasoning and conceptual analysis, whereas science predominantly depends on empirical experiments and observations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Philosophy primarily relies on reasoning and conceptual analysis, whereas science predominantly depends on empirical experiments and observations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "A philosopher deeply concerned with questions like 'What is reality?' or 'Does God exist?' is primarily operating within the branch of philosophy known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Ethics, which focuses on moral principles."
+        },
+        {
+          "type": "string",
+          "content": "Epistemology, which investigates the nature of knowledge."
+        },
+        {
+          "type": "string",
+          "content": "Aesthetics, which studies art and beauty."
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Metaphysics</span>, which deals with the nature of reality."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Branches of Philosophy",
+      "Metaphysics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Branches of Philosophy: Metaphysics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Metaphysics</span> is a major branch of philosophy that deals with the <span style='color:var(--orange);font-weight:bold;'>nature of reality</span>. It explores fundamental questions about existence, being, time, space, causality, and abstract concepts like God or the soul.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question describes a philosopher's concern with 'What is reality?' or 'Does God exist?' and asks for the corresponding branch of philosophy.</div><ol><li><strong>Step 1: Analyze the given questions:</strong> 'What is reality?' directly probes the fundamental nature of existence. 'Does God exist?' is a question about ultimate being and the constituents of reality.</li><li><strong>Step 2: Recall the definitions of major philosophical branches:</strong>\n            <ul><li>Ethics deals with moral principles.</li><li>Epistemology deals with the study of knowledge.</li><li>Aesthetics deals with art and beauty.</li><li>Metaphysics deals with the nature of reality.</li></ul></li><li><strong>Step 3: Match the concerns to the correct branch:</strong> The questions about reality and existence fall squarely within the domain of metaphysics.</li></ol><ul><li>Evaluating Option 1: \"Ethics, which focuses on moral principles.\" This is incorrect; the given questions are not primarily about right/wrong or good/bad conduct.</li><li>Evaluating Option 2: \"Epistemology, which investigates the nature of knowledge.\" This is incorrect; while related, the primary focus here is not on the acquisition or validity of knowledge but on the nature of what is known.</li><li>Evaluating Option 3: \"Aesthetics, which studies art and beauty.\" This is incorrect; the questions are not about artistic judgment or aesthetic experience.</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Metaphysics, which deals with the nature of reality.\"</span> This accurately describes the branch concerned with the fundamental questions about existence, being, and reality itself, directly matching the philosopher's concerns.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Metaphysics is the philosophical field dedicated to exploring questions about ultimate reality that lie beyond the scope of empirical science. The questions posed are classic metaphysical inquiries.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Metaphysics, which deals with the nature of reality.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metaphysics, which deals with the nature of reality."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "A philosophical inquiry into the sources, nature, validity, and limits of knowledge would be the primary concern of which branch of philosophy?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Logic"
+        },
+        {
+          "type": "string",
+          "content": "Ethics"
+        },
+        {
+          "type": "string",
+          "content": "Aesthetics"
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Epistemology</span>"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Branches of Philosophy",
+      "Epistemology"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Branches of Philosophy: Epistemology</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Epistemology</span> is a major branch of philosophy concerned with the <span style='color:var(--orange);font-weight:bold;'>study of knowledge</span>. It investigates questions such as 'What is knowledge?', 'How is knowledge acquired?', 'What do we know?', 'How do we know what we know?', and 'What are the limits of knowledge?'.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the branch of philosophy concerned with the sources, nature, validity, and limits of knowledge.</div><ol><li><strong>Step 1: Analyze the key terms in the question:</strong> The phrases \"sources, nature, validity, and limits of knowledge\" all point directly to a core inquiry about knowledge itself.</li><li><strong>Step 2: Recall definitions of philosophical branches:</strong>\n            <ul><li>Logic deals with correct reasoning.</li><li>Ethics deals with moral principles.</li><li>Aesthetics deals with art and beauty.</li><li>Epistemology deals with the study of knowledge.</li></ul></li><li><strong>Step 3: Match the described inquiry to the correct branch:</strong> The detailed description perfectly aligns with the concerns of epistemology.</li></ol><ul><li>Evaluating Option 1: \"Logic\" deals with the principles of valid inference, not the nature of knowledge itself.</li><li>Evaluating Option 2: \"Ethics\" deals with moral philosophy, not the theory of knowledge.</li><li>Evaluating Option 3: \"Aesthetics\" deals with the philosophy of art and beauty.</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"Epistemology\"</span> is explicitly defined as the study of knowledge, directly covering all aspects mentioned in the question.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'epistemology' is derived from Greek words meaning 'knowledge' and 'study'. Its focus on the fundamental aspects of knowledge makes it the accurate answer for the inquiry described.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Epistemology</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistemology"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which branch of philosophy is dedicated to the systematic study of moral principles and values, exploring concepts of right and wrong conduct?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Ethics</span>"
+        },
+        {
+          "type": "string",
+          "content": "Metaphysics"
+        },
+        {
+          "type": "string",
+          "content": "Logic"
+        },
+        {
+          "type": "string",
+          "content": "Political philosophy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Branches of Philosophy",
+      "Ethics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Branches of Philosophy: Ethics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Ethics</span> is a branch of philosophy that focuses on <span style='color:var(--orange);font-weight:bold;'>moral principles and values</span>. It deals with questions concerning good and evil, right and wrong, and moral responsibility, guiding human conduct and character.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the branch of philosophy dedicated to the systematic study of moral principles and values, including right and wrong conduct.</div><ol><li><strong>Step 1: Analyze the key terms:</strong> \"Moral principles and values,\" \"right and wrong conduct\" are direct indicators of the field of ethics.</li><li><strong>Step 2: Recall the definitions of common philosophical branches:</strong>\n            <ul><li>Ethics: Moral principles and values.</li><li>Metaphysics: Nature of reality.</li><li>Logic: Principles of correct reasoning.</li><li>Political philosophy: Origin, nature, and purpose of the state.</li></ul></li><li><strong>Step 3: Match the description to the correct branch:</strong> The description perfectly aligns with ethics.</li></ol><ul><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Ethics\"</span> is the correct answer as it is the branch of philosophy that specifically focuses on moral principles and values, and concepts of right and wrong.</li><li>Evaluating Option 2: \"Metaphysics\" deals with the fundamental nature of reality, not morality.</li><li>Evaluating Option 3: \"Logic\" deals with correct reasoning, not moral values.</li><li>Evaluating Option 4: \"Political philosophy\" deals with the state and governance, which, while having ethical dimensions, is not solely focused on general moral principles of individual conduct.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Ethics, or moral philosophy, is universally recognized as the philosophical inquiry into morality, value, and conduct. The question's description precisely fits this definition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ethics</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethics"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "When a philosopher analyzes the criteria for aesthetic judgment, such as what constitutes beauty or how art conveys meaning, they are primarily engaged in the branch of philosophy known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Epistemology"
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Aesthetics</span>"
+        },
+        {
+          "type": "string",
+          "content": "Ethics"
+        },
+        {
+          "type": "string",
+          "content": "Metaphysics"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Branches of Philosophy",
+      "Aesthetics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Branches of Philosophy: Aesthetics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Aesthetics</span> is the philosophical study of <span style='color:var(--orange);font-weight:bold;'>art and beauty</span>. It investigates questions about the nature of artistic experience, the principles of taste, and the value of art.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question describes a philosopher analyzing criteria for aesthetic judgment, beauty, and how art conveys meaning, and asks for the corresponding branch of philosophy.</div><ol><li><strong>Step 1: Identify the central themes:</strong> \"Aesthetic judgment,\" \"beauty,\" and \"art conveys meaning\" are all concepts directly related to the philosophical study of art and beauty.</li><li><strong>Step 2: Recall the definitions of philosophical branches:</strong>\n            <ul><li>Epistemology: Study of knowledge.</li><li>Aesthetics: Study of art and beauty.</li><li>Ethics: Study of moral principles.</li><li>Metaphysics: Study of the nature of reality.</li></ul></li><li><strong>Step 3: Match these themes to the correct branch:</strong> The concepts clearly fall within the domain of aesthetics.</li></ol><ul><li>Evaluating Option 1: \"Epistemology\" focuses on knowledge, not art or beauty.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>\"Aesthetics\"</span> is the precise branch dedicated to the philosophical study of art, beauty, and taste, matching the description given.</li><li>Evaluating Option 3: \"Ethics\" focuses on morality, not aesthetic experience.</li><li>Evaluating Option 4: \"Metaphysics\" focuses on fundamental reality, not art or beauty.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Any philosophical discussion revolving around what makes something beautiful, what defines a work of art, or how we perceive and value art is definitively an aesthetic inquiry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Aesthetics</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aesthetics"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The philosophical discipline concerned with the principles of correct reasoning, aiming to distinguish valid arguments from fallacious ones, is known as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Aesthetics"
+        },
+        {
+          "type": "string",
+          "content": "Metaphysics"
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Logic</span>"
+        },
+        {
+          "type": "string",
+          "content": "Political institutions"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Branches of Philosophy",
+      "Logic"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Branches of Philosophy: Logic</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Logic</span> as a branch of philosophy is primarily concerned with the <span style='color:var(--orange);font-weight:bold;'>principles of correct reasoning</span>. It provides methods and criteria for determining whether arguments are sound or fallacious, ensuring coherence and validity in thought.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the philosophical discipline concerned with correct reasoning and distinguishing valid from fallacious arguments.</div><ol><li><strong>Step 1: Identify the core function described:</strong> The description directly points to the study of reasoning, argument structure, validity, and fallacy detection.</li><li><strong>Step 2: Recall the definitions of philosophical branches:</strong>\n            <ul><li>Aesthetics: Art and beauty.</li><li>Metaphysics: Nature of reality.</li><li>Logic: Principles of correct reasoning.</li><li>Political institutions: Area of political science/philosophy, but not a fundamental branch itself in the same way Logic is.</li></ul></li><li><strong>Step 3: Match the function to the correct branch:</strong> Logic is the undisputed field for studying correct reasoning.</li></ol><ul><li>Evaluating Option 1: \"Aesthetics\" is the study of art and beauty.</li><li>Evaluating Option 2: \"Metaphysics\" is the study of the nature of reality.</li><li>Evaluating Option 3: <span style='color:var(--orange);font-weight:bold;'>\"Logic\"</span> is precisely the branch of philosophy that studies the principles of valid inference and correct reasoning, which aligns perfectly with the question's description.</li><li>Evaluating Option 4: \"Political institutions\" refers to a subject within political philosophy or political science, not the general principles of reasoning.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Logic serves as a foundational tool for all philosophical inquiry, ensuring that arguments are structured correctly and conclusions are drawn soundly. Without logic, philosophical reasoning would lack rigor.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Logic</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Logic"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "The comprehensive scope of philosophy suggests that its inquiry extends to which of the following domains?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Exclusively to abstract thoughts and theoretical concepts."
+        },
+        {
+          "type": "string",
+          "content": "Only to the study of religious beliefs and theology."
+        },
+        {
+          "type": "string",
+          "content": "Solely to the formulation of ethical guidelines for individual conduct."
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>A broad array of human endeavors including science, ethics, and politics.</span>"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Scope of Philosophy",
+      "Nature of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Scope of Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The scope of philosophy is very broad, covering various aspects of human experience and knowledge. It includes areas such as <span style='color:var(--orange);font-weight:bold;'>science, ethics, and politics</span>, among others, indicating its comprehensive and foundational role in understanding different domains.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the comprehensive scope of philosophy and which domains its inquiry extends to.</div><ol><li><strong>Step 1: Recall the explicit statement about philosophy's scope:</strong> The document indicates that the scope of philosophy includes \"science, ethics, and politics.\"</li><li><strong>Step 2: Understand the implication of \"comprehensive scope\":</strong> A comprehensive scope implies broadness and inclusion of multiple distinct areas, not limitation to a single domain.</li><li><strong>Step 3: Evaluate options based on inclusiveness and accuracy:</strong> Look for the option that reflects this broadness and aligns with the examples given.</li></ol><ul><li>Evaluating Option 1: \"Exclusively to abstract thoughts and theoretical concepts.\" The word \"exclusively\" makes this incorrect, as philosophy also engages with practical and concrete issues within various fields.</li><li>Evaluating Option 2: \"Only to the study of religious beliefs and theology.\" The word \"only\" makes this incorrect. Philosophy's scope is much broader than just religion.</li><li>Evaluating Option 3: \"Solely to the formulation of ethical guidelines for individual conduct.\" The word \"solely\" makes this incorrect. Ethics is a part of philosophy, but not its entire scope.</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"A broad array of human endeavors including science, ethics, and politics.\"</span> This option accurately reflects the comprehensive and inclusive nature of philosophy's scope, aligning with the specific examples provided in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Philosophy's foundational nature means it critically examines the assumptions, methods, and implications of nearly all human intellectual and practical pursuits, making its scope inherently broad.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A broad array of human endeavors including science, ethics, and politics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A broad array of human endeavors including science, ethics, and politics."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "A key distinction between philosophy and religion, as noted in their foundational approaches to truth, is that:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Philosophy is fundamentally based on reason and critical inquiry, while religion primarily relies on faith and revelation.</span>"
+        },
+        {
+          "type": "string",
+          "content": "Religion is generally considered more critical and analytical than philosophy."
+        },
+        {
+          "type": "string",
+          "content": "Philosophy does not involve any form of reasoning, unlike religion."
+        },
+        {
+          "type": "string",
+          "content": "Religion specifically avoids dealing with questions of human existence."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Philosophy vs Religion",
+      "Nature of Philosophy",
+      "Nature of Religion"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinction: Philosophy vs. Religion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy and religion differ significantly in their approach to truth and understanding. <span style='color:var(--orange);font-weight:bold;'>Philosophy is based on reason</span>, emphasizing logical argument, critical analysis, and empirical evidence (where applicable). <span style='color:var(--orange);font-weight:bold;'>Religion is based on faith</span> and often relies on revelation, sacred texts, or spiritual experience as primary sources of truth.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a key distinction between philosophy and religion based on their foundational approaches to truth.</div><ol><li><strong>Step 1: Identify philosophy's foundation:</strong> The document states \"Philosophy is based on reason.\"</li><li><strong>Step 2: Identify religion's foundation:</strong> The document states \"religion is based on faith.\"</li><li><strong>Step 3: Combine these two contrasting points:</strong> The correct option should clearly articulate this fundamental difference.</li></ol><ul><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Philosophy is fundamentally based on reason and critical inquiry, while religion primarily relies on faith and revelation.\"</span> This statement accurately captures the core distinction, as outlined in the document.</li><li>Evaluating Option 2: \"Religion is generally considered more critical and analytical than philosophy.\" This is incorrect; philosophy is defined by its critical and analytical nature.</li><li>Evaluating Option 3: \"Philosophy does not involve any form of reasoning, unlike religion.\" This is fundamentally incorrect; philosophy is defined by its reliance on reasoning.</li><li>Evaluating Option 4: \"Religion specifically avoids dealing with questions of human existence.\" This is incorrect; many religions centrally address human existence and its meaning.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> While both philosophy and religion seek answers to ultimate questions, their methodologies are distinct, with philosophy prioritizing logical demonstration and religion often prioritizing spiritual conviction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Philosophy is fundamentally based on reason and critical inquiry, while religion primarily relies on faith and revelation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Philosophy is fundamentally based on reason and critical inquiry, while religion primarily relies on faith and revelation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Political philosophy primarily investigates:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The study of personal beauty and aesthetic principles."
+        },
+        {
+          "type": "string",
+          "content": "The analysis of complex mathematical or algebraic expressions."
+        },
+        {
+          "type": "string",
+          "content": "The structural and functional properties of the human brain."
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>The origin, nature, and purpose of the state and governance.</span>"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Branches of Philosophy",
+      "Political Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Branches of Philosophy: Political Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <span style='color:var(--orange);font-weight:bold;'>Political philosophy</span> primarily deals with <span style='color:var(--orange);font-weight:bold;'>the origin, nature, and purpose of the state</span>. It examines fundamental questions about government, justice, liberty, rights, law, and the enforcement of a legal code by authority.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary investigative focus of political philosophy.</div><ol><li><strong>Step 1: Recall the definition from the document:</strong> The document explicitly states that political philosophy primarily deals with \"The origin, nature, and purpose of the state.\"</li><li><strong>Step 2: Compare this definition with the given options:</strong> The correct option should directly match or closely paraphrase this definition.</li></ol><ul><li>Evaluating Option 1: \"The study of personal beauty and aesthetic principles.\" This describes Aesthetics.</li><li>Evaluating Option 2: \"The analysis of complex mathematical or algebraic expressions.\" This relates to mathematics.</li><li>Evaluating Option 3: \"The structural and functional properties of the human brain.\" This describes neuroscience.</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The origin, nature, and purpose of the state and governance.\"</span> This option directly and accurately reflects the core concerns of political philosophy as stated in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Political philosophy is a recognized sub-discipline of philosophy focusing on foundational questions of political power, organization, and societal structure, exactly as described.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The origin, nature, and purpose of the state and governance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The origin, nature, and purpose of the state and governance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which of the following problems represents a 'fundamental problem' in philosophy, characterized by its deep, foundational inquiry into human experience?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>The problem of existence and being.</span>"
+        },
+        {
+          "type": "string",
+          "content": "The problem of routine car maintenance schedules."
+        },
+        {
+          "type": "string",
+          "content": "The challenge of creating innovative cooking recipes."
+        },
+        {
+          "type": "string",
+          "content": "The issue of managing economic inflation within a national economy."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Fundamental Problems of Philosophy",
+      "Nature of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Fundamental Problems of Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy engages with fundamental problems that are broad, foundational, and often meta-level, questioning the very nature of reality, knowledge, and existence. The <span style='color:var(--orange);font-weight:bold;'>problem of existence</span> is explicitly listed as one such fundamental problem. These contrast with practical, empirical, or technical problems.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a 'fundamental problem' in philosophy from the given options, focusing on its deep, foundational nature.</div><ol><li><strong>Step 1: Recall examples of fundamental philosophical problems:</strong> The document lists \"The problem of existence\" as a fundamental problem of philosophy.</li><li><strong>Step 2: Distinguish philosophical problems from practical/technical ones:</strong> Philosophical problems are typically abstract, universal, and concern ultimate questions, unlike specific practical, engineering, or economic challenges.</li><li><strong>Step 3: Evaluate options against this distinction:</strong> Identify the option that fits the philosophical nature.</li></ol><ul><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>\"The problem of existence and being.\"</span> This directly matches the example given in the document and is a classic philosophical inquiry into metaphysics, making it a fundamental problem.</li><li>Evaluating Option 2: \"The problem of routine car maintenance schedules.\" This is a practical, technical problem, not philosophical.</li><li>Evaluating Option 3: \"The challenge of creating innovative cooking recipes.\" This is a creative, culinary challenge, not philosophical.</li><li>Evaluating Option 4: \"The issue of managing economic inflation within a national economy.\" This is an economic problem, within the domain of social science/economics, not a fundamental philosophical problem of existence itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Philosophical problems delve into the 'why' and 'what if' of fundamental concepts, unlike practical problems that address 'how to' or 'what is' within a given framework. The problem of existence is a quintessential philosophical problem.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The problem of existence and being.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The problem of existence and being."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "The philosophical problem of 'free will' fundamentally explores the conflict between human agency and:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The accuracy of scientific predictions about the future."
+        },
+        {
+          "type": "string",
+          "content": "The capacity of humans to make <span style='color:var(--orange);font-weight:bold;'>independent and uncoerced choices</span>."
+        },
+        {
+          "type": "string",
+          "content": "The comparative importance of ethics versus aesthetics."
+        },
+        {
+          "type": "string",
+          "content": "The absolute nature of knowledge in all circumstances."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Fundamental Problems of Philosophy",
+      "Free Will"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Problem of Free Will</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The problem of free will in philosophy questions whether <span style='color:var(--orange);font-weight:bold;'>humans can make choices independently</span>. It delves into the extent to which individuals have control over their actions and decisions, often contrasting with concepts like determinism, fate, or external influences.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the fundamental conflict explored by the philosophical problem of 'free will' in relation to human agency.</div><ol><li><strong>Step 1: Recall the core inquiry of the free will problem:</strong> The document explicitly states the problem of free will questions whether \"Humans can make choices independently.\"</li><li><strong>Step 2: Interpret 'human agency':</strong> Human agency refers to an individual's capacity to act independently and make their own free choices.</li><li><strong>Step 3: Connect agency to the 'independent choices' aspect:</strong> The problem of free will specifically questions the *extent* of this independence.</li></ol><ul><li>Evaluating Option 1: \"The accuracy of scientific predictions about the future.\" While determinism (often linked to scientific laws) is a part of the free will debate, the direct phrasing from the document is about independent choices.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>\"The capacity of humans to make independent and uncoerced choices.\"</span> This directly reflects the phrasing in the document regarding \"Humans can make choices independently\" and captures the essence of human agency in the context of free will.</li><li>Evaluating Option 3: \"The comparative importance of ethics versus aesthetics.\" This is unrelated to the problem of free will.</li><li>Evaluating Option 4: \"The absolute nature of knowledge in all circumstances.\" This relates to epistemology, not free will.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The concept of free will is centered on the ability of individuals to initiate actions and make decisions without being fully determined by antecedent causes or external forces. The chosen option accurately encapsulates this core aspect.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The capacity of humans to make independent and uncoerced choices.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The capacity of humans to make independent and uncoerced choices."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "To effectively address and resolve its foundational problems, philosophy primarily relies on:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>Rational argument and rigorous analysis.</span>"
+        },
+        {
+          "type": "string",
+          "content": "Propagation of superstitions and traditional myths."
+        },
+        {
+          "type": "string",
+          "content": "Campaigns aimed at political persuasion and public mobilization."
+        },
+        {
+          "type": "string",
+          "content": "Exclusive adherence to established religious doctrines."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Philosophical Method",
+      "Nature of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Philosophical Methods for Problem Resolution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy attempts to resolve foundational problems using <span style='color:var(--orange);font-weight:bold;'>rational argument and analysis</span>. This method involves constructing logical arguments, critically examining concepts, and engaging in systematic reasoning to arrive at coherent and justified conclusions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the primary reliance of philosophy in addressing its foundational problems.</div><ol><li><strong>Step 1: Identify the method used by philosophy for problem resolution:</strong> The document explicitly states that philosophy attempts to resolve foundational problems using \"Rational argument and analysis.\"</li><li><strong>Step 2: Contrast this method with non-philosophical approaches:</strong> Other options often involve uncritical belief, persuasion, or faith, which are distinct from rational argument and analysis.</li><li><strong>Step 3: Match the correct method to the options:</strong> The option that directly reflects 'rational argument and analysis' is the correct one.</li></ol><ul><li>Evaluating Option 1: <span style='color:var(--orange);font-weight:bold;'>\"Rational argument and rigorous analysis.\"</span> This accurately reflects the core method philosophy employs to resolve its foundational problems, as stated directly in the document.</li><li>Evaluating Option 2: \"Propagation of superstitions and traditional myths.\" This is explicitly stated as *not* a characteristic of philosophy.</li><li>Evaluating Option 3: \"Campaigns aimed at political persuasion and public mobilization.\" This relates to political propaganda, also stated as *not* a characteristic of philosophy.</li><li>Evaluating Option 4: \"Exclusive adherence to established religious doctrines.\" This aligns with religion based on faith, which is distinguished from philosophy based on reason.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The essence of philosophical inquiry is the application of reason and logic to critically examine concepts and build coherent arguments, rather than relying on dogma, superstition, or political maneuvering.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Rational argument and rigorous analysis.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rational argument and rigorous analysis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of the following questions is a prime example of a 'classical philosophical question,' distinguishable by its deep, universal, and non-empirical nature?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "How do airplanes achieve lift and sustain flight?"
+        },
+        {
+          "type": "string",
+          "content": "What is the <span style='color:var(--orange);font-weight:bold;'>meaning of life</span> and human existence?"
+        },
+        {
+          "type": "string",
+          "content": "What cooking method best preserves nutrient content in vegetables?"
+        },
+        {
+          "type": "string",
+          "content": "How many planets constitute the solar system according to modern astronomy?"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Classical Philosophical Questions",
+      "Nature of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classical Philosophical Questions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Classical philosophical questions are fundamental inquiries that typically cannot be answered definitively by empirical observation or scientific experiment alone. They often deal with existence, values, knowledge, and meaning, such as <span style='color:var(--orange);font-weight:bold;'>'What is the meaning of life?'</span>. These questions are distinguished by their abstract, universal, and often deeply personal implications.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a 'classical philosophical question' that is deep, universal, and non-empirical.</div><ol><li><strong>Step 1: Recall examples of classical philosophical questions:</strong> The document lists \"What is the meaning of life?\" as a classical philosophical question.</li><li><strong>Step 2: Characterize philosophical questions:</strong> They are typically not solvable by scientific methods or simple factual recall. They are open-ended, foundational, and often deal with normative or existential issues.</li><li><strong>Step 3: Evaluate options based on these characteristics:</strong> Distinguish the philosophical question from empirical or technical ones.</li></ol><ul><li>Evaluating Option 1: \"How do airplanes achieve lift and sustain flight?\" This is a question of physics and engineering, answerable through scientific principles and empirical observation.</li><li>Evaluating Option 2: <span style='color:var(--orange);font-weight:bold;'>\"What is the meaning of life and human existence?\"</span> This is a quintessential philosophical question, dealing with ultimate purpose and value, which cannot be answered by empirical data alone and requires reflection and interpretation.</li><li>Evaluating Option 3: \"What cooking method best preserves nutrient content in vegetables?\" This is a question of nutritional science and culinary technique, answerable through empirical study.</li><li>Evaluating Option 4: \"How many planets constitute the solar system according to modern astronomy?\" This is an empirical question for astronomy, answerable through observation and scientific consensus.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Philosophical questions prompt deep reflection on universal human concerns that transcend scientific measurement or technical solutions, such as purpose, value, and meaning. The chosen option perfectly embodies this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ What is the meaning of life and human existence?</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "What is the meaning of life and human existence?"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Given the description of philosophy's primary focus, an individual engaged in deep reflection on the fundamental structure of being and causality is primarily pursuing inquiry in which domain?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The study of knowledge acquisition."
+        },
+        {
+          "type": "string",
+          "content": "The examination of aesthetic principles."
+        },
+        {
+          "type": "string",
+          "content": "The analysis of logical fallacies."
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>The nature of reality and existence.</span>"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nature of Philosophy",
+      "Metaphysics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Primary Focus of Philosophical Inquiry</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy primarily seeks to understand the <span style='color:var(--orange);font-weight:bold;'>fundamental nature of reality, knowledge, and existence</span>. This broad scope encompasses inquiries into the ultimate structure of being, causality, time, and space, which fall under the branch of Metaphysics.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question describes an individual reflecting on the fundamental structure of being and causality, and asks which domain of inquiry they are primarily pursuing.</div><ol><li><strong>Step 1: Identify keywords in the inquiry:</strong> \"Fundamental structure of being\" and \"causality\" directly point to questions about the nature of reality and existence.</li><li><strong>Step 2: Recall the primary focus of philosophy:</strong> The document states philosophy primarily seeks to understand the <span style='color:var(--orange);font-weight:bold;'>fundamental nature of reality, knowledge, and existence</span>.</li><li><strong>Step 3: Connect the specific inquiry to this broader focus:</strong> The reflection on being and causality is a core part of understanding the fundamental nature of reality.</li></ol><ul><li>Evaluating Option 1: \"The study of knowledge acquisition.\" This pertains to Epistemology, which is about knowledge, not directly the nature of being.</li><li>Evaluating Option 2: \"The examination of aesthetic principles.\" This pertains to Aesthetics, which is about art and beauty.</li><li>Evaluating Option 3: \"The analysis of logical fallacies.\" This pertains to Logic, which is about reasoning.</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The nature of reality and existence.\"</span> This option directly encompasses the inquiries into the fundamental structure of being and causality, aligning with metaphysics, a core aspect of philosophy's primary focus.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Metaphysics, the study of ultimate reality, necessarily investigates the nature of being and underlying causal structures. This makes the selected option the most accurate domain for such a philosophical inquiry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The nature of reality and existence.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The nature of reality and existence."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "When considering the characteristics of philosophy as a discipline, which of the following is most clearly incompatible with its fundamental spirit?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The application of rigorous logical reasoning to derive conclusions."
+        },
+        {
+          "type": "string",
+          "content": "The practice of systematic inquiry and critical analysis of concepts."
+        },
+        {
+          "type": "string",
+          "content": "The constant questioning of assumptions and established beliefs."
+        },
+        {
+          "type": "string",
+          "content": "<span style='color:var(--orange);font-weight:bold;'>The uncritical acceptance of ideas solely based on faith or unexamined revelation.</span>"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Characteristics of Philosophy",
+      "Nature of Philosophy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Incompatible with Philosophical Spirit</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy is characterized by <span style='color:var(--orange);font-weight:bold;'>critical thinking, rational inquiry, logical reasoning, and systematic thinking</span>. It is explicitly contrasted with approaches that rely on <span style='color:var(--orange);font-weight:bold;'>superstition, myths, political propaganda</span>, or a dogmatic acceptance of beliefs without critical examination. Philosophy's emphasis on reason fundamentally distinguishes it from approaches based solely on faith or unexamined revelation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify what is most incompatible with the fundamental spirit of philosophy.</div><ol><li><strong>Step 1: Define the fundamental spirit of philosophy:</strong> It's rooted in reason, critical analysis, questioning, and logical thought.</li><li><strong>Step 2: Identify contrasting elements from the document:</strong> The document contrasts philosophy with faith and revelation (in comparison with religion), and with dogmatism, superstition, myths, and political propaganda.</li><li><strong>Step 3: Evaluate options for incompatibility:</strong> Look for an option that directly contradicts the core principles of critical inquiry and rational justification central to philosophy.</li></ol><ul><li>Evaluating Option 1: \"The application of rigorous logical reasoning to derive conclusions.\" This is a core characteristic of philosophy.</li><li>Evaluating Option 2: \"The practice of systematic inquiry and critical analysis of concepts.\" This is a core characteristic of philosophy.</li><li>Evaluating Option 3: \"The constant questioning of assumptions and established beliefs.\" This is a core characteristic of philosophy (anti-dogmatic).</li><li>Evaluating Option 4: <span style='color:var(--orange);font-weight:bold;'>\"The uncritical acceptance of ideas solely based on faith or unexamined revelation.\"</span> This directly opposes philosophy's reliance on reason and critical inquiry. It aligns with what philosophy is *not* (e.g., dogmatism, reliance on faith without reason).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Philosophy's methodology is defined by its commitment to rational justification and critical examination. Any approach that involves accepting ideas without such scrutiny, relying solely on unexamined faith or revelation, runs counter to this fundamental commitment.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The uncritical acceptance of ideas solely based on faith or unexamined revelation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The uncritical acceptance of ideas solely based on faith or unexamined revelation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Discuss the comprehensive nature and scope of philosophical inquiry, differentiating it from purely empirical sciences and dogmatic approaches. Illustrate with examples of the types of questions philosophy investigates.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nature of Philosophy",
+      "Scope of Philosophy",
+      "Philosophy vs Science",
+      "Philosophical Method"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Comprehensive Nature and Scope of Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy is the <span style='color:var(--orange);font-weight:bold;'>'love of wisdom'</span>, a discipline seeking to understand the <span style='color:var(--orange);font-weight:bold;'>fundamental nature of reality, knowledge, and existence</span>. Its scope is broad, encompassing <span style='color:var(--orange);font-weight:bold;'>science, ethics, and politics</span>. It distinguishes itself through <span style='color:var(--orange);font-weight:bold;'>critical thinking and rational inquiry</span>, contrasting with empirical methods of science and uncritical dogmatism.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question requires a discussion on the comprehensive nature and scope of philosophical inquiry, differentiating it from empirical sciences and dogmatic approaches, and providing examples of philosophical questions.</div><ol><li><strong>Step 1: Define the nature of philosophy:</strong> Start by explaining philosophy as the 'love of wisdom' and its primary aim: understanding the fundamental nature of reality, knowledge, and existence. Emphasize its non-empirical, foundational inquiry.</li><li><strong>Step 2: Describe the scope of philosophy:</strong> Detail how philosophy's scope is comprehensive, extending to various human endeavors such as science, ethics, and politics. This highlights its pervasive influence and foundational role in understanding different fields.</li><li><strong>Step 3: Differentiate from empirical sciences:</strong> Explain that unlike empirical sciences which rely on experiments and observable phenomena, philosophy primarily relies on <span style='color:var(--orange);font-weight:bold;'>reasoning and conceptual analysis</span>. Philosophy questions the assumptions and methods of science itself, delving into questions science cannot answer solely through observation (e.g., the nature of scientific truth, ethical implications of scientific discovery).</li><li><strong>Step 4: Differentiate from dogmatic approaches:</strong> Clarify that philosophy explicitly avoids dogmatism, which is the uncritical assertion of unquestionable doctrines. Instead, philosophy champions <span style='color:var(--orange);font-weight:bold;'>critical thinking, logical reasoning, and systematic analysis</span>, constantly questioning assumptions, beliefs, superstitions, myths, and political propaganda.</li><li><strong>Step 5: Provide examples of philosophical questions:</strong> Illustrate with classical philosophical questions such as:\n            <ul><li>What is the meaning of life? (Existential/Metaphysical)</li><li>What constitutes knowledge and how can we acquire it reliably? (Epistemological)</li><li>What defines right action and a good society? (Ethical/Political)</li><li>What is the ultimate nature of reality? (Metaphysical)</li><li>Can humans genuinely make free choices? (Metaphysical/Ethical)</li></ul></li></ol><ul><li><em>Mark-scheme point 1:</em> Clear definition of philosophy as love of wisdom and its aim to understand fundamental reality, knowledge, existence.</li><li><em>Mark-scheme point 2:</em> Explanation of philosophy's broad scope, encompassing areas like science, ethics, and politics.</li><li><em>Mark-scheme point 3:</em> Distinction from empirical science based on methodology (reasoning vs. experiments) and the type of questions asked (fundamental/meta vs. observable phenomena).</li><li><em>Mark-scheme point 4:</em> Distinction from dogmatism by highlighting philosophy's reliance on critical thinking, rational inquiry, and questioning, rather than uncritical acceptance.</li><li><em>Mark-scheme point 5:</em> Provision of specific, relevant examples of philosophical questions that illustrate its scope and nature.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A strong answer will synthesize the defining features of philosophy, its wide reach into various domains of human thought and action, and its distinctive methodologies that set it apart from both scientific empiricism and uncritical belief systems. The examples should reinforce the abstract yet profound nature of philosophical inquiry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Philosophy, as the 'love of wisdom', is a discipline fundamentally dedicated to understanding the deepest questions concerning the nature of reality, knowledge, and existence. Its comprehensive scope is not limited to a narrow field but extends across a vast array of human endeavors, critically examining the foundations of science, ethics, and politics. Unlike purely empirical sciences which primarily rely on experiments and observable data, philosophy relies on rational argument, logical reasoning, and conceptual analysis to investigate questions that transcend empirical verification, such as 'What is consciousness?' or 'Does objective moral truth exist?'. Furthermore, philosophy rigorously differentiates itself from dogmatic approaches by rejecting the uncritical acceptance of ideas based solely on faith, revelation, superstition, or political propaganda. Instead, it champions systematic thinking and constant questioning of assumptions, encouraging intellectual autonomy and the pursuit of justified beliefs.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Philosophy, as the 'love of wisdom', is a discipline fundamentally dedicated to understanding the deepest questions concerning the nature of reality, knowledge, and existence. Its comprehensive scope is not limited to a narrow field but extends across a vast array of human endeavors, critically examining the foundations of science, ethics, and politics. Unlike purely empirical sciences which primarily rely on experiments and observable data, philosophy relies on rational argument, logical reasoning, and conceptual analysis to investigate questions that transcend empirical verification, such as 'What is consciousness?' or 'Does objective moral truth exist?'. Furthermore, philosophy rigorously differentiates itself from dogmatic approaches by rejecting the uncritical acceptance of ideas based solely on faith, revelation, superstition, or political propaganda. Instead, it champions systematic thinking and constant questioning of assumptions, encouraging intellectual autonomy and the pursuit of justified beliefs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Analyze the fundamental distinctions between philosophy, science, and religion concerning their methodologies and primary concerns. Subsequently, elaborate on at least three major branches of philosophy, detailing their specific areas of investigation.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Philosophy vs Science",
+      "Philosophy vs Religion",
+      "Branches of Philosophy",
+      "Methodology"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinctions and Branches of Philosophy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Philosophy relies on <span style='color:var(--orange);font-weight:bold;'>reasoning</span> for fundamental inquiries into reality, knowledge, and values. Science relies on <span style='color:var(--orange);font-weight:bold;'>experiments</span> and empirical methods for observable phenomena. Religion is based on <span style='color:var(--orange);font-weight:bold;'>faith and revelation</span> for spiritual truths. Major branches of philosophy include <span style='color:var(--orange);font-weight:bold;'>Metaphysics (nature of reality)</span>, <span style='color:var(--orange);font-weight:bold;'>Epistemology (study of knowledge)</span>, <span style='color:var(--orange);font-weight:bold;'>Ethics (moral principles)</span>, <span style='color:var(--orange);font-weight:bold;'>Aesthetics (art and beauty)</span>, and <span style='color:var(--orange);font-weight:bold;'>Logic (correct reasoning)</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question requires analyzing the distinctions between philosophy, science, and religion, and then detailing at least three major branches of philosophy.</div><ol><li><strong>Step 1: Distinguish Philosophy, Science, and Religion (Methodology and Primary Concerns):</strong>\n            <ul><li><strong>Philosophy:</strong> Primarily based on <span style='color:var(--orange);font-weight:bold;'>reason and critical inquiry</span>. It uses logical argument, conceptual analysis, and systematic thinking to explore fundamental questions about reality, knowledge, values, and existence. It seeks justified belief and coherence.</li><li><strong>Science:</strong> Primarily based on <span style='color:var(--orange);font-weight:bold;'>empirical experiments and observations</span>. It uses the scientific method (hypothesis, experiment, data analysis) to understand and explain natural phenomena, focusing on what can be measured and tested.</li><li><strong>Religion:</strong> Primarily based on <span style='color:var(--orange);font-weight:bold;'>faith and revelation</span>. It often draws truths from sacred texts, spiritual experiences, or divine authority, focusing on ultimate meaning, purpose, and the relationship between humanity and the divine.</li></ul></li><li><strong>Step 2: Elaborate on at least three major branches of philosophy:</strong>\n            <ul><li><strong>Metaphysics:</strong> This branch deals with the <span style='color:var(--orange);font-weight:bold;'>nature of reality</span>. It investigates fundamental questions about existence, being, time, space, causality, and abstract concepts such as the mind-body problem or the existence of God. It asks: 'What is real?' or 'What is the fundamental constituent of the universe?'.</li><li><strong>Epistemology:</strong> This branch is concerned with the <span style='color:var(--orange);font-weight:bold;'>study of knowledge</span>. It explores questions such as 'What is knowledge?', 'How is knowledge acquired?', 'What distinguishes justified belief from opinion?', 'What are the sources and limits of human understanding?'.</li><li><strong>Ethics:</strong> Also known as moral philosophy, this branch focuses on <span style='color:var(--orange);font-weight:bold;'>moral principles and values</span>. It investigates concepts of right and wrong conduct, good and evil, moral duties, and the nature of a virtuous life. It asks: 'How should we live?' or 'What makes an action morally right?'.</li><li><strong>Aesthetics (Optional but good to include for depth):</strong> This branch is the philosophical study of <span style='color:var(--orange);font-weight:bold;'>art and beauty</span>. It examines the nature of aesthetic experience, artistic creation, and judgment, asking: 'What is beauty?' or 'What is the purpose of art?'.</li><li><strong>Logic (Optional but good to include for depth):</strong> This branch is concerned with the <span style='color:var(--orange);font-weight:bold;'>principles of correct reasoning</span>. It provides methods for distinguishing valid arguments from fallacious ones, ensuring coherence and consistency in thought and argument.</li></ul></li></ol><ul><li><em>Mark-scheme point 1:</em> Clear analysis of philosophy's methodology (reason, critical inquiry) and concerns (fundamental nature of reality, knowledge, existence).</li><li><em>Mark-scheme point 2:</em> Clear analysis of science's methodology (experiments, empirical observation) and concerns (natural phenomena).</li><li><em>Mark-scheme point 3:</em> Clear analysis of religion's methodology (faith, revelation) and concerns (ultimate meaning, divine).</li><li><em>Mark-scheme point 4:</em> Elaboration on Metaphysics, correctly defining its area of investigation (nature of reality, existence).</li><li><em>Mark-scheme point 5:</em> Elaboration on Epistemology, correctly defining its area of investigation (study of knowledge).</li><li><em>Mark-scheme point 6:</em> Elaboration on Ethics, correctly defining its area of investigation (moral principles, right/wrong).</li><li><em>Mark-scheme point 7 (bonus):</em> Elaboration on additional branches like Aesthetics or Logic for full marks.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A comprehensive answer demonstrates understanding of the distinct intellectual frameworks offered by philosophy, science, and religion, and then showcases knowledge of the internal structure of philosophical inquiry through its core branches. The details provided for each branch should accurately reflect their traditional subject matter.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Philosophy, science, and religion represent distinct human endeavors to understand the world, differing fundamentally in their methodologies and primary concerns. Philosophy is characterized by its reliance on <span style='color:var(--orange);font-weight:bold;'>reason and critical inquiry</span>, systematically analyzing fundamental questions about the nature of reality, knowledge, and values. Its primary concern is to achieve justified beliefs and coherent understanding through logical argument. Science, in contrast, is based on <span style='color:var(--orange);font-weight:bold;'>empirical experiments and observation</span>, utilizing the scientific method to explain natural phenomena and predict observable events. Religion, distinct from both, primarily relies on <span style='color:var(--orange);font-weight:bold;'>faith and revelation</span>, drawing its truths from sacred texts, spiritual experiences, or divine authority to address questions of ultimate meaning, purpose, and spiritual existence. Within philosophy itself, several major branches investigate specific domains of inquiry. Firstly, <span style='color:var(--orange);font-weight:bold;'>Metaphysics</span> deals with the <span style='color:var(--orange);font-weight:bold;'>nature of reality and existence</span>, exploring questions like 'What is reality?', 'Does God exist?', or 'What is the relationship between mind and body?'. Secondly, <span style='color:var(--orange);font-weight:bold;'>Epistemology</span> is the <span style='color:var(--orange);font-weight:bold;'>study of knowledge</span>, investigating its sources, nature, validity, and limits, asking 'What can we know?' or 'How do we justify our beliefs?'. Thirdly, <span style='color:var(--orange);font-weight:bold;'>Ethics</span> focuses on <span style='color:var(--orange);font-weight:bold;'>moral principles and values</span>, examining questions of right and wrong, good and evil, and how humans ought to live. Finally, <span style='color:var(--orange);font-weight:bold;'>Logic</span> is concerned with the <span style='color:var(--orange);font-weight:bold;'>principles of correct reasoning</span>, providing the tools to distinguish valid arguments from fallacious ones, crucial for philosophical inquiry.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Philosophy, science, and religion represent distinct human endeavors to understand the world, differing fundamentally in their methodologies and primary concerns. Philosophy is characterized by its reliance on <span style='color:var(--orange);font-weight:bold;'>reason and critical inquiry</span>, systematically analyzing fundamental questions about the nature of reality, knowledge, and values. Its primary concern is to achieve justified beliefs and coherent understanding through logical argument. Science, in contrast, is based on <span style='color:var(--orange);font-weight:bold;'>empirical experiments and observation</span>, utilizing the scientific method to explain natural phenomena and predict observable events. Religion, distinct from both, primarily relies on <span style='color:var(--orange);font-weight:bold;'>faith and revelation</span>, drawing its truths from sacred texts, spiritual experiences, or divine authority to address questions of ultimate meaning, purpose, and spiritual existence. Within philosophy itself, several major branches investigate specific domains of inquiry. Firstly, <span style='color:var(--orange);font-weight:bold;'>Metaphysics</span> deals with the <span style='color:var(--orange);font-weight:bold;'>nature of reality and existence</span>, exploring questions like 'What is reality?', 'Does God exist?', or 'What is the relationship between mind and body?'. Secondly, <span style='color:var(--orange);font-weight:bold;'>Epistemology</span> is the <span style='color:var(--orange);font-weight:bold;'>study of knowledge</span>, investigating its sources, nature, validity, and limits, asking 'What can we know?' or 'How do we justify our beliefs?'. Thirdly, <span style='color:var(--orange);font-weight:bold;'>Ethics</span> focuses on <span style='color:var(--orange);font-weight:bold;'>moral principles and values</span>, examining questions of right and wrong, good and evil, and how humans ought to live. Finally, <span style='color:var(--orange);font-weight:bold;'>Logic</span> is concerned with the <span style='color:var(--orange);font-weight:bold;'>principles of correct reasoning</span>, providing the tools to distinguish valid arguments from fallacious ones, crucial for philosophical inquiry."
+    }
+  }
+]
