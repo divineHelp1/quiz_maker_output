@@ -1,0 +1,813 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "GEOLOGY 101: Introduction to Geological Mapping",
+    "Subheading": "Answer all questions. Carefully read each question and select the best option."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the primary title given to the geological drawing presented?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Geological Cross-section" },
+        { "type": "string", "content": "Stratigraphic Column" },
+        { "type": "string", "content": "Topographic Map" },
+        { "type": "string", "content": "LITHOFACIES MAP" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Title", "Geological Mapping Basics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Map Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lithofacies Map:</em> A map that displays the areal distribution of different rock types or rock characteristics (lithofacies) across a geographical region, typically at the Earth's surface.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the primary title of the geological drawing provided.</div><p><strong>Step 1: Locate the title.</strong> Observe the drawing for any prominent text that labels the entire image.</p><p><strong>Step 2: Read the title.</strong> The text <span style='color:var(--orange);font-weight:bold;'>\"LITHOFACIES MAP\"</span> is clearly written at the bottom-center of the drawing, serving as its main identifier.</p><ul><li>Option 0 (Geological Cross-section): A cross-section shows a vertical slice through the Earth's crust, not a surface view.</li><li>Option 1 (Stratigraphic Column): A stratigraphic column represents the vertical succession of rock layers in a specific location, not a two-dimensional map.</li><li>Option 2 (Topographic Map): A topographic map shows land elevation and features, usually with contour lines, which are not present here.</li><li>Option 3 (LITHOFACIES MAP): This directly matches the title displayed on the drawing.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The title is explicitly stated on the map. Understanding the basic types of geological diagrams helps rule out other options. A lithofacies map focuses on rock types, which is exactly what the diagram illustrates.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary title given to the geological drawing is LITHOFACIES MAP.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "LITHOFACIES MAP" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "According to the legend provided, which pattern represents Shale?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A pattern of small dots" },
+        { "type": "string", "content": "A pattern of short horizontal dashes" },
+        { "type": "string", "content": "A pattern resembling bricks or rectangular blocks" },
+        { "type": "string", "content": "A pattern of longer, more spaced horizontal dashes" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Interpretation", "Shale Symbol"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Rock Symbol Identification (Shale)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Legend (Key):</em> A crucial part of a map that explains the meaning of the symbols, patterns, and colors used to represent features on the map.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the symbolic pattern associated with Shale from the map's legend.</div><p><strong>Step 1: Locate the legend.</strong> The legend is found in the upper-left corner of the drawing, labeled with rock names and their corresponding patterns.</p><p><strong>Step 2: Find 'Shale' in the legend.</strong> Beneath 'Limestone', 'Shale' is listed.</p><p><strong>Step 3: Observe the pattern next to 'Shale'.</strong> The pattern consists of <span style='color:var(--orange);font-weight:bold;'>horizontal dashed lines that are relatively long and spaced out</span> compared to the other dashed pattern for Siltstone.</p><ul><li>Option 0 (A pattern of small dots): This represents Sandstone.</li><li>Option 1 (A pattern of short horizontal dashes): This represents Siltstone.</li><li>Option 2 (A pattern resembling bricks or rectangular blocks): This represents Limestone.</li><li>Option 3 (A pattern of longer, more spaced horizontal dashes): This accurately describes the symbol for Shale in the legend.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Cross-referencing the 'Shale' label directly with its adjacent symbol in the legend confirms the pattern of long, spaced horizontal dashes. Distinct patterns are used for clear differentiation of lithofacies.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The pattern representing Shale is a pattern of longer, more spaced horizontal dashes.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A pattern of longer, more spaced horizontal dashes" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The compass rose on the map specifically indicates which cardinal direction?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "East" },
+        { "type": "string", "content": "West" },
+        { "type": "string", "content": "South" },
+        { "type": "string", "content": "North" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Orientation", "Compass Rose"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Map Orientation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Compass Rose:</em> A figure on a map or chart used to display the orientation of the cardinal directions (North, South, East, West) and their intermediate points.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific cardinal direction indicated by the compass rose on the map.</div><p><strong>Step 1: Locate the compass rose.</strong> In the upper-left quadrant of the map, below the legend, there is a symbol depicting a directional arrow with the letter 'N'.</p><p><strong>Step 2: Interpret the symbol.</strong> The letter '<span style='color:var(--orange);font-weight:bold;'>N</span>' on a compass rose universally represents North.</p><ul><li>Option 0 (East): East is typically to the right of North.</li><li>Option 1 (West): West is typically to the left of North.</li><li>Option 2 (South): South is typically opposite North.</li><li>Option 3 (North): The 'N' on the compass rose explicitly indicates North.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The convention of 'N' for North on maps is standard. The arrow points upwards, which is also the conventional direction for North on most maps.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The compass rose on the map specifically indicates North.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "North" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which rock type is denoted by a pattern of small, scattered dots in the map's legend?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Siltstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Interpretation", "Sandstone Symbol"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Rock Symbol Identification (Sandstone)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Legend:</em> A key on a map that explains the meaning of various symbols and patterns used to represent features.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the rock type represented by a pattern of small, scattered dots according to the map's legend.</div><p><strong>Step 1: Examine the legend.</strong> In the upper-left corner, locate the section that lists rock types and their symbols.</p><p><strong>Step 2: Match the pattern.</strong> Look for the pattern consisting of <span style='color:var(--orange);font-weight:bold;'>small, scattered dots</span>.</p><p><strong>Step 3: Identify the corresponding rock type.</strong> The rock type listed next to this pattern is <span style='color:var(--orange);font-weight:bold;'>Sandstone</span>.</p><ul><li>Option 0 (Limestone): Represented by rectangular blocks with '+' symbols.</li><li>Option 1 (Shale): Represented by long horizontal dashes.</li><li>Option 2 (Sandstone): Correctly identified as the rock type with small, scattered dots.</li><li>Option 3 (Siltstone): Represented by short horizontal dashes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Directly comparing the dot pattern in the legend with the listed rock types confirms that it corresponds to Sandstone. This is a direct reading from the map's key.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rock type denoted by a pattern of small, scattered dots in the map's legend is Sandstone.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sandstone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "How many distinct lithofacies are explicitly identified in the legend of the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Two" },
+        { "type": "string", "content": "Three" },
+        { "type": "string", "content": "Four" },
+        { "type": "string", "content": "Five" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Analysis", "Lithofacies Count"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Count from Legend</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lithofacies:</em> A body of rock that possesses a distinctive set of characteristics (e.g., composition, texture, sedimentary structures) that reflect specific depositional environments. On a map, these are shown as distinct units.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to count the number of different lithofacies (rock types) listed in the map's legend.</div><p><strong>Step 1: Locate the legend.</strong> The legend is in the upper-left corner of the map.</p><p><strong>Step 2: List the identified rock types.</strong> Read through the names listed in the legend:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>Limestone</span></li><li><span style='color:var(--orange);font-weight:bold;'>Shale</span></li><li><span style='color:var(--orange);font-weight:bold;'>Siltstone</span></li><li><span style='color:var(--orange);font-weight:bold;'>Sandstone</span></li></ul><p><strong>Step 3: Count the distinct types.</strong> There are <span style='color:var(--orange);font-weight:bold;'>4</span> distinct rock types listed.</p><ul><li>Option 0 (Two): Incorrect, there are more than two.</li><li>Option 1 (Three): Incorrect, there are four.</li><li>Option 2 (Four): Correct, as Limestone, Shale, Siltstone, and Sandstone are listed.</li><li>Option 3 (Five): Incorrect, there are exactly four.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct enumeration of the rock types presented in the legend confirms the count of four. Each listed rock type represents a distinct lithofacies shown on the map.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Exactly four distinct lithofacies are explicitly identified in the legend of the map.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Four" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which pattern in the legend is associated with Siltstone?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Small dots" },
+        { "type": "string", "content": "Brick-like blocks" },
+        { "type": "string", "content": "Short, fine horizontal dashes" },
+        { "type": "string", "content": "Long, spaced horizontal dashes" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Interpretation", "Siltstone Symbol"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Rock Symbol Identification (Siltstone)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Legend:</em> The key to understanding the various symbols, patterns, and colors used on a map.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the symbolic pattern associated with Siltstone from the map's legend.</div><p><strong>Step 1: Locate the legend.</strong> Find the legend in the upper-left corner of the map.</p><p><strong>Step 2: Find 'Siltstone' in the legend.</strong> It is listed after 'Shale'.</p><p><strong>Step 3: Observe the pattern next to 'Siltstone'.</strong> The pattern consists of <span style='color:var(--orange);font-weight:bold;'>short, fine horizontal dashes</span>.</p><ul><li>Option 0 (Small dots): This represents Sandstone.</li><li>Option 1 (Brick-like blocks): This represents Limestone (specifically, rectangular blocks with '+' symbols).</li><li>Option 2 (Short, fine horizontal dashes): This accurately describes the symbol for Siltstone.</li><li>Option 3 (Long, spaced horizontal dashes): This represents Shale.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Directly reading the legend, the symbol next to 'Siltstone' is clearly composed of short, fine horizontal dashes. This confirms the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The pattern in the legend associated with Siltstone is short, fine horizontal dashes.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Short, fine horizontal dashes" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "The rock type identified as Limestone in the legend is symbolized by which pattern?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Horizontal wavy lines" },
+        { "type": "string", "content": "Small '+' symbols within rectangular blocks" },
+        { "type": "string", "content": "Solid fill" },
+        { "type": "string", "content": "Dense vertical lines" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Interpretation", "Limestone Symbol"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Rock Symbol Identification (Limestone)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Legend:</em> The explanatory table on a map that links graphical symbols to their real-world geological features.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific pattern used to symbolize Limestone in the provided map's legend.</div><p><strong>Step 1: Refer to the legend.</strong> In the upper-left part of the map, locate the list of rock types and their patterns.</p><p><strong>Step 2: Find 'Limestone'.</strong> This is the first rock type listed in the legend.</p><p><strong>Step 3: Observe its corresponding pattern.</strong> The symbol for Limestone consists of <span style='color:var(--orange);font-weight:bold;'>rectangular blocks, each containing a small '+' symbol</span>.</p><ul><li>Option 0 (Horizontal wavy lines): This pattern is not explicitly used for any listed rock type in the legend.</li><li>Option 1 (Small '+' symbols within rectangular blocks): This precisely matches the symbol for Limestone in the legend.</li><li>Option 2 (Solid fill): No solid fill pattern is used for any listed rock type.</li><li>Option 3 (Dense vertical lines): No vertical line pattern is used for any listed rock type.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct visual match between the 'Limestone' label and its associated pattern in the legend confirms the description. This symbol is distinct from all other rock type symbols.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rock type identified as Limestone in the legend is symbolized by small '+' symbols within rectangular blocks.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Small '+' symbols within rectangular blocks" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Looking at the upper-left portion of the lithofacies map, which rock type is predominantly displayed?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Siltstone" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Sandstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Spatial Distribution (Upper-Left)"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Distribution (Upper-Left)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Interpretation:</em> The process of analyzing a map to understand the geographical distribution and relationships of the features it represents.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the predominant rock type in the upper-left portion of the map.</div><p><strong>Step 1: Focus on the specified area.</strong> Visually locate the upper-left quadrant of the lithofacies map.</p><p><strong>Step 2: Identify the pattern.</strong> In this area, a pattern of <span style='color:var(--orange);font-weight:bold;'>rectangular blocks with small '+' symbols</span> is clearly dominant.</p><p><strong>Step 3: Refer to the legend.</strong> Match this pattern to the legend in the upper-left corner. The pattern corresponds to <span style='color:var(--orange);font-weight:bold;'>Limestone</span>.</p><ul><li>Option 0 (Shale): Represented by long horizontal dashes, found mostly to the right and above.</li><li>Option 1 (Siltstone): Represented by short horizontal dashes, found further south-east.</li><li>Option 2 (Limestone): The dominant pattern in the upper-left corner of the map.</li><li>Option 3 (Sandstone): Represented by small dots, found in the lower parts of the map.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By visually inspecting the map and cross-referencing the patterns with the legend, the rock type in the upper-left region is unambiguously Limestone.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rock type predominantly displayed in the upper-left portion of the lithofacies map is Limestone.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Limestone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which rock type occupies a significant area in the bottom-left corner of the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Siltstone" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Limestone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Spatial Distribution (Bottom-Left)"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Distribution (Bottom-Left)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Spatial Distribution:</em> The arrangement of geographical phenomena across an area, showing where different features are located relative to each other.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the rock type that predominantly occupies the bottom-left corner of the map.</div><p><strong>Step 1: Focus on the specified area.</strong> Visually locate the bottom-left quadrant of the lithofacies map.</p><p><strong>Step 2: Identify the pattern.</strong> In this area, a pattern of <span style='color:var(--orange);font-weight:bold;'>small, scattered dots</span> is clearly dominant.</p><p><strong>Step 3: Refer to the legend.</strong> Match this pattern to the legend in the upper-left corner. The pattern corresponds to <span style='color:var(--orange);font-weight:bold;'>Sandstone</span>.</p><ul><li>Option 0 (Siltstone): Represented by short horizontal dashes, found in the middle-right.</li><li>Option 1 (Sandstone): The dominant pattern in the bottom-left corner of the map.</li><li>Option 2 (Shale): Represented by long horizontal dashes, found in the upper-right and lower-right.</li><li>Option 3 (Limestone): Represented by rectangular blocks with '+' symbols, found in the upper-left and central-left.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct visual inspection of the map shows the bottom-left is almost entirely covered by the dot pattern, which the legend clearly identifies as Sandstone.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rock type occupying a significant area in the bottom-left corner of the map is Sandstone.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sandstone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "A large portion of the northern half of the map, particularly towards the right side, is primarily composed of which lithofacies?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Siltstone" },
+        { "type": "string", "content": "Shale" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Spatial Distribution (Northern Half)"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Distribution (Northern Half)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Interpretation:</em> The process of understanding the spatial arrangement and characteristics of features depicted on a map by comparing visual patterns to the legend.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the primary lithofacies in the northern half of the map, especially towards the right side.</div><p><strong>Step 1: Delineate the specified area.</strong> Mentally draw a horizontal line across the middle of the map. Focus on the area above this line, moving towards the right.</p><p><strong>Step 2: Identify the predominant pattern.</strong> In the upper-right and extending into the upper-central part, the pattern consists of <span style='color:var(--orange);font-weight:bold;'>long, spaced horizontal dashes</span>.</p><p><strong>Step 3: Refer to the legend.</strong> This pattern corresponds to <span style='color:var(--orange);font-weight:bold;'>Shale</span>.</p><ul><li>Option 0 (Limestone): Found in the upper-left, not widely across the northern half on the right side.</li><li>Option 1 (Sandstone): Found in the lower parts of the map.</li><li>Option 2 (Siltstone): Found primarily in the middle-right, below the widespread Shale.</li><li>Option 3 (Shale): Correctly identifies the lithofacies that covers a large portion of the northern half, particularly on the right.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Visual inspection clearly shows extensive areas of the Shale pattern in the upper-central and upper-right regions, making it the primary lithofacies in that specified area.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A large portion of the northern half of the map, particularly towards the right side, is primarily composed of Shale.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Shale" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "What does the wavy line separating the Sandstone and Shale units in the lower-right section of the map represent?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "An unconformity" },
+        { "type": "string", "content": "A geological fault line" },
+        { "type": "string", "content": "A contact boundary between different lithofacies" },
+        { "type": "string", "content": "A river or stream channel" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Geological Contacts", "Map Features"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Geological Boundaries</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lithofacies Contact:</em> The surface or zone where two different lithofacies meet. These can be sharp, gradational, or irregular, reflecting the processes that formed them.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the meaning of the wavy line separating different rock units in the lower-right of the map.</div><p><strong>Step 1: Locate the specified feature.</strong> Find the lower-right section of the map and observe the wavy line dividing the Sandstone (dotted pattern) from the Shale (long dashed pattern).</p><p><strong>Step 2: Interpret its function.</strong> This line clearly demarcates two distinct areas of different rock types. In geological mapping, lines that separate different rock units are known as contacts or boundaries.</p><ul><li>Option 0 (An unconformity): While an unconformity is a type of geological contact, it specifically represents a break in the geological record (erosion or non-deposition). The map doesn't provide enough information to confirm it's specifically an unconformity, only that it's a boundary.</li><li>Option 1 (A geological fault line): A fault line represents a fracture in the Earth's crust where there has been movement. While boundaries can sometimes be faults, this map's general style suggests simple contacts unless otherwise indicated.</li><li>Option 2 (A contact boundary between different lithofacies): This is the most general and accurate description for a line separating distinct rock units on a geological map.</li><li>Option 3 (A river or stream channel): A river or stream channel would typically be a topographic feature, often linear and continuous, but not typically shown as a boundary between major rock units in this manner on a lithofacies map.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The fundamental purpose of such a line on a lithofacies map is to show where one rock type ends and another begins. This is precisely what a contact boundary does. The wavy nature suggests a natural depositional or erosional surface rather than a sharp tectonic feature.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The wavy line separating the Sandstone and Shale units represents a contact boundary between different lithofacies.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A contact boundary between different lithofacies" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "If one were to traverse directly south from the 'N' symbol in the upper-left of the map, what is the first major lithofacies encountered?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Siltstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Directional Traverse"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Map Traverse Interpretation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Traverse:</em> The process of following a specified path on a map to observe the sequence of features encountered.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the first major lithofacies encountered when moving directly south from the 'N' symbol.</div><p><strong>Step 1: Locate the starting point and direction.</strong> The 'N' symbol (compass rose) is in the upper-left of the map. Moving directly south means moving straight downwards from this point.</p><p><strong>Step 2: Trace the path.</strong> Following a line straight down from the 'N' symbol, the path immediately enters an area marked with the pattern for <span style='color:var(--orange);font-weight:bold;'>Limestone</span> (rectangular blocks with '+' symbols).</p><p><strong>Step 3: Confirm with legend.</strong> The pattern corresponds to Limestone.</p><ul><li>Option 0 (Shale): Found to the east (right) and further south, not immediately south.</li><li>Option 1 (Sandstone): Found much further south, in the bottom part of the map.</li><li>Option 2 (Limestone): This is the first rock type encountered directly south of the 'N' symbol.</li><li>Option 3 (Siltstone): Found to the southeast, not directly south.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct visual trace from the compass 'N' downwards clearly shows the path immediately entering the Limestone unit. This is a straightforward map reading exercise.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If one were to traverse directly south from the 'N' symbol in the upper-left of the map, the first major lithofacies encountered is Limestone.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Limestone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which of the following rock types is depicted adjacent to Sandstone in the lower-central part of the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Dolomite" },
+        { "type": "string", "content": "Granite" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Adjacent Lithofacies"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Adjacent Rock Units</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Adjacent:</em> Located next to or bordering something. In geology, adjacent rock units share a common boundary (contact).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a rock type adjacent to the Sandstone in the lower-central part of the map.</div><p><strong>Step 1: Locate the specified Sandstone unit.</strong> Find the large area of Sandstone (dotted pattern) that occupies the lower-central portion of the map.</p><p><strong>Step 2: Observe its boundaries.</strong> To the right (east) of this Sandstone unit, there is a clear boundary with another rock type.</p><p><strong>Step 3: Identify the adjacent rock type.</strong> The pattern immediately to the east of the Sandstone is the <span style='color:var(--orange);font-weight:bold;'>long, spaced horizontal dashes</span>. According to the legend, this corresponds to <span style='color:var(--orange);font-weight:bold;'>Shale</span>. (Siltstone is also adjacent above some of the sandstone, but Shale is an option and clearly adjacent).</p><ul><li>Option 0 (Limestone): Found in the upper-left and central-left, not adjacent to this Sandstone.</li><li>Option 1 (Shale): Is clearly adjacent to the Sandstone in the lower-central part, to its east.</li><li>Option 2 (Dolomite): Not a rock type identified in the legend.</li><li>Option 3 (Granite): Not a rock type identified in the legend.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By visually tracing the boundary of the Sandstone unit in question, the rock unit immediately to its right (east) is undeniably Shale, as identified by its distinctive pattern in the legend.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Shale is depicted adjacent to Sandstone in the lower-central part of the map.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Shale" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The main purpose of a 'LITHOFACIES MAP' as indicated by the title is to illustrate the spatial distribution of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Topographic elevations" },
+        { "type": "string", "content": "Groundwater levels" },
+        { "type": "string", "content": "Different rock types based on their lithological characteristics" },
+        { "type": "string", "content": "Seismic activity" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Purpose", "Lithofacies Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of a Lithofacies Map</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lithofacies:</em> A body of rock defined by its distinctive lithological characteristics, such as rock type, texture, composition, and sedimentary structures. A lithofacies map shows the geographic distribution of these units.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the main purpose of a map titled 'LITHOFACIES MAP'.</div><p><strong>Step 1: Understand the term 'lithofacies'.</strong> 'Litho' refers to rock, and 'facies' refers to the characteristics of a rock body that reflect its formation conditions. Therefore, a lithofacies map is concerned with the characteristics and distribution of rock types.</p><p><strong>Step 2: Relate to the map's content.</strong> The map clearly uses different patterns, each linked to a specific rock type (Limestone, Shale, Siltstone, Sandstone) in its legend, and shows how these patterns are distributed across the mapped area.</p><ul><li>Option 0 (Topographic elevations): Topographic maps show elevation, not rock types.</li><li>Option 1 (Groundwater levels): Hydrogeological maps show groundwater, not rock types.</li><li>Option 2 (Different rock types based on their lithological characteristics): This accurately describes the core function of a lithofacies map, which visually represents distinct rock units and their patterns of occurrence.</li><li>Option 3 (Seismic activity): Seismicity maps show earthquake locations or fault zones, not rock types.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'lithofacies' itself is a direct clue, and the entire visual content of the map (legend, patterned areas, labels like 'Limestone', 'Shale') explicitly demonstrates the mapping of rock types.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The main purpose of a 'LITHOFACIES MAP' is to illustrate the spatial distribution of different rock types based on their lithological characteristics.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Different rock types based on their lithological characteristics" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "In the context of the map, how is Siltstone differentiated from Shale in their symbolic representation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Siltstone uses dots, Shale uses dashes" },
+        { "type": "string", "content": "Siltstone uses finer/shorter dashes, Shale uses longer/more spaced dashes" },
+        { "type": "string", "content": "Siltstone uses brick pattern, Shale uses dashes" },
+        { "type": "string", "content": "Siltstone uses wavy lines, Shale uses straight lines" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Comparison", "Symbol Differentiation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Symbolic Differentiation (Siltstone vs. Shale)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Symbolic Representation:</em> The use of distinct graphical patterns in a map's legend to visually distinguish different geological units.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to explain how the symbols for Siltstone and Shale are differentiated in the map's legend.</div><p><strong>Step 1: Locate both Siltstone and Shale in the legend.</strong> Both are listed consecutively in the upper-left legend.</p><p><strong>Step 2: Observe their patterns.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Shale</span> is represented by <span style='color:var(--orange);font-weight:bold;'>longer, more spaced horizontal dashed lines</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>Siltstone</span> is represented by <span style='color:var(--orange);font-weight:bold;'>shorter, finer horizontal dashed lines</span>.</li></ul><p><strong>Step 3: Compare the differences.</strong> The primary distinction lies in the length, fineness, and spacing of the horizontal dashes.</p><ul><li>Option 0 (Siltstone uses dots, Shale uses dashes): Incorrect, dots are for Sandstone.</li><li>Option 1 (Siltstone uses finer/shorter dashes, Shale uses longer/more spaced dashes): This accurately describes the visual difference between their respective symbols in the legend.</li><li>Option 2 (Siltstone uses brick pattern, Shale uses dashes): Incorrect, brick pattern is for Limestone.</li><li>Option 3 (Siltstone uses wavy lines, Shale uses straight lines): Neither rock uses wavy lines as its primary symbol, and both use straight dashed lines.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct visual comparison of the two symbols in the legend clearly shows that Siltstone's dashes are shorter and finer than Shale's, making this the key differentiator.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Siltstone is differentiated from Shale in their symbolic representation as Siltstone uses finer/shorter dashes, while Shale uses longer/more spaced dashes.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Siltstone uses finer/shorter dashes, Shale uses longer/more spaced dashes" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Which of the following rock types is *not* found in the lower-right quadrant of the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Siltstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Exclusion (Lower-Right)"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Exclusion (Lower-Right)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Interpretation:</em> The process of analyzing visual information on a map to identify the presence or absence of specific features in a given area.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which of the listed rock types is *not* present in the lower-right quadrant of the map.</div><p><strong>Step 1: Focus on the lower-right quadrant.</strong> Visually examine this specific section of the map.</p><p><strong>Step 2: Identify the rock types present.</strong> In the lower-right, patterns for <span style='color:var(--orange);font-weight:bold;'>Shale</span> (long dashes) and <span style='color:var(--orange);font-weight:bold;'>Sandstone</span> (dots) are clearly visible. A small sliver of <span style='color:var(--orange);font-weight:bold;'>Siltstone</span> (short dashes) also appears at the top-left edge of this quadrant.</p><p><strong>Step 3: Compare with the options.</strong></p><ul><li>Option 0 (Shale): Present in the lower-right.</li><li>Option 1 (Sandstone): Present in the lower-right.</li><li>Option 2 (Limestone): The pattern for Limestone (rectangular blocks with '+') is not found anywhere in the lower-right quadrant; it's concentrated in the upper-left and central-left.</li><li>Option 3 (Siltstone): Present at the northern edge of the lower-right quadrant.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By systematically checking each option against the patterns present in the lower-right quadrant of the map, it is evident that Limestone is absent from this area.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Limestone is not found in the lower-right quadrant of the map.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Limestone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The overall visual appearance of the boundaries between different lithofacies on the map suggests they are predominantly:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Perfectly straight and parallel" },
+        { "type": "string", "content": "Circular" },
+        { "type": "string", "content": "Irregular and wavy" },
+        { "type": "string", "content": "Defined by sharp angles" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Geological Contacts", "Boundary Characteristics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characteristics of Lithofacies Boundaries</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Geological Boundary:</em> The line or surface separating different rock units. Their geometry can provide clues about the geological processes involved (e.g., deposition, erosion, faulting).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to describe the predominant visual appearance of the boundaries between different lithofacies on the map.</div><p><strong>Step 1: Observe multiple boundaries on the map.</strong> Look at the lines separating, for example, Limestone from Shale, Sandstone from Shale, and Sandstone from Siltstone.</p><p><strong>Step 2: Characterize their shapes.</strong> These lines are generally not perfectly straight, nor are they circular or sharply angular. Instead, they exhibit <span style='color:var(--orange);font-weight:bold;'>undulating, curving, and irregular forms</span>.</p><ul><li>Option 0 (Perfectly straight and parallel): Most boundaries on the map are clearly not straight; they curve and vary.</li><li>Option 1 (Circular): No circular boundaries are evident.</li><li>Option 2 (Irregular and wavy): This accurately describes the predominant characteristic of the contacts between the lithofacies shown on the map.</li><li>Option 3 (Defined by sharp angles): While some angles might exist, the overall impression is one of gentle curves and irregular wave-like patterns rather than sharp, geometric angles.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A thorough visual inspection of all contact lines on the map confirms that they are drawn with a distinct irregular and wavy style, reflecting natural geological transitions.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The overall visual appearance of the boundaries between different lithofacies on the map suggests they are predominantly irregular and wavy.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Irregular and wavy" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "In the central-left part of the map, bordered by upper Shale and lower Sandstone, which lithofacies is extensively present?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Siltstone" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Coal" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Central-Left Lithofacies"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Distribution (Central-Left)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Interpretation:</em> The skill of examining a map to understand the distribution and relationships of geological units within a specified area.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the extensively present lithofacies in the central-left part of the map, specifically bordered by Shale and Sandstone.</div><p><strong>Step 1: Pinpoint the location.</strong> Focus on the central area, leaning towards the left side of the map.</p><p><strong>Step 2: Identify surrounding units.</strong> Above this area, there's Shale, and below it, there's Sandstone, forming a distinct unit between them.</p><p><strong>Step 3: Identify the pattern and match with legend.</strong> The patterned area in question displays <span style='color:var(--orange);font-weight:bold;'>rectangular blocks with '+' symbols</span>. Consulting the legend, this pattern corresponds to <span style='color:var(--orange);font-weight:bold;'>Limestone</span>.</p><ul><li>Option 0 (Sandstone): Found below this unit, not extensively within it.</li><li>Option 1 (Siltstone): Found to the right (east) of this area.</li><li>Option 2 (Limestone): This is the extensive rock type found in the central-left, bordered by Shale and Sandstone.</li><li>Option 3 (Coal): Not identified as a lithofacies in the map's legend.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By carefully locating the described area and identifying the associated pattern, the rock type is clearly Limestone according to the legend. This is a direct spatial identification.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the central-left part of the map, bordered by upper Shale and lower Sandstone, Limestone is extensively present.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Limestone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Beyond the basic title, what information is essential for interpreting the patterned areas on the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The geological epoch" },
+        { "type": "string", "content": "The scale bar" },
+        { "type": "string", "content": "The legend/key of rock symbols" },
+        { "type": "string", "content": "The annual rainfall data" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Components", "Map Interpretation Basics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Essential Map Information</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Interpretation:</em> The process of deriving meaning from the symbols and features presented on a map. This requires understanding the map's conventions and components.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what information, apart from the title, is essential for interpreting the patterned areas on the map.</div><p><strong>Step 1: Consider the map's core function.</strong> The map uses different patterns to represent distinct rock types. Without knowing what each pattern signifies, the map would be meaningless.</p><p><strong>Step 2: Identify the component that defines symbols.</strong> The <span style='color:var(--orange);font-weight:bold;'>legend (or key)</span> is specifically designed to link each pattern or symbol to the geological feature it represents (e.g., small dots for Sandstone, horizontal dashes for Shale).</p><ul><li>Option 0 (The geological epoch): While important for geological context, the epoch is not present on this map and not strictly essential for interpreting *what* the patterns *are*.</li><li>Option 1 (The scale bar): A scale bar is important for determining distances, but not for identifying the nature of the patterned areas themselves.</li><li>Option 2 (The legend/key of rock symbols): This is absolutely essential because it explicitly tells the viewer what each unique pattern on the map represents (e.g., Limestone, Shale, Siltstone, Sandstone).</li><li>Option 3 (The annual rainfall data): Rainfall data is related to climate or hydrology, not directly to identifying rock types on a geological map.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Without the legend, the patterned areas would just be abstract designs. The legend provides the crucial link between the graphical representation and the geological reality, making it indispensable for interpretation.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The legend/key of rock symbols is essential for interpreting the patterned areas on the map.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The legend/key of rock symbols" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Observe the spatial relationship in the map. Which lithofacies appears to be present both above and below other units, for instance in the eastern part?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Siltstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Relative Stratigraphy"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Relative Stratigraphic Position</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Stratigraphic Relationship:</em> The vertical or lateral arrangement of rock layers, indicating their relative ages and depositional order. On a map, 'above' and 'below' refer to typical cross-sectional relationships or relative positions if viewing from a particular angle.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a lithofacies that appears above and below other units, specifically referencing the eastern part of the map.</div><p><strong>Step 1: Focus on the eastern part of the map.</strong> Observe the sequence of rock units from north to south (or up and down).</p><p><strong>Step 2: Identify the patterns and their corresponding rock types.</strong></p><ul><li>In the upper-right, there is a large area of <span style='color:var(--orange);font-weight:bold;'>Shale</span> (long dashes).</li><li>Below this Shale, in the middle-right, there is an area of <span style='color:var(--orange);font-weight:bold;'>Siltstone</span> (short dashes).</li><li>Further south, below the Siltstone, there is another area of <span style='color:var(--orange);font-weight:bold;'>Shale</span> (long dashes).</li></ul><p><strong>Step 3: Determine which rock type fits the description.</strong> Shale is clearly present as the uppermost unit, then Siltstone, and then Shale again, meaning Shale is present both 'above' (north of) and 'below' (south of) the Siltstone unit in the eastern part.</p><ul><li>Option 0 (Sandstone): Mostly in the lower-left to central-lower part, not exhibiting this specific relationship in the east.</li><li>Option 1 (Limestone): Concentrated in the upper-left and central-left, not in the eastern part with this relationship.</li><li>Option 2 (Shale): Is indeed found both above (north of) and below (south of) the Siltstone unit in the eastern map section.</li><li>Option 3 (Siltstone): Is between two Shale units, not above and below another unit itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Tracing the units vertically in the eastern half of the map clearly shows Shale, then Siltstone, then Shale again, confirming that Shale occupies positions both above and below the Siltstone.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Shale appears to be present both above and below other units, for instance in the eastern part.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Shale" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "In the lower-central part of the map, a large body of Sandstone is shown. Which lithofacies is immediately to its right (east)?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Siltstone" },
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Gneiss" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Lateral Relationships"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lateral Lithofacies Relationships</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lateral Relationship:</em> The spatial arrangement of rock units side-by-side on a map, indicating how different lithofacies are distributed horizontally.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the lithofacies located immediately to the right (east) of the large Sandstone body in the lower-central part of the map.</div><p><strong>Step 1: Locate the specified Sandstone body.</strong> Find the extensive area marked with the dot pattern for Sandstone in the lower-central region.</p><p><strong>Step 2: Identify the direction 'right' or 'east'.</strong> Using the compass rose as a guide, 'right' on the map corresponds to the East direction.</p><p><strong>Step 3: Observe the adjacent unit.</strong> Move horizontally to the right from the Sandstone body. The pattern immediately adjacent is the <span style='color:var(--orange);font-weight:bold;'>long, spaced horizontal dashes</span>.</p><p><strong>Step 4: Refer to the legend.</strong> This pattern corresponds to <span style='color:var(--orange);font-weight:bold;'>Shale</span>.</p><ul><li>Option 0 (Siltstone): Found generally north (above) or to the northeast of this Sandstone, but not immediately to its east.</li><li>Option 1 (Shale): Is clearly immediately adjacent to the east of the Sandstone.</li><li>Option 2 (Limestone): Found in the central-left, far from this Sandstone unit.</li><li>Option 3 (Gneiss): Not a rock type identified in the map's legend.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By visually tracing the boundary of the Sandstone body in the lower-central area, the lithofacies directly to its right is unequivocally Shale, based on its unique pattern in the legend.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The lithofacies immediately to the right (east) of the large body of Sandstone in the lower-central part of the map is Shale.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Shale" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "The representation of different rock types by distinct patterns on the map serves primarily to:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Indicate topographical relief" },
+        { "type": "string", "content": "Show subsurface water flow" },
+        { "type": "string", "content": "Visually distinguish and identify lithofacies" },
+        { "type": "string", "content": "Represent climatic zones" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Function", "Symbolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Function of Map Symbols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Symbolism in Mapping:</em> The use of standardized or unique graphical representations to convey specific information about geological features efficiently and clearly.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary purpose of using distinct patterns to represent different rock types on the map.</div><p><strong>Step 1: Observe the map and legend.</strong> The map clearly uses a different pattern for each rock type listed in the legend (e.g., dots for Sandstone, dashes for Shale).</p><p><strong>Step 2: Consider the effect of these patterns.</strong> These distinct patterns make it easy to differentiate between areas of Limestone, Shale, Siltstone, and Sandstone simply by looking at their textures on the map.</p><ul><li>Option 0 (Indicate topographical relief): Topographical relief is usually shown with contour lines, not rock patterns.</li><li>Option 1 (Show subsurface water flow): Hydrogeological maps use specific symbols for water flow, not general rock patterns.</li><li>Option 2 (Visually distinguish and identify lithofacies): This is the direct and primary function of using different, recognizable patterns for each rock type, allowing for quick identification and differentiation across the map.</li><li>Option 3 (Represent climatic zones): Climatic maps show weather patterns and zones, which are unrelated to the rock types depicted here.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Without distinct patterns, it would be impossible to tell one rock type from another by sight alone on the map. The patterns serve as immediate visual identifiers for each lithofacies.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The representation of different rock types by distinct patterns on the map serves primarily to visually distinguish and identify lithofacies.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Visually distinguish and identify lithofacies" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which of the following statements about the map's legend is true?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It only defines igneous rock types." },
+        { "type": "string", "content": "It uses symbols to represent specific sedimentary rock types." },
+        { "type": "string", "content": "It indicates the age of each rock formation." },
+        { "type": "string", "content": "It includes symbols for metamorphic rocks." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Characteristics", "Rock Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Legend Content Analysis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Rock Classification:</em> Rocks are broadly categorized into igneous, sedimentary, and metamorphic based on their formation processes. Limestone, Shale, Siltstone, and Sandstone are common sedimentary rocks.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a true statement about the map's legend.</div><p><strong>Step 1: Examine the rock types listed in the legend.</strong> The legend lists <span style='color:var(--orange);font-weight:bold;'>Limestone, Shale, Siltstone, and Sandstone</span>.</p><p><strong>Step 2: Classify these rock types.</strong> These are all known examples of <span style='color:var(--orange);font-weight:bold;'>sedimentary rocks</span>.</p><p><strong>Step 3: Evaluate the options based on this classification and the legend's visual content.</strong></p><ul><li>Option 0 (It only defines igneous rock types.): Incorrect. The listed rocks (Limestone, Shale, Siltstone, Sandstone) are sedimentary, not igneous.</li><li>Option 1 (It uses symbols to represent specific sedimentary rock types.): Correct. The legend clearly assigns unique symbols to each of the four identified sedimentary rock types.</li><li>Option 2 (It indicates the age of each rock formation.): The legend provides no information about the geological age (e.g., Jurassic, Cenozoic) of the formations.</li><li>Option 3 (It includes symbols for metamorphic rocks.): Incorrect. No metamorphic rock types (like gneiss, schist, marble) are listed or symbolized.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> All four rock types explicitly mentioned in the legend (Limestone, Shale, Siltstone, Sandstone) are foundational examples of sedimentary rocks. The legend's function is to explain the symbols for *these specific* rocks.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The map's legend uses symbols to represent specific sedimentary rock types.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It uses symbols to represent specific sedimentary rock types." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "The map provides a visual record of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The geological cross-section of an area" },
+        { "type": "string", "content": "The aerial distribution of rock units at the surface" },
+        { "type": "string", "content": "The subsurface structure of rock layers" },
+        { "type": "string", "content": "The tectonic plate boundaries" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Type", "Geological Information"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Information Conveyed by Lithofacies Maps</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lithofacies Map:</em> A map designed to show the distribution of different rock types or rock characteristics across a geographic area. It represents the geology as seen from above, on the Earth's surface.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what kind of visual record the provided map offers.</div><p><strong>Step 1: Analyze the map's perspective.</strong> The map displays patterns and labels spread across a two-dimensional area, showing how different rock types are arranged geographically. This is a plan view, or an aerial perspective.</p><p><strong>Step 2: Consider the map's title.</strong> \"LITHOFACIES MAP\" reinforces that it's about the distribution of rock types.</p><ul><li>Option 0 (The geological cross-section of an area): A cross-section shows a vertical cut through the Earth, depicting layers below the surface. This map is clearly a surface view.</li><li>Option 1 (The aerial distribution of rock units at the surface): This accurately describes what a lithofacies map presents: the horizontal spread and arrangement of different rock types as they appear on the ground.</li><li>Option 2 (The subsurface structure of rock layers): While some inferences about subsurface structure can be made from surface maps, this map primarily shows surface distribution, not explicit subsurface layering.</li><li>Option 3 (The tectonic plate boundaries): Tectonic maps show large-scale plate interactions, not local rock unit distribution.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By its very nature, a map like this displays how geological features, in this case, lithofacies, are spread out over an area, which is precisely an aerial distribution of surface rock units.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The map provides a visual record of the aerial distribution of rock units at the surface.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The aerial distribution of rock units at the surface" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Consider the transition from Limestone in the upper-left to the adjacent Shale unit. What kind of boundary separates these two rock types?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "An abrupt, perfectly straight boundary" },
+        { "type": "string", "content": "A fault line with significant displacement" },
+        { "type": "string", "content": "An irregular and wavy contact" },
+        { "type": "string", "content": "A gradational contact" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Geological Contacts", "Boundary Morphology"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Boundary Characteristics (Limestone-Shale)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Geological Contact:</em> The surface of demarcation between two different rock bodies. The shape of these contacts can indicate the geological processes that formed them.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to characterize the boundary between the Limestone and adjacent Shale unit in the upper-left of the map.</div><p><strong>Step 1: Locate the Limestone and adjacent Shale in the upper-left.</strong> The Limestone (rectangular blocks with '+') is in the far upper-left, and the Shale (long horizontal dashes) is immediately to its right (east) and somewhat above.</p><p><strong>Step 2: Observe the line separating these two units.</strong> The line is not straight. It displays clear <span style='color:var(--orange);font-weight:bold;'>undulations and curves, appearing irregular or wavy</span>.</p><ul><li>Option 0 (An abrupt, perfectly straight boundary): This is visually incorrect; the boundary is clearly not straight.</li><li>Option 1 (A fault line with significant displacement): While some boundaries are faults, the map does not provide symbols or evidence (like offset layers) to specifically denote it as a fault. Its wavy nature suggests a depositional or erosional origin.</li><li>Option 2 (An irregular and wavy contact): This accurately describes the visual characteristic of the boundary between the Limestone and Shale.</li><li>Option 3 (A gradational contact): A gradational contact implies a gradual change in rock type over a zone, not a distinct line. The map depicts a sharp line, even if wavy.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Visual inspection of the boundary in question reveals a distinct irregular and wavy line, consistent with the description in the correct option.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The boundary separating Limestone in the upper-left to the adjacent Shale unit is an irregular and wavy contact.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "An irregular and wavy contact" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "The rock units identified on this map (Limestone, Shale, Siltstone, Sandstone) are all categories of what general type of rock?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Igneous rocks" },
+        { "type": "string", "content": "Metamorphic rocks" },
+        { "type": "string", "content": "Sedimentary rocks" },
+        { "type": "string", "content": "Volcanic rocks" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Rock Classification", "Sedimentary Rocks"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>General Rock Type Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Sedimentary Rocks:</em> Rocks formed from the accumulation or deposition of mineral or organic particles at the Earth's surface, followed by cementation. They are one of the three main rock types, along with igneous and metamorphic rocks.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to classify the general type of rock for Limestone, Shale, Siltstone, and Sandstone.</div><p><strong>Step 1: Recall the definition of each listed rock type.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Limestone</span> is a chemical or biogenic rock formed from calcite, often from marine organisms.</li><li><span style='color:var(--orange);font-weight:bold;'>Shale</span> is a fine-grained clastic rock composed of clay minerals.</li><li><span style='color:var(--orange);font-weight:bold;'>Siltstone</span> is a clastic rock composed predominantly of silt-sized particles.</li><li><span style='color:var(--orange);font-weight:bold;'>Sandstone</span> is a clastic rock composed of sand-sized grains.</li></ul><p><strong>Step 2: Identify the common origin.</strong> All these rock types are formed by the accumulation and lithification of sediments (clastic or chemical/biogenic), making them sedimentary rocks.</p><ul><li>Option 0 (Igneous rocks): Formed from cooling magma or lava (e.g., granite, basalt).</li><li>Option 1 (Metamorphic rocks): Formed by the transformation of existing rocks due to heat, pressure, or chemical alteration (e.g., marble, schist).</li><li>Option 2 (Sedimentary rocks): Correctly classifies all listed rock types based on their formation processes.</li><li>Option 3 (Volcanic rocks): A type of extrusive igneous rock, not a general category that includes all four listed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> This is foundational geological knowledge. The listed rocks are textbook examples of sedimentary rocks, differing in composition or grain size but sharing a common sedimentary origin.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The rock units identified on this map (Limestone, Shale, Siltstone, Sandstone) are all categories of sedimentary rocks.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sedimentary rocks" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which lithofacies in the legend features both rectangular shapes and small '+' symbols?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Siltstone" },
+        { "type": "string", "content": "Limestone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Detail", "Symbol Components"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Detailed Symbol Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Symbol Components:</em> The individual graphical elements that make up a complex symbol in a map legend.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the lithofacies whose legend symbol combines rectangular shapes and small '+' symbols.</div><p><strong>Step 1: Refer to the map's legend.</strong> Examine each symbol for the listed rock types.</p><ul><li>Shale: Long horizontal dashes.</li><li>Sandstone: Small dots.</li><li>Siltstone: Short horizontal dashes.</li><li><span style='color:var(--orange);font-weight:bold;'>Limestone</span>: Features a pattern of <span style='color:var(--orange);font-weight:bold;'>rectangular blocks, each containing a small cross or '+' symbol</span>.</li></ul><p><strong>Step 2: Match the description to a rock type.</strong> The description perfectly matches the symbol for Limestone.</p><ul><li>Option 0 (Shale): Uses dashed lines.</li><li>Option 1 (Sandstone): Uses dots.</li><li>Option 2 (Siltstone): Uses dashed lines.</li><li>Option 3 (Limestone): Correctly matches the described symbol.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct visual inspection of the legend explicitly shows the Limestone symbol as composed of rectangular blocks with plus signs inside, clearly distinguishing it from the other symbols.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Limestone is the lithofacies in the legend that features both rectangular shapes and small '+' symbols.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Limestone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Observe the middle-right area of the map. Which two lithofacies are predominantly present and in contact there?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Limestone and Sandstone" },
+        { "type": "string", "content": "Shale and Siltstone" },
+        { "type": "string", "content": "Sandstone and Shale" },
+        { "type": "string", "content": "Limestone and Shale" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Middle-Right Contacts"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies in Middle-Right</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Spatial Relationship:</em> How different geological units are arranged relative to each other in terms of location and contact.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the two predominant lithofacies in contact in the middle-right area of the map.</div><p><strong>Step 1: Focus on the middle-right section of the map.</strong></p><p><strong>Step 2: Identify the patterns in that area.</strong> There's a prominent area of <span style='color:var(--orange);font-weight:bold;'>long, spaced horizontal dashes</span> and an area of <span style='color:var(--orange);font-weight:bold;'>short, fine horizontal dashes</span> that are in direct contact.</p><p><strong>Step 3: Refer to the legend.</strong> The long dashes represent <span style='color:var(--orange);font-weight:bold;'>Shale</span>, and the short dashes represent <span style='color:var(--orange);font-weight:bold;'>Siltstone</span>.</p><ul><li>Option 0 (Limestone and Sandstone): These are found in other parts of the map and are not predominantly in contact in the middle-right.</li><li>Option 1 (Shale and Siltstone): These are clearly visible and in contact in the middle-right area, with Shale generally above and to the right of Siltstone.</li><li>Option 2 (Sandstone and Shale): Found in the lower-right, not predominantly in the middle-right.</li><li>Option 3 (Limestone and Shale): Found in the upper-left, not in the middle-right.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A visual scan of the middle-right quadrant confirms that the primary rock units present and bordering each other are those with the Shale and Siltstone patterns.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the middle-right area of the map, Shale and Siltstone are predominantly present and in contact.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Shale and Siltstone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "If you were to drill a borehole from the surface in the middle of the large 'Siltstone' area in the center-right, what rock type would you initially encounter?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Siltstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Borehole Prediction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Borehole Surface Encounter</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Borehole:</em> A narrow shaft drilled in the ground, typically to extract fluid or gas, or to study the geology of the subsurface. The first rock type encountered at the surface is the one mapped in that location.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what rock type would be initially encountered if a borehole were drilled in the middle of a specific 'Siltstone' area.</div><p><strong>Step 1: Locate the specified drilling location.</strong> Find the large area labeled 'Siltstone' in the center-right of the map.</p><p><strong>Step 2: Understand 'initially encounter'.</strong> When drilling from the surface, the first rock type encountered is the one that is exposed at that surface location.</p><p><strong>Step 3: Identify the rock type at the surface.</strong> Since the drilling occurs in the middle of the 'Siltstone' area, the rock type at the surface at that point is, by definition, <span style='color:var(--orange);font-weight:bold;'>Siltstone</span>.</p><ul><li>Option 0 (Shale): While Shale is adjacent to Siltstone, drilling in the middle of the Siltstone unit would not initially encounter Shale.</li><li>Option 1 (Sandstone): Sandstone is located further south and west.</li><li>Option 2 (Limestone): Limestone is located in the central-left area.</li><li>Option 3 (Siltstone): This is the correct rock type, as the drilling begins within the Siltstone unit itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A surface map directly shows the rock types exposed at the surface. Therefore, drilling into an area labeled 'Siltstone' will, by definition, initially penetrate Siltstone.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If you were to drill a borehole from the surface in the middle of the large 'Siltstone' area in the center-right, you would initially encounter Siltstone.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Siltstone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "What is the general orientation of the Sandstone unit located in the lower-central part of the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "North-south elongated" },
+        { "type": "string", "content": "East-west elongated" },
+        { "type": "string", "content": "Circular" },
+        { "type": "string", "content": "Diagonal (NW-SE)" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Geological Structure Orientation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Spatial Orientation of Sandstone</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Orientation:</em> The angular position or attitude of a geological feature relative to the cardinal directions (North, South, East, West).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the general orientation of the Sandstone unit in the lower-central part of the map.</div><p><strong>Step 1: Locate the Sandstone unit.</strong> Identify the large area of Sandstone (dotted pattern) situated in the lower-central region of the map.</p><p><strong>Step 2: Observe its longest dimension.</strong> Visually trace the extent of this Sandstone body. It stretches significantly more horizontally (from left to right) than it does vertically (from top to bottom).</p><p><strong>Step 3: Relate to cardinal directions.</strong> Based on the compass rose, left-to-right corresponds to West-to-East. Therefore, the unit is elongated in an <span style='color:var(--orange);font-weight:bold;'>East-west direction</span>.</p><ul><li>Option 0 (North-south elongated): The Sandstone body is clearly wider than it is tall in the map view.</li><li>Option 1 (East-west elongated): This accurately describes the dominant elongation direction of the Sandstone unit.</li><li>Option 2 (Circular): The shape is clearly not circular.</li><li>Option 3 (Diagonal (NW-SE)): While some parts might have a diagonal aspect, the overall shape's longest axis is horizontal.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A direct visual assessment of the Sandstone body shows its greater extent along the horizontal axis of the map, which correlates to an East-West orientation.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The general orientation of the Sandstone unit located in the lower-central part of the map is East-west elongated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "East-west elongated" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which of the following lithofacies is *not* prominently visible along the westernmost edge of the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Limestone" },
+        { "type": "string", "content": "Shale" },
+        { "type": "string", "content": "Sandstone" },
+        { "type": "string", "content": "Siltstone" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Interpretation", "Edge Distribution (Westernmost)"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lithofacies Absence (Western Edge)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Analysis:</em> The systematic examination of map features to determine their presence or absence in specific geographic areas.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which lithofacies from the options is *not* prominently visible along the westernmost edge of the map.</div><p><strong>Step 1: Scan the westernmost (leftmost) vertical edge of the map.</strong></p><p><strong>Step 2: Identify the visible patterns and their corresponding rock types.</strong></p><ul><li>In the upper-left, <span style='color:var(--orange);font-weight:bold;'>Limestone</span> (rectangular blocks with '+') is clearly visible.</li><li>Below that, there's some <span style='color:var(--orange);font-weight:bold;'>Shale</span> (long dashes) making contact.</li><li>Further down, in the bottom-left, <span style='color:var(--orange);font-weight:bold;'>Sandstone</span> (dots) is prominent.</li></ul><p><strong>Step 3: Check against the options.</strong></p><ul><li>Option 0 (Limestone): Clearly visible at the top-left edge.</li><li>Option 1 (Shale): Visible along the central-western edge, bordering Limestone.</li><li>Option 2 (Sandstone): Prominently visible along the bottom-left edge.</li><li>Option 3 (Siltstone): The pattern for Siltstone (short dashes) is found predominantly in the middle-right and central-southern parts, but it does <span style='color:var(--orange);font-weight:bold;'>not appear prominently, if at all, along the strict westernmost edge</span> of the map.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A careful visual inspection confirms the presence of Limestone, Shale, and Sandstone along different segments of the western edge. Siltstone, however, is conspicuously absent from this extreme western boundary, appearing further inland to the east.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Siltstone is not prominently visible along the westernmost edge of the map.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Siltstone" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "The inclusion of a legend in the map is crucial for:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Determining the age of the rocks" },
+        { "type": "string", "content": "Understanding the scale of the map" },
+        { "type": "string", "content": "Identifying what each pattern represents" },
+        { "type": "string", "content": "Calculating the volume of rock" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Components", "Legend Function"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of a Map Legend</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Legend (Key):</em> An essential component of any map that provides the reader with the meaning of all symbols, colors, and patterns used to represent features on the map.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the crucial role of the legend in the provided geological map.</div><p><strong>Step 1: Consider the nature of the map.</strong> The map uses abstract patterns (dots, dashes, rectangles with crosses) to represent different rock types. Without an explanation, these patterns would be meaningless.</p><p><strong>Step 2: Understand the function of a legend.</strong> The legend explicitly links these abstract patterns to specific rock types (Limestone, Shale, Siltstone, Sandstone), thereby allowing for the interpretation of the map's content.</p><ul><li>Option 0 (Determining the age of the rocks): The legend lists rock names and symbols, but not their geological ages.</li><li>Option 1 (Understanding the scale of the map): A scale bar or representative fraction indicates map scale, not the legend.</li><li>Option 2 (Identifying what each pattern represents): This is the fundamental purpose of any legend – to decode the symbols used on the map.</li><li>Option 3 (Calculating the volume of rock): Calculating rock volume would require additional information (thickness, area, density) and a scale, none of which is provided or directly facilitated by the symbol definitions in the legend.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Without the legend, the patterned areas on the map would be indecipherable. Its presence is vital for translating the graphical elements into meaningful geological information.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The inclusion of a legend in the map is crucial for identifying what each pattern represents.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Identifying what each pattern represents" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "From the map, it can be inferred that the geological survey focuses on what aspect of the mapped area?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The magnetic anomalies" },
+        { "type": "string", "content": "The surficial distribution of rock types" },
+        { "type": "string", "content": "The geothermal gradient" },
+        { "type": "string", "content": "The presence of seismic hazards" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Scope", "Geological Survey Focus"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Inferred Survey Focus</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Geological Survey:</em> The systematic investigation of the geology of a region, often involving mapping, sampling, and analysis, to understand its composition, structure, and history.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what aspect of the mapped area the geological survey, which produced this map, primarily focuses on.</div><p><strong>Step 1: Analyze the content of the map.</strong> The map clearly depicts different rock types (lithofacies) using distinct patterns and labels. These patterns are spread across the two-dimensional surface of the map, indicating their geographical occurrence.</p><p><strong>Step 2: Relate content to survey goals.</strong> A map titled \"LITHOFACIES MAP\" that shows the distribution of rock types explicitly serves to document and understand where different rocks are found on the Earth's surface.</p><ul><li>Option 0 (The magnetic anomalies): Magnetic surveys generate maps showing magnetic variations, not rock type distribution directly.</li><li>Option 1 (The surficial distribution of rock types): This precisely describes the information presented by a lithofacies map, which shows the rocks exposed at the Earth's surface.</li><li>Option 2 (The geothermal gradient): Geothermal maps show heat flow, unrelated to rock patterns.</li><li>Option 3 (The presence of seismic hazards): Seismic hazard maps show fault lines or earthquake probabilities, which are not the primary focus of this lithofacies map.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The entire content of the map – its title, legend, and patterned areas – is dedicated to illustrating the different rock units and their locations on the ground, which is the definition of surficial distribution.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ From the map, it can be inferred that the geological survey focuses on the surficial distribution of rock types.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The surficial distribution of rock types" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "What feature helps a user orient themselves when viewing the map?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A legend" },
+        { "type": "string", "content": "A scale bar" },
+        { "type": "string", "content": "A compass rose" },
+        { "type": "string", "content": "A title" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Map Components", "Orientation Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Map Orientation Feature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Orientation:</em> The act of determining one's position or the direction of an object relative to points of a compass or other fixed points. On a map, a compass rose provides directional orientation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which feature on the map helps a user orient themselves.</div><p><strong>Step 1: Look for directional indicators on the map.</strong> In the upper-left part of the map, there is a distinct arrow with an 'N' at its head.</p><p><strong>Step 2: Identify this feature.</strong> This symbol is a <span style='color:var(--orange);font-weight:bold;'>compass rose</span>, specifically indicating the North direction.</p><p><strong>Step 3: Understand its function.</strong> Knowing where North is allows a user to determine all other cardinal directions (South, East, West) and thus orient the map correctly relative to the real world or their own position.</p><ul><li>Option 0 (A legend): The legend explains symbols, not direction.</li><li>Option 1 (A scale bar): A scale bar indicates distances, not direction.</li><li>Option 2 (A compass rose): This is the explicit feature on the map designed to provide directional orientation.</li><li>Option 3 (A title): The title tells what the map is about, not how to orient it.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The compass rose with 'N' clearly marked serves as the sole explicit directional indicator on the map, making it the essential tool for orientation.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A compass rose helps a user orient themselves when viewing the map.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A compass rose" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The symbols used for Shale and Siltstone are similar. This might imply:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They are unrelated rock types" },
+        { "type": "string", "content": "They belong to different major rock classifications" },
+        { "type": "string", "content": "They share some common geological characteristics or origin" },
+        { "type": "string", "content": "One is always found directly above the other" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Symbolic Inference", "Rock Characteristics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Inference from Similar Symbols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Geological Symbols:</em> Standardized graphical representations that often reflect some characteristic of the rock or feature they represent. Similar symbols can indicate related properties.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what can be inferred from the similar symbols used for Shale and Siltstone.</div><p><strong>Step 1: Observe the symbols for Shale and Siltstone in the legend.</strong> Both use horizontal dashed lines, with Siltstone's being shorter/finer and Shale's being longer/more spaced.</p><p><strong>Step 2: Consider common geological characteristics.</strong> Both Shale and Siltstone are fine-grained clastic sedimentary rocks, differentiated primarily by grain size (silt is coarser than clay, which makes up shale). Their similar origins as fine sediments might lead to related symbolic representation.</p><ul><li>Option 0 (They are unrelated rock types): Incorrect. Their similar symbols and nature (fine-grained clastic sediments) suggest a relationship.</li><li>Option 1 (They belong to different major rock classifications): Incorrect. Both are sedimentary rocks.</li><li>Option 2 (They share some common geological characteristics or origin): This is a plausible inference. Both are siliciclastic sedimentary rocks, formed from fine-grained sediments, differentiating them from coarser Sandstone or chemical Limestone. The dashed lines can evoke their fine bedding.</li><li>Option 3 (One is always found directly above the other): While they can be found in vertical succession, the map itself doesn't state a consistent 'always above/below' relationship. Their arrangement can vary depending on local depositional conditions.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> In geological mapping, similar symbols often denote rocks that are genetically related or share fundamental characteristics. Shale and Siltstone, both fine-grained clastic sedimentary rocks, fit this criterion, making the inference of shared characteristics reasonable.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The similar symbols used for Shale and Siltstone might imply they share some common geological characteristics or origin.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They share some common geological characteristics or origin" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Explain the significance of a lithofacies map in geological studies, using specific observations from the provided map to illustrate your points.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Lithofacies Mapping", "Geological Significance"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of Lithofacies Maps</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Lithofacies Map:</em> A map type that illustrates the geographical distribution of distinct rock types (lithofacies) based on their physical, chemical, or biological characteristics. It is a fundamental tool for understanding surface geology.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an explanation of the significance of a lithofacies map in geological studies, with specific examples from the provided map.</div><p><strong>Step 1: Define a lithofacies map.</strong> Start by explaining what a lithofacies map is and its primary purpose.</p><p><strong>Step 2: Discuss identification of rock types.</strong> Explain how the map allows for the recognition of different rock types.</p><p><strong>Step 3: Describe spatial distribution and relationships.</strong> Detail how the map shows how different rock units are arranged relative to each other.</p><p><strong>Step 4: Explain inference of geological history.</strong> Connect the observed patterns to broader geological understanding.</p><p><strong>Step 5: Touch upon practical applications (e.g., resource exploration).</strong> Briefly mention how such maps are used in real-world scenarios.</p><ul><li>**Marking Point 1: Clear identification of rock types.** The provided map, through its legend, clearly identifies four distinct rock types: Limestone, Shale, Siltstone, and Sandstone. These distinct patterns allow geologists to rapidly distinguish one rock type from another across the mapped area. For instance, the dot pattern is instantly recognizable as Sandstone.</li><li>**Marking Point 2: Visualization of spatial distribution.** The map clearly shows how these rock types are distributed geographically. For example, large bodies of Sandstone are prevalent in the lower-left, Limestone in the central-left, and widespread Shale units in the northern and eastern parts. This visual representation allows for a quick understanding of the surficial geology.</li><li>**Marking Point 3: Interpretation of geological contacts and relationships.** The map illustrates the boundaries (contacts) between different lithofacies, which are predominantly irregular and wavy. These contacts, such as between Sandstone and Shale in the lower-right, provide crucial information about the lateral transitions and the interfaces where different depositional environments met or changed in the past.</li><li>**Marking Point 4: Foundation for understanding geological history and environments.** By showing the distribution and relationships of lithofacies, the map allows geologists to infer the ancient depositional environments. For example, the lateral and vertical succession of different rock types (e.g., Shale, Siltstone, Sandstone) can indicate changes in sea level, energy of depositional currents, or proximity to sediment sources. This helps in reconstructing the geological evolution of the region.</li><li>**Marking Point 5: Utility for resource assessment.** Understanding the distribution of different rock types is fundamental for exploring and managing natural resources. For instance, identifying porous Sandstone units from the map is critical for locating potential aquifers or hydrocarbon reservoirs, while impermeable Shale units might indicate sealing layers.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A complete answer must not only define the map type but also demonstrate how specific elements from the provided map contribute to its overall geological utility. The examples provided directly reference the map's legend, rock unit locations, and boundary characteristics. Avoid introducing external theoretical concepts not directly inferable from the image.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A lithofacies map is significant for identifying rock types, visualizing their spatial distribution and relationships, inferring geological history, and aiding in resource assessment by presenting a clear graphical overview of surface geology.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A lithofacies map is a graphical representation that illustrates the distribution of different rock types (lithofacies) across a geographical area, usually at the Earth's surface. Its significance in geological studies stems from several key aspects:\n\n1.  **Identification of Rock Types:** The map, such as the one provided, clearly identifies various rock units like Limestone, Shale, Siltstone, and Sandstone through distinct symbols. This allows geologists to quickly recognize and differentiate between different lithologies in the field or for planning purposes.\n2.  **Spatial Distribution and Relationships:** It visually displays how these rock types are distributed geographically and their spatial relationships to one another. For example, the provided map shows large bodies of Sandstone in the lower part, Limestone in the central-left, and widespread Shale units. Observing these patterns helps to interpret the sequence of geological events and changes in depositional settings. The irregular and wavy contacts between units like Sandstone and Shale suggest natural variations in deposition or erosion over time.\n3.  **Understanding Geological History:** By mapping the extent and arrangement of lithofacies, geologists can reconstruct past environments. The presence and distribution of specific lithofacies in different areas on the map help to build a picture of ancient landscapes, such as identifying areas that were once marine (Limestone, Shale) versus higher energy coastal or terrestrial (Sandstone).\n4.  **Resource Exploration and Management:** Lithofacies maps are critical for identifying areas with potential for natural resources. The distribution of specific rock types, as shown on this map, guides exploration efforts for commodities like hydrocarbons (e.g., porous Sandstone reservoirs, impermeable Shale seals), groundwater in permeable units, or industrial minerals. For example, the identification of extensive Sandstone units can indicate potential aquifers." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Describe the symbolic representations used for each rock type in the provided lithofacies map's legend and discuss how these symbols contribute to the map's utility.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Legend Symbols", "Map Utility"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Symbolic Representation and Map Utility</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Map Symbols:</em> Graphical elements used on a map to represent real-world features. In geology, these are often specific patterns or colors for different rock types.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to describe the symbolic representations for each rock type in the legend and explain how these symbols contribute to the map's utility.</div><p><strong>Step 1: List and describe each symbol from the legend.</strong> Clearly state the rock type and its corresponding pattern.</p><p><strong>Step 2: Explain how these symbols make the map useful.</strong> Focus on aspects like clarity, differentiation, information density, and ease of interpretation.</p><ul><li>**Marking Point 1: Description of Limestone symbol.** Limestone is represented by rectangular blocks that contain small '+' symbols. This pattern makes it visually distinct from other clastic sedimentary rocks.</li><li>**Marking Point 2: Description of Shale symbol.** Shale is characterized by a pattern of longer, more spaced horizontal dashed lines. This is a common representation for fine-grained, platy sedimentary rocks.</li><li>**Marking Point 3: Description of Siltstone symbol.** Siltstone is depicted using shorter, finer, and sometimes more closely spaced horizontal dashed lines. This provides a subtle but clear distinction from Shale, indicating a difference in grain size or texture.</li><li>**Marking Point 4: Description of Sandstone symbol.** Sandstone is illustrated by a pattern of small, scattered dots. This pattern intuitively represents the granular, sand-sized components of sandstone.</li><li>**Marking Point 5: Contribution to Clarity and Readability.** These distinct symbols make the map highly readable. Users can quickly identify and differentiate between various rock units by recognizing their unique patterns, without needing to read labels in every single mapped area. This visual shorthand enhances the map's clarity.</li><li>**Marking Point 6: Facilitation of Differentiation.** By assigning unique symbols to each lithofacies, the map effectively distinguishes between different rock types. This is particularly useful for fine-grained clastic rocks like Shale and Siltstone, where subtle variations in dashed lines enable precise identification.</li><li>**Marking Point 7: Efficiency and Information Density.** Symbols convey a large amount of information (the presence and type of rock) in a compact graphical form. This allows for a high density of geological information to be presented within the map's limited space, making it efficient for communication and analysis.</li><li>**Marking Point 8: Aid in Interpretation.** The visual nature of the symbols often provides a direct cue to the rock's characteristics (e.g., dots for granular texture of sandstone). This aids in the rapid interpretation of the map, helping geologists quickly grasp the distribution of different rock characteristics and their implications for the area's geology.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A comprehensive answer should accurately describe each symbol directly from the legend and then clearly articulate how these symbolic choices enhance the practical application and understanding of the map's geological data. Ensure all points relate back to the symbols' function.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The map's legend uses distinct patterns for Limestone (rectangular blocks with '+' symbols), Shale (long horizontal dashes), Siltstone (short horizontal dashes), and Sandstone (small dots), which contribute to the map's utility by enhancing clarity, differentiation, information density, and ease of geological interpretation.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The legend of the provided lithofacies map uses distinct symbolic patterns to represent four different sedimentary rock types:\n\n1.  **Limestone:** Represented by rectangular blocks containing small '+' symbols. This pattern helps to visually differentiate this carbonate rock.\n2.  **Shale:** Characterized by longer, more spaced horizontal dashed lines. This symbol is effective for representing fine-grained, thinly bedded clastic rocks.\n3.  **Siltstone:** Depicted by shorter, finer, and sometimes more closely spaced horizontal dashed lines. While similar to Shale, this subtle difference in dash length and spacing allows for a precise visual distinction between these two fine-grained clastic rocks.\n4.  **Sandstone:** Illustrated by a pattern of small, scattered dots. This pattern effectively conveys the granular, clastic nature of sandstone, composed of sand-sized particles.\n\nThese symbolic representations contribute significantly to the map's utility in several ways:\n\n*   **Clarity and Readability:** The distinct visual patterns make the map easy to read and interpret. Users can quickly identify different rock units across the map without needing extensive text labels for each area, improving overall readability and reducing clutter.\n*   **Efficient Differentiation:** By assigning unique and recognizable symbols to each lithofacies, the map effectively differentiates between rock types. This is crucial for distinguishing between lithologies that may be textually similar, such as Shale and Siltstone, whose distinct symbols allow for clear identification.\n*   **Information Density:** Symbols allow for a high density of geological information to be conveyed within a limited map area. Instead of writing out the full name of a rock type repeatedly, a compact symbol communicates the same information efficiently.\n*   **Facilitates Interpretation:** The patterns themselves can sometimes intuitively evoke characteristics of the rock (e.g., dots for granular sandstone, dashed lines for fissile shale). This aids in the quick visual interpretation of the rock's nature and its distribution patterns, which is essential for understanding the geological context of an area." }
+  }
+]
+```
