@@ -1,0 +1,814 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following is NOT a main reason for employing sampling techniques in biological studies?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To ensure absolute observation accuracy across all individuals." },
+        { "type": "string", "content": "When the population size is very large." },
+        { "type": "string", "content": "To reduce the economic cost of the study." },
+        { "type": "string", "content": "When the observation process is destructive to the population." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Sampling Techniques", "Research Methodology"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reasons for Sampling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Sampling is a process of selecting a subset of individuals from a larger population to make inferences about the entire population. It is employed when a complete census is impractical or unnecessary.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify which option is NOT a main reason for sampling based on established principles.</div><p><strong>Step 1: Review the main reasons for sampling.</strong><br>The main reasons for sampling include:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>Economy</span>: Sampling is often more cost-effective than a complete census.</li><li><span style='color:var(--orange);font-weight:bold;'>Timelessness</span>: Sampling allows for faster data collection.</li><li><span style='color:var(--orange);font-weight:bold;'>Large size of many populations</span>: It's impractical to study every individual in a very large population.</li><li><span style='color:var(--orange);font-weight:bold;'>Inaccessibility of some of the population</span>: Certain parts of a population might be difficult to reach.</li><li><span style='color:var(--orange);font-weight:bold;'>Destructiveness of the observation</span>: If the observation process destroys or alters the subject, sampling minimizes damage.</li><li><span style='color:var(--orange);font-weight:bold;'>Accuracy</span>: Sometimes, a well-executed sample can provide more accurate data than a poorly executed census due to better control.</li></ul><p><strong>Step 2: Evaluate each option against the established reasons.</strong></p><ul><li>Option 1 (\"To ensure absolute observation accuracy across all individuals.\"): This is the goal of a complete census, not a reason for sampling. Sampling, by definition, studies a subset, not all individuals, and introduces sampling error, although it can be highly accurate.</li><li>Option 2 (\"When the population size is very large.\"): This is a direct reason for sampling (large size of many populations).</li><li>Option 3 (\"To reduce the economic cost of the study.\"): This aligns with the 'Economy' reason for sampling.</li><li>Option 4 (\"When the observation process is destructive to the population.\"): This aligns with the 'Destructiveness of the observation' reason.</li></ul><p><strong>Step 3: Identify the option that is NOT a reason for sampling.</strong><br>Option 1 describes an objective that sampling, by its nature, does not achieve for <em>all</em> individuals. Instead, sampling aims for accurate representation of the whole without observing every single individual.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Sampling is inherently about studying a subset. The idea of ensuring \"absolute observation accuracy across all individuals\" contradicts the fundamental principle of sampling, which focuses on inference from a part to the whole, often accepting some level of sampling error for practical benefits. A complete census aims for this, not sampling.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The option that is NOT a main reason for sampling is \"To ensure absolute observation accuracy across all individuals.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To ensure absolute observation accuracy across all individuals." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "During water quality sampling, holding the bottle horizontally and gently raising it until filled is done primarily to:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Ensure minimal disturbance of the sediment layer." },
+        { "type": "string", "content": "Detect the rate of capillarity of the water." },
+        { "type": "string", "content": "Prevent the incorporation of air bubbles and ensure a representative sample." },
+        { "type": "string", "content": "Promote oxidation of the water sample for chemical analysis." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Water Sampling", "Environmental Monitoring"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Water Sampling Procedure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Proper water sampling techniques are crucial to obtain samples that accurately represent the water body's composition at the time of collection. Preventing contamination and changes to the sample during collection is paramount.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question describes a specific water sampling procedure (holding the bottle horizontally, gently raising until filled) and asks for its reason.</div><p><strong>Step 1: Analyze the described procedure.</strong><br>Holding a bottle horizontally and allowing water to flow gently into it while gradually raising it minimizes turbulence and prevents the rapid influx of water. This specific motion helps avoid trapping air within the bottle as it fills.</p><p><strong>Step 2: Relate the procedure to potential sampling issues.</strong><br>If air bubbles are trapped, they can alter the concentration of dissolved gases (like oxygen or carbon dioxide) in the sample, thus affecting parameters such as pH or dissolved oxygen levels. It also ensures that the collected volume is entirely water, not a mix of water and air.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Ensure minimal disturbance of the sediment layer.\"): While minimizing disturbance is generally good, the specific horizontal filling action is not primarily for sediment.</li><li>Option 2 (\"Detect the rate of capillarity of the water.\"): Capillarity is a property of water, but this procedure is not designed to measure it.</li><li>Option 3 (\"Prevent the incorporation of air bubbles and ensure a representative sample.\"): This directly addresses the goal of minimizing air contamination and ensuring the sample is truly representative of the water's composition, especially regarding dissolved gases.</li><li>Option 4 (\"Promote oxidation of the water sample for chemical analysis.\"): Incorporating air (which contains oxygen) would promote oxidation, but the procedure is designed to *prevent* air incorporation, thus *minimizing* unintended oxidation or gas exchange.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Air bubbles in a water sample can drastically alter readings for dissolved gases, affecting chemical oxygen demand, pH, and other critical parameters. The gentle, horizontal filling technique is a standard practice to ensure the sample integrity by excluding atmospheric air.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reason for holding the bottle horizontally and gently raising it during water quality sampling until filled is primarily to \"Prevent the incorporation of air bubbles and ensure a representative sample.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Prevent the incorporation of air bubbles and ensure a representative sample." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "When studying benthic factors in a river, only the oxidized surface layer of sediment is typically collected because:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It contains the highest concentration of heavy metals." },
+        { "type": "string", "content": "It is less prone to contamination from industrial discharges." },
+        { "type": "string", "content": "It interacts most readily with overlying water and is highly relevant to benthic fauna." },
+        { "type": "string", "content": "It is easier to collect and process in the laboratory." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Sediment Sampling", "Benthic Ecology"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sediment Sampling for Benthic Studies</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Benthic factors refer to the ecological conditions and organisms associated with the bottom sediment layer of aquatic environments. The interaction zone between water and sediment is particularly active and critical for many biological processes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the reason behind collecting only the oxidized surface layer of sediment for benthic factor studies.</div><p><strong>Step 1: Understand the characteristics of the oxidized surface layer.</strong><br>The surface layer of sediment, especially if oxidized, is the primary interface where chemical exchanges occur between the overlying water column and the sediment. It's also the zone where many benthic organisms live, feed, and interact directly with the water.</p><p><strong>Step 2: Evaluate the provided options based on benthic ecology.</strong></p><ul><li>Option 1 (\"It contains the highest concentration of heavy metals.\"): While sediments can accumulate heavy metals, this is not the *primary* reason for focusing on the oxidized surface layer for *benthic factor* studies. Metal concentrations can vary.</li><li>Option 2 (\"It is less prone to contamination from industrial discharges.\"): The surface layer is *most* exposed to direct inputs, so it's often *more* prone to contamination from overlying water.</li><li>Option 3 (\"It interacts most readily with overlying water and is highly relevant to benthic fauna.\"): This aligns perfectly with the ecological role of the surface sediment, which is the most biologically active zone and site of critical biogeochemical processes relevant to benthic life.</li><li>Option 4 (\"It is easier to collect and process in the laboratory.\"): Ease of collection is a practical consideration but not the primary scientific rationale for targeting a specific layer based on its ecological relevance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Benthic fauna heavily rely on the interface between sediment and water for oxygen, food, and waste exchange. The oxidized surface layer represents this dynamic zone, making it the most relevant for understanding benthic communities and their interactions with the environment.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When studying benthic factors in a river, only the oxidized surface layer of sediment is typically collected because \"It interacts most readily with overlying water and is highly relevant to benthic fauna.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It interacts most readily with overlying water and is highly relevant to benthic fauna." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "The sampling method that involves dividing a habitat into distinct areas and then sampling each area independently is known as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Random sampling" },
+        { "type": "string", "content": "Systematic sampling" },
+        { "type": "string", "content": "Stratified sampling" },
+        { "type": "string", "content": "Cluster sampling" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Sampling Techniques", "Ecological Sampling"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Stratified Sampling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> In ecological studies, different parts of a habitat may have varying characteristics or populations. Stratified sampling ensures that all distinct sub-areas (strata) are adequately represented in the overall sample.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question describes a sampling method where a habitat is divided into distinct areas, and each area is sampled independently.</div><p><strong>Step 1: Understand the definition of stratified sampling.</strong><br><span style='color:var(--orange);font-weight:bold;'>Stratified sampling</span> involves dividing the population (or habitat) into homogeneous subgroups called strata, and then sampling within each stratum. This ensures representation from all significant sub-areas.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Random sampling\"): Involves selecting individuals purely by chance from the entire population, without necessarily ensuring representation of subgroups.</li><li>Option 2 (\"Systematic sampling\"): Involves selecting individuals at regular intervals from a list or transect.</li><li>Option 3 (\"Stratified sampling\"): This perfectly matches the description of dividing a habitat into distinct areas (strata) and sampling independently within each.</li><li>Option 4 (\"Cluster sampling\"): Involves dividing the population into clusters and then randomly selecting entire clusters to be sampled.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The definition given in the question, \"takes into account the different arena within main habitat,\" directly corresponds to the concept of stratifying a habitat to ensure comprehensive and representative sampling across varying conditions or sub-populations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The sampling method that involves dividing a habitat into distinct areas and then sampling each area independently is known as \"Stratified sampling.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Stratified sampling" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "The primary function of a hydrogen or deuterium discharge lamp in a UV/visible spectrophotometer for the 160-375 nm range is to:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Produce a continuous spectrum of visible light." },
+        { "type": "string", "content": "Generate excited molecules that dissociate into atomic species, emitting UV photons." },
+        { "type": "string", "content": "Act as a reference blank for background correction." },
+        { "type": "string", "content": "Filter out unwanted wavelengths from the light source." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Spectrophotometry", "Instrumentation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>UV/Visible Spectrophotometer Light Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Spectrophotometers require a stable and appropriate light source to cover the desired wavelength range for absorption measurements. Different lamps are used for different regions of the electromagnetic spectrum (e.g., UV, visible, IR).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the primary function of hydrogen or deuterium discharge lamps in a UV/visible spectrophotometer, specifically for the 160-375 nm range (UV region).</div><p><strong>Step 1: Identify the wavelength range.</strong><br>The range <span style='color:var(--orange);font-weight:bold;'>160-375 nm</span> falls primarily within the ultraviolet (UV) region of the electromagnetic spectrum. Hydrogen and deuterium lamps are specifically designed to emit radiation in this range.</p><p><strong>Step 2: Understand the working principle of discharge lamps.</strong><br>Discharge lamps, such as hydrogen or deuterium lamps, operate by passing an <span style='color:var(--orange);font-weight:bold;'>electrical arc through a gas</span> (hydrogen or deuterium). This excites the gas molecules. The excited molecules then dissociate into atomic species, which subsequently emit a continuous spectrum of <span style='color:var(--orange);font-weight:bold;'>UV photons</span> as they return to a lower energy state.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Produce a continuous spectrum of visible light.\"): Deuterium lamps primarily produce UV light; a tungsten-halogen lamp is typically used for visible light.</li><li>Option 2 (\"Generate excited molecules that dissociate into atomic species, emitting UV photons.\"): This accurately describes the mechanism by which these lamps produce the required UV radiation for spectrophotometry.</li><li>Option 3 (\"Act as a reference blank for background correction.\"): Light sources provide incident radiation, they do not function as reference blanks.</li><li>Option 4 (\"Filter out unwanted wavelengths from the light source.\"): The lamp is the source of light; a monochromator or filter is used to select specific wavelengths.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Deuterium lamps are well-known in spectrophotometry for their stable and continuous UV emission, which is essential for accurate measurements in the ultraviolet region. Their mechanism involves the excitation and dissociation of gas molecules to produce these UV photons.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary function of a hydrogen or deuterium discharge lamp in a UV/visible spectrophotometer for the 160-375 nm range is to \"Generate excited molecules that dissociate into atomic species, emitting UV photons.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Generate excited molecules that dissociate into atomic species, emitting UV photons." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which of the following is an instrumental factor that can cause non-linearity in the Beer-Lambert Law?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "High sample concentration" },
+        { "type": "string", "content": "The presence of interfering substances" },
+        { "type": "string", "content": "Wavelength selector" },
+        { "type": "string", "content": "Chemical reactions within the sample" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Spectrophotometry", "Beer-Lambert Law"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Non-linearity in Beer-Lambert Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The Beer-Lambert Law states that absorbance is directly proportional to the concentration of the analyte and the path length of light through the sample. Deviations from this linearity can occur due to various chemical or instrumental factors.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify an instrumental factor that can cause non-linearity in the Beer-Lambert Law.</div><p><strong>Step 1: Recall the categories of factors causing non-linearity.</strong><br>Factors causing non-linearity are typically divided into <span style='color:var(--orange);font-weight:bold;'>chemical factors</span> (e.g., association, dissociation, reaction of analyte) and <span style='color:var(--orange);font-weight:bold;'>instrumental factors</span> (e.g., polychromatic radiation, stray light, detector non-linearity).</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"High sample concentration\"): This is a chemical deviation, as at high concentrations, molecules may interact, altering molar absorptivity.</li><li>Option 2 (\"The presence of interfering substances\"): This is a chemical factor, as other substances might absorb light at the same wavelength.</li><li>Option 3 (\"Wavelength selector\"): This is an instrumental component. If the wavelength selector (monochromator or filter) does not provide sufficiently monochromatic light, it leads to polychromatic radiation, a known cause of negative deviation from Beer's Law.</li><li>Option 4 (\"Chemical reactions within the sample\"): This is a chemical factor, as the analyte itself may undergo reactions that change its concentration or absorptive properties.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Instrumental factors affecting Beer-Lambert Law linearity include the light source (stability), wavelength selector (bandpass, stray light), sample container (cuvette quality), and detector (response linearity). A poorly performing wavelength selector, for instance, allows a broader band of wavelengths to pass through, which violates the law's assumption of monochromatic light.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An instrumental factor that can cause non-linearity in Beer-Lambert Law applications is the \"Wavelength selector.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Wavelength selector" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "To reduce non-linearity in spectrophotometric measurements, it is advisable to make measurements using:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A highly concentrated solution of the analyte." },
+        { "type": "string", "content": "A broad range of wavelengths rather than a specific one." },
+        { "type": "string", "content": "A relatively flat part of the absorption spectrum, such as the maximum of an absorption band." },
+        { "type": "string", "content": "A sample cuvette with an uneven path length." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Spectrophotometry", "Measurement Optimization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reducing Spectrophotometric Non-linearity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Non-linearity in spectrophotometry can compromise the accuracy of quantitative analysis. Various techniques are employed to minimize these deviations and ensure that the Beer-Lambert Law holds true.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for a measure that can reduce non-linearity in spectrophotometric measurements.</div><p><strong>Step 1: Recall strategies for minimizing non-linearity.</strong><br>One common strategy is to optimize the wavelength used for measurement. Other strategies include working with appropriate concentration ranges and ensuring instrument calibration.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"A highly concentrated solution of the analyte.\"): High concentrations are a known cause of non-linearity (chemical deviation), so this would worsen, not reduce, non-linearity.</li><li>Option 2 (\"A broad range of wavelengths rather than a specific one.\"): Using a broad range (polychromatic light) violates a fundamental assumption of the Beer-Lambert Law and leads to non-linearity.</li><li>Option 3 (\"A relatively flat part of the absorption spectrum, such as the maximum of an absorption band.\"): Measuring at the peak (maximum absorption) or a flat region ensures that small variations in wavelength do not significantly affect absorbance, thus maintaining linearity and sensitivity.</li><li>Option 4 (\"A sample cuvette with an uneven path length.\"): An uneven path length would introduce errors and non-reproducibility, not reduce non-linearity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> By choosing the maximum of an absorption band, the molar absorptivity (ε) is at its highest and changes minimally with slight variations in wavelength. This provides the best sensitivity and reduces the impact of spectral bandwidth on linearity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To reduce non-linearity in spectrophotometric measurements, it is advisable to make measurements using \"A relatively flat part of the absorption spectrum, such as the maximum of an absorption band.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A relatively flat part of the absorption spectrum, such as the maximum of an absorption band." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Mathematically, the Beer-Lambert Law, relating absorbance (A) to molar absorptivity (ε), concentration (C), and path length (d), is expressed as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A = C + ε + d" },
+        { "type": "string", "content": "A = εcd" },
+        { "type": "string", "content": "A = ε / (cd)" },
+        { "type": "string", "content": "A = c / (εd)" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Spectrophotometry", "Beer-Lambert Law"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Beer-Lambert Law Equation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The Beer-Lambert Law (often simply Beer's Law) is a fundamental principle in spectrophotometry that relates the absorption of light by a solution to the properties of the material through which the light is traveling.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the mathematical expression of the Beer-Lambert Law, using the variables A (absorbance), ε (molar absorptivity), C (concentration), and d (path length).</div><p><strong>Step 1: Recall the components of the Beer-Lambert Law.</strong><br>The law states that the absorbance (A) of a solution is directly proportional to three factors:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>Molar absorptivity (ε)</span>: a constant specific to the absorbing species and wavelength.</li><li><span style='color:var(--orange);font-weight:bold;'>Concentration (C)</span>: the concentration of the absorbing species in the solution.</li><li><span style='color:var(--orange);font-weight:bold;'>Path length (d)</span>: the distance the light travels through the solution (usually the width of the cuvette).</li></ul><p><strong>Step 2: Formulate the mathematical relationship.</strong><br>The direct proportionality leads to a multiplicative relationship between these factors.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"A = C + ε + d\"): This is an additive relationship, which is incorrect.</li><li>Option 2 (\"A = εcd\"): This correctly represents the direct proportionality as a product of molar absorptivity, concentration, and path length.</li><li>Option 3 (\"A = ε / (cd)\"): This implies an inverse relationship with concentration and path length, which is incorrect.</li><li>Option 4 (\"A = c / (εd)\"): This also implies an incorrect relationship.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The Beer-Lambert Law is one of the most widely used equations in analytical chemistry, providing a simple way to determine the concentration of an unknown sample by measuring its absorbance. The equation A = εcd is universally recognized and applied.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Mathematically, the Beer-Lambert Law is expressed as \"A = εcd.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A = εcd" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The fundamental basis for the separation of proteins by electrophoresis is their:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Solubility in various buffers." },
+        { "type": "string", "content": "Migration in an applied electric field based on surface net charge density." },
+        { "type": "string", "content": "Differential binding to a stationary matrix." },
+        { "type": "string", "content": "Absorption of specific wavelengths of light." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electrophoresis", "Protein Separation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Basis of Electrophoresis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Electrophoresis is a powerful analytical technique used for separating charged molecules, particularly biopolymers like proteins and nucleic acids, by applying an electric field.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the fundamental basis by which proteins are separated using electrophoresis.</div><p><strong>Step 1: Understand the core principle of electrophoresis.</strong><br>Electrophoresis literally means \"to carry with electricity.\" The technique relies on the fact that <span style='color:var(--orange);font-weight:bold;'>charged particles</span> (like proteins, which have amino acid side chains that can be ionized) will <span style='color:var(--orange);font-weight:bold;'>migrate in an applied electric field</span>. The rate and direction of migration depend on their net charge, size, and shape, as well as the properties of the supporting medium and the electric field strength.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Solubility in various buffers.\"): While buffer choice is important, solubility itself is not the primary separation mechanism in electrophoresis.</li><li>Option 2 (\"Migration in an applied electric field based on surface net charge density.\"): This accurately describes the fundamental principle: charged proteins move towards an electrode of opposite charge, and their speed is influenced by their charge-to-mass ratio and frictional resistance.</li><li>Option 3 (\"Differential binding to a stationary matrix.\"): This describes the principle of chromatography, not electrophoresis.</li><li>Option 4 (\"Absorption of specific wavelengths of light.\"): This is the principle of spectrophotometry, not electrophoresis.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The term \"electrophoresis\" directly implies movement in an electric field. Proteins carry different charges at a given pH, causing them to move at varying speeds toward the anode or cathode, thereby achieving separation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The fundamental basis for the separation of proteins by electrophoresis is their \"Migration in an applied electric field based on surface net charge density.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Migration in an applied electric field based on surface net charge density." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "The primary effect of Sodium Dodecyl Sulfate (SDS) in SDS-PAGE electrophoresis is to:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Increase the viscosity of the gel matrix." },
+        { "type": "string", "content": "Equalize the surface charge of proteins, allowing separation primarily by size." },
+        { "type": "string", "content": "Enhance the detection of proteins by staining." },
+        { "type": "string", "content": "Cross-link protein molecules to form larger complexes." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electrophoresis", "SDS-PAGE"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of SDS in Electrophoresis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Sodium Dodecyl Sulfate Polyacrylamide Gel Electrophoresis (SDS-PAGE) is a widely used technique to separate proteins primarily based on their molecular weight. SDS plays a critical role in denaturing proteins and imparting a uniform charge.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the primary effect of Sodium Dodecyl Sulfate (SDS) in SDS-PAGE electrophoresis.</div><p><strong>Step 1: Understand the properties of SDS.</strong><br>SDS is an <span style='color:var(--orange);font-weight:bold;'>anionic detergent</span>. When mixed with proteins, it denatures them by disrupting secondary and tertiary structures, causing them to unfold into linear chains. Importantly, SDS also binds to proteins in a relatively constant ratio (approximately 1.4 g SDS per gram of protein).</p><p><strong>Step 2: Deduce the consequence of SDS binding.</strong><br>By binding uniformly and imparting a negative charge proportional to the protein's length, SDS effectively <span style='color:var(--orange);font-weight:bold;'>masks the intrinsic charge</span> of the protein. This means all SDS-bound proteins will have a similar charge-to-mass ratio.</p><p><strong>Step 3: Relate SDS effect to separation mechanism.</strong><br>With a uniform charge-to-mass ratio, the electrophoretic migration rate of SDS-bound proteins in a gel matrix becomes primarily dependent on their <span style='color:var(--orange);font-weight:bold;'>size (molecular weight)</span>, as the gel acts as a molecular sieve. Smaller proteins pass through the gel pores more easily than larger ones.</p><p><strong>Step 4: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Increase the viscosity of the gel matrix.\"): SDS affects the proteins, not directly the gel viscosity in a separating manner.</li><li>Option 2 (\"Equalize the surface charge of proteins, allowing separation primarily by size.\"): This accurately describes the dual effect of SDS: denaturation and imparting uniform negative charge, which shifts separation to be based on size.</li><li>Option 3 (\"Enhance the detection of proteins by staining.\"): SDS does not directly enhance staining, though it's present during the separation phase before staining.</li><li>Option 4 (\"Cross-link protein molecules to form larger complexes.\"): SDS prevents aggregation and promotes dissociation, not cross-linking.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Without SDS, proteins would separate based on both charge and size, leading to complex patterns. SDS simplifies the separation to primarily molecular weight, making SDS-PAGE a standard method for protein size determination.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary effect of Sodium Dodecyl Sulfate (SDS) in SDS-PAGE electrophoresis is to \"Equalize the surface charge of proteins, allowing separation primarily by size.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Equalize the surface charge of proteins, allowing separation primarily by size." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "One of the fundamental principles underlying electrophoresis analysis of proteins is that:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Proteins can be denatured by heat for easier migration." },
+        { "type": "string", "content": "Proteins possess characteristic amino acid compositions and charges." },
+        { "type": "string", "content": "Proteins bind specifically to gel matrices for immobilization." },
+        { "type": "string", "content": "Proteins are always positively charged in an electric field." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electrophoresis", "Principles"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Principles of Electrophoresis for Proteins</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Electrophoresis leverages the inherent physicochemical properties of proteins to achieve separation. These properties are derived from their amino acid sequence and resulting tertiary structure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for a fundamental principle that underlies the analysis of proteins using electrophoresis.</div><p><strong>Step 1: Recall the basic characteristics of proteins relevant to electrophoresis.</strong><br>Proteins are composed of amino acids, some of which have ionizable side chains. The protonation state of these side chains, and thus the net charge of the protein, is dependent on the pH of the surrounding environment (buffer). Therefore, proteins naturally possess <span style='color:var(--orange);font-weight:bold;'>characteristic amino acid compositions and charges</span>.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Proteins can be denatured by heat for easier migration.\"): While denaturation (e.g., by heat or detergents) is often employed to standardize protein migration (as in SDS-PAGE), it's a procedural step, not a fundamental principle of why proteins separate.</li><li>Option 2 (\"Proteins possess characteristic amino acid compositions and charges.\"): This is a foundational principle. The unique combination of amino acids and their ionization states dictates a protein's net charge, which is the driving force for electrophoretic migration.</li><li>Option 3 (\"Proteins bind specifically to gel matrices for immobilization.\"): Proteins migrate *through* the gel matrix; they are not immobilized by specific binding in typical electrophoretic separations (unless it's an affinity-based method, which is not the general principle).</li><li>Option 4 (\"Proteins are always positively charged in an electric field.\"): The net charge of a protein depends on the buffer pH relative to its isoelectric point (pI). Proteins can be positively, negatively, or neutrally charged.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The very reason proteins move in an electric field is because they carry a net charge, which is determined by their amino acid makeup and the ambient pH. This inherent characteristic is fundamental to their electrophoretic separation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A fundamental principle underlying electrophoresis analysis of proteins is that \"Proteins possess characteristic amino acid compositions and charges.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Proteins possess characteristic amino acid compositions and charges." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Porous starch gels are advantageous as a support medium in electrophoresis primarily because they:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Are highly transparent, aiding direct visualization." },
+        { "type": "string", "content": "Offer a sieving effect that separates particles by both charge and size." },
+        { "type": "string", "content": "Are significantly cheaper than paper or cellulose acetate." },
+        { "type": "string", "content": "Require less power to run an electrophoretic separation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electrophoresis", "Gel Media"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Advantages of Porous Starch Gels in Electrophoresis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The choice of support medium in gel electrophoresis greatly influences the separation mechanism. Materials like starch, polyacrylamide, and agarose form porous matrices that can retard molecular movement based on size.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for an advantage of porous starch gels compared to other media like filter paper, cellulose acetate, or agar gels.</div><p><strong>Step 1: Understand the general properties of gel media in electrophoresis.</strong><br>Gel matrices introduce a <span style='color:var(--orange);font-weight:bold;'>sieving effect</span>. As molecules migrate through the pores of the gel, their movement is hindered to varying degrees depending on their size relative to the pore size. This adds a size-dependent separation component to the charge-dependent migration.</p><p><strong>Step 2: Evaluate the specific advantage of porous starch gels.</strong><br>Porous starch gels provide a matrix that allows for separation based on both the <span style='color:var(--orange);font-weight:bold;'>charge</span> of the molecules (as in any electrophoresis) and their <span style='color:var(--orange);font-weight:bold;'>size</span> due to the molecular sieving properties of the gel. This enhanced separation capability is a key advantage over non-sieving media like paper.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Are highly transparent, aiding direct visualization.\"): While transparency can be beneficial, it's not the primary distinguishing advantage over other gel types or a unique property that defines their superior separation.</li><li>Option 2 (\"Offer a sieving effect that separates particles by both charge and size.\"): This accurately describes the enhanced separation mechanism provided by porous gels like starch, making them superior for resolving molecules based on both properties.</li><li>Option 3 (\"Are significantly cheaper than paper or cellulose acetate.\"): Cost is a practical factor, but not a fundamental scientific advantage related to separation power.</li><li>Option 4 (\"Require less power to run an electrophoretic separation.\"): Power requirements are more related to buffer conductivity and gel resistance than the intrinsic separation mechanism of the gel material itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The ability to separate based on size, in addition to charge, is a hallmark of gel electrophoresis. Starch gels, like polyacrylamide and agarose, exploit this sieving effect, offering higher resolution than media that do not have this porous structure.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Porous starch gels are advantageous as a support medium in electrophoresis primarily because they \"Offer a sieving effect that separates particles by both charge and size.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Offer a sieving effect that separates particles by both charge and size." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "The electrophoretic mobility of biomolecules in an electric field is primarily determined by their:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Color, temperature, and solvent polarity." },
+        { "type": "string", "content": "Shape, charge, and size of the molecules." },
+        { "type": "string", "content": "Density, refractive index, and viscosity of the medium." },
+        { "type": "string", "content": "Boiling point, melting point, and vapor pressure." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electrophoresis", "Molecular Properties"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Affecting Electrophoretic Mobility</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Electrophoretic mobility refers to the velocity with which a charged particle moves through a medium under the influence of an electric field. This mobility is governed by both the intrinsic properties of the biomolecule and the conditions of the electrophoresis experiment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the primary factors that determine the electrophoretic mobility of biomolecules in an electric field.</div><p><strong>Step 1: Recall the forces acting on a charged particle in an electric field.</strong><br>When an electric field is applied, an electrostatic force (proportional to charge and field strength) drives the molecule. This force is counteracted by a frictional force, which depends on the molecule's size, shape, and the viscosity of the medium.</p><p><strong>Step 2: Identify the intrinsic molecular properties that influence these forces.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Charge</span>: A higher net charge leads to a stronger electrostatic force and faster migration (assuming constant field).</li><li><span style='color:var(--orange);font-weight:bold;'>Size</span> (or molecular weight): Larger molecules experience greater frictional resistance in the medium, slowing them down.</li><li><span style='color:var(--orange);font-weight:bold;'>Shape</span>: The three-dimensional conformation of the molecule affects its hydrodynamic radius and thus the frictional drag it experiences.</li></ul><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Color, temperature, and solvent polarity.\"): Color is an optical property, not directly determining mobility. Temperature and solvent polarity are external conditions that can indirectly affect charge or viscosity but are not intrinsic molecular determinants of mobility.</li><li>Option 2 (\"Shape, charge, and size of the molecules.\"): These are the direct intrinsic molecular properties that dictate how a biomolecule will respond to an electric field and frictional forces in the medium.</li><li>Option 3 (\"Density, refractive index, and viscosity of the medium.\"): Density and refractive index are not primary determinants of electrophoretic mobility. Viscosity is a property of the *medium*, not the biomolecule itself.</li><li>Option 4 (\"Boiling point, melting point, and vapor pressure.\"): These are physical properties generally unrelated to electrophoretic mobility in solution.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Electrophoretic separation relies on differences in these molecular properties. For example, SDS-PAGE separates primarily by size after uniform charge is applied, while native PAGE separates by both charge and size/shape.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The electrophoretic mobility of biomolecules in an electric field is primarily determined by their \"Shape, charge, and size of the molecules.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Shape, charge, and size of the molecules." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The Rf (retardation factor) value in chromatography is defined as the ratio of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Distance travelled by mobile phase to distance travelled by stationary phase." },
+        { "type": "string", "content": "Distance travelled by compound to distance travelled by solvent." },
+        { "type": "string", "content": "Solvent front distance to sample application point distance." },
+        { "type": "string", "content": "Time taken by compound to time taken by solvent." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chromatography", "Rf Value"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Rf Value in Chromatography</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Rf value is a quantitative measure used in planar chromatography (like paper or thin-layer chromatography) to characterize the migration of a solute relative to the solvent front. It is a constant for a given compound under specific chromatographic conditions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the definition of the Rf value in chromatography.</div><p><strong>Step 1: Recall the standard formula for Rf value.</strong><br>The Rf value (retardation factor or retention factor) is calculated as the ratio of the distance traveled by the solute (compound) to the distance traveled by the solvent front, both measured from the starting line (origin).</p><p><strong>Step 2: Express this relationship mathematically.</strong><br>Rf = <span style='color:var(--orange);font-weight:bold;'>Distance travelled by compound / Distance travelled by solvent</span></p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Distance travelled by mobile phase to distance travelled by stationary phase.\"): This is an incorrect formulation; stationary phase does not 'travel' in this context.</li><li>Option 2 (\"Distance travelled by compound to distance travelled by solvent.\"): This is the correct and standard definition of Rf value.</li><li>Option 3 (\"Solvent front distance to sample application point distance.\"): This measures the solvent front's movement from the origin, but not in ratio to the compound's movement.</li><li>Option 4 (\"Time taken by compound to time taken by solvent.\"): Rf is a distance ratio, not a time ratio. Time is relevant in column chromatography (retention time) but not for Rf.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> An Rf value is always between 0 and 1. An Rf of 0 means the compound stayed at the origin, while an Rf of 1 means it moved with the solvent front. This value is characteristic and helps in compound identification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Rf value in chromatography is defined as the ratio of \"Distance travelled by compound to distance travelled by solvent.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Distance travelled by compound to distance travelled by solvent." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "In thin-layer chromatography (TLC), the stationary phase typically consists of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A liquid solvent in a developing chamber." },
+        { "type": "string", "content": "Silica gel, alumina, or cellulose on a flat, inert substrate." },
+        { "type": "string", "content": "A gas (most often helium) flowing through a column." },
+        { "type": "string", "content": "Porous monolithic layers inside a high-pressure column." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chromatography", "Thin-Layer Chromatography"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Stationary Phase in Thin-Layer Chromatography (TLC)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Chromatography separates mixtures by differential distribution of components between a stationary phase and a mobile phase. The nature of these phases defines the type of chromatography.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the typical composition of the stationary phase in thin-layer chromatography (TLC).</div><p><strong>Step 1: Recall the structure of a TLC plate.</strong><br>A TLC plate consists of a <span style='color:var(--orange);font-weight:bold;'>thin layer of adsorbent material</span> coated onto a flat, inert backing, such as glass, plastic, or aluminum foil.</p><p><strong>Step 2: Identify common adsorbent materials for TLC.</strong><br>The most common adsorbent materials used for the stationary phase in TLC are <span style='color:var(--orange);font-weight:bold;'>silica gel, alumina, or cellulose</span>.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"A liquid solvent in a developing chamber.\"): This describes the mobile phase, not the stationary phase.</li><li>Option 2 (\"Silica gel, alumina, or cellulose on a flat, inert substrate.\"): This perfectly matches the description of a typical TLC stationary phase.</li><li>Option 3 (\"A gas (most often helium) flowing through a column.\"): This describes the mobile phase in gas chromatography.</li><li>Option 4 (\"Porous monolithic layers inside a high-pressure column.\"): This describes a component of high-performance liquid chromatography (HPLC).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The name \"thin-layer chromatography\" itself refers to the thin layer of adsorbent material, which is the stationary phase, applied to a plate. This contrasts with column chromatography where the stationary phase is packed into a tube.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In thin-layer chromatography (TLC), the stationary phase typically consists of \"Silica gel, alumina, or cellulose on a flat, inert substrate.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Silica gel, alumina, or cellulose on a flat, inert substrate." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "In paper chromatography, the stationary phase is primarily composed of:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Silica gel particles" },
+        { "type": "string", "content": "Cellulose fibers of a paper sheet" },
+        { "type": "string", "content": "A gas (e.g., nitrogen or helium)" },
+        { "type": "string", "content": "An ion-exchange resin" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chromatography", "Paper Chromatography"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Stationary Phase in Paper Chromatography</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Paper chromatography is a classic separation technique where a strip or sheet of paper serves as the support for the stationary phase. The separation relies on the differential partitioning of analytes between this stationary phase and a moving liquid mobile phase.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the composition of the stationary phase in paper chromatography.</div><p><strong>Step 1: Identify the material used as the support in paper chromatography.</strong><br>As the name suggests, <span style='color:var(--orange);font-weight:bold;'>paper</span> is the support medium in paper chromatography.</p><p><strong>Step 2: Understand how the stationary phase is formed.</strong><br>The paper, typically made of <span style='color:var(--orange);font-weight:bold;'>cellulose fibers</span>, has a high affinity for water. The water molecules adsorbed onto the cellulose fibers (or covalently bound within the cellulose structure) act as the <span style='color:var(--orange);font-weight:bold;'>stationary phase</span>. The mobile phase, usually an organic solvent, moves along the paper by capillary action.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Silica gel particles\"): This is characteristic of thin-layer chromatography (TLC).</li><li>Option 2 (\"Cellulose fibers of a paper sheet\"): This accurately describes the stationary phase in paper chromatography.</li><li>Option 3 (\"A gas (e.g., nitrogen or helium)\"): This is the mobile phase in gas chromatography.</li><li>Option 4 (\"An ion-exchange resin\"): This is specific to ion-exchange chromatography.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The unique aspect of paper chromatography is the use of paper itself, with its inherent cellulose structure and associated water, as the foundational stationary phase for separation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In paper chromatography, the stationary phase is primarily composed of \"Cellulose fibers of a paper sheet.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cellulose fibers of a paper sheet" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Paper chromatography separates components primarily based on:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Differences in boiling points." },
+        { "type": "string", "content": "Differential partitioning between a stationary aqueous phase and a mobile organic phase." },
+        { "type": "string", "content": "Variations in molecular size and shape through a gel matrix." },
+        { "type": "string", "content": "Ion-exchange interactions with charged resins." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chromatography", "Paper Chromatography Mechanism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mechanism of Paper Chromatography</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Paper chromatography is a form of partition chromatography. Separation occurs because compounds distribute themselves differently between two immiscible phases: a stationary liquid phase (usually water adsorbed on cellulose) and a mobile liquid phase (typically an organic solvent).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the primary mechanism by which paper chromatography separates components.</div><p><strong>Step 1: Identify the phases in paper chromatography.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Stationary phase</span>: Water molecules adsorbed onto the cellulose fibers of the paper.</li><li><span style='color:var(--orange);font-weight:bold;'>Mobile phase</span>: An organic solvent that moves up the paper by capillary action.</li></ul><p><strong>Step 2: Understand the separation principle.</strong><br>Components of a mixture will have different affinities for the stationary water phase versus the mobile organic solvent phase. A compound that is more soluble in the mobile phase will travel further up the paper, while a compound that is more soluble in the stationary phase will move less.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Differences in boiling points.\"): This is the basis of distillation or gas chromatography, not paper chromatography.</li><li>Option 2 (\"Differential partitioning between a stationary aqueous phase and a mobile organic phase.\"): This accurately describes the partition mechanism specific to paper chromatography.</li><li>Option 3 (\"Variations in molecular size and shape through a gel matrix.\"): This is the basis of gel electrophoresis or size-exclusion chromatography.</li><li>Option 4 (\"Ion-exchange interactions with charged resins.\"): This is the principle of ion-exchange chromatography.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The term \"partition chromatography\" directly applies to paper chromatography, where compounds partition between the two liquid phases (adsorbed water and developing solvent). This differential partitioning is the key to separation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Paper chromatography separates components primarily based on \"Differential partitioning between a stationary aqueous phase and a mobile organic phase.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Differential partitioning between a stationary aqueous phase and a mobile organic phase." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "To minimize autolytic changes and ensure optimal histological results, fixatives must be applied to tissues:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "After dehydration and clearing." },
+        { "type": "string", "content": "Promptly and by a route that ensures rapid penetration." },
+        { "type": "string", "content": "At very high temperatures to denature enzymes." },
+        { "type": "string", "content": "Only after the tissue has been fully embedded in paraffin." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Histology", "Tissue Fixation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Preventing Autolysis in Histology</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Autolysis is the self-digestion of cells and tissues by their own enzymes after death or removal from the body. It can rapidly degrade cellular structures, making histological examination difficult or impossible. Fixation is the crucial first step to prevent this.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks how autolytic changes are prevented during tissue preparation for microscopic examination.</div><p><strong>Step 1: Understand the purpose of fixation.</strong><br>Fixation aims to preserve cells and tissues in a life-like state by stopping autolysis and bacterial decomposition. This involves rapidly inactivating enzymes and stabilizing proteins.</p><p><strong>Step 2: Consider the optimal conditions for effective fixation.</strong><br>For fixation to be effective against autolysis, it must occur <span style='color:var(--orange);font-weight:bold;'>as quickly as possible</span> after the tissue is excised. Furthermore, the fixative agent must <span style='color:var(--orange);font-weight:bold;'>penetrate the tissue rapidly and thoroughly</span> to reach all cells before degradation sets in.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"After dehydration and clearing.\"): Dehydration and clearing are later steps in tissue processing. Applying fixatives after these steps would be too late to prevent autolysis.</li><li>Option 2 (\"Promptly and by a route that ensures rapid penetration.\"): This correctly identifies the critical factors for effective fixation to prevent autolysis: speed of application and thoroughness of penetration.</li><li>Option 3 (\"At very high temperatures to denature enzymes.\"): While heat can denature enzymes, chemical fixation is typically preferred at controlled temperatures. Very high temperatures can also damage tissue morphology.</li><li>Option 4 (\"Only after the tissue has been fully embedded in paraffin.\"): Paraffin embedding is a much later step for structural support, not for initial preservation against autolysis.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The immediacy and completeness of fixation are paramount in histology. Any delay or insufficient penetration will result in degraded cellular and tissue architecture, making subsequent microscopic analysis unreliable.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To minimize autolytic changes and ensure optimal histological results, fixatives must be applied to tissues \"Promptly and by a route that ensures rapid penetration.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Promptly and by a route that ensures rapid penetration." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "The major drawback to paraffin embedment in tissue preparation for histology is:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Increased tissue hardness, making sectioning difficult." },
+        { "type": "string", "content": "Tissue shrinkage caused by the temperature of the melted paraffin." },
+        { "type": "string", "content": "Inability to provide adequate support for soft tissues." },
+        { "type": "string", "content": "Chemical degradation of cellular components by paraffin." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Histology", "Paraffin Embedment"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Drawback of Paraffin Embedment</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Paraffin embedment is a standard procedure in histology where processed tissue is infiltrated and surrounded by melted paraffin wax, which then solidifies to form a block. This provides rigid support for thin sectioning.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the major drawback associated with paraffin embedment.</div><p><strong>Step 1: Consider the steps involved in paraffin embedment.</strong><br>After fixation, dehydration, and clearing, tissues are placed in melted paraffin wax. This step typically involves maintaining the paraffin at a temperature above its melting point (e.g., around <span style='color:var(--orange);font-weight:bold;'>56-60°C</span>) to ensure proper infiltration. The tissue is then cast into a block of solid paraffin.</p><p><strong>Step 2: Identify potential issues arising from the embedment process.</strong><br>The elevated temperature of the melted paraffin can have an adverse effect on the tissue. Biological tissues are sensitive to heat, and exposure to such temperatures can cause physical changes.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Increased tissue hardness, making sectioning difficult.\"): Paraffin embedment makes the tissue firm, which is *desirable* for thin sectioning, not a drawback in this context.</li><li>Option 2 (\"Tissue shrinkage caused by the temperature of the melted paraffin.\"): The heat from the melted paraffin can cause the tissue to contract or shrink, altering its natural dimensions and potentially distorting morphology. This is a recognized drawback.</li><li>Option 3 (\"Inability to provide adequate support for soft tissues.\"): Paraffin embedment is specifically used to provide firm support, especially for soft tissues, to allow for thin sectioning.</li><li>Option 4 (\"Chemical degradation of cellular components by paraffin.\"): Paraffin itself is generally inert and does not chemically degrade cellular components. Degradation is typically prevented by prior fixation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> While necessary for sectioning, the heat required for paraffin infiltration and embedding is a known source of artifactual tissue shrinkage and distortion, which histologists must account for.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The major drawback to paraffin embedment in tissue preparation for histology is \"Tissue shrinkage caused by the temperature of the melted paraffin.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Tissue shrinkage caused by the temperature of the melted paraffin." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "In cytological techniques, the most common chemical used for fixing plant materials to preserve their structure is:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Acetone" },
+        { "type": "string", "content": "Ethanol" },
+        { "type": "string", "content": "FAA (Formalin-acet-alcohol)" },
+        { "type": "string", "content": "Xylene" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cytology", "Plant Fixation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Fixation of Plant Materials</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10%0px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Fixation is the initial and crucial step in preparing biological tissues for microscopic examination. It involves rapidly preserving the cellular structure and composition, preventing autolysis and decay. For plant materials, specific fixatives are often preferred due to the presence of cell walls and vacuoles.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the most common chemical fixative used for plant materials in cytological techniques.</div><p><strong>Step 1: Recall common fixatives and their applications.</strong><br>Different fixatives are used for various types of tissues and specific research goals. For plant tissues, a mixture of chemicals is often employed to penetrate the cell wall and preserve diverse cellular components effectively.</p><p><strong>Step 2: Identify fixatives commonly used for plants.</strong><br>A widely recognized and effective fixative for plant materials, especially for cytological studies, is <span style='color:var(--orange);font-weight:bold;'>FAA (Formalin-acet-alcohol)</span>. This mixture typically contains formalin (formaldehyde), glacial acetic acid, and ethyl alcohol, each contributing to different aspects of fixation (e.g., formaldehyde preserves proteins, acetic acid penetrates and fixes chromatin, alcohol dehydrates and enhances penetration).</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Acetone\"): Primarily used as a dehydrating agent, not a primary fixative.</li><li>Option 2 (\"Ethanol\"): Primarily a dehydrating agent and can be used as a precipitating fixative but often causes shrinkage.</li><li>Option 3 (\"FAA (Formalin-acet-alcohol)\"): This is a very common and effective general-purpose fixative for plant tissues, particularly for cytological studies.</li><li>Option 4 (\"Xylene\"): Used as a clearing agent (to remove alcohol) before paraffin infiltration, not a fixative.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> FAA is a classic and robust fixative for botanical samples, known for its good preservation of cell walls, cytoplasm, and nuclear structures, making it suitable for detailed cytological analysis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In cytological techniques, the most common chemical used for fixing plant materials to preserve their structure is \"FAA (Formalin-acet-alcohol).\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "FAA (Formalin-acet-alcohol)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "The stage of cell division where chromosome structures are best examined for detailed morphological studies and counting is:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Interphase" },
+        { "type": "string", "content": "Prophase" },
+        { "type": "string", "content": "Metaphase" },
+        { "type": "string", "content": "Anaphase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cytology", "Cell Division"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chromosome Examination Stage</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Chromosomes undergo significant changes in condensation and organization during the different stages of cell division (mitosis and meiosis). The clarity and distinctness of individual chromosomes vary greatly across these stages.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify the specific stage of cell division during which chromosome structures are most clearly visible and suitable for detailed morphological studies and counting.</div><p><strong>Step 1: Review chromosome behavior in each cell division stage.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Interphase</span>: Chromosomes are decondensed and appear as chromatin, not individually distinguishable.</li><li><span style='color:var(--orange);font-weight:bold;'>Prophase</span>: Chromosomes begin to condense and become visible, but are still relatively long and intertwined.</li><li><span style='color:var(--orange);font-weight:bold;'>Metaphase</span>: Chromosomes reach their maximum condensation, becoming thick and short. They align precisely at the metaphase plate, making them highly distinct and easily countable.</li><li><span style='color:var(--orange);font-weight:bold;'>Anaphase</span>: Sister chromatids separate and move to opposite poles, becoming elongated and difficult to observe individually.</li></ul><p><strong>Step 2: Determine the optimal stage for examination.</strong><br>Due to their maximal condensation and orderly alignment, chromosomes are most distinct and easiest to count and analyze morphologically during <span style='color:var(--orange);font-weight:bold;'>metaphase</span>.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Interphase\"): Chromosomes are decondensed.</li><li>Option 2 (\"Prophase\"): Chromosomes are condensing but not maximally.</li><li>Option 3 (\"Metaphase\"): Chromosomes are maximally condensed and aligned, making them ideal for study.</li><li>Option 4 (\"Anaphase\"): Chromosomes are separating and decondensing.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Karyotyping, which involves arranging chromosomes by size and morphology, is always performed using metaphase chromosomes because of their superior visibility and distinctness.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The stage of cell division where chromosome structures are best examined for detailed morphological studies and counting is \"Metaphase.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Metaphase" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which type of microscope is best suited for visualizing specimens with 3D reliefs by exploiting differences in thickness and refractive index?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Fluorescence microscope" },
+        { "type": "string", "content": "Phase contrast microscope" },
+        { "type": "string", "content": "Bright field microscope" },
+        { "type": "string", "content": "Dark field microscope" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microscopy", "Microscope Types"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Microscope for 3D Reliefs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Different types of light microscopes are designed to enhance contrast and reveal specific features of specimens, especially those that are unstained or transparent. Techniques like phase contrast exploit optical properties beyond simple light absorption.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the microscope type specifically suited for visualizing 3D reliefs by using differences in thickness and refractive index.</div><p><strong>Step 1: Understand the principle of phase contrast microscopy.</strong><br><span style='color:var(--orange);font-weight:bold;'>Phase contrast microscopy</span> converts subtle shifts in the phase of light (caused by variations in refractive index and thickness within a transparent specimen) into visible differences in brightness. This creates a distinct, three-dimensional-like relief effect without the need for staining.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Fluorescence microscope\"): Uses fluorescence to visualize specific molecules tagged with fluorochromes, not primarily 3D reliefs based on refractive index.</li><li>Option 2 (\"Phase contrast microscope\"): This aligns perfectly with the described capability of creating contrast from phase shifts due to refractive index and thickness differences, resulting in a relief appearance.</li><li>Option 3 (\"Bright field microscope\"): Shows specimens based on their absorption of light, typically requiring staining for contrast in transparent samples. It does not inherently reveal 3D reliefs from optical path differences.</li><li>Option 4 (\"Dark field microscope\"): Illumination comes from the sides, and only scattered light from the specimen is collected, making the specimen appear bright against a dark background. It enhances visibility of small, unstained objects but doesn't create 3D relief directly from refractive index differences.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Phase contrast is renowned for its ability to visualize living, unstained cells and reveal internal structures and surface details in a way that appears three-dimensional, precisely by leveraging changes in the refractive index within the sample.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The phase contrast microscope is best suited for visualizing specimens with 3D reliefs by exploiting differences in thickness and refractive index.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Phase contrast microscope" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Microbial growth media can be classified by their physical state into solid, liquid (broth), or:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Enriched" },
+        { "type": "string", "content": "Synthetic" },
+        { "type": "string", "content": "Semi-solid" },
+        { "type": "string", "content": "Differential" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Culture Media Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Microbial Media Classification by Physical State</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Microbial culture media are formulated to provide nutrients and conditions necessary for microbial growth. They can be classified based on various criteria, including their physical state, chemical composition, and functional purpose.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the third physical state category of microbial growth media, given solid and liquid (broth).</div><p><strong>Step 1: Recall the common physical states of microbial media.</strong><br>Microbiological media are prepared in different physical forms to suit various experimental needs:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>Solid media</span>: Contain a gelling agent (e.g., agar) that provides a firm surface for colony growth.</li><li><span style='color:var(--orange);font-weight:bold;'>Liquid media (broth)</span>: Contain nutrients dissolved in water and are used for growing large numbers of bacteria or for specific biochemical tests.</li><li><span style='color:var(--orange);font-weight:bold;'>Semi-solid media</span>: Contain a lower concentration of gelling agent than solid media, resulting in a soft, gel-like consistency. These are often used for motility tests or oxygen requirement studies.</li></ul><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Enriched\"): This classifies media by functional purpose (promoting growth of fastidious organisms), not physical state.</li><li>Option 2 (\"Synthetic\"): This classifies media by chemical composition (chemically defined ingredients), not physical state.</li><li>Option 3 (\"Semi-solid\"): This correctly identifies the third common physical state of microbial media.</li><li>Option 4 (\"Differential\"): This classifies media by functional purpose (allowing differentiation between microorganisms), not physical state.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The three primary physical states of culture media are solid, liquid, and semi-solid. Each state serves specific purposes in culturing and characterizing microorganisms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Microbial growth media can be classified by their physical state into solid, liquid (broth), or \"Semi-solid.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Semi-solid" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Blood agar is typically classified as which type of microbial medium?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Selective medium" },
+        { "type": "string", "content": "Complex medium" },
+        { "type": "string", "content": "Enriched medium" },
+        { "type": "string", "content": "Defined medium" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Culture Media Types"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of Blood Agar</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Microbial media are categorized based on their chemical composition and the specific purposes they serve. Some media are designed to support a wide range of organisms, while others are tailored for fastidious (picky) microbes or for differentiation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the classification of blood agar as a microbial medium.</div><p><strong>Step 1: Understand the composition and purpose of blood agar.</strong><br><span style='color:var(--orange);font-weight:bold;'>Blood agar</span> is a general-purpose enriched medium used for the isolation and cultivation of fastidious microorganisms (those with complex nutritional requirements). It is made by adding 5-10% sterile defibrinated animal blood (e.g., sheep blood) to a nutrient agar base. The blood provides essential growth factors and allows for the detection of hemolytic activity (the lysis of red blood cells), which can be used to differentiate bacteria.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Selective medium\"): Selective media inhibit the growth of certain microorganisms while permitting the growth of others. Blood agar is not primarily selective.</li><li>Option 2 (\"Complex medium\"): Complex media have ingredients whose exact chemical composition is unknown (e.g., peptone, yeast extract, blood). Blood agar is indeed a complex medium due to the blood component.</li><li>Option 3 (\"Enriched medium\"): Enriched media are complex media that contain added growth factors (like blood, serum, or vitamins) to support the growth of fastidious organisms. Blood agar fits this description perfectly.</li><li>Option 4 (\"Defined medium\"): Defined (or synthetic) media have a precisely known chemical composition. Blood agar, with its blood component, is not a defined medium.</li></ul><p><strong>Step 3: Choose the most specific and accurate classification.</strong><br>While blood agar is a complex medium, its specific characteristic of having blood added to support fastidious organisms makes \"enriched medium\" its most fitting classification. It also functions as a differential medium for hemolysis, but 'enriched' describes its primary growth-promoting quality.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Blood agar is a prime example of an enriched medium, providing extra nutrients and factors to allow organisms like <em>Streptococcus pyogenes</em> (which causes hemolysis) to grow and exhibit their characteristic properties.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Blood agar is typically classified as an \"Enriched medium.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Enriched medium" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "In field microbiology, how are microbiological samples typically preserved in a refrigerator?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "At -80°C to induce deep freezing." },
+        { "type": "string", "content": "At 4°C to slow down microbial activity." },
+        { "type": "string", "content": "By adding high concentrations of salt." },
+        { "type": "string", "content": "By lyophilization (freeze-drying)." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Sample Preservation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Microbiological Sample Preservation in the Field</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Proper preservation of microbiological samples is essential to maintain the integrity and viability of the microbial population from the time of collection until laboratory analysis. The goal is to minimize changes in microbial numbers and activity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the typical preservation method for microbiological samples in a refrigerator in the field.</div><p><strong>Step 1: Understand the effect of low temperatures on microbial activity.</strong><br>Lowering the temperature significantly reduces the metabolic rate of microorganisms, thus slowing down their growth, reproduction, and enzymatic activities. This helps to maintain the original microbial count and composition of the sample.</p><p><strong>Step 2: Identify the typical temperature for refrigeration.</strong><br>Standard refrigeration temperature, commonly used for short-term preservation of biological samples, is around <span style='color:var(--orange);font-weight:bold;'>4°C</span>. This temperature is cold enough to inhibit most microbial growth without causing ice crystal damage that deep freezing might. It is a practical and accessible method in field settings.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"At -80°C to induce deep freezing.\"): -80°C is for long-term storage (e.g., in ultra-low freezers), not typical field refrigeration and usually requires cryoprotectants.</li><li>Option 2 (\"At 4°C to slow down microbial activity.\"): This is the standard and effective temperature for temporary refrigeration of samples to slow down microbial activity.</li><li>Option 3 (\"By adding high concentrations of salt.\"): High salt concentrations can preserve, but it's a chemical method (salting out), not a refrigeration temperature.</li><li>Option 4 (\"By lyophilization (freeze-drying).\"): This is a long-term preservation method requiring specialized equipment, not a field refrigeration technique.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Refrigeration at 4°C is a widely adopted practice for temporary sample storage, as it significantly retards microbial proliferation and biochemical changes, preserving sample integrity until more extensive laboratory processing can be performed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In field microbiology, microbiological samples are typically preserved in a refrigerator \"At 4°C to slow down microbial activity.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "At 4°C to slow down microbial activity." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Microbiological media that are not thermolabile (heat-sensitive) are commonly sterilized by:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Ultraviolet (UV) radiation." },
+        { "type": "string", "content": "Filter sterilization." },
+        { "type": "string", "content": "Autoclaving." },
+        { "type": "string", "content": "Dry heat sterilization." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Sterilization Methods"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sterilization of Non-thermolabile Media</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Sterilization is the complete destruction or removal of all living microorganisms, including bacterial spores, from an object or substance. The choice of sterilization method depends on the nature of the material to be sterilized.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the common sterilization method for microbiological media that are *not* thermolabile (i.e., heat-stable).</div><p><strong>Step 1: Understand the term \"not thermolabile.\"</strong><br>\"Not thermolabile\" means the media can withstand high temperatures without degradation. This opens up options for heat-based sterilization, which are generally the most effective and widely used.</p><p><strong>Step 2: Evaluate the given options in the context of heat-stable media.</strong></p><ul><li>Option 1 (\"Ultraviolet (UV) radiation.\"): UV radiation is used for surface sterilization but has poor penetration and is not suitable for sterilizing bulk liquids or solids.</li><li>Option 2 (\"Filter sterilization.\"): This is used for thermolabile liquids (e.g., enzyme solutions, vitamins) that cannot be heated.</li><li>Option 3 (\"Autoclaving.\"): Autoclaving uses <span style='color:var(--orange);font-weight:bold;'>moist heat under pressure</span> (typically 121°C at 15 psi for 15-20 minutes). This method is highly effective at killing even bacterial spores and is the gold standard for sterilizing heat-stable media, reagents, and equipment.</li><li>Option 4 (\"Dry heat sterilization.\"): This uses high temperatures (e.g., 160-170°C for 1-2 hours) for heat-stable items like glassware. While effective, autoclaving is generally preferred for liquid media due to better heat penetration and shorter cycle times.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Autoclaving is the most common and reliable method for sterilizing heat-stable microbiological media. Its efficacy against spores makes it superior to pasteurization for achieving complete sterility, and its moist heat penetrates liquids more effectively than dry heat.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Microbiological media that are not thermolabile (heat-sensitive) are commonly sterilized by \"Autoclaving.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Autoclaving." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "A microbiologist inoculates 1 ml of a 10^-6 dilution of a bacterial suspension onto a nutrient agar plate. After incubation, 100 colonies are observed. What was the original bacterial count per ml of the suspension?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "1.0 × 10^7 cfu/ml" },
+        { "type": "string", "content": "1.0 × 10^8 cfu/ml" },
+        { "type": "string", "content": "1.0 × 10^9 cfu/ml" },
+        { "type": "string", "content": "1.0 × 10^6 cfu/ml" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Bacterial Enumeration"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bacterial Count Calculation (Plate Count)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The standard plate count method is used to estimate the number of viable bacteria in a sample. It involves serially diluting the sample, plating aliquots of the dilutions, incubating, and counting the colonies. Each colony is assumed to arise from a single viable cell (colony-forming unit, cfu).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em><ul><li>Volume inoculated: <span style='color:var(--orange);font-weight:bold;'>1 ml</span></li><li>Dilution factor of inoculated sample: <span style='color:var(--orange);font-weight:bold;'>10^-6</span></li><li>Number of colonies observed: <span style='color:var(--orange);font-weight:bold;'>100 cfu</span></li></ul><em>Asked:</em> Original bacterial count per ml (cfu/ml).</div><p><strong>Step 1: Calculate the bacterial count in the original sample.</strong><br>The formula for calculating the original bacterial count is:</p><p>Original Bacterial Count (cfu/ml) = (Number of colonies) / (Volume plated in ml * Dilution factor)</p><p>In this case, the dilution factor used for the plating is 10^-6. Therefore, the reciprocal of the dilution factor (i.e., the multiplication factor) is 10^6.</p><p><strong>Step 2: Apply the values to the formula.</strong><br>Original Bacterial Count = 100 colonies / (1 ml * 10^-6)<br>Original Bacterial Count = 100 * 10^6 cfu/ml<br>Original Bacterial Count = 1.0 × 10^2 * 10^6 cfu/ml<br>Original Bacterial Count = <span style='color:var(--orange);font-weight:bold;'>1.0 × 10^8 cfu/ml</span></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The result of 1.0 × 10^8 cfu/ml means that if you take 1 ml of the original suspension and dilute it 10^6 times, you would expect to get 100 colony-forming units when 1 ml of that dilution is plated. This calculation aligns with standard microbiological enumeration practices.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The original bacterial count per ml of the suspension was \"1.0 × 10^8 cfu/ml.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "1.0 × 10^8 cfu/ml" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Confluent growth on an agar plate, where the entire surface is covered by bacterial growth, is typically caused by:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A very low bacterial population in the inoculum." },
+        { "type": "string", "content": "The use of a selective medium." },
+        { "type": "string", "content": "A very high bacterial population in the inoculum." },
+        { "type": "string", "content": "Inoculation of a dry agar medium." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Bacterial Growth Patterns"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Causes of Confluent Growth</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> In microbiology, discrete colonies are usually desired on agar plates for enumeration and isolation of pure cultures. Confluent growth occurs when individual colonies merge, forming a continuous layer of bacteria.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the typical cause of confluent growth on an agar plate.</div><p><strong>Step 1: Define confluent growth.</strong><br><span style='color:var(--orange);font-weight:bold;'>Confluent growth</span> refers to a dense, continuous layer of bacterial growth on an agar plate, where individual colonies cannot be distinguished because they have merged together.</p><p><strong>Step 2: Consider the conditions that would lead to such dense growth.</strong><br>This happens when a very large number of viable bacterial cells are introduced onto the agar surface in close proximity. As these cells multiply, their expanding colonies quickly meet and fuse.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"A very low bacterial population in the inoculum.\"): A very low population would result in few, well-isolated colonies or no growth, not confluent growth.</li><li>Option 2 (\"The use of a selective medium.\"): Selective media inhibit certain organisms, potentially reducing overall growth, but don't inherently cause confluent growth.</li><li>Option 3 (\"A very high bacterial population in the inoculum.\"): This is the direct cause of confluent growth. Too many cells are plated, leading to overcrowding and merging of colonies.</li><li>Option 4 (\"Inoculation of a dry agar medium.\"): A dry medium might hinder growth or cause irregular growth, but it's not the primary cause of confluent growth due to high cell numbers.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> To avoid confluent growth and obtain countable plates, microbiologists perform serial dilutions to reduce the initial bacterial load to a level where colonies can grow discretely (typically 30-300 colonies per plate).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Confluent growth on an agar plate is typically caused by \"A very high bacterial population in the inoculum.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A very high bacterial population in the inoculum." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "What is the most commonly used diluent for preparing samples for serial dilution in microbiology?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "75% ethanol" },
+        { "type": "string", "content": "Distilled water" },
+        { "type": "string", "content": "Normal saline (0.85% NaCl)" },
+        { "type": "string", "content": "90% NaCl solution" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Serial Dilution"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Diluents for Serial Dilution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Serial dilution is a technique used to reduce the concentration of microorganisms in a sample. The diluent chosen is critical as it must maintain the viability of the microorganisms without promoting their growth or causing osmotic shock.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the most commonly used diluent for preparing samples for serial dilution in microbiology.</div><p><strong>Step 1: Consider the requirements for an ideal diluent.</strong><br>An ideal diluent should be isotonic (having the same osmotic pressure as the microbial cells) to prevent osmotic lysis or dehydration, sterile to avoid contamination, and non-nutritive to prevent further microbial growth during the dilution process.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"75% ethanol\"): Ethanol is an antiseptic and disinfectant; it would kill the microorganisms, making it unsuitable for maintaining viability.</li><li>Option 2 (\"Distilled water\"): Distilled water is hypotonic and would cause osmotic lysis of many bacterial cells, leading to an underestimation of viable counts.</li><li>Option 3 (\"Normal saline (0.85% NaCl)\"): <span style='color:var(--orange);font-weight:bold;'>Normal saline (0.85% or 0.9% NaCl solution)</span> is isotonic with most bacterial cells, meaning it provides an osmotic environment that minimizes cell damage, thus preserving viability during dilution.</li><li>Option 4 (\"90% NaCl solution\"): This is a hypertonic solution, which would cause severe dehydration and plasmolysis of bacterial cells, leading to loss of viability.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The use of an isotonic solution like normal saline ensures that the bacterial cells remain intact and viable throughout the dilution process, which is fundamental for accurate viable plate counts.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The most commonly used diluent for preparing samples for serial dilution in microbiology is \"Normal saline (0.85% NaCl).\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Normal saline (0.85% NaCl)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Which of the following methods is commonly used for enumerating bacteria from a water sample?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Streak plate method" },
+        { "type": "string", "content": "Most Probable Number (MPN) method" },
+        { "type": "string", "content": "Gram staining technique" },
+        { "type": "string", "content": "Negative staining" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbiology", "Water Sample Analysis"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bacterial Enumeration from Water Samples</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Water samples, particularly for environmental or public health monitoring, often contain dilute populations of microorganisms. Specific methods are employed to estimate the bacterial count, especially when the numbers are low or when targeting specific indicator organisms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for a common method used to enumerate bacteria from a water sample.</div><p><strong>Step 1: Review bacterial enumeration techniques.</strong><br>Common techniques include plate count methods (spread plate, pour plate) for viable cells, direct microscopic counts, and statistical estimation methods like the Most Probable Number (MPN) method.</p><p><strong>Step 2: Evaluate the given options in the context of water samples.</strong></p><ul><li>Option 1 (\"Streak plate method\"): Primarily used for isolating pure cultures, not for quantitative enumeration of a mixed water sample.</li><li>Option 2 (\"Most Probable Number (MPN) method\"): The <span style='color:var(--orange);font-weight:bold;'>MPN method</span> is a statistical estimation technique commonly used for samples with low bacterial numbers (e.g., water, soil) and for detecting specific groups like coliforms, often involving multiple tubes at different dilutions. It is a recognized method for water analysis.</li><li>Option 3 (\"Gram staining technique\"): A differential staining method used for bacterial identification based on cell wall properties, not for enumeration.</li><li>Option 4 (\"Negative staining\"): A staining method used to visualize cell morphology and capsules, not for enumeration.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> For water samples, especially to check for fecal contamination, the MPN method is a standard technique. It estimates bacterial density by observing growth in a series of inoculated broth tubes, making it suitable for low-concentration samples where plate counts might be impractical.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A common method used for enumerating bacteria from a water sample is the \"Most Probable Number (MPN) method.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Most Probable Number (MPN) method" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Applying chemical preservatives to safeguard mounted plant specimens from insect and mold attacks is a process known as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Desiccation" },
+        { "type": "string", "content": "Lamination" },
+        { "type": "string", "content": "Poisoning" },
+        { "type": "string", "content": "Embedding" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Botany", "Specimen Preservation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Preservation of Mounted Plant Specimens</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Herbarium specimens, once collected, pressed, and dried, are susceptible to damage from pests (insects) and microbial growth (mold). To protect these valuable collections, long-term preservation methods involving chemical treatments are employed.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the term describing the application of chemical preservatives to protect mounted plant specimens from pests.</div><p><strong>Step 1: Consider the methods for long-term protection of herbarium specimens.</strong><br>After initial preparation, specimens must be protected from biotic threats. Traditional methods involve applying chemicals that are toxic to insects and fungi. This ensures the specimens remain intact for future study.</p><p><strong>Step 2: Identify the specific term for this chemical application.</strong><br>The application of chemical preservatives, such as mercuric chloride or naphthalene, to dried plant specimens to deter insect and fungal attacks is historically and formally referred to as <span style='color:var(--orange);font-weight:bold;'>\"poisoning\"</span> the specimens. While the term may sound harsh, it accurately reflects the use of toxic substances for preservation.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Desiccation\"): This is the process of drying the specimens to remove water, which is a preliminary step but not the chemical treatment against pests.</li><li>Option 2 (\"Lamination\"): This involves covering the specimen with a protective layer, usually plastic, but does not involve chemical pest control.</li><li>Option 3 (\"Poisoning\"): This is the correct term for applying chemical preservatives to prevent pest and mold damage to herbarium specimens.</li><li>Option 4 (\"Embedding\"): This involves enclosing the specimen in a solid medium (like paraffin or resin) for sectioning or display, not typically for general pest control of mounted herbarium sheets.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The term \"poisoning\" is deeply entrenched in herbarium practices, referring to the historical and ongoing use of chemical agents to protect specimens from degradation by biological pests.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Applying chemical preservatives to safeguard mounted plant specimens from insect and mold attacks is a process known as \"Poisoning.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Poisoning" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "A book that contains detailed descriptions of plants found in a specific geographical area is known as a(n):",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Atlas" },
+        { "type": "string", "content": "Compendium" },
+        { "type": "string", "content": "Flora" },
+        { "type": "string", "content": "Monograph" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Botany", "Taxonomy"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Botanical Literature Terminology</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Botanical studies rely on various types of literature to document and categorize plant diversity. Specific terms are used to denote publications with particular scopes and contents.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the specific term for a book that describes plants of a particular geographical area.</div><p><strong>Step 1: Understand the definition of a flora.</strong><br>In botany, a <span style='color:var(--orange);font-weight:bold;'>\"flora\"</span> is a comprehensive account of the plant species (or other plant life, such as fungi and algae) occurring in a particular region, period, or special environment. It typically includes descriptions, keys for identification, distribution information, and sometimes illustrations.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Atlas\"): Primarily a collection of maps, though some botanical atlases exist, this is not the general term for plant descriptions.</li><li>Option 2 (\"Compendium\"): A collection of concise but detailed information on a particular subject, but not specific to geographical plant descriptions.</li><li>Option 3 (\"Flora\"): This is the correct and specific term for a book detailing the plant species of a specific area.</li><li>Option 4 (\"Monograph\"): A detailed scholarly work on a single subject or an individual taxonomic group (e.g., a genus), but not necessarily all plants of an area.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> \"Flora\" is a standard term in botany that accurately refers to a systematic treatment of the plants of a particular region, encompassing their descriptions, classification, and distribution.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A book that contains detailed descriptions of plants found in a specific geographical area is known as a \"Flora.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Flora" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "The number of individuals of a particular species per unit area or volume is defined as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Population frequency" },
+        { "type": "string", "content": "Population density" },
+        { "type": "string", "content": "Population distribution" },
+        { "type": "string", "content": "Population abundance" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ecology", "Population Parameters"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Population Density</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Population ecology studies how populations interact with their environment. Key parameters are used to describe the characteristics of a population, such as its size, distribution, and how densely its individuals are packed.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the ecological term that describes the number of individuals of a particular species per unit area or volume.</div><p><strong>Step 1: Understand the meaning of \"per unit area or volume.\"</strong><br>This phrase directly indicates a measurement of concentration or how tightly packed individuals are within a defined space.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Population frequency\"): Refers to the number of times a species appears in a given number of quadrats or sampling units, not its numerical concentration.</li><li>Option 2 (\"Population density\"): This is the precise definition for the number of individuals per unit area (for terrestrial organisms) or unit volume (for aquatic or airborne organisms).</li><li>Option 3 (\"Population distribution\"): Describes the spatial arrangement of individuals within a habitat (e.g., clumped, uniform, random).</li><li>Option 4 (\"Population abundance\"): Refers to the total number of individuals of a species in a given area, without necessarily relating it to the unit area/volume. Density is a measure of relative abundance.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Population density is a fundamental metric in ecology, crucial for understanding resource availability, competitive interactions, and overall population dynamics. It directly quantifies how many individuals inhabit a given space.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The number of individuals of a particular species per unit area or volume is defined as \"Population density.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Population density" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which of the following pieces of equipment is commonly used for collecting semi-aquatic insects?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Light trap" },
+        { "type": "string", "content": "Sweep net" },
+        { "type": "string", "content": "Baerman funnel" },
+        { "type": "string", "content": "Pitfall trap" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Ecology", "Insect Collection Methods"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Collection Methods for Semi-aquatic Insects</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Various sampling tools are designed for collecting specific types of organisms from different habitats. Semi-aquatic insects inhabit the interface between water and land, requiring specialized methods that can effectively extract them from sediment or vegetation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for a piece of equipment commonly used to collect semi-aquatic insects.</div><p><strong>Step 1: Understand the habitat and behavior of semi-aquatic insects.</strong><br>Semi-aquatic insects often live in mud, litter, or submerged vegetation near water bodies. Their collection methods need to account for their preference for such environments.</p><p><strong>Step 2: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Light trap\"): Used primarily for nocturnal flying insects, attracting them to a light source.</li><li>Option 2 (\"Sweep net\"): Used for collecting insects from vegetation by sweeping, more for terrestrial or flying insects.</li><li>Option 3 (\"Baerman funnel\"): A <span style='color:var(--orange);font-weight:bold;'>Baerman funnel</span> is specifically designed to extract nematodes and other small invertebrates (including some semi-aquatic insects) from soil or sediment samples by exploiting their movement towards warmth or water. This method is highly effective for organisms residing in moist substrates.</li><li>Option 4 (\"Pitfall trap\"): Used for collecting ground-dwelling arthropods that fall into a container buried flush with the ground.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The Baerman funnel is well-known for extracting small, motile organisms from substrates, making it a suitable tool for capturing semi-aquatic insects embedded in mud or detritus. Other specialized equipment like an Eckman Grab could also be relevant for collecting bottom sediment organisms.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The \"Baerman funnel\" is commonly used for collecting semi-aquatic insects.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Baerman funnel" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "The general structure of an amino acid includes a central carbon atom bonded to an amino group, a carboxyl group, a hydrogen atom, and a variable:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Phosphate group" },
+        { "type": "string", "content": "Hydroxyl group" },
+        { "type": "string", "content": "R-group" },
+        { "type": "string", "content": "Methyl group" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Biochemistry", "Amino Acid Structure"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>General Structure of an Amino Acid</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Amino acids are the fundamental building blocks of proteins. All standard amino acids share a common basic structure, differing only in one key component.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question describes the common components of an amino acid (central carbon, amino group, carboxyl group, hydrogen atom) and asks for the variable component.</div><p><strong>Step 1: Visualize or recall the general structure of an alpha-amino acid.</strong><br>An alpha-amino acid has a central carbon atom, called the alpha-carbon (Cα). To this alpha-carbon are attached four different groups:</p><ul><li>An <span style='color:var(--orange);font-weight:bold;'>amino group</span> (-NH2)</li><li>A <span style='color:var(--orange);font-weight:bold;'>carboxyl group</span> (-COOH)</li><li>A <span style='color:var(--orange);font-weight:bold;'>hydrogen atom</span> (-H)</li><li>A <span style='color:var(--orange);font-weight:bold;'>side chain</span>, which is unique to each amino acid.</li></ul><p><strong>Step 2: Identify the variable component.</strong><br>The side chain is the only group that varies among the 20 standard amino acids. This side chain is commonly represented by the letter <span style='color:var(--orange);font-weight:bold;'>'R'</span>.</p><p><strong>Step 3: Evaluate the given options.</strong></p><ul><li>Option 1 (\"Phosphate group\"): Phosphate groups are found in nucleotides and phosphorylated proteins, not as a general component of amino acids.</li><li>Option 2 (\"Hydroxyl group\"): While some amino acids (e.g., serine, threonine) have hydroxyl groups in their side chains, it is not the *general* variable component for *all* amino acids.</li><li>Option 3 (\"R-group\"): This is the correct term for the variable side chain that distinguishes one amino acid from another.</li><li>Option 4 (\"Methyl group\"): A methyl group (-CH3) is the R-group for alanine, but not the general variable component for all amino acids.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The unique chemical properties and biological functions of each amino acid are primarily determined by its specific R-group. This variability is essential for protein structure and function.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The general structure of an amino acid includes a central carbon atom bonded to an amino group, a carboxyl group, a hydrogen atom, and a variable \"R-group.\"</p></div>"
+    },
+    "Answer": { "type": "string", "content": "R-group" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Compare and contrast electrophoresis and chromatography as analytical techniques in biological sciences, highlighting their fundamental principles of separation.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electrophoresis", "Chromatography", "Separation Techniques"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Comparison of Electrophoresis and Chromatography</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Both electrophoresis and chromatography are powerful analytical techniques used to separate components from complex mixtures in biological sciences. While both achieve separation, their fundamental principles and operational mechanisms differ significantly.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for a comparison and contrast of electrophoresis and chromatography, focusing on their fundamental separation principles.</div><p><strong>Step 1: Define Electrophoresis and its principle.</strong><br>Electrophoresis is an analytical method primarily used for the separation and characterization of charged biomolecules such as <span style='color:var(--orange);font-weight:bold;'>proteins, nucleic acids, and subcellular-sized particles</span>. Its fundamental principle is that <span style='color:var(--orange);font-weight:bold;'>charged particles migrate in an applied electric field</span>. The rate and direction of migration are determined by the molecule's <span style='color:var(--orange);font-weight:bold;'>surface net charge density, size, and shape</span>, as well as the strength of the electric field and the properties of the supporting medium (e.g., gel matrix providing a sieving effect).</p><p><strong>Step 2: Define Chromatography and its principle.</strong><br>Chromatography is a separation technique based on the concept of <span style='color:var(--orange);font-weight:bold;'>partition coefficient</span>. It separates components of a mixture based on their <span style='color:var(--orange);font-weight:bold;'>differential distribution (partitioning) between two immiscible phases</span>: a stationary phase and a mobile phase. The components travel at different rates through the stationary phase, carried by the mobile phase, depending on their relative affinities for each phase.</p><p><strong>Step 3: Contrast the techniques based on driving force and phases.</strong></p><ul><li><strong>Driving Force:</strong><br>  - <span style='color:var(--orange);font-weight:bold;'>Electrophoresis</span>: Driven by an <span style='color:var(--orange);font-weight:bold;'>external electric field</span> acting on the net charge of the molecules.<br>  - <span style='color:var(--orange);font-weight:bold;'>Chromatography</span>: Driven by the <span style='color:var(--orange);font-weight:bold;'>flow of a mobile phase</span> (gas or liquid) and the differential partitioning of analytes between this mobile phase and a stationary phase.</li><li><strong>Phases Involved:</strong><br>  - <span style='color:var(--orange);font-weight:bold;'>Electrophoresis</span>: Typically involves a <span style='color:var(--orange);font-weight:bold;'>liquid buffer (mobile phase)</span> through which charged molecules migrate, often supported by a <span style='color:var(--orange);font-weight:bold;'>solid matrix (stationary phase, e.g., gel)</span>. The medium itself is not typically a 'phase' in the chromatographic sense of differential distribution across two immiscible phases.<br>  - <span style='color:var(--orange);font-weight:bold;'>Chromatography</span>: Always involves <span style='color:var(--orange);font-weight:bold;'>two distinct phases</span> (a stationary phase and a mobile phase) that are immiscible or differ fundamentally in nature (e.g., solid-liquid, liquid-liquid, gas-liquid).</li><li><strong>Properties Separated:</strong><br>  - <span style='color:var(--orange);font-weight:bold;'>Electrophoresis</span>: Primarily separates based on <span style='color:var(--orange);font-weight:bold;'>charge and size (molecular weight)</span>.<br>  - <span style='color:var(--orange);font-weight:bold;'>Chromatography</span>: Separates based on various properties depending on the type (e.g., <span style='color:var(--orange);font-weight:bold;'>polarity, size, charge, hydrophobicity, specific binding affinity</span>), all influencing partitioning.</li></ul><p><strong>Step 4: Provide examples of each.</strong></p><ul><li><span style='color:var(--orange);font-weight:bold;'>Electrophoresis examples</span>: SDS-PAGE (separates by size), Native PAGE (separates by charge and size), Isoelectric focusing (separates by isoelectric point).</li><li><span style='color:var(--orange);font-weight:bold;'>Chromatography examples</span>: Thin Layer Chromatography (TLC), Gas Chromatography (GC), Liquid Chromatography (LC), High-Performance Liquid Chromatography (HPLC), Paper Chromatography, Ion-Exchange Chromatography, Affinity Chromatography.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> While both techniques achieve separation, their underlying physics are different: electrophoresis uses an electric field to move charged molecules, whereas chromatography uses differential affinities for two distinct phases to achieve separation. Misunderstanding these fundamental differences can lead to incorrect application of techniques.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Electrophoresis separates charged molecules based on their migration in an electric field, while chromatography separates mixtures by differential partitioning of components between a stationary phase and a mobile phase.</p></div>"
+    },
+    "Answer": "Electrophoresis separates charged molecules based on their migration in an electric field, where the driving force is the electric charge of the molecules, influencing their movement through a gel or liquid medium. This separation is primarily governed by the molecule's charge, size, and shape.\n\nChromatography, on the other hand, separates components based on their differential distribution (partitioning) between a stationary phase and a mobile phase. The driving force is the continuous flow of the mobile phase, which carries the analytes along the stationary phase. Separation occurs because analytes have varying affinities for the stationary versus the mobile phase, leading to different retention times or distances traveled."
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Based on the bioremediation experiment data provided, calculate the Correction Factor (CF), Total Sum of Squares (SST), Sum of Squares between treatments (SSt), Sum of Squares for error (SSe), Degrees of Freedom (df) for treatment, error, and total, Mean Square between treatments (MSb), Mean Square within treatments (MSw), and the F-value. Show all your working.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [
+      ["S/N", "B1", "B2", "B3", "B4", "B5", "Total (per treatment)"],
+      ["1", "430", "120", "369", "214", "568", null],
+      ["2", "470", "170", "374", "217", "574", null],
+      ["3", "490", "127", "323", "219", "593", null],
+      ["Total", "1390", "417", "1066", "650", "1735", "Grand Total = 5258"]
+    ],
+    "topic": ["Statistics", "ANOVA Calculation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>One-Way ANOVA Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Analysis of Variance (ANOVA) is a statistical method used to test for significant differences between the means of three or more groups. It partitions the total variability in a dataset into different sources of variation (e.g., between treatments and within treatments).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> A table of bioremediation experiment results with 5 treatments (B1-B5) and 3 replicates per treatment. The total for each treatment and the grand total are provided. Individual data points are:<ul><li>B1: 430, 470, 490 (Sum = 1390)</li><li>B2: 120, 170, 127 (Sum = 417)</li><li>B3: 369, 374, 323 (Sum = 1066)</li><li>B4: 214, 217, 219 (Sum = 650)</li><li>B5: 568, 574, 593 (Sum = 1735)</li></ul>Grand Total (GT) = 5258.<br>Number of treatments (k) = 5.<br>Number of replicates per treatment (r) = 3.<br>Total number of observations (N) = k * r = 5 * 3 = 15.</div><p><strong>Step 1: Calculate the Correction Factor (CF).</strong><br>CF = (Grand Total)² / N<br>CF = (5258)² / 15<br>CF = 27646564 / 15<br>CF = <span style='color:var(--orange);font-weight:bold;'>1,843,104.27 (or approx. 1,843,105 as in solution)</span></p><p><strong>Step 2: Calculate the Total Sum of Squares (SST).</strong><br>SST = Σ(x²) - CF<br>Σ(x²) = 430² + 470² + 490² + 120² + 170² + 127² + 369² + 374² + 323² + 214² + 217² + 219² + 568² + 574² + 593²<br>Σ(x²) = 184900 + 220900 + 240100 + 14400 + 28900 + 16129 + 136161 + 139876 + 104329 + 45796 + 47089 + 47961 + 322624 + 329476 + 351649<br>Σ(x²) = 2,230,290<br>SST = 2,230,290 - 1,843,104.27<br>SST = <span style='color:var(--orange);font-weight:bold;'>387,185.73 (or approx. 387,185 as in solution)</span></p><p><strong>Step 3: Calculate the Sum of Squares between treatments (SSt).</strong><br>SSt = Σ(Treatment Total² / r) - CF<br>SSt = (1390² / 3) + (417² / 3) + (1066² / 3) + (650² / 3) + (1735² / 3) - CF<br>SSt = (1932100 / 3) + (173889 / 3) + (1136356 / 3) + (422500 / 3) + (3010225 / 3) - CF<br>SSt = 644033.33 + 57963 + 378785.33 + 140833.33 + 1003408.33 - 1,843,104.27<br>SSt = 2,225,023.32 - 1,843,104.27<br>SSt = <span style='color(--orange);font-weight:bold;'>381,919.05 (or approx. 381,919 as in solution)</span></p><p><strong>Step 4: Calculate the Sum of Squares for error (SSe).</strong><br>SSe = SST - SSt<br>SSe = 387,185.73 - 381,919.05<br>SSe = <span style='color:var(--orange);font-weight:bold;'>5,266.68 (or approx. 5,266 as in solution)</span></p><p><strong>Step 5: Calculate the Degrees of Freedom (df).</strong><br>df_total = N - 1 = 15 - 1 = <span style='color:var(--orange);font-weight:bold;'>14</span><br>df_treatment = k - 1 = 5 - 1 = <span style='color:var(--orange);font-weight:bold;'>4</span><br>df_error = N - k = 15 - 5 = <span style='color:var(--orange);font-weight:bold;'>10</span> (also df_total - df_treatment = 14 - 4 = 10)</p><p><strong>Step 6: Calculate the Mean Square between treatments (MSb).</strong><br>MSb = SSt / df_treatment<br>MSb = 381,919.05 / 4<br>MSb = <span style='color:var(--orange);font-weight:bold;'>95,479.76 (or approx. 95,480 as in solution)</span></p><p><strong>Step 7: Calculate the Mean Square within treatments (MSw).</strong><br>MSw = SSe / df_error<br>MSw = 5,266.68 / 10<br>MSw = <span style='color:var(--orange);font-weight:bold;'>526.67 (or approx. 526.5 as in solution)</span></p><p><strong>Step 8: Calculate the F-value.</strong><br>F = MSb / MSw<br>F = 95,479.76 / 526.67<br>F = <span style='color:var(--orange);font-weight:bold;'>181.29 (or approx. 181 as in solution)</span></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The calculated values are consistent with the solutions provided in the document. The F-value indicates the ratio of variance between groups to variance within groups. A high F-value suggests that the differences between treatment means are likely real and not due to random chance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The calculated ANOVA values are: CF = 1,843,104.27; SST = 387,185.73; SSt = 381,919.05; SSe = 5,266.68; df_treatment = 4; df_error = 10; df_total = 14; MSb = 95,479.76; MSw = 526.67; F-value = 181.29.</p></div>"
+    },
+    "Answer": "Correction Factor (CF) = (Grand Total)² / N = (5258)² / 15 = 27646564 / 15 = 1,843,104.27\n\nTotal Sum of Squares (SST) = Σ(x²) - CF\nΣ(x²) = 430² + 470² + 490² + 120² + 170² + 127² + 369² + 374² + 323² + 214² + 217² + 219² + 568² + 574² + 593² = 2,230,290\nSST = 2,230,290 - 1,843,104.27 = 387,185.73\n\nSum of Squares between treatments (SSt) = Σ(Treatment Total² / r) - CF\nSSt = (1390² / 3) + (417² / 3) + (1066² / 3) + (650² / 3) + (1735² / 3) - 1,843,104.27\nSSt = (1932100/3) + (173889/3) + (1136356/3) + (422500/3) + (3010225/3) - 1,843,104.27\nSSt = 644033.33 + 57963 + 378785.33 + 140833.33 + 1003408.33 - 1,843,104.27 = 2,225,023.32 - 1,843,104.27 = 381,919.05\n\nSum of Squares for error (SSe) = SST - SSt = 387,185.73 - 381,919.05 = 5,266.68\n\nDegrees of Freedom (df):\ndf_total = N - 1 = 15 - 1 = 14\ndf_treatment = k - 1 = 5 - 1 = 4\ndf_error = N - k = 15 - 5 = 10\n\nMean Square between treatments (MSb) = SSt / df_treatment = 381,919.05 / 4 = 95,479.76\n\nMean Square within treatments (MSw) = SSe / df_error = 5,266.68 / 10 = 526.67\n\nF-value = MSb / MSw = 95,479.76 / 526.67 = 181.29"
+  }
+]
+```
