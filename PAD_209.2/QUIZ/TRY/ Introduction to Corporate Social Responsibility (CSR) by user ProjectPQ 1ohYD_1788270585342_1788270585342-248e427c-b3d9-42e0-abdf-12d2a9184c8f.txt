@@ -1,0 +1,87 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Corporate Social Responsibility (CSR) has become an important aspect of modern organisational management, driven by a growing demand for ethical business conduct, environmental sustainability, and what other key factor?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Technological innovation" },
+        { "type": "string", "content": "Community development" },
+        { "type": "string", "content": "Market monopolization" },
+        { "type": "string", "content": "Government deregulation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Drivers of CSR", "Introduction to CSR"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Drivers of Corporate Social Responsibility</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Corporate Social Responsibility (CSR):</strong> The obligation of organisations to conduct their operations in ways that contribute positively to society while pursuing their economic objectives.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the key factors driving the importance of CSR in modern organisational management.</div><p><strong>Step 1: Identify the context.</strong> The introduction section highlights the increasing importance of CSR.</p><p><strong>Step 2: Locate the specific drivers mentioned.</strong> The text states that the growing demand for <span style='color:var(--orange);font-weight:bold;'>ethical business conduct</span>, <span style='color:var(--orange);font-weight:bold;'>environmental sustainability</span>, and <span style='color:var(--orange);font-weight:bold;'>community development</span> has made CSR a central concern.</p><ul><li>Option 1 (Technological innovation): While relevant to modern business, it is not listed as a primary driver for CSR's importance in this context.</li><li>Option 2 (Community development): This is explicitly mentioned as one of the key factors driving the demand for CSR.</li><li>Option 3 (Market monopolization): This is not presented as a driver for CSR; in fact, it might be seen as antithetical to CSR principles if achieved unethically.</li><li>Option 4 (Government deregulation): This would typically reduce formal obligations, not necessarily increase the demand for voluntary social responsibility.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The text clearly lists the three core demands that underpin the rising prominence of CSR. Community development is one of these directly stated drivers, confirming its role in making CSR a central concern for organisations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The third key factor driving CSR's importance is community development.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Community development" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "According to the document, which of the following groups is explicitly mentioned as one whose welfare organisations are expected to contribute to positively, in addition to generating profits?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Competitors" },
+        { "type": "string", "content": "Employees" },
+        { "type": "string", "content": "Political parties" },
+        { "type": "string", "content": "External auditors" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Scope of CSR", "Introduction to CSR"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Scope of Organisational Responsibility</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Corporate Social Responsibility (CSR):</strong> Beyond profit generation, organisations have an obligation to contribute positively to the welfare of various stakeholders.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a group whose welfare organisations are expected to contribute to positively, according to the document.</div><p><strong>Step 1: Refer to the introduction.</strong> The text states that organisations are expected to contribute positively to the welfare of several groups.</p><p><strong>Step 2: Identify the specific groups listed.</strong> The document explicitly mentions <span style='color:var(--orange);font-weight:bold;'>employees</span>, customers, host communities, and the environment.</p><ul><li>Option 1 (Competitors): Organisations do not typically contribute to the welfare of competitors in a positive sense; their interaction is usually competitive.</li><li>Option 2 (Employees): This group is explicitly mentioned as one of the beneficiaries of positive contributions by organisations.</li><li>Option 3 (Political parties): While organisations might engage with political processes, direct contribution to the welfare of political parties is not identified as part of CSR in the document.</li><li>Option 4 (External auditors): Auditors are professionals who assess financial statements, not a group whose welfare organisations are expected to positively contribute to as part of their CSR.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The introductory paragraph outlines the expanded expectations for modern organisations, which include contributing to the welfare of specific groups. Employees are clearly listed as one of these key groups, alongside customers, host communities, and the environment.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Employees are explicitly mentioned as a group whose welfare organisations are expected to contribute to positively.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Employees" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The meaning of Corporate Social Responsibility (CSR) encompasses the understanding that organisations do not exist in isolation and their activities affect various groups. Which of the following is NOT listed as one of these groups directly affected by organisational activities?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Suppliers" },
+        { "type": "string", "content": "Competitors" },
+        { "type": "string", "content": "Governments" },
+        { "type": "string", "content": "Customers" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Stakeholders in CSR", "Meaning of CSR"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Organisational Impact and Stakeholders</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <strong>Corporate Social Responsibility (CSR):</strong> Recognises that organisational actions have a broader impact beyond their internal operations, affecting various external parties.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which group is NOT listed in the document as being directly affected by organisational activities in the context of CSR.</div><p><strong>Step 1: Locate the section defining CSR.</strong> The 'Meaning of Corporate Social Responsibility (CSR)' section explains that organisations do not exist in isolation.</p><p><strong>Step 2: Identify the listed affected groups.</strong> The text states: \"Their activities affect various groups, including <span style='color:var(--orange);font-weight:bold;'>employees, customers, suppliers, governments, host communities, and the natural environment.</span>\"</p><ul><li>Option 1 (Suppliers): Suppliers are explicitly mentioned as an affected group.</li><li>Option 2 (Competitors): Competitors are not listed among the groups directly affected by organisational activities in this specific context.</li><li>Option 3 (Governments): Governments are explicitly mentioned as an affected group.</li><li>Option 4 (Customers): Customers are explicitly mentioned as an affected group.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> By checking the list of groups provided in the document under the definition of CSR, it is clear that employees, customers, suppliers, governments, host communities, and the natural environment are mentioned. Competitors are not included in this list.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Competitors are NOT listed as one of the groups directly affected by organisational activities in the context of CSR.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Competitors" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "The World Business Council for Sustainable Development defines CSR as the continuing commitment of businesses to behave ethically and contribute to economic development while improving the quality of life for various stakeholders. Which of the following is NOT specified by this definition?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Employees" },
+        { "type": "string", "content": "Local communities" },
+        { "type": "string", "content": "Shareholders" },
+        { "type": "string", "content": "Society at large" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Definitions of CSR", "Meaning of CSR"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;
