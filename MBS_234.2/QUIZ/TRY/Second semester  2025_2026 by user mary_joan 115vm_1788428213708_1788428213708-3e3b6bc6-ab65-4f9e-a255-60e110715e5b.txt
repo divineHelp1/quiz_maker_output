@@ -1,0 +1,879 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer all questions."
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the sum total of all chemical reactions taking place within a living system that help to sustain life?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Catabolism" },
+        { "type": "string", "content": "Digestion" },
+        { "type": "string", "content": "Metabolism" },
+        { "type": "string", "content": "Anabolism" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Metabolism Definition", "General Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Metabolism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Metabolism:</em> The sum total of all chemical reactions taking place within the living system that helps to sustain life.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that defines the sum of all chemical reactions in a living system for sustaining life.</div><p><strong>Step 1: Identify the core definition.</strong></p><p>Metabolism encompasses all biochemical processes that occur within a living organism to maintain life. This includes both the breakdown of molecules (catabolism) and the synthesis of molecules (anabolism).</p><ul><li><p><strong>Option 0 (Catabolism):</strong> Catabolism refers specifically to the <span style='color:var(--orange);font-weight:bold;'>breaking down of bigger molecules to smaller ones</span>. While part of metabolism, it's not the complete sum.</p></li><li><p><strong>Option 1 (Digestion):</strong> Digestion is the process of <span style='color:var(--orange);font-weight:bold;'>breaking down food nutrients into the smallest, easily absorbable particle form</span>. This is a process that precedes or is part of catabolism but not the overarching term for all chemical reactions.</p></li><li><p><strong>Option 2 (Metabolism):</strong> This option directly matches the definition provided: <span style='color:var(--orange);font-weight:bold;'>the sum total of all chemical reactions taking place within the living system that helps to sustain life</span>.</p></li><li><p><strong>Option 3 (Anabolism):</strong> Anabolism refers specifically to the <span style='color:var(--orange);font-weight:bold;'>building up of molecules</span>. While part of metabolism, it's not the complete sum.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The term "Metabolism" is the most comprehensive, encompassing both anabolic (building up) and catabolic (breaking down) processes. Catabolism and Anabolism are components, not the overall sum. Digestion is a specific catabolic process.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Metabolism</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Metabolism" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which enzyme is primarily responsible for the initial breakdown of complex saccharides in the mouth?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Gastric amylase" },
+        { "type": "string", "content": "Maltase" },
+        { "type": "string", "content": "Salivary gland alpha amylase" },
+        { "type": "string", "content": "Pancreatic amylase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Carbohydrate Digestion", "Mouth Digestion", "Enzymes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbohydrate Digestion in the Mouth</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Salivary gland alpha amylase (Ptyalin):</em> An enzyme found in saliva that begins the digestion of complex carbohydrates (polysaccharides) into simpler saccharides.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the enzyme responsible for initial complex saccharide breakdown in the mouth.</div><p><strong>Step 1: Locate information on mouth digestion of carbohydrates.</strong></p><p>The document states that carbohydrates ingested into the mouth are mixed with saliva, and the saliva contains <span style='color:var(--orange);font-weight:bold;'>salivary gland alpha amylase, also known as ptyalin</span>. This enzyme breaks down complex saccharides into simpler ones.</p><ul><li><p><strong>Option 0 (Gastric amylase):</strong> The stomach's acidic environment <span style='color:var(--orange);font-weight:bold;'>deactivates salivary alpha amylase</span>, and there is no mention of a functional gastric amylase for carbohydrate digestion in the stomach.</p></li><li><p><strong>Option 1 (Maltase):</strong> Maltase is an enzyme found in the <span style='color:var(--orange);font-weight:bold;'>small intestine (succus entericus)</span>, responsible for breaking down maltose into glucose, not for initial complex saccharide breakdown in the mouth.</p></li><li><p><strong>Option 2 (Salivary gland alpha amylase):</strong> This enzyme is explicitly mentioned as being present in saliva and responsible for <span style='color:var(--orange);font-weight:bold;'>breaking down complex saccharides</span> in the mouth.</p></li><li><p><strong>Option 3 (Pancreatic amylase):</strong> Pancreatic amylase is secreted by the pancreas into the <span style='color:var(--orange);font-weight:bold;'>duodenum</span> to further digest carbohydrates, not in the mouth.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The key is "initial breakdown" and "in the mouth". Salivary gland alpha amylase is the only enzyme listed that fits this description.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Salivary gland alpha amylase</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Salivary gland alpha amylase" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "What is the approximate optimal pH range for salivary alpha amylase activity?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "3-4" },
+        { "type": "string", "content": "6-7" },
+        { "type": "string", "content": "8-9" },
+        { "type": "string", "content": "1-2" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Enzyme Activity", "Carbohydrate Digestion", "pH"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Salivary Amylase Activity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Salivary alpha amylase (Ptyalin):</em> An enzyme in saliva that is activated by chloride ions and functions optimally within a specific pH range for carbohydrate digestion.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the optimal pH range for salivary alpha amylase.</div><p><strong>Step 1: Locate information on salivary alpha amylase activity conditions.</strong></p><p>The document states that salivary gland alpha amylase is <span style='color:var(--orange);font-weight:bold;'>activated by chloride ions and works at a pH of 6-7</span>.</p><ul><li><p><strong>Option 0 (3-4):</strong> This pH range is acidic and would likely deactivate salivary amylase, as the stomach's acidic nature deactivates it.</p></li><li><p><strong>Option 1 (6-7):</strong> This pH range is explicitly stated in the document as the optimal working pH for salivary alpha amylase.</p></li><li><p><strong>Option 2 (8-9):</strong> This pH range is alkaline, which is suitable for pancreatic amylase in the duodenum, but not salivary amylase.</p></li><li><p><strong>Option 3 (1-2):</strong> This pH range is highly acidic, typical of the stomach, and would cause rapid deactivation of salivary amylase.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document directly specifies the optimal pH range.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 6-7</p></div>"
+    },
+    "Answer": { "type": "string", "content": "6-7" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which cells in the stomach are responsible for releasing HCl, which deactivates salivary alpha amylase?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Chief cells" },
+        { "type": "string", "content": "G-cells" },
+        { "type": "string", "content": "Oxyntic cells" },
+        { "type": "string", "content": "Mucous cells" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Stomach Digestion", "Gastric Cells", "Enzyme Deactivation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Stomach Digestion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Oxyntic cells:</em> Also known as parietal cells, these cells in the stomach lining are responsible for secreting hydrochloric acid (HCl), which creates the highly acidic environment of the stomach.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the stomach cells that release HCl, leading to salivary amylase deactivation.</div><p><strong>Step 1: Locate information on HCl release in the stomach.</strong></p><p>The document states that "The <span style='color:var(--orange);font-weight:bold;'>oxyntic cells in the stomach releases HCl to deactivate the SZA</span> [salivary alpha amylase]."</p><ul><li><p><strong>Option 0 (Chief cells):</strong> Chief cells are known to secrete pepsinogen, not HCl.</p></li><li><p><strong>Option 1 (G-cells):</strong> G-cells secrete gastrin, a hormone that stimulates HCl secretion, but they do not directly release HCl.</p></li><li><p><strong>Option 2 (Oxyntic cells):</strong> This option directly matches the information in the document as the cells responsible for releasing HCl.</p></li><li><p><strong>Option 3 (Mucous cells):</strong> Mucous cells secrete mucus to protect the stomach lining, not HCl.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly names oxyntic cells as the source of HCl that deactivates salivary amylase.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Oxyntic cells</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Oxyntic cells" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which of the following is NOT a division of the small intestine?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Duodenum" },
+        { "type": "string", "content": "Ileum" },
+        { "type": "string", "content": "Colon" },
+        { "type": "string", "content": "Jejunum" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Digestive System Anatomy", "Small Intestine"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Divisions of the Small Intestine</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Small intestine:</em> The primary site for digestion and absorption of nutrients, divided into three main sections.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is not a division of the small intestine.</div><p><strong>Step 1: List the divisions of the small intestine from the document.</strong></p><p>The document explicitly lists the divisions of the small intestine as: <span style='color:var(--orange);font-weight:bold;'>Duodenum, Jejunum, and Ileum</span>.</p><ul><li><p><strong>Option 0 (Duodenum):</strong> This is listed as a division of the small intestine.</p></li><li><p><strong>Option 1 (Ileum):</strong> This is listed as a division of the small intestine.</p></li><li><p><strong>Option 2 (Colon):</strong> The colon is a part of the <span style='color:var(--orange);font-weight:bold;'>large intestine</span>, not the small intestine. It is not mentioned as a division of the small intestine in the document.</p></li><li><p><strong>Option 3 (Jejunum):</strong> This is listed as a division of the small intestine.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The question uses a NOT format, requiring identification of the incorrect option among the small intestine divisions. The colon is part of the large intestine.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Colon</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Colon" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which enzyme is a key component of pancreatic juice responsible for carbohydrate digestion in the duodenum?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Lactase" },
+        { "type": "string", "content": "Pancreatic amylase" },
+        { "type": "string", "content": "Sucrase" },
+        { "type": "string", "content": "Maltase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Carbohydrate Digestion", "Pancreatic Enzymes", "Duodenum"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Duodenal Carbohydrate Digestion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Pancreatic juice:</em> Fluid secreted by the pancreas into the duodenum, containing enzymes like pancreatic amylase for carbohydrate digestion.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a key enzyme in pancreatic juice involved in carbohydrate digestion in the duodenum.</div><p><strong>Step 1: Locate information on pancreatic juice composition.</strong></p><p>The document states that "As partially digested food enters the duodenum the chyme is mixed in pancreatic juice which is secreted by the pancreas. The pancreatic juice consists of <span style='color:var(--orange);font-weight:bold;'>pancreatic amylase</span>."</p><ul><li><p><strong>Option 0 (Lactase):</strong> Lactase is a <span style='color:var(--orange);font-weight:bold;'>brush border enzyme</span> in the jejunum, not a component of pancreatic juice.</p></li><li><p><strong>Option 1 (Pancreatic amylase):</strong> This enzyme is explicitly mentioned as a component of pancreatic juice and functions in the duodenum to break down carbohydrates.</p></li><li><p><strong>Option 2 (Sucrase):</strong> Sucrase is also a <span style='color:var(--orange);font-weight:bold;'>brush border enzyme</span> in the jejunum, not in pancreatic juice.</p></li><li><p><strong>Option 3 (Maltase):</strong> Maltase is another <span style='color:var(--orange);font-weight:bold;'>brush border enzyme</span> in the jejunum, not in pancreatic juice.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Pancreatic amylase is the specific enzyme listed as part of pancreatic juice for carbohydrate digestion.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Pancreatic amylase</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Pancreatic amylase" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "What is the primary role of bile in carbohydrate digestion?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To emulsify fats, aiding their digestion" },
+        { "type": "string", "content": "To provide an acidic environment for pancreatic amylase" },
+        { "type": "string", "content": "To create an alkaline environment for pancreatic juice enzymes" },
+        { "type": "string", "content": "To directly break down complex carbohydrates" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Carbohydrate Digestion", "Bile Function", "Enzyme Environment"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of Bile in Digestion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Bile:</em> A digestive fluid produced by the liver and stored in the gallbladder, released into the duodenum to aid digestion, particularly by affecting enzyme activity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary role of bile in carbohydrate digestion.</div><p><strong>Step 1: Locate information on bile's function.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>Bile helps create an alkaline environment for the pancreatic juice enzyme such as pancreatic amylase to function properly</span>."</p><ul><li><p><strong>Option 0 (To emulsify fats, aiding their digestion):</strong> While bile is known to emulsify fats, the question specifically asks about its role in <span style='color:var(--orange);font-weight:bold;'>carbohydrate digestion</span>. The document attributes its role in carbohydrate digestion to creating an alkaline environment.</p></li><li><p><strong>Option 1 (To provide an acidic environment for pancreatic amylase):</strong> This is incorrect; the document explicitly states bile creates an <span style='color:var(--orange);font-weight:bold;'>alkaline environment</span>.</p></li><li><p><strong>Option 2 (To create an alkaline environment for pancreatic juice enzymes):</strong> This option directly matches the document's description of bile's function in carbohydrate digestion, enabling enzymes like pancreatic amylase to work.</p></li><li><p><strong>Option 3 (To directly break down complex carbohydrates):</strong> Bile does not contain enzymes that directly break down carbohydrates; its role is to create the correct environment for enzymes.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document specifies bile's role in creating an alkaline environment, crucial for pancreatic amylase, in the context of carbohydrate digestion.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To create an alkaline environment for pancreatic juice enzymes</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To create an alkaline environment for pancreatic juice enzymes" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which part of the small intestine is primarily responsible for the absorption of simple sugars?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Ileum" },
+        { "type": "string", "content": "Duodenum" },
+        { "type": "string", "content": "Jejunum" },
+        { "type": "string", "content": "Colon" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Carbohydrate Absorption", "Small Intestine"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sugar Absorption in the Small Intestine</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Jejunum:</em> The middle section of the small intestine, characterized by its brush border, which is highly adapted for nutrient absorption, especially simple sugars.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the primary site for simple sugar absorption in the small intestine.</div><p><strong>Step 1: Locate information on sugar absorption in the jejunum.</strong></p><p>The document states: "In The Jejunum: It consist of a brush border; Here the carbohydrates aren't heavily digested, just that the <span style='color:var(--orange);font-weight:bold;'>Jejunum is responsible for absorption of the simple sugars gotten from the Duodenum</span>."</p><ul><li><p><strong>Option 0 (Ileum):</strong> The ileum is primarily involved in the absorption of vitamin B12 and bile salts, not simple sugars.</p></li><li><p><strong>Option 1 (Duodenum):</strong> The duodenum is mainly involved in digestion, where chyme mixes with pancreatic juice and bile. While some absorption can occur, it's not the primary site for simple sugars.</p></li><li><p><strong>Option 2 (Jejunum):</strong> This option directly matches the document's description as the primary site for simple sugar absorption.</p></li><li><p><strong>Option 3 (Colon):</strong> The colon (large intestine) is primarily involved in water and electrolyte absorption, and microbial fermentation, not simple sugar absorption.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The jejunum is explicitly identified as the section responsible for absorbing simple sugars.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Jejunum</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Jejunum" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which transporter protein is responsible for the absorption of glucose and galactose into intestinal cells (enterocytes), and is powered by a sodium gradient?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "GLUT2" },
+        { "type": "string", "content": "GLUT5" },
+        { "type": "string", "content": "SGLT1" },
+        { "type": "string", "content": "Na+/K+ ATPase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Carbohydrate Absorption", "Glucose Transport", "Intestinal Cells"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Glucose and Galactose Absorption</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>SGLT1 transporter:</em> A sodium-glucose co-transporter protein located on the apical membrane of enterocytes, responsible for the active absorption of glucose and galactose from the intestinal lumen, powered by a sodium gradient.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific transporter protein for glucose and galactose absorption into enterocytes, driven by a sodium gradient.</div><p><strong>Step 1: Locate information on glucose and galactose absorption.</strong></p><p>The document states: "Glucose and Galactose absorption: After they have been broken down further, these sugars enter the enterocytes (intestinal cells) through active transport using the <span style='color:var(--orange);font-weight:bold;'>SGLT1 transporter is powered by a sodium gradient</span>."</p><ul><li><p><strong>Option 0 (GLUT2):</strong> GLUT2 is responsible for moving sugars from <span style='color:var(--orange);font-weight:bold;'>intestinal cells to the bloodstream</span> (basolateral side), not from the lumen into the enterocytes.</p></li><li><p><strong>Option 1 (GLUT5):</strong> GLUT5 is responsible for <span style='color:var(--orange);font-weight:bold;'>fructose absorption into intestinal cells</span> via facilitated transport, not for glucose and galactose active transport with a sodium gradient.</p></li><li><p><strong>Option 2 (SGLT1):</strong> This option directly matches the document's description for glucose and galactose absorption into enterocytes, powered by a sodium gradient.</p></li><li><p><strong>Option 3 (Na+/K+ ATPase):</strong> While the Na+/K+ ATPase maintains the sodium gradient that powers SGLT1, it is not the transporter that directly moves glucose and galactose into the enterocytes itself.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>SGLT1 is explicitly stated as the sodium-gradient dependent transporter for glucose and galactose into enterocytes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ SGLT1</p></div>"
+    },
+    "Answer": { "type": "string", "content": "SGLT1" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which of the following is the correct definition of the enzyme Maltase?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Breaks down lactose into glucose and galactose" },
+        { "type": "string", "content": "Breaks down sucrose into glucose and fructose" },
+        { "type": "string", "content": "Hydrolyzes dextrins into individual glucose units" },
+        { "type": "string", "content": "Hydrolyzes maltose to glucose" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Brush Border Enzymes", "Carbohydrate Digestion", "Enzyme Function"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Brush Border Enzymes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Maltase:</em> A disaccharidase enzyme secreted by the succus entericus, responsible for the final breakdown of maltose into two glucose molecules for absorption.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific function of the enzyme Maltase.</div><p><strong>Step 1: Locate the functions of enzymes secreted via the succus entericus.</strong></p><p>The document lists enzymes and their functions: "<span style='color:var(--orange);font-weight:bold;'>Maltase: Maltose to glucose + glucose</span>".</p><ul><li><p><strong>Option 0 (Breaks down lactose into glucose and galactose):</strong> This is the function of <span style='color:var(--orange);font-weight:bold;'>Lactase</span>.</p></li><li><p><strong>Option 1 (Breaks down sucrose into glucose and fructose):</strong> This is the function of <span style='color:var(--orange);font-weight:bold;'>Sucrase</span>.</p></li><li><p><strong>Option 2 (Hydrolyzes dextrins into individual glucose units):</strong> This is the function of <span style='color:var(--orange);font-weight:bold;'>Dextrinase</span>.</p></li><li><p><strong>Option 3 (Hydrolyzes maltose to glucose):</strong> This option accurately describes the function of Maltase as stated in the document.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document directly specifies Maltase's action on maltose to yield glucose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Hydrolyzes maltose to glucose</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Hydrolyzes maltose to glucose" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Where does glycolysis primarily occur within the cell?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Mitochondria" },
+        { "type": "string", "content": "Lysosomes" },
+        { "type": "string", "content": "Cytoplasm" },
+        { "type": "string", "content": "Nucleus" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glycolysis", "Cellular Location"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cellular Respiration Pathways</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Glycolysis:</em> The metabolic pathway that breaks down glucose into pyruvate, generating ATP and NADH.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the cellular location where glycolysis primarily takes place.</div><p><strong>Step 1: Locate information on the location of glycolysis.</strong></p><p>The document explicitly states: "<span style='color:var(--orange);font-weight:bold;'>glycolysis - In the cytoplasm</span>".</p><ul><li><p><strong>Option 0 (Mitochondria):</strong> The Kreb's cycle (TCA cycle) and electron transport chain occur in the mitochondria, but not glycolysis itself.</p></li><li><p><strong>Option 1 (Lysosomes):</strong> Lysosomes are involved in waste breakdown and recycling, not central metabolic pathways like glycolysis.</p></li><li><p><strong>Option 2 (Cytoplasm):</strong> This option correctly identifies the primary cellular location for glycolysis as stated in the document.</p></li><li><p><strong>Option 3 (Nucleus):</strong> The nucleus primarily houses genetic material and is involved in transcription and replication, not glycolysis.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly distinguishes the locations of glycolysis (cytoplasm) and the Kreb's cycle (mitochondria).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cytoplasm</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cytoplasm" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "How many irreversible steps are identified in glycolysis according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Two" },
+        { "type": "string", "content": "Three" },
+        { "type": "string", "content": "Four" },
+        { "type": "string", "content": "One" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glycolysis", "Irreversible Steps"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Glycolysis Irreversible Steps</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Irreversible steps in glycolysis:</em> Specific reactions within the glycolytic pathway that are highly exergonic and regulated, preventing direct reversal by the same enzymes, thus requiring bypass reactions in gluconeogenesis.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the number of irreversible steps in glycolysis.</div><p><strong>Step 1: Count the listed irreversible steps.</strong></p><p>The document section "how many Irreversible steps in glycolysis" lists <span style='color:var(--orange);font-weight:bold;'>three</span> specific steps:</p><p>1. Glucose → Glucose 6-phosphate (Glucokinase)</p><p>2. Fructose 6-phosphate → Fructose 1,6-biphosphate (Phosphofructokinase)</p><p>3. Pyruvate kinase steps (Phosphoenol pyruvate to pyruvate)</p><ul><li><p><strong>Option 0 (Two):</strong> This is incorrect; the document lists three distinct steps.</p></li><li><p><strong>Option 1 (Three):</strong> This option correctly reflects the number of irreversible steps identified in the document.</p></li><li><p><strong>Option 2 (Four):</strong> This is incorrect; only three steps are listed.</p></li><li><p><strong>Option 3 (One):</strong> This is incorrect; multiple steps are identified as irreversible.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly enumerates three irreversible steps in glycolysis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Three</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Three" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which of the following primary structures of protein synthesis involves the building of proteins from existing DNA structures?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Catabolism" },
+        { "type": "string", "content": "Degradation" },
+        { "type": "string", "content": "Anabolism" },
+        { "type": "string", "content": "Hydrolysis" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Protein Synthesis", "Anabolism", "Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Protein Synthesis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Anabolism:</em> The metabolic process of synthesizing complex molecules from simpler ones, requiring energy. In protein synthesis, this involves building proteins from DNA instructions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term describing the building of proteins from existing DNA structures.</div><p><strong>Step 1: Locate information on how proteins are synthesized.</strong></p><p>The document states: "How Proteins are Synthesized.. This is called <span style='color:var(--orange);font-weight:bold;'>anabolism of it. Here cells build proteins From excisting structures called DNA</span>."</p><ul><li><p><strong>Option 0 (Catabolism):</strong> Catabolism is the <span style='color:var(--orange);font-weight:bold;'>breaking down of bigger molecules to smaller ones</span>, which is the opposite of building proteins.</p></li><li><p><strong>Option 1 (Degradation):</strong> Degradation refers to the breakdown of proteins, which is part of catabolism, not synthesis.</p></li><li><p><strong>Option 2 (Anabolism):</strong> This option correctly identifies anabolism as the process of building proteins from existing DNA structures.</p></li><li><p><strong>Option 3 (Hydrolysis):</strong> Hydrolysis is a chemical reaction involving the breaking of a bond by water, often associated with catabolic processes like digestion.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Anabolism is the biological process of 'building up,' which directly applies to protein synthesis from DNA.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Anabolism</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Anabolism" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which process in protein synthesis involves RNA reading DNA templates in the nucleus to synthesize mRNA?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Translation" },
+        { "type": "string", "content": "Replication" },
+        { "type": "string", "content": "Transcription" },
+        { "type": "string", "content": "Post-translational modification" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Protein Synthesis", "Gene Expression", "Transcription"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Protein Synthesis: Transcription</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Transcription:</em> The process where genetic information from a DNA segment is copied into an RNA molecule (mRNA) in the nucleus, serving as an intermediate step in protein synthesis.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the process where RNA reads DNA templates in the nucleus to synthesize mRNA.</div><p><strong>Step 1: Locate information on DNA and RNA processes in protein synthesis.</strong></p><p>The document describes anabolism processes, including "DNA transcription and translation." It further details: "<span style='color:var(--orange);font-weight:bold;'>Transcription. In the nucleus RANA reads the DNA Templates and copies the it and synthesizes the RNA to sustain the cell. The mRNA processes it. (processing)</span>".</p><ul><li><p><strong>Option 0 (Translation):</strong> Translation is the process where <span style='color:var(--orange);font-weight:bold;'>mRNA is used as a template to synthesize a protein</span>, occurring on ribosomes, not RNA reading DNA in the nucleus.</p></li><li><p><strong>Option 1 (Replication):</strong> Replication is the process of <span style='color:var(--orange);font-weight:bold;'>copying DNA to make more DNA</span>, not involving RNA reading DNA templates for protein synthesis.</p></li><li><p><strong>Option 2 (Transcription):</strong> This option accurately describes the process where RNA reads DNA templates and synthesizes mRNA in the nucleus.</p></li><li><p><strong>Option 3 (Post-translational modification):</strong> This occurs <span style='color:var(--orange);font-weight:bold;'>after protein synthesis</span>, involving chemical changes to the protein, not the initial RNA synthesis from DNA.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Transcription is the correct term for synthesizing mRNA from a DNA template.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Transcription</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Transcription" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What is the term for the process where protein links are removed via transamination or hydrolysis to form amino acids, ammonia, and carbon structure?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Anabolism" },
+        { "type": "string", "content": "Proteolysis" },
+        { "type": "string", "content": "Glycogenesis" },
+        { "type": "string", "content": "Translation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Protein Catabolism", "Proteolysis"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Protein Catabolism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Proteolysis:</em> The enzymatic breakdown of proteins into smaller polypeptides or amino acids, involving the removal of peptide links through processes like hydrolysis or transamination.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term describing the removal of protein links via transamination or hydrolysis to yield amino acids, ammonia, and carbon structures.</div><p><strong>Step 1: Locate information on protein catabolism.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>Proteolysis is also the removal of protein links via transamination or hydrolysis to form amino acids (Ammonia and Carbon structure)</span>." It also identifies "Proteolysis or digestion" as a step involved in catabolism.</p><ul><li><p><strong>Option 0 (Anabolism):</strong> Anabolism is the <span style='color:var(--orange);font-weight:bold;'>building up</span> of complex molecules, which is the opposite of breaking down proteins.</p></li><li><p><strong>Option 1 (Proteolysis):</strong> This option correctly identifies the process described, which involves the breakdown of proteins into smaller components.</p></li><li><p><strong>Option 2 (Glycogenesis):</strong> Glycogenesis is the <span style='color:var(--orange);font-weight:bold;'>synthesis of glycogen</span>, a carbohydrate storage process, unrelated to protein breakdown.</p></li><li><p><strong>Option 3 (Translation):</strong> Translation is the synthesis of proteins from mRNA, part of anabolism, not catabolism.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Proteolysis is the specific term used for the breakdown of protein links as described.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Proteolysis</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Proteolysis" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Which of the following is NOT listed as a function of proteins?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Enzymatic processes" },
+        { "type": "string", "content": "Energy source" },
+        { "type": "string", "content": "Hormonal regulation" },
+        { "type": "string", "content": "Genetic information storage" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Protein Functions", "Biological Roles"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Functions of Proteins</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Proteins:</em> Macromolecules with diverse functions, including structural support, catalysis, transport, defense, regulation, and energy.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a listed function of proteins.</div><p><strong>Step 1: Review the listed functions of proteins.</strong></p><p>The document lists the following functions: "<span style='color:var(--orange);font-weight:bold;'>Growth and repair, enzymatic processes, structural components, hormones, Immune functions, Storage Functions, pH balance, Energy source</span>".</p><ul><li><p><strong>Option 0 (Enzymatic processes):</strong> This is explicitly listed as a function of proteins.</p></li><li><p><strong>Option 1 (Energy source):</strong> This is explicitly listed as a function of proteins.</p></li><li><p><strong>Option 2 (Hormonal regulation):</strong> "Hormones" are listed, implying a regulatory role, which means hormonal regulation is a function.</p></li><li><p><strong>Option 3 (Genetic information storage):</strong> <span style='color:var(--orange);font-weight:bold;'>DNA (and RNA in some viruses) is responsible for genetic information storage</span>, not proteins. This function is not listed in the document for proteins.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Genetic information storage is a primary role of nucleic acids (DNA/RNA), not proteins. All other options are explicitly stated or implied as protein functions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Genetic information storage</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Genetic information storage" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The transfer of an amino group (-NH2) from one amino acid to a keto acid, forming a new amino acid and a new keto acid, is defined as what process?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Hydrolysis" },
+        { "type": "string", "content": "Deamination" },
+        { "type": "string", "content": "Transamination" },
+        { "type": "string", "content": "Decarboxylation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Amino Acid Metabolism", "Transamination"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amino Acid Metabolism: Transamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Transamination:</em> A reversible biochemical reaction involving the transfer of an amino group from an amino acid to a keto acid, resulting in the formation of a new amino acid and a new keto acid.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the process involving the transfer of an amino group from an amino acid to a keto acid.</div><p><strong>Step 1: Locate the definition of transamination.</strong></p><p>The document defines "Transamination" as: "<span style='color:var(--orange);font-weight:bold;'>The transfer of amino acids (groups) from one group of another. The amino group (GNH2) of an amino acid is transfered to a keto acid, forming a new amino acid and a new keto acid</span>."</p><ul><li><p><strong>Option 0 (Hydrolysis):</strong> Hydrolysis involves the <span style='color:var(--orange);font-weight:bold;'>breaking of a bond using water</span>, not the transfer of an amino group.</p></li><li><p><strong>Option 1 (Deamination):</strong> Deamination is the <span style='color:var(--orange);font-weight:bold;'>removal of an amino group</span> from a compound, specifically yielding ammonia, not a transfer to form a new amino acid and keto acid.</p></li><li><p><strong>Option 2 (Transamination):</strong> This option precisely matches the definition provided in the document.</p></li><li><p><strong>Option 3 (Decarboxylation):</strong> Decarboxylation is the <span style='color:var(--orange);font-weight:bold;'>removal of a carboxyl group</span>, typically releasing CO2, not an amino group transfer.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The definition provided in the question exactly matches the description of transamination.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Transamination</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Transamination" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which enzyme is responsible for catalyzing the transamination reaction between Alanine and α-ketoglutarate to form Pyruvate and Glutamate?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Glutamate dehydrogenase" },
+        { "type": "string", "content": "Alanine transaminase (ALT)" },
+        { "type": "string", "content": "Aspartate transaminase (AST)" },
+        { "type": "string", "content": "Pyruvate kinase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Amino Acid Metabolism", "Transaminases", "Enzymes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Alanine Transamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Alanine transaminase (ALT):</em> An enzyme that catalyzes the reversible transfer of an amino group from alanine to α-ketoglutarate, forming pyruvate and glutamate.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the enzyme catalyzing the transamination of Alanine and α-ketoglutarate.</div><p><strong>Step 1: Locate the example of transamination involving Alanine.</strong></p><p>The document provides an example: "<span style='color:var(--orange);font-weight:bold;'>Alanine + α-ketoglutarate (via ALT/Alanine transaminase) → Pyruvate + Glutamate</span>. The enzyme responsible for this reaction is alanine transamifase."</p><ul><li><p><strong>Option 0 (Glutamate dehydrogenase):</strong> This enzyme is involved in the <span style='color:var(--orange);font-weight:bold;'>deamination of glutamate</span>, not the transamination of alanine.</p></li><li><p><strong>Option 1 (Alanine transaminase (ALT)):</strong> This option directly matches the enzyme identified in the document for the given reaction.</p></li><li><p><strong>Option 2 (Aspartate transaminase (AST)):</strong> AST catalyzes the transamination of aspartate, not alanine.</p></li><li><p><strong>Option 3 (Pyruvate kinase):</strong> Pyruvate kinase is an enzyme in <span style='color:var(--orange);font-weight:bold;'>glycolysis</span>, responsible for converting phosphoenolpyruvate to pyruvate, not for transamination.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly names Alanine transaminase (ALT) for the reaction involving alanine.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Alanine transaminase (ALT)</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Alanine transaminase (ALT)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "How many stages does the urea cycle involve, and where do the first two stages take place?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Three stages, all in the cytoplasm" },
+        { "type": "string", "content": "Five stages, first two in the mitochondria" },
+        { "type": "string", "content": "Four stages, first two in the cytoplasm" },
+        { "type": "string", "content": "Five stages, all in the mitochondria" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Urea Cycle", "Cellular Location", "Amino Acid Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Urea Cycle</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Urea cycle:</em> A metabolic pathway that detoxifies ammonia by converting it into urea for excretion, with stages occurring in both the mitochondria and cytoplasm.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the number of stages in the urea cycle and the location of its first two stages.</div><p><strong>Step 1: Locate information on the urea cycle stages and locations.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>Urea cycle: It involves 5 stages: first 2 is in the mitochondria, 3,4,5 is in the cytoplasm</span>."</p><ul><li><p><strong>Option 0 (Three stages, all in the cytoplasm):</strong> This is incorrect as the urea cycle has five stages, and not all are in the cytoplasm.</p></li><li><p><strong>Option 1 (Five stages, first two in the mitochondria):</strong> This option correctly states the number of stages and the location of the first two stages as per the document.</p></li><li><p><strong>Option 2 (Four stages, first two in the cytoplasm):</strong> This is incorrect; the urea cycle has five stages, and the first two are in the mitochondria.</p></li><li><p><strong>Option 3 (Five stages, all in the mitochondria):</strong> This is incorrect as stages 3, 4, and 5 occur in the cytoplasm.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly outlines the five stages of the urea cycle and the specific cellular locations for its initial steps.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Five stages, first two in the mitochondria</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Five stages, first two in the mitochondria" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What is the primary diagnostic use of serum creatine estimation, which is derived from glycine?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Assessing liver function" },
+        { "type": "string", "content": "Evaluating pancreatic function" },
+        { "type": "string", "content": "Assessing kidney function" },
+        { "type": "string", "content": "Detecting muscle disorders" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glycine Metabolism", "Clinical Diagnostics", "Kidney Function"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Glycine Metabolism and Clinical Significance</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Serum creatine:</em> A waste product from muscle metabolism, primarily creatine phosphate, which is filtered by the kidneys. Its level in the blood is a useful indicator of kidney function.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary diagnostic use of serum creatine estimation.</div><p><strong>Step 1: Locate information on glycine and serum creatine.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>Glycine: Creatine is gotten from glycine. Estimation of serum creatine Is used as a diagnostic test for accessing kidney function</span>."</p><ul><li><p><strong>Option 0 (Assessing liver function):</strong> Liver function tests typically involve enzymes like ALT, AST, and bilirubin, not primarily serum creatine.</p></li><li><p><strong>Option 1 (Evaluating pancreatic function):</strong> Pancreatic function is assessed using enzymes like amylase and lipase.</p></li><li><p><strong>Option 2 (Assessing kidney function):</strong> This option directly matches the diagnostic use mentioned in the document for serum creatine.</p></li><li><p><strong>Option 3 (Detecting muscle disorders):</strong> While creatine kinase (CK) levels are used for muscle damage, the document specifically links serum creatine to kidney function.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly states serum creatine estimation is a diagnostic test for kidney function.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Assessing kidney function</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Assessing kidney function" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Which enzyme converts phenylalanine to tyrosine?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Tyrosine hydroxylase" },
+        { "type": "string", "content": "Phenylalanine hydroxylase" },
+        { "type": "string", "content": "DOPA decarboxylase" },
+        { "type": "string", "content": "Tyrosinase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Phenylalanine Metabolism", "Enzymes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Phenylalanine to Tyrosine Conversion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Phenylalanine hydroxylase:</em> A monooxygenase enzyme that catalyzes the hydroxylation of phenylalanine to tyrosine, a crucial step in amino acid metabolism.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the enzyme responsible for converting phenylalanine to tyrosine.</div><p><strong>Step 1: Locate information on phenylalanine metabolism.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>An enzyme called phenylalanine hydrolase converts phenylalanine to tyrosine</span>." (Note: 'hydrolase' is a typo and should be 'hydroxylase', but I will use the document's term if the options reflect it, otherwise assume common knowledge for clarification if needed, but since it's a specific enzyme, I will stick to what is clearly written.)</p><ul><li><p><strong>Option 0 (Tyrosine hydroxylase):</strong> Tyrosine hydroxylase catalyzes the conversion of tyrosine to DOPA, a step in catecholamine synthesis.</p></li><li><p><strong>Option 1 (Phenylalanine hydroxylase):</strong> This option, despite the slight typo in the document as 'hydrolase', clearly refers to the enzyme that converts phenylalanine to tyrosine.</p></li><li><p><strong>Option 2 (DOPA decarboxylase):</strong> This enzyme converts DOPA to dopamine.</p></li><li><p><strong>Option 3 (Tyrosinase):</strong> Tyrosinase is involved in melanin synthesis, converting tyrosine to melanin precursors.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly names "phenylalanine hydrolase" (hydroxylase) as the enzyme converting phenylalanine to tyrosine.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Phenylalanine hydroxylase</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Phenylalanine hydroxylase" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which of the following is a primary function of norepinephrine and epinephrine as stated in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Regulating blood glucose levels by stimulating glucose uptake" },
+        { "type": "string", "content": "Stimulating the degradation of triglyceride and glycogen" },
+        { "type": "string", "content": "Decreasing blood pressure" },
+        { "type": "string", "content": "Directly synthesizing thyroid hormones" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Catecholamines", "Hormone Function", "Metabolism Regulation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Functions of Catecholamines</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Norepinephrine and Epinephrine:</em> Catecholamine hormones and neurotransmitters involved in the "fight or flight" response, impacting various metabolic processes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a primary function of norepinephrine and epinephrine as described in the document.</div><p><strong>Step 1: Locate the functions of catecholamines.</strong></p><p>The document lists: "Functions of Catecholamines: 1. <span style='color:var(--orange);font-weight:bold;'>Norepinephrine and epinephrine neglets carbohydrates and lipid metabolism by stimulating the degradation of trigglycerol and glycogen</span>. 2. Increase in Blood pressure. 3. Dopamine and neopinefrine Serve as neuro transmitter in brain and autonomic nervous system".</p><ul><li><p><strong>Option 0 (Regulating blood glucose levels by stimulating glucose uptake):</strong> The document states they stimulate degradation of glycogen, which would <span style='color:var(--orange);font-weight:bold;'>increase blood glucose</span>, not stimulate uptake.</p></li><li><p><strong>Option 1 (Stimulating the degradation of triglyceride and glycogen):</strong> This option directly matches the document's description of their effect on carbohydrate and lipid metabolism.</p></li><li><p><strong>Option 2 (Decreasing blood pressure):</strong> The document states they cause an <span style='color:var(--orange);font-weight:bold;'>increase in blood pressure</span>.</p></li><li><p><strong>Option 3 (Directly synthesizing thyroid hormones):</strong> The document states thyroid hormones are <span style='color:var(--orange);font-weight:bold;'>produced from tyrosine</span>, alongside epinephrine, but does not state epinephrine directly synthesizes them.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly states norepinephrine and epinephrine stimulate the degradation of triglyceride and glycogen.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Stimulating the degradation of triglyceride and glycogen</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Stimulating the degradation of triglyceride and glycogen" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "What is the primary cause of Parkinson's Disease as described in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Accumulation of phenylalanine in tissues" },
+        { "type": "string", "content": "Deficiency of phenylalanine hydroxylase" },
+        { "type": "string", "content": "Decreased production of dopamine" },
+        { "type": "string", "content": "Absence of homogentisate oxidase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Parkinson's Disease", "Neurotransmitters", "Dopamine"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Parkinson's Disease</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Parkinson's Disease:</em> A progressive neurodegenerative disorder characterized by motor symptoms like tremors and rigidity, resulting from the loss of dopamine-producing neurons in the brain.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary cause of Parkinson's Disease according to the document.</div><p><strong>Step 1: Locate information on Parkinson's Disease.</strong></p><p>The document states: "Parkinson's Disease Characterized by muscles rigidity tremors, expressionless face, Lethargy and Involuntary movement. <span style='color:var(--orange);font-weight:bold;'>Caused by decrease production of dopamine</span>."</p><ul><li><p><strong>Option 0 (Accumulation of phenylalanine in tissues):</strong> This is characteristic of <span style='color:var(--orange);font-weight:bold;'>Phenylketonuria (PKU)</span>.</p></li><li><p><strong>Option 1 (Deficiency of phenylalanine hydroxylase):</strong> This enzyme deficiency causes <span style='color:var(--orange);font-weight:bold;'>PKU</span>.</p></li><li><p><strong>Option 2 (Decreased production of dopamine):</strong> This option directly matches the cause of Parkinson's Disease stated in the document.</p></li><li><p><strong>Option 3 (Absence of homogentisate oxidase):</strong> This enzyme deficiency causes <span style='color:var(--orange);font-weight:bold;'>Alkaptonuria</span>.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly links Parkinson's Disease to decreased dopamine production.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Decreased production of dopamine</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Decreased production of dopamine" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Alkaptonuria, also known as 'black urine disease', is characterized by the absence of which enzyme?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Tyrosine transaminase" },
+        { "type": "string", "content": "Phenylalanine hydroxylase" },
+        { "type": "string", "content": "Homogentisate oxidase" },
+        { "type": "string", "content": "Fumarylacetoacetate hydrolase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Alkaptonuria", "Inborn Errors of Metabolism", "Tyrosine Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Alkaptonuria</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Alkaptonuria:</em> An autosomal recessive metabolic disorder characterized by the accumulation of homogentisic acid due to a deficiency in homogentisate oxidase, leading to black urine and ochronosis.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the enzyme whose absence characterizes Alkaptonuria.</div><p><strong>Step 1: Locate information on Alkaptonuria.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>Alkaptonuria (Black urine) Inborn error of tyrosine metabolism which is due to absence of homogentisate oxidase</span>."</p><ul><li><p><strong>Option 0 (Tyrosine transaminase):</strong> This enzyme is involved in tyrosine catabolism, but its deficiency is not described as causing alkaptonuria.</p></li><li><p><strong>Option 1 (Phenylalanine hydroxylase):</strong> The absence of this enzyme causes <span style='color:var(--orange);font-weight:bold;'>Phenylketonuria (PKU)</span>.</p></li><li><p><strong>Option 2 (Homogentisate oxidase):</strong> This option directly matches the enzyme whose absence causes alkaptonuria as described in the document.</p></li><li><p><strong>Option 3 (Fumarylacetoacetate hydrolase):</strong> This enzyme deficiency causes <span style='color:var(--orange);font-weight:bold;'>Tyrosinemia Type I</span>, not alkaptonuria.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly identifies the absence of homogentisate oxidase as the cause of Alkaptonuria.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Homogentisate oxidase</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Homogentisate oxidase" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Which cycle describes the metabolic pathway where lactic acid from skeletal muscle is transported to the liver, converted to glucose, and then returned to the muscle?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Krebs Cycle" },
+        { "type": "string", "content": "Cahill's Cycle" },
+        { "type": "string", "content": "Cori Cycle" },
+        { "type": "string", "content": "Urea Cycle" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cori Cycle", "Lactic Acid Metabolism", "Glucose Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cori Cycle</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Cori Cycle:</em> A metabolic pathway involving the interconversion of lactate and glucose between the liver and skeletal muscles, primarily to prevent lactic acidosis during intense anaerobic exercise.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the cycle involving lactic acid transport from muscle to liver, conversion to glucose, and return to muscle.</div><p><strong>Step 1: Locate the description of the Cori Cycle.</strong></p><p>The document describes the Cori Cycle as: "<span style='color:var(--orange);font-weight:bold;'>This ametabolic pathway that transports lactic acid produce din the skeletal muscle dining anaerobic glycolysis to the liver where it is converted to glucose via gluconeogenesis, and the glucose returns back to the skeletal muscle for oxidation and energy generation</span>."</p><ul><li><p><strong>Option 0 (Krebs Cycle):</strong> The Krebs Cycle (Citric Acid Cycle) is a central metabolic pathway for <span style='color:var(--orange);font-weight:bold;'>oxidizing acetyl-CoA</span> to produce ATP, NADH, and FADH2, not primarily for lactate-glucose interconversion between organs.</p></li><li><p><strong>Option 1 (Cahill's Cycle):</strong> Cahill's Cycle (Glucose-Alanine Cycle) involves the <span style='color:var(--orange);font-weight:bold;'>transport of nitrogen (as alanine)</span> from muscle to liver, not lactic acid.</p></li><li><p><strong>Option 2 (Cori Cycle):</strong> This option perfectly matches the description provided in the question and in the document.</p></li><li><p><strong>Option 3 (Urea Cycle):</strong> The Urea Cycle is involved in the <span style='color:var(--orange);font-weight:bold;'>detoxification of ammonia</span> into urea, primarily in the liver, unrelated to lactic acid transport.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The description precisely matches the definition of the Cori Cycle.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cori Cycle</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cori Cycle" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "What is the primary function of Cahill's Cycle (Glucose-Alanine Cycle) during fasting and intense exercise?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To prevent lactic acidosis" },
+        { "type": "string", "content": "To transport fatty acids to the liver" },
+        { "type": "string", "content": "To transport nitrogen from muscle protein degradation to the liver" },
+        { "type": "string", "content": "To synthesize glucose from fatty acids in the muscle" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cahill's Cycle", "Glucose-Alanine Cycle", "Amino Acid Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cahill's Cycle (Glucose-Alanine Cycle)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Cahill's Cycle:</em> A metabolic pathway involving the liver and skeletal muscle, primarily responsible for transferring nitrogen (as alanine) from muscle to liver for urea synthesis, and returning glucose to muscle, especially during fasting or intense exercise.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary function of Cahill's Cycle during fasting and intense exercise.</div><p><strong>Step 1: Locate the description of Cahill's Cycle.</strong></p><p>The document describes Cahill's Cycle as: "<span style='color:var(--orange);font-weight:bold;'>Another metabolic pathway connecting the skeletal muscle and the liver, functioning during fasting and intense exercise to transport excess nitrogen from muscle protein degradation, to deliver where it is converted to glucose via gluconeogenesis and</span>..." It further states its purpose: "<span style='color:var(--orange);font-weight:bold;'>Safety measure that prevent ammonia toxicity in the muscle. (fasting). Also a source of glucose and energy for the fasting muscles</span>."</p><ul><li><p><strong>Option 0 (To prevent lactic acidosis):</strong> This is the primary function of the <span style='color:var(--orange);font-weight:bold;'>Cori Cycle</span>, not Cahill's Cycle.</p></li><li><p><strong>Option 1 (To transport fatty acids to the liver):</strong> Fatty acid transport is generally mediated by albumin, not Cahill's Cycle.</p></li><li><p><strong>Option 2 (To transport nitrogen from muscle protein degradation to the liver):</strong> This option directly matches the document's description of Cahill's Cycle's function in transporting nitrogen.</p></li><li><p><strong>Option 3 (To synthesize glucose from fatty acids in the muscle):</strong> Muscles typically do not synthesize glucose, and fatty acids cannot be converted to glucose (gluconeogenesis) in mammals.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly states Cahill's Cycle's role in transporting excess nitrogen from muscle to the liver.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To transport nitrogen from muscle protein degradation to the liver</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To transport nitrogen from muscle protein degradation to the liver" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "The transition reaction, converting pyruvate to acetyl CoA, occurs in which cellular compartment?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Cytoplasm" },
+        { "type": "string", "content": "Nucleus" },
+        { "type": "string", "content": "Mitochondria" },
+        { "type": "string", "content": "Endoplasmic reticulum" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Transition Reaction", "Cellular Location", "Carbohydrate Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transition Reaction Location</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Transition Reaction:</em> The metabolic step that links glycolysis to the Krebs cycle, involving the oxidative decarboxylation of pyruvate to form acetyl CoA.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the cellular location of the transition reaction (pyruvate to acetyl CoA).</div><p><strong>Step 1: Locate information on the transition reaction.</strong></p><p>The document, under the heading "Transition Reaction / Citric Acid / Krebcycle", states regarding pyruvate: "In the <span style='color:var(--orange);font-weight:bold;'>mitochondria acetyl CoA is born</span>."</p><ul><li><p><strong>Option 0 (Cytoplasm):</strong> Glycolysis occurs in the cytoplasm, but pyruvate must enter the mitochondria for the transition reaction.</p></li><li><p><strong>Option 1 (Nucleus):</strong> The nucleus is involved in genetic processes, not the transition reaction.</p></li><li><p><strong>Option 2 (Mitochondria):</strong> This option correctly identifies the mitochondria as the site where acetyl CoA is formed from pyruvate, indicating the location of the transition reaction.</p></li><li><p><strong>Option 3 (Endoplasmic reticulum):</strong> The endoplasmic reticulum is involved in protein and lipid synthesis, not the transition reaction.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly states acetyl CoA is formed in the mitochondria, which is where the transition reaction occurs.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Mitochondria</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Mitochondria" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "What is the total ATP yield from one molecule of glucose after its complete oxidation, as mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "32 ATP" },
+        { "type": "string", "content": "30 ATP" },
+        { "type": "string", "content": "38 ATP" },
+        { "type": "string", "content": "2 ATP" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["ATP Yield", "Complete Oxidation", "Cellular Respiration"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>ATP Yield from Glucose</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Complete oxidation of glucose:</em> The entire process of cellular respiration, including glycolysis, pyruvate oxidation, Krebs cycle, and oxidative phosphorylation, which fully breaks down glucose to CO2 and H2O, generating a significant amount of ATP.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the total ATP yield from one molecule of glucose upon complete oxidation, according to the document.</div><p><strong>Step 1: Locate information on total ATP yield from glucose.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>molecule of glucose to 38 ATP</span>" (Page 13) and also "ATP=35 molecules after the complete oxidation of glucose" (Page 15).</p><p>Given the two values, I will prioritize the one that explicitly states 'molecule of glucose to 38 ATP' as a direct calculation result, and use this value for the answer. The value 35 ATP is given in an assignment context.</p><ul><li><p><strong>Option 0 (32 ATP):</strong> This is a commonly cited theoretical yield, but not the one explicitly stated as a direct conversion in the document's main text.</p></li><li><p><strong>Option 1 (30 ATP):</strong> This value appears in a simplified calculation (10x3=30ATP) in a separate context from the direct total yield.</p></li><li><p><strong>Option 2 (38 ATP):</strong> This option is directly stated in the document as the yield from one molecule of glucose.</p></li><li><p><strong>Option 3 (2 ATP):</strong> This is the net ATP yield from glycolysis alone, not the complete oxidation of glucose.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document directly states "molecule of glucose to 38 ATP", which is the most definitive statement for total yield.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 38 ATP</p></div>"
+    },
+    "Answer": { "type": "string", "content": "38 ATP" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "What is the final electron acceptor in the electron transport chain during tissue respiration?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "NADH" },
+        { "type": "string", "content": "FADH2" },
+        { "type": "string", "content": "Oxygen" },
+        { "type": "string", "content": "Cytochrome C" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electron Transport Chain", "Cellular Respiration", "Oxygen"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Electron Transport Chain</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Electron Transport Chain (ETC):</em> A series of protein complexes and electron carriers located in the inner mitochondrial membrane, which transfer electrons from reducing equivalents (NADH and FADH2) to a final electron acceptor, generating a proton gradient for ATP synthesis.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the final electron acceptor in the electron transport chain during tissue respiration.</div><p><strong>Step 1: Locate information on the final electron acceptor in the ETC.</strong></p><p>The document states: "It is the transper of elections from reducing equivalent, along series of electron comers located in the mitochondria with <span style='color:var(--orange);font-weight:bold;'>oxygen as the Final acceptor</span>." And later: "The Final election acceptor in tissue respiration is <span style='color:var(--orange);font-weight:bold;'>oxygen</span>."</p><ul><li><p><strong>Option 0 (NADH):</strong> NADH is a <span style='color:var(--orange);font-weight:bold;'>reducing equivalent</span> that donates electrons to the ETC, not an acceptor.</p></li><li><p><strong>Option 1 (FADH2):</strong> FADH2 is also a <span style='color:var(--orange);font-weight:bold;'>reducing equivalent</span> that donates electrons, not an acceptor.</p></li><li><p><strong>Option 2 (Oxygen):</strong> This option directly matches the document's statement that oxygen is the final electron acceptor.</p></li><li><p><strong>Option 3 (Cytochrome C):</strong> Cytochrome C is an <span style='color:var(--orange);font-weight:bold;'>electron carrier</span> within the ETC, transferring electrons between complexes, but it is not the *final* acceptor.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly identifies oxygen as the final electron acceptor in the ETC.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Oxygen</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Oxygen" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Which of the following is an uncoupler that damages the inner mitochondrial membrane, allowing protons to bypass ATP synthase?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Rotenone" },
+        { "type": "string", "content": "Cyanide" },
+        { "type": "string", "content": "2,4-dinitrophenol" },
+        { "type": "string", "content": "Antimycin" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electron Transport Chain", "Uncouplers", "Oxidative Phosphorylation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Uncouplers of Oxidative Phosphorylation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Uncouplers:</em> Substances that dissipate the proton gradient across the inner mitochondrial membrane by creating a pathway for protons to return to the matrix without passing through ATP synthase, thereby "uncoupling" electron transport from ATP synthesis.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an uncoupler that damages the inner mitochondrial membrane, allowing protons to bypass ATP synthase.</div><p><strong>Step 1: Locate information on uncouplers.</strong></p><p>The document states: "<span style='color:var(--orange);font-weight:bold;'>Substances that creater holes or damage the inner mitochondria membrane, Causing protons to be trasfered from the Intermembrane space back to the mitochonchial membrane without passing through Atp synthase enzyme. It destroys the electrochemical gradients and also stops the formation of protomotive force</span>." It then lists "<span style='color:var(--orange);font-weight:bold;'>2,4 dinitrophenol - are uncouplers</span>."</p><ul><li><p><strong>Option 0 (Rotenone):</strong> Rotenone is an <span style='color:var(--orange);font-weight:bold;'>inhibitor of Complex 1</span> of the ETC, not an uncoupler.</p></li><li><p><strong>Option 1 (Cyanide):</strong> Cyanide is an <span style='color:var(--orange);font-weight:bold;'>inhibitor of Complex 4</span> of the ETC, not an uncoupler.</p></li><li><p><strong>Option 2 (2,4-dinitrophenol):</strong> This option is explicitly listed as an uncoupler in the document, matching the description.</p></li><li><p><strong>Option 3 (Antimycin):</strong> Antimycin is an <span style='color:var(--orange);font-weight:bold;'>inhibitor of Complex 3</span> of the ETC, not an uncoupler.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly identifies 2,4-dinitrophenol as an uncoupler with the described mechanism of action.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ 2,4-dinitrophenol</p></div>"
+    },
+    "Answer": { "type": "string", "content": "2,4-dinitrophenol" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Where does gluconeogenesis primarily occur within the body?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Skeletal muscles" },
+        { "type": "string", "content": "Adipose tissue" },
+        { "type": "string", "content": "Brain" },
+        { "type": "string", "content": "Liver" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Gluconeogenesis", "Cellular Location", "Metabolic Pathways"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Site of Gluconeogenesis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Gluconeogenesis:</em> The metabolic pathway that synthesizes glucose from non-carbohydrate precursors, crucial for maintaining blood glucose levels during fasting.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary site of gluconeogenesis in the body.</div><p><strong>Step 1: Locate information on the site of gluconeogenesis.</strong></p><p>The document states: "Site: Takes place in the cytoplasm and the mitochondria, but <span style='color:var(--orange);font-weight:bold;'>occurs mainly in the liver</span>. The liver contains the enzyme glucose 6-phosphatase."</p><ul><li><p><strong>Option 0 (Skeletal muscles):</strong> Skeletal muscles can store glycogen but <span style='color:var(--orange);font-weight:bold;'>do not perform gluconeogenesis to release glucose into the bloodstream</span> because they lack glucose 6-phosphatase.</p></li><li><p><strong>Option 1 (Adipose tissue):</strong> Adipose tissue stores triglycerides and releases fatty acids, but it is not a primary site for gluconeogenesis.</p></li><li><p><strong>Option 2 (Brain):</strong> The brain is a major consumer of glucose but <span style='color:var(--orange);font-weight:bold;'>does not perform gluconeogenesis</span>.</p></li><li><p><strong>Option 3 (Liver):</strong> This option directly matches the document's statement that gluconeogenesis occurs mainly in the liver.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly states that gluconeogenesis occurs mainly in the liver.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Liver</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Liver" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Which of the following is a non-carbohydrate precursor for gluconeogenesis listed in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Fatty acids" },
+        { "type": "string", "content": "Alanine" },
+        { "type": "string", "content": "Acetyl CoA" },
+        { "type": "string", "content": "Glucose 6-phosphate" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Gluconeogenesis", "Precursors"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gluconeogenesis Precursors</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Gluconeogenesis precursors:</em> Non-carbohydrate molecules that can be converted into glucose through the gluconeogenic pathway, such as certain amino acids, lactate, and glycerol.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a listed non-carbohydrate precursor for gluconeogenesis.</div><p><strong>Step 1: Locate the list of non-carbohydrate precursors.</strong></p><p>The document lists: "The non-carbohydrate precursors are: <span style='color:var(--orange);font-weight:bold;'>Amino acids, Lactic acid, Glycerol, Propionyl CoA</span>." It further specifies that Alanine is a precursor to pyruvate, which can then enter gluconeogenesis.</p><ul><li><p><strong>Option 0 (Fatty acids):</strong> Fatty acids (in mammals) <span style='color:var(--orange);font-weight:bold;'>cannot be directly converted to glucose</span> because the overall reaction of acetyl CoA to pyruvate is irreversible. They are not listed as direct precursors.</p></li><li><p><strong>Option 1 (Alanine):</strong> Alanine is an <span style='color:var(--orange);font-weight:bold;'>amino acid</span>, and amino acids are explicitly listed as precursors. Alanine specifically converts to pyruvate, which is a gluconeogenic precursor.</p></li><li><p><strong>Option 2 (Acetyl CoA):</strong> Acetyl CoA cannot be a net precursor for gluconeogenesis in mammals because its carbons are lost as CO2 in the Krebs cycle. It is also not listed as a direct precursor.</p></li><li><p><strong>Option 3 (Glucose 6-phosphate):</strong> Glucose 6-phosphate is an <span style='color:var(--orange);font-weight:bold;'>intermediate of glucose metabolism</span>, not a non-carbohydrate precursor from which glucose is synthesized *de novo*.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>Alanine, being an amino acid, is a gluconeogenic precursor as categorized by the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Alanine</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Alanine" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What is the rate-limiting enzyme in de novo pyrimidine synthesis?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Thymidylate synthase" },
+        { "type": "string", "content": "Dihydrofolate reductase" },
+        { "type": "string", "content": "Aspartate transcarbamoylase" },
+        { "type": "string", "content": "Ribonucleotide reductase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pyrimidine Synthesis", "Rate-Limiting Step", "Nucleic Acid Metabolism"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>De Novo Pyrimidine Synthesis Regulation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Aspartate transcarbamoylase (ATCase):</em> The enzyme that catalyzes the first committed step in pyrimidine biosynthesis, the condensation of carbamoyl phosphate and aspartate to form carbamoyl aspartate, and is a key regulatory point.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the rate-limiting enzyme in de novo pyrimidine synthesis.</div><p><strong>Step 1: Locate information on pyrimidine synthesis and its regulation.</strong></p><p>The document states: "The First tree enzymes exists in a multi enzyme complex. (<span style='color:var(--orange);font-weight:bold;'>Magor Linte amiling) stap is catalysed by Aspartate transcarbamoylase</span> (DATP CTP LNG. The second step)".</p><ul><li><p><strong>Option 0 (Thymidylate synthase):</strong> This enzyme is involved later in the pathway, converting dUMP to dTMP, not the initial rate-limiting step.</p></li><li><p><strong>Option 1 (Dihydrofolate reductase):</strong> This enzyme is involved in <span style='color:var(--orange);font-weight:bold;'>regenerating tetrahydrofolate</span>, crucial for nucleotide synthesis but not the rate-limiting step of pyrimidine synthesis itself.</p></li><li><p><strong>Option 2 (Aspartate transcarbamoylase):</strong> This option directly matches the enzyme identified as catalyzing the "Magor Linte amiling) stap" (major limiting step) in the document.</p></li><li><p><strong>Option 3 (Ribonucleotide reductase):</strong> This enzyme converts ribonucleotides to deoxyribonucleotides, a step in DNA precursor synthesis, but not the rate-limiting step of *de novo* pyrimidine synthesis.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly identifies Aspartate transcarbamoylase as the enzyme catalyzing the major limiting step in pyrimidine synthesis.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Aspartate transcarbamoylase</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Aspartate transcarbamoylase" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which enzyme in glycolysis is 'changed to fructose 1,6-bisphosphatase' during gluconeogenesis to bypass an irreversible step?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Glucokinase" },
+        { "type": "string", "content": "Pyruvate kinase" },
+        { "type": "string", "content": "Phosphofructokinase I" },
+        { "type": "string", "content": "Phosphoglucomutase" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Gluconeogenesis", "Glycolysis Bypass", "Enzymes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Gluconeogenesis Bypass Steps</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Gluconeogenesis bypass enzymes:</em> Specific enzymes that catalyze reactions to reverse the irreversible steps of glycolysis, such as Fructose 1,6-bisphosphatase.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which glycolysis enzyme is bypassed by "fructose 1,6-bisphosphatase" during gluconeogenesis, as described in the document.</div><p><strong>Step 1: Locate the bypass steps in gluconeogenesis.</strong></p><p>The document states for the bypass of the second irreversible step: "Then the Pep has been Converted backwards, we get to the 2nd step where the <span style='color:var(--orange);font-weight:bold;'>phosphofructokinase I enzyme is changed to fruc, 176-bisphosphate to yeild fructose 6 phosphate</span>". While the phrasing "changed to" is unusual, it indicates that Fructose 1,6-bisphosphatase bypasses the Phosphofructokinase I step.</p><ul><li><p><strong>Option 0 (Glucokinase):</strong> Glucokinase catalyzes the first irreversible step (glucose to glucose 6-phosphate), which is bypassed by glucose 6-phosphatase.</p></li><li><p><strong>Option 1 (Pyruvate kinase):</strong> Pyruvate kinase catalyzes the third irreversible step (phosphoenolpyruvate to pyruvate), bypassed by pyruvate carboxylase and PEP carboxykinase.</p></li><li><p><strong>Option 2 (Phosphofructokinase I):</strong> This option correctly identifies the enzyme from glycolysis that is bypassed by Fructose 1,6-bisphosphatase during gluconeogenesis, converting fructose 1,6-bisphosphate to fructose 6-phosphate.</p></li><li><p><strong>Option 3 (Phosphoglucomutase):</strong> This enzyme interconverts glucose 6-phosphate and glucose 1-phosphate, not involved in the irreversible steps of glycolysis that are bypassed.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document directly mentions phosphofructokinase I in the context of the bypass involving fructose 1,6-bisphosphatase.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Phosphofructokinase I</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Phosphofructokinase I" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Which of the following is an inborn error of glycogen metabolism (GSD) characterized by a deficiency of glucose 6-phosphatase, leading to hepatomegaly and glycogen accumulation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Pompe's Disease (Type II)" },
+        { "type": "string", "content": "Cori's Disease (Type III)" },
+        { "type": "string", "content": "Von Gierke Disease (Type I)" },
+        { "type": "string", "content": "McArdle's Disease (Type V)" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glycogen Storage Diseases", "Glucose 6-phosphatase Deficiency", "Inborn Errors"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Glycogen Storage Disease Type I</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Von Gierke Disease (GSD Type I):</em> An autosomal recessive disorder caused by a deficiency in glucose 6-phosphatase, which impairs the release of free glucose from the liver, leading to significant glycogen accumulation in the liver and kidneys.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the Glycogen Storage Disease (GSD) caused by a deficiency of glucose 6-phosphatase, resulting in hepatomegaly and glycogen accumulation.</div><p><strong>Step 1: Locate information on Glycogen Storage Diseases.</strong></p><p>The document lists GSD types and their causes: "Causes of these diseases: <span style='color:var(--orange);font-weight:bold;'>Type I → Defficency of glucose 6-phosphatase Hepatomegaly → accumulation of glycogen</span>."</p><ul><li><p><strong>Option 0 (Pompe's Disease (Type II)):</strong> This is caused by a deficiency of <span style='color:var(--orange);font-weight:bold;'>alpha-glucosidase (lysosomal)</span>, not glucose 6-phosphatase.</p></li><li><p><strong>Option 1 (Cori's Disease (Type III)):</strong> This is caused by a deficiency of <span style='color:var(--orange);font-weight:bold;'>debranching enzymes</span>.</p></li><li><p><strong>Option 2 (Von Gierke Disease (Type I)):</strong> This option directly matches the description provided for Type I GSD in the document.</p></li><li><p><strong>Option 3 (McArdle's Disease (Type V)):</strong> This is caused by a deficiency of <span style='color:var(--orange);font-weight:bold;'>muscle glycogen phosphorylase</span>.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document clearly attributes the described symptoms and enzyme deficiency to Von Gierke Disease (Type I).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Von Gierke Disease (Type I)</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Von Gierke Disease (Type I)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which coenzyme is required for the enzyme transketolase in the Pentose Phosphate Pathway?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "FAD" },
+        { "type": "string", "content": "NAD+" },
+        { "type": "string", "content": "Thiamine pyrophosphate (TPP)" },
+        { "type": "string", "content": "Pyridoxal phosphate" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pentose Phosphate Pathway", "Transketolase", "Coenzymes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transketolase Coenzyme</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Transketolase:</em> An enzyme in the non-oxidative phase of the Pentose Phosphate Pathway that transfers a two-carbon unit, requiring thiamine pyrophosphate (TPP) as a coenzyme.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the coenzyme required by transketolase.</div><p><strong>Step 1: Locate information on transketolase.</strong></p><p>The document explicitly states: "<span style='color:var(--orange);font-weight:bold;'>Translathiase coenzyme is thiamine pyrophosphate</span>." (Note: 'Translathiase' is a likely typo for 'Transketolase', given its context within the PPP discussion). Even if it refers to transaldolase, TPP is associated with transketolase, which is a common enzyme in PPP.</p><ul><li><p><strong>Option 0 (FAD):</strong> FAD (flavin adenine dinucleotide) is a coenzyme for dehydrogenases, such as succinate dehydrogenase in the Krebs cycle.</p></li><li><p><strong>Option 1 (NAD+):</strong> NAD+ (nicotinamide adenine dinucleotide) is a coenzyme for many dehydrogenases, including glyceraldehyde 3-phosphate dehydrogenase in glycolysis.</p></li><li><p><strong>Option 2 (Thiamine pyrophosphate (TPP)):</strong> This option directly matches the coenzyme specified for transketolase in the document.</p></li><li><p><strong>Option 3 (Pyridoxal phosphate):</strong> Pyridoxal phosphate (PLP) is a coenzyme for many enzymes involved in amino acid metabolism, such as transaminases.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document directly states thiamine pyrophosphate (TPP) as the coenzyme for transketolase (likely a typo as 'translathiase').</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Thiamine pyrophosphate (TPP)</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Thiamine pyrophosphate (TPP)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "What is the consequence of excess fructose in the body, as it relates to the formation of TAGs and their storage?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Increased protein synthesis and muscle growth" },
+        { "type": "string", "content": "Conversion to glucose and enhanced glycogen storage" },
+        { "type": "string", "content": "Formation of TAGs, leading to obesity and fatty liver" },
+        { "type": "string", "content": "Enhanced detoxification pathways and waste excretion" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Fructose Metabolism", "Lipid Synthesis", "Metabolic Disorders"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Excess Fructose Metabolism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Excess fructose:</em> When consumed in high amounts, fructose can be rapidly metabolized into acetyl CoA, promoting de novo lipogenesis (synthesis of fatty acids and triglycerides), which can lead to adverse health effects.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the consequence of excess fructose regarding TAG formation and storage.</div><p><strong>Step 1: Locate information on excess fructose metabolism.</strong></p><p>The document states: "When Beryl CoA is produced stan unregulate od Tormitzones as excess and then it forms <span style='color:var(--orange);font-weight:bold;'>TAGs</span>. Lihen TAGs are stored in <span style='color:var(--orange);font-weight:bold;'>adipose tissues inexcess it causes oberrey. But if it gets stored in the liver it causes Fatty liver</span>. Baces fructose causes <span style='color:var(--orange);font-weight:bold;'>obesity</span>."</p><ul><li><p><strong>Option 0 (Increased protein synthesis and muscle growth):</strong> Excess fructose is primarily linked to lipid synthesis, not protein synthesis.</p></li><li><p><strong>Option 1 (Conversion to glucose and enhanced glycogen storage):</strong> While fructose can be converted to glucose, the document highlights its excessive conversion to TAGs, leading to negative outcomes, not beneficial glycogen storage.</p></li><li><p><strong>Option 2 (Formation of TAGs, leading to obesity and fatty liver):</strong> This option directly matches the consequences described for excess fructose in the document.</p></li><li><p><strong>Option 3 (Enhanced detoxification pathways and waste excretion):</strong> This is not a described consequence of excess fructose.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly links excess fructose to TAG formation, storage in adipose tissue (obesity), and storage in the liver (fatty liver).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Formation of TAGs, leading to obesity and fatty liver</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Formation of TAGs, leading to obesity and fatty liver" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "What is the primary cause of Classical Galactosemia?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Deficiency of galactokinase" },
+        { "type": "string", "content": "Deficiency of UDP-glucose 4-epimerase" },
+        { "type": "string", "content": "Deficiency of Galactose 1-phosphate uridyltransferase (GALT)" },
+        { "type": "string", "content": "Excess production of galactitol" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Classical Galactosemia", "Galactose Metabolism", "Enzyme Deficiency"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classical Galactosemia</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Classical Galactosemia:</em> An inborn error of metabolism resulting from the deficiency of galactose-1-phosphate uridyltransferase (GALT), leading to the accumulation of galactose-1-phosphate and galactose.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary cause of Classical Galactosemia.</div><p><strong>Step 1: Locate information on Classical Galactosemia.</strong></p><p>The document states: "The clinical Importance is in the <span style='color:var(--orange);font-weight:bold;'>deficiency of Galactose 1-phosphate uridyltransferase causes Classical Galacteseria</span>."</p><ul><li><p><strong>Option 0 (Deficiency of galactokinase):</strong> This enzyme deficiency causes <span style='color:var(--orange);font-weight:bold;'>galactosemia Type II</span>, a milder form, not classical galactosemia.</p></li><li><p><strong>Option 1 (Deficiency of UDP-glucose 4-epimerase):</strong> This enzyme deficiency causes <span style='color:var(--orange);font-weight:bold;'>galactosemia Type III</span>, also not classical galactosemia.</p></li><li><p><strong>Option 2 (Deficiency of Galactose 1-phosphate uridyltransferase (GALT)):</strong> This option directly matches the cause of Classical Galactosemia stated in the document.</p></li><li><p><strong>Option 3 (Excess production of galactitol):</strong> Excess galactitol is a <span style='color:var(--orange);font-weight:bold;'>consequence of galactosemia</span> (due to galactose accumulation), not its primary cause.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>The document explicitly links Classical Galactosemia to the deficiency of Galactose 1-phosphate uridyltransferase.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Deficiency of Galactose 1-phosphate uridyltransferase (GALT)</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Deficiency of Galactose 1-phosphate uridyltransferase (GALT)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Explain the Cori Cycle, including its purpose, the organs involved, and the key metabolic interconversions that occur.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cori Cycle", "Lactic Acid Metabolism", "Glucose Metabolism", "Organ Interdependence"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The Cori Cycle (Lactate Cycle)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Cori Cycle:</em> A metabolic pathway involving the interconversion of lactate and glucose between skeletal muscles and the liver, primarily functioning to recycle lactate produced during anaerobic glycolysis in active muscles.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question requires an explanation of the Cori Cycle, covering its purpose, participating organs, and metabolic interconversions.</div><ul><li><p><strong>Purpose:</strong> The Cori Cycle is a mechanism that occurs during <span style='color:var(--orange);font-weight:bold;'>prolonged intense exercise</span> to <span style='color:var(--orange);font-weight:bold;'>prevent lactic acidosis</span>. It safely removes lactate from the muscles and regenerates glucose for muscle use, thus allowing sustained anaerobic activity.</p></li><li><p><strong>Organs Involved:</strong> The two primary organs involved are the <span style='color:var(--orange);font-weight:bold;'>skeletal muscles</span> and the <span style='color:var(--orange);font-weight:bold;'>liver</span>.</p></li><li><p><strong>Key Metabolic Interconversions:</strong></p><p><strong>Step 1: Lactate Production in Muscle:</strong> During anaerobic glycolysis in skeletal muscles (e.g., during intense exercise when oxygen supply is limited), <span style='color:var(--orange);font-weight:bold;'>glucose is converted to pyruvate</span>. When oxygen is scarce, pyruvate is then converted to <span style='color:var(--orange);font-weight:bold;'>lactic acid</span> by lactate dehydrogenase. This conversion regenerates NAD+ for continued glycolysis.</p><p><strong>Step 2: Transport to Liver:</strong> The accumulated lactic acid from the muscles is <span style='color:var(--orange);font-weight:bold;'>transported into the bloodstream</span> and travels to the liver.</p><p><strong>Step 3: Glucose Regeneration in Liver:</strong> In the liver, the lactic acid is converted back to <span style='color:var(--orange);font-weight:bold;'>pyruvate (oxidation)</span> by lactate dehydrogenase. This pyruvate then undergoes <span style='color:var(--orange);font-weight:bold;'>gluconeogenesis</span> (synthesis of new glucose from non-carbohydrate precursors) to form glucose.</p><p><strong>Step 4: Glucose Return to Muscle:</strong> The newly synthesized glucose in the liver is then released back into the bloodstream and transported to the skeletal muscles, where it can be used for <span style='color:var(--orange);font-weight:bold;'>oxidation and energy generation</span>, or stored as glycogen.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>A common pitfall is to confuse the Cori Cycle with the Glucose-Alanine (Cahill's) Cycle. While both involve muscle-liver inter-organ metabolism, the Cori Cycle specifically deals with lactate and glucose, whereas Cahill's Cycle involves alanine and nitrogen transport. Another mistake is omitting the anaerobic conditions in muscle that lead to lactate formation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Cori Cycle is a metabolic pathway that transports lactic acid produced in skeletal muscles during anaerobic glycolysis to the liver, where it is converted to glucose via gluconeogenesis, and this glucose then returns to the skeletal muscle for oxidation and energy generation. Its primary purpose is to prevent lactic acidosis during prolonged intense exercise by recycling lactate.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The Cori Cycle is a metabolic pathway that transports lactic acid produced in skeletal muscles during anaerobic glycolysis to the liver, where it is converted to glucose via gluconeogenesis, and this glucose then returns to the skeletal muscle for oxidation and energy generation. Its primary purpose is to prevent lactic acidosis during prolonged intense exercise by recycling lactate. The cycle involves several key interconversions:\n\n1.  **Lactate Production in Muscle:** During intense exercise, when oxygen supply is limited, skeletal muscles undergo anaerobic glycolysis, converting glucose to pyruvate. This pyruvate is then reduced to lactic acid (lactate) by lactate dehydrogenase, regenerating NAD+ to sustain glycolysis.\n\n2.  **Lactate Transport to Liver:** The lactic acid produced in the muscles is released into the bloodstream and transported to the liver.\n\n3.  **Glucose Regeneration in Liver:** In the liver, lactate is converted back to pyruvate. This pyruvate then serves as a precursor for gluconeogenesis, a process that synthesizes new glucose. The liver contains glucose 6-phosphatase, which allows it to release free glucose into the bloodstream.\n\n4.  **Glucose Return to Muscle:** The newly synthesized glucose from the liver is then released back into the general circulation and travels to the skeletal muscles, where it can be used as an energy source (oxidized) or stored as glycogen for future use." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Discuss the medical importance of the Pentose Phosphate Pathway, highlighting at least three key functions.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Pentose Phosphate Pathway", "Medical Importance", "NADPH", "Pentose Sugars", "Redox Homeostasis"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Medical Importance of the Pentose Phosphate Pathway (PPP)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Pentose Phosphate Pathway (PPP):</em> A metabolic pathway parallel to glycolysis that generates NADPH and the precursor pentose sugars for nucleotide biosynthesis. It occurs primarily in the cytoplasm of various tissues.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to discuss the medical importance of the PPP, focusing on at least three key functions.</div><ul><li><p><strong>1. Source of NADPH:</strong> The PPP is vital as it is the primary source of <span style='color:var(--orange);font-weight:bold;'>NADPH</span> (nicotinamide adenine dinucleotide phosphate). NADPH is a crucial <span style='color:var(--orange);font-weight:bold;'>reducing equivalent</span> essential for many <span style='color:var(--orange);font-weight:bold;'>biosynthetic pathways</span>, including the synthesis of fatty acids, cholesterol, and sterols. Tissues like the liver, adipose tissue, and mammary glands, which are active in lipid synthesis, have high PPP activity.</p></li><li><p><strong>2. Reduction of Glutathione and Protection Against Oxidative Stress:</strong> NADPH also plays a critical role in maintaining the reduced state of <span style='color:var(--orange);font-weight:bold;'>glutathione</span>. Glutathione, in its reduced form (GSH), is vital for the conversion of <span style='color:var(--orange);font-weight:bold;'>hydrogen peroxide into water</span>, particularly in the plasma membrane of <span style='color:var(--orange);font-weight:bold;'>red blood cells (erythrocytes)</span>. This process, facilitated by glutathione reductase, prevents the accumulation of highly reactive free radicals and hydrogen peroxide, thereby protecting cells from oxidative damage and destruction of membranes and hemoglobin.</p></li><li><p><strong>3. Source of Pentose Sugars:</strong> The PPP provides <span style='color:var(--orange);font-weight:bold;'>pentose sugars</span>, particularly ribose 5-phosphate. These sugars are essential precursors for the biosynthesis of <span style='color:var(--orange);font-weight:bold;'>nucleotides</span> (DNA and RNA) and various coenzymes (e.g., ATP, NADH, FADH2, Coenzyme A). Tissues with high rates of cell division (e.g., bone marrow, skin) have active PPP to supply these building blocks.</p></li><li><p><strong>4. Role in Red Blood Cell Function (Diapedesis):</strong> The document mentions that the PPP contributes to the <span style='color:var(--orange);font-weight:bold;'>diapedesis ability of red blood cells</span>, which is their capacity to move in and out of cells to deliver oxygen. This function is also linked to maintaining RBC integrity and flexibility through the management of oxidative stress.</p></li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-bottom:15px;'>A common error is to confuse NADPH with NADH. NADPH is primarily involved in anabolic reactions and antioxidant defense, while NADH is mainly used in ATP production via the electron transport chain. Ensuring the distinction is clear is crucial for a complete answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Pentose Phosphate Pathway (PPP), also known as the hexose monophosphate shunt, is medically important due to its crucial roles in generating NADPH and pentose sugars. Firstly, it is the primary source of NADPH, a reducing equivalent essential for various biosynthetic pathways, including the synthesis of fatty acids, sterols, and cholesterol. Secondly, NADPH is vital for maintaining cellular redox homeostasis by reducing glutathione, which helps convert harmful hydrogen peroxide into water and protects red blood cells from oxidative damage caused by free radicals. Thirdly, the PPP provides pentose sugars (like ribose 5-phosphate), which are indispensable precursors for the synthesis of nucleotides (DNA and RNA), thereby supporting cell proliferation and genetic processes. Additionally, it supports the diapedesis ability of red blood cells, enabling their efficient oxygen delivery.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The Pentose Phosphate Pathway (PPP), also known as the hexose monophosphate shunt, is medically important due to its crucial roles in generating NADPH and pentose sugars. Firstly, it is the primary source of NADPH, a reducing equivalent essential for various biosynthetic pathways, including the synthesis of fatty acids, sterols, and cholesterol. Secondly, NADPH is vital for maintaining cellular redox homeostasis by reducing glutathione, which helps convert harmful hydrogen peroxide into water and protects red blood cells from oxidative damage caused by free radicals. Thirdly, the PPP provides pentose sugars (like ribose 5-phosphate), which are indispensable precursors for the synthesis of nucleotides (DNA and RNA), thereby supporting cell proliferation and genetic processes. Additionally, it supports the diapedesis ability of red blood cells, enabling their efficient oxygen delivery." }
+  }
+]
+```
