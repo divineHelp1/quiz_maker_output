@@ -1,0 +1,1036 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Waves, Optics and Thermal Physics",
+    "code": "PHY 115.2",
+    "session": "PHY 115.2 MOCK EXAM  by user kingchris86 1jZMM",
+    "kind": "mixed",
+    "topics": [
+      "Thermometric Scale Conversion",
+      "Heat and Temperature",
+      "Temperature Definition",
+      "First Law of Thermodynamics",
+      "Thermodynamics",
+      "Law of Reflection",
+      "Geometrical Optics",
+      "Nature of Sound Waves",
+      "Sound Waves",
+      "Thermometric Fixed Points",
+      "Specific Heat Capacity",
+      "Refraction",
+      "Sound Characteristics",
+      "Real Images",
+      "Heat vs. Temperature",
+      "Thermal Equilibrium",
+      "Heat Capacity",
+      "Zeroth Law of Thermodynamics",
+      "Laws of Reflection",
+      "Real vs. Virtual Image",
+      "Refractive Index",
+      "Sound Wave Definition",
+      "Speed of Sound",
+      "Types of Thermometers",
+      "Thermal Expansion",
+      "Second Law of Thermodynamics",
+      "Internal Energy",
+      "Work in Thermodynamics",
+      "Lens Types",
+      "Focal Length",
+      "Total Internal Reflection",
+      "Longitudinal Waves",
+      "Resonance",
+      "Diffraction",
+      "Specific Latent Heat"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Multiple Choice Questions (OBJ)"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Given an unknown temperature scale with a lower fixed point of 20 units and an upper fixed point of 120 units. If a reading of 70 units is observed on this scale, what is the corresponding temperature 'T' on the Celsius scale?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "25 °C"
+        },
+        {
+          "type": "string",
+          "content": "40 °C"
+        },
+        {
+          "type": "string",
+          "content": "50 °C"
+        },
+        {
+          "type": "string",
+          "content": "60 °C"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermometric Scale Conversion",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermometric Scale Conversion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For any linear temperature scale, the ratio of the difference between a temperature reading and its lower fixed point to the range between its upper and lower fixed points is constant. Mathematically, this is expressed as: <br><code>(Reading - LFP) / (UFP - LFP) = Constant</code><br>When converting between two scales (e.g., an unknown scale 'X' and Celsius 'C'): <br><code>(X_reading - X_LFP) / (X_UFP - X_LFP) = (C_reading - C_LFP) / (C_UFP - C_LFP)</code><br>For Celsius, LFP = 0 °C and UFP = 100 °C.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em><ul><li>Unknown scale (X): Lower Fixed Point (LFP) = <span style='color:var(--orange);font-weight:bold;'>20 units</span>, Upper Fixed Point (UFP) = <span style='color:var(--orange);font-weight:bold;'>120 units</span>, Reading = <span style='color:var(--orange);font-weight:bold;'>70 units</span>.</li><li>Celsius scale (C): LFP = <span style='color:var(--orange);font-weight:bold;'>0 °C</span>, UFP = <span style='color:var(--orange);font-weight:bold;'>100 °C</span>.</li><li>We need to find the corresponding Celsius temperature, <span style='color:var(--orange);font-weight:bold;'>T</span>.</li></ul></div><p><strong>Step 1: Set up the conversion equation.</strong><br>Using the general conversion formula:<br><code>(70 - 20) / (120 - 20) = (T - 0) / (100 - 0)</code></p><p><strong>Step 2: Simplify both sides of the equation.</strong><br>For the unknown scale:<br><code>(70 - 20) = 50</code><br><code>(120 - 20) = 100</code><br>So, the left side becomes: <code>50 / 100 = 0.5</code></p><p>For the Celsius scale:<br><code>(T - 0) = T</code><br><code>(100 - 0) = 100</code><br>So, the right side becomes: <code>T / 100</code></p><p><strong>Step 3: Solve for T.</strong><br>Equating both simplified sides:<br><code>0.5 = T / 100</code><br>Multiply both sides by 100:<br><code>T = 0.5 * 100</code><br><code>T = 50</code></p><ul><li><span style='color:var(--cAns);font-weight:bold;'>50 °C:</span> This is the correct calculation based on the provided formula and fixed points.</li><li>25 °C: This would imply a different ratio or calculation error, e.g., if the range was halved.</li><li>40 °C: This is a plausible distractor, perhaps from a miscalculation of the range or an incorrect subtraction.</li><li>60 °C: This also suggests a miscalculation, possibly if the reading was higher or the fixed points were different.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The formula <span style='color:var(--orange);font-weight:bold;'>(X - LFP_X) / (UFP_X - LFP_X) = (C - LFP_C) / (UFP_C - LFP_C)</span> ensures a linear mapping between the scales. If the unknown scale's range (100 units) corresponds to the Celsius range (100 degrees), then a midpoint on the unknown scale (70 units, which is exactly halfway between 20 and 120) should correspond to the midpoint on the Celsius scale (50 °C). Our calculation confirms this linear relationship.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The corresponding temperature 'T' on the Celsius scale is 50 °C.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "50 °C"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following best describes temperature in a thermodynamic sense?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The total internal energy of a system."
+        },
+        {
+          "type": "string",
+          "content": "The transfer of thermal energy between objects."
+        },
+        {
+          "type": "string",
+          "content": "A measure of the average kinetic energy of the particles within a substance."
+        },
+        {
+          "type": "string",
+          "content": "The amount of heat required to change the state of a substance."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Temperature Definition",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Temperature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Temperature:</em> A quantitative measure of the average translational kinetic energy of the microscopic particles (atoms, molecules, ions) within a system. It determines the direction of heat flow between two systems in thermal contact.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request for the best description of temperature in a thermodynamic context.</div><p><strong>Step 1: Analyze the definition of temperature.</strong><br>Temperature is a macroscopic property that indicates the 'hotness' or 'coldness' of an object. At a microscopic level, this sensation arises from the motion of the particles that make up the substance. Higher kinetic energy of these particles corresponds to a higher temperature.</p><ul><li>The total internal energy of a system: Internal energy includes kinetic and potential energies of particles, not just the average kinetic energy, and also includes chemical bonds. While related, it's not solely temperature.</li><li>The transfer of thermal energy between objects: This describes <span style='color:var(--orange);font-weight:bold;'>heat</span>, which is energy in transit due to a temperature difference, not temperature itself.</li><li><span style='color:var(--cAns);font-weight:bold;'>A measure of the average kinetic energy of the particles within a substance:</span> This is the most accurate and widely accepted microscopic definition of temperature.</li><li>The amount of heat required to change the state of a substance: This describes <span style='color:var(--orange);font-weight:bold;'>latent heat</span>, which is related to phase changes and not directly the definition of temperature.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> When two objects at different temperatures are placed in thermal contact, heat flows from the object with higher average kinetic energy (higher temperature) to the one with lower average kinetic energy (lower temperature) until thermal equilibrium is reached. This fundamental principle underscores the kinetic energy interpretation of temperature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Temperature is best described as a measure of the average kinetic energy of the particles within a substance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A measure of the average kinetic energy of the particles within a substance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The First Law of Thermodynamics is essentially a statement of the conservation of which quantity?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Temperature"
+        },
+        {
+          "type": "string",
+          "content": "Entropy"
+        },
+        {
+          "type": "string",
+          "content": "Pressure"
+        },
+        {
+          "type": "string",
+          "content": "Energy"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "First Law of Thermodynamics",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Law of Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>First Law of Thermodynamics:</em> States that energy cannot be created or destroyed in an isolated system; rather, it can only be transformed from one form to another. In terms of a system, the change in its internal energy (ΔU) is equal to the heat (Q) added to the system minus the work (W) done by the system: <code>ΔU = Q - W</code>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question asking for the conserved quantity associated with the First Law of Thermodynamics.</div><p><strong>Step 1: Recall the statement and implications of the First Law.</strong><br>The First Law of Thermodynamics is often called the <span style='color:var(--orange);font-weight:bold;'>Law of Conservation of Energy</span> applied to thermodynamic systems. It establishes a relationship between internal energy, heat, and work, all of which are forms or transfers of energy.</p><ul><li>Temperature: Temperature is a measure of average kinetic energy, not a quantity that is conserved by the First Law.</li><li>Entropy: Entropy is a measure of disorder, and the Second Law of Thermodynamics deals with its tendencies (it generally increases in isolated systems), but it's not the quantity conserved by the First Law.</li><li>Pressure: Pressure is a force per unit area and is not the conserved quantity described by the First Law.</li><li><span style='color:var(--cAns);font-weight:bold;'>Energy:</span> The First Law of Thermodynamics is a fundamental statement about the conservation of total energy within a system and its surroundings, particularly in the context of heat and work transformations.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If energy were not conserved, a system could spontaneously create or destroy energy, violating a foundational principle of physics. The First Law ensures that any change in the internal energy of a system must be accounted for by the heat exchanged with its surroundings or the work done by or on it.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The First Law of Thermodynamics is a statement of the conservation of energy.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Energy"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "When a ray of light strikes a plane mirror, the angle of incidence is always equal to the...",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Angle of refraction"
+        },
+        {
+          "type": "string",
+          "content": "Angle of diffraction"
+        },
+        {
+          "type": "string",
+          "content": "Angle of reflection"
+        },
+        {
+          "type": "string",
+          "content": "Critical angle"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Law of Reflection",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Law of Reflection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Law of Reflection:</em> States that when light reflects off a surface, the angle of incidence (the angle between the incident ray and the normal to the surface) is equal to the angle of reflection (the angle between the reflected ray and the normal). The incident ray, the reflected ray, and the normal all lie in the same plane.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A scenario where a light ray strikes a plane mirror.</div><p><strong>Step 1: Understand the phenomenon of reflection.</strong><br>Reflection is the bouncing back of light when it hits a surface. For a smooth surface like a plane mirror, reflection follows specific laws.</p><ul><li>Angle of refraction: This applies to <span style='color:var(--orange);font-weight:bold;'>refraction</span> (bending of light as it passes through different media), not reflection from a mirror.</li><li>Angle of diffraction: This applies to <span style='color:var(--orange);font-weight:bold;'>diffraction</span> (spreading of waves as they pass through an aperture or around an obstacle), not reflection.</li><li><span style='color:var(--cAns);font-weight:bold;'>Angle of reflection:</span> This is one of the fundamental laws of reflection. The angle at which light strikes a mirror (angle of incidence) is precisely the angle at which it leaves the mirror (angle of reflection).</li><li>Critical angle: This is a specific angle of incidence related to <span style='color:var(--orange);font-weight:bold;'>total internal reflection</span>, which occurs when light travels from a denser to a rarer medium, not for reflection from a plane mirror.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This principle is easily observed and is the basis for how mirrors work, allowing us to see clear images. Without this law, light would scatter unpredictably, and mirrors would not function as they do.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When a light ray strikes a plane mirror, the angle of incidence is always equal to the angle of reflection.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Angle of reflection"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Sound waves are characterized as which type of wave?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Transverse electromagnetic waves"
+        },
+        {
+          "type": "string",
+          "content": "Longitudinal mechanical waves"
+        },
+        {
+          "type": "string",
+          "content": "Transverse mechanical waves"
+        },
+        {
+          "type": "string",
+          "content": "Longitudinal electromagnetic waves"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nature of Sound Waves",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of Sound Waves</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Mechanical Wave:</em> A wave that requires a medium (solid, liquid, or gas) to propagate. <br><em>Longitudinal Wave:</em> A wave in which the oscillations of the medium's particles are parallel to the direction of energy propagation. Sound waves are longitudinal because they consist of compressions and rarefactions that travel in the same direction as the wave itself.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question asking for the classification of sound waves.</div><p><strong>Step 1: Determine if sound waves are mechanical or electromagnetic.</strong><br>Sound requires a medium (like air, water, or solids) to travel. It cannot travel through a vacuum. This characteristic immediately classifies it as a <span style='color:var(--orange);font-weight:bold;'>mechanical wave</span>.</p><p><strong>Step 2: Determine if sound waves are longitudinal or transverse.</strong><br>In a sound wave, the particles of the medium oscillate back and forth parallel to the direction the sound energy is traveling. This type of oscillation, involving compressions and rarefactions, defines a <span style='color:var(--orange);font-weight:bold;'>longitudinal wave</span>.</p><ul><li>Transverse electromagnetic waves: This describes light waves, which do not require a medium and have oscillations perpendicular to propagation.</li><li><span style='color:var(--cAns);font-weight:bold;'>Longitudinal mechanical waves:</span> This accurately describes sound waves, as they require a medium and involve particle oscillations parallel to wave propagation.</li><li>Transverse mechanical waves: These are mechanical waves where particle oscillations are perpendicular to wave propagation (e.g., waves on a string). Sound waves are not transverse.</li><li>Longitudinal electromagnetic waves: This is a contradiction, as electromagnetic waves are transverse, and sound waves are not electromagnetic.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The requirement of a medium for sound propagation is why sound cannot travel in space, unlike light. The compressions and rarefactions observed in sound directly demonstrate its longitudinal nature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sound waves are characterized as longitudinal mechanical waves.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Longitudinal mechanical waves"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "In a typical thermometric scale, the lower fixed point is commonly defined by which physical phenomenon?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "The boiling point of water"
+        },
+        {
+          "type": "string",
+          "content": "The triple point of water"
+        },
+        {
+          "type": "string",
+          "content": "The freezing point of water"
+        },
+        {
+          "type": "string",
+          "content": "The melting point of lead"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermometric Fixed Points",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermometric Fixed Points</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Fixed Points:</em> Precisely reproducible temperatures used to calibrate thermometers and define temperature scales. For the Celsius scale, the two primary fixed points are the ice point (freezing point of water) and the steam point (boiling point of water) at standard atmospheric pressure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about the common definition of the lower fixed point for thermometric scales.</div><p><strong>Step 1: Identify common fixed points.</strong><br>Historically and for common scales like Celsius and Fahrenheit, the fixed points are tied to the phase changes of water, which are easily reproducible.</p><ul><li>The boiling point of water: This defines the <span style='color:var(--orange);font-weight:bold;'>upper fixed point</span> (e.g., 100 °C, 212 °F).</li><li>The triple point of water: This is a more modern and precise single fixed point used for the Kelvin scale (0.01 °C or 273.16 K), where water, ice, and water vapor coexist in equilibrium. It is not typically considered the *lower* fixed point in the context of common two-point scales.</li><li><span style='color:var(--cAns);font-weight:bold;'>The freezing point of water:</span> This is universally recognized as the <span style='color:var(--orange);font-weight:bold;'>lower fixed point</span> for the Celsius (0 °C) and Fahrenheit (32 °F) scales, often referred to as the ice point.</li><li>The melting point of lead: While a fixed point, it's not a *commonly defined* lower fixed point for standard temperature scales.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The ice point provides a stable and easily achievable reference for the lower end of many practical temperature scales, forming the basis for their calibration.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The lower fixed point in a typical thermometric scale is commonly defined by the freezing point of water.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The freezing point of water"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "The amount of heat required to raise the temperature of a unit mass of a substance by one degree Celsius is known as its...",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Latent heat"
+        },
+        {
+          "type": "string",
+          "content": "Heat capacity"
+        },
+        {
+          "type": "string",
+          "content": "Thermal conductivity"
+        },
+        {
+          "type": "string",
+          "content": "Specific heat capacity"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Specific Heat Capacity",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Specific Heat Capacity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Heat Capacity (C):</em> The amount of heat energy required to change the temperature of an entire object or system by one degree Celsius (or Kelvin). Its unit is J/K or J/°C.<br><em>Specific Heat Capacity (c):</em> The amount of heat energy required to change the temperature of a <span style='color:var(--orange);font-weight:bold;'>unit mass</span> of a substance by one degree Celsius (or Kelvin). Its unit is J/(kg·K) or J/(kg·°C).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A definition concerning the heat required to change the temperature of a unit mass.</div><p><strong>Step 1: Analyze the key phrase \"unit mass\".</strong><br>The addition of \"unit mass\" (e.g., 1 kg or 1 g) distinguishes this property from the general heat capacity of an object. When a property is normalized by mass, it becomes 'specific'.</p><ul><li>Latent heat: This is the heat absorbed or released during a phase change (e.g., melting, boiling) <span style='color:var(--orange);font-weight:bold;'>without a change in temperature</span>.</li><li>Heat capacity: This refers to the heat required to raise the temperature of an <span style='color:var(--orange);font-weight:bold;'>entire object</span> by one degree, without specifying mass.</li><li>Thermal conductivity: This is a measure of a material's ability to conduct heat, related to heat transfer, not the amount of heat to raise temperature.</li><li><span style='color:var(--cAns);font-weight:bold;'>Specific heat capacity:</span> This precisely matches the definition given: heat per unit mass per degree temperature change.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Specific heat capacity is an intrinsic property of a material, meaning it doesn't depend on the size or amount of the substance, unlike heat capacity which is an extensive property. This distinction is crucial in thermodynamic calculations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The amount of heat required to raise the temperature of a unit mass of a substance by one degree Celsius is known as its specific heat capacity.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Specific heat capacity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "The bending of light as it passes from one medium to another is known as...",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Reflection"
+        },
+        {
+          "type": "string",
+          "content": "Diffraction"
+        },
+        {
+          "type": "string",
+          "content": "Refraction"
+        },
+        {
+          "type": "string",
+          "content": "Dispersion"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Refraction",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Refraction of Light</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Refraction:</em> The change in direction (bending) of a wave, such as light, when it passes from one medium to another. This phenomenon is caused by the change in the wave's speed as it enters a different medium.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A description of light bending as it passes between different media.</div><p><strong>Step 1: Evaluate each option based on its definition in optics.</strong><br></p><ul><li>Reflection: This is the bouncing back of light when it strikes a surface and does not pass into a new medium.</li><li>Diffraction: This is the spreading out of light waves as they pass through an aperture or around the edge of an obstacle.</li><li><span style='color:var(--cAns);font-weight:bold;'>Refraction:</span> This perfectly matches the description. When light travels from one medium (e.g., air) to another (e.g., water or glass), its speed changes, causing it to bend (change direction) unless it strikes the interface perpendicularly.</li><li>Dispersion: This is the separation of white light into its constituent colors when it passes through a medium like a prism, due to different wavelengths having slightly different refractive indices. While related to refraction, it's a specific effect, not the general term for bending between media.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The bending of a straw in a glass of water, the operation of lenses in spectacles, and the formation of rainbows are all phenomena explained by refraction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The bending of light as it passes from one medium to another is known as refraction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Refraction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The sensation of the highness or lowness of a sound is primarily determined by its...",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Amplitude"
+        },
+        {
+          "type": "string",
+          "content": "Wavelength"
+        },
+        {
+          "type": "string",
+          "content": "Frequency"
+        },
+        {
+          "type": "string",
+          "content": "Wave speed"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sound Characteristics",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pitch of Sound</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Pitch:</em> The perceptual property of sounds that allows their ordering on a frequency-related scale. It is primarily determined by the fundamental frequency of the sound wave. Higher frequency corresponds to higher pitch (a \"sharper\" sound), and lower frequency corresponds to lower pitch (a \"deeper\" sound).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A question about what primarily determines the sensation of highness or lowness of a sound.</div><p><strong>Step 1: Relate auditory sensations to physical wave properties.</strong><br>Different physical properties of a sound wave correspond to different aspects of how we perceive it.</p><ul><li>Amplitude: This primarily determines the <span style='color:var(--orange);font-weight:bold;'>loudness</span> or intensity of a sound.</li><li>Wavelength: While related to frequency (<code>speed = frequency × wavelength</code>), wavelength is not the direct physical property our ears/brain interpret as pitch.</li><li><span style='color:var(--cAns);font-weight:bold;'>Frequency:</span> This is the number of wave cycles per second and is the primary physical determinant of a sound's perceived pitch. Higher frequency means higher pitch.</li><li>Wave speed: The speed of sound depends on the medium and temperature, not directly on the perceived pitch of a particular sound. While sound waves travel at a certain speed, variations in this speed are not what define pitch.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Musical instruments are tuned by adjusting the frequency of the vibrating strings or air columns. For example, tightening a guitar string increases its vibrational frequency, resulting in a higher-pitched sound.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The sensation of the highness or lowness of a sound is primarily determined by its frequency.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Frequency"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "A real image formed by an optical device can always be...",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Erect"
+        },
+        {
+          "type": "string",
+          "content": "Magnified"
+        },
+        {
+          "type": "string",
+          "content": "Virtual"
+        },
+        {
+          "type": "string",
+          "content": "Projected onto a screen"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Real Images",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Real vs. Virtual Images</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Real Image:</em> An image formed when actual light rays converge at a point after reflection or refraction. Real images can be captured on a screen. They are typically inverted with respect to the object.<br><em>Virtual Image:</em> An image formed when light rays appear to diverge from a point after reflection or refraction, but do not actually converge there. Virtual images cannot be projected onto a screen. They are typically erect.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A characteristic of a real image formed by an optical device.</div><p><strong>Step 1: Recall the defining characteristics of a real image.</strong><br>Real images are formed where light rays actually meet. This physical convergence of light is what allows them to be captured.</p><ul><li>Erect: Real images formed by single lenses or mirrors (like a concave mirror or convex lens) are almost always <span style='color:var(--orange);font-weight:bold;'>inverted</span>, not erect. Erect images are characteristic of virtual images.</li><li>Magnified: Real images can be magnified (e.g., by a projector lens), diminished (e.g., by a camera lens), or the same size. So, 'always magnified' is incorrect.</li><li>Virtual: This is the opposite of a real image. A real image cannot be virtual.</li><li><span style='color:var(--cAns);font-weight:bold;'>Projected onto a screen:</span> This is the defining practical test for a real image. Because light rays physically converge at the image location, a screen placed there will capture the image.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Projectors (movie, slide, or data projectors) use lenses to form real images of slides or digital displays onto a screen. This is a direct application of real image formation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A real image formed by an optical device can always be projected onto a screen.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Projected onto a screen"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section B",
+    "Subheading": "Theory Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Explain the principle behind converting a temperature reading from one arbitrary linear scale to another standard scale (like Celsius), referencing the role of fixed points.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermometric Scale Conversion",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Principle of Thermometric Scale Conversion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Thermometric scales are based on the linear variation of a thermometric property with temperature. To convert between scales, a common reference is established using two reproducible fixed points, typically the lower fixed point (LFP, e.g., freezing point of water) and the upper fixed point (UFP, e.g., boiling point of water).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> Request to explain the principle of temperature scale conversion using fixed points.</div><p><strong>Step 1: Establish the role of fixed points.</strong><br>Fixed points are specific, easily reproducible temperatures (like the melting point of pure ice or the boiling point of pure water at standard atmospheric pressure). These points serve as universal reference markers for all temperature scales.</p><p><strong>Step 2: Describe the linear relationship between scales.</strong><br>For any linear thermometric scale, the temperature reading is proportional to the thermometric property (e.g., length of mercury column). When converting between two different linear scales, say scale X and scale Y, the fraction of the total range from the LFP to the UFP must be the same for any given temperature.</p><p><strong>Step 3: Formulate the conversion equation.</strong><br>If <span style='color:var(--orange);font-weight:bold;'>T_X</span> is a reading on scale X with LFP <span style='color:var(--orange);font-weight:bold;'>X_LFP</span> and UFP <span style='color:var(--orange);font-weight:bold;'>X_UFP</span>, and <span style='color:var(--orange);font-weight:bold;'>T_Y</span> is the corresponding reading on scale Y with LFP <span style='color:var(--orange);font-weight:bold;'>Y_LFP</span> and UFP <span style='color:var(--orange);font-weight:bold;'>Y_UFP</span>, the conversion formula is: <br><code>(T_X - X_LFP) / (X_UFP - X_LFP) = (T_Y - Y_LFP) / (Y_UFP - Y_LFP)</code><br>This equation ensures that the relative position of a temperature within the range of fixed points is preserved across different scales.</p><ul><li>A full explanation will define fixed points and their purpose.</li><li>It will explain the concept of linearity across temperature scales.</li><li>It will present the general mathematical formula for conversion, clearly identifying each term.</li><li>It should mention that this principle holds because the thermometric property changes proportionally between fixed points.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This method is robust because fixed points are experimentally verifiable and universal. Any correctly calibrated thermometer will register the same numerical value at these points, providing a consistent basis for comparison.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The principle relies on the fact that the ratio of the temperature interval from the lower fixed point to the measured temperature, to the total temperature interval between the lower and upper fixed points, is constant for any linear temperature scale. By equating these ratios between two scales (e.g., an arbitrary scale and Celsius), one can convert a reading from one to the other, provided their respective fixed points are known.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Temperature scale conversion relies on the establishment of two common, reproducible fixed points: a lower fixed point (LFP) and an upper fixed point (UFP). These fixed points, such as the freezing and boiling points of water, define a standard range for a temperature scale.\n\nThe principle states that for any given temperature, the ratio of the difference between the measured temperature and the lower fixed point, to the difference between the upper fixed point and the lower fixed point, is constant across all linear thermometric scales. Mathematically, for a temperature Tx on an arbitrary scale with fixed points X_LFP and X_UFP, and a corresponding temperature Tc on the Celsius scale (with fixed points 0°C and 100°C), the relationship is given by:\n\n(Tx - X_LFP) / (X_UFP - X_LFP) = (Tc - 0) / (100 - 0)\n\nThis formula allows for the direct conversion of a temperature reading from one linear scale to another, as it ensures that the relative position of the temperature within the defined range is maintained across scales."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Differentiate between heat and temperature, providing one key characteristic for each.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Heat vs. Temperature",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Heat vs. Temperature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Heat:</em> Energy in transit due to a temperature difference. It is a form of energy and is transferred from hotter to colder objects.<br><em>Temperature:</em> A measure of the average kinetic energy of the particles in a substance. It indicates the degree of hotness or coldness of an object.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to differentiate between heat and temperature and provide a key characteristic for each.</div><p><strong>Step 1: Define Heat and its characteristic.</strong><br><span style='color:var(--orange);font-weight:bold;'>Heat</span> is defined as the transfer of thermal energy between systems or objects of different temperatures. It is energy in transit, flowing from a region of higher temperature to a region of lower temperature. A key characteristic of heat is that it is a <span style='color:var(--orange);font-weight:bold;'>form of energy</span>, measured in Joules (J).</p><p><strong>Step 2: Define Temperature and its characteristic.</strong><br><span style='color:var(--orange);font-weight:bold;'>Temperature</span> is a measure of the average translational kinetic energy of the particles (atoms or molecules) within a substance. It is a property of the substance itself that indicates its hotness or coldness. A key characteristic of temperature is that it determines the <span style='color:var(--orange);font-weight:bold;'>direction of heat flow</span> – heat always flows from a higher temperature to a lower temperature.</p><ul><li>A complete answer must clearly define both heat and temperature.</li><li>It must state that heat is a form of energy in transit, and temperature is a measure of average kinetic energy.</li><li>It should mention the units (Joules for heat, Kelvin/Celsius for temperature) or describe how each is measured.</li><li>It should also explain that temperature dictates the direction of heat flow.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> An object can have a high temperature but low total heat content (e.g., a spark). Conversely, a large body of water can have a low temperature but contain a vast amount of thermal energy (heat). This distinction is crucial for understanding energy transfer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Heat is the transfer of thermal energy due to a temperature difference, and its key characteristic is being energy in transit (measured in Joules). Temperature is a measure of the average kinetic energy of particles in a substance, and its key characteristic is determining the direction of heat flow (measured in Celsius, Kelvin, etc.).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heat and temperature are distinct but related concepts in physics.\n\n**Heat:**\nHeat is the transfer of thermal energy between systems or objects due to a temperature difference. It is energy in transit. It is not a property that an object possesses, but rather energy that is being exchanged. Its SI unit is the Joule (J).\n*Key Characteristic:* Heat is energy in transfer, always flowing from a region of higher temperature to a region of lower temperature.\n\n**Temperature:**\nTemperature is a measure of the average translational kinetic energy of the microscopic particles (atoms, molecules) within a substance. It is an intensive property of a substance, indicating its degree of hotness or coldness. Its SI unit is Kelvin (K), but Celsius (°C) and Fahrenheit (°F) are also commonly used.\n*Key Characteristic:* Temperature determines the direction of heat flow; heat will always flow from an object at a higher temperature to an object at a lower temperature until thermal equilibrium is reached."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is meant by thermal equilibrium, and why is it fundamental to temperature measurement?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermal Equilibrium",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermal Equilibrium and Temperature Measurement</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Thermal Equilibrium:</em> A state in which two systems in thermal contact no longer exchange net heat energy, and consequently, their temperatures become equal.<br><em>Zeroth Law of Thermodynamics:</em> If two systems are each in thermal equilibrium with a third system, then they are in thermal equilibrium with each other. This law justifies the use of thermometers.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define thermal equilibrium and explain its importance in temperature measurement.</div><p><strong>Step 1: Define thermal equilibrium.</strong><br><span style='color:var(--orange);font-weight:bold;'>Thermal equilibrium</span> occurs when two or more systems in thermal contact have reached a state where there is no net transfer of heat energy between them. At this point, all parts of the combined system are at the same temperature.</p><p><strong>Step 2: Explain its fundamental role in temperature measurement.</strong><br>Temperature measurement relies fundamentally on thermal equilibrium, as described by the <span style='color:var(--orange);font-weight:bold;'>Zeroth Law of Thermodynamics</span>. When a thermometer is placed in contact with an object, heat will flow between them until they reach thermal equilibrium. Once equilibrium is established, the thermometer's reading indicates the temperature of both the thermometer and the object. Without reaching thermal equilibrium, the thermometer would not accurately reflect the object's temperature because it would still be in the process of exchanging heat with it.</p><ul><li>The answer should define thermal equilibrium as a state of no net heat transfer, resulting in equal temperatures.</li><li>It must link thermal equilibrium to the Zeroth Law of Thermodynamics.</li><li>It should explain that a thermometer measures temperature by coming to thermal equilibrium with the object being measured.</li><li>It should clarify that an inaccurate reading occurs if equilibrium is not reached.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A clinical thermometer is held in contact with a patient's body until its mercury column (or digital display) stabilizes. This stabilization indicates that the thermometer has reached thermal equilibrium with the body, and thus displays the body's temperature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Thermal equilibrium is the state where two objects in thermal contact cease to exchange net heat energy, meaning they have reached the same temperature. This concept is fundamental to temperature measurement because a thermometer can only accurately measure the temperature of an object when it has attained thermal equilibrium with that object, as stipulated by the Zeroth Law of Thermodynamics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thermal equilibrium is the state in which two or more systems in thermal contact no longer experience any net transfer of heat energy between them. When thermal equilibrium is reached, all systems in contact will have the same temperature.\n\nThis concept is fundamental to temperature measurement due to the Zeroth Law of Thermodynamics. The Zeroth Law states that if two systems are each in thermal equilibrium with a third system (e.g., a thermometer), then they are in thermal equilibrium with each other. Therefore, when a thermometer is placed in contact with an object and allowed to reach thermal equilibrium, the temperature reading on the thermometer will be the same as the temperature of the object. Without the principle of thermal equilibrium, a thermometer could not reliably indicate the temperature of another object, as it would continuously exchange heat, and its reading would fluctuate."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "State the First Law of Thermodynamics, explaining the meaning of each term involved.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "First Law of Thermodynamics",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>The First Law of Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The First Law of Thermodynamics is a restatement of the principle of conservation of energy. It applies to thermodynamic systems, relating the change in internal energy of a system to the heat added to it and the work done by it.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to state the First Law of Thermodynamics and explain its terms.</div><p><strong>Step 1: State the First Law mathematically.</strong><br>The First Law of Thermodynamics can be stated as: <span style='color:var(--orange);font-weight:bold;'><code>ΔU = Q - W</code></span>, where:</p><p><strong>Step 2: Explain each term.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>ΔU (Change in Internal Energy):</span> This represents the change in the total energy contained within the system. Internal energy includes the kinetic and potential energies of the atoms and molecules that make up the system. It is a state function, meaning its value depends only on the current state of the system (temperature, pressure, volume) and not on how that state was reached.</li><li><span style='color:var(--orange);font-weight:bold;'>Q (Heat):</span> This is the amount of heat energy transferred <span style='color:var(--orange);font-weight:bold;'>to</span> the system from its surroundings. If heat is added to the system, Q is positive. If heat leaves the system, Q is negative.</li><li><span style='color:var(--orange);font-weight:bold;'>W (Work):</span> This is the amount of work energy done <span style='color:var(--orange);font-weight:bold;'>by</span> the system on its surroundings. If the system does work (e.g., expands against external pressure), W is positive. If work is done on the system (e.g., it is compressed), W is negative. (Note: Some conventions use W as work done *on* the system, leading to ΔU = Q + W. The given form is common for work *by* the system).</li></ul></p><ul><li>The answer should state the First Law (ΔU = Q - W or ΔU = Q + W, consistently defined).</li><li>It must clearly define ΔU as the change in internal energy, including what internal energy comprises.</li><li>It must define Q as heat added to/removed from the system, with sign conventions.</li><li>It must define W as work done by/on the system, with sign conventions.</li><li>It should emphasize its connection to the conservation of energy.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> This law is fundamental because it quantifies how energy interactions (heat and work) affect the internal energy of a system. It underpins the analysis of engines, refrigerators, and chemical reactions, ensuring that energy is always accounted for.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The First Law of Thermodynamics states that the change in the internal energy (ΔU) of a closed system is equal to the heat (Q) supplied to the system minus the work (W) done by the system on its surroundings: <code>ΔU = Q - W</code>. ΔU represents the total energy stored within the system; Q is energy transferred as heat; and W is energy transferred as work.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The First Law of Thermodynamics is a statement of the conservation of energy for thermodynamic systems. It states that the change in the internal energy (ΔU) of a closed system is equal to the heat (Q) added to the system minus the work (W) done by the system on its surroundings. The mathematical expression is:\n\n**ΔU = Q - W**\n\nWhere:\n*   **ΔU (Change in Internal Energy):** This represents the net change in the total energy stored within the system. Internal energy encompasses the kinetic and potential energies of the molecules, atoms, and subatomic particles within the system. It is a state function, meaning its value depends only on the current state of the system.\n*   **Q (Heat):** This term represents the amount of heat energy transferred across the boundary of the system. By convention, Q is positive when heat is added *to* the system and negative when heat is removed *from* the system.\n*   **W (Work):** This term represents the work done by the system *on* its surroundings. By convention, W is positive when the system does work (e.g., expanding and pushing against an external force) and negative when work is done *on* the system by the surroundings (e.g., compression)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Define heat capacity and state its standard SI unit.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Heat Capacity",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Heat Capacity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Heat Capacity (C):</em> The amount of heat energy required to raise the temperature of a specific object or system by one degree Celsius (or Kelvin). It is an extensive property, meaning it depends on the mass and type of substance.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define heat capacity and state its SI unit.</div><p><strong>Step 1: Define heat capacity.</strong><br><span style='color:var(--orange);font-weight:bold;'>Heat capacity (C)</span> is a physical property of an object or system that quantifies the amount of heat energy (Q) required to change its temperature (ΔT) by a certain amount, typically one degree Celsius or one Kelvin. It is expressed by the formula <code>C = Q / ΔT</code>. It signifies how much thermal energy an object can absorb or release for a given temperature change.</p><p><strong>Step 2: State the standard SI unit.</strong><br>Since heat (Q) is measured in Joules (J) and temperature change (ΔT) is measured in Kelvin (K) in the SI system, the standard SI unit for heat capacity is <span style='color:var(--orange);font-weight:bold;'>Joules per Kelvin (J/K)</span>. It can also be expressed as Joules per degree Celsius (J/°C), as the magnitude of a temperature change is the same for both Kelvin and Celsius scales.</p><ul><li>The answer must provide a clear definition of heat capacity.</li><li>It should indicate that it relates heat absorbed/released to temperature change.</li><li>It must correctly state the SI unit as J/K (or J/°C).</li><li>It can optionally mention that it's an extensive property.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A large bucket of water has a higher heat capacity than a small cup of water, meaning it requires more heat to achieve the same temperature rise. This demonstrates its dependence on the amount of substance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Heat capacity is the amount of heat energy required to raise the temperature of a specific object or system by one degree Celsius or one Kelvin. Its standard SI unit is Joules per Kelvin (J/K).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heat capacity (C) is a physical property that quantifies the amount of heat energy (Q) required to change the temperature (ΔT) of an entire object or system by one degree (either Celsius or Kelvin). It is an extensive property, meaning its value depends on both the mass and the specific material of the object. It can be expressed by the formula C = Q / ΔT.\n\nThe standard SI unit for heat capacity is **Joules per Kelvin (J/K)**, though Joules per degree Celsius (J/°C) is also commonly used, as a change of one Kelvin is equivalent to a change of one degree Celsius."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Briefly explain the significance of the Zeroth Law of Thermodynamics.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Zeroth Law of Thermodynamics",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of the Zeroth Law of Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Zeroth Law of Thermodynamics:</em> If two systems are each in thermal equilibrium with a third system, then they are in thermal equilibrium with each other.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to explain the significance of the Zeroth Law of Thermodynamics.</div><p><strong>Step 1: State the Zeroth Law.</strong><br>The Zeroth Law of Thermodynamics states: If system A is in thermal equilibrium with system C, and system B is also in thermal equilibrium with system C, then system A and system B are in thermal equilibrium with each other. In simpler terms, if A has the same temperature as C, and B also has the same temperature as C, then A and B must have the same temperature.</p><p><strong>Step 2: Explain its significance.</strong><br>The primary significance of the Zeroth Law is that it provides a logical foundation for the concept of <span style='color:var(--orange);font-weight:bold;'>temperature</span> as a measurable physical property. It allows us to define temperature and construct thermometers. Without this law, we couldn't confidently assert that a thermometer reading (the third system C) accurately reflects the temperature of any object (A or B) it's placed in contact with, because there would be no guarantee that A and B would have the same temperature if measured by the same C.</p><ul><li>The answer must state the Zeroth Law clearly.</li><li>It must explain that its significance is to establish the concept of temperature.</li><li>It should highlight its role in justifying the use of thermometers for measuring temperature.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Imagine having a thermometer. You place it in hot water, it reads 80°C. You then place it in a different liquid, and it also reads 80°C. The Zeroth Law ensures you can confidently say the hot water and the other liquid are at the same temperature, even if they have never been in direct contact.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Zeroth Law of Thermodynamics is significant because it provides the fundamental justification for the concept of temperature as a measurable quantity and for the operation of thermometers. It ensures that if two systems are separately in thermal equilibrium with a third system (the thermometer), then they are in thermal equilibrium with each other, meaning they share the same temperature.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Zeroth Law of Thermodynamics states that if two systems are each in thermal equilibrium with a third system, then they are in thermal equilibrium with each other. In simpler terms, if System A has the same temperature as System C, and System B also has the same temperature as System C, then System A and System B must have the same temperature.\n\nThe significance of this law is profound: it provides the fundamental basis for the concept of **temperature** as a measurable property and justifies the use of **thermometers**. Without the Zeroth Law, it would not be possible to reliably compare the temperatures of two objects using a third object (the thermometer) as a common reference. It essentially establishes the transitivity of thermal equilibrium, allowing us to assign a unique numerical value (temperature) to a system's state of hotness or coldness."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "State the two laws of reflection of light.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Laws of Reflection",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Laws of Reflection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Reflection:</em> The phenomenon of light bouncing off a surface. It is governed by two fundamental laws that describe the behavior of the incident and reflected rays relative to the normal to the surface.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to state the two laws of reflection of light.</div><p><strong>Step 1: State the first law of reflection.</strong><br>1. The <span style='color:var(--orange);font-weight:bold;'>angle of incidence is equal to the angle of reflection</span>. That is, if <span style='color:var(--orange);font-weight:bold;'>θ_i</span> is the angle of incidence and <span style='color:var(--orange);font-weight:bold;'>θ_r</span> is the angle of reflection, then <span style='color:var(--orange);font-weight:bold;'>θ_i = θ_r</span>. Both angles are measured with respect to the normal (an imaginary line perpendicular to the surface at the point of incidence).</p><p><strong>Step 2: State the second law of reflection.</strong><br>2. The <span style='color:var(--orange);font-weight:bold;'>incident ray, the reflected ray, and the normal to the surface at the point of incidence all lie in the same plane</span>. This means that reflection is a two-dimensional phenomenon for any single ray.</p><ul><li>The answer must clearly state both laws.</li><li>The first law should define the equality of the angles of incidence and reflection.</li><li>The second law should state that the incident ray, reflected ray, and normal lie in the same plane.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> These laws form the foundation for understanding how mirrors work, how images are formed by reflection, and are consistent with observations in everyday life and experimental setups.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The two laws of reflection of light are: 1) The angle of incidence is equal to the angle of reflection. 2) The incident ray, the reflected ray, and the normal to the surface at the point of incidence all lie in the same plane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The two laws of reflection of light are:\n\n1.  **The angle of incidence is equal to the angle of reflection.** This means that if an incident ray makes an angle (θi) with the normal (an imaginary line perpendicular to the reflecting surface at the point of incidence), the reflected ray will make an equal angle (θr) with the normal on the other side. (θi = θr).\n\n2.  **The incident ray, the reflected ray, and the normal to the surface at the point of incidence all lie in the same plane.** This ensures that the reflection occurs in a predictable two-dimensional manner relative to the surface and the incoming light."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Distinguish between a real image and a virtual image, giving one characteristic for each.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Real vs. Virtual Image",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Real vs. Virtual Image</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Images formed by optical devices (mirrors, lenses) can be classified based on whether light rays actually converge at the image location or only appear to diverge from it.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to distinguish between real and virtual images and provide a characteristic for each.</div><p><strong>Step 1: Define Real Image and its characteristic.</strong><br><span style='color:var(--orange);font-weight:bold;'>A real image</span> is formed when light rays originating from an object actually converge (meet) at a specific point after reflection from a mirror or refraction through a lens. These images are always formed on the opposite side of the mirror to the observer (if viewed through a mirror) or on the opposite side of the lens to the object. <br><em>Characteristic:</em> A key characteristic of a real image is that it <span style='color:var(--orange);font-weight:bold;'>can be projected onto a screen</span>.</p><p><strong>Step 2: Define Virtual Image and its characteristic.</strong><br><span style='color:var(--orange);font-weight:bold;'>A virtual image</span> is formed when light rays originating from an object appear to diverge from a point after reflection or refraction, but do not actually meet there. These images are always formed on the same side of the mirror as the object or on the same side of the lens as the object. <br><em>Characteristic:</em> A key characteristic of a virtual image is that it <span style='color:var(--orange);font-weight:bold;'>cannot be projected onto a screen</span> and can only be seen by looking into the optical device.</p><ul><li>The answer must provide clear definitions for both real and virtual images.</li><li>It must state that real images are formed by actual convergence of rays, while virtual images are formed by apparent divergence.</li><li>It should mention that real images can be projected onto a screen, and virtual images cannot.</li><li>Optionally, it can mention that real images are typically inverted, while virtual images are typically erect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A cinema projector creates a real image on the screen. The image you see of yourself in a plane mirror is a virtual image. These common examples highlight the distinction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A real image is formed by the actual convergence of light rays and can be projected onto a screen, while a virtual image is formed where light rays only appear to diverge from a point and cannot be projected onto a screen.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "**Real Image:**\nA real image is formed when light rays, after reflection from a mirror or refraction through a lens, actually converge and meet at a specific point. Because the light rays genuinely pass through the image point, a real image can be captured and viewed on a screen.\n*Characteristic:* Real images are typically inverted (upside down) relative to the object and can be projected onto a screen.\n\n**Virtual Image:**\nA virtual image is formed when light rays, after reflection or refraction, appear to diverge from a point but do not actually meet there. The eye and brain perceive an image at this apparent point of origin. Virtual images cannot be caught on a screen because no actual light rays converge there.\n*Characteristic:* Virtual images are typically erect (upright) relative to the object and cannot be projected onto a screen; they can only be seen by looking into the optical device."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Define the refractive index of a medium.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Refractive Index",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Refractive Index</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Refraction:</em> The bending of light as it passes from one medium to another, caused by a change in the speed of light. The extent of this bending is quantified by the refractive index.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define the refractive index of a medium.</div><p><strong>Step 1: State the definition of refractive index.</strong><br>The <span style='color:var(--orange);font-weight:bold;'>refractive index (n)</span> of a medium is a dimensionless quantity that describes how fast light travels through the medium compared to its speed in a vacuum. It quantifies the extent to which light is bent (refracted) when entering that medium from a vacuum.</p><p><strong>Step 2: Provide the mathematical relationship.</strong><br>Mathematically, it is defined as the ratio of the speed of light in a vacuum (<span style='color:var(--orange);font-weight:bold;'>c</span>) to the speed of light in the medium (<span style='color:var(--orange);font-weight:bold;'>v</span>): <br><code>n = c / v</code><br>Since the speed of light in any material medium is always less than its speed in a vacuum, the refractive index of any medium is always greater than or equal to 1.</p><ul><li>The answer must define refractive index as a measure of how much light bends or slows down.</li><li>It must provide the mathematical formula (n = c/v).</li><li>It should specify that it is a dimensionless quantity and that n ≥ 1.</li><li>It can mention that it's an optical property of the medium.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A higher refractive index means light travels slower in that medium and bends more significantly when entering it from a less dense medium (like air). For example, water has a refractive index of approximately 1.33, while diamond has a very high refractive index of about 2.42, explaining its brilliance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The refractive index of a medium is a dimensionless quantity that represents the ratio of the speed of light in a vacuum to the speed of light in that specific medium. It indicates how much the light is slowed down and consequently bent when it enters the medium.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The refractive index (n) of a medium is a dimensionless quantity that describes how light propagates through that medium. More specifically, it is defined as the ratio of the speed of light in a vacuum (c) to the speed of light in the particular medium (v):\n\n**n = c / v**\n\nA higher refractive index indicates that light travels slower in that medium and consequently bends more significantly when it enters the medium from a vacuum or a medium with a lower refractive index. It is a fundamental optical property of a material."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What are sound waves, and how do they propagate through a medium?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sound Wave Definition",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sound Waves and Propagation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Sound is a form of mechanical energy that travels as waves. It requires a medium to propagate and is characterized by the oscillation of particles parallel to the direction of wave travel.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define sound waves and explain their propagation.</div><p><strong>Step 1: Define sound waves.</strong><br><span style='color:var(--orange);font-weight:bold;'>Sound waves</span> are mechanical, longitudinal waves that result from vibrations. These vibrations create disturbances (compressions and rarefactions) in a medium, which then propagate through that medium. Sound waves carry energy, but not matter, from one point to another.</p><p><strong>Step 2: Explain their propagation.</strong><br>Sound waves propagate through a medium (solid, liquid, or gas) by causing the particles of the medium to oscillate back and forth <span style='color:var(--orange);font-weight:bold;'>parallel</span> to the direction of wave travel. When a vibrating source creates a disturbance, it pushes nearby particles, creating a region of <span style='color:var(--orange);font-weight:bold;'>compression</span> (higher density and pressure). These compressed particles then push adjacent particles, transferring energy. As the source moves back, it leaves behind a region of <span style='color:var(--orange);font-weight:bold;'>rarefaction</span> (lower density and pressure). This chain reaction of compressions and rarefactions moves through the medium, constituting the propagation of the sound wave. The particles themselves do not travel with the wave; they merely oscillate around their equilibrium positions.</p><ul><li>The answer must define sound waves as mechanical, longitudinal waves caused by vibrations.</li><li>It should explain that they create compressions and rarefactions in a medium.</li><li>It needs to describe the particle oscillation being parallel to the wave direction.</li><li>It should clarify that energy is transferred, but not matter.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If you speak into a microphone, the sound waves are air particles vibrating back and forth, transferring the energy to the microphone's diaphragm. This illustrates the mechanical, longitudinal nature of sound propagation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sound waves are mechanical, longitudinal waves generated by vibrations, consisting of alternating compressions (regions of high pressure and density) and rarefactions (regions of low pressure and density) that propagate through a medium. They transmit energy through the oscillation of the medium's particles parallel to the direction of wave travel, without the net movement of the particles themselves.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sound waves are mechanical, longitudinal waves produced by vibrations, which propagate through a medium (solid, liquid, or gas) by causing the particles of that medium to oscillate. Unlike electromagnetic waves, they require a material medium for their transmission and cannot travel through a vacuum.\n\nSound waves propagate through a series of compressions and rarefactions. When a vibrating object moves forward, it pushes the particles of the medium (e.g., air molecules) closer together, creating a region of higher density and pressure called a **compression**. When the object moves backward, it creates a region where the particles are spread farther apart, resulting in lower density and pressure, known as a **rarefaction**.\n\nThese compressions and rarefactions then travel through the medium. The particles of the medium themselves do not travel along with the wave; instead, they oscillate back and forth parallel to the direction of wave propagation, transferring energy from one particle to the next. This continuous process of local compression and rarefaction enables the sound energy to propagate through the medium."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Explain how the physical properties of a sound wave relate to the perceived characteristics of pitch and loudness.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sound Characteristics",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Pitch and Loudness Relationship to Sound Wave Properties</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The human perception of sound (pitch, loudness, timbre) is directly related to the physical properties of the sound wave (frequency, amplitude, waveform).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to explain the relationship between sound wave physical properties and perceived pitch and loudness.</div><p><strong>Step 1: Relate Pitch to Frequency.</strong><br>The perceived <span style='color:var(--orange);font-weight:bold;'>pitch</span> of a sound is primarily determined by the <span style='color:var(--orange);font-weight:bold;'>frequency</span> of the sound wave. Frequency refers to the number of complete oscillations (or cycles) per second, measured in Hertz (Hz). A higher frequency corresponds to a higher perceived pitch (a 'sharper' sound), while a lower frequency results in a lower perceived pitch (a 'deeper' sound).</p><p><strong>Step 2: Relate Loudness to Amplitude.</strong><br>The perceived <span style='color:var(--orange);font-weight:bold;'>loudness</span> (or intensity) of a sound is primarily determined by the <span style='color:var(--orange);font-weight:bold;'>amplitude</span> of the sound wave. Amplitude is the maximum displacement or variation in pressure/density from the equilibrium position caused by the wave. A larger amplitude corresponds to a louder sound, meaning more energy is carried by the wave, while a smaller amplitude results in a softer sound.</p><ul><li>The answer should explicitly link pitch to frequency.</li><li>It should explain that higher frequency means higher pitch and vice-versa.</li><li>It should explicitly link loudness to amplitude.</li><li>It should explain that higher amplitude means louder sound and vice-versa.</li><li>It can optionally mention units (Hz for frequency, and that amplitude relates to pressure/intensity).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Turning up the volume on a stereo increases the amplitude of the sound waves, making the sound louder, but does not change the pitch of the notes. Conversely, playing a higher note on an instrument changes its frequency, resulting in a higher pitch, without necessarily altering its loudness.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The pitch of a sound is primarily determined by its frequency: higher frequencies result in higher pitches, and lower frequencies result in lower pitches. The loudness of a sound, on the other hand, is primarily determined by its amplitude: larger amplitudes produce louder sounds, and smaller amplitudes produce softer sounds.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The perceived characteristics of sound, such as pitch and loudness, are directly related to specific physical properties of the sound wave:\n\n1.  **Pitch and Frequency:**\n    The **pitch** of a sound, which is our subjective perception of how high or low a sound is, is primarily determined by the **frequency** of the sound wave. Frequency refers to the number of complete wave cycles (or oscillations) that occur per second, measured in Hertz (Hz).\n    *   **Higher frequency** corresponds to a **higher pitch** (e.g., a soprano's voice or a violin's high notes).\n    *   **Lower frequency** corresponds to a **lower pitch** (e.g., a bass voice or a tuba's deep notes).\n\n2.  **Loudness and Amplitude:**\n    The **loudness** (or intensity) of a sound is primarily determined by the **amplitude** of the sound wave. Amplitude is the maximum displacement or change in pressure (from the equilibrium state) that the particles of the medium undergo as the wave passes. A larger amplitude means the particles are displaced more forcefully.\n    *   **Larger amplitude** corresponds to a **louder sound** (more energy carried by the wave).\n    *   **Smaller amplitude** corresponds to a **softer sound** (less energy carried by the wave)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "List two factors that affect the speed of sound in a medium.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Speed of Sound",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Affecting Speed of Sound</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The speed of sound is not constant; it depends on the properties of the medium through which it travels. These properties relate to how quickly particles can transfer vibrational energy.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to list two factors affecting the speed of sound in a medium.</div><p><strong>Step 1: Identify properties related to energy transfer.</strong><br>The speed of sound depends on the <span style='color:var(--orange);font-weight:bold;'>elasticity</span> (or stiffness) and <span style='color:var(--orange);font-weight:bold;'>density</span> (or inertia) of the medium. Generally, sound travels faster in media that are stiffer and less dense, as particles can transmit vibrations more efficiently.</p><p><strong>Step 2: List two distinct factors.</strong><br>Two primary factors affecting the speed of sound are:</p><ol><li><span style='color:var(--orange);font-weight:bold;'>Temperature:</span> For gases, an increase in temperature increases the kinetic energy of the particles, leading to more frequent and forceful collisions, which allows sound waves to propagate faster. Thus, sound speed generally increases with temperature in gases.</li><li><span style='color:var(--orange);font-weight:bold;'>Type of Medium (or state of matter):</span> Sound travels at different speeds in different materials due to variations in their elasticity and density. Generally, sound travels fastest in solids, then liquids, and slowest in gases. For example, it's faster in steel than in water, and faster in water than in air. This is because solids are typically more rigid (higher bulk modulus) than liquids and gases. (Other valid options include <span style='color:var(--orange);font-weight:bold;'>Humidity</span> for air, and <span style='color:var(--orange);font-weight:bold;'>Pressure</span> for some gases, though temperature is usually more significant for gases).</li></ol><ul><li>The answer must list two distinct and correct factors.</li><li>Commonly accepted factors include temperature, type of medium (or state of matter), and elasticity/density.</li><li>Brief explanations for each factor are usually expected.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The reason you see lightning before you hear thunder is due to the difference in speeds: light travels much faster than sound through the atmosphere, illustrating that the medium (air) and its conditions (temperature, etc.) affect sound speed significantly.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Two factors that affect the speed of sound in a medium are: 1) The temperature of the medium (especially for gases, where higher temperature generally means higher speed). 2) The type of medium itself, particularly its elasticity (stiffness) and density (e.g., sound travels faster in solids than in liquids, and faster in liquids than in gases).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The speed of sound in a medium is influenced by the physical properties of that medium. Two significant factors are:\n\n1.  **Temperature:** For most media, especially gases, the speed of sound increases with increasing temperature. This is because higher temperatures lead to increased kinetic energy of the particles in the medium, causing them to collide more frequently and vigorously, thereby transmitting sound vibrations more rapidly.\n\n2.  **Type of Medium (Elasticity and Density):** The speed of sound depends on the stiffness (elasticity or bulk modulus) and density of the medium. Generally, sound travels faster in stiffer (more elastic) media and slower in denser media. For example, sound travels fastest in solids (e.g., steel), then liquids (e.g., water), and slowest in gases (e.g., air), due to their differing elastic properties and particle arrangements."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Why are fixed points essential for establishing a reliable temperature scale?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermometric Fixed Points",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Fixed Points in Temperature Scales</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A temperature scale needs reproducible and universal reference points to ensure consistency and comparability of temperature measurements globally.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to explain why fixed points are essential for establishing a reliable temperature scale.</div><p><strong>Step 1: Explain the need for reference points.</strong><br>Fixed points are essential because they provide <span style='color:var(--orange);font-weight:bold;'>universal, reproducible, and easily obtainable reference temperatures</span>. Without such reference points, each thermometer would be calibrated arbitrarily, making it impossible to compare temperature readings between different thermometers or different locations.</p><p><strong>Step 2: Describe how they define a scale.</strong><br>By assigning specific numerical values to at least two fixed points (e.g., the freezing point of water and the boiling point of water at standard pressure), a temperature scale can be linearly interpolated or extrapolated between these points. This creates a <span style='color:var(--orange);font-weight:bold;'>standardized scale</span>, ensuring that a reading of, say, 50 °C means the same temperature to everyone, regardless of the specific thermometer used.</p><p><strong>Step 3: Link to reliability and calibration.</strong><br>Fixed points allow for the <span style='color:var(--orange);font-weight:bold;'>accurate calibration</span> of thermometers. A thermometer can be checked against these known, constant temperatures, ensuring its accuracy and consistency. This makes the temperature scale reliable and its measurements trustworthy for scientific, industrial, and daily use.</p><ul><li>The answer must explain that fixed points provide universal, reproducible reference temperatures.</li><li>It should state that they enable standardization and comparison of readings.</li><li>It must mention their role in the calibration of thermometers.</li><li>It can highlight that they define the range and intervals of a scale.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> If different thermometers were to give different readings for the freezing point of water, there would be no consistent way to define 0°C, and all subsequent measurements would be unreliable. Fixed points eliminate this ambiguity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Fixed points are essential for establishing a reliable temperature scale because they provide universal, reproducible, and easily obtainable reference temperatures. By assigning specific values to these points (e.g., freezing and boiling points of water), they allow for the standardization and consistent calibration of thermometers, ensuring that temperature measurements are comparable and accurate across different instruments and locations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fixed points are crucial for establishing a reliable temperature scale for several fundamental reasons:\n\n1.  **Universality and Reproducibility:** Fixed points, such as the freezing and boiling points of pure water at standard atmospheric pressure, are naturally occurring and precisely reproducible physical phenomena. They provide universal reference temperatures that can be established anywhere in the world under controlled conditions.\n\n2.  **Standardization and Comparison:** By assigning specific numerical values to these fixed points (e.g., 0°C for the freezing point and 100°C for the boiling point), a temperature scale can be standardized. This allows different thermometers to be calibrated against these common references, ensuring that a given temperature reading (e.g., 50°C) represents the same physical condition across various instruments and locations. Without fixed points, each thermometer would have an arbitrary scale, making comparisons impossible.\n\n3.  **Calibration and Accuracy:** Fixed points enable the accurate calibration of thermometers. A thermometer can be tested and adjusted to ensure its readings align correctly at these known temperatures. This ensures the linearity and accuracy of the scale between and beyond these points, making temperature measurements reliable for scientific, industrial, and everyday applications."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Name two different types of thermometers and briefly describe their working principles.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Types of Thermometers",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Thermometers and Working Principles</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Thermometers work by utilizing a thermometric property of a substance (a physical property that changes predictably with temperature) to indicate temperature.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to name two types of thermometers and describe their working principles.</div><p><strong>Step 1: Identify the first type and its principle.</strong><br>1. <span style='color:var(--orange);font-weight:bold;'>Liquid-in-glass thermometer (e.g., Mercury or Alcohol thermometer):</span><br>   <em>Principle:</em> These thermometers utilize the principle of <span style='color:var(--orange);font-weight:bold;'>thermal expansion</span>. As the temperature of the liquid (mercury or alcohol) inside a sealed glass tube with a bulb increases, the liquid expands more significantly than the glass, causing it to rise in the narrow capillary tube. The height of the liquid column then indicates the temperature, calibrated against fixed points.</p><p><strong>Step 2: Identify the second type and its principle.</strong><br>2. <span style='color:var(--orange);font-weight:bold;'>Resistance thermometer (e.g., Platinum Resistance Thermometer - PRT):</span><br>   <em>Principle:</em> These thermometers work on the principle that the <span style='color:var(--orange);font-weight:bold;'>electrical resistance of certain metals (like platinum) changes predictably with temperature</span>. As the temperature increases, the resistance of the metal wire increases. By measuring this resistance change, usually with a Wheatstone bridge, the corresponding temperature can be determined.</p><ul><li>The answer must name two distinct types of thermometers.</li><li>For each type, it needs to briefly describe the underlying physical principle (e.g., thermal expansion, change in resistance).</li><li>It should not delve into complex designs but focus on the core thermometric property.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Both types are commonly used, with liquid-in-glass being simple and ubiquitous, and resistance thermometers offering higher precision for scientific and industrial applications, demonstrating their practical utility.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Two types of thermometers are: 1) Liquid-in-glass thermometers, which work on the principle of thermal expansion of a liquid like mercury or alcohol. 2) Resistance thermometers, which operate on the principle that the electrical resistance of certain metals changes predictably with temperature.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Here are two types of thermometers and their working principles:\n\n1.  **Liquid-in-glass Thermometer (e.g., Mercury or Alcohol Thermometer):**\n    *   **Working Principle:** These thermometers utilize the principle of **thermal expansion**. A liquid (typically mercury or colored alcohol) is sealed in a glass bulb connected to a narrow capillary tube. As the temperature of the liquid increases, it expands more significantly than the glass container, causing the liquid column to rise in the capillary tube. The height of the liquid column is then calibrated against a temperature scale to indicate the temperature.\n\n2.  **Resistance Thermometer (e.g., Platinum Resistance Thermometer - PRT):**\n    *   **Working Principle:** Resistance thermometers operate on the principle that the **electrical resistance of certain metals changes predictably with temperature**. For example, the resistance of a platinum wire increases almost linearly with temperature. By measuring the electrical resistance of the platinum element (usually with a precise circuit like a Wheatstone bridge), the corresponding temperature can be accurately determined. These are often used for precise measurements."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Explain the phenomenon of thermal expansion and provide an example of its practical application or consequence.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermal Expansion",
+      "Heat and Temperature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermal Expansion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Most substances change in size (length, area, volume) in response to a change in temperature. This macroscopic phenomenon is a result of increased atomic/molecular vibrations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to explain thermal expansion and provide an example.</div><p><strong>Step 1: Define thermal expansion.</strong><br><span style='color:var(--orange);font-weight:bold;'>Thermal expansion</span> is the tendency of matter to change its volume in response to a change in temperature. When a substance is heated, its constituent atoms or molecules vibrate more vigorously and move farther apart, on average, resulting in an increase in the material's overall size. Conversely, when cooled, the vibrations decrease, and the particles move closer, causing contraction.</p><p><strong>Step 2: Provide a practical example.</strong><br>A practical consequence of thermal expansion is the <span style='color:var(--orange);font-weight:bold;'>expansion gaps</span> (or expansion joints) left in large structures like bridges, railway tracks, and concrete pavements. These gaps are crucial because materials like steel and concrete expand significantly on hot days and contract on cold days. Without these gaps, the expansive forces generated during heating would cause buckling, cracking, or severe structural damage, while contraction could lead to excessive tensile stresses.</p><ul><li>The answer must clearly define thermal expansion.</li><li>It should link the macroscopic change in size to the microscopic behavior of particles.</li><li>It must provide a relevant, real-world example of its application or consequence.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Observing the slight buckling of old railway tracks on a very hot day (if expansion joints are insufficient) is a direct visual proof of thermal expansion's effects.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Thermal expansion is the phenomenon where matter changes its volume (or length/area) in response to a change in temperature, occurring because increased thermal energy causes constituent particles to vibrate more intensely and move further apart. A practical example is the necessity of expansion joints in bridges and railway tracks to prevent structural damage from material expansion and contraction due to temperature fluctuations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thermal expansion is the tendency of matter to change its volume, area, or length in response to a change in temperature. When a substance is heated, the average kinetic energy of its constituent atoms or molecules increases, causing them to vibrate more vigorously about their equilibrium positions. This increased vibration leads to an increase in the average distance between the particles, resulting in an overall increase in the material's dimensions.\n\n**Practical Example:**\nOne common and critical application or consequence of thermal expansion is the inclusion of **expansion joints** in large structures such as bridges, railway tracks, and concrete pavements. These gaps are deliberately left between sections of the material. On hot days, the materials (like steel or concrete) expand. Without these expansion joints, the expanding material would exert immense compressive forces, leading to buckling, cracking, or severe structural damage. Conversely, on cold days, the materials contract, and the joints accommodate this contraction, preventing excessive tensile stresses."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "State the Second Law of Thermodynamics in terms of entropy.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Second Law of Thermodynamics",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Second Law of Thermodynamics (Entropy Statement)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <br><em>Entropy:</em> A measure of the disorder or randomness of a system, or more precisely, the number of ways a system's energy and matter can be arranged.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to state the Second Law of Thermodynamics in terms of entropy.</div><p><strong>Step 1: State the Second Law in terms of entropy.</strong><br>The Second Law of Thermodynamics, when expressed in terms of entropy, states that for an isolated system, the <span style='color:var(--orange);font-weight:bold;'>total entropy can only increase over time, or remain constant in ideal reversible processes</span>. It can never decrease. This implies that natural processes tend to move towards a state of greater disorder or randomness.</p><p><strong>Step 2: Elaborate on the implications.</strong><br>For any spontaneous, irreversible process occurring in an isolated system, the change in entropy (ΔS) will always be positive (ΔS > 0). For an ideal reversible process, the change in entropy is zero (ΔS = 0). This law imposes a directionality on time and processes, explaining why certain events (like a broken glass not reassembling itself) are highly improbable, despite being theoretically allowed by the First Law of Thermodynamics.</p><ul><li>The answer must clearly state that the total entropy of an isolated system always increases or remains constant.</li><li>It should specify \"isolated system.\"</li><li>It can mention that entropy is a measure of disorder/randomness.</li><li>It should imply that irreversible processes lead to an increase in entropy.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The rusting of iron, the melting of an ice cube in a warm room, or the mixing of two gases are all spontaneous processes where the system moves from a more ordered to a less ordered (higher entropy) state. These observations consistently align with the Second Law.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Second Law of Thermodynamics, in terms of entropy, states that the total entropy of an isolated system can only increase over time, or remain constant in ideal reversible processes; it can never spontaneously decrease. This means that natural processes tend towards states of greater disorder or randomness.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Second Law of Thermodynamics, when stated in terms of entropy, asserts that the total entropy of an **isolated system** can only increase over time, or remain constant in ideal reversible processes. It can never spontaneously decrease.\n\nIn essence, this law means that the disorder or randomness of an isolated system will naturally tend to increase until it reaches a maximum state of equilibrium. Any spontaneous process (i.e., one that occurs without external intervention) in an isolated system will lead to an increase in the system's total entropy (ΔS_total > 0). If the process is reversible, the entropy change is zero (ΔS_total = 0). This fundamental law dictates the direction of natural processes and explains why, for example, heat spontaneously flows from hot to cold, and why systems tend towards equilibrium."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "What is internal energy in a thermodynamic system?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Internal Energy",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Internal Energy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A system possesses energy in various forms at the microscopic level. Internal energy is the sum of these energies.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define internal energy in a thermodynamic system.</div><p><strong>Step 1: Define internal energy.</strong><br><span style='color:var(--orange);font-weight:bold;'>Internal energy (U or E)</span> of a thermodynamic system refers to the total energy contained within the system at a microscopic level. It is the sum of all the kinetic and potential energies of the constituent particles (atoms, molecules, ions) that make up the system.</p><p><strong>Step 2: Elaborate on its components.</strong><br>The <span style='color:var(--orange);font-weight:bold;'>kinetic energy</span> component includes the translational, rotational, and vibrational motions of the particles. The <span style='color:var(--orange);font-weight:bold;'>potential energy</span> component includes the energy associated with intermolecular forces, chemical bonds, and nuclear forces within the particles. Internal energy is a <span style='color:var(--orange);font-weight:bold;'>state function</span>, meaning its value depends only on the current state of the system (e.g., temperature, pressure, volume) and not on the path taken to reach that state.</p><ul><li>The answer must define internal energy as the total microscopic energy.</li><li>It should mention both kinetic and potential energy components.</li><li>It should list examples of these microscopic energies (e.g., translational, rotational, vibrational, intermolecular).</li><li>It can mention that it's a state function.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> When a gas is heated, its molecules move faster, increasing their kinetic energy, and thus increasing the internal energy of the gas. This is a direct manifestation of internal energy changing with macroscopic properties.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Internal energy in a thermodynamic system is the total energy contained within the system at a microscopic level. It comprises the sum of all the kinetic energies (translational, rotational, vibrational motion) and potential energies (due to intermolecular forces and chemical bonds) of the particles (atoms and molecules) that constitute the system.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal energy (U or E) in a thermodynamic system is the total energy contained within the system at a microscopic level. It represents the sum of all the kinetic and potential energies of the constituent particles (atoms, molecules, ions, electrons) that make up the system.\n\nSpecifically, it includes:\n*   **Kinetic energy:** This encompasses the energy due to the translational, rotational, and vibrational motions of the particles.\n*   **Potential energy:** This includes the energy associated with the intermolecular forces between particles, the chemical bonds within molecules, and the nuclear energy within atoms.\n\nInternal energy is a state function, meaning its value depends only on the current state of the system (e.g., its temperature, pressure, and volume) and not on the path taken to reach that state."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "In thermodynamics, describe what is meant by \"work done by the system\" and \"work done on the system.\"",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Work in Thermodynamics",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Work in Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Work in thermodynamics refers to the transfer of energy between a system and its surroundings that is not due to a temperature difference (which would be heat). It typically involves a change in volume against an external force (e.g., expansion or compression).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to describe \"work done by the system\" and \"work done on the system\" in thermodynamics.</div><p><strong>Step 1: Define \"work done by the system\".</strong><br><span style='color:var(--orange);font-weight:bold;'>\"Work done by the system\"</span> occurs when the system expands and exerts a force on its surroundings, causing a displacement. For example, a gas expanding in a cylinder and pushing a piston outwards. In the First Law of Thermodynamics (ΔU = Q - W), this work is typically considered <span style='color:var(--orange);font-weight:bold;'>positive</span>, as the system expends its own internal energy (or uses incoming heat) to do this work.</p><p><strong>Step 2: Define \"work done on the system\".</strong><br><span style='color:var(--orange);font-weight:bold;'>\"Work done on the system\"</span> occurs when the surroundings exert a force on the system, causing it to compress or change its volume. For example, a piston being pushed inwards, compressing a gas. In the First Law of Thermodynamics (ΔU = Q - W), this work is typically considered <span style='color:var(--orange);font-weight:bold;'>negative</span> because the surroundings are adding energy to the system, increasing its internal energy (or converting it to heat).</p><ul><li>The answer must clearly define both terms.</li><li>It should provide an example for each (e.g., expansion for work done by, compression for work done on).</li><li>It should mention the typical sign convention associated with each (positive for work by, negative for work on, using the ΔU = Q - W convention).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> An expanding balloon does work on the surrounding air, while compressing a spring does work on the spring. Understanding these conventions is crucial for correctly applying the First Law of Thermodynamics to various processes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ \"Work done by the system\" refers to energy transferred from the system to its surroundings, typically through expansion (e.g., a gas pushing a piston). This work is considered positive in the equation ΔU = Q - W. \"Work done on the system\" refers to energy transferred from the surroundings to the system, typically through compression (e.g., a piston compressing a gas). This work is considered negative in the same equation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In thermodynamics, work refers to energy transfer that is not heat, usually associated with changes in volume against an external pressure. The distinction between \"work done by the system\" and \"work done on the system\" is crucial for correctly applying the First Law of Thermodynamics.\n\n1.  **Work done by the system (W > 0):**\n    This occurs when the thermodynamic system exerts a force on its surroundings and causes a displacement. A common example is a gas expanding against an external pressure, pushing a piston outwards. In this scenario, the system expends some of its internal energy (or uses incoming heat) to perform this work. By the standard convention used in the First Law (ΔU = Q - W), work done *by* the system is considered positive, as it represents energy leaving the system.\n\n2.  **Work done on the system (W < 0):**\n    This occurs when the surroundings exert a force on the system, causing a change, typically a compression. An example is an external force pushing a piston inward, compressing a gas. In this case, energy is transferred *into* the system from the surroundings, increasing the system's internal energy (or being released as heat). According to the convention ΔU = Q - W, work done *on* the system is considered negative, as it represents energy entering the system."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Briefly compare and contrast concave and convex lenses based on their effect on parallel rays of light.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Lens Types",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Concave vs. Convex Lenses</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Lenses manipulate light rays through refraction, and their shape dictates whether they converge or diverge parallel light.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to compare and contrast concave and convex lenses based on their effect on parallel light rays.</div><p><strong>Step 1: Describe the effect of a Convex Lens.</strong><br><span style='color:var(--orange);font-weight:bold;'>Convex Lens (Converging Lens):</span> These lenses are thicker in the middle and thinner at the edges. When parallel rays of light (e.g., from a distant object) pass through a convex lens, they are <span style='color:var(--orange);font-weight:bold;'>refracted inwards and converge</span> to a single point called the principal focus (F) on the opposite side of the lens. This makes them useful for magnifying objects or focusing light. Their focal length is considered positive.</p><p><strong>Step 2: Describe the effect of a Concave Lens.</strong><br><span style='color:var(--orange);font-weight:bold;'>Concave Lens (Diverging Lens):</span> These lenses are thinner in the middle and thicker at the edges. When parallel rays of light pass through a concave lens, they are <span style='color:var(--orange);font-weight:bold;'>refracted outwards and diverge</span>. These diverging rays appear to originate from a single virtual point, called the principal focus (F), located on the same side of the lens as the incident parallel rays. This makes them useful for spreading light or correcting short-sightedness. Their focal length is considered negative.</p><p><strong>Step 3: Summarize comparison and contrast.</strong><br><em>Comparison:</em> Both are types of lenses that refract light. <br><em>Contrast:</em> Convex lenses converge parallel rays to a real focus, while concave lenses diverge parallel rays, making them appear to come from a virtual focus.</p><ul><li>The answer must describe the shape of each lens.</li><li>It must explain how each lens affects parallel rays (converge vs. diverge).</li><li>It should mention where the focal point is for each (real/opposite side vs. virtual/same side).</li><li>It should identify them as converging vs. diverging.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Magnifying glasses use convex lenses to converge light and magnify images. Peepholes in doors often use concave lenses to diverge light, allowing a wider field of view.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Convex lenses (converging lenses), which are thicker in the middle, refract parallel rays of light inwards to converge at a real focal point on the opposite side. In contrast, concave lenses (diverging lenses), which are thinner in the middle, refract parallel rays outwards, making them appear to diverge from a virtual focal point on the same side as the incident rays.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Concave and convex lenses are two primary types of spherical lenses that affect light differently:\n\n**Convex Lens (Converging Lens):**\n*   **Shape:** A convex lens is thicker in the middle and thinner at its edges.\n*   **Effect on Parallel Rays:** When parallel rays of light (e.g., from a distant object) pass through a convex lens, they are refracted inwards and converge to a single point on the opposite side of the lens. This point is called the principal focus (F).\n*   **Function:** Due to its converging action, a convex lens is often used to magnify objects or to focus light to a point (e.g., in magnifying glasses, cameras, or projectors).\n\n**Concave Lens (Diverging Lens):**\n*   **Shape:** A concave lens is thinner in the middle and thicker at its edges.\n*   **Effect on Parallel Rays:** When parallel rays of light pass through a concave lens, they are refracted outwards and diverge away from each other. If these diverging rays are traced backward, they appear to originate from a single virtual point, which is the principal focus (F) located on the same side of the lens as the incident parallel rays.\n*   **Function:** Due to its diverging action, a concave lens is used to spread out light or to correct vision problems like myopia (short-sightedness)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Define the focal length of a spherical mirror or lens.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Focal Length",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Focal Length</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Both spherical mirrors and lenses have a characteristic distance that describes their ability to converge or diverge light, known as the focal length.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define the focal length of a spherical mirror or lens.</div><p><strong>Step 1: Define focal length generally.</strong><br>The <span style='color:var(--orange);font-weight:bold;'>focal length (f)</span> of a spherical mirror or lens is the distance from its optical center (for lenses) or pole (for mirrors) to its principal focus (or focal point).</p><p><strong>Step 2: Elaborate for converging vs. diverging elements.</strong><br>For <span style='color:var(--orange);font-weight:bold;'>converging</span> elements (convex lenses, concave mirrors), the principal focus is the point where parallel rays of light incident on the element actually converge after reflection or refraction. The focal length is measured from the optical center/pole to this real focal point and is considered <span style='color:var(--orange);font-weight:bold;'>positive</span>.<br><br>For <span style='color:var(--orange);font-weight:bold;'>diverging</span> elements (concave lenses, convex mirrors), the principal focus is the point from which parallel rays of light appear to diverge after reflection or refraction. The focal length is measured from the optical center/pole to this virtual focal point and is considered <span style='color:var(--orange);font-weight:bold;'>negative</span>.</p><ul><li>The answer must define focal length as the distance from the optical center/pole to the principal focus.</li><li>It should explain the principal focus for both converging and diverging elements.</li><li>It should state the sign convention (positive for converging, negative for diverging).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A strong lens or mirror (one that converges/diverges light sharply) will have a short focal length, while a weak one will have a long focal length. This relationship confirms that focal length quantifies the optical power of the element.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The focal length of a spherical mirror or lens is defined as the distance between its optical center (for lenses) or pole (for mirrors) and its principal focus. For converging elements, it's the distance to the real point where parallel rays meet (positive), while for diverging elements, it's the distance to the virtual point from which parallel rays appear to originate (negative).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The focal length (f) of a spherical mirror or lens is a fundamental property that defines its ability to converge or diverge light rays. It is precisely the distance from the optical center (for a lens) or the pole (for a mirror) to its principal focus (or focal point).\n\n*   For **converging** optical elements (like a convex lens or a concave mirror), the principal focus is a **real** point where incident parallel rays of light actually converge after reflection or refraction. The focal length for these elements is considered **positive**.\n*   For **diverging** optical elements (like a concave lens or a convex mirror), the principal focus is a **virtual** point from which incident parallel rays of light appear to diverge after reflection or refraction. The focal length for these elements is considered **negative**."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Describe the conditions necessary for total internal reflection to occur.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Total Internal Reflection",
+      "Geometrical Optics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conditions for Total Internal Reflection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> When light attempts to pass from a denser to a rarer medium, it may be entirely reflected back into the denser medium if the angle of incidence is sufficiently large.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to describe the conditions necessary for total internal reflection (TIR) to occur.</div><p><strong>Step 1: State the first condition (light path).</strong><br>1. The light must be traveling from an <span style='color:var(--orange);font-weight:bold;'>optically denser medium to an optically rarer medium</span>. An optically denser medium has a higher refractive index than an optically rarer medium. For example, light going from water to air, or from glass to air.</p><p><strong>Step 2: State the second condition (angle of incidence).</strong><br>2. The <span style='color:var(--orange);font-weight:bold;'>angle of incidence (θ_i) in the denser medium must be greater than the critical angle (θ_c)</span> for that pair of media. The critical angle is the specific angle of incidence at which the angle of refraction becomes 90 degrees.</p><ul><li>The answer must state both conditions clearly.</li><li>The first condition: light moving from denser to rarer medium.</li><li>The second condition: angle of incidence must be greater than the critical angle.</li><li>It can briefly define critical angle.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Fiber optics, diamonds sparkling, and the shimmering appearance of water from underwater are all phenomena that depend on total internal reflection, proving these conditions are met in practical scenarios.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Total internal reflection occurs when two conditions are met: 1) Light must be traveling from an optically denser medium to an optically rarer medium. 2) The angle of incidence in the denser medium must be greater than the critical angle for that specific pair of media.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Total internal reflection (TIR) is an optical phenomenon that occurs when light, attempting to cross a boundary from one medium to another, is completely reflected back into the first medium. For this to happen, two essential conditions must be met:\n\n1.  **Light must travel from an optically denser medium to an optically rarer medium.** This means the medium from which the light originates must have a higher refractive index than the medium it is attempting to enter. For example, light moving from water (denser) to air (rarer), or from glass to air.\n\n2.  **The angle of incidence in the denser medium must be greater than the critical angle (θc) for that pair of media.** The critical angle is the specific angle of incidence at which the refracted ray travels along the boundary between the two media (i.e., the angle of refraction is 90 degrees). If the angle of incidence exceeds this critical angle, refraction ceases, and all of the light is reflected back into the denser medium."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Explain why sound waves are considered longitudinal waves.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Longitudinal Waves",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sound as a Longitudinal Wave</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Waves are classified based on the direction of particle oscillation relative to the direction of wave propagation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to explain why sound waves are considered longitudinal waves.</div><p><strong>Step 1: Define longitudinal waves.</strong><br>A <span style='color:var(--orange);font-weight:bold;'>longitudinal wave</span> is a wave in which the particles of the medium oscillate (vibrate) parallel to the direction in which the wave energy is propagating.</p><p><strong>Step 2: Apply this definition to sound waves.</strong><br>Sound waves are generated by vibrations that create alternating regions of <span style='color:var(--orange);font-weight:bold;'>compressions</span> (areas of higher pressure/density) and <span style='color:var(--orange);font-weight:bold;'>rarefactions</span> (areas of lower pressure/density) in the medium. When a sound wave travels through air, for instance, the air molecules vibrate back and forth along the same direction that the sound itself is moving. They do not move perpendicular to the direction of propagation. This direct, parallel motion of particles responsible for transmitting the pressure variations makes sound waves longitudinal.</p><ul><li>The answer must define what a longitudinal wave is.</li><li>It should explain that for sound, the medium's particles oscillate parallel to the wave's direction of travel.</li><li>It can mention compressions and rarefactions as evidence of this parallel motion.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Imagine a Slinky spring: if you push and pull one end back and forth, the compressions and rarefactions travel along the length of the spring, and the coils themselves move back and forth in the same direction as the wave. This is an excellent analogy for longitudinal sound waves.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sound waves are considered longitudinal waves because the particles of the medium through which the sound travels oscillate (vibrate back and forth) parallel to the direction of the wave's propagation. This creates alternating regions of compressions and rarefactions that move through the medium in the same direction as the particle oscillations.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sound waves are classified as longitudinal waves because of the specific manner in which the particles of the medium oscillate during their propagation.\n\nIn a **longitudinal wave**, the particles of the medium vibrate back and forth **parallel** to the direction in which the wave's energy is traveling. For sound waves, a vibrating source (e.g., a loudspeaker, vocal cords) creates disturbances in the surrounding medium (like air).\n\nThis disturbance consists of alternating regions of:\n1.  **Compressions:** Areas where the particles of the medium are pushed closer together, resulting in higher pressure and density.\n2.  **Rarefactions:** Areas where the particles are spread farther apart, resulting in lower pressure and density.\n\nAs the sound wave propagates, these compressions and rarefactions move through the medium. The individual particles of the medium oscillate (move back and forth) along the same line as the wave's direction of travel, causing the pressure variations to transmit energy without the bulk movement of the medium itself. This direct, parallel oscillation is the defining characteristic of a longitudinal wave."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What is resonance in the context of sound waves? Provide a simple example.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Resonance",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Resonance in Sound Waves</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Resonance occurs when an oscillating system is driven at its natural frequency, leading to a significant increase in its amplitude of oscillation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define resonance in the context of sound waves and provide a simple example.</div><p><strong>Step 1: Define resonance.</strong><br><span style='color:var(--orange);font-weight:bold;'>Resonance</span>, in the context of sound waves, is a phenomenon that occurs when an object or system is subjected to an external force (like a sound wave) oscillating at or near one of its own <span style='color:var(--orange);font-weight:bold;'>natural frequencies of vibration</span>. When this condition is met, the system absorbs energy very efficiently, leading to a large increase in the amplitude of its vibrations (or sound intensity).</p><p><strong>Step 2: Provide a simple example.</strong><br>A simple example of resonance with sound waves is when you <span style='color:var(--orange);font-weight:bold;'>blow across the top of a bottle</span>. By adjusting the speed of your breath, you can find a specific frequency that matches one of the natural resonant frequencies of the air column inside the bottle. When you hit this frequency, the air inside the bottle vibrates with a much larger amplitude, producing a noticeably louder and clearer musical tone.</p><ul><li>The answer must define resonance as a phenomenon where a system vibrates with increased amplitude.</li><li>It should state that this occurs when the driving frequency matches the natural frequency.</li><li>It needs to provide a clear and simple example related to sound.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Musical instruments like guitars and trumpets are designed to utilize resonance to amplify the sounds produced by vibrating strings or air columns, demonstrating its importance in sound production.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Resonance, in the context of sound waves, is the phenomenon where a system (like an air column or an object) vibrates with maximum amplitude when it is driven by an external sound wave oscillating at or near one of its own natural frequencies. A simple example is blowing across the top of a bottle to produce a loud, clear tone when the frequency of your breath matches the natural resonant frequency of the air column inside.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resonance, in the context of sound waves, is a phenomenon where an object or system vibrates with significantly increased amplitude when it is subjected to an external oscillating force (such as a sound wave) that matches one of its own natural frequencies of vibration. When the driving frequency aligns with the system's natural frequency, energy is transferred very efficiently to the system, causing its oscillations to grow much larger than they would at other frequencies.\n\n**Simple Example:**\nA simple example of sound resonance is observed when you **blow across the top of an empty bottle**. By adjusting the speed and direction of the air you blow, you can find a specific frequency that excites the air column inside the bottle at one of its natural resonant frequencies. When this occurs, the air inside the bottle vibrates with a much larger amplitude, producing a distinctly louder and clearer musical tone than at other blowing frequencies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Explain the phenomenon of diffraction as it applies to sound waves.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Diffraction",
+      "Sound Waves"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Diffraction of Sound Waves</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Diffraction is the bending of waves as they pass around obstacles or through apertures. The extent of diffraction is related to the wavelength of the wave and the size of the obstacle/aperture.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to explain the phenomenon of diffraction as it applies to sound waves.</div><p><strong>Step 1: Define diffraction.</strong><br><span style='color:var(--orange);font-weight:bold;'>Diffraction</span> is the phenomenon where waves spread out as they pass through an opening (aperture) or around the edges of an obstacle. Instead of traveling strictly in a straight line, the wave effectively bends into the region behind the obstacle or opening.</p><p><strong>Step 2: Apply to sound waves and explain its observable effects.</strong><br>Sound waves exhibit diffraction prominently, often more noticeably than light waves in everyday scenarios. This is because the wavelengths of audible sound (ranging from a few centimeters to several meters) are often comparable to the sizes of common obstacles or openings, such as doorways, corners of buildings, or trees. When sound waves encounter these, they <span style='color:var(--orange);font-weight:bold;'>bend around them</span>, allowing sound to be heard even when the source is not in direct line of sight. For example, you can hear someone speaking from around a corner or from an adjacent room even if you cannot see them.</p><ul><li>The answer must define diffraction as the bending/spreading of waves around obstacles/apertures.</li><li>It should explain *why* sound diffraction is common (wavelength comparable to obstacle size).</li><li>It should provide a clear, observable example of sound diffraction.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The ability to hear conversations from an adjacent room through an open doorway, even if you are not directly in line with the speaker, is a common experience of sound diffraction. This highlights that sound waves do not always travel in perfectly straight lines.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Diffraction, as it applies to sound waves, is the phenomenon where sound waves bend and spread out as they pass around obstacles or through openings. This effect is very common for sound because its wavelengths are often comparable in size to everyday objects and apertures, allowing us to hear sounds from sources that are not in our direct line of sight, such as a person speaking from around a corner.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diffraction is the phenomenon where waves spread out (bend) as they pass through an opening or around the edges of an obstacle. Instead of strictly following a straight path, the wave energy deviates into the region that would otherwise be a geometric shadow.\n\nFor sound waves, diffraction is a very noticeable phenomenon in everyday life because the wavelengths of audible sound are typically comparable to the sizes of common objects and apertures (e.g., doorways, building corners, trees). When sound waves encounter such obstacles or openings, they bend around them. This is why you can hear someone speaking from an adjacent room even if you cannot see them directly, or why sound can travel around corners. The longer the wavelength of the sound relative to the size of the obstacle, the more pronounced the diffraction effect will be, allowing lower frequency sounds to bend around objects more easily than higher frequency sounds."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Define specific latent heat and explain its role in phase changes.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Specific Latent Heat",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Specific Latent Heat and Phase Changes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Phase changes (e.g., melting, boiling) involve energy transfer without a change in temperature, as the energy is used to alter the molecular arrangement.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A request to define specific latent heat and explain its role in phase changes.</div><p><strong>Step 1: Define specific latent heat.</strong><br><span style='color:var(--orange);font-weight:bold;'>Specific latent heat (L)</span> is the amount of heat energy required to change the phase (or state) of a <span style='color:var(--orange);font-weight:bold;'>unit mass</span> (typically 1 kg) of a substance at a constant temperature and pressure. It is measured in Joules per kilogram (J/kg).</p><p><strong>Step 2: Explain its role in phase changes.</strong><br>During a phase change (e.g., solid to liquid (melting/fusion), liquid to gas (boiling/vaporization)), the absorbed or released heat energy is not used to increase the kinetic energy of the particles (and thus the temperature). Instead, this <span style='color:var(--orange);font-weight:bold;'>latent heat is used to overcome or form the intermolecular forces</span> that hold the particles together in their respective phases. For melting, energy is used to break bonds and allow particles to move more freely. For boiling, even more energy is used to separate particles completely into a gaseous state. This is why the temperature remains constant during a phase change, despite continuous heat absorption or release.</p><ul><li>The answer must define specific latent heat as heat per unit mass for a phase change.</li><li>It should state the unit (J/kg).</li><li>It must explain that this energy is used to change intermolecular forces/bonds, not kinetic energy.</li><li>It should clarify that temperature remains constant during the phase change.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A pot of water will remain at 100°C while it boils, no matter how much heat is supplied, until all the water has turned into steam. This demonstrates that the absorbed heat energy is being used for the phase change (latent heat of vaporization) rather than increasing the temperature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Specific latent heat is the amount of heat energy absorbed or released per unit mass of a substance during a phase change (e.g., melting, boiling) at a constant temperature and pressure. Its role in phase changes is to provide the energy necessary to overcome or form the intermolecular forces and structural arrangements of the particles, rather than increasing their kinetic energy, which is why the temperature of the substance remains constant during the phase transition.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Specific latent heat (L) is the amount of heat energy required to change the phase (or state) of a **unit mass** (typically 1 kilogram) of a substance at a constant temperature and pressure. It is measured in Joules per kilogram (J/kg). The term \"latent\" signifies that this heat does not cause a change in temperature.\n\n**Role in Phase Changes:**\nDuring a phase change, such as melting (solid to liquid) or vaporization (liquid to gas), the absorbed or released heat energy is not used to increase the kinetic energy of the particles, and therefore, the temperature of the substance remains constant. Instead, this latent heat is entirely used to:\n\n*   **Overcome intermolecular forces:** For melting, energy breaks down the rigid structure of the solid, allowing molecules to move more freely in the liquid phase. For vaporization, even more energy is needed to completely overcome the attractive forces between molecules, allowing them to escape into the gaseous phase.\n*   **Change molecular arrangement:** This energy is invested in altering the structural arrangement of the particles, changing the potential energy component of the internal energy, rather than increasing the kinetic energy (which would register as a temperature rise).\n\nThus, specific latent heat facilitates the transition between states without a change in temperature."
+    }
+  }
+]
