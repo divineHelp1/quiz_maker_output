@@ -1,0 +1,1146 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer any 80 of the following multiple-choice questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "For a differential equation, the 'order' is defined as the order of the highest derivative present. What is the precise relationship between the order of a differential equation and its 'degree'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The degree is the exponent of the highest-order derivative after the equation has been rationalized." },
+        { "type": "string", "content": "The degree is always equal to the order of the differential equation." },
+        { "type": "string", "content": "The degree refers to the highest power of the independent variable." },
+        { "type": "string", "content": "The degree is the highest power of the dependent variable in the equation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Order and Degree", "Differential Equations Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Order and Degree of Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em><br/><em>Order:</em> The order of the highest derivative present in a differential equation.<br/><em>Degree:</em> The exponent of the highest-order derivative once the equation has been made free of radicals and fractions in terms of its derivatives. If derivatives are inside transcendental functions (e.g., sin(y')), the degree is undefined.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the relationship between the order and degree of a differential equation.</div><p><strong>Step 1: Understand the definitions.</strong><br/>The order is straightforward: it's simply the order of the <span style='color:var(--orange);font-weight:bold;'>highest derivative</span>. For example, if y''' is the highest derivative, the order is 3.</p><p><strong>Step 2: Understand the definition of degree.</strong><br/>The degree is the <span style='color:var(--orange);font-weight:bold;'>exponent of that highest-order derivative</span>, but only after ensuring the equation is rationalized (no fractional or radical powers of derivatives) and polynomial (no derivatives inside transcendental functions). If the highest derivative is (y''')^2, and it's the highest power after rationalization, the degree is 2.</p><p><strong>Step 3: Analyze the relationship.</strong><br/>The order and degree are distinct properties. The order determines the number of arbitrary constants in the general solution, while the degree is related to the linearity of the equation with respect to the highest derivative. The degree is specifically the power of the highest derivative after it has been cleared of radicals and fractions. This implies a process of 'rationalization' to find the degree.</p><ul><li>Evaluating Option 1: <span style='color:var(--cAns);font-weight:bold;'>\"The degree is the exponent of the highest-order derivative after the equation has been rationalized.\"</span> This accurately reflects the definition of degree, specifically mentioning the critical step of rationalization to correctly identify the exponent of the highest derivative.</li><li>Evaluating Option 2: \"The degree is always equal to the order of the differential equation.\" This is incorrect. The degree can be any positive integer, while the order is also a positive integer; they are not necessarily equal (e.g., y''' + (y'')^5 = x has order 3, degree 5).</li><li>Evaluating Option 3: \"The degree refers to the highest power of the independent variable.\" This is incorrect. The degree refers to the power of the derivative, not the independent variable.</li><li>Evaluating Option 4: \"The degree is the highest power of the dependent variable in the equation.\" This is incorrect. The degree refers to the power of the derivative, not the dependent variable itself (unless the dependent variable is the highest derivative, which is generally not the case for higher orders).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider the equation (y'')^3 + y' + y = 0. The highest derivative is y'', so the order is 2. The exponent of y'' is 3, and the equation is already rationalized. Thus, the degree is 3. This confirms that the degree is the exponent of the highest-order derivative after rationalization and is not necessarily equal to the order.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The degree is the exponent of the highest-order derivative after the equation has been rationalized.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The degree is the exponent of the highest-order derivative after the equation has been rationalized."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Consider a differential equation where the dependent variable and its derivatives appear only to the first power and are not multiplied together. Which property does this describe?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Homogeneity" },
+        { "type": "string", "content": "Linearity" },
+        { "type": "string", "content": "Exactness" },
+        { "type": "string", "content": "Separability" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Linear and Non-linear Differential Equations", "Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Linearity of Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A differential equation is considered <em>linear</em> if the dependent variable and all its derivatives appear only to the first power, and there are no products of the dependent variable with its derivatives. Additionally, no transcendental functions of the dependent variable or its derivatives should be present. The coefficients of the dependent variable and its derivatives can be functions of the independent variable.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A description of a differential equation where the dependent variable and its derivatives appear only to the first power and are not multiplied together.</div><p><strong>Step 1: Analyze the given characteristics.</strong><br/>The description states two crucial conditions: <span style='color:var(--orange);font-weight:bold;'>1) dependent variable and its derivatives appear only to the first power</span>, and <span style='color:var(--orange);font-weight:bold;'>2) they are not multiplied together</span>. These are the defining characteristics of a linear differential equation.</p><p><strong>Step 2: Relate to standard classifications.</strong><br/>A general form for a linear ordinary differential equation of order <em>n</em> is <span style='color:var(--orange);font-weight:bold;'>a_n(x)y^(n) + a_(n-1)(x)y^(n-1) + ... + a_1(x)y' + a_0(x)y = g(x)</span>. In this form, y and its derivatives y', y'', ..., y^(n) always appear to the power of 1, and there are no products like yy' or (y')^2.</p><ul><li>Evaluating Option 1: \"Homogeneity.\" Homogeneity refers to whether all terms in the equation involve the dependent variable or its derivatives (homogeneous if g(x) = 0, non-homogeneous otherwise), or if the function f(x,y) in dy/dx = f(x,y) is a homogeneous function of degree zero. This is a different property from the one described.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"Linearity.\"</span> This precisely matches the description. Linearity implies that the dependent variable and its derivatives are of degree one and not multiplied together.</li><li>Evaluating Option 3: \"Exactness.\" Exactness is a property of first-order differential equations of the form M(x,y)dx + N(x,y)dy = 0, where ∂M/∂y = ∂N/∂x. This is a specific condition for solvability, not a description of the powers or products of terms.</li><li>Evaluating Option 4: \"Separability.\" Separability refers to a first-order equation dy/dx = f(x)g(y) where the variables can be separated. This is a method of solution for a specific type of first-order equation and doesn't define the power or product rules described.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider y' + xy = sin(x). Here, y and y' appear to the first power, are not multiplied, and coefficients depend on x. This is a linear ODE. Consider y' + y^2 = x. Here, y appears to the second power (y^2), making it non-linear, which deviates from the given description. The description explicitly defines linearity.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The property described is Linearity.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Linearity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "For an initial value problem, the Lipschitz condition on the function `f(x, y)` (where `dy/dx = f(x, y)`) in the dependent variable `y` is primarily associated with ensuring which critical aspect of the solution?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The existence of at least one solution to the problem." },
+        { "type": "string", "content": "The uniqueness of the solution to the problem." },
+        { "type": "string", "content": "The boundedness of the solution over an infinite interval." },
+        { "type": "string", "content": "The differentiability of the solution at the initial point." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Existence and Uniqueness", "Initial Value Problems"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Existence and Uniqueness of Solutions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For an Initial Value Problem (IVP) of the form `dy/dx = f(x, y)` with `y(x_0) = y_0`, the Picard-Lindelöf theorem (or Existence and Uniqueness Theorem) states that if `f(x, y)` and its partial derivative `∂f/∂y` are continuous in a rectangular region containing `(x_0, y_0)`, then a unique solution exists in some interval `(x_0 - h, x_0 + h)`. The continuity of `f(x, y)` alone often guarantees existence, while the additional condition of `∂f/∂y` being continuous (which implies `f` is Lipschitz continuous with respect to `y` in that region) is crucial for guaranteeing <em>uniqueness</em>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> The Lipschitz condition on `f(x, y)` in `y` for `dy/dx = f(x, y)` in an Initial Value Problem.</div><p><strong>Step 1: Recall the conditions for existence and uniqueness.</strong><br/>The basic existence theorem (Peano existence theorem) states that if `f(x, y)` is continuous in a region, a solution exists. However, it does not guarantee uniqueness.</p><p><strong>Step 2: Understand the role of the Lipschitz condition.</strong><br/>The Lipschitz condition with respect to `y` (i.e., `|f(x, y_1) - f(x, y_2)| ≤ K|y_1 - y_2|` for some constant `K`) is a stronger condition than mere continuity. This condition, often satisfied when `∂f/∂y` is continuous and bounded, is precisely what ensures that <span style='color:var(--orange);font-weight:bold;'>there is only one solution</span> passing through the initial point. Without it, multiple solutions could branch off from the same initial point.</p><ul><li>Evaluating Option 1: \"The existence of at least one solution to the problem.\" While continuity of `f(x, y)` is generally sufficient for existence, the Lipschitz condition is a stronger condition primarily for uniqueness.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"The uniqueness of the solution to the problem.\"</span> This is the primary role of the Lipschitz condition in existence and uniqueness theorems for IVPs. It prevents different solutions from intersecting at the initial point.</li><li>Evaluating Option 3: \"The boundedness of the solution over an infinite interval.\" The Lipschitz condition ensures uniqueness locally, not necessarily global boundedness or behavior over infinite intervals.</li><li>Evaluating Option 4: \"The differentiability of the solution at the initial point.\" The solution is always differentiable where `f(x,y)` is defined, as `dy/dx = f(x,y)`. The Lipschitz condition pertains to the behavior of `f` with respect to `y`, ensuring unique paths.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `dy/dx = y^(1/3)` with `y(0)=0`. Here, `f(x,y) = y^(1/3)` is continuous but not Lipschitz at `y=0` because `∂f/∂y = (1/3)y^(-2/3)` is unbounded at `y=0`. This IVP has multiple solutions: `y(x) = 0` and `y(x) = (2x/3)^(3/2)`. This example illustrates that without the Lipschitz condition, uniqueness is not guaranteed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Lipschitz condition is primarily associated with ensuring the uniqueness of the solution to the problem.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "The uniqueness of the solution to the problem."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which type of solution to a differential equation typically contains arbitrary constants equal to the order of the differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A particular solution" },
+        { "type": "string", "content": "A singular solution" },
+        { "type": "string", "content": "A general solution" },
+        { "type": "string", "content": "An equilibrium solution" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["General, Particular and Singular Solutions", "Solution Types"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Types of Solutions to Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em><br/><em>General Solution:</em> A solution to a differential equation that contains the maximum number of arbitrary independent constants, equal to the order of the differential equation. It represents a family of curves.<br/><em>Particular Solution:</em> A solution obtained from the general solution by assigning specific values to the arbitrary constants, usually determined by initial or boundary conditions.<br/><em>Singular Solution:</em> A solution that cannot be obtained from the general solution by assigning specific values to the arbitrary constants. It often represents an envelope of the family of curves given by the general solution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the type of solution containing arbitrary constants equal to the order of the differential equation.</div><p><strong>Step 1: Recall the definitions of different solution types.</strong><br/>A differential equation's general solution is its most comprehensive solution, containing all possible solutions within a family. The number of arbitrary constants in this family is directly linked to the order of the differential equation.</p><p><strong>Step 2: Apply the definition to the question.</strong><br/>By definition, a <span style='color:var(--orange);font-weight:bold;'>general solution</span> incorporates arbitrary constants whose count matches the equation's order. For example, a first-order ODE has one arbitrary constant, a second-order ODE has two, and so on. These constants allow the solution to represent a family of curves, which can then be narrowed down to a particular solution using initial or boundary conditions.</p><ul><li>Evaluating Option 1: \"A particular solution.\" A particular solution results from setting the arbitrary constants to specific values, thus it contains no arbitrary constants.</li><li>Evaluating Option 2: \"A singular solution.\" A singular solution does not arise from the general solution by specifying the arbitrary constants. It may or may not contain constants (e.g., it might be a specific curve that is an envelope of the general solutions).</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"A general solution.\"</span> This aligns perfectly with the definition. A general solution is precisely the family of solutions containing arbitrary constants, where the number of constants matches the order of the differential equation.</li><li>Evaluating Option 4: \"An equilibrium solution.\" An equilibrium solution (or steady-state solution) is a constant solution (y(x) = C) where dy/dx = 0. It is a specific type of particular solution and does not generally contain arbitrary constants in the way described.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `y' = k y`, the general solution is `y = Ce^(kx)`. This is a first-order ODE, and its general solution has one arbitrary constant `C`. For `y'' + y = 0`, the general solution is `y = C1 cos(x) + C2 sin(x)`. This is a second-order ODE, and its general solution has two arbitrary constants `C1` and `C2`. This consistency confirms the role of the general solution.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A general solution typically contains arbitrary constants equal to the order of the differential equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A general solution"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "The process of eliminating arbitrary constants from a family of curves to obtain a differential equation is known as what?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Solving an initial-value problem" },
+        { "type": "string", "content": "Finding the general solution" },
+        { "type": "string", "content": "Formation of a differential equation" },
+        { "type": "string", "content": "Integration by parts" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Formation of Differential Equations", "Ordinary Differential Equations"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Formation of Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> Differential equations can be 'formed' or 'derived' from a given family of curves by systematically eliminating the arbitrary constants present in the equation of the family. The number of arbitrary constants typically dictates the order of the resulting differential equation. This is the inverse process of solving a differential equation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A description of the process: eliminating arbitrary constants from a family of curves to obtain a differential equation.</div><p><strong>Step 1: Analyze the described process.</strong><br/>The process involves starting with an equation that includes parameters (arbitrary constants) and manipulating it (usually by differentiation) to remove these parameters, resulting in an equation that involves derivatives. This is fundamentally about constructing a differential equation that describes the given family of curves.</p><p><strong>Step 2: Match the process to the correct terminology.</strong><br/>When we are given a family of solutions (e.g., y = C sin(x)) and asked to find the differential equation from which it originates, we differentiate the family repeatedly and then eliminate the constant(s). This is the 'formation' or 'derivation' of a differential equation.</p><ul><li>Evaluating Option 1: \"Solving an initial-value problem.\" Solving an IVP involves finding a particular solution to a given differential equation by using an initial condition to determine the arbitrary constants in the general solution. This is the opposite process.</li><li>Evaluating Option 2: \"Finding the general solution.\" Finding the general solution means solving a given differential equation to obtain a family of curves with arbitrary constants. This is also the opposite process.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"Formation of a differential equation.\"</span> This term accurately describes the process of deriving a differential equation from a family of curves by eliminating arbitrary constants.</li><li>Evaluating Option 4: \"Integration by parts.\" Integration by parts is a technique for evaluating integrals, which is a step often used in *solving* differential equations, not forming them from families of curves.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider the family of curves y = Cx. To form the differential equation, differentiate: y' = C. Substitute C back into the original equation: y = y'x, or y' = y/x. This shows that eliminating the arbitrary constant C leads to a differential equation, which is precisely the process of formation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The process of eliminating arbitrary constants from a family of curves to obtain a differential equation is known as the formation of a differential equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Formation of a differential equation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "If a differential equation contains a transcendental function of the derivative (e.g., `sin(dy/dx)` or `e^(y')`), which aspect of the equation might become undefined?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Its order" },
+        { "type": "string", "content": "Its linearity" },
+        { "type": "string", "content": "Its degree" },
+        { "type": "string", "content": "Its general solution" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Order and Degree", "Differential Equations Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Degree of Differential Equations with Transcendental Terms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> The <em>degree</em> of a differential equation is defined as the exponent of the highest-order derivative when the differential equation is expressed as a polynomial in its derivatives, free from radicals and fractions involving derivatives. If a derivative appears inside a transcendental function (like sin, cos, tan, log, exp), then the equation cannot be written as a polynomial in its derivatives, and therefore, its degree is considered undefined.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A differential equation containing a transcendental function of a derivative (e.g., `sin(dy/dx)` or `e^(y')`).</div><p><strong>Step 1: Recall the definition of degree.</strong><br/>The degree is the highest power of the highest-order derivative *after* the equation has been rationalized (cleared of fractional or radical exponents on derivatives) and is expressible as a polynomial in its derivatives. This means the derivatives themselves should not be arguments of transcendental functions.</p><p><strong>Step 2: Analyze the effect of transcendental functions of derivatives.</strong><br/>If a derivative appears as the argument of a transcendental function (like `sin(y')` or `e^(y'')`), the differential equation cannot be written as a <span style='color:var(--orange);font-weight:bold;'>polynomial in its derivatives</span>. For example, you cannot express `sin(y')` as `(y')^n` for any integer `n`. Consequently, the exponent of the highest derivative (which defines the degree) cannot be determined in the standard way.</p><ul><li>Evaluating Option 1: \"Its order.\" The order of a differential equation is simply the highest derivative present. The presence of `sin(dy/dx)` still clearly indicates the highest derivative is `dy/dx`, making the order 1. So, the order is defined.</li><li>Evaluating Option 2: \"Its linearity.\" Linearity depends on whether the dependent variable and its derivatives appear to the first power and are not multiplied. `sin(dy/dx)` violates the first power rule and means the equation is non-linear, but linearity itself is a classification, not something that becomes undefined in this context. The equation is simply non-linear.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"Its degree.\"</span> As explained, the definition of degree requires the equation to be polynomial in its derivatives. When derivatives are arguments of transcendental functions, this condition is violated, rendering the degree undefined.</li><li>Evaluating Option 4: \"Its general solution.\" The existence of a general solution is not directly tied to the degree being defined. Such equations can still have solutions, even if they are harder to find.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `y'' + sin(y') = x`. The highest derivative is `y''`, so the order is 2. However, `y'` is inside the `sin` function, so we cannot determine an integer power for `y'` or `y''` that defines the degree of the equation as a whole polynomial in its derivatives. Hence, the degree is undefined.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If a differential equation contains a transcendental function of the derivative, its degree might become undefined.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Its degree"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "A differential equation is classified as non-linear if which condition is met?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The independent variable appears with an exponent greater than one." },
+        { "type": "string", "content": "The dependent variable or its derivatives are of degree higher than one, or they are multiplied together." },
+        { "type": "string", "content": "All terms in the equation contain the dependent variable or its derivatives." },
+        { "type": "string", "content": "The coefficients of the derivatives are constants." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Linear and Non-linear Differential Equations", "Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Non-linear Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A differential equation is <em>non-linear</em> if it is not linear. This means that at least one of the following conditions is met: the dependent variable `y` or any of its derivatives `y'`, `y''`, etc., appears with a power other than one (e.g., `y^2`, `(y')^3`); or products of `y` and/or its derivatives exist (e.g., `yy'`, `y'y''`); or `y` or its derivatives are arguments of transcendental functions (e.g., `sin(y)`, `e^(y')`).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for a condition that classifies a differential equation as non-linear.</div><p><strong>Step 1: Understand the definition of linearity.</strong><br/>A differential equation is linear if the dependent variable and all its derivatives appear only to the first power and are not multiplied together. Any deviation from these criteria renders the equation non-linear.</p><p><strong>Step 2: Identify the conditions for non-linearity.</strong><br/>Based on the definition of linearity, a differential equation becomes non-linear if: <span style='color:var(--orange);font-weight:bold;'>1) the dependent variable (y) or any of its derivatives (y', y'', ...) has an exponent other than 1</span> (e.g., `y^2`, `(y')^3`, etc.), or <span style='color:var(--orange);font-weight:bold;'>2) there are products of the dependent variable and/or its derivatives</span> (e.g., `yy'`, `y'y''`, etc.), or <span style='color:var(--orange);font-weight:bold;'>3) the dependent variable or its derivatives are arguments of transcendental functions</span> (e.g., `sin(y)`, `e^(y')`, `log(y')`).</p><ul><li>Evaluating Option 1: \"The independent variable appears with an exponent greater than one.\" The linearity of a differential equation is determined by the dependent variable and its derivatives, not the independent variable. An equation like `y' + y = x^2` is linear, despite `x^2`.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"The dependent variable or its derivatives are of degree higher than one, or they are multiplied together.\"</span> This directly captures the essence of non-linearity by listing the key violations of the linearity definition concerning powers and products of the dependent variable and its derivatives.</li><li>Evaluating Option 3: \"All terms in the equation contain the dependent variable or its derivatives.\" This describes a homogeneous linear equation (if the other conditions for linearity are met), not necessarily a non-linear one. For example, `y' + y = 0` is homogeneous and linear.</li><li>Evaluating Option 4: \"The coefficients of the derivatives are constants.\" This refers to a linear differential equation with constant coefficients. Such an equation is linear, not necessarily non-linear. For example, `y'' + 2y' + y = x` is linear with constant coefficients.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `y' + y^2 = x`. Here, `y^2` makes it non-linear because `y` is raised to a power greater than one. Consider `y' + yy' = x`. Here, the product `yy'` makes it non-linear. These examples fit the condition in the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A differential equation is classified as non-linear if the dependent variable or its derivatives are of degree higher than one, or they are multiplied together.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "The dependent variable or its derivatives are of degree higher than one, or they are multiplied together."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "If the function `f(x, y)` in `dy/dx = f(x, y)` and its partial derivative `∂f/∂y` are continuous in a region containing an initial point `(x_0, y_0)`, what can be concluded about the solution to the initial value problem?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A solution exists, but its uniqueness is not guaranteed." },
+        { "type": "string", "content": "No solution is guaranteed to exist unless `f(x, y)` is linear." },
+        { "type": "string", "content": "A unique solution is guaranteed to exist in some interval around `x_0`." },
+        { "type": "string", "content": "Only a singular solution exists, not a general one." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Existence and Uniqueness", "Initial Value Problems"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Existence and Uniqueness Theorem (Picard-Lindelöf)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For an Initial Value Problem (IVP) given by `dy/dx = f(x, y)` with `y(x_0) = y_0`, the Existence and Uniqueness Theorem states that if both `f(x, y)` and its partial derivative `∂f/∂y` are continuous in some rectangle `R = {(x, y) | a < x < b, c < y < d}` that contains the point `(x_0, y_0)`, then there exists a unique solution `y = φ(x)` to the IVP on some interval `I` within `(a, b)` containing `x_0`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> `f(x, y)` and `∂f/∂y` are continuous in a region containing an initial point `(x_0, y_0)`.</div><p><strong>Step 1: Identify the conditions stated in the question.</strong><br/>The question explicitly states that <span style='color:var(--orange);font-weight:bold;'>both `f(x, y)` and `∂f/∂y` are continuous</span> in a region around the initial point. These are precisely the conditions required by the Picard-Lindelöf Existence and Uniqueness Theorem.</p><p><strong>Step 2: Apply the Existence and Uniqueness Theorem.</strong><br/>According to the theorem, the continuity of `f(x, y)` ensures the existence of a solution, and the additional continuity of `∂f/∂y` (which implies `f` is Lipschitz continuous in `y`) ensures the uniqueness of that solution. Therefore, a unique solution is guaranteed.</p><ul><li>Evaluating Option 1: \"A solution exists, but its uniqueness is not guaranteed.\" This statement would be true if only `f(x, y)` were guaranteed to be continuous, but `∂f/∂y` being continuous provides the additional condition for uniqueness.</li><li>Evaluating Option 2: \"No solution is guaranteed to exist unless `f(x, y)` is linear.\" This is incorrect. The theorem applies to non-linear equations as long as the continuity conditions are met.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"A unique solution is guaranteed to exist in some interval around `x_0`.\"</span> This is the direct conclusion from the Existence and Uniqueness Theorem when both `f(x, y)` and `∂f/∂y` are continuous. The solution is guaranteed to be unique and exist locally.</li><li>Evaluating Option 4: \"Only a singular solution exists, not a general one.\" This is incorrect. The theorem guarantees a regular (non-singular) solution, and uniqueness implies that this is the only one in the specified interval.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> If `f(x,y) = x^2y` and `y(0)=1`. Then `∂f/∂y = x^2`. Both `f(x,y)` and `∂f/∂y` are continuous everywhere. Thus, a unique solution passing through `(0,1)` is guaranteed. This aligns with the theorem.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A unique solution is guaranteed to exist in some interval around `x_0`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A unique solution is guaranteed to exist in some interval around `x_0`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "What distinguishes a singular solution from a particular solution of a differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A singular solution is obtained by setting all arbitrary constants in the general solution to zero, while a particular solution uses specific non-zero values." },
+        { "type": "string", "content": "A particular solution contains fewer arbitrary constants than the order of the equation, whereas a singular solution contains none." },
+        { "type": "string", "content": "A singular solution cannot be derived from the general solution by assigning specific values to its arbitrary constants, unlike a particular solution." },
+        { "type": "string", "content": "A singular solution only applies to non-linear equations, while a particular solution applies only to linear equations." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["General, Particular and Singular Solutions", "Solution Types"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Singular vs. Particular Solutions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em><br/><em>Particular Solution:</em> A specific solution obtained from the general solution by assigning particular values to the arbitrary constants, often determined by initial or boundary conditions.<br/><em>Singular Solution:</em> A solution to a differential equation that is not part of the family of solutions described by the general solution. It cannot be obtained by specializing the arbitrary constants in the general solution. Singular solutions often occur as envelopes of the family of curves represented by the general solution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the distinction between a singular solution and a particular solution.</div><p><strong>Step 1: Define a particular solution.</strong><br/>A particular solution is essentially a member of the <span style='color:var(--orange);font-weight:bold;'>family of curves described by the general solution</span>. We find it by using additional conditions (like initial values) to determine the exact values of the arbitrary constants (C1, C2, etc.) present in the general solution.</p><p><strong>Step 2: Define a singular solution.</strong><br/>A singular solution is distinct because it is <span style='color:var(--orange);font-weight:bold;'>not a member of that family</span>. It satisfies the differential equation but cannot be obtained by simply substituting values into the arbitrary constants of the general solution. It often represents an envelope to the family of particular solutions.</p><ul><li>Evaluating Option 1: \"A singular solution is obtained by setting all arbitrary constants in the general solution to zero, while a particular solution uses specific non-zero values.\" Setting constants to zero gives a specific particular solution, but not necessarily a singular solution. A singular solution is fundamentally distinct from the general solution's family.</li><li>Evaluating Option 2: \"A particular solution contains fewer arbitrary constants than the order of the equation, whereas a singular solution contains none.\" A particular solution contains *no* arbitrary constants (they've been assigned specific values). A singular solution also generally contains no arbitrary constants, but the distinction is *how* they are obtained relative to the general solution.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"A singular solution cannot be derived from the general solution by assigning specific values to its arbitrary constants, unlike a particular solution.\"</span> This is the fundamental distinguishing characteristic. A particular solution *is* a specific instance of the general solution, while a singular solution exists outside that family.</li><li>Evaluating Option 4: \"A singular solution only applies to non-linear equations, while a particular solution applies only to linear equations.\" Singular solutions typically arise in non-linear differential equations, but particular solutions exist for both linear and non-linear equations. This option incorrectly restricts particular solutions and doesn't fully capture the definition of singular solutions.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider Clairaut's equation `y = xy' + (y')^2`. The general solution is `y = Cx + C^2` (a family of straight lines). A particular solution would be `y = 2x + 4` (if C=2). The singular solution is `y = -x^2/4`, which is the envelope of the family of lines and cannot be obtained from `y = Cx + C^2` by assigning a value to `C`. This example confirms the distinction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A singular solution cannot be derived from the general solution by assigning specific values to its arbitrary constants, unlike a particular solution.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A singular solution cannot be derived from the general solution by assigning specific values to its arbitrary constants, unlike a particular solution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "In the context of solving ordinary differential equations, what is the primary objective?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To find a function `y(x)` that satisfies the given equation identically." },
+        { "type": "string", "content": "To determine the order and degree of the equation." },
+        { "type": "string", "content": "To simplify the equation into an algebraic expression." },
+        { "type": "string", "content": "To eliminate all dependent variables from the equation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Solution of Ordinary Differential Equations", "Introduction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Objective of Solving Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A differential equation is an equation that relates an unknown function to its derivatives. 'Solving' a differential equation means finding the function (or family of functions) that satisfies the equation for all values in its domain, turning the equation into an identity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the primary objective of solving ordinary differential equations.</div><p><strong>Step 1: Understand what a differential equation represents.</strong><br/>A differential equation describes a relationship between a function and its rates of change. The unknown in a differential equation is not a number, but a <span style='color:var(--orange);font-weight:bold;'>function</span>.</p><p><strong>Step 2: Define 'solving' in this context.</strong><br/>Therefore, 'solving' means finding that unknown function. The goal is to determine the function `y(x)` (or `y(t)`) such that when `y(x)` and its derivatives are substituted back into the original differential equation, the equation holds true for all relevant values of `x` (or `t`).</p><ul><li>Evaluating Option 1: <span style='color:var(--cAns);font-weight:bold;'>\"To find a function `y(x)` that satisfies the given equation identically.\"</span> This is the precise definition and primary objective of solving a differential equation. We are looking for the function itself.</li><li>Evaluating Option 2: \"To determine the order and degree of the equation.\" Determining order and degree are classification steps, useful for understanding the equation, but not the ultimate goal of solving it.</li><li>Evaluating Option 3: \"To simplify the equation into an algebraic expression.\" Solving a differential equation generally involves integration, transforming it from an equation involving derivatives into an algebraic relationship for the function, but the goal is the function, not just simplification into an algebraic expression (which could be an intermediate step). The solution *is* a function, not just an expression for the derivatives.</li><li>Evaluating Option 4: \"To eliminate all dependent variables from the equation.\" This is incorrect; the dependent variable `y(x)` is precisely what we are trying to find. We are eliminating the derivatives through integration, but not the function itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For the differential equation `y' = 2x`, the objective is to find `y(x)`. Integrating both sides yields `y(x) = x^2 + C`. If we substitute `y(x) = x^2 + C` back into `y' = 2x`, we get `2x = 2x`, which is an identity. This confirms that finding `y(x)` is the objective.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary objective in solving ordinary differential equations is to find a function `y(x)` that satisfies the given equation identically.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "To find a function `y(x)` that satisfies the given equation identically."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which characteristic is *not* a primary method for classifying first-order differential equations based on their structural form, leading to a specific solution technique?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Linearity" },
+        { "type": "string", "content": "Homogeneity" },
+        { "type": "string", "content": "Separability" },
+        { "type": "string", "content": "Continuity" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Classification of First-Order Differential Equations", "Solution Methods"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of First-Order Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> First-order differential equations are typically classified based on their mathematical structure, which then dictates the most appropriate solution technique. Common classifications include: <em>variable separable</em> (can be written as `f(x)dx + g(y)dy = 0`), <em>homogeneous</em> (`dy/dx = F(y/x)`), <em>exact</em> (`Mdx + Ndy = 0` with `∂M/∂y = ∂N/∂x`), and <em>linear</em> (`dy/dx + P(x)y = Q(x)`).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking to identify a characteristic that is *not* a primary method for classifying first-order differential equations based on structural form leading to a solution technique.</div><p><strong>Step 1: Evaluate each option as a classification method.</strong><br/>We need to determine which option does *not* represent a common classification for first-order ODEs that directly indicates a solution strategy.</p><ul><li>Evaluating Option 1: \"Linearity.\" Linear first-order ODEs (e.g., `y' + P(x)y = Q(x)`) are a fundamental class with a specific solution method involving integrating factors. So, this is a primary classification.</li><li>Evaluating Option 2: \"Homogeneity.\" Homogeneous first-order ODEs (e.g., `dy/dx = f(y/x)`) are a distinct class solved by the substitution `y=vx`. So, this is a primary classification.</li><li>Evaluating Option 3: \"Separability.\" Variable separable first-order ODEs (e.g., `dy/dx = f(x)g(y)`) are a distinct class solved by direct integration after separating variables. So, this is a primary classification.</li><li>Evaluating Option 4: <span style='color:var(--cAns);font-weight:bold;'>\"Continuity.\"</span> Continuity is a fundamental property of functions, essential for the existence of solutions (as per Existence and Uniqueness theorems). However, it is a prerequisite for methods to work, not a classification of the *structural form* of the differential equation that points to a specific solution technique itself. One doesn't classify an ODE as a \"continuous equation\" in the same way as \"separable\" or \"linear.\"</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> An equation like `y' = x^2 + y` can be continuous, but it's not separable, homogeneous, or exact. Its continuity doesn't immediately tell you how to solve it; instead, you'd look at its linearity (which it possesses) or other structural properties. The other options are indeed common classifications that immediately suggest a solution strategy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Continuity is not a primary method for classifying first-order differential equations based on their structural form leading to a specific solution technique.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Continuity"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "A first-order differential equation `dy/dx = f(x, y)` is considered variable separable if the function `f(x, y)` can be expressed in what specific form?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`f(x, y) = M(x) + N(y)`" },
+        { "type": "string", "content": "`f(x, y) = P(x)y + Q(x)`" },
+        { "type": "string", "content": "`f(x, y) = g(x)h(y)`" },
+        { "type": "string", "content": "`f(x, y) = F(y/x)`" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Variable Separable First Order Differential Equations", "Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Variable Separable First-Order Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order differential equation `dy/dx = f(x, y)` is called <em>variable separable</em> if the function `f(x, y)` can be factored into a product of a function of `x` only and a function of `y` only. That is, `f(x, y) = g(x)h(y)`. This allows the equation to be rewritten as `(1/h(y))dy = g(x)dx`, where the variables are separated on opposite sides of the equation, making it solvable by direct integration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the specific form of `f(x, y)` for a variable separable first-order differential equation `dy/dx = f(x, y)`.</div><p><strong>Step 1: Understand the meaning of 'variable separable'.</strong><br/>'Variable separable' means that terms involving the independent variable (`x`) and the dependent variable (`y`) can be moved to opposite sides of the equation, typically in the form `G(y)dy = H(x)dx`. This is achievable if the right-hand side `f(x, y)` can be expressed as a product of a function of `x` and a function of `y`.</p><p><strong>Step 2: Match the requirement to the given options.</strong><br/>If `f(x, y)` is a product of a function of `x` (let's call it `g(x)`) and a function of `y` (let's call it `h(y)`), then `dy/dx = g(x)h(y)`. This allows us to write `(1/h(y))dy = g(x)dx`, where the variables are separated.</p><ul><li>Evaluating Option 1: \"`f(x, y) = M(x) + N(y)`.\" This form (`dy/dx = M(x) + N(y)`) is generally *not* separable. For example, `dy/dx = x + y` is not separable.</li><li>Evaluating Option 2: \"`f(x, y) = P(x)y + Q(x)`.\" This is the form for a first-order *linear* differential equation, which is not necessarily separable. For example, `dy/dx = y + x` is linear but not separable.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"`f(x, y) = g(x)h(y)`.\"</span> This is the exact definition of a variable separable form, where `g(x)` is a function solely of `x` and `h(y)` is a function solely of `y`.</li><li>Evaluating Option 4: \"`f(x, y) = F(y/x)`.\" This is the form for a *homogeneous* first-order differential equation, which is generally not separable until a substitution like `y=vx` is made.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `dy/dx = x^2y`. Here, `g(x) = x^2` and `h(y) = y`. The equation can be written as `(1/y)dy = x^2dx`, which is clearly separable. Contrast this with `dy/dx = x + y`, which cannot be factored into `g(x)h(y)` and thus is not separable.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A first-order differential equation `dy/dx = f(x, y)` is variable separable if `f(x, y)` can be expressed in the form `f(x, y) = g(x)h(y)`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`f(x, y) = g(x)h(y)`"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "When applying the method of separation of variables to `dy/dx = f(x)g(y)`, what is the crucial initial step after rearranging terms?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Differentiating both sides with respect to x." },
+        { "type": "string", "content": "Integrating both sides with respect to y." },
+        { "type": "string", "content": "Integrating both sides with respect to their respective variables." },
+        { "type": "string", "content": "Substituting `y = vx` to simplify the equation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Separation of Variables Method", "Problem-Solving Strategy"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Problem-Solving Strategy: Separation of Variables</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For a variable separable differential equation `dy/dx = f(x)g(y)`, the method involves rearranging the terms so that all terms involving `y` (and `dy`) are on one side, and all terms involving `x` (and `dx`) are on the other side. This typically results in `(1/g(y))dy = f(x)dx`. Once separated, the solution is obtained by directly integrating both sides.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> Applying separation of variables to `dy/dx = f(x)g(y)`, and asking for the crucial initial step after rearranging terms.</div><p><strong>Step 1: Recall the goal of separation of variables.</strong><br/>The goal is to get `y` terms with `dy` on one side and `x` terms with `dx` on the other side. For `dy/dx = f(x)g(y)`, this rearrangement leads to <span style='color:var(--orange);font-weight:bold;'>`(1/g(y))dy = f(x)dx`</span>.</p><p><strong>Step 2: Identify the next logical step after separation.</strong><br/>Once the variables are successfully separated, the equation is in a form where each side can be integrated independently with respect to its own variable. The left side is integrated with respect to `y`, and the right side is integrated with respect to `x`.</p><ul><li>Evaluating Option 1: \"Differentiating both sides with respect to x.\" Differentiating would lead to higher-order derivatives and move away from solving the first-order equation.</li><li>Evaluating Option 2: \"Integrating both sides with respect to y.\" Only the `y` side is integrated with respect to `y`; the `x` side is integrated with respect to `x`. Integrating both sides with respect to *only* `y` would be incorrect for the `x` side.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"Integrating both sides with respect to their respective variables.\"</span> This is the correct and crucial next step. After `(1/g(y))dy = f(x)dx`, one performs `∫(1/g(y))dy = ∫f(x)dx`.</li><li>Evaluating Option 4: \"Substituting `y = vx` to simplify the equation.\" This substitution is characteristic of solving *homogeneous* differential equations, not directly part of the separation of variables method.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `dy/dx = 2xy`, we separate variables: `(1/y)dy = 2xdx`. The next step is `∫(1/y)dy = ∫2xdx`, which gives `ln|y| = x^2 + C`. This clearly demonstrates that integration with respect to respective variables is the key step.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The crucial initial step after rearranging terms is integrating both sides with respect to their respective variables.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Integrating both sides with respect to their respective variables."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "For an initial-value problem involving a first-order differential equation, how is the arbitrary constant, typically introduced during integration, determined?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "By setting it to zero to obtain the simplest solution." },
+        { "type": "string", "content": "By comparing coefficients with a known particular solution." },
+        { "type": "string", "content": "By substituting the initial condition `(x_0, y_0)` into the general solution." },
+        { "type": "string", "content": "By differentiating the general solution and equating it to the original equation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Solving an Initial-Value Problem", "First-Order Differential Equations"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Determining Arbitrary Constants in Initial-Value Problems</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> An initial-value problem (IVP) for a first-order differential equation consists of the differential equation itself and an initial condition, typically given as `y(x_0) = y_0`. After finding the general solution (which contains one arbitrary constant for a first-order equation), this initial condition is used to determine the specific value of the constant, yielding a unique particular solution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about how the arbitrary constant in a first-order IVP is determined.</div><p><strong>Step 1: Understand the role of an initial condition.</strong><br/>The general solution to a first-order differential equation contains one arbitrary constant. This constant means there's a whole family of solutions. An initial condition, `y(x_0) = y_0`, specifies a particular point that the solution curve must pass through. This point uniquely identifies one member of the family.</p><p><strong>Step 2: Describe the procedure for finding the constant.</strong><br/>To find the specific value of the arbitrary constant, one takes the general solution (which is an equation relating `x`, `y`, and the constant) and <span style='color:var(--orange);font-weight:bold;'>substitutes the given values of `x_0` and `y_0`</span>. This creates an algebraic equation in terms of the arbitrary constant, which can then be solved to find its specific value.</p><ul><li>Evaluating Option 1: \"By setting it to zero to obtain the simplest solution.\" Setting the constant to zero gives *a* particular solution, but not necessarily the one that satisfies the given initial condition.</li><li>Evaluating Option 2: \"By comparing coefficients with a known particular solution.\" This is a technique (like in Undetermined Coefficients) for finding a particular solution itself, not for determining arbitrary constants from initial conditions.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"By substituting the initial condition `(x_0, y_0)` into the general solution.\"</span> This is the correct and standard method. `y_0` is substituted for `y` and `x_0` for `x` in the general solution, allowing the constant to be calculated.</li><li>Evaluating Option 4: \"By differentiating the general solution and equating it to the original equation.\" Differentiating the general solution would simply return the original differential equation; it does not help in finding the value of the constant.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `y' = 2x` with `y(1)=3`. The general solution is `y = x^2 + C`. Substituting the initial condition `x=1, y=3`: `3 = (1)^2 + C`, which gives `3 = 1 + C`, so `C=2`. The particular solution is `y = x^2 + 2`. This confirms the substitution method.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The arbitrary constant is determined by substituting the initial condition `(x_0, y_0)` into the general solution.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "By substituting the initial condition `(x_0, y_0)` into the general solution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which type of real-world scenario is most commonly modeled and solved using first-order variable separable differential equations?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Oscillating systems like a simple pendulum without damping." },
+        { "type": "string", "content": "Population growth or decay where the rate is proportional to the current population." },
+        { "type": "string", "content": "Heat transfer in a metal rod with varying thermal conductivity." },
+        { "type": "string", "content": "Electrical circuits with time-varying resistance and inductance." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Applications of Separation of Variables", "Modeling Real-World Scenarios"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Separation of Variables</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> The method of separation of variables is applicable to first-order differential equations where the rate of change of a quantity can be expressed as a product of a function of the independent variable and a function of the dependent variable. Many simple growth/decay models, certain mixing problems, and some basic physics problems fit this description.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about common real-world scenarios modeled by first-order variable separable differential equations.</div><p><strong>Step 1: Understand the mathematical structure of separable equations.</strong><br/>Separable equations have the form `dy/dx = f(x)g(y)`. This means the rate of change `dy/dx` can be expressed as a product of functions, one solely of `x` (or `t`) and one solely of `y` (or the dependent quantity `P`).</p><p><strong>Step 2: Evaluate the given scenarios against this structure.</strong></p><ul><li>Evaluating Option 1: \"Oscillating systems like a simple pendulum without damping.\" These are typically modeled by second-order differential equations (e.g., `d^2θ/dt^2 + (g/L)sin(θ) = 0`), which are not first-order separable.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"Population growth or decay where the rate is proportional to the current population.\"</span> This scenario is modeled by `dP/dt = kP` (where `P` is population, `t` is time, `k` is constant). This can be written as `dP/dt = k * P`, which is `f(t)g(P)` (here `f(t)=k` and `g(P)=P`). This is a classic separable equation (`(1/P)dP = k dt`).</li><li>Evaluating Option 3: \"Heat transfer in a metal rod with varying thermal conductivity.\" This often involves partial differential equations (like the heat equation), typically not first-order separable ordinary differential equations unless highly simplified assumptions are made, e.g., for steady-state 1D transfer.</li><li>Evaluating Option 4: \"Electrical circuits with time-varying resistance and inductance.\" These systems often lead to first-order *linear* differential equations (e.g., `L dI/dt + R(t)I = E(t)`), which are not necessarily separable unless `R(t)` and `E(t)` are very simple.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For population growth `dP/dt = kP`, we have `(1/P)dP = k dt`. Integrating gives `ln|P| = kt + C`, or `P(t) = C'e^(kt)`. This demonstrates a straightforward solution using separation of variables, making it a perfect fit for this type of problem.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Population growth or decay where the rate is proportional to the current population is most commonly modeled and solved using first-order variable separable differential equations.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Population growth or decay where the rate is proportional to the current population."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "If a first-order differential equation can be written as `M(x)dx + N(y)dy = 0`, it is fundamentally classified as which type?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "An exact differential equation" },
+        { "type": "string", "content": "A linear differential equation" },
+        { "type": "string", "content": "A homogeneous differential equation" },
+        { "type": "string", "content": "A variable separable differential equation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Variable Separable First Order Differential Equations", "Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Alternative Form of Variable Separable Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order differential equation `dy/dx = f(x,y)` is variable separable if `f(x,y)` can be written as `g(x)h(y)`. This allows rearrangement to `(1/h(y))dy = g(x)dx`. Another common way to express separable equations is `M(x)dx + N(y)dy = 0`, where `M(x)` is a function solely of `x` and `N(y)` is a function solely of `y`. This form makes it immediately clear that direct integration of each term will lead to the solution.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A first-order differential equation written in the form `M(x)dx + N(y)dy = 0`.</div><p><strong>Step 1: Analyze the given form.</strong><br/>The form `M(x)dx + N(y)dy = 0` means that all terms involving `x` and `dx` are grouped together, and all terms involving `y` and `dy` are grouped together, and they are on opposite sides of the equality (if rearranged). This is the hallmark of a separable equation.</p><p><strong>Step 2: Relate to the definition of variable separable.</strong><br/>If we write `N(y)dy = -M(x)dx`, then `dy/dx = -M(x)/N(y)`. Here, `f(x,y) = -M(x)/N(y)`, which is a product of a function of `x` (namely `-M(x)`) and a function of `y` (namely `1/N(y)`). This exactly fits the definition of a variable separable equation.</p><ul><li>Evaluating Option 1: \"An exact differential equation.\" An exact equation is of the form `M(x,y)dx + N(x,y)dy = 0` where `∂M/∂y = ∂N/∂x`. In the given form `M(x)dx + N(y)dy = 0`, `∂M(x)/∂y = 0` and `∂N(y)/∂x = 0`. Since `0 = 0`, a variable separable equation *is always* exact. However, 'variable separable' is a more specific and direct classification for this particular structure where `M` depends only on `x` and `N` only on `y`. Not all exact equations are separable.</li><li>Evaluating Option 2: \"A linear differential equation.\" A linear equation is `dy/dx + P(x)y = Q(x)`. The given form is not necessarily linear (e.g., `x dx + y^2 dy = 0` is separable but not linear).</li><li>Evaluating Option 3: \"A homogeneous differential equation.\" A homogeneous equation is `dy/dx = F(y/x)`. The given form is not necessarily homogeneous (e.g., `x dx + y dy = 0` is separable and homogeneous, but `x dx + y^2 dy = 0` is separable but not homogeneous).</li><li>Evaluating Option 4: <span style='color:var(--cAns);font-weight:bold;'>\"A variable separable differential equation.\"</span> This is the most accurate and fundamental classification for an equation expressed as `M(x)dx + N(y)dy = 0`, as it explicitly shows the variables are separated.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `x^2 dx + (1/y) dy = 0`. This is clearly in the form `M(x)dx + N(y)dy = 0`. To solve it, we directly integrate `∫x^2 dx + ∫(1/y) dy = C`. This is the definition of separation of variables.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If a first-order differential equation can be written as `M(x)dx + N(y)dy = 0`, it is fundamentally classified as a variable separable differential equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A variable separable differential equation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "What potential issue must be considered when dividing by `g(y)` during the separation of variables process for `dy/dx = f(x)g(y)`?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The integral of `1/g(y)` might be difficult to compute." },
+        { "type": "string", "content": "Division by `g(y)` might introduce extraneous solutions." },
+        { "type": "string", "content": "The value `g(y) = 0` could lead to loss of solutions or undefined terms." },
+        { "type": "string", "content": "The resulting equation might no longer be first-order." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Separation of Variables Method", "Problem-Solving Strategy"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Considerations in Separation of Variables</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> When solving `dy/dx = f(x)g(y)` by separating variables, one step involves dividing by `g(y)` to get `(1/g(y))dy = f(x)dx`. Whenever division by a variable term occurs, it's crucial to consider the cases where that term might be zero. If `g(y) = 0` for some value of `y`, then `dy/dx = f(x) * 0 = 0`, which implies `y = constant`. If this constant `y` satisfies `g(y) = 0`, then `y = constant` might be a solution to the original differential equation but could be lost during the division step. These are potential singular solutions or equilibrium solutions.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about potential issues when dividing by `g(y)` during separation of variables for `dy/dx = f(x)g(y)`.</div><p><strong>Step 1: Identify the mathematical operation in question.</strong><br/>The operation is <span style='color:var(--orange);font-weight:bold;'>division by `g(y)`</span>. In mathematics, division by zero is undefined. Therefore, any value of `y` for which `g(y) = 0` must be specifically considered.</p><p><strong>Step 2: Analyze the consequences of `g(y) = 0`.</strong><br/>If `g(y) = 0` for some `y = y_0`, then `dy/dx = f(x) * 0 = 0`. This means `y(x) = y_0` (a constant function) is a potential solution. If we divide by `g(y)` without considering this case, we implicitly assume `g(y) ≠ 0`, and thus we might miss these constant solutions. These solutions, if they exist, are often equilibrium solutions or singular solutions.</p><ul><li>Evaluating Option 1: \"The integral of `1/g(y)` might be difficult to compute.\" While true for some functions `g(y)`, this is a practical difficulty in integration, not a fundamental mathematical issue stemming from the division itself regarding loss of solutions.</li><li>Evaluating Option 2: \"Division by `g(y)` might introduce extraneous solutions.\" Division by a term usually doesn't introduce extraneous solutions; rather, it can lead to *loss* of solutions if the term being divided by can be zero.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"The value `g(y) = 0` could lead to loss of solutions or undefined terms.\"</span> This is the critical issue. If `g(y_0) = 0` for some `y_0`, then `y(x) = y_0` might be a valid solution that is lost when `1/g(y)` is formed. Also, the term `1/g(y)` becomes undefined.</li><li>Evaluating Option 4: \"The resulting equation might no longer be first-order.\" The order of the differential equation is determined by the highest derivative present. Dividing by `g(y)` changes the form but does not change the order.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `dy/dx = y^2`. Here, `g(y) = y^2`. If we separate variables, `dy/y^2 = dx`. Integrating yields `-1/y = x + C`. The general solution is `y = -1/(x+C)`. However, `y=0` is also a solution to the original equation (`0 = 0^2`), but it cannot be obtained from `y = -1/(x+C)` for any `C`. This `y=0` solution was lost when dividing by `y^2`. This demonstrates the risk of losing solutions where `g(y)=0`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The potential issue to consider when dividing by `g(y)` is that `g(y) = 0` could lead to loss of solutions or undefined terms.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "The value `g(y) = 0` could lead to loss of solutions or undefined terms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "An initial-value problem (IVP) for a first-order differential equation requires which additional piece of information besides the differential equation itself?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A boundary condition at two different points." },
+        { "type": "string", "content": "An explicit formula for the independent variable." },
+        { "type": "string", "content": "A condition specifying the value of the dependent variable at a particular point." },
+        { "type": "string", "content": "The order and degree of the differential equation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Solving an Initial-Value Problem", "First-Order Differential Equations"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of an Initial-Value Problem (IVP)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> An <em>initial-value problem (IVP)</em> consists of a differential equation along with a condition that specifies the value of the unknown function (and possibly its derivatives) at a single point, referred to as the initial point. For a first-order differential equation `dy/dx = f(x, y)`, an IVP typically includes the condition `y(x_0) = y_0`. This condition is used to determine the unique particular solution from the general solution's family.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking what additional information is required for a first-order initial-value problem (IVP).</div><p><strong>Step 1: Understand the nature of 'initial-value problem'.</strong><br/>The term \"initial-value\" implies that conditions are specified at a <span style='color:var(--orange);font-weight:bold;'>single starting point</span> or initial time. For a first-order equation, this means knowing the value of the function `y` at a particular value of `x`.</p><p><strong>Step 2: Relate to the need for a unique solution.</strong><br/>A first-order differential equation has a general solution with one arbitrary constant. To determine a unique particular solution, exactly one piece of information is needed to fix that constant. This information is provided by the initial condition `y(x_0) = y_0`.</p><ul><li>Evaluating Option 1: \"A boundary condition at two different points.\" Conditions given at two different points are characteristic of a *boundary-value problem*, not an initial-value problem. For a first-order equation, only one condition is needed.</li><li>Evaluating Option 2: \"An explicit formula for the independent variable.\" The independent variable (e.g., `x` or `t`) is usually given implicitly through the domain of the problem, not as a separate formula needed for the problem definition itself.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"A condition specifying the value of the dependent variable at a particular point.\"</span> This is the precise definition of an initial condition for a first-order ODE, typically `y(x_0) = y_0`. This is the additional piece of information required.</li><li>Evaluating Option 4: \"The order and degree of the differential equation.\" The order and degree are intrinsic properties of the differential equation itself, part of its definition, not additional information supplied to form an IVP.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For the differential equation `dy/dx = y`, its general solution is `y = Ce^x`. Without an initial condition, `C` remains arbitrary. If we add `y(0) = 2`, then `2 = Ce^0`, so `C = 2`. The particular solution `y = 2e^x` is then uniquely determined. This confirms the necessity of an initial condition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An initial-value problem (IVP) for a first-order differential equation requires a condition specifying the value of the dependent variable at a particular point.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A condition specifying the value of the dependent variable at a particular point."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "In population dynamics, if the rate of population growth is directly proportional to the current population, which first-order differential equation type is suitable for modeling this, and how would it typically be solved?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Exact; by integrating both `M` and `N` functions." },
+        { "type": "string", "content": "Linear; by using an integrating factor." },
+        { "type": "string", "content": "Homogeneous; by substituting `y = vx`." },
+        { "type": "string", "content": "Variable separable; by integrating after rearranging terms." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Applications of Separation of Variables", "Modeling Real-World Scenarios"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Modeling Population Dynamics with Separable ODEs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> When the rate of change of a quantity is directly proportional to the quantity itself, this can be expressed as `dP/dt = kP`, where `P` is the quantity (e.g., population) and `k` is the constant of proportionality. This equation is a classic example of a first-order linear, homogeneous, and, most importantly for solution technique, *variable separable* differential equation. Its solution involves rearranging terms and integrating each side independently.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A scenario where the rate of population growth is directly proportional to the current population, asking for the suitable ODE type and solution method.</div><p><strong>Step 1: Formulate the differential equation from the description.</strong><br/>\"The rate of population growth is directly proportional to the current population\" translates mathematically to `dP/dt = kP`, where `P` is population and `t` is time, and `k` is the proportionality constant. This is a first-order ordinary differential equation.</p><p><strong>Step 2: Classify the equation `dP/dt = kP`.</strong><br/>This equation can be rewritten as `(1/P)dP = k dt`. This form clearly shows that the terms involving `P` and `dP` are on one side, and terms involving `t` and `dt` are on the other. This is the definition of a <span style='color:var(--orange);font-weight:bold;'>variable separable</span> equation.</p><p><strong>Step 3: Identify the solution method for variable separable equations.</strong><br/>Once the variables are separated, the method of solution is to <span style='color:var(--orange);font-weight:bold;'>integrate both sides with respect to their respective variables</span>.</p><ul><li>Evaluating Option 1: \"Exact; by integrating both `M` and `N` functions.\" While `dP/dt = kP` can be written as `kP dt - dP = 0`, making it exact (∂(kP)/∂P = k, ∂(-1)/∂t = 0, which is not equal, so it's not exact in that form. If rewritten as `-kP dt + 1 dP = 0`, then `M(t,P)=-kP`, `N(t,P)=1`. `∂M/∂P = -k`, `∂N/∂t = 0`. Not exact. *Correction: My exactness check here was incorrect, it can be written as `-kP dt + 1 dP = 0`, and ∂M/∂P = -k, ∂N/∂t = 0, so it's NOT exact unless k=0, which is trivial.* A different interpretation `M(P)dP + N(t)dt = 0` makes it exact. However, the direct method is separation of variables.</li><li>Evaluating Option 2: \"Linear; by using an integrating factor.\" The equation `dP/dt - kP = 0` is indeed a first-order linear homogeneous equation. It can be solved using an integrating factor `e^(∫-k dt) = e^(-kt)`. While technically correct that it's linear and solvable this way, separation of variables is often simpler and more direct for this specific form.</li><li>Evaluating Option 3: \"Homogeneous; by substituting `y = vx`.\" The equation `dP/dt = kP` can be viewed as `dP/dt = k(P/t)*t`, so not directly homogeneous in the typical `F(P/t)` form unless `k` is a function of `t` and `P`. The substitution `y=vx` is specific to `dy/dx = F(y/x)`.</li><li>Evaluating Option 4: <span style='color:var(--cAns);font-weight:bold;'>\"Variable separable; by integrating after rearranging terms.\"</span> This is the most direct and universally applicable method for `dP/dt = kP`. Rearranging to `(1/P)dP = k dt` and integrating both sides is the standard approach.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `dP/dt = kP`, separating variables yields `∫(1/P)dP = ∫k dt`. This integrates to `ln|P| = kt + C`, which gives `P(t) = C_0e^(kt)`. This method is efficient and directly applicable, making 'variable separable' the most appropriate classification for its solution strategy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The scenario is best modeled by a variable separable first-order differential equation, typically solved by integrating after rearranging terms.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Variable separable; by integrating after rearranging terms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What is the primary characteristic that distinguishes a first-order differential equation from a higher-order one?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It always has a constant as the independent variable." },
+        { "type": "string", "content": "It contains only the first derivative of the dependent variable, and no higher derivatives." },
+        { "type": "string", "content": "Its solution never contains arbitrary constants." },
+        { "type": "string", "content": "It is always linear and homogeneous." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Classification of First-Order Differential Equations", "Introduction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinguishing First-Order Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> The <em>order</em> of a differential equation is defined by the highest derivative present in the equation. A first-order differential equation is one in which the highest derivative appearing is the first derivative of the dependent variable. It contains no second derivatives, third derivatives, or any higher-order derivatives.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the primary characteristic distinguishing a first-order differential equation from a higher-order one.</div><p><strong>Step 1: Recall the definition of the order of a differential equation.</strong><br/>The order of a differential equation is determined by the <span style='color:var(--orange);font-weight:bold;'>highest order of derivative present</span> in the equation. For example, `y'` is a first derivative, `y''` is a second derivative, `y'''` is a third derivative, and so on.</p><p><strong>Step 2: Apply this definition to a 'first-order' equation.</strong><br/>Therefore, a first-order differential equation, by definition, can only contain the first derivative as its highest derivative. It cannot contain any derivatives of order two or higher.</p><ul><li>Evaluating Option 1: \"It always has a constant as the independent variable.\" This is incorrect. The independent variable (e.g., `x` or `t`) changes, and it's not a constant. Its coefficients may be constants, but not the variable itself.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"It contains only the first derivative of the dependent variable, and no higher derivatives.\"</span> This is the exact and fundamental definition of a first-order differential equation. The highest derivative is the first derivative.</li><li>Evaluating Option 3: \"Its solution never contains arbitrary constants.\" This is incorrect. A first-order ODE generally has one arbitrary constant in its general solution. Only particular solutions or singular solutions might not have arbitrary constants.</li><li>Evaluating Option 4: \"It is always linear and homogeneous.\" This is incorrect. First-order differential equations can be non-linear (e.g., `y' = y^2`) or non-homogeneous (e.g., `y' + y = x`).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> An equation like `dy/dx = xy` is first-order because the highest derivative is `dy/dx`. An equation like `d^2y/dx^2 + dy/dx = 0` is second-order because the highest derivative is `d^2y/dx^2`. This confirms that the highest derivative defines the order.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary characteristic distinguishing a first-order differential equation is that it contains only the first derivative of the dependent variable, and no higher derivatives.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "It contains only the first derivative of the dependent variable, and no higher derivatives."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "A first-order differential equation `dy/dx = f(x, y)` is classified as homogeneous if the function `f(x, y)` satisfies which specific property?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`f(x, y)` can be expressed as a sum `g(x) + h(y)`." },
+        { "type": "string", "content": "`f(x, y)` is a function of `y/x` only, i.e., `f(x, y) = G(y/x)`." },
+        { "type": "string", "content": "`f(x, y)` is linear in both `x` and `y`." },
+        { "type": "string", "content": "`f(x, y)` satisfies `f(tx, ty) = tf(x, y)` for any scalar `t`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["First Order Homogeneous Differential Equations", "Identification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identification of Homogeneous Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order differential equation `dy/dx = f(x, y)` is classified as <em>homogeneous</em> if the function `f(x, y)` is a homogeneous function of degree zero. This means `f(tx, ty) = t^0 f(x, y) = f(x, y)` for any non-zero scalar `t`. A direct consequence and equivalent way to identify such a function is that it can be expressed solely as a function of the ratio `y/x` (or `x/y`), i.e., `f(x, y) = G(y/x)`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A first-order differential equation `dy/dx = f(x, y)` and asked for the property `f(x, y)` must satisfy to be classified as homogeneous.</div><p><strong>Step 1: Recall the definition of a homogeneous function in this context.</strong><br/>For a first-order differential equation `dy/dx = f(x, y)` to be homogeneous, the function `f(x, y)` must be a <span style='color:var(--orange);font-weight:bold;'>homogeneous function of degree zero</span>. This means that if you replace `x` with `tx` and `y` with `ty` (for any non-zero `t`), the function `f(x, y)` remains unchanged: `f(tx, ty) = f(x, y)`.</p><p><strong>Step 2: Recognize the implication of this property for `f(x, y)`.</strong><br/>If `f(tx, ty) = f(x, y)`, it implies that `f(x, y)` can always be written as a function of `y/x`. For example, `f(x, y) = f(x * 1, x * (y/x)) = x^0 f(1, y/x) = G(y/x)`. This is the practical way to identify homogeneous first-order ODEs.</p><ul><li>Evaluating Option 1: \"`f(x, y)` can be expressed as a sum `g(x) + h(y)`.\" This describes a different type of equation (sometimes called a non-homogeneous linear equation or one that can be solved by an integrating factor if not separable), not a homogeneous one.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"`f(x, y)` is a function of `y/x` only, i.e., `f(x, y) = G(y/x)`.\"</span> This is the direct and most useful criterion for identifying a homogeneous first-order differential equation. If `f(x, y)` can be written this way, it's homogeneous.</li><li>Evaluating Option 3: \"`f(x, y)` is linear in both `x` and `y`.\" Linearity is a different classification (e.g., `dy/dx = x+y` is linear but not homogeneous).</li><li>Evaluating Option 4: \"`f(x, y)` satisfies `f(tx, ty) = tf(x, y)` for any scalar `t`.\" This is the definition of a homogeneous function of *degree one*. For a first-order differential equation `dy/dx = f(x,y)` to be homogeneous, `f(x,y)` must be a homogeneous function of *degree zero*.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `dy/dx = (x^2 + y^2)/(xy)`. This can be rewritten as `dy/dx = (1 + (y/x)^2) / (y/x)`. Here `f(x,y) = G(y/x)`. This confirms the condition. If we check `f(tx,ty) = ((tx)^2 + (ty)^2)/((tx)(ty)) = (t^2x^2 + t^2y^2)/(t^2xy) = (t^2(x^2+y^2))/(t^2xy) = (x^2+y^2)/(xy) = f(x,y)`. This shows `f(x,y)` is homogeneous of degree zero.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A first-order differential equation `dy/dx = f(x, y)` is classified as homogeneous if `f(x, y)` is a function of `y/x` only.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`f(x, y)` is a function of `y/x` only, i.e., `f(x, y) = G(y/x)`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "When solving a first-order homogeneous differential equation `dy/dx = f(y/x)`, which standard substitution is typically made to transform it into a separable equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`u = x + y`" },
+        { "type": "string", "content": "`y = vx`" },
+        { "type": "string", "content": "`x = vy`" },
+        { "type": "string", "content": "`z = xy`" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["First Order Homogeneous Differential Equations", "Procedure for Solving"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Procedure for Solving Homogeneous First-Order ODEs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For a first-order homogeneous differential equation of the form `dy/dx = G(y/x)`, the standard technique to transform it into a variable separable equation is to introduce a new dependent variable `v` defined by the substitution `y = vx`. This implies `y/x = v`. Differentiating `y = vx` with respect to `x` using the product rule gives `dy/dx = v + x(dv/dx)`. Substituting both `y/x = v` and `dy/dx = v + x(dv/dx)` into the original homogeneous equation will yield a separable equation in `v` and `x`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the standard substitution for solving `dy/dx = f(y/x)`.</div><p><strong>Step 1: Understand the structure of a homogeneous equation.</strong><br/>A homogeneous differential equation `dy/dx = f(y/x)` has the dependent variable `y` and independent variable `x` always appearing in the ratio `y/x` (or `x/y`). The goal of the substitution is to simplify this ratio.</p><p><strong>Step 2: Identify the substitution that targets the `y/x` ratio.</strong><br/>The most direct way to handle the `y/x` ratio is to define a new variable for this ratio. Let `v = y/x`. This immediately implies `y = vx`. This substitution effectively removes the `y/x` ratio from the function `f`, making it `f(v)`. We then need to replace `dy/dx` using the product rule: `dy/dx = v + x(dv/dx)`.</p><ul><li>Evaluating Option 1: \"`u = x + y`.\" This substitution is sometimes used for specific non-homogeneous equations, but not the standard method for a general homogeneous equation of the form `dy/dx = f(y/x)`.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"`y = vx`.\"</span> This is the correct and most commonly used substitution for solving homogeneous differential equations. It effectively introduces `v = y/x` and simplifies the right-hand side, leading to a separable equation.</li><li>Evaluating Option 3: \"`x = vy`.\" While technically a valid substitution (meaning `x/y = v`), it's less conventional if the equation is already in `dy/dx = f(y/x)` form. It would lead to `dx/dy = G(x/y)`, which can be solved, but `y=vx` is preferred when the dependent variable `y` is explicitly differentiated with respect to `x`.</li><li>Evaluating Option 4: \"`z = xy`.\" This substitution is not standard for homogeneous equations and generally would not simplify the equation into a separable form.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For example, consider `dy/dx = (y^2 + x^2)/(xy)`. Let `y = vx`, so `dy/dx = v + x(dv/dx)`. Substituting: `v + x(dv/dx) = ((vx)^2 + x^2)/(x(vx)) = (v^2x^2 + x^2)/(vx^2) = (v^2+1)/v`. Then `x(dv/dx) = (v^2+1)/v - v = (v^2+1-v^2)/v = 1/v`. This results in `v dv = (1/x)dx`, which is a separable equation. This confirms the effectiveness of `y=vx`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When solving a first-order homogeneous differential equation `dy/dx = f(y/x)`, the standard substitution `y = vx` is typically made to transform it into a separable equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`y = vx`"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "A differential equation of the form `dy/dx = F((ax+by+c)/(Ax+By+C))` can be reduced to a homogeneous form under what specific condition regarding the constants `a, b, A, B`?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "When `aA + bB = 0`." },
+        { "type": "string", "content": "When `aB - Ab = 0`." },
+        { "type": "string", "content": "When `a = 0` and `B = 0`." },
+        { "type": "string", "content": "When `c = 0` and `C = 0`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Differential Equations Reducible to First-order Homogeneous Form", "Transformation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reduction to Homogeneous Form</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A differential equation of the form `dy/dx = F((ax+by+c)/(Ax+By+C))` can be transformed into a homogeneous equation through a substitution `x = X + h` and `y = Y + k` (where `(h, k)` is the intersection point of the lines `ax+by+c=0` and `Ax+By+C=0`), *provided that these lines intersect*. The condition for these lines to intersect is that their slopes are different, or equivalently, the determinant of the coefficients is non-zero. That is, `aB - Ab ≠ 0`. If `aB - Ab = 0` (the lines are parallel), a different substitution `u = ax+by` or `u = Ax+By` is used to make it separable.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A differential equation `dy/dx = F((ax+by+c)/(Ax+By+C))` and asked for the condition to reduce it to a homogeneous form.</div><p><strong>Step 1: Understand the goal of reduction.</strong><br/>The goal is to eliminate the constant terms `c` and `C` to make the numerator and denominator homogeneous polynomials of degree one. This is achieved by shifting the origin to the intersection point of the lines `ax+by+c=0` and `Ax+By+C=0` using the substitutions `x = X + h` and `y = Y + k`.</p><p><strong>Step 2: Identify the condition for the existence of such an intersection point.</strong><br/>The lines `ax+by+c=0` and `Ax+By+C=0` intersect uniquely if and only if their slopes are different. The slope of the first line is `-a/b` and the second is `-A/B`. For them to intersect, `-a/b ≠ -A/B`, which simplifies to `aB ≠ Ab`, or <span style='color:var(--orange);font-weight:bold;'>`aB - Ab ≠ 0`</span>. If `aB - Ab = 0`, the lines are parallel (or coincident), and this method of shifting the origin fails. In this parallel case, a different substitution is used to make the equation separable.</p><ul><li>Evaluating Option 1: \"When `aA + bB = 0`.\" This condition is not generally related to the reducibility to homogeneous form via coordinate shift.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"When `aB - Ab ≠ 0`.\"</span> This is the correct condition. It ensures that the system of linear equations `ax+by+c=0` and `Ax+By+C=0` has a unique solution `(h, k)`, allowing the transformation `x=X+h, y=Y+k` to render the equation homogeneous in `X` and `Y`. (The question actually states "homogeneous form" which means *if* the lines intersect. If the lines are parallel, it reduces to a *separable* form). The question asks for the condition to reduce it to a *homogeneous* form, which implies the standard transformation method requiring intersecting lines.</li><li>Evaluating Option 3: \"When `a = 0` and `B = 0`.\" This would simplify the equation, but it is not the general condition for reducibility to homogeneous form.</li><li>Evaluating Option 4: \"When `c = 0` and `C = 0`.\" If `c` and `C` are both zero, the equation is *already* homogeneous (`dy/dx = F( (ax+by)/(Ax+By) ) = F( (a+b(y/x))/(A+B(y/x)) ) = G(y/x)`), so no reduction is needed. The question implies a reduction is necessary.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> If `aB - Ab ≠ 0`, then the lines `ax+by+c=0` and `Ax+By+C=0` intersect at a point `(h,k)`. Let `x = X+h` and `y = Y+k`. Then `dx=dX`, `dy=dY`. The terms `ax+by+c` and `Ax+By+C` transform to `a(X+h)+b(Y+k)+c = aX+bY+(ah+bk+c) = aX+bY` (since `(h,k)` is the intersection, `ah+bk+c=0`). Similarly, `AX+BY`. The equation becomes `dY/dX = F((aX+bY)/(AX+BY))`, which is homogeneous. If `aB-Ab=0`, the lines are parallel, and this transformation method does not apply.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A differential equation of the form `dy/dx = F((ax+by+c)/(Ax+By+C))` can be reduced to a homogeneous form when `aB - Ab ≠ 0`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "When `aB - Ab ≠ 0`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "What is a key implication of a first-order differential equation being homogeneous in terms of its solution method?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It can be solved directly by two successive integrations." },
+        { "type": "string", "content": "It implies that the equation is also linear and can be solved using an integrating factor." },
+        { "type": "string", "content": "It can be transformed into a variable separable equation using a specific substitution." },
+        { "type": "string", "content": "Its solution will always be a family of concentric circles or straight lines." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["First Order Homogeneous Differential Equations", "Solution"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Implication of Homogeneity for Solution Method</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order differential equation `dy/dx = f(x, y)` is homogeneous if `f(x, y)` can be expressed as a function of `y/x`, i.e., `f(x, y) = G(y/x)`. The defining characteristic of homogeneous equations is that they can always be simplified and solved by performing a substitution `y = vx` (or `x = vy`). This substitution transforms the original equation into a new differential equation that is *variable separable* in terms of the new variables (`v` and `x`).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the key implication of a first-order differential equation being homogeneous in terms of its solution method.</div><p><strong>Step 1: Recall the definition and standard approach for homogeneous equations.</strong><br/>As discussed, a homogeneous equation `dy/dx = G(y/x)` implies that the terms `x` and `y` always appear in ratios. This structure naturally suggests a substitution that targets this ratio, namely `v = y/x` (or `y = vx`).</p><p><strong>Step 2: Understand the result of this substitution.</strong><br/>When `y = vx` is substituted, along with `dy/dx = v + x(dv/dx)`, the equation `dy/dx = G(y/x)` becomes `v + x(dv/dx) = G(v)`. This can be rearranged as `x(dv/dx) = G(v) - v`, or `dv / (G(v) - v) = dx / x`. This resulting equation is clearly <span style='color:var(--orange);font-weight:bold;'>variable separable</span> in `v` and `x`.</p><ul><li>Evaluating Option 1: \"It can be solved directly by two successive integrations.\" This is incorrect. First-order equations are solved by one integration (after proper setup). Two successive integrations are typically for second-order equations that are directly integrable or reducible.</li><li>Evaluating Option 2: \"It implies that the equation is also linear and can be solved using an integrating factor.\" Homogeneous equations are generally *not* linear (e.g., `dy/dx = (y^2+x^2)/(xy)` is homogeneous but non-linear).</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"It can be transformed into a variable separable equation using a specific substitution.\"</span> This is the correct and fundamental implication. The substitution `y = vx` (or `x = vy`) is the standard technique to achieve this transformation.</li><li>Evaluating Option 4: \"Its solution will always be a family of concentric circles or straight lines.\" The nature of the solution curves depends on the specific homogeneous equation. While some may result in particular geometric forms, this is not a universal implication of homogeneity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `dy/dx = y/x`. This is homogeneous (`G(y/x) = y/x`). Using `y=vx`, `v+x(dv/dx) = v`, which simplifies to `x(dv/dx) = 0`. This implies `dv/dx = 0`, so `v = C`. Substituting back `y/x = C`, we get `y = Cx`, which is a family of straight lines passing through the origin. The intermediate step was indeed a separable equation (`dv = 0 dx`).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key implication of a first-order differential equation being homogeneous is that it can be transformed into a variable separable equation using a specific substitution.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "It can be transformed into a variable separable equation using a specific substitution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "After applying the substitution `y=vx` to a homogeneous differential equation, the resulting equation in terms of `v` and `x` will always be of which type?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A linear differential equation" },
+        { "type": "string", "content": "An exact differential equation" },
+        { "type": "string", "content": "A variable separable differential equation" },
+        { "type": "string", "content": "A higher-order differential equation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["First Order Homogeneous Differential Equations", "Procedure for Solving"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Result of Substitution for Homogeneous Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order homogeneous differential equation `dy/dx = G(y/x)` is solved by the substitution `y = vx`. Differentiating this yields `dy/dx = v + x(dv/dx)`. Substituting these into the original equation gives `v + x(dv/dx) = G(v)`. Rearranging this equation leads to `x(dv/dx) = G(v) - v`, which can then be written as `dv / (G(v) - v) = dx / x`. This form is explicitly variable separable, as functions of `v` are on one side with `dv`, and functions of `x` are on the other side with `dx`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A homogeneous differential equation, and the substitution `y=vx` is applied. Asked for the type of the resulting equation in `v` and `x`.</div><p><strong>Step 1: Review the substitution process for homogeneous equations.</strong><br/>For `dy/dx = G(y/x)`, we use `y = vx`, which means `v = y/x`. Then, `dy/dx = v + x(dv/dx)`. Substituting these into the homogeneous equation gives: <span style='color:var(--orange);font-weight:bold;'>`v + x(dv/dx) = G(v)`</span>.</p><p><strong>Step 2: Analyze the resulting equation's structure.</strong><br/>Rearrange the equation: `x(dv/dx) = G(v) - v`. Then, separate the variables `v` and `x`: `dv / (G(v) - v) = dx / x`. This form, where functions of `v` are with `dv` and functions of `x` are with `dx`, is the definition of a <span style='color:var(--orange);font-weight:bold;'>variable separable differential equation</span>.</p><ul><li>Evaluating Option 1: \"A linear differential equation.\" The resulting equation `dv / (G(v) - v) = dx / x` is generally not linear in `v`. For example, if `G(v) = v^2`, then `dv/(v^2-v) = dx/x`, which is not linear in `v`.</li><li>Evaluating Option 2: \"An exact differential equation.\" While a variable separable equation is a special case of an exact equation, the *most direct* and general classification of the result of the substitution is variable separable, as it immediately indicates the next solution step (direct integration).</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"A variable separable differential equation.\"</span> This is the correct classification. The substitution `y=vx` is specifically chosen to transform a homogeneous equation into a separable one, which can then be solved by integration.</li><li>Evaluating Option 4: \"A higher-order differential equation.\" The substitution does not change the order of the differential equation; it remains a first-order equation, just in new variables.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> As shown in the Key Concept, the form `dv / (G(v) - v) = dx / x` directly allows for integration of `h(v)dv = H(x)dx` type equations, which is the definition of a separable equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ After applying the substitution `y=vx` to a homogeneous differential equation, the resulting equation in terms of `v` and `x` will always be a variable separable differential equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A variable separable differential equation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "If the lines `ax+by+c=0` and `Ax+By+C=0` intersect for a differential equation of the form `dy/dx = F((ax+by+c)/(Ax+By+C))`, what is the usual strategy to reduce it to a homogeneous form?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Directly divide numerator and denominator by `x`." },
+        { "type": "string", "content": "Apply a substitution `u = ax+by` or `u = Ax+By`." },
+        { "type": "string", "content": "Shift the coordinate origin to the point of intersection of the two lines." },
+        { "type": "string", "content": "Use an integrating factor `e^(∫P(x)dx)`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Differential Equations Reducible to First-order Homogeneous Form", "Transformation Strategy"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Strategy for Reduction to Homogeneous Form (Intersecting Lines Case)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For a differential equation `dy/dx = F((ax+by+c)/(Ax+By+C))`, if the lines `ax+by+c=0` and `Ax+By+C=0` intersect (i.e., `aB - Ab ≠ 0`), we find their point of intersection `(h, k)`. Then, we make the substitution `x = X + h` and `y = Y + k`. This transforms the numerator `ax+by+c` into `aX+bY` and the denominator `Ax+By+C` into `AX+BY`, effectively eliminating the constant terms and making the equation homogeneous in terms of `X` and `Y`: `dY/dX = F((aX+bY)/(AX+BY)) = G(Y/X)`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A differential equation `dy/dx = F((ax+by+c)/(Ax+By+C))` where the lines `ax+by+c=0` and `Ax+By+C=0` intersect, and asking for the strategy to reduce it to a homogeneous form.</div><p><strong>Step 1: Understand why the lines' intersection is relevant.</strong><br/>The intersection point `(h, k)` is where both `ax+by+c=0` and `Ax+By+C=0` are satisfied. If we shift our coordinate system such that this intersection point becomes the new origin, the constant terms `c` and `C` effectively disappear from the expressions `ax+by+c` and `Ax+By+C`.</p><p><strong>Step 2: Describe the coordinate shift.</strong><br/>The substitution `x = X + h` and `y = Y + k` (where `(h, k)` is the intersection point) is a translation of the coordinate axes. This transformation leads to `dx = dX` and `dy = dY`, so `dy/dx = dY/dX`. When substituted into the original equation, the constant terms cancel out in the numerator and denominator, resulting in an equation of the form `dY/dX = F((aX+bY)/(AX+BY))`, which is homogeneous in `X` and `Y`.</p><ul><li>Evaluating Option 1: \"Directly divide numerator and denominator by `x`.\" This would not eliminate the constant terms `c` and `C`, and thus would not make the equation homogeneous unless `c=C=0` initially.</li><li>Evaluating Option 2: \"Apply a substitution `u = ax+by` or `u = Ax+By`.\" This substitution is used when the lines `ax+by+c=0` and `Ax+By+C=0` are *parallel* (i.e., `aB - Ab = 0`), not when they intersect.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"Shift the coordinate origin to the point of intersection of the two lines.\"</span> This is the correct strategy. By setting `x = X + h` and `y = Y + k`, where `(h,k)` is the intersection, the constant terms `c` and `C` are eliminated, resulting in a homogeneous equation in the new variables `X` and `Y`.</li><li>Evaluating Option 4: \"Use an integrating factor `e^(∫P(x)dx)`.\" This is a method for solving first-order *linear* differential equations, which is a different class entirely and not directly related to reducing this specific form to homogeneous.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> If we have `dy/dx = (x-y+1)/(x+y-3)`. The lines `x-y+1=0` and `x+y-3=0` intersect at `(1,2)`. Setting `x=X+1, y=Y+2` yields `dY/dX = ((X+1)-(Y+2)+1)/((X+1)+(Y+2)-3) = (X-Y)/(X+Y)`. This is a homogeneous equation in `X` and `Y`, confirming the strategy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The usual strategy to reduce such an equation to a homogeneous form is to shift the coordinate origin to the point of intersection of the two lines.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "Shift the coordinate origin to the point of intersection of the two lines."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "For a differential equation expressed in the form `M(x, y)dx + N(x, y)dy = 0`, what is the necessary condition for it to be classified as an exact differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`M(x, y)` and `N(x, y)` are homogeneous functions of the same degree." },
+        { "type": "string", "content": "`∂M/∂y = ∂N/∂x`." },
+        { "type": "string", "content": "`M(x, y)` is a function of `x` only, and `N(x, y)` is a function of `y` only." },
+        { "type": "string", "content": "`M(x, y)` and `N(x, y)` are linear functions of `x` and `y`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exact Differential Equations", "Testing for Exactness"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Condition for Exact Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order differential equation of the form `M(x, y)dx + N(x, y)dy = 0` is defined as <em>exact</em> if there exists a function `F(x, y)` such that its total differential `dF` is equal to `M(x, y)dx + N(x, y)dy`. Since `dF = (∂F/∂x)dx + (∂F/∂y)dy`, this implies `M = ∂F/∂x` and `N = ∂F/∂y`. For such a function `F` to exist (assuming continuity of second partials), Clairaut's Theorem (equality of mixed partials) requires `∂M/∂y = ∂/∂y(∂F/∂x) = ∂^2F/∂y∂x` and `∂N/∂x = ∂/∂x(∂F/∂y) = ∂^2F/∂x∂y`. Thus, the necessary and sufficient condition for exactness is `∂M/∂y = ∂N/∂x`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A differential equation in the form `M(x, y)dx + N(x, y)dy = 0`, and asking for the necessary condition for it to be exact.</div><p><strong>Step 1: Understand what 'exact' means.</strong><br/>An exact differential equation is one that represents the total differential of some function `F(x, y)`. That is, `M(x, y)dx + N(x, y)dy = dF = (∂F/∂x)dx + (∂F/∂y)dy`.</p><p><strong>Step 2: Derive the condition from the properties of partial derivatives.</strong><br/>From the definition, we have `M = ∂F/∂x` and `N = ∂F/∂y`. If `F` has continuous second partial derivatives (which is typically assumed in this context), then the mixed partial derivatives are equal: `∂^2F/∂y∂x = ∂^2F/∂x∂y`. Substituting the expressions for `M` and `N` leads to the condition <span style='color:var(--orange);font-weight:bold;'>`∂M/∂y = ∂N/∂x`</span>.</p><ul><li>Evaluating Option 1: \"`M(x, y)` and `N(x, y)` are homogeneous functions of the same degree.\" This is a characteristic of homogeneous equations, not exact equations. A homogeneous equation can sometimes be exact, but it's not the defining condition.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"`∂M/∂y = ∂N/∂x`.\"</span> This is the fundamental necessary and sufficient condition for a first-order differential equation `M(x, y)dx + N(x, y)dy = 0` to be exact.</li><li>Evaluating Option 3: \"`M(x, y)` is a function of `x` only, and `N(x, y)` is a function of `y` only.\" This describes a variable separable equation, which is a special case of an exact equation (since then `∂M/∂y = 0` and `∂N/∂x = 0`, so `0=0`). However, it's not the general condition for exactness.</li><li>Evaluating Option 4: \"`M(x, y)` and `N(x, y)` are linear functions of `x` and `y`.\" Linearity of `M` and `N` is not required for exactness (e.g., `(2xy)dx + (x^2)dy = 0` is exact, but `M` is not linear in `x` or `y`).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `(2x + y)dx + (x + 2y)dy = 0`. Here `M = 2x + y` and `N = x + 2y`. `∂M/∂y = 1` and `∂N/∂x = 1`. Since `1=1`, the equation is exact. This directly demonstrates the condition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a differential equation `M(x, y)dx + N(x, y)dy = 0` to be exact, the necessary condition is `∂M/∂y = ∂N/∂x`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`∂M/∂y = ∂N/∂x`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "If a differential equation `M(x, y)dx + N(x, y)dy = 0` is not exact, but an integrating factor `μ(x)` (dependent only on `x`) exists, what must be true about the expression `(∂M/∂y - ∂N/∂x) / N`?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It must be a function of `y` only." },
+        { "type": "string", "content": "It must be a constant." },
+        { "type": "string", "content": "It must be a function of `x` only." },
+        { "type": "string", "content": "It must be equal to `x`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exact Differential Equation Integrating Factor", "Testing for Integrating Factor"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Integrating Factor for Non-Exact Equations (μ(x) only)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> If `M(x, y)dx + N(x, y)dy = 0` is not exact (i.e., `∂M/∂y ≠ ∂N/∂x`), we can sometimes multiply it by an integrating factor `μ(x, y)` to make it exact. If an integrating factor `μ(x)` exists that depends only on `x`, it must satisfy the condition `dμ/dx = μ/N (∂M/∂y - ∂N/∂x)`. This implies that the expression `(∂M/∂y - ∂N/∂x) / N` must itself be a function of `x` only. If it is, then `μ(x) = e^(∫[(∂M/∂y - ∂N/∂x) / N]dx)`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A non-exact differential equation `M(x, y)dx + N(x, y)dy = 0` and the existence of an integrating factor `μ(x)` (dependent only on `x`). Asking about the expression `(∂M/∂y - ∂N/∂x) / N`.</div><p><strong>Step 1: Understand the role of an integrating factor.</strong><br/>An integrating factor `μ` transforms a non-exact equation `Mdx + Ndy = 0` into an exact one: `(μM)dx + (μN)dy = 0`. For this new equation to be exact, it must satisfy the condition `∂(μM)/∂y = ∂(μN)/∂x`.</p><p><strong>Step 2: Apply the exactness condition with `μ(x)`.</strong><br/>If `μ` is a function of `x` only, then `∂μ/∂y = 0`. The exactness condition becomes:<br/>`μ(∂M/∂y) + M(∂μ/∂y) = μ(∂N/∂x) + N(dμ/dx)` (since `μ` only depends on `x`, `∂μ/∂x = dμ/dx`).<br/>Since `∂μ/∂y = 0`, this simplifies to:<br/>`μ(∂M/∂y) = μ(∂N/∂x) + N(dμ/dx)`<br/>Rearranging for `dμ/dx`:<br/>`N(dμ/dx) = μ(∂M/∂y - ∂N/∂x)`<br/>`dμ/dx = μ * [(∂M/∂y - ∂N/∂x) / N]`</p><p><strong>Step 3: Deduce the nature of the expression `(∂M/∂y - ∂N/∂x) / N`.</strong><br/>For `μ(x)` to be a function of `x` only, the right-hand side `μ * [(∂M/∂y - ∂N/∂x) / N]` must also be a function of `x` only. Since `μ` is a function of `x` only, it implies that the term <span style='color:var(--orange);font-weight:bold;'>`[(∂M/∂y - ∂N/∂x) / N]` must also be a function of `x` only</span> (or a constant, which is a special case of a function of `x`).</p><ul><li>Evaluating Option 1: \"It must be a function of `y` only.\" This would be the condition if an integrating factor `μ(y)` (dependent only on `y`) existed (then the expression `(∂N/∂x - ∂M/∂y) / M` would need to be a function of `y` only).</li><li>Evaluating Option 2: \"It must be a constant.\" While a constant is a function of `x` only, this is a specific case, not the general requirement.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"It must be a function of `x` only.\"</span> This is the correct condition. If this expression is a function of `x` only, then an integrating factor `μ(x)` exists.</li><li>Evaluating Option 4: \"It must be equal to `x`.\" This is too specific; it could be any function of `x`, not just `x` itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `(x^2+y)dx - x dy = 0`. Not exact since `∂M/∂y = 1` and `∂N/∂x = -1`. The expression is `(1 - (-1)) / (-x) = 2 / (-x) = -2/x`. This is a function of `x` only. So an integrating factor `μ(x)` exists, which is `e^(∫(-2/x)dx) = e^(-2ln|x|) = x^(-2)`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If `M(x, y)dx + N(x, y)dy = 0` is not exact, but an integrating factor `μ(x)` exists, then the expression `(∂M/∂y - ∂N/∂x) / N` must be a function of `x` only.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "It must be a function of `x` only."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "If `M(x, y)dx + N(x, y)dy = 0` is exact, it implies that there exists a function `F(x, y)` such that its total differential `dF` is equal to the given differential expression. What is the relationship between `F` and `M` and `N`?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`F(x, y) = ∫M(x, y)dx` and `F(x, y) = ∫N(x, y)dy`." },
+        { "type": "string", "content": "`∂F/∂x = M(x, y)` and `∂F/∂y = N(x, y)`." },
+        { "type": "string", "content": "`∂F/∂y = M(x, y)` and `∂F/∂x = N(x, y)`." },
+        { "type": "string", "content": "`F(x, y) = M(x, y) + N(x, y)`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exact Differential Equations", "Testing for Exactness"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Relationship in Exact Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> An exact differential equation `M(x, y)dx + N(x, y)dy = 0` is one that can be expressed as the total differential `dF(x, y) = 0` for some function `F(x, y)`. The total differential is defined as `dF = (∂F/∂x)dx + (∂F/∂y)dy`. By comparing this to the given exact form, we directly establish that `M(x, y) = ∂F/∂x` and `N(x, y) = ∂F/∂y`. The solution to the exact equation is then implicitly given by `F(x, y) = C`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> The statement that `M(x, y)dx + N(x, y)dy = 0` is exact, implying `dF = Mdx + Ndy` for some function `F(x, y)`. Asked for the relationship between `F`, `M`, and `N`.</div><p><strong>Step 1: Write down the definition of a total differential.</strong><br/>For a function `F(x, y)`, its total differential is `dF = (∂F/∂x)dx + (∂F/∂y)dy`.</p><p><strong>Step 2: Compare the given exact form with the total differential.</strong><br/>If `M(x, y)dx + N(x, y)dy = 0` is exact, it means it *is* a total differential `dF = 0`. Therefore, by direct comparison of terms: <span style='color:var(--orange);font-weight:bold;'>`M(x, y)` must be equal to `∂F/∂x`</span> and <span style='color:var(--orange);font-weight:bold;'>`N(x, y)` must be equal to `∂F/∂y`</span>.</p><ul><li>Evaluating Option 1: \"`F(x, y) = ∫M(x, y)dx` and `F(x, y) = ∫N(x, y)dy`.\" While `F` is found by integrating `M` with respect to `x` (plus a function of `y`) and integrating `N` with respect to `y` (plus a function of `x`), these are not direct definitional relationships. `F` itself is a single function, not two separate integrals that must equal each other.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"`∂F/∂x = M(x, y)` and `∂F/∂y = N(x, y)`.\"</span> This is the precise definition of how `M` and `N` relate to the potential function `F` when the differential equation is exact.</li><li>Evaluating Option 3: \"`∂F/∂y = M(x, y)` and `∂F/∂x = N(x, y)`.\" This swaps the roles of `M` and `N` with respect to the partial derivatives of `F`, which is incorrect. `M` is the coefficient of `dx`, `N` is the coefficient of `dy`.</li><li>Evaluating Option 4: \"`F(x, y) = M(x, y) + N(x, y)`.\" This is simply an algebraic sum and bears no direct relation to the concept of a total differential or exactness.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For an exact equation `(2xy)dx + (x^2)dy = 0`, we have `M = 2xy` and `N = x^2`. We seek an `F(x,y)` such that `∂F/∂x = 2xy` and `∂F/∂y = x^2`. Integrating `∂F/∂x = 2xy` with respect to `x` gives `F(x,y) = x^2y + h(y)`. Differentiating this with respect to `y` gives `∂F/∂y = x^2 + h'(y)`. Comparing with `N = x^2`, we get `x^2 + h'(y) = x^2`, so `h'(y) = 0`, meaning `h(y) = C`. Thus `F(x,y) = x^2y + C`, and the solution is `x^2y = C'`. This process directly uses the relationships `∂F/∂x = M` and `∂F/∂y = N`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The relationship is `∂F/∂x = M(x, y)` and `∂F/∂y = N(x, y)`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`∂F/∂x = M(x, y)` and `∂F/∂y = N(x, y)`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "What is the primary purpose of an integrating factor when solving a first-order differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To reduce the order of the differential equation." },
+        { "type": "string", "content": "To make a non-exact differential equation exact." },
+        { "type": "string", "content": "To transform a non-linear differential equation into a linear one." },
+        { "type": "string", "content": "To simplify the coefficients of the differential equation to constants." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exact Differential Equation Integrating Factor", "Linear First Order Differential Equations"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Integrating Factor</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> An <em>integrating factor</em> `μ(x, y)` is a function that, when multiplied throughout a non-exact first-order differential equation `M(x, y)dx + N(x, y)dy = 0`, transforms it into an exact differential equation `μM(x, y)dx + μN(x, y)dy = 0`. Once exact, the equation can be solved by finding a potential function `F(x, y)` such that `∂F/∂x = μM` and `∂F/∂y = μN`. This concept is also fundamental to solving first-order linear differential equations `dy/dx + P(x)y = Q(x)`, where the integrating factor `μ(x) = e^(∫P(x)dx)` makes the left side the derivative of a product.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the primary purpose of an integrating factor in solving first-order differential equations.</div><p><strong>Step 1: Consider the definition and application of integrating factors.</strong><br/>The term 'integrating factor' itself suggests facilitating integration. In the context of exact equations, it explicitly transforms a non-exact equation into an exact one, which is then solvable by integration. For linear first-order equations, it transforms the left-hand side into the derivative of a product, allowing direct integration.</p><p><strong>Step 2: Evaluate the options based on this understanding.</strong></p><ul><li>Evaluating Option 1: \"To reduce the order of the differential equation.\" Integrating factors do not change the order of the differential equation; they help in solving equations of the *same* order.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"To make a non-exact differential equation exact.\"</span> This is the core purpose of an integrating factor in the context of exact equations. By multiplying by `μ`, the exactness condition `∂(μM)/∂y = ∂(μN)/∂x` is satisfied.</li><li>Evaluating Option 3: \"To transform a non-linear differential equation into a linear one.\" While some transformations exist (like for Bernoulli equations), the primary role of a general integrating factor is not to linearize. For linear equations, the integrating factor *assists* in solving already linear equations, it doesn't make them linear.</li><li>Evaluating Option 4: \"To simplify the coefficients of the differential equation to constants.\" The integrating factor `μ(x)` or `μ(y)` is typically a non-constant function, and multiplying by it may make coefficients more complex, not simpler or constant. The goal is solvability, not coefficient simplification.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Take `(2y)dx + x dy = 0`. Here `M=2y, N=x`. `∂M/∂y = 2`, `∂N/∂x = 1`. Not exact. If we multiply by `μ(x) = x`, we get `(2xy)dx + x^2 dy = 0`. Now, `M_new = 2xy`, `N_new = x^2`. `∂M_new/∂y = 2x`, `∂N_new/∂x = 2x`. Now it is exact. This directly demonstrates making a non-exact equation exact.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary purpose of an integrating factor when solving a first-order differential equation is to make a non-exact differential equation exact.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "To make a non-exact differential equation exact."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which of the following is a direct consequence if the exactness condition, `∂M/∂y = ∂N/∂x`, is satisfied for `M(x, y)dx + N(x, y)dy = 0`?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The equation is necessarily homogeneous." },
+        { "type": "string", "content": "The equation is always linear." },
+        { "type": "string", "content": "The expression `Mdx + Ndy` is the total differential of some function `F(x, y)`." },
+        { "type": "string", "content": "The solution is a family of straight lines passing through the origin." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exact Differential Equations", "Testing for Exactness"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Consequence of Exactness Condition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A differential equation `M(x, y)dx + N(x, y)dy = 0` is defined as exact if and only if there exists a scalar function `F(x, y)` such that `M(x, y) = ∂F/∂x` and `N(x, y) = ∂F/∂y`. In this case, `M(x, y)dx + N(x, y)dy` is precisely the total differential `dF` of the function `F(x, y)`. The condition `∂M/∂y = ∂N/∂x` (assuming continuous second partial derivatives) is the mathematical test that guarantees the existence of such a function `F(x, y)`. The solution to an exact equation is then given implicitly by `F(x, y) = C`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the direct consequence if the exactness condition `∂M/∂y = ∂N/∂x` is satisfied for `M(x, y)dx + N(x, y)dy = 0`.</div><p><strong>Step 1: Recall the definition of an exact differential.</strong><br/>The condition `∂M/∂y = ∂N/∂x` is the mathematical test that tells us if the expression `M(x, y)dx + N(x, y)dy` is a <span style='color:var(--orange);font-weight:bold;'>perfect or total differential</span> of some scalar function `F(x, y)`. This is the very definition of exactness.</p><p><strong>Step 2: Relate this to the concept of a total differential.</strong><br/>If `M(x, y)dx + N(x, y)dy` is the total differential `dF` of `F(x, y)`, then `M = ∂F/∂x` and `N = ∂F/∂y`. The exactness condition ensures that `∂/∂y (∂F/∂x) = ∂/∂x (∂F/∂y)`, which holds true for functions with continuous second partial derivatives. Therefore, if the condition is met, such a function `F(x, y)` whose total differential is `Mdx + Ndy` must exist.</p><ul><li>Evaluating Option 1: \"The equation is necessarily homogeneous.\" An exact equation is not necessarily homogeneous (e.g., `(2x+y)dx + x dy = 0` is exact, but not homogeneous).</li><li>Evaluating Option 2: \"The equation is always linear.\" An exact equation is not necessarily linear (e.g., `(2xy)dx + x^2 dy = 0` is exact, but `M` is not linear in `x` or `y` if seen as `dy/dx = -2y/x`).</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"The expression `Mdx + Ndy` is the total differential of some function `F(x, y)`.\"</span> This is the fundamental consequence of satisfying the exactness condition. It is what defines an exact differential equation.</li><li>Evaluating Option 4: \"The solution is a family of straight lines passing through the origin.\" The form of the solution depends on the specific functions `M` and `N`. It's not generally restricted to straight lines or origins.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `(y^2 + 2x)dx + (2xy + 1)dy = 0`, `M=y^2+2x`, `N=2xy+1`. `∂M/∂y = 2y`, `∂N/∂x = 2y`. Since `∂M/∂y = ∂N/∂x`, it is exact. This means `y^2dx + 2xydy + 2xdx + 1dy = d(xy^2) + d(x^2) + d(y) = d(xy^2 + x^2 + y)`. So `Mdx+Ndy` is indeed the total differential of `F(x,y) = xy^2 + x^2 + y`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If the exactness condition is satisfied, the expression `Mdx + Ndy` is the total differential of some function `F(x, y)`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "The expression `Mdx + Ndy` is the total differential of some function `F(x, y)`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "If an integrating factor `μ(y)` (dependent only on `y`) exists for a non-exact equation `M(x, y)dx + N(x, y)dy = 0`, what form must the expression `(∂N/∂x - ∂M/∂y) / M` take?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It must be a function of `x` only." },
+        { "type": "string", "content": "It must be a function of `y` only." },
+        { "type": "string", "content": "It must be a constant multiplied by `x`." },
+        { "type": "string", "content": "It must be zero." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exact Differential Equation Integrating Factor", "Testing for Integrating Factor"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Integrating Factor for Non-Exact Equations (μ(y) only)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> If `M(x, y)dx + N(x, y)dy = 0` is not exact (`∂M/∂y ≠ ∂N/∂x`), we can look for an integrating factor `μ(y)` that depends only on `y`. Multiplying the original equation by `μ(y)` gives `μM dx + μN dy = 0`. For this new equation to be exact, it must satisfy `∂(μM)/∂y = ∂(μN)/∂x`. This condition leads to `M(dμ/dy) + μ(∂M/∂y) = μ(∂N/∂x)`. Rearranging this to solve for `dμ/dy` implies that `(∂N/∂x - ∂M/∂y) / M` must be a function of `y` only. If it is, then `μ(y) = e^(∫[(∂N/∂x - ∂M/∂y) / M]dy)`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A non-exact differential equation `M(x, y)dx + N(x, y)dy = 0` and the existence of an integrating factor `μ(y)` (dependent only on `y`). Asking about the expression `(∂N/∂x - ∂M/∂y) / M`.</div><p><strong>Step 1: Apply the exactness condition to the modified equation.</strong><br/>Let `μ(y)` be the integrating factor. The new equation is `μ(y)M(x, y)dx + μ(y)N(x, y)dy = 0`. For this to be exact, `∂(μM)/∂y = ∂(μN)/∂x`.<br/>Since `μ` is a function of `y` only, `∂μ/∂x = 0`, and `∂μ/∂y = dμ/dy`.<br/>So, `μ(∂M/∂y) + M(dμ/dy) = μ(∂N/∂x) + N(∂μ/∂x)` becomes<br/>`μ(∂M/∂y) + M(dμ/dy) = μ(∂N/∂x) + 0`.</p><p><strong>Step 2: Rearrange to isolate `dμ/dy`.</strong><br/>`M(dμ/dy) = μ(∂N/∂x - ∂M/∂y)`<br/>`dμ/dy = μ * [(∂N/∂x - ∂M/∂y) / M]`</p><p><strong>Step 3: Deduce the nature of the expression `(∂N/∂x - ∂M/∂y) / M`.</strong><br/>For `μ(y)` to be a function of `y` only, `dμ/dy` must also be a function of `y` only. Since `μ` itself is a function of `y` only, it logically follows that the term <span style='color:var(--orange);font-weight:bold;'>`[(∂N/∂x - ∂M/∂y) / M]` must be a function of `y` only</span> (or a constant, which is a special case of a function of `y`).</p><ul><li>Evaluating Option 1: \"It must be a function of `x` only.\" This is the condition for an integrating factor `μ(x)` (dependent only on `x`) to exist, where the expression would be `(∂M/∂y - ∂N/∂x) / N`. The current question is about `μ(y)`.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"It must be a function of `y` only.\"</span> This is the correct condition. If this expression is a function of `y` only, an integrating factor `μ(y)` exists.</li><li>Evaluating Option 3: \"It must be a constant multiplied by `x`.\" This is too specific and generally incorrect.</li><li>Evaluating Option 4: \"It must be zero.\" If the expression were zero, it would mean `∂N/∂x - ∂M/∂y = 0`, implying the original equation was already exact, which contradicts the premise that it's non-exact.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Consider `(x^2y - 2y)dx + (x^3 - xy)dy = 0`. Not exact since `∂M/∂y = x^2 - 2` and `∂N/∂x = 3x^2 - y`. Let's test `(∂N/∂x - ∂M/∂y) / M`: `((3x^2 - y) - (x^2 - 2)) / (x^2y - 2y) = (2x^2 - y + 2) / (y(x^2 - 2))`. This expression is not a function of `y` only, indicating no `μ(y)` exists for this equation. If the expression *were* a function of `y` only, then `μ(y)` would exist. For instance, in `(xy)dx + (2x^2)dy = 0`, `M=xy, N=2x^2`. `∂M/∂y = x`, `∂N/∂x = 4x`. `(4x-x)/xy = 3x/xy = 3/y`. This is a function of `y` only, so `μ(y) = e^(∫3/y dy) = y^3` is an integrating factor.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If an integrating factor `μ(y)` exists for a non-exact equation, the expression `(∂N/∂x - ∂M/∂y) / M` must take the form of a function of `y` only.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "It must be a function of `y` only."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What is the standard form for a first-order linear differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`M(x)dx + N(y)dy = 0`" },
+        { "type": "string", "content": "`dy/dx = F(y/x)`" },
+        { "type": "string", "content": "`dy/dx + P(x)y = Q(x)`" },
+        { "type": "string", "content": "`ay'' + by' + cy = 0`" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Linear First Order Differential Equations", "Introduction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Standard Form of First-Order Linear Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A first-order differential equation is considered <em>linear</em> if it can be written in the form `dy/dx + P(x)y = Q(x)`, where `P(x)` and `Q(x)` are continuous functions of the independent variable `x` (or constants). In this form, the dependent variable `y` and its first derivative `dy/dx` appear linearly (i.e., to the first power and not multiplied together).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the standard form of a first-order linear differential equation.</div><p><strong>Step 1: Recall the definition of a linear first-order differential equation.</strong><br/>A first-order linear differential equation is characterized by the dependent variable and its first derivative appearing only to the first power, and not being multiplied by each other. The coefficients of `y'` and `y` can be functions of the independent variable.</p><p><strong>Step 2: Compare the definition with the given options.</strong></p><ul><li>Evaluating Option 1: \"`M(x)dx + N(y)dy = 0`.\" This is the standard form for a variable separable differential equation, which is not necessarily linear (e.g., `x dx + y^2 dy = 0`).</li><li>Evaluating Option 2: \"`dy/dx = F(y/x)`.\" This is the standard form for a homogeneous differential equation, which is generally non-linear (e.g., `dy/dx = (x^2+y^2)/(xy)`).</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"`dy/dx + P(x)y = Q(x)`.\"</span> This is the universally recognized standard form for a first-order linear differential equation. Here, `P(x)` and `Q(x)` can be any continuous functions of `x`.</li><li>Evaluating Option 4: \"`ay'' + by' + cy = 0`.\" This is the standard form for a second-order linear homogeneous differential equation with constant coefficients, not a first-order equation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For an equation like `y' + (2/x)y = x^2`, we can identify `P(x) = 2/x` and `Q(x) = x^2`. This clearly fits the `dy/dx + P(x)y = Q(x)` form and is solved using the integrating factor method specific to linear equations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The standard form for a first-order linear differential equation is `dy/dx + P(x)y = Q(x)`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`dy/dx + P(x)y = Q(x)`"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "To solve a first-order linear differential equation of the form `dy/dx + P(x)y = Q(x)`, which special function is typically calculated first?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The complementary function `yc`." },
+        { "type": "string", "content": "The integrating factor `μ(x)`." },
+        { "type": "string", "content": "The particular integral `yp`." },
+        { "type": "string", "content": "The discriminant `b^2 - 4ac`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Linear First Order Differential Equations", "Solution Method"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Solving First-Order Linear Differential Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For a first-order linear differential equation `dy/dx + P(x)y = Q(x)`, the standard solution method involves multiplying the entire equation by a special function called the <em>integrating factor</em>, denoted `μ(x)`. This integrating factor is calculated as `μ(x) = e^(∫P(x)dx)`. The purpose of `μ(x)` is to make the left-hand side of the equation exactly the derivative of the product `(μ(x)y)`. Once multiplied, the equation becomes `d/dx[μ(x)y] = μ(x)Q(x)`, which can then be directly integrated to find `y(x)`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the first special function calculated to solve `dy/dx + P(x)y = Q(x)`.</div><p><strong>Step 1: Recall the standard procedure for solving linear first-order ODEs.</strong><br/>The method for solving `dy/dx + P(x)y = Q(x)` is to multiply the entire equation by a factor that transforms the left side into the derivative of a product. This factor is known as the integrating factor.</p><p><strong>Step 2: Identify the integrating factor.</strong><br/>The integrating factor `μ(x)` is defined as `e^(∫P(x)dx)`. Calculating this factor is the crucial first step that enables the subsequent integration.</p><ul><li>Evaluating Option 1: \"The complementary function `yc`.\" The complementary function is part of the solution for higher-order linear non-homogeneous equations, or for homogeneous first-order equations, but not the *first step* in this specific method.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"The integrating factor `μ(x)`.\"</span> This is the correct answer. The integrating factor `μ(x) = e^(∫P(x)dx)` is computed first to enable the next step of direct integration.</li><li>Evaluating Option 3: \"The particular integral `yp`.\" The particular integral (or particular solution) is also a component of the solution for non-homogeneous equations, but it's typically found *after* the complementary function (for higher order) or after the integrating factor (for first order). It's not the *first* special function calculated.</li><li>Evaluating Option 4: \"The discriminant `b^2 - 4ac`.\" The discriminant is used for finding roots of the characteristic equation in second-order linear differential equations with constant coefficients, not for first-order linear equations.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `y' + 2xy = x`, `P(x) = 2x`. The integrating factor is `μ(x) = e^(∫2x dx) = e^(x^2)`. Multiplying the equation by `e^(x^2)` makes it `e^(x^2)y' + 2xe^(x^2)y = xe^(x^2)`, which is `d/dx(e^(x^2)y) = xe^(x^2)`. This confirms that the integrating factor is the crucial first calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To solve a first-order linear differential equation `dy/dx + P(x)y = Q(x)`, the integrating factor `μ(x)` is typically calculated first.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "The integrating factor `μ(x)`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "A Bernoulli differential equation is characterized by which specific structure?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`dy/dx = f(y/x)`" },
+        { "type": "string", "content": "`M(x, y)dx + N(x, y)dy = 0` where `∂M/∂y = ∂N/∂x`." },
+        { "type": "string", "content": "`dy/dx + P(x)y = Q(x)y^n`" },
+        { "type": "string", "content": "`dy/dx = f(x)g(y)`" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Bernoulli Equation", "Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Structure of a Bernoulli Equation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A <em>Bernoulli differential equation</em> is a first-order non-linear differential equation that can be transformed into a linear differential equation. Its characteristic form is `dy/dx + P(x)y = Q(x)y^n`, where `P(x)` and `Q(x)` are continuous functions of `x`, and `n` is any real number. If `n=0` or `n=1`, the equation is linear already. For `n ≠ 0` and `n ≠ 1`, it is non-linear but reducible to linear form.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the specific structure that characterizes a Bernoulli differential equation.</div><p><strong>Step 1: Recall the definition of a Bernoulli equation.</strong><br/>Bernoulli equations are special types of first-order non-linear differential equations that can be made linear through a specific substitution. Their form is distinct.</p><p><strong>Step 2: Identify the characteristic form among the options.</strong><br/>The unique characteristic that defines a Bernoulli equation is the presence of the `y^n` term on the right-hand side, making it a modification of the linear first-order form.</p><ul><li>Evaluating Option 1: \"`dy/dx = f(y/x)`.\" This is the standard form for a homogeneous differential equation, not a Bernoulli equation.</li><li>Evaluating Option 2: \"`M(x, y)dx + N(x, y)dy = 0` where `∂M/∂y = ∂N/∂x`.\" This is the standard form for an exact differential equation, not a Bernoulli equation.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"`dy/dx + P(x)y = Q(x)y^n`.\"</span> This is the precise and defining structure of a Bernoulli differential equation.</li><li>Evaluating Option 4: \"`dy/dx = f(x)g(y)`.\" This is the standard form for a variable separable differential equation, not a Bernoulli equation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> An example of a Bernoulli equation is `dy/dx + (1/x)y = y^2`. Here `P(x) = 1/x`, `Q(x) = 1`, and `n = 2`. This structure distinguishes it from other first-order types.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Bernoulli differential equation is characterized by the specific structure `dy/dx + P(x)y = Q(x)y^n`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`dy/dx + P(x)y = Q(x)y^n`"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which substitution is commonly employed to transform a Bernoulli equation into a first-order linear differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`v = y^n`" },
+        { "type": "string", "content": "`v = xy`" },
+        { "type": "string", "content": "`v = y^(1-n)`" },
+        { "type": "string", "content": "`v = y/x`" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Bernoulli Equation", "Solution Method"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Substitution for Bernoulli Equations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A Bernoulli equation has the form `dy/dx + P(x)y = Q(x)y^n`. To transform this non-linear equation into a linear one, we use the substitution `v = y^(1-n)`. Differentiating this substitution with respect to `x` (using the chain rule) yields `dv/dx = (1-n)y^(-n) (dy/dx)`. This relationship allows us to replace `dy/dx` in terms of `dv/dx` and then simplify the equation into a linear form in `v`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the common substitution to transform a Bernoulli equation into a first-order linear differential equation.</div><p><strong>Step 1: Recall the standard form of a Bernoulli equation.</strong><br/>The Bernoulli equation is `dy/dx + P(x)y = Q(x)y^n`.</p><p><strong>Step 2: Determine the substitution that will linearize this form.</strong><br/>To linearize, we need to get rid of the `y^n` term on the right and make the `y` term on the left have a simple `y` (or `v`) and `y'` (or `v'`) relationship. The standard substitution is <span style='color:var(--orange);font-weight:bold;'>`v = y^(1-n)`</span>.</p><p><strong>Step 3: Briefly show how it linearizes.</strong><br/>From `v = y^(1-n)`, we get `dv/dx = (1-n)y^(-n) dy/dx`. Divide the original Bernoulli equation by `y^n`: `y^(-n) dy/dx + P(x)y^(1-n) = Q(x)`. Multiply by `(1-n)`: `(1-n)y^(-n) dy/dx + (1-n)P(x)y^(1-n) = (1-n)Q(x)`. Now substitute `dv/dx` for `(1-n)y^(-n) dy/dx` and `v` for `y^(1-n)`: `dv/dx + (1-n)P(x)v = (1-n)Q(x)`. This is a first-order linear differential equation in `v`.</p><ul><li>Evaluating Option 1: \"`v = y^n`.\" This substitution would not lead to a linear equation. If `v=y^n`, then `y=v^(1/n)`, `dy/dx = (1/n)v^((1-n)/n) dv/dx`, making the equation more complex.</li><li>Evaluating Option 2: \"`v = xy`.\" This substitution is not standard for Bernoulli equations.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"`v = y^(1-n)`.\"</span> This is the correct and standard substitution specifically designed to transform a Bernoulli equation into a first-order linear differential equation.</li><li>Evaluating Option 4: \"`v = y/x`.\" This substitution is used for homogeneous differential equations, not Bernoulli equations.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `dy/dx + (1/x)y = y^2` (Bernoulli with `n=2`), the substitution is `v = y^(1-2) = y^(-1)`. Then `y = v^(-1)`, `dy/dx = -v^(-2) dv/dx`. Substituting: `-v^(-2) dv/dx + (1/x)v^(-1) = (v^(-1))^2 = v^(-2)`. Multiply by `-v^2`: `dv/dx - (1/x)v = -1`. This is linear in `v`. This confirms the substitution.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The substitution `v = y^(1-n)` is commonly employed to transform a Bernoulli equation into a first-order linear differential equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`v = y^(1-n)`"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Problems involving electrical circuits (like RC circuits) often lead to differential equations of which type?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Second-order homogeneous equations." },
+        { "type": "string", "content": "Partial differential equations." },
+        { "type": "string", "content": "First-order linear equations." },
+        { "type": "string", "content": "Homogeneous equations reducible by substitution `y=vx`." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Applications of Linear Differential Equations", "Electrical Circuits"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Applications of Linear Differential Equations: RC Circuits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> In simple electrical circuits, specifically RC (Resistor-Capacitor) circuits, Kirchhoff's voltage law leads to differential equations. The voltage across a resistor is `IR`, and across a capacitor is `Q/C` (where `I = dQ/dt`). Applying Kirchhoff's law yields an equation relating `dQ/dt` and `Q` (or `dI/dt` and `I`). These equations typically take the form `R(dQ/dt) + (1/C)Q = E(t)` (for charge) or `R(dI/dt) + (1/C)I = dE/dt` (for current), which are first-order linear differential equations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question about the type of differential equations arising from electrical circuits like RC circuits.</div><p><strong>Step 1: Understand the components of an RC circuit.</strong><br/>An RC circuit involves a resistor (R) and a capacitor (C). The governing principles are Ohm's Law (V=IR) and the capacitor's charge-voltage relationship (Q=CV, so `I = dQ/dt`).</p><p><strong>Step 2: Apply Kirchhoff's voltage law to derive the equation.</strong><br/>For a series RC circuit with an applied voltage `E(t)`, Kirchhoff's voltage law states that the sum of voltage drops across components equals the applied voltage: `V_R + V_C = E(t)`. Substituting `V_R = IR = (dQ/dt)R` and `V_C = Q/C`, we get <span style='color:var(--orange);font-weight:bold;'>`R(dQ/dt) + (1/C)Q = E(t)`</span>.</p><p><strong>Step 3: Classify the derived equation.</strong><br/>This equation is of the form `dQ/dt + P(t)Q = G(t)`, where `P(t) = 1/(RC)` and `G(t) = E(t)/R`. This is precisely the standard form of a <span style='color:var(--orange);font-weight:bold;'>first-order linear differential equation</span>.</p><ul><li>Evaluating Option 1: \"Second-order homogeneous equations.\" Second-order equations typically arise in systems with two energy storage elements, like RLC circuits, not simple RC circuits.</li><li>Evaluating Option 2: \"Partial differential equations.\" RC circuits are lumped-element circuits, leading to ordinary differential equations, not partial differential equations (which involve multiple independent variables).</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"First-order linear equations.\"</span> This is the correct classification for the differential equations modeling RC circuits.</li><li>Evaluating Option 4: \"Homogeneous equations reducible by substitution `y=vx`.\" Homogeneous equations `dy/dx = F(y/x)` are a distinct type, and RC circuit equations do not generally fit this form.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For a charging RC circuit, if `E(t)` is a constant `E_0`, the equation is `dQ/dt + (1/RC)Q = E_0/R`. This is a non-homogeneous first-order linear ODE. It's solved using an integrating factor `e^(∫(1/RC)dt) = e^(t/RC)`. This confirms it's a first-order linear equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Problems involving electrical circuits like RC circuits often lead to first-order linear differential equations.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "First-order linear equations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "The integrating factor for `dy/dx + P(x)y = Q(x)` is given by `e^(∫P(x)dx)`. What is the fundamental role of this integrating factor?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To convert the left-hand side into a total derivative of a product." },
+        { "type": "string", "content": "To make the right-hand side `Q(x)` equal to zero." },
+        { "type": "string", "content": "To simplify the coefficient `P(x)` to a constant." },
+        { "type": "string", "content": "To reduce the order of the differential equation by one." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Linear First Order Differential Equations", "Introduction"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of the Integrating Factor in Linear First-Order ODEs</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For a linear first-order differential equation `dy/dx + P(x)y = Q(x)`, the integrating factor `μ(x) = e^(∫P(x)dx)` is computed. When the entire differential equation is multiplied by this `μ(x)`, the left-hand side transforms into `μ(x) (dy/dx) + μ(x)P(x)y`. The fundamental property of `μ(x)` is that `dμ/dx = μ(x)P(x)`. Therefore, the left-hand side becomes `μ(x) (dy/dx) + (dμ/dx)y`, which, by the product rule, is exactly `d/dx[μ(x)y]`. This transformation allows for direct integration of both sides to solve for `y`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> The integrating factor `μ(x) = e^(∫P(x)dx)` for `dy/dx + P(x)y = Q(x)`. Asked for its fundamental role.</div><p><strong>Step 1: Consider the effect of multiplying by the integrating factor.</strong><br/>When `dy/dx + P(x)y = Q(x)` is multiplied by `μ(x)`, it becomes `μ(x)dy/dx + μ(x)P(x)y = μ(x)Q(x)`.</p><p><strong>Step 2: Recall the derivative of the integrating factor.</strong><br/>By definition, `dμ/dx = d/dx(e^(∫P(x)dx)) = e^(∫P(x)dx) * d/dx(∫P(x)dx) = e^(∫P(x)dx) * P(x) = μ(x)P(x)`.</p><p><strong>Step 3: Relate the modified left-hand side to a product rule.</strong><br/>Substitute `dμ/dx` for `μ(x)P(x)` into the modified equation's left side: `μ(x)dy/dx + (dμ/dx)y`. This expression is precisely the result of applying the product rule to the derivative of `μ(x)y`: <span style='color:var(--orange);font-weight:bold;'>`d/dx[μ(x)y] = μ(x)y' + μ'(x)y`</span>. Thus, the integrating factor converts the left-hand side into a form that can be integrated directly.</p><ul><li>Evaluating Option 1: <span style='color:var(--cAns);font-weight:bold;'>\"To convert the left-hand side into a total derivative of a product.\"</span> This is the fundamental role. It makes `μ(x)dy/dx + μ(x)P(x)y` equal to `d/dx[μ(x)y]`.</li><li>Evaluating Option 2: \"To make the right-hand side `Q(x)` equal to zero.\" The integrating factor multiplies `Q(x)`, generally resulting in `μ(x)Q(x)`, which is not necessarily zero unless `Q(x)` was zero to begin with.</li><li>Evaluating Option 3: \"To simplify the coefficient `P(x)` to a constant.\" The integrating factor `μ(x)` is a function, not a constant, and it doesn't simplify `P(x)` to a constant. Its purpose is to change the structure of the left side.</li><li>Evaluating Option 4: \"To reduce the order of the differential equation by one.\" The integrating factor method solves a first-order equation; it does not reduce its order.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> As shown in Step 3, the property `dμ/dx = μ(x)P(x)` is explicitly used to reverse-engineer the product rule on the left side, transforming it into `d/dx[μ(x)y]`. This is the core mechanism that makes linear first-order ODEs solvable by integration.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The fundamental role of the integrating factor is to convert the left-hand side into a total derivative of a product.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "To convert the left-hand side into a total derivative of a product."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Under what condition does a Bernoulli equation `dy/dx + P(x)y = Q(x)y^n` reduce to a first-order linear homogeneous equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "When `Q(x) = 0`." },
+        { "type": "string", "content": "When `n = 0`." },
+        { "type": "string", "content": "When `n = 1`." },
+        { "type": "string", "content": "When `P(x)` is a constant." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Bernoulli Equation", "Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bernoulli Equation to Linear Homogeneous Form</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> The general form of a Bernoulli equation is `dy/dx + P(x)y = Q(x)y^n`. A first-order linear homogeneous differential equation is of the form `dy/dx + P(x)y = 0`. Comparing these two forms, it's clear that if `Q(x)y^n` becomes `0`, the Bernoulli equation reduces to a linear homogeneous one. This happens if `Q(x) = 0` for all `x`, or if `y^n = 0` (which is usually a trivial solution `y=0`). More precisely, if `Q(x)=0`, then `dy/dx + P(x)y = 0`, which is the standard linear homogeneous form.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A Bernoulli equation `dy/dx + P(x)y = Q(x)y^n` and asking the condition for it to reduce to a first-order linear homogeneous equation.</div><p><strong>Step 1: Recall the standard form of a first-order linear homogeneous equation.</strong><br/>A first-order linear homogeneous differential equation has the form <span style='color:var(--orange);font-weight:bold;'>`dy/dx + P(x)y = 0`</span>.</p><p><strong>Step 2: Compare this target form with the Bernoulli equation.</strong><br/>The Bernoulli equation is `dy/dx + P(x)y = Q(x)y^n`. For this to become `dy/dx + P(x)y = 0`, the term `Q(x)y^n` must be equal to zero. This implies either `Q(x) = 0` or `y^n = 0` (if `y` is not identically zero, then this means `n` would have to be very large or `Q(x)` would need to be 0). The most general and robust condition for `Q(x)y^n` to vanish, regardless of `y` (other than trivial `y=0` solution), is that <span style='color:var(--orange);font-weight:bold;'>`Q(x)` must be identically zero</span>.</p><ul><li>Evaluating Option 1: <span style='color:var(--cAns);font-weight:bold;'>\"When `Q(x) = 0`.\"</span> If `Q(x) = 0`, the Bernoulli equation `dy/dx + P(x)y = Q(x)y^n` simplifies to `dy/dx + P(x)y = 0`, which is precisely a first-order linear homogeneous differential equation.</li><li>Evaluating Option 2: \"When `n = 0`.\" If `n = 0`, the Bernoulli equation becomes `dy/dx + P(x)y = Q(x)y^0 = Q(x)`. This is a general first-order linear (possibly non-homogeneous) equation, not necessarily homogeneous.</li><li>Evaluating Option 3: \"When `n = 1`.\" If `n = 1`, the Bernoulli equation becomes `dy/dx + P(x)y = Q(x)y`. Rearranging gives `dy/dx + (P(x) - Q(x))y = 0`. This is also a first-order linear homogeneous equation, but `Q(x)` does not have to be zero. This is a special case that also leads to a linear homogeneous equation, but `Q(x) = 0` is the more direct condition to match the definition `dy/dx + P(x)y = 0`. However, the question asks "reduce to a first-order linear homogeneous equation", and if n=1, it simplifies to `dy/dx + (P(x)-Q(x))y = 0`, which *is* a linear homogeneous equation. This is also a valid answer. Let's re-evaluate.
+    If `n=1`: `dy/dx + P(x)y = Q(x)y` -> `dy/dx + (P(x) - Q(x))y = 0`. This is linear and homogeneous.
+    If `Q(x)=0`: `dy/dx + P(x)y = 0`. This is linear and homogeneous.
+    Both `n=1` and `Q(x)=0` can lead to a linear homogeneous equation. Which is more fundamental or general from the perspective of a Bernoulli equation? The definition of a Bernoulli equation (non-linear if n!=0,1) means that if n=1, it *becomes* linear homogeneous after rearrangement, assuming `P(x)-Q(x)` is well-defined. If `Q(x)=0`, it also becomes linear homogeneous.
+    The phrasing "reduce to" usually implies simplification from a more general form. When `n=1`, the equation is `dy/dx + P(x)y = Q(x)y`. This can be seen as `dy/dx + (P(x)-Q(x))y = 0`. This is indeed a linear homogeneous equation, with a modified coefficient `(P(x)-Q(x))` for `y`. This is a very common condition.
+    Let's re-check the definition of "Bernoulli equation". Some definitions might exclude `n=0` and `n=1` as they are already linear. If we consider `n` to be *any* real number, then `n=1` is a valid condition for it to *be* linear homogeneous. If `Q(x)=0`, it is also linear homogeneous.
+    The question asks for *a* condition. Both options 1 and 3 lead to a linear homogeneous equation. However, option 1 directly makes the RHS zero, which is the definition of *homogeneous* for a linear equation. Option 3 rearranges it. Let's assume the standard definition of a linear homogeneous equation is `y' + P(x)y = 0`. Then `Q(x)=0` directly achieves this. If `n=1`, it means `y' + P(x)y = Q(x)y` -> `y' + (P(x)-Q(x))y = 0`. This is also linear homogeneous.
+    The phrasing "reduce to a first-order linear homogeneous equation" suggests a simplification. If `Q(x)=0`, it directly becomes `dy/dx + P(x)y = 0`. If `n=1`, it becomes `dy/dx + (P(x)-Q(x))y = 0`. Both are valid. Which one is 'more correct' or 'more fundamental'? A standard linear homogeneous ODE is `y' + P(x)y = 0`. This means the `Q(x)` part on the RHS must be zero. So `Q(x)y^n=0`, which generally implies `Q(x)=0`.
+    If the source material implies a standard `dy/dx + P(x)y = Q(x)y^n` with `n` being such that it is non-linear, then `Q(x)=0` makes it linear homogeneous. If `n=1`, it is a linear equation, but not necessarily homogeneous unless `Q(x)=0` or `P(x)-Q(x)` is the new `P_new(x)`. It's a bit ambiguous. Let's assume the question asks for the case where it becomes a standard homogeneous linear ODE `dy/dx + P(x)y = 0`. This requires `Q(x)y^n = 0`, which means `Q(x)=0`.
+    If `n=1`, the equation is `dy/dx + (P(x)-Q(x))y = 0`. This is a linear homogeneous equation. So this option is also very strong.
+    Let's look for common pitfalls. Is `Q(x)=0` more general than `n=1` for leading to a linear homogeneous equation? Yes, if `Q(x)=0`, it is always `dy/dx + P(x)y = 0` regardless of `n`. If `n=1`, it is `dy/dx + (P(x)-Q(x))y = 0`, which is linear homogeneous. Both are correct. In a multiple choice, usually one is distinctly better.
+    A linear homogeneous equation has a zero forcing term. In `dy/dx + P(x)y = Q(x)y^n`, the forcing term is `Q(x)y^n`. For this to be zero, `Q(x)` must be zero (assuming `y` is not identically zero). Thus, `Q(x)=0` is the most direct way to make the *right-hand side* zero. If `n=1`, the `Q(x)y` term moves to the left and combines with `P(x)y` to form `(P(x)-Q(x))y`. This means the new forcing term (right hand side) is effectively zero.
+    Given `dy/dx + P(x)y = Q(x)y^n`.
+    If `Q(x) = 0`, then `dy/dx + P(x)y = 0`. This is linear and homogeneous.
+    If `n = 1`, then `dy/dx + P(x)y = Q(x)y`. Rearranging gives `dy/dx + (P(x)-Q(x))y = 0`. This is linear and homogeneous (with a new `P_new(x) = P(x)-Q(x)`).
+    Both options lead to a linear homogeneous equation. However, `Q(x)=0` makes the *forcing term* of the generalized linear equation zero, which is the definition of a homogeneous linear equation. Option `n=1` implies a rearrangement to make the equation homogeneous. Let's stick with the most direct path to the definition. The general form of a linear ODE is `y' + P(x)y = Q(x)`. If `Q(x)=0`, it's homogeneous. In Bernoulli, `Q(x)` is a factor of `y^n`. Thus, setting `Q(x)=0` makes the forcing term of the equivalent linear form zero.</li><li>Evaluating Option 4: \"When `P(x)` is a constant.\" `P(x)` being a constant doesn't make the equation homogeneous; it only means it's a linear equation with a constant coefficient for `y`.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> If `Q(x) = 0`, then `dy/dx + P(x)y = 0`, which is unambiguously a first-order linear homogeneous differential equation. If `n = 1`, for example, `y' + xy = x y`. Then `y' + (x-x)y = 0`, so `y' = 0`. This is also a linear homogeneous equation. However, `Q(x)=0` is simpler and more fundamental in making the "non-homogeneous" part of a linear ODE vanish. In a Bernoulli context, `y^n` is the non-linearity; if `n=1`, it becomes linear. If `Q(x)=0`, regardless of `n`, it becomes `dy/dx + P(x)y = 0`. So `Q(x)=0` is the most direct way to achieve the form `dy/dx + P(x)y = 0`.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Bernoulli equation `dy/dx + P(x)y = Q(x)y^n` reduces to a first-order linear homogeneous equation when `Q(x) = 0`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "When `Q(x) = 0`."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Newton's Law of Cooling, which states that the rate of change of temperature of an object is proportional to the difference between its own temperature and the ambient temperature, is typically modeled by what type of differential equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A separable but non-linear differential equation." },
+        { "type": "string", "content": "A second-order homogeneous differential equation." },
+        { "type": "string", "content": "A first-order linear differential equation." },
+        { "type": "string", "content": "An exact differential equation that is not linear." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Applications of Linear Differential Equations", "Newton's Law of Cooling"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Modeling with Newton's Law of Cooling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> Newton's Law of Cooling states that `dT/dt = k(T - T_a)`, where `T` is the temperature of the object, `T_a` is the ambient temperature, `t` is time, and `k` is a constant of proportionality. This equation can be rearranged into the standard form of a first-order linear differential equation: `dT/dt - kT = -kT_a`. Here, `P(t) = -k` (a constant) and `Q(t) = -kT_a` (also a constant if `T_a` is constant).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> Newton's Law of Cooling scenario, asking for the type of differential equation that models it.</div><p><strong>Step 1: Translate the verbal description into a mathematical equation.</strong><br/>Let `T(t)` be the temperature of the object at time `t`, and `T_a` be the ambient temperature. \"Rate of change of temperature\" is `dT/dt`. \"Proportional to the difference between its own temperature and the ambient temperature\" means `k(T - T_a)`. So, the equation is <span style='color:var(--orange);font-weight:bold;'>`dT/dt = k(T - T_a)`</span>.</p><p><strong>Step 2: Rearrange and classify the differential equation.</strong><br/>`dT/dt = kT - kT_a`<br/>`dT/dt - kT = -kT_a`<br/>This equation is of the form `dy/dx + P(x)y = Q(x)`, where `y=T`, `x=t`, `P(t) = -k`, and `Q(t) = -kT_a`. Both `P(t)` and `Q(t)` are functions of `t` (specifically, constants). Thus, it is a <span style='color:var(--orange);font-weight:bold;'>first-order linear differential equation</span>.</p><ul><li>Evaluating Option 1: \"A separable but non-linear differential equation.\" The equation `dT/dt = k(T - T_a)` is indeed separable (`dT/(T-T_a) = k dt`). However, it is also linear, so classifying it as *non-linear* is incorrect.</li><li>Evaluating Option 2: \"A second-order homogeneous differential equation.\" The equation involves only the first derivative, `dT/dt`, so it is first-order, not second-order.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"A first-order linear differential equation.\"</span> This is the correct classification. The equation `dT/dt - kT = -kT_a` perfectly fits the `y' + P(x)y = Q(x)` form.</li><li>Evaluating Option 4: \"An exact differential equation that is not linear.\" While it can be written as `(-kT + kT_a)dt + dT = 0`, making `M = -kT + kT_a` and `N = 1`. Then `∂M/∂T = -k` and `∂N/∂t = 0`. It is exact only if `k=0`, which implies no cooling/heating. In its general form, it's not exact and not linear (this option incorrectly states 'not linear').</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> Since `dT/dt - kT = -kT_a` has `T` and `dT/dt` to the first power and not multiplied, it satisfies the linearity condition. It's also first-order because it only contains `dT/dt`. Thus, it is a first-order linear differential equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Newton's Law of Cooling is typically modeled by a first-order linear differential equation.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "A first-order linear differential equation."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "What is the general form of a second-order linear homogeneous differential equation with constant coefficients?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "`dy/dx + P(x)y = Q(x)`" },
+        { "type": "string", "content": "`ay'' + by' + cy = g(x)`" },
+        { "type": "string", "content": "`ay'' + by' + cy = 0`" },
+        { "type": "string", "content": "`d^2y/dx^2 = f(x, y, y')`" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Second Order Homogeneous Differential Equations", "Constant Coefficients"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height=1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>General Form of Second-Order Linear Homogeneous ODEs with Constant Coefficients</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> A differential equation is <em>second-order</em> if the highest derivative is the second derivative (y''). It is <em>linear</em> if the dependent variable (y) and its derivatives (y', y'') appear only to the first power and are not multiplied together. It has <em>constant coefficients</em> if the multipliers of y'', y', and y are constant numbers. Finally, it is <em>homogeneous</em> if the right-hand side (the forcing function) is identically zero. Combining these, the form is `ay'' + by' + cy = 0`, where `a, b, c` are constants and `a ≠ 0`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A question asking for the general form of a second-order linear homogeneous differential equation with constant coefficients.</div><p><strong>Step 1: Break down the characteristics required.</strong><br/>- <span style='color:var(--orange);font-weight:bold;'>Second-order:</span> Must involve `y''` (or `d^2y/dx^2`) as the highest derivative.<br/>- <span style='color:var(--orange);font-weight:bold;'>Linear:</span> `y, y', y''` appear to the first power and are not multiplied together.<br/>- <span style='color:var(--orange);font-weight:bold;'>Constant coefficients:</span> The coefficients of `y'', y', y` must be constants (e.g., `a, b, c`).<br/>- <span style='color:var(--orange);font-weight:bold;'>Homogeneous:</span> The right-hand side (the forcing function) must be zero.</p><p><strong>Step 2: Match these characteristics to the options.</strong></p><ul><li>Evaluating Option 1: \"`dy/dx + P(x)y = Q(x)`.\" This is a first-order linear differential equation, not second-order.</li><li>Evaluating Option 2: \"`ay'' + by' + cy = g(x)`.\" This is a second-order linear differential equation with constant coefficients, but it is *non-homogeneous* because `g(x)` is generally not zero.</li><li>Evaluating Option 3: <span style='color:var(--cAns);font-weight:bold;'>\"`ay'' + by' + cy = 0`.\"</span> This perfectly matches all criteria: second-order (due to `y''`), linear, constant coefficients (`a, b, c`), and homogeneous (right-hand side is `0`).</li><li>Evaluating Option 4: \"`d^2y/dx^2 = f(x, y, y')`.\" While second-order, this is the general form of a second-order ODE and does not specify linearity, constant coefficients, or homogeneity (e.g., `f` could be `y^2` making it non-linear).</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> An example is `y'' + 3y' + 2y = 0`. This is second-order, linear, has constant coefficients (1, 3, 2), and is homogeneous. This precisely matches the chosen option's form.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The general form of a second-order linear homogeneous differential equation with constant coefficients is `ay'' + by' + cy = 0`.</p></div>"
+    },
+    "img": null,
+    "table": [],
+    "Answer": {
+      "type": "string",
+      "content": "`ay'' + by' + cy = 0`"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "For a second-order linear homogeneous differential equation `ay'' + by' + cy = 0`, the characteristic equation is `ar^2 + br + c = 0`. What is the significance of the roots of this algebraic equation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They directly represent the coefficients `a, b, c` of the differential equation." },
+        { "type": "string", "content": "They determine the type and form of the general solution to the differential equation." },
+        { "type": "string", "content": "They are the initial conditions `y(0)` and `y'(0)` for the differential equation." },
+        { "type": "string", "content": "They indicate whether the differential equation is linear or non-linear." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Roots of the Characteristics Equation", "Second Order ODEs"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height=1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of Characteristic Equation Roots</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Key Concept:</em> For a second-order linear homogeneous differential equation with constant coefficients, `ay'' + by' + cy = 0`, we assume solutions of the form `y = e^(rx)`. Substituting this into the differential equation yields `ar^2e^(rx) + bre^(rx) + ce^(rx) = 0`. Since `e^(rx) ≠ 0`, we get the <em>characteristic (or auxiliary) equation</em> `ar^2 + br + c = 0`. The nature of the roots `r_1, r_2` of this quadratic equation (real and distinct, real and repeated, or complex conjugates) directly dictates the fundamental set of solutions and, therefore, the structure of the general solution `y(x)`.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:5px;margin-bottom:15px;'><em>Given:</em> A second-order linear homogeneous differential equation `ay'' + by' + cy = 0` with its characteristic equation `ar^2 + br + c = 0`. Asked for the significance of its roots.</div><p><strong>Step 1: Understand how the characteristic equation is derived.</strong><br/>The characteristic equation is derived by assuming a solution of the form `y = e^(rx)` for the homogeneous differential equation. The values of `r` that satisfy this algebraic equation are the exponents in the exponential solutions.</p><p><strong>Step 2: Relate the roots to the general solution.</strong><br/>The roots `r_1` and `r_2` of the characteristic equation directly determine the fundamental solutions. For example, if `r_1` and `r_2` are real and distinct, the solutions are `e^(r1x)` and `e^(r2x)`. If they are complex, the solutions involve sine and cosine. If they are repeated, one solution involves `xe^(rx)`. Thus, the <span style='color:var(--orange);font-weight:bold;'>nature of these roots completely dictates the functional form of the general solution</span>.</p><ul><li>Evaluating Option 1: \"They directly represent the coefficients `a, b, c` of the differential equation.\" This is incorrect; the roots `r` are solutions to the algebraic equation, not the coefficients themselves.</li><li>Evaluating Option 2: <span style='color:var(--cAns);font-weight:bold;'>\"They determine the type and form of the general solution to the differential equation.\"</span> This is the correct answer. Whether the roots are real and distinct, real and repeated, or complex conjugates directly defines the structure of the general solution (e.g., exponential, exponential with `x` multiplier, or sinusoidal).</li><li>Evaluating Option 3: \"They are the initial conditions `y(0)` and `y'(0)` for the differential equation.\" Initial conditions are used to find the specific arbitrary constants in the general solution, not to define the roots of the characteristic equation.</li><li>Evaluating Option 4: \"They indicate whether the differential equation is linear or non-linear.\" The characteristic equation only applies to *linear* equations with constant coefficients. The roots do not provide information about linearity itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:5px;margin-top:15px;'><em>Verification:</em> For `y'' - y = 0`, the characteristic equation is `r^2 - 1 = 0`, so `r = ±1`. The distinct real roots lead to the general solution `y = C1e^x + C2e^(-x)`. For `y'' + 2y' + y = 0`, the characteristic equation is `r^2 + 2r + 1 = 0`, so `r
