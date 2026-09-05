@@ -1,0 +1,979 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer any 20 of the following 40 questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of the following best defines a laboratory hazard?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Any procedure performed incorrectly in a laboratory setting." },
+        { "type": "string", "content": "A potential source of harm, injury, or adverse health effect in a laboratory environment." },
+        { "type": "string", "content": "An unforeseen experiment outcome that requires documentation." },
+        { "type": "string", "content": "The accidental breakage of glassware during an experiment." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Laboratory Hazards", "General Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Defining Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <span style='color:var(--orange);font-weight:bold;'>laboratory hazard</span> refers to any condition, substance, or activity in a laboratory that has the potential to cause harm, injury, illness, or property damage.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the best definition of a laboratory hazard from the provided options.</div><p><strong>Step 1: Understand the core concept of a hazard.</strong><br>A hazard is inherently about potential for harm. In a laboratory context, this applies to the specific environment and activities conducted within it.</p><p><strong>Step 2: Evaluate the options based on this understanding.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> \"Any procedure performed incorrectly...\" describes a cause of a hazard or an unsafe act, not the hazard itself.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> \"A potential source of harm, injury, or adverse health effect in a laboratory environment.\" directly aligns with the definition of a hazard, emphasizing its potential to cause harm within the specific context of a laboratory.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> \"An unforeseen experiment outcome...\" is too specific and does not cover the broad range of hazards (e.g., electrical, chemical, biological, physical) present in a lab.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> \"The accidental breakage of glassware...\" is an example of an incident that could arise from a hazard (e.g., mechanical hazard, improper handling), but it is not the definition of a hazard itself.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A hazard is generally understood as anything with the potential to cause harm. The chosen definition correctly captures this essence within the laboratory setting, encompassing various types of risks like chemical exposure, electrical shock, or biological contamination. The other options describe specific events or actions, not the overarching potential for harm.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The best definition of a laboratory hazard is a potential source of harm, injury, or adverse health effect in a laboratory environment.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A potential source of harm, injury, or adverse health effect in a laboratory environment." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is explicitly listed as a type of laboratory hazard?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Psychological hazards" },
+        { "type": "string", "content": "Ergonomic hazards" },
+        { "type": "string", "content": "Electrical hazards" },
+        { "type": "string", "content": "Environmental hazards" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "Electrical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Types of Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Laboratory hazards can be classified into different categories based on their nature. The document specifically mentions <span style='color:var(--orange);font-weight:bold;'>Chemical, Electrical, etc.</span> as types of laboratory hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a type of laboratory hazard explicitly listed in the document.</div><p><strong>Step 1: Refer to the document's list of hazard types.</strong><br>Point 2 in the document explicitly states: \"Types of laboratory hazard (Chemical, Electrical etc.)\".</p><p><strong>Step 2: Compare the options with the listed types.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Psychological hazards are not explicitly mentioned.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Ergonomic hazards are not explicitly mentioned.</li><li><span style='color:var(--orange);font='bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Electrical hazards</span> are explicitly mentioned in the document as a type of laboratory hazard.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> Environmental hazards are not explicitly mentioned as a *type* of laboratory hazard, though laboratory hazards can have environmental consequences.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly lists \"Chemical, Electrical etc.\" as examples of laboratory hazards. Therefore, Electrical hazards is the correct identification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Electrical hazards is explicitly listed as a type of laboratory hazard.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Electrical hazards" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Improper handling of substances is a direct contributor to which aspect of laboratory safety?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Enhancing experimental precision" },
+        { "type": "string", "content": "Reducing equipment wear and tear" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Improving laboratory efficiency" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Causes of Hazard", "Laboratory Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Causes of Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Causes of hazard\" as a distinct topic. Improper handling practices are a common source of creating hazardous conditions in a laboratory.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks how improper handling of substances relates to laboratory safety topics.</div><p><strong>Step 1: Analyze the implication of \"improper handling.\"</strong><br>Improper handling means not following correct procedures, which can lead to spills, exposure, reactions, or equipment malfunction. These are all scenarios that create or exacerbate hazards.</p><p><strong>Step 2: Connect \"improper handling\" to the provided options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Improper handling would hinder, not enhance, experimental precision.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Improper handling can lead to damage, thus increasing, not reducing, equipment wear and tear.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>\"Causes of hazard\"</span> directly relates to actions or conditions that lead to dangerous situations. Improper handling is a prime example of such a cause.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> Improper handling generally decreases efficiency due to accidents or rework.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Any action that deviates from safe operational procedures and increases the risk of an accident or exposure directly contributes to the causes of hazards. Therefore, improper handling is a cause of hazards.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Improper handling of substances is a direct contributor to the causes of hazard.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Causes of hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "What is the immediate and crucial first aid step for acid burns on the skin?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Applying a neutralizing agent like baking soda" },
+        { "type": "string", "content": "Covering the burn with a sterile bandage" },
+        { "type": "string", "content": "Inducing vomiting to remove swallowed acid" },
+        { "type": "string", "content": "Flushing the affected area with copious amounts of water" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Acid Burns", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Aid for Acid Burns</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document includes \"Treatment of acid burns\" as a topic, implying knowledge of immediate response. For chemical burns, especially acid, the primary first aid response is typically dilution and removal of the chemical from the skin.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the immediate and crucial first aid step for acid burns on the skin.</div><p><strong>Step 1: Recall general principles of chemical burn first aid.</strong><br>The most important initial action for chemical contact on skin is to remove the chemical by flushing with large amounts of water to dilute and wash it away. This minimizes the contact time and reduces the severity of the burn.</p><p><strong>Step 2: Evaluate the provided options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Applying a neutralizing agent is generally not the first step, as it can generate heat and worsen the burn. Copious flushing is paramount.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Covering the burn is done after initial treatment and cleaning, not as the immediate first step.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> Inducing vomiting is for swallowed substances, and specifically contraindicated for corrosive acids due to the risk of further damage to the esophagus. This is irrelevant for skin burns.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> <span style='color:var(--orange);font-weight:bold;'>Flushing the affected area with copious amounts of water</span> is the universally recognized immediate and critical first aid for acid (and other chemical) burns to dilute the chemical and wash it off the skin.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For acid burns, the primary goal is to stop the corrosive action by removing the acid. Water is the safest and most effective immediate agent for dilution and washing off chemicals from the skin.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The immediate and crucial first aid step for acid burns on the skin is flushing the affected area with copious amounts of water.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Flushing the affected area with copious amounts of water" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "In the event of accidental swallowing of toxic acids, what is a critical first aid directive?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Administering a strong alkaline solution to neutralize the acid" },
+        { "type": "string", "content": "Inducing vomiting immediately to expel the acid" },
+        { "type": "string", "content": "Seeking immediate medical attention without inducing vomiting" },
+        { "type": "string", "content": "Giving large quantities of milk or dairy products to soothe the throat" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Swallowing Toxic Acids", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Aid for Swallowing Toxic Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document highlights \"Treatment of Inhalation and swallowing of toxic acids.\" A critical point for ingested corrosives is that inducing vomiting can cause further damage. Professional medical help is always necessary.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a critical first aid directive for accidentally swallowing toxic acids.</div><p><strong>Step 1: Understand the dangers of ingesting toxic acids.</strong><br>Toxic acids are corrosive, meaning they burn tissue upon contact. If swallowed, they cause damage to the esophagus, stomach, and other internal organs. Inducing vomiting would cause the acid to pass through the esophagus a second time, exacerbating the damage.</p><p><strong>Step 2: Evaluate the first aid options in this context.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Administering strong alkaline solutions is dangerous due to potential exothermic reactions and further chemical burns. Neutralization attempts should only be done by medical professionals under controlled conditions, if at all.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>Inducing vomiting immediately to expel the acid</span> is explicitly contraindicated for corrosive substances because it causes the corrosive substance to re-expose and damage the esophagus and mouth during its return, leading to more severe injury.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Seeking immediate medical attention without inducing vomiting</span> is the correct and safest course of action. Medical professionals are best equipped to handle such internal injuries.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> While milk can sometimes soothe, it's not a primary treatment and can interfere with subsequent medical examination or treatment. The immediate critical step is professional help, not home remedies.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For any ingested corrosive, the overarching principle is to avoid causing further damage. Inducing vomiting with acids is harmful. Therefore, the priority is to get professional medical help immediately.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the event of accidental swallowing of toxic acids, a critical first aid directive is seeking immediate medical attention without inducing vomiting.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Seeking immediate medical attention without inducing vomiting" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "What is a primary concern associated with microbial contamination of lab water?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Reduction in water hardness" },
+        { "type": "string", "content": "Increased water pH levels" },
+        { "type": "string", "content": "Potential for infection or illness" },
+        { "type": "string", "content": "Enhanced water conductivity" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbial Contamination", "Biological Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Impact of Microbial Contamination in Lab Water</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Microbial contamination of lab water, first aid.\" The primary risk associated with microbial contamination is the presence of harmful microorganisms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a primary concern related to microbial contamination of lab water.</div><p><strong>Step 1: Understand what \"microbial contamination\" implies.</strong><br>Microbial contamination means the presence of microorganisms (bacteria, viruses, fungi, protozoa) in the water. Many microorganisms are pathogenic, meaning they can cause disease.</p><p><strong>Step 2: Evaluate the potential effects listed in the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Microbial contamination does not primarily reduce water hardness; it introduces biological agents.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> While microbial growth can sometimes alter pH slightly, it's not the primary or most significant concern.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Potential for infection or illness</span> is the most direct and serious health risk posed by the presence of harmful microorganisms in water that could be ingested, come into contact with skin/mucous membranes, or aerosolized.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> Microbial growth generally does not enhance water conductivity in a significant or primary way; conductivity is more related to dissolved ions.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Microbes are living organisms, and when present in water, especially laboratory water used for various purposes, they pose a significant health risk if they are pathogenic. The most critical concern is the potential for causing diseases or infections.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A primary concern associated with microbial contamination of lab water is the potential for infection or illness.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Potential for infection or illness" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Which of the following is a crucial precaution against electric shocks in a laboratory?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Using ungrounded equipment to prevent circuit overload" },
+        { "type": "string", "content": "Touching electrical equipment with wet hands" },
+        { "type": "string", "content": "Ensuring electrical equipment is properly grounded" },
+        { "type": "string", "content": "Bypassing safety interlocks on high-voltage devices" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shocks", "Electrical Safety", "Precautions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Precautions Against Electric Shocks</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Electric shocks: Precautions and treatment.\" Precautions are actions taken to prevent an electric shock from occurring. Proper grounding is a fundamental safety measure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a crucial precaution against electric shocks.</div><p><strong>Step 1: Understand the principles of electrical safety and shock prevention.</strong><br>Electric shock occurs when current passes through the body. Precautions aim to prevent this by isolating conductive parts, interrupting fault currents, or providing a safe path for current in case of a fault.</p><p><strong>Step 2: Evaluate each option as a precaution.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Using ungrounded equipment is extremely dangerous as it removes a critical safety path for fault currents, increasing shock risk.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Touching electrical equipment with wet hands significantly increases the risk of shock because water is a conductor. This is an unsafe act, not a precaution.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Ensuring electrical equipment is properly grounded</span> provides a low-resistance path for fault currents to flow directly to the earth, preventing dangerous voltage buildup on equipment casings and thus reducing the risk of shock. This is a crucial safety precaution.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> Bypassing safety interlocks disables critical safety features designed to prevent exposure to high voltage, making equipment extremely hazardous. This is a highly unsafe act.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Proper grounding is a cornerstone of electrical safety, designed to protect users from electric shock in case of an internal fault within an appliance. The other options describe actions that actively increase the risk of shock.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ensuring electrical equipment is properly grounded is a crucial precaution against electric shocks in a laboratory.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Ensuring electrical equipment is properly grounded" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "The disposal methods for radioactive water differ based on whether the radioactive sources are:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Liquid or solid" },
+        { "type": "string", "content": "Natural or artificial" },
+        { "type": "string", "content": "High-energy or low-energy" },
+        { "type": "string", "content": "Sealed or unsealed" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Disposal of Radioactive Water", "Radioactive Sources", "Waste Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Disposal of Radioactive Water and Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Disposal of radioactive water; sealed and unsealed, radio-active sources.\" This indicates that the physical form of the radioactive source influences disposal protocols.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the primary distinction that affects disposal methods for radioactive water based on its sources.</div><p><strong>Step 1: Refer to the document's explicit mention regarding radioactive sources.</strong><br>Point 8 in the document states: \"Disposal of radioactive water; sealed and unsealed, radio-active sources.\" This directly links the disposal methods to the classification of sources as 'sealed' or 'unsealed'.</p><p><strong>Step 2: Evaluate the options based on the document's information.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> While the physical state (liquid or solid) is relevant, the document specifically categorizes sources as sealed or unsealed, implying a fundamental difference in containment and subsequent handling.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Natural or artificial origin, while a characteristic of isotopes, is not the primary factor the document uses to differentiate disposal protocols for water.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> High-energy or low-energy refers to the radiation emitted, which affects shielding, but the document emphasizes the 'sealed/unsealed' aspect for disposal methods.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> <span style='color:var(--orange);font-weight:bold;'>Sealed or unsealed</span> is the direct distinction made in the document concerning radioactive sources, indicating that their containment (or lack thereof) is a key factor in disposal strategies for radioactive water associated with them.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The distinction between sealed and unsealed sources is crucial in radiation safety and waste management because unsealed sources present a much higher risk of contamination and ingestion, requiring more stringent containment and disposal measures, especially for liquids like radioactive water. The document explicitly points this out.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The disposal methods for radioactive water differ based on whether the radioactive sources are sealed or unsealed.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sealed or unsealed" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Which of the following is NOT typically considered a cause of laboratory hazards?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Lack of proper training" },
+        { "type": "string", "content": "Faulty or unmaintained equipment" },
+        { "type": "string", "content": "Strict adherence to safety protocols" },
+        { "type": "string", "content": "Improper storage of chemicals" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Causes of Hazard", "Laboratory Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Contributing to Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Topic 3 of the document covers \"Causes of hazard.\" These are conditions or actions that lead to dangerous situations.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify what is NOT typically a cause of laboratory hazards.</div><p><strong>Step 1: Identify common causes of hazards.</strong><br>Causes of hazards often involve human error (lack of training, negligence), equipment failure (faulty equipment), or environmental issues (improper storage, poor ventilation).</p><p><strong>Step 2: Evaluate each option in relation to being a cause of hazard.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Lack of proper training leads to mistakes and unsafe practices, which are causes of hazards. (Cause)</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Faulty or unmaintained equipment can malfunction dangerously, directly causing hazards like leaks, fires, or electrical shocks. (Cause)</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Strict adherence to safety protocols</span> is a measure taken to PREVENT hazards, not a cause of them. It is a best practice for safety.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> Improper storage of chemicals can lead to spills, incompatible reactions, or degradation, all of which are causes of chemical hazards. (Cause)</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A cause of hazard is something that creates risk. Strict adherence to safety protocols actively mitigates risk, making it a preventative measure rather than a cause of hazard.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Strict adherence to safety protocols is NOT typically considered a cause of laboratory hazards.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Strict adherence to safety protocols" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which type of hazard specifically involves substances that can ignite easily or cause corrosive damage?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Biological hazards" },
+        { "type": "string", "content": "Mechanical hazards" },
+        { "type": "string", "content": "Chemical hazards" },
+        { "type": "string", "content": "Radiation hazards" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "Chemical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Characterizing Chemical Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document mentions \"Types of laboratory hazard (Chemical, Electrical etc.)\". Flammability and corrosivity are characteristic properties of certain substances handled in laboratories.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the type of hazard associated with ignitable or corrosive substances.</div><p><strong>Step 1: Understand the properties described: ignition and corrosive damage.</strong><br>\"Ignite easily\" refers to flammability or explosiveness. \"Corrosive damage\" refers to the ability of a substance to destroy living tissue or other materials upon contact.</p><p><strong>Step 2: Match these properties to the listed hazard types.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Biological hazards involve living organisms (e.g., bacteria, viruses) and the risk of infection, not flammability or corrosivity.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Mechanical hazards involve machinery, moving parts, or physical forces that can cause injury (e.g., cuts, crushing), not chemical properties.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Chemical hazards</span> specifically relate to the harmful properties of chemicals, including flammability, corrosivity, toxicity, reactivity, etc.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Radiation hazards involve exposure to ionizing or non-ionizing radiation, not chemical reactivity.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Both ignitable and corrosive properties are inherent characteristics of certain chemicals, making them fall under the umbrella of chemical hazards. The other types of hazards do not encompass these specific properties.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Chemical hazards specifically involve substances that can ignite easily or cause corrosive damage.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Chemical hazards" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "A laboratory activity that increases the likelihood of an accidental chemical spill would fall under which hazard category?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Poor ventilation practices" },
+        { "type": "string", "content": "Inadequate waste disposal procedures" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Insufficient emergency response planning" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Causes of Hazard", "Chemical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Causes of Hazards from Actions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Causes of hazard.\" Any action or condition that directly leads to the manifestation of a hazard (like a spill) is a cause.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question describes a laboratory activity that increases the likelihood of a chemical spill and asks which hazard category it belongs to.</div><p><strong>Step 1: Analyze the nature of the described activity.</strong><br>An activity that *increases the likelihood* of a spill is an action or practice that creates a risk. Spills themselves are a form of chemical hazard (or lead to chemical exposure hazards).</p><p><strong>Step 2: Match this to the provided options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Poor ventilation is a cause of inhalation hazards, not directly the cause of a spill itself.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Inadequate waste disposal procedures are causes of hazards related to waste management, not directly the cause of an initial spill of an active chemical.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>\"Causes of hazard\"</span> is the overarching category for any factor or action that leads to a hazardous event, such as a chemical spill. The described activity directly contributes to creating such a hazardous event.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Insufficient emergency response planning is a deficiency in handling *after* a hazard has occurred, not a cause of the hazard itself.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> An activity that increases the probability of a harmful event (like a spill) is a causal factor. Therefore, it falls under the general category of "Causes of hazard."</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A laboratory activity that increases the likelihood of an accidental chemical spill would fall under 'Causes of hazard'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Causes of hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "After initial flushing of an acid burn, what is the next general step in managing the injury?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Allowing the burn to air dry completely" },
+        { "type": "string", "content": "Applying ice directly to the affected area" },
+        { "type": "string", "content": "Wrapping the burn tightly to prevent infection" },
+        { "type": "string", "content": "Seeking medical evaluation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Acid Burns", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Post-Flushing Care for Acid Burns</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document mentions \"Treatment of acid burns.\" While initial flushing is critical, acid burns, especially from strong acids, often cause significant tissue damage that requires professional medical assessment and treatment beyond immediate first aid.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the next general step after initial flushing for an acid burn.</div><p><strong>Step 1: Consider the severity and nature of acid burns.</strong><br>Acid burns are chemical burns that can penetrate deep into tissues and continue to cause damage even after surface acid is removed. They are typically more severe than thermal burns of similar appearance and often warrant professional medical attention.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Allowing the burn to air dry isn't a treatment step and could leave the wound exposed to contamination.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Applying ice directly can cause frostbite and further tissue damage, especially on already compromised skin. Cooling should be gentle and indirect.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> While covering a burn with a loose, sterile dressing might be done, wrapping it *tightly* is incorrect and could impede circulation or worsen swelling. This is also secondary to medical evaluation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> <span style='color:var(--orange);font-weight:bold;'>Seeking medical evaluation</span> is crucial. Even if a burn initially seems minor after flushing, chemical burns can have delayed or deeper effects requiring professional assessment and ongoing care to prevent complications like infection, scarring, or functional impairment.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Given the destructive nature of acids, any significant exposure, even after immediate first aid, should be reviewed by a medical professional to determine the extent of injury and guide further treatment.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ After initial flushing of an acid burn, the next general step in managing the injury is seeking medical evaluation.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Seeking medical evaluation" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "For a person who has inhaled toxic acid fumes, what is the immediate priority after ensuring their safety from further exposure?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Administering a cough suppressant" },
+        { "type": "string", "content": "Inducing vomiting to clear respiratory passages" },
+        { "type": "string", "content": "Moving them to fresh air" },
+        { "type": "string", "content": "Providing a strong pain reliever" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Inhalation of Toxic Acids", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Aid for Inhaled Toxic Acid Fumes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document covers \"Treatment of Inhalation and swallowing of toxic acids.\" For inhalation, removing the source of exposure and ensuring fresh air is paramount.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the immediate priority after securing the safety of a person who has inhaled toxic acid fumes.</div><p><strong>Step 1: Understand the immediate threat of inhaled fumes.</strong><br>Toxic acid fumes irritate and damage the respiratory tract. The immediate goal is to stop further exposure and provide an environment where the lungs can recover and oxygen intake is maximized.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Administering a cough suppressant is symptomatic treatment and not an immediate life-saving measure. It should only be done under medical advice.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Inducing vomiting is for swallowed substances and is irrelevant and potentially dangerous (e.g., aspiration) for inhaled fumes.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Moving them to fresh air</span> immediately removes the victim from the toxic environment and allows them to breathe unpolluted air, which is critical for their respiratory system. This is a primary first aid step.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Providing a strong pain reliever might alleviate discomfort but does not address the underlying respiratory damage or improve oxygenation. This is secondary to ensuring a safe breathing environment.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For any inhaled toxic substance, the first step after ensuring the safety of the rescuer and victim from continued exposure is to get the victim into an area with clean, fresh air to prevent further respiratory damage and aid recovery.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ For a person who has inhaled toxic acid fumes, the immediate priority after ensuring their safety from further exposure is moving them to fresh air.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Moving them to fresh air" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which laboratory practice is most likely to lead to microbial contamination of lab water?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Storing purified water in sealed, sterile containers" },
+        { "type": "string", "content": "Regularly sterilizing water purification systems" },
+        { "type": "string", "content": "Using non-sterile containers for water collection and storage" },
+        { "type": "string", "content": "Filtering tap water before use in experiments" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbial Contamination", "Lab Water Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sources of Microbial Contamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document addresses \"Microbial contamination of lab water.\" Contamination occurs when microorganisms are introduced into a sterile or clean environment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a practice most likely to lead to microbial contamination of lab water.</div><p><strong>Step 1: Understand how microbial contamination happens.</strong><br>Microbes are ubiquitous. Contamination typically occurs through exposure to environmental microbes (e.g., from air, unsterilized surfaces, or unclean hands) or by using contaminated vessels.</p><p><strong>Step 2: Evaluate the options to find the contamination risk.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Storing purified water in sealed, sterile containers is a method to prevent contamination.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Regularly sterilizing water purification systems is a measure to prevent contamination.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Using non-sterile containers for water collection and storage</span> directly introduces microorganisms into the purified water, making it a primary cause of microbial contamination.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Filtering tap water before use is a step to remove impurities, including some microbes, thus reducing contamination, not causing it.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> To maintain the purity of laboratory water, especially microbial purity, all contact surfaces and storage vessels must be sterile. Using non-sterile containers breaches this fundamental principle, leading to contamination.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Using non-sterile containers for water collection and storage is most likely to lead to microbial contamination of lab water.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Using non-sterile containers for water collection and storage" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "In the context of electric shocks, what is the purpose of \"artificial examination\"?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To diagnose the cause of the electrical fault" },
+        { "type": "string", "content": "To assess the victim's electrical conductivity" },
+        { "type": "string", "content": "To restart breathing or circulation if they have stopped" },
+        { "type": "string", "content": "To test the functionality of a first aid box" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shocks", "Artificial Examination", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Artificial Examination (Resuscitation)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document mentions \"Electric shocks: Precautions and treatment, First aid box and artificial examination.\" \"Artificial examination\" in a first aid context, especially after an electric shock, refers to resuscitation techniques like CPR.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the purpose of \"artificial examination\" in the context of electric shocks.</div><p><strong>Step 1: Interpret \"artificial examination\" in the first aid context.</strong><br>Following a severe electric shock, a victim may stop breathing or their heart may stop. \"Artificial examination\" or \"artificial respiration/circulation\" typically refers to interventions like mouth-to-mouth resuscitation or chest compressions, commonly known as Cardiopulmonary Resuscitation (CPR).</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Diagnosing the electrical fault is the job of an electrician or engineer, not first aid.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Assessing electrical conductivity of the victim is not a first aid procedure.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>To restart breathing or circulation if they have stopped</span> is precisely the goal of artificial respiration and cardiac compressions (CPR), which are the core components of \"artificial examination\" in a life-support context.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Testing a first aid box's functionality is irrelevant to treating an injured person.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Electric shocks can cause cardiac arrest or respiratory failure. Artificial examination (resuscitation) is the emergency procedure used to support or restore breathing and heart function until medical help arrives.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the context of electric shocks, the purpose of \"artificial examination\" is to restart breathing or circulation if they have stopped.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To restart breathing or circulation if they have stopped" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Why is the distinction between 'sealed' and 'unsealed' radioactive sources crucial for disposal?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Sealed sources emit more gamma radiation." },
+        { "type": "string", "content": "Unsealed sources pose a higher risk of dispersal and internal contamination." },
+        { "type": "string", "content": "Sealed sources decay faster than unsealed sources." },
+        { "type": "string", "content": "Unsealed sources are generally less radioactive." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Disposal of Radioactive Water", "Sealed vs Unsealed Sources", "Radiation Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of Sealed vs. Unsealed Radioactive Sources for Disposal</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifically highlights \"sealed and unsealed, radio-active sources\" in the context of disposal. This distinction implies different risks and handling requirements.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks why the distinction between sealed and unsealed radioactive sources is crucial for disposal.</div><p><strong>Step 1: Define sealed and unsealed sources in terms of containment.</strong><br>A <span style='color:var(--orange);font-weight:bold;'>sealed source</span> has radioactive material permanently contained in a capsule, preventing release. An <span style='color:var(--orange);font-weight:bold;'>unsealed source</span> is not encapsulated, meaning the radioactive material can be dispersed (e.g., as a liquid, gas, or powder).</p><p><strong>Step 2: Relate this containment difference to disposal risks.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Radiation type (gamma, alpha, beta) is independent of whether a source is sealed or unsealed.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>Unsealed sources pose a higher risk of dispersal and internal contamination</span> (e.g., through ingestion, inhalation, absorption) because the radioactive material is not contained. This makes their handling and disposal significantly more complex and critical for preventing environmental spread and biological uptake.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> Decay rate (half-life) is a property of the radioisotope itself, not whether it is sealed or unsealed.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> Unsealed sources can be highly radioactive, depending on the isotope and activity. The distinction is about containment, not inherent radioactivity level.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The primary concern with unsealed sources is the potential for radioactive material to spread and enter the body, which necessitates very careful procedures for their disposal. Sealed sources, while still radioactive, are generally easier to handle in terms of preventing spread.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The distinction between 'sealed' and 'unsealed' radioactive sources is crucial for disposal because unsealed sources pose a higher risk of dispersal and internal contamination.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Unsealed sources pose a higher risk of dispersal and internal contamination." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Which scenario primarily represents a biological hazard in the laboratory?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "An open electrical circuit sparking" },
+        { "type": "string", "content": "A spill of corrosive acid on the floor" },
+        { "type": "string", "content": "Contaminated laboratory water used for rinsing equipment" },
+        { "type": "string", "content": "Exposure to X-ray radiation during sample analysis" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "Biological Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius=10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Biological Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Types of laboratory hazard (Chemical, Electrical etc.)\" and also specifically addresses \"Microbial contamination of lab water.\" Biological hazards relate to living organisms that can cause harm.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a scenario that primarily represents a biological hazard.</div><p><strong>Step 1: Define biological hazards.</strong><br>Biological hazards involve exposure to infectious agents (bacteria, viruses, fungi, toxins) or other biological materials that can cause disease or adverse health effects.</p><p><strong>Step 2: Evaluate the provided scenarios.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> An open electrical circuit sparking is an electrical hazard.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> A spill of corrosive acid is a chemical hazard.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Contaminated laboratory water used for rinsing equipment</span> indicates the presence of microorganisms in the water, posing a risk of infection or cross-contamination. This is a direct example of a microbial/biological hazard, as outlined in the document's point 6.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Exposure to X-ray radiation is a radiation hazard.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The presence of microbes in lab water, which can cause illness or interfere with experiments, is a clear example of a biological hazard, as directly mentioned in the document.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Contaminated laboratory water used for rinsing equipment primarily represents a biological hazard.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Contaminated laboratory water used for rinsing equipment" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of these contributes to the overall presence of 'laboratory hazards'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Well-organized chemical storage" },
+        { "type": "string", "content": "Regular safety drills" },
+        { "type": "string", "content": "Untidy workspaces and cluttered pathways" },
+        { "type": "string", "content": "Properly calibrated instrumentation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Laboratory Hazards", "Causes of Hazard", "General Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Contributing to Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document outlines \"Laboratory hazards\" generally and \"Causes of hazard\" specifically. Factors that increase risk or create unsafe conditions contribute to the presence of hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a factor that contributes to the overall presence of laboratory hazards.</div><p><strong>Step 1: Understand what constitutes a contribution to hazards.</strong><br>A contribution to hazards means something that either creates a new hazard or exacerbates an existing one, making the laboratory environment less safe.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Well-organized chemical storage is a safety measure that prevents chemical hazards, not contributes to them.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Regular safety drills enhance preparedness for hazards, they do not cause hazards.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Untidy workspaces and cluttered pathways</span> create trip hazards, fire hazards (if combustible materials are present), and can impede emergency egress, thus directly contributing to the presence of various laboratory hazards. This falls under poor housekeeping, a known cause of hazards.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Properly calibrated instrumentation reduces experimental errors and equipment hazards, thus preventing hazards, not contributing to them.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Poor housekeeping, including untidy and cluttered areas, is a direct cause of physical hazards (e.g., slips, trips, falls) and can worsen other types of hazards by obstructing access or increasing flammability. This clearly contributes to the overall presence of laboratory hazards.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Untidy workspaces and cluttered pathways contribute to the overall presence of 'laboratory hazards'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Untidy workspaces and cluttered pathways" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Which of the following is a primary type of laboratory hazard mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Financial hazards" },
+        { "type": "string", "content": "Reputational hazards" },
+        { "type": "string", "content": "Environmental hazards" },
+        { "type": "string", "content": "Chemical hazards" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "General Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Primary Laboratory Hazard Types</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document explicitly lists \"Types of laboratory hazard (Chemical, Electrical etc.)\" as its second major topic.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a primary type of laboratory hazard mentioned in the document.</div><p><strong>Step 1: Consult the document's list of hazard types.</strong><br>Point 2 clearly states \"(Chemical, Electrical etc.)\" as examples of laboratory hazards.</p><p><strong>Step 2: Compare the options with the document's explicit examples.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Financial hazards are not directly related to laboratory safety classifications.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Reputational hazards are not safety classifications.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> While laboratory activities can have environmental impacts, \"Environmental hazards\" is not listed as a *type of laboratory hazard* in the same vein as chemical or electrical.</li><li><span style='color:var(--orange);font-weight:bold;'>Option D:</span> <span style='color:var(--orange);font-weight:bold;'>Chemical hazards</span> are explicitly named as a type of laboratory hazard in the document.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly provides \"Chemical\" as an example of a laboratory hazard type.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Chemical hazards is a primary type of laboratory hazard mentioned in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Chemical hazards" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Which factor is most likely to cause a hazard in a laboratory setting?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Regular equipment maintenance" },
+        { "type": "string", "content": "Clear safety signage" },
+        { "type": "string", "content": "Lack of proper training for personnel" },
+        { "type": "string", "content": "Adequate emergency exits" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Causes of Hazard", "Laboratory Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Key Causes of Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Topic 3 in the document is \"Causes of hazard.\" Human factors, such as inadequate knowledge or skill, are common causes of incidents.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify the factor most likely to cause a hazard in a laboratory.</div><p><strong>Step 1: Consider what directly leads to unsafe conditions or actions.</strong><br>Hazards often arise from a failure in safety systems, procedures, or human behavior.</p><p><strong>Step 2: Evaluate each option.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Regular equipment maintenance prevents hazards by ensuring equipment operates safely.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Clear safety signage helps prevent hazards by communicating risks and procedures.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Lack of proper training for personnel</span> is a significant cause of hazards. Untrained individuals are more prone to making mistakes, mishandling materials, or misusing equipment, leading directly to hazardous situations.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Adequate emergency exits are for safe evacuation *after* a hazard has occurred, not a cause of the hazard itself.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Human error, often stemming from a lack of knowledge or training, is a root cause in many laboratory accidents. Without proper training, personnel are ill-equipped to safely handle the complexities of a lab environment.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lack of proper training for personnel is most likely to cause a hazard in a laboratory setting.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Lack of proper training for personnel" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Why is it generally advised NOT to induce vomiting if someone has swallowed a toxic acid?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It can dilute the acid, making it less effective to treat." },
+        { "type": "string", "content": "It risks causing further damage to the esophagus and mouth." },
+        { "type": "string", "content": "It will prevent medical professionals from identifying the acid." },
+        { "type": "string", "content": "It causes the acid to be absorbed more quickly into the bloodstream." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Swallowing Toxic Acids", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dangers of Inducing Vomiting for Ingested Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Treatment of Inhalation and swallowing of toxic acids.\" A critical rule for ingested corrosives (like acids) is usually to avoid inducing vomiting.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the reason why inducing vomiting is generally not advised for swallowed toxic acids.</div><p><strong>Step 1: Recall the corrosive nature of toxic acids.</strong><br>Acids cause chemical burns. When swallowed, they burn the tissues of the mouth, throat, and esophagus. Vomiting forces the acid back up, re-exposing these already damaged tissues to the corrosive substance.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Inducing vomiting does not dilute the acid; it just brings it back up. Dilution is done by drinking water (carefully and if advised).</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>It risks causing further damage to the esophagus and mouth.</span> This is the primary reason. The corrosive acid burns the lining of the throat and esophagus a second time during vomiting, potentially worsening injuries. There is also a risk of aspirating the acid into the lungs.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> While vomiting might complicate identification of the specific acid (by diluting or mixing), the primary concern is the direct physical harm to the patient.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Vomiting typically does not cause faster absorption; rather, it's about physical damage from re-exposure.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The major danger of vomiting corrosive substances is the repeated exposure of the upper digestive tract to the harmful chemical, leading to more severe burns and potential complications.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ It is generally advised NOT to induce vomiting if someone has swallowed a toxic acid because it risks causing further damage to the esophagus and mouth.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It risks causing further damage to the esophagus and mouth." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "A laboratory accident involving uncontrolled exothermic reaction with flammable chemicals primarily represents which two types of hazards?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Biological and mechanical" },
+        { "type": "string", "content": "Electrical and radiation" },
+        { "type": "string", "content": "Chemical and fire/thermal" },
+        { "type": "string", "content": "Ergonomic and psychological" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "Chemical Safety", "Fire Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Combined Chemical and Fire Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document covers \"Types of laboratory hazard (Chemical, Electrical etc.)\" and implicitly addresses reactive chemicals. An exothermic reaction with flammable chemicals combines the inherent properties of the chemicals with a heat/fire risk.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question describes an uncontrolled exothermic reaction with flammable chemicals and asks for the primary types of hazards involved.</div><p><strong>Step 1: Break down the scenario's components.</strong><br>\"Exothermic reaction\" implies heat generation. \"Flammable chemicals\" indicates substances that can easily catch fire. \"Uncontrolled\" means the reaction is not contained or managed safely.</p><p><strong>Step 2: Match these components to hazard types.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Biological hazards (microbes) and mechanical hazards (moving parts) are unrelated to this scenario.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Electrical hazards (shock) and radiation hazards (ionizing radiation) are unrelated to this scenario.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Chemical hazards</span> relate to the properties of the substances themselves (flammability, reactivity). An uncontrolled exothermic reaction *with* <span style='color:var(--orange);font-weight:bold;'>flammable chemicals</span> directly creates a <span style='color:var(--orange);font-weight:bold;'>fire/thermal hazard</span> (due to heat and potential ignition).</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Ergonomic (posture) and psychological (stress) hazards are unrelated.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Flammable chemicals themselves are a chemical hazard. When they undergo an uncontrolled exothermic reaction, the heat generated creates a direct risk of fire, which is a thermal hazard. These two types are intrinsically linked in this scenario.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A laboratory accident involving uncontrolled exothermic reaction with flammable chemicals primarily represents chemical and fire/thermal hazards.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Chemical and fire/thermal" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Which factor is a common contributor to laboratory hazards according to general safety principles?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Well-established emergency procedures" },
+        { "type": "string", "content": "Properly labeled reagents" },
+        { "type": "string", "content": "Insufficient supervision of trainees" },
+        { "type": "string", "content": "Regular inspections of safety equipment" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Causes of Hazard", "Laboratory Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Contributing to Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document includes \"Causes of hazard.\" Human factors, including supervision, play a significant role in preventing or causing hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a common contributor to laboratory hazards.</div><p><strong>Step 1: Consider what leads to unsafe conditions or practices.</strong><br>Hazards often stem from inadequate control, lack of knowledge, or operational failures.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Well-established emergency procedures help manage hazards after they occur, not cause them.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Properly labeled reagents prevent misidentification and misuse, thereby preventing hazards.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Insufficient supervision of trainees</span> is a significant cause of hazards. Trainees, lacking full experience, are more prone to errors if not adequately guided, leading to spills, improper reactions, or accidents. This is a human factor related to management of safety.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Regular inspections of safety equipment ensure it functions correctly, preventing hazards.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Untrained or inadequately supervised personnel are a common source of safety breaches and incidents in any laboratory. Lack of supervision for trainees particularly increases the risk of accidents due to inexperience.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Insufficient supervision of trainees is a common contributor to laboratory hazards according to general safety principles.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Insufficient supervision of trainees" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "What is the recommended duration for flushing an acid burn on the skin with water?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "1-2 minutes" },
+        { "type": "string", "content": "5-10 minutes" },
+        { "type": "string", "content": "At least 15-20 minutes or until medical help arrives" },
+        { "type": "string", "content": "30 seconds" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Acid Burns", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Duration of Flushing for Acid Burns</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Treatment of acid burns.\" Effective treatment for chemical burns involves thorough and prolonged flushing.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the recommended duration of flushing an acid burn with water.</div><p><strong>Step 1: Understand the goal of flushing.</strong><br>The purpose of flushing is to dilute and completely remove the corrosive chemical from the skin to stop its harmful action. This process takes time, especially for concentrated acids which can penetrate tissues.</p><p><strong>Step 2: Evaluate typical first aid guidelines for chemical burns.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A, B, D:</span> Shorter durations (30 seconds, 1-2 minutes, 5-10 minutes) are generally insufficient to thoroughly wash away all traces of corrosive chemicals and prevent ongoing tissue damage.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>At least 15-20 minutes or until medical help arrives</span> is the widely accepted minimum duration for flushing chemical burns, particularly acid burns, to ensure maximum dilution and removal of the chemical. The flushing should continue until emergency services take over or the pain subsides significantly and the area is clearly decontaminated.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Prolonged flushing is crucial for acid burns because acids continue to cause damage as long as they are in contact with tissue. A minimum of 15-20 minutes ensures adequate removal and dilution, reducing the severity of the burn.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The recommended duration for flushing an acid burn on the skin with water is at least 15-20 minutes or until medical help arrives.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "At least 15-20 minutes or until medical help arrives" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "What is an immediate concern for someone experiencing inhalation of toxic acid fumes?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Nausea and abdominal pain" },
+        { "type": "string", "content": "Skin irritation and rashes" },
+        { "type": "string", "content": "Respiratory distress and lung damage" },
+        { "type": "string", "content": "Temporary blurred vision" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Inhalation of Toxic Acids", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Immediate Concerns for Inhaled Toxic Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Treatment of Inhalation and swallowing of toxic acids.\" Inhalation directly affects the respiratory system.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an immediate concern for someone who has inhaled toxic acid fumes.</div><p><strong>Step 1: Understand how toxic acid fumes affect the body.</strong><br>When acid fumes are inhaled, they come into direct contact with the delicate tissues of the respiratory tract (nose, throat, lungs). Acids are corrosive and irritating, causing inflammation and damage to these tissues.</p><p><strong>Step 2: Evaluate the options based on inhalation exposure.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Nausea and abdominal pain are more typical of ingested toxins.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Skin irritation and rashes are associated with dermal contact, not primarily inhalation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Respiratory distress and lung damage</span> are the most immediate and critical concerns for inhalation exposure to corrosive or toxic fumes, as the fumes directly attack the airways and lung tissue, impairing breathing and oxygen exchange.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Blurred vision might occur if fumes irritate the eyes, but it's secondary to the severe and life-threatening respiratory effects.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Direct exposure of acid fumes to the respiratory system will cause immediate irritation and potentially severe damage to the airways and lungs, leading to breathing difficulties and potentially life-threatening respiratory failure.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Respiratory distress and lung damage is an immediate concern for someone experiencing inhalation of toxic acid fumes.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Respiratory distress and lung damage" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "To prevent microbial contamination of laboratory water, what type of containers should ideally be used for storage?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Open-top plastic buckets" },
+        { "type": "string", "content": "Sealed, sterile containers" },
+        { "type": "string", "content": "Any clean glass bottles" },
+        { "type": "string", "content": "Containers with loosely fitting lids" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbial Contamination", "Lab Water Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Preventing Microbial Contamination of Lab Water</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document covers \"Microbial contamination of lab water.\" Preventing such contamination requires measures to exclude microorganisms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the ideal type of containers for storing laboratory water to prevent microbial contamination.</div><p><strong>Step 1: Consider the requirements for preventing microbial growth and entry.</strong><br>Microorganisms are airborne or present on surfaces. To prevent their entry into water, containers must be sealed and free of microbes themselves (sterile).</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Open-top plastic buckets offer no protection against airborne microbes or dust.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>Sealed, sterile containers</span> are specifically designed to prevent the entry of microorganisms from the environment and ensure that the container itself does not introduce contaminants. This is the ideal method for maintaining water purity.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> \"Any clean glass bottles\" is insufficient. They must also be sterile and sealed. A 'clean' bottle isn't necessarily sterile.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Containers with loosely fitting lids do not provide an adequate barrier against microbial entry.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Maintaining microbial purity of laboratory water necessitates both sterility of the container and an effective seal to prevent subsequent contamination from the environment.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To prevent microbial contamination of laboratory water, sealed, sterile containers should ideally be used for storage.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sealed, sterile containers" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "If a person suffers an electric shock and collapses, what initial assessment should be performed immediately after ensuring the power source is cut off?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Check for chemical burns" },
+        { "type": "string", "content": "Determine if they are conscious and breathing" },
+        { "type": "string", "content": "Search for their personal identification" },
+        { "type": "string", "content": "Immediately administer pain medication" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shocks", "Treatment", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Initial Assessment After Electric Shock</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document covers \"Electric shocks: Precautions and treatment.\" After ensuring safety (cutting off power), immediate first aid focuses on vital signs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the initial assessment after an electric shock once the power source is cut off.</div><p><strong>Step 1: Prioritize life-saving actions in first aid.</strong><br>The primary concern for any unconscious or collapsed victim is their airway, breathing, and circulation (ABC). Electric shocks can stop the heart or breathing.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> While electric shocks can cause burns, checking for chemical burns is irrelevant here. Electrical burns are a concern, but assessing vital signs takes precedence.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>Determine if they are conscious and breathing</span> is the most immediate and critical assessment. If they are unconscious or not breathing, resuscitation (artificial examination) would be necessary, as suggested by the document. This is part of assessing their vital signs.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> Searching for identification is not an emergency first aid step.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Administering pain medication is not an initial assessment or immediate life-saving action, and should only be done by medical professionals.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The immediate post-safety action for an unresponsive person, regardless of cause, is to check for consciousness and breathing to determine if CPR or other immediate life support is needed. This is a foundational first aid principle.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If a person suffers an electric shock and collapses, the initial assessment to be performed immediately after ensuring the power source is cut off is to determine if they are conscious and breathing.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Determine if they are conscious and breathing" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Radioactive water that is associated with 'unsealed' radioactive sources presents a heightened risk primarily due to its potential for:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Increasing its half-life" },
+        { "type": "string", "content": "Accelerated nuclear decay" },
+        { "type": "string", "content": "Easy dispersion and absorption by living organisms" },
+        { "type": "string", "content": "Reduced radioactivity over time" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Disposal of Radioactive Water", "Unsealed Sources", "Radiation Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Risks of Unsealed Radioactive Water Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document distinguishes between \"sealed and unsealed, radio-active sources\" in the context of disposal of radioactive water. Unsealed sources, by definition, lack full containment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the heightened risk of radioactive water associated with unsealed sources.</div><p><strong>Step 1: Recall the definition of an unsealed source.</strong><br>An unsealed radioactive source means the radioactive material is not permanently contained, allowing for its physical dispersal. When this material is in water, it means the water itself is radioactive and the radioactive particles can move freely.</p><p><strong>Step 2: Evaluate the options in light of this characteristic.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A & B:</span> Half-life and decay rate are inherent properties of the radioisotope and are not changed by whether the source is sealed or unsealed.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Easy dispersion and absorption by living organisms</span> is the primary heightened risk. Unsealed radioactive water can easily spill, evaporate, contaminate surfaces, or be ingested/absorbed, leading to internal contamination of humans or environmental spread.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Reduced radioactivity over time is due to radioactive decay, not a heightened risk or specific characteristic of unsealed sources compared to sealed ones.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The lack of containment in unsealed sources means the radioactive material can spread more easily into the environment and be taken up by biological systems, leading to internal radiation exposure, which is a major concern in radiation protection.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Radioactive water that is associated with 'unsealed' radioactive sources presents a heightened risk primarily due to its potential for easy dispersion and absorption by living organisms.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Easy dispersion and absorption by living organisms" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "What distinguishes an 'active source' in the context of radioactive materials?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It is always in a liquid form." },
+        { "type": "string", "content": "It is currently emitting detectable radiation." },
+        { "type": "string", "content": "It has completed its radioactive decay process." },
+        { "type": "string", "content": "It is made of naturally occurring radioactive material." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Radioactive Sources", "Radiation Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of an Active Radioactive Source</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document mentions \"radio-active sources\" at the end of point 8. An 'active source' implies current radioactivity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the distinguishing feature of an 'active source' in radioactive materials.</div><p><strong>Step 1: Understand the term \"active\" in radioactivity.</strong><br>In the context of radioactive materials, \"active\" implies that the material is undergoing radioactive decay and thus emitting radiation. It is the opposite of being 'spent' or 'decayed to background levels'.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Active sources can be solid, liquid, or gas, not always liquid.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>It is currently emitting detectable radiation.</span> This is the fundamental characteristic of an active radioactive source. If it's active, it's undergoing decay and emitting radiation that can be detected.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> If it has completed its radioactive decay process, it is no longer an active source; it's a stable nuclide.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Active sources can be natural or artificially produced. The origin doesn't define its activity.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> An 'active' radioactive source, by definition, is one that is currently undergoing radioactive decay and releasing energy in the form of radiation. This is its defining characteristic for safety and handling.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ An 'active source' in the context of radioactive materials is distinguished by currently emitting detectable radiation.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It is currently emitting detectable radiation." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "What role does a First Aid Box play in responding to electric shocks?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It contains tools for electrical circuit repair." },
+        { "type": "string", "content": "It provides necessary materials for initial injury care and artificial examination." },
+        { "type": "string", "content": "It serves as a personal protective equipment storage unit." },
+        { "type": "string", "content": "It is used to disconnect the power supply to affected equipment." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shocks", "First Aid Box", "Treatment"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of First Aid Box in Electric Shock Response</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Electric shocks: Precautions and treatment, First aid box and artificial examination.\" A first aid box is fundamental for providing immediate care for various injuries, including those from electric shocks.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks about the role of a First Aid Box in responding to electric shocks.</div><p><strong>Step 1: Understand the general purpose of a First Aid Box.</strong><br>A First Aid Box contains supplies for immediate medical care of minor injuries or to stabilize a more serious condition until professional medical help arrives. For electric shocks, this includes treating burns, wounds, and assisting with resuscitation.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> A First Aid Box is for medical emergencies, not electrical repair tools.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>It provides necessary materials for initial injury care and artificial examination.</span> This is correct. It would contain dressings for burns, gloves, possibly a barrier device for CPR (part of artificial examination), and other items useful for immediate treatment of electric shock victims.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> While some PPE (like gloves) might be in a first aid box, its primary role is not general PPE storage.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Disconnecting power is a separate safety step, usually done at a circuit breaker or wall switch, not with items from a first aid box.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The first aid box is designed to hold supplies for emergency medical treatment. In the case of electric shock, this includes materials for treating burns, wounds, and supporting life through artificial examination until professional medical assistance is available.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A First Aid Box plays the role of providing necessary materials for initial injury care and artificial examination in responding to electric shocks.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It provides necessary materials for initial injury care and artificial examination." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "What primary hazard category do corrosive substances like strong acids fall under?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Electrical hazards" },
+        { "type": "string", "content": "Mechanical hazards" },
+        { "type": "string", "content": "Chemical hazards" },
+        { "type": "string", "content": "Thermal hazards" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "Chemical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classifying Corrosive Substances</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Types of laboratory hazard (Chemical, Electrical etc.)\" and explicitly discusses the \"Treatment of acid burns\" and \"Treatment of Inhalation and swallowing of toxic acids.\" Acids are chemical substances.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary hazard category of corrosive substances like strong acids.</div><p><strong>Step 1: Understand the nature of corrosive substances.</strong><br>Corrosive substances are chemicals that can cause severe damage to living tissue or equipment upon contact due to chemical reactions.</p><p><strong>Step 2: Match this characteristic to the given hazard types.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Electrical hazards involve electricity.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Mechanical hazards involve physical forces or moving parts.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Chemical hazards</span> encompass risks associated with chemical properties, including corrosivity, toxicity, flammability, and reactivity. Acids clearly fit into this category.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Thermal hazards involve extreme temperatures (hot or cold), while corrosive damage is a chemical effect.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Acids are chemicals whose primary danger, when corrosive, is their chemical reactivity with biological tissues or other materials. Thus, they are classified as chemical hazards.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Corrosive substances like strong acids primarily fall under chemical hazards.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Chemical hazards" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Which of the following contributes to increasing general laboratory hazards?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Implementing a comprehensive safety management system" },
+        { "type": "string", "content": "Lack of adequate personal protective equipment (PPE)" },
+        { "type": "string", "content": "Conducting regular risk assessments" },
+        { "type": "string", "content": "Maintaining clear and accessible emergency exits" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Laboratory Hazards", "Causes of Hazard"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Factors Increasing Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document's first point is \"Laboratory hazards,\" and point 3 is \"Causes of hazard.\" Anything that undermines safety measures or introduces unprotected risks will increase hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to identify a factor that contributes to increasing general laboratory hazards.</div><p><strong>Step 1: Identify what would make a laboratory less safe.</strong><br>Factors that increase hazards are generally deficiencies in safety protocols, equipment, or training, or unsafe practices.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> A safety management system is designed to reduce hazards.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>Lack of adequate personal protective equipment (PPE)</span> directly increases the risk of exposure and injury from various hazards (chemical splashes, biological agents, minor impacts, etc.), thereby contributing to general laboratory hazards.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> Regular risk assessments help identify and mitigate hazards, thus reducing them.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Maintaining emergency exits improves safety during an incident but does not cause or increase hazards.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> PPE acts as a barrier between the worker and the hazard. Without appropriate PPE, workers are directly exposed to potential harm, which inherently increases the hazard level in the workplace.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lack of adequate personal protective equipment (PPE) contributes to increasing general laboratory hazards.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Lack of adequate personal protective equipment (PPE)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "After an acid splash to the eye, what is the crucial first step in first aid?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Applying a sterile eye patch immediately" },
+        { "type": "string", "content": "Neutralizing the acid with a weak base" },
+        { "type": "string", "content": "Flushing the eye with copious amounts of lukewarm water" },
+        { "type": "string", "content": "Rubbing the eye gently to dislodge the acid" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Acid Burns", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Aid for Acid Splash to the Eye</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document covers \"Treatment of acid burns.\" The eye is extremely sensitive to corrosive substances and requires immediate and thorough flushing.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the crucial first aid step for an acid splash to the eye.</div><p><strong>Step 1: Recognize the urgency of eye exposure to corrosives.</strong><br>Acid in the eye can cause rapid and permanent damage, including blindness. Immediate action to remove and dilute the acid is paramount.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Applying an eye patch is a secondary step after initial treatment, not the immediate first step to remove the corrosive agent.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Neutralizing with a weak base is dangerous due to potential exothermic reactions and can exacerbate damage. Flushing with water is always preferred.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Flushing the eye with copious amounts of lukewarm water</span> (or an eyewash solution) for an extended period (typically 15-30 minutes) is the most critical and immediate first aid action. This dilutes the acid and washes it away.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Rubbing the eye can cause mechanical abrasion and spread the corrosive substance, worsening the injury.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> For chemical splashes to the eye, the priority is immediate and thorough flushing with water to dilute and remove the chemical, preventing further damage to the delicate eye tissues. This is a standard and critical first aid procedure.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ After an acid splash to the eye, the crucial first step in first aid is flushing the eye with copious amounts of lukewarm water.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Flushing the eye with copious amounts of lukewarm water" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "If someone accidentally swallows a toxic acid, what is NOT an appropriate immediate action?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Calling for emergency medical assistance" },
+        { "type": "string", "content": "Keeping the victim calm and comfortable" },
+        { "type": "string", "content": "Inducing vomiting to remove the acid" },
+        { "type": "string", "content": "Providing sips of water if conscious and able to swallow" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Swallowing Toxic Acids", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Inappropriate Action for Swallowed Toxic Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document covers \"Treatment of Inhalation and swallowing of toxic acids.\" A consistent warning for corrosive ingestion is against inducing vomiting.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an immediate action that is NOT appropriate if someone swallows a toxic acid.</div><p><strong>Step 1: Recall the dangers of inducing vomiting for ingested corrosives.</strong><br>Inducing vomiting forces corrosive substances back through the esophagus, causing additional damage. It also risks aspiration (inhaling the vomit) into the lungs.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Calling for emergency medical assistance is always appropriate and necessary for serious chemical ingestions.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Keeping the victim calm and comfortable helps manage shock and distress while awaiting professional help.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Inducing vomiting to remove the acid</span> is explicitly contraindicated for swallowed acids due to the risk of exacerbating injury to the esophagus and mouth during regurgitation, and the danger of aspiration.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Giving small sips of water (if conscious and able to swallow) can help to dilute the acid in the stomach and esophagus, which is often recommended, but large amounts are typically avoided. However, it is generally considered safer than inducing vomiting.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Inducing vomiting with corrosive substances is a well-established contraindication in first aid due to the severe risk of secondary damage to the upper gastrointestinal tract.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ If someone accidentally swallows a toxic acid, inducing vomiting to remove the acid is NOT an appropriate immediate action.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Inducing vomiting to remove the acid" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "What is the primary objective of first aid when dealing with microbial contamination of lab water (e.g., accidental ingestion)?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To sterilize the entire water supply immediately" },
+        { "type": "string", "content": "To prevent further exposure and seek medical advice for potential infection" },
+        { "type": "string", "content": "To analyze the specific microbial strain present" },
+        { "type": "string", "content": "To administer broad-spectrum antibiotics without consultation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Microbial Contamination", "First Aid", "Biological Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Aid for Microbial Contamination Exposure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document addresses \"Microbial contamination of lab water, first aid.\" First aid for biological exposure aims to limit harm and seek professional guidance.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the primary objective of first aid for accidental ingestion of microbially contaminated lab water.</div><p><strong>Step 1: Understand the principles of first aid for biological exposure.</strong><br>For potential exposure to pathogenic microorganisms, first aid focuses on preventing further exposure, assessing the risk, and seeking medical evaluation due to the potential for delayed onset of symptoms and the need for specific medical intervention.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Sterilizing the water supply is a corrective action for the source of contamination, not an immediate first aid step for an exposed individual.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>To prevent further exposure and seek medical advice for potential infection</span> is the primary objective. This involves moving away from the contaminated source, potentially rinsing exposed skin, and then contacting healthcare professionals who can assess the risk of infection and recommend appropriate prophylactic treatment or monitoring.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> Analyzing the microbial strain is a laboratory investigation step, not an immediate first aid measure for the exposed individual.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Administering broad-spectrum antibiotics without medical consultation is inappropriate and could lead to antibiotic resistance or adverse reactions.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> When exposed to potential pathogens, the immediate steps are to stop the exposure and then to consult medical experts, as infections can be serious and require professional diagnosis and treatment. Self-treatment or source treatment is not the first aid priority for the individual.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary objective of first aid when dealing with microbial contamination of lab water is to prevent further exposure and seek medical advice for potential infection.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To prevent further exposure and seek medical advice for potential infection" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Which precaution is essential when working with or near electrical equipment in a laboratory?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Operating equipment with damaged insulation" },
+        { "type": "string", "content": "Ensuring electrical cords are neatly taped to the floor" },
+        { "type": "string", "content": "Using properly insulated tools" },
+        { "type": "string", "content": "Ignoring 'Danger: High Voltage' signs if the equipment is off" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shocks", "Precautions", "Electrical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Essential Precautions for Electrical Safety</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Electric shocks: Precautions and treatment.\" Precautions are critical for preventing electrical hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an essential precaution when working with electrical equipment.</div><p><strong>Step 1: Understand the goal of electrical precautions.</strong><br>Electrical precautions aim to prevent contact with live electrical parts, prevent short circuits, and protect against fault currents, thereby minimizing the risk of electric shock and fire.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Operating equipment with damaged insulation creates a direct exposure path to live wires, increasing shock risk. This is an unsafe practice.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Taping cords to the floor might prevent trip hazards but does not directly address electrical shock prevention (unless it's to prevent damage to the cord itself which leads to exposure). However, if done poorly, it can create other issues. More importantly, it is not as direct a precaution against *shock* as insulation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Using properly insulated tools</span> provides a barrier between the user's hand and potentially live electrical components, significantly reducing the risk of electric shock when working on or near electrical systems. This is an essential safety precaution.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Ignoring safety signs, even if equipment is believed to be off, is extremely dangerous, as circuits can be mislabeled or unexpectedly re-energized.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> Insulation on tools creates a protective barrier, preventing the flow of electricity through the user's body in case of accidental contact with live parts. This is a fundamental safety practice for electrical work.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Using properly insulated tools is an essential precaution when working with or near electrical equipment in a laboratory.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Using properly insulated tools" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Why is it important for a laboratory to have a clear procedure for the disposal of radioactive water?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To reduce the water's chemical reactivity" },
+        { "type": "string", "content": "To prevent environmental contamination and health risks" },
+        { "type": "string", "content": "To accelerate the decay of radioactive isotopes" },
+        { "type": "string", "content": "To enable reuse of the radioactive water in other experiments" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Disposal of Radioactive Water", "Radiation Safety", "Waste Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Radioactive Water Disposal Procedures</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifically mentions \"Disposal of radioactive water.\" Radioactive materials pose significant risks if not managed properly.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks why a clear procedure for radioactive water disposal is important.</div><p><strong>Step 1: Understand the inherent dangers of radioactive materials.</strong><br>Radioactive materials emit ionizing radiation, which can cause cellular damage, genetic mutations, cancer, and other health issues. Improper disposal can lead to widespread contamination and long-term harm.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Disposal procedures do not reduce chemical reactivity; they manage the radioactive hazard.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>To prevent environmental contamination and health risks</span> is the paramount reason for strict radioactive waste disposal protocols. Uncontrolled release can contaminate water sources, soil, and air, exposing populations and ecosystems to radiation.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> Disposal procedures do not accelerate the natural decay rate of isotopes; that is determined by their half-life.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Radioactive water is typically waste; reuse for experiments would be highly regulated and rare, and not the primary driver for general disposal procedures.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core principle of radioactive waste management is to protect human health and the environment from radiation exposure. Clear disposal procedures ensure that radioactive materials are contained and managed safely.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ It is important for a laboratory to have a clear procedure for the disposal of radioactive water to prevent environmental contamination and health risks.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To prevent environmental contamination and health risks" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "What constitutes a 'laboratory hazard' as a general concept?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Only chemical spills and reactions" },
+        { "type": "string", "content": "Any potential source of damage, injury, or adverse health effects in a lab setting" },
+        { "type": "string", "content": "Exclusive to issues caused by human error" },
+        { "type": "string", "content": "Limited to physical dangers like tripping hazards" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Laboratory Hazards", "General Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>General Definition of Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document starts with \"Laboratory hazards\" (Point 1). This is a broad category encompassing various risks in a lab.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a general definition of what constitutes a 'laboratory hazard'.</div><p><strong>Step 1: Refer to the broad understanding of 'hazard' in a scientific environment.</strong><br>A hazard implies a potential for harm. In a laboratory, this harm can come from various sources (chemical, electrical, biological, radiation, physical, etc.).</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> \"Only chemical spills and reactions\" is too narrow; it excludes electrical, biological, and radiation hazards.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> <span style='color:var(--orange);font-weight:bold;'>\"Any potential source of damage, injury, or adverse health effects in a lab setting\"</span> accurately captures the comprehensive nature of laboratory hazards, as implied by the subsequent listing of diverse hazard types (chemical, electrical, etc.) and their associated risks.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> \"Exclusive to issues caused by human error\" is incorrect; hazards can also arise from equipment failure, natural disasters, or inherent properties of materials. Human error is a *cause* of hazards, not the definition of a hazard itself.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> \"Limited to physical dangers like tripping hazards\" is too restrictive, ignoring chemical, electrical, biological, and radiation hazards.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A hazard is a broad term for anything that can cause harm. The document's structure, listing various types and causes, supports a broad, inclusive definition of 'laboratory hazards' that is not limited to specific types or origins.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A 'laboratory hazard' as a general concept constitutes any potential source of damage, injury, or adverse health effects in a lab setting.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Any potential source of damage, injury, or adverse health effects in a lab setting" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "One key difference in the disposal of 'sealed' versus 'unsealed' radioactive sources is that unsealed sources:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Are exclusively high-level waste" },
+        { "type": "string", "content": "Require less shielding during handling" },
+        { "type": "string", "content": "Are more prone to contamination and intake pathways" },
+        { "type": "string", "content": "Have a shorter half-life on average" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Disposal of Radioactive Water", "Sealed vs Unsealed Sources", "Radiation Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Key Differences in Handling Sealed and Unsealed Radioactive Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document mentions \"Disposal of radioactive water; sealed and unsealed, radio-active sources.\" The distinction between these two forms of sources has direct implications for their safe handling and disposal.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a key difference in disposal, focusing on unsealed sources.</div><p><strong>Step 1: Understand the inherent nature of sealed vs. unsealed.</strong><br>A sealed source is designed to prevent radioactive material from being released, whereas an unsealed source can release radioactive material. This release is the core difference in risk.</p><p><strong>Step 2: Evaluate the options based on this core difference.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Waste classification (high-level, low-level) depends on activity and half-life, not solely whether a source is sealed or unsealed.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Shielding requirements depend on the type and energy of radiation and the activity, not whether it's sealed or unsealed (though unsealed usually requires more comprehensive precautions due to contamination risk).</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Are more prone to contamination and intake pathways.</span> This is the defining characteristic related to disposal. Because the radioactive material in unsealed sources can escape, it can easily contaminate surfaces, air, and lead to internal exposure (ingestion, inhalation, absorption) in people, making disposal more complex and requiring stringent controls to prevent spread.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> Half-life is a property of the specific radioisotope, not whether it is in a sealed or unsealed form.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The major challenge with unsealed sources is preventing the spread of contamination. This leads to more rigorous containment and processing during disposal compared to sealed sources, which primarily require shielding.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ One key difference in the disposal of 'sealed' versus 'unsealed' radioactive sources is that unsealed sources are more prone to contamination and intake pathways.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Are more prone to contamination and intake pathways" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "A technician suffers a minor acid splash on their arm. After immediate and thorough rinsing with water, what should be done next?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Apply a strong alkali to neutralize any remaining acid" },
+        { "type": "string", "content": "Leave the area exposed to air for quick drying" },
+        { "type": "string", "content": "Cover the affected area with a loose, sterile dressing and seek medical advice" },
+        { "type": "string", "content": "Continue flushing with water for only 5 minutes then return to work" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Acid Burns", "First Aid"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Post-Flushing First Aid for Minor Acid Burns</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document details \"Treatment of acid burns.\" Even minor chemical burns require careful post-flushing management and often medical consultation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> A technician has a minor acid splash on their arm, and it has been immediately and thoroughly rinsed. The question asks for the next step.</div><p><strong>Step 1: Recall the general steps for treating chemical burns.</strong><br>The steps are: 1. Remove contaminated clothing/flush thoroughly. 2. Cover the wound (often with a sterile dressing). 3. Seek medical attention. The 'thorough rinsing' typically means for at least 15-20 minutes.</p><p><strong>Step 2: Evaluate the options.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Option A:</span> Applying a strong alkali (or any neutralizing agent) is generally discouraged due to the risk of exothermic reactions and further injury.</li><li><span style='color:var(--orange);font-weight:bold;'>Option B:</span> Leaving a burn exposed to air increases the risk of contamination and infection.</li><li><span style='color:var(--orange);font-weight:bold;'>Option C:</span> <span style='color:var(--orange);font-weight:bold;'>Cover the affected area with a loose, sterile dressing and seek medical advice.</span> This is appropriate. The dressing protects the wound from infection, and seeking medical advice ensures proper assessment of the burn's severity and ongoing care.</li><li><span style='color='var(--orange);font-weight:bold;'>Option D:</span> While flushing duration is crucial, simply stopping after 5 minutes (which is often insufficient) and returning to work is negligent, as acid burns can have delayed effects. The phrase 'thorough rinsing' in the stem implies the initial flushing was adequate, but further medical evaluation is still needed.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> After thorough irrigation, protecting the wound and getting a professional medical opinion are standard follow-up procedures for any chemical burn, even if appearing minor, to ensure no underlying damage or risk of infection.</div><p style='color='var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ After immediate and thorough rinsing with water, the next step is to cover the affected area with a loose, sterile dressing and seek medical advice.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cover the affected area with a loose, sterile dressing and seek medical advice" }
+  },
+  {
+    "type": "heading",
+    "heading": "Section B",
+    "Subheading": "Answer any 5 of the following THEORY questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Discuss the primary differences between 'sealed' and 'unsealed' radioactive sources regarding their handling and disposal in a laboratory setting, as implied by the document.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Sealed vs Unsealed Sources", "Disposal of Radioactive Water", "Radiation Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinction Between Sealed and Unsealed Radioactive Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Disposal of radioactive water; sealed and unsealed, radio-active sources.\" This implies a crucial difference in how these sources are managed.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a discussion on the primary differences between sealed and unsealed radioactive sources regarding their handling and disposal.</div><p><strong>Step 1: Define each type of source.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Sealed sources</span> refer to radioactive material permanently encased in a robust, non-radioactive container. This containment prevents the release of the radioactive material under normal conditions.</li><li><span style='color:var(--orange);font-weight:bold;'>Unsealed sources</span> refer to radioactive material that is not encapsulated or is in a form (e.g., liquid, gas, powder) that allows for easy dispersal and direct contact. Radioactive water mentioned in the document is typically associated with unsealed sources.</li></ul></p><p><strong>Step 2: Explain the implications for handling.</strong><br><ul><li>For <span style='color:var(--orange);font-weight:bold;'>sealed sources</span>, the primary hazard is external radiation exposure. Handling primarily involves precautions like <span style='color:var(--orange);font-weight:bold;'>shielding, maintaining distance, and minimizing exposure time</span> to protect against radiation emitted from the contained material.</li><li>For <span style='color:var(--orange);font-weight:bold;'>unsealed sources</span>, the risks include both external radiation and, crucially, <span style='color:var(--orange);font-weight:bold;'>internal contamination</span> (ingestion, inhalation, absorption through skin or wounds). Therefore, handling requires additional strict measures such as <span style='color:var(--orange);font-weight:bold;'>use of fume hoods, impermeable gloves, protective clothing, and careful containment to prevent spills and aerosolization</span>.</li></ul></p><p><strong>Step 3: Explain the implications for disposal.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>Disposal of sealed sources</span> usually focuses on safe storage and eventual transfer to specialized long-term disposal facilities, as the material remains contained. The main concern is ensuring the containment integrity and preventing direct exposure to radiation.</li><li><span style='color:var(--orange);font-weight:bold;'>Disposal of unsealed sources</span> (like radioactive water) is more complex. It must prevent environmental release and subsequent uptake by living organisms. This often involves <span style='color:var(--orange);font-weight:bold;'>processing to reduce volume or immobilize the radioactive material (e.g., solidification), decay-in-storage for short-lived isotopes, or regulated discharge (for very low activity liquids), followed by transfer to specific waste streams</span> designed for dispersed radioactive waste. The key is to manage the contamination risk.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer distinguishes the two types of sources by their containment status and then logically explains how this difference dictates distinct safety protocols for preventing external exposure (for both) and internal contamination/environmental dispersal (primarily for unsealed sources) during both routine handling and final disposal.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Sealed radioactive sources are contained and primarily pose an external radiation hazard, requiring shielding and distance. Unsealed sources are not contained, posing risks of both external radiation and internal contamination (ingestion, inhalation, absorption), thus requiring rigorous containment, PPE, and specialized disposal protocols to prevent environmental dispersal and biological uptake, as opposed to the focus on long-term storage and integrity for sealed sources.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sealed sources contain radioactive material permanently within a capsule, primarily posing an external radiation hazard. Handling focuses on shielding and distance. Unsealed sources, conversely, are not encapsulated, allowing for easy dispersal of radioactive material. This presents a risk of both external radiation and internal contamination (via ingestion, inhalation, or skin absorption). Consequently, handling unsealed sources demands strict containment measures (e.g., fume hoods, impermeable gloves), careful spill prevention, and specific disposal protocols aimed at preventing environmental release and biological uptake (e.g., solidification, decay-in-storage, regulated discharge for liquids). The disposal of sealed sources typically involves secure storage and transfer to specialized facilities, with the primary concern being maintaining capsule integrity, whereas unsealed source disposal emphasizes preventing the spread of the radioactive material itself." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Explain the critical first aid steps for an individual who has suffered an electric shock, specifically highlighting the role of \"artificial examination.\"",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shocks", "Treatment", "First Aid", "Artificial Examination"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Aid for Electric Shock and Artificial Examination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document explicitly lists \"Electric shocks: Precautions and treatment, First aid box and artificial examination.\" This indicates a comprehensive approach to managing electrical incidents.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for an explanation of critical first aid steps for an electric shock victim, focusing on \"artificial examination.\"</div><p><strong>Step 1: Ensure Scene Safety.</strong><br>The absolute first step is to <span style='color:var(--orange);font-weight:bold;'>disconnect the power source immediately</span> (e.g., turn off the circuit breaker, unplug the appliance). If this is not possible, use a non-conductive object (like a wooden stick or plastic pipe) to separate the victim from the electrical source. Never touch a person who is still in contact with an energized electrical source, as this will also put the rescuer at risk.</p><p><strong>Step 2: Assess the Victim's Condition.</strong><br>Once the victim is safely separated from the power, check for responsiveness and breathing. <span style='color:var(--orange);font-weight:bold;'>Call for emergency medical assistance (e.g., 112 or local emergency number) immediately.</span></p><p><strong>Step 3: Administer Artificial Examination (Resuscitation) if necessary.</strong><br><ul><li>If the victim is <span style='color:var(--orange);font-weight:bold;'>unconscious and not breathing normally</span>, begin artificial examination, which refers to <span style='color:var(--orange);font-weight:bold;'>Cardiopulmonary Resuscitation (CPR)</span>.</li><li><span style='color:var(--orange);font-weight:bold;'>CPR involves chest compressions and rescue breaths</span>, aiming to circulate blood and oxygen to the brain and other vital organs until professional medical help arrives or the victim recovers. Electric shock can cause cardiac arrest or respiratory failure, making immediate CPR vital for survival.</li><li>A <span style='color:var(--orange);font-weight:bold;'>First Aid Box</span> would contain items like gloves and possibly a barrier device for mouth-to-mouth resuscitation, which aids in performing artificial examination safely and effectively.</li></ul></p><p><strong>Step 4: Treat Other Injuries.</strong><br>Electric shocks can cause burns (entry and exit points), fractures, or other trauma from falls. <span style='color:var(--orange);font-weight:bold;'>Cover burns with a sterile dressing from the First Aid Box</span> and manage other injuries as appropriate while awaiting medical professionals.</p><p><strong>Step 5: Maintain Body Temperature.</strong><br>Keep the victim warm and comfortable, checking for signs of shock.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A comprehensive answer identifies the immediate safety priority (cutting power), the assessment of vital signs, and then fully elaborates on the importance and method of artificial examination (CPR) as the key intervention for life support after a severe electric shock. It also touches on supportive measures and the role of the first aid box.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The critical first aid steps for an electric shock involve first ensuring scene safety by disconnecting the power source. Then, assess the victim's consciousness and breathing, and call for emergency medical assistance. If the victim is unconscious and not breathing normally, artificial examination (Cardiopulmonary Resuscitation or CPR) must be initiated immediately. This involves chest compressions and rescue breaths to restart breathing and circulation, as electric shock can cause cardiac arrest or respiratory failure. Finally, treat any other injuries such as burns with items from a first aid box and keep the victim warm until professional medical help arrives.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The critical first aid steps for an individual who has suffered an electric shock involve:  \n1.  **Ensuring Safety:** The absolute first step is to immediately disconnect the power source (e.g., turn off the main switch or unplug the appliance). If direct disconnection isn't possible, use a non-conductive object (like a dry wooden stick or plastic pipe) to separate the victim from the electrical source. It is paramount that the rescuer avoids contact with the victim until the power is off to prevent becoming a victim themselves.  \n2.  **Calling for Help:** Once the victim is safe from the electrical source, immediately call for emergency medical assistance.  \n3.  **Assessing Vital Signs:** Check the victim's responsiveness, airway, and breathing. Look, listen, and feel for normal breathing.  \n4.  **Artificial Examination (Resuscitation):** This is the crucial step if the victim is unconscious and not breathing normally, or if they have no pulse. Artificial examination refers to Cardiopulmonary Resuscitation (CPR). The goal of CPR is to manually pump blood and deliver oxygen to the brain and other vital organs until professional medical help arrives or the victim recovers. This involves:  \n    *   **Chest Compressions:** Performing rhythmic compressions on the center of the chest to manually circulate blood.  \n    *   **Rescue Breaths:** Delivering breaths into the victim's mouth or nose to provide oxygen.  \n    The presence of a **First Aid Box** would provide essential supplies like gloves and potentially a barrier device for performing artificial examination safely.  \n5.  **Treating Other Injuries:** Electric shocks can cause burns at the entry and exit points, and sometimes other injuries from falls. Cover any burns with a sterile dressing from the First Aid Box. Keep the victim warm and monitor their condition for signs of shock until emergency services take over." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Outline the initial first aid response for someone who has accidentally ingested toxic acid, emphasizing critical actions and contraindications.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Treatment of Swallowing Toxic Acids", "First Aid", "Chemical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Initial First Aid for Ingested Toxic Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document specifies \"Treatment of Inhalation and swallowing of toxic acids.\" This topic requires knowledge of immediate responses for internal chemical exposure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for initial first aid response for ingested toxic acid, with emphasis on critical actions and contraindications.</div><p><strong>Step 1: Immediate Emergency Call.</strong><br>The most critical first action is to <span style='color:var(--orange);font-weight:bold;'>call for immediate emergency medical assistance</span> (e.g., 112 or local emergency number). Provide as much information as possible about the type and concentration of acid, if known. Contact a poison control center if available.</p><p><strong>Step 2: Assess and Support the Victim.</strong><br><ul><li>Keep the victim calm and comfortable. <span style='color:var(--orange);font-weight:bold;'>Do NOT induce vomiting</span>. This is a crucial contraindication because the corrosive acid will cause further damage to the esophagus and mouth during its return journey, and there is a high risk of aspirating the acid into the lungs, leading to severe respiratory complications.</li><li>If the victim is conscious and able to swallow, they may be given <span style='color:var(--orange);font-weight:bold;'>small sips of water or milk</span> (if readily available and appropriate for the specific acid, though water is generally safer) to help dilute the acid in the esophagus and stomach. <span style='color:var(--orange);font-weight:bold;'>Avoid large quantities</span> as this could induce vomiting or stomach distension.</li><li><span style='color:var(--orange);font-weight:bold;'>Do NOT attempt to neutralize the acid with alkaline substances</span> (like baking soda) unless specifically instructed by medical professionals, as exothermic reactions can generate heat and worsen the burn.</li></ul></p><p><strong>Step 3: Monitor and Prepare for Medical Arrival.</strong><br><ul><li>Loosen any tight clothing around the neck and chest.</li><li>Monitor the victim's breathing and level of consciousness.</li><li>If the victim becomes unconscious, place them in the recovery position (on their side) unless a spinal injury is suspected.</li><li>Gather any information or labels of the ingested acid to provide to emergency responders.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A thorough answer correctly identifies calling for emergency help as paramount. It crucially emphasizes the contraindication of inducing vomiting and attempting neutralization, explaining why. It also includes the appropriate safe action of giving small sips of water for dilution, covering the essential aspects of first aid for corrosive ingestion.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The initial first aid response for an individual who has accidentally ingested toxic acid involves several critical actions and important contraindications. Firstly, immediately call for emergency medical assistance (e.g., 112 or local emergency services) and, if possible, contact a poison control center, providing details of the acid ingested. While waiting for help, keep the victim calm and comfortable. A critical contraindication is to **NEVER induce vomiting**. Doing so will cause the corrosive acid to pass through the esophagus and mouth a second time, exacerbating the chemical burns and increasing the risk of aspiration into the lungs, leading to severe respiratory damage. Another contraindication is to **NOT attempt to neutralize the acid with alkaline substances** (like baking soda or antacids) unless specifically advised by medical professionals, as this can generate heat (an exothermic reaction) and worsen the chemical burn. If the victim is conscious and able to swallow, offer small sips of water or milk to help dilute the acid. However, avoid giving large quantities, as this could inadvertently induce vomiting or cause stomach distension. Continuously monitor the victim's breathing and level of consciousness until medical personnel arrive, and provide them with any information available about the ingested substance.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The initial first aid response for an individual who has accidentally ingested toxic acid involves:  \n1.  **Immediate Emergency Call:** The paramount first step is to call for emergency medical assistance (e.g., 112 or your local emergency number) immediately. Provide all available information about the type and concentration of the acid.  \n2.  **Do NOT Induce Vomiting:** This is a critical contraindication. Forcing the victim to vomit will cause the corrosive acid to pass through the esophagus and mouth a second time, significantly worsening the chemical burns to these tissues. It also carries a high risk of aspirating the acid into the lungs, which can lead to severe and life-threatening respiratory complications.  \n3.  **Do NOT Neutralize:** Avoid attempting to neutralize the acid with alkaline substances (e.g., baking soda or antacids) unless specifically instructed by emergency medical professionals. Such reactions can generate significant heat (exothermic reaction), which can cause further thermal burns, and may also produce gas, leading to stomach distension or rupture.  \n4.  **Dilution (Cautious):** If the victim is conscious, alert, and able to swallow, you may give them small sips of water or milk to help dilute the acid in the esophagus and stomach. This should be done cautiously; avoid giving large amounts, as it could induce vomiting or discomfort.  \n5.  **Comfort and Monitoring:** Keep the victim calm and comfortable. Loosen any tight clothing around their neck or chest. Continuously monitor their breathing and level of consciousness until medical professionals arrive.  \n6.  **Information Gathering:** Collect any labels or containers of the ingested acid to provide to emergency responders, as this information is vital for their treatment plan." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Discuss the various categories of laboratory hazards, providing at least three distinct examples for each type mentioned in the document.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Types of Laboratory Hazard", "Chemical Safety", "Electrical Safety", "Biological Safety", "Radiation Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Categories of Laboratory Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document lists \"Types of laboratory hazard (Chemical, Electrical etc.)\" as a core topic. This requires an understanding of different hazard classifications.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for a discussion of various laboratory hazard categories, with three examples for each type mentioned in the document.</div><p><strong>Step 1: Identify hazard types mentioned or clearly implied by the document.</strong><br>The document explicitly mentions Chemical, Electrical, Microbial (biological via "microbial contamination of lab water"), and Radioactive (via "radioactive water" and "radio-active sources"). These will be the primary categories.</p><p><strong>Step 2: Discuss each category with relevant examples.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>1. Chemical Hazards:</span> These relate to the inherent properties of chemical substances that can cause harm. <br>    <ul><li><span style='color:var(--orange);font-weight:bold;'>Examples:</span></li>        <li><span style='color:var(--orange);font-weight:bold;'>Corrosive chemicals (like strong acids):</span> Cause tissue damage on contact (e.g., acid burns, internal damage if swallowed).</li>        <li><span style='color:var(--orange);font-weight:bold;'>Flammable solvents (e.g., ethanol, acetone):</span> Can easily ignite, leading to fires or explosions.</li>        <li><span style='color:var(--orange);font-weight:bold;'>Toxic chemicals (e.g., cyanide, mercury compounds):</span> Can cause poisoning or adverse health effects through inhalation, ingestion, or skin absorption.</li>    </ul></li><li><span style='color:var(--orange);font-weight:bold;'>2. Electrical Hazards:</span> These involve risks associated with electricity and electrical equipment.<br>    <ul><li><span style='color:var(--orange);font-weight:bold;'>Examples:</span></li>        <li><span style='color:var(--orange);font-weight:bold;'>Electric shocks:</span> Caused by direct contact with live wires or faulty equipment, potentially leading to cardiac arrest or severe burns.</li>        <li><span style='color:var(--orange);font-weight:bold;'>Faulty wiring or exposed conductors:</span> Can lead to short circuits, fires, or direct contact hazards.</li>        <li><span style='color:var(--orange);font-weight:bold;'>Overloaded circuits:</span> Can cause overheating, leading to equipment damage and fire risks.</li>    </ul></li><li><span style='color:var(--orange);font-weight:bold;'>3. Biological Hazards (Microbial):</span> These involve risks from living organisms, particularly microorganisms.<br>    <ul><li><span style='color:var(--orange);font-weight:bold;'>Examples:</span></li>        <li><span style='color:var(--orange);font-weight:bold;'>Microbial contamination of lab water:</span> Can lead to ingestion of pathogens, causing gastrointestinal illnesses or infections.</li>        <li><span style='color:var(--orange);font-weight:bold;'>Pathogenic bacteria or viruses:</span> Used in experiments, they pose a risk of infection through inhalation, inoculation, or contact.</li>        <li><span style='color:var(--orange);font-weight:bold;'>Biohazardous waste:</span> Improper handling or disposal can spread infectious agents to personnel or the environment.</li>    </ul></li><li><span style='color:var(--orange);font-weight:bold;'>4. Radiation Hazards:</span> These stem from exposure to ionizing or non-ionizing radiation.<br>    <ul><li><span style='color:var(--orange);font-weight:bold;'>Examples:</span></li>        <li><span style='color:var(--orange);font-weight:bold;'>Radioactive water (unsealed sources):</span> Poses a risk of internal contamination if ingested, inhaled, or absorbed, and external exposure.</li>        <li><span style='color:var(--orange);font-weight:bold;'>Sealed radioactive sources:</span> Primarily pose external radiation exposure risk, requiring shielding and distance to minimize dose.</li>        <li><span style='color:var(--orange);font-weight:bold;'>X-ray generators:</span> Emit ionizing radiation during operation, posing risks of cellular damage and cancer if proper shielding and dosimetry are not used.</li>    </ul></li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer correctly identifies the core hazard types implied by the document (Chemical, Electrical, Microbial/Biological, Radiation) and provides distinct and relevant examples for each, illustrating a comprehensive understanding of each category.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Laboratory hazards can be broadly categorized into chemical, electrical, biological, and radiation hazards, each with distinct risks and examples.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Laboratory hazards encompass a range of potential sources of harm arising from the unique environment and activities conducted within a laboratory. Based on the document, the primary categories of laboratory hazards include:  \n\n1.  **Chemical Hazards:** These involve risks associated with the physical and chemical properties of substances used in the lab.  \n    *   **Examples:**  \n        *   **Corrosive acids (e.g., concentrated HCl, H2SO4):** Can cause severe burns on contact with skin or tissue, or internal damage if ingested.  \n        *   **Flammable solvents (e.g., ethanol, ether):** Present fire and explosion risks if exposed to ignition sources.  \n        *   **Toxic reagents (e.g., heavy metal compounds, certain organic solvents):** Can cause poisoning or adverse health effects through inhalation, ingestion, or skin absorption.  \n\n2.  **Electrical Hazards:** These relate to dangers posed by electrical equipment and systems.  \n    *   **Examples:**  \n        *   **Faulty wiring or damaged insulation:** Can lead to electric shocks, short circuits, or fires.  \n        *   **Improper grounding of equipment:** Increases the risk of electric shock to users if there is an internal fault.  \n        *   **Overloaded power outlets/circuits:** Can cause overheating, leading to equipment failure and potential fires.  \n\n3.  **Biological Hazards (Microbial):** These stem from exposure to biological agents, particularly microorganisms.  \n    *   **Examples:**  \n        *   **Microbial contamination of lab water:** Can lead to illnesses or infections if the contaminated water is accidentally ingested or comes into contact with open wounds.  \n        *   **Pathogenic bacteria, viruses, or fungi cultures:** Posing infection risks to personnel through inhalation of aerosols, direct contact, or accidental inoculation.  \n        *   **Contaminated biological waste:** Improper disposal or handling can lead to the spread of infectious agents.  \n\n4.  **Radiation Hazards:** These involve risks from exposure to various forms of radiation.  \n    *   **Examples:**  \n        *   **Radioactive water (unsealed sources):** Can lead to internal contamination through ingestion, inhalation, or skin absorption, as well as external radiation exposure.  \n        *   **Sealed radioactive sources (e.g., isotopes in gauging devices):** Primarily pose a risk of external radiation exposure, necessitating strict shielding and distance protocols.  \n        *   **X-ray generators or other radiation-emitting equipment:** Can cause cellular damage and health effects if operated without proper shielding, interlocks, and dosimetry." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Explain the significance of precautions in laboratory safety and provide three examples of general precautions that apply across different types of hazards.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Laboratory Hazards", "Precautions", "General Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Significance of Precautions in Laboratory Safety</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The document mentions \"Precautions\" under electric shocks but implicitly applies to all hazards (e.g., general lab hazards, causes of hazard). Precautions are measures taken to prevent harm.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks to explain the significance of precautions in laboratory safety and provide three general examples.</div><p><strong>Step 1: Define the significance of precautions.</strong><br>Precautions are actions taken to prevent adverse events, injuries, or exposures in the laboratory. Their significance lies in creating a safe working environment, protecting personnel, preserving equipment, and preventing environmental contamination. They represent the proactive aspect of safety management, aiming to eliminate or control hazards before they cause harm. Without adequate precautions, the likelihood and severity of accidents increase dramatically.</p><p><strong>Step 2: Provide three general examples of precautions applicable across different hazard types.</strong><br><ul><li><span style='color:var(--orange);font-weight:bold;'>1. Proper Training and Competence:</span> Ensuring all laboratory personnel, especially trainees, receive comprehensive and ongoing training on specific hazards, safe operating procedures (SOPs), emergency protocols, and the correct use of equipment and chemicals. This reduces human error, a significant cause of hazards.</li><li><span style='color:var(--orange);font-weight:bold;'>2. Use of Personal Protective Equipment (PPE):</span> Mandatory use of appropriate PPE such as lab coats, safety glasses/goggles, gloves, and respirators (when necessary) acts as a barrier against chemical splashes, biological exposure, minor impacts, and some forms of radiation.</li><li><span style='color:var(--orange);font-weight:bold;'>3. Good Housekeeping and Organization:</span> Maintaining a clean, tidy, and organized workspace minimizes physical hazards (e.g., slips, trips, falls from cluttered pathways), reduces the risk of chemical incompatibilities (from improper storage), prevents contamination, and ensures easy access to safety equipment and emergency exits.</li></ul></p><p><strong>Step 3: Relate these back to different hazard types (briefly).</strong><br>These general precautions help mitigate chemical hazards (e.g., PPE for spills, training for handling), electrical hazards (e.g., training for equipment use, proper organization preventing wire damage), biological hazards (e.g., PPE for contamination, good housekeeping for sterility), and even radiation hazards (e.g., training for source handling, appropriate PPE). They form the foundation of a robust safety culture.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A strong answer defines precautions as proactive safety measures. It then offers three distinct, broad examples that are clearly applicable across multiple types of laboratory hazards, demonstrating an understanding of their pervasive importance in preventing incidents.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Precautions are crucial in laboratory safety as they are proactive measures designed to prevent accidents, injuries, and exposures by controlling or eliminating hazards. Three general examples of precautions include proper training and competence for personnel, consistent use of appropriate personal protective equipment (PPE), and maintaining good housekeeping and organization within the laboratory.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Precautions are fundamental to laboratory safety as they represent proactive measures taken to prevent incidents, injuries, adverse health effects, and environmental contamination. Their significance lies in establishing a safe working environment by identifying and controlling hazards *before* they can cause harm. By implementing effective precautions, laboratories can significantly reduce the likelihood and severity of accidents, protect personnel, preserve valuable equipment, and ensure compliance with safety regulations.\n\nHere are three examples of general precautions that apply across various types of laboratory hazards:\n\n1.  **Proper Training and Competence:** Ensuring that all laboratory personnel, including students, researchers, and technicians, receive comprehensive training specific to the tasks they perform and the materials they handle. This includes understanding chemical properties, safe handling techniques, emergency procedures, and the correct use of safety equipment. Proper training reduces human error, which is a common cause of accidents across chemical, biological, electrical, and radiation hazards.\n\n2.  **Use of Appropriate Personal Protective Equipment (PPE):** Mandating and ensuring the consistent use of suitable PPE for all laboratory activities. This typically includes items like safety glasses or goggles, laboratory coats, and appropriate gloves. Depending on the specific hazard, it may also extend to face shields, respirators, or specialized protective clothing. PPE acts as a critical barrier between the individual and potential hazards, offering protection against chemical splashes, biological contaminants, minor impacts, and some forms of radiation.\n\n3.  **Good Housekeeping and Organization:** Maintaining a clean, tidy, and organized workspace is a universal precaution. This involves keeping work surfaces clear of unnecessary items, properly storing chemicals (segregating incompatibles), ensuring pathways are unobstructed, and promptly cleaning up spills. Good housekeeping minimizes physical hazards (e.g., slips, trips), prevents cross-contamination, reduces the risk of accidental mixing of chemicals, and ensures quick access to emergency equipment (like eyewashes or fire extinguishers), thereby mitigating risks from all types of hazards." }
+  }
+]
+```
