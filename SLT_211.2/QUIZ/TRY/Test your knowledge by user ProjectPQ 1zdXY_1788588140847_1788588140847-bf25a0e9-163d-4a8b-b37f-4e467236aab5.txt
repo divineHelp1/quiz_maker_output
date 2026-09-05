@@ -1,0 +1,698 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the course code specified in the provided outline?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "SLT 212.1" },
+        { "type": "string", "content": "SLT 211.2" },
+        { "type": "string", "content": "SLT 211.1" },
+        { "type": "string", "content": "SLT 221.2" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Course Code", "Course Administration"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Course Code Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Course Code:</em> A unique identifier assigned to a specific academic course for administrative and cataloging purposes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the course code from the given document.</div><p><strong>Step 1: Locate the Course Code.</strong><br/>Review the top left section of the document. The text <span style='color:var(--orange);font-weight:bold;'>SLT 211.2</span> is clearly visible as the course code.</p><ul><li>Evaluating options:</li><li>Option 1 (SLT 212.1): This does not match the text in the document.</li><li>Option 2 (SLT 211.2): This precisely matches the course code written on the document.</li><li>Option 3 (SLT 211.1): This does not match the text in the document.</li><li>Option 4 (SLT 221.2): This does not match the text in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The course code is a direct piece of information presented at the beginning of the outline. Double-checking the numbers and punctuation confirms the correct option.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The course code specified in the outline is SLT 211.2.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "SLT 211.2" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The document primarily serves as a:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Student record sheet" },
+        { "type": "string", "content": "Course Outline" },
+        { "type": "string", "content": "Laboratory safety manual" },
+        { "type": "string", "content": "Exam question paper" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Document Type", "Course Administration"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Document Purpose Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Course Outline:</em> A document that summarizes the main topics and learning objectives of an academic course.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the primary purpose or type of the provided document.</div><p><strong>Step 1: Locate the document title.</strong><br/>Below the course code, the clear title <span style='color:var(--orange);font-weight:bold;'>COURSE OUTLINE</span> is explicitly written, indicating the document's nature.</p><ul><li>Evaluating options:</li><li>Option 1 (Student record sheet): This is incorrect, as the document details course content, not individual student records.</li><li>Option 2 (Course Outline): This directly matches the title and content structure of the document.</li><li>Option 3 (Laboratory safety manual): While the content is related to lab safety, the document itself is structured as an outline, not a comprehensive manual.</li><li>Option 4 (Exam question paper): This is incorrect, as the document lists topics to be covered, not questions for an exam.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The explicit title 'COURSE OUTLINE' provides unambiguous evidence for the document's primary purpose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The document primarily serves as a Course Outline.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Course Outline" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The overarching subject matter of the course, as introduced in the document, is:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Laboratory First Aid Procedures" },
+        { "type": "string", "content": "Chemical Waste Management" },
+        { "type": "string", "content": "Laboratory Hazard and Safety" },
+        { "type": "string", "content": "Radioactive Material Handling" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Course Subject", "Laboratory Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Overarching Course Subject</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Overarching Subject:</em> The broad topic or field of study that encompasses all the specific topics covered in a course.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the main subject area of the course, as indicated in the document.</div><p><strong>Step 1: Identify the main heading for the detailed content.</strong><br/>Below the numbered course outline points, a larger heading explicitly states <span style='color:var(--orange);font-weight:bold;'>LABORATORY HAZARD AND SAFETY</span>. This serves as the general subject under which subsequent definitions and protections are discussed.</p><ul><li>Evaluating options:</li><li>Option 1 (Laboratory First Aid Procedures): While first aid is covered, it's a sub-topic (e.g., for microbial contamination, electric shocks), not the overall subject.</li><li>Option 2 (Chemical Waste Management): This is too narrow; disposal of radioactive waste is covered, and chemical hazards are a type, but not the overarching theme.</li><li>Option 3 (Laboratory Hazard and Safety): This directly matches the explicit heading that introduces the core definitions in the document.</li><li>Option 4 (Radioactive Material Handling): This is a specific topic (Topic 8) and does not encompass all the other hazards and safety measures discussed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The bolded and capitalized heading 'LABORATORY HAZARD AND SAFETY' acts as the explicit declaration of the course's primary focus.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The overarching subject matter of the course is Laboratory Hazard and Safety.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Laboratory Hazard and Safety" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "According to the definition provided in the document, a 'hazard' is any situation that can cause:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Delay or inefficiency" },
+        { "type": "string", "content": "Damage or harm" },
+        { "type": "string", "content": "Expense or inconvenience" },
+        { "type": "string", "content": "Confusion or misinterpretation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Definition", "Laboratory Safety Fundamentals"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Hazard</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard:</em> A potential source of harm or adverse health effect.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the explicit definition of 'hazard' as given in the document.</div><p><strong>Step 1: Locate the definition of 'Hazards'.</strong><br/>Under the heading 'LABORATORY HAZARD AND SAFETY', the document defines <span style='color:var(--orange);font-weight:bold;'>Hazards: are any situation that can cause damage or harm.</span></p><ul><li>Evaluating options:</li><li>Option 1 (Delay or inefficiency): While hazards can lead to these, they are not the primary defining outcome according to the document.</li><li>Option 2 (Damage or harm): This directly matches the definition provided in the document.</li><li>Option 3 (Expense or inconvenience): Similar to Option 1, these are potential consequences but not the core definition of a hazard itself.</li><li>Option 4 (Confusion or misinterpretation): This describes cognitive issues, not the physical or direct impact implied by 'damage or harm'.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The definition is explicitly stated in the document, making this a direct recall question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the document, a 'hazard' is any situation that can cause damage or harm.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Damage or harm" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "The initial topic (Topic 1) in the SLT 211.2 Course Outline is titled:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Types of laboratory hazard" },
+        { "type": "string", "content": "Laboratory hazards" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Laboratory safety procedures" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Course Outline Structure"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Course Outline Topic Recall</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Topic Title:</em> The specific name given to a section of a course outline that describes its content.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the exact title of the first topic listed in the course outline.</div><p><strong>Step 1: Locate Topic 1.</strong><br/>Review the numbered list under 'COURSE OUTLINE'. The first item is <span style='color:var(--orange);font-weight:bold;'>1) Laboratory hazards</span>.</p><ul><li>Evaluating options:</li><li>Option 1 (Types of laboratory hazard): This is Topic 2, not Topic 1.</li><li>Option 2 (Laboratory hazards): This precisely matches the title of Topic 1.</li><li>Option 3 (Causes of hazard): This is Topic 3, not Topic 1.</li><li>Option 4 (Laboratory safety procedures): This is a general term and not an explicit topic title in the outline.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The question requires direct recall of the first topic's title.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The initial topic (Topic 1) in the SLT 211.2 Course Outline is titled Laboratory hazards.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Laboratory hazards" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Which topic in the course outline focuses on distinguishing between various categories of risks present in a laboratory?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Laboratory hazards" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Treatment of acid burns" },
+        { "type": "string", "content": "Types of laboratory hazard" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Hazard Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hazard Type Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard Classification:</em> The process of categorizing different types of hazards based on their characteristics or source.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic that deals with different categories or distinctions of laboratory risks.</div><p><strong>Step 1: Review topic titles for keywords related to 'types' or 'categories'.</strong><br/>Looking at the course outline:<br/>- Topic 1: Laboratory hazards (general introduction)<br/>- Topic 2: <span style='color:var(--orange);font-weight:bold;'>Types of laboratory hazard</span> (chemical, electrical etc)<br/>This title directly addresses the classification of hazards.</p><ul><li>Evaluating options:</li><li>Option 1 (Laboratory hazards): This is a general introductory topic.</li><li>Option 2 (Causes of hazard): This topic focuses on the origins of hazards, not their categorization.</li><li>Option 3 (Treatment of acid burns): This is a specific response to a type of injury, not hazard classification.</li><li>Option 4 (Types of laboratory hazard): This title explicitly indicates the topic's focus on distinguishing between various categories of risks.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The presence of the word 'Types' in the topic title makes this answer unambiguous for identifying categories of risk.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The topic that focuses on distinguishing between various categories of risks present in a laboratory is 'Types of laboratory hazard'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Types of laboratory hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Which of the following is explicitly listed as a type of laboratory hazard in the course outline?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Ergonomic hazard" },
+        { "type": "string", "content": "Psychological hazard" },
+        { "type": "string", "content": "Chemical hazard" },
+        { "type": "string", "content": "Mechanical hazard" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Types", "Chemical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identification of Specific Hazard Types</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard Type:</em> A classification of a potential source of harm based on its nature (e.g., chemical, electrical, biological).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a specific type of laboratory hazard explicitly mentioned in Topic 2 of the course outline.</div><p><strong>Step 1: Refer to Topic 2 of the Course Outline.</strong><br/>Topic 2 states: 'Types of laboratory hazard (<span style='color:var(--orange);font-weight:bold;'>chemical</span>, electrical etc)'.</p><ul><li>Evaluating options:</li><li>Option 1 (Ergonomic hazard): This is not explicitly listed in the outline.</li><li>Option 2 (Psychological hazard): This is not explicitly listed in the outline.</li><li>Option 3 (Chemical hazard): This is clearly listed as an example of a laboratory hazard.</li><li>Option 4 (Mechanical hazard): This is not explicitly listed in the outline.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The question specifically asks for an *explicitly listed* type, and 'chemical' is clearly stated.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Chemical hazard is explicitly listed as a type of laboratory hazard in the course outline.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Chemical hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Apart from chemical hazards, what other specific type of laboratory hazard is explicitly mentioned in Topic 2?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Biological hazard" },
+        { "type": "string", "content": "Radiological hazard" },
+        { "type": "string", "content": "Electrical hazard" },
+        { "type": "string", "content": "Thermal hazard" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Types", "Electrical Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identification of Specific Hazard Types</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard Type:</em> A classification of a potential source of harm based on its nature (e.g., chemical, electrical, biological).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for another specific type of laboratory hazard explicitly mentioned in Topic 2, besides chemical hazards.</div><p><strong>Step 1: Refer to Topic 2 of the Course Outline.</strong><br/>Topic 2 states: 'Types of laboratory hazard (chemical, <span style='color:var(--orange);font-weight:bold;'>electrical</span> etc)'.</p><ul><li>Evaluating options:</li><li>Option 1 (Biological hazard): This is not explicitly listed in the outline.</li><li>Option 2 (Radiological hazard): While radioactive sources are mentioned in Topic 8, 'radiological hazard' is not explicitly listed as a *type of laboratory hazard* in Topic 2.</li><li>Option 3 (Electrical hazard): This is clearly listed as an example of a laboratory hazard alongside chemical hazards.</li><li>Option 4 (Thermal hazard): This is not explicitly listed in the outline.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The question specifically asks for an *explicitly listed* type from Topic 2, and 'electrical' is clearly stated.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Apart from chemical hazards, Electrical hazard is explicitly mentioned in Topic 2.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Electrical hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The 'etc.' appended to the list of hazard types ('chemical, electrical etc') primarily signifies that:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Only these two types are significant" },
+        { "type": "string", "content": "The list of hazard types is limited" },
+        { "type": "string", "content": "There are other types of hazards not explicitly enumerated" },
+        { "type": "string", "content": "The provided examples are exhaustive" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Types", "Course Outline Scope"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Interpretation of 'etc.' in Context</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Etc. (et cetera):</em> A Latin abbreviation meaning 'and other things' or 'and so on', used to indicate that a list is incomplete or that other similar items could be mentioned.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the meaning of 'etc.' in the context of the listed hazard types.</div><p><strong>Step 1: Understand the common usage of 'etc.'.</strong><br/>In academic and general writing, 'etc.' is used to indicate that a list of examples is not exhaustive, implying that there are more items of the same kind that could be included but are not for brevity.</p><p><strong>Step 2: Apply this understanding to Topic 2.</strong><br/>Topic 2: 'Types of laboratory hazard (chemical, electrical <span style='color:var(--orange);font-weight:bold;'>etc</span>)'. This implies that chemical and electrical are examples, and other types exist beyond these two.</p><ul><li>Evaluating options:</li><li>Option 1 (Only these two types are significant): This is incorrect; 'etc.' implies more types, not a limitation of significance.</li><li>Option 2 (The list of hazard types is limited): While the *provided list* is limited, 'etc.' suggests that the *actual number* of types is not limited to just those mentioned. This option can be misleading.</li><li>Option 3 (There are other types of hazards not explicitly enumerated): This accurately reflects the meaning of 'etc.', indicating an open-ended list of examples.</li><li>Option 4 (The provided examples are exhaustive): This is the opposite of what 'etc.' implies.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The standard interpretation of 'etc.' directly supports the idea of unlisted items in a category.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The 'etc.' appended to the list of hazard types primarily signifies that there are other types of hazards not explicitly enumerated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "There are other types of hazards not explicitly enumerated" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which topic in the course outline is dedicated to understanding how laboratory risks originate?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Treatment of acid burns" },
+        { "type": "string", "content": "Laboratory hazards" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Types of laboratory hazard" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Hazard Causes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hazard Origin Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard Origin:</em> The source or underlying reasons that lead to the presence of hazards in a given environment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic specifically addressing how hazards begin or what creates them.</div><p><strong>Step 1: Review topic titles for keywords related to 'origin' or 'causes'.</strong><br/>Looking at the course outline:<br/>- Topic 1: Laboratory hazards<br/>- Topic 2: Types of laboratory hazard<br/>- Topic 3: <span style='color:var(--orange);font-weight:bold;'>Causes of hazard</span><br/>This title directly addresses the origination of risks.</p><ul><li>Evaluating options:</li><li>Option 1 (Treatment of acid burns): This focuses on response to an injury, not its cause.</li><li>Option 2 (Laboratory hazards): This is a general introductory topic.</li><li>Option 3 (Causes of hazard): This title explicitly indicates the topic's focus on understanding how laboratory risks originate.</li><li>Option 4 (Types of laboratory hazard): This topic categorizes hazards, it does not explain their causes.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The phrase 'Causes of hazard' is unambiguous in defining the topic's scope.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The topic dedicated to understanding how laboratory risks originate is 'Causes of hazard'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Causes of hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which section of the course outline provides guidance on how to manage injuries resulting from corrosive chemical exposure?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Treatment of acid burns" },
+        { "type": "string", "content": "Types of laboratory hazard" },
+        { "type": "string", "content": "Microbial contamination of lab water" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Acid Burn Treatment"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Corrosive Exposure Management</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Corrosive Exposure:</em> Contact with a substance that can destroy living tissue on contact. Acid burns are a common form of corrosive chemical exposure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic that provides guidance on managing injuries from corrosive chemicals, specifically acid burns.</div><p><strong>Step 1: Review topic titles for keywords related to 'treatment' or 'burns'.</strong><br/>Looking at the course outline:<br/>- Topic 4: <span style='color:var(--orange);font-weight:bold;'>Treatment of acid burns</span><br/>This topic directly addresses the management of injuries from corrosive substances (acids).</p><ul><li>Evaluating options:</li><li>Option 1 (Causes of hazard): This focuses on origins, not treatment.</li><li>Option 2 (Treatment of acid burns): This title explicitly details the management of injuries from corrosive chemical exposure.</li><li>Option 3 (Types of laboratory hazard): This categorizes hazards, it does not provide treatment guidance.</li><li>Option 4 (Microbial contamination of lab water): This is unrelated to chemical burns.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title 'Treatment of acid burns' clearly indicates its relevance to managing injuries from corrosive chemicals.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The section of the course outline that provides guidance on how to manage injuries resulting from corrosive chemical exposure is 'Treatment of acid burns'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Treatment of acid burns" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "What essential protective measure is specifically advised to protect oneself from acid burns?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Using fume hoods" },
+        { "type": "string", "content": "Proper ventilation" },
+        { "type": "string", "content": "Always wear PPE" },
+        { "type": "string", "content": "Regular handwashing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Personal Protection", "Acid Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Acid Burn Prevention Strategy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Personal Protective Equipment (PPE):</em> Specialized clothing or equipment worn by workers for protection against health or safety hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific protective measure recommended against acid burns.</div><p><strong>Step 1: Locate the section on protection from acid burns.</strong><br/>Under the heading 'HOW TO PROTECT ONE'S SELF FROM ACID BURNS', the first point states: <span style='color:var(--orange);font-weight:bold;'>1) Always wear PPE (Personal protective equipment)</span>.</p><ul><li>Evaluating options:</li><li>Option 1 (Using fume hoods): Fume hoods are for vapor control, not direct protection from splashes.</li><li>Option 2 (Proper ventilation): Ventilation manages airborne contaminants, but is not the primary direct personal protection against acid splashes.</li><li>Option 3 (Always wear PPE): This is explicitly stated as the protective measure.</li><li>Option 4 (Regular handwashing): This is for hygiene and preventing contamination, not primary protection against acid burns.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The document directly specifies 'Always wear PPE' as the protection against acid burns.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ To protect oneself from acid burns, the essential protective measure specifically advised is to Always wear PPE.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Always wear PPE" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What does the acronym 'PPE' stand for in the context of laboratory safety, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Primary Prevention Effort" },
+        { "type": "string", "content": "Practical Protection Equipment" },
+        { "type": "string", "content": "Personal Protective Equipment" },
+        { "type": "string", "content": "Public Safety Protocol Enforcement" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Acronym Definition", "Personal Protective Equipment"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>PPE Acronym Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Acronym:</em> An abbreviation formed from the initial letters of other words and pronounced as a word.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the full meaning of the acronym 'PPE' as provided in the document.</div><p><strong>Step 1: Locate the acronym 'PPE' and its explanation.</strong><br/>Under 'HOW TO PROTECT ONE'S SELF FROM ACID BURNS', the document states: '1) Always wear PPE <span style='color:var(--orange);font-weight:bold;'>(Personal protective equipment)</span>'. The full form is given in parentheses.</p><ul><li>Evaluating options:</li><li>Option 1 (Primary Prevention Effort): This is an incorrect expansion of the acronym.</li><li>Option 2 (Practical Protection Equipment): This is an incorrect expansion of the acronym.</li><li>Option 3 (Personal Protective Equipment): This directly matches the explanation provided in the document.</li><li>Option 4 (Public Safety Protocol Enforcement): This is an incorrect expansion of the acronym.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The document explicitly defines PPE, making this a direct recall.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The acronym 'PPE' stands for Personal Protective Equipment in the context of laboratory safety, according to the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Personal Protective Equipment" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which topic addresses the appropriate response when corrosive vapours or liquids are accidentally taken into the body through breathing?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Treatment of acid burns" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Treatment of inhalation and swallowing of toxic acids" },
+        { "type": "string", "content": "Microbial contamination of lab water" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Inhalation Exposure"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Management of Inhalation Exposure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Inhalation Exposure:</em> The entry of substances into the body through the respiratory system (breathing).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic that covers responses to corrosive substances entering the body via breathing.</div><p><strong>Step 1: Review topic titles for keywords related to 'inhalation' or 'breathing'.</strong><br/>Looking at the course outline:<br/>- Topic 5: <span style='color:var(--orange);font-weight:bold;'>Treatment of inhalation and swallowing of toxic acids</span><br/>This topic clearly addresses inhalation as a route of exposure requiring treatment.</p><ul><li>Evaluating options:</li><li>Option 1 (Treatment of acid burns): This is for external contact, primarily skin.</li><li>Option 2 (Causes of hazard): This focuses on origins, not treatment.</li><li>Option 3 (Treatment of inhalation and swallowing of toxic acids): This title explicitly covers treatment for substances taken into the body through breathing (inhalation).</li><li>Option 4 (Microbial contamination of lab water): This is unrelated to chemical inhalation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The presence of 'inhalation' in the topic title directly answers the question about breathing corrosive substances.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The topic that addresses the appropriate response when corrosive vapours or liquids are accidentally taken into the body through breathing is 'Treatment of inhalation and swallowing of toxic acids'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Treatment of inhalation and swallowing of toxic acids" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which specific exposure route for toxic acids is covered in Topic 5 related to entry into the body through the respiratory system?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Dermal absorption" },
+        { "type": "string", "content": "Injection" },
+        { "type": "string", "content": "Inhalation" },
+        { "type": "string", "content": "Direct contact" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exposure Routes", "Toxic Acid Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Toxic Acid Exposure Routes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Exposure Route:</em> The path by which a chemical or substance can enter the body.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific exposure route mentioned in Topic 5 that relates to entry via the respiratory system.</div><p><strong>Step 1: Refer to Topic 5 of the Course Outline.</strong><br/>Topic 5 states: 'Treatment of <span style='color:var(--orange);font-weight:bold;'>inhalation</span> and swallowing of toxic acids'. Inhalation refers to entry via the respiratory system.</p><ul><li>Evaluating options:</li><li>Option 1 (Dermal absorption): This is not mentioned in Topic 5.</li><li>Option 2 (Injection): This is not mentioned in Topic 5.</li><li>Option 3 (Inhalation): This term directly means breathing in substances and is explicitly listed in Topic 5.</li><li>Option 4 (Direct contact): This typically refers to skin contact, which is distinct from respiratory system entry.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The question is a direct recall of one of the specific exposure routes mentioned in Topic 5.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Inhalation is the specific exposure route for toxic acids covered in Topic 5 related to entry into the body through the respiratory system.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Inhalation" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Besides inhalation, what other specific route of exposure to toxic acids does Topic 5 explicitly address?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Skin contact" },
+        { "type": "string", "content": "Eye exposure" },
+        { "type": "string", "content": "Swallowing" },
+        { "type": "string", "content": "Puncture wounds" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Exposure Routes", "Toxic Acid Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Toxic Acid Exposure Routes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Exposure Route:</em> The path by which a chemical or substance can enter the body.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the other specific exposure route mentioned in Topic 5, in addition to inhalation.</div><p><strong>Step 1: Refer to Topic 5 of the Course Outline.</strong><br/>Topic 5 states: 'Treatment of inhalation and <span style='color:var(--orange);font-weight:bold;'>swallowing</span> of toxic acids'.</p><ul><li>Evaluating options:</li><li>Option 1 (Skin contact): This is not mentioned in Topic 5.</li><li>Option 2 (Eye exposure): This is not mentioned in Topic 5.</li><li>Option 3 (Swallowing): This term is explicitly listed in Topic 5 alongside inhalation.</li><li>Option 4 (Puncture wounds): This is not mentioned in Topic 5.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The question is a direct recall of the second specific exposure route mentioned in Topic 5.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Besides inhalation, swallowing is the other specific route of exposure to toxic acids that Topic 5 explicitly addresses.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Swallowing" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Topic 5 primarily focuses on the treatment for exposure to which type of substance?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Flammable solvents" },
+        { "type": "string", "content": "Inert gases" },
+        { "type": "string", "content": "Toxic acids" },
+        { "type": "string", "content": "Heavy metals" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Substance of Concern", "Toxicology"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Substance Specificity in Exposure Treatment</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Toxic Substance:</em> A substance that can cause harm to living organisms through chemical reactions or other activity.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific type of substance whose exposure is addressed in Topic 5.</div><p><strong>Step 1: Refer to Topic 5 of the Course Outline.</strong><br/>Topic 5 states: 'Treatment of inhalation and swallowing of <span style='color:var(--orange);font-weight:bold;'>toxic acids</span>'.</p><ul><li>Evaluating options:</li><li>Option 1 (Flammable solvents): Not mentioned in Topic 5.</li><li>Option 2 (Inert gases): Not mentioned in Topic 5.</li><li>Option 3 (Toxic acids): This is explicitly mentioned as the substance of concern in Topic 5.</li><li>Option 4 (Heavy metals): Not mentioned in Topic 5.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly names 'toxic acids' as the subject of the treatment protocols discussed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Topic 5 primarily focuses on the treatment for exposure to toxic acids.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Toxic acids" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which topic addresses the issue of purity in laboratory water and the immediate care required for related problems?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Disposal of radioactive water" },
+        { "type": "string", "content": "Microbial contamination of lab water, first aid" },
+        { "type": "string", "content": "Electric shocks: precautions and treatment" },
+        { "type": "string", "content": "Treatment of acid burns" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Laboratory Water Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Laboratory Water Purity and Immediate Care</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Microbial Contamination:</em> The unwanted introduction of microorganisms (like bacteria, viruses, fungi) into a substance or environment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic that covers both lab water purity issues (specifically contamination) and associated first aid.</div><p><strong>Step 1: Review topic titles for keywords related to 'lab water', 'contamination', and 'first aid'.</strong><br/>Looking at the course outline:<br/>- Topic 6: <span style='color:var(--orange);font-weight:bold;'>Microbial contamination of lab water, first aid</span><br/>This title directly mentions both the contamination of lab water and the immediate care (first aid) for it.</p><ul><li>Evaluating options:</li><li>Option 1 (Disposal of radioactive water): This relates to hazardous waste, not general lab water purity.</li><li>Option 2 (Microbial contamination of lab water, first aid): This title explicitly covers the issue of purity (microbial contamination) and immediate care (first aid) for lab water.</li><li>Option 3 (Electric shocks: precautions and treatment): This is unrelated to lab water.</li><li>Option 4 (Treatment of acid burns): This is unrelated to lab water.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title clearly specifies 'Microbial contamination of lab water' and 'first aid', directly addressing the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The topic that addresses the issue of purity in laboratory water and the immediate care required for related problems is 'Microbial contamination of lab water, first aid'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Microbial contamination of lab water, first aid" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What specific type of contamination is identified as a concern for laboratory water in Topic 6?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Chemical contamination" },
+        { "type": "string", "content": "Particulate contamination" },
+        { "type": "string", "content": "Microbial contamination" },
+        { "type": "string", "content": "Heavy metal contamination" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Contamination Type", "Laboratory Water Quality"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Laboratory Water Contamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Microbial Contamination:</em> The presence of undesirable microorganisms in a substance, making it potentially harmful or unsuitable for its intended use.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific type of contamination mentioned in Topic 6 concerning laboratory water.</div><p><strong>Step 1: Refer to Topic 6 of the Course Outline.</strong><br/>Topic 6 states: '<span style='color:var(--orange);font-weight:bold;'>Microbial contamination</span> of lab water, first aid'.</p><ul><li>Evaluating options:</li><li>Option 1 (Chemical contamination): Not explicitly mentioned in Topic 6, though possible in labs.</li><li>Option 2 (Particulate contamination): Not explicitly mentioned in Topic 6.</li><li>Option 3 (Microbial contamination): This is explicitly stated as the type of contamination in Topic 6.</li><li>Option 4 (Heavy metal contamination): Not explicitly mentioned in Topic 6.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly names 'Microbial contamination', providing a clear answer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Microbial contamination is the specific type of contamination identified as a concern for laboratory water in Topic 6.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Microbial contamination" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "For which specific laboratory component is microbial contamination highlighted as a risk?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Air ventilation systems" },
+        { "type": "string", "content": "Lab surfaces" },
+        { "type": "string", "content": "Lab equipment" },
+        { "type": "string", "content": "Lab water" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Contamination Medium", "Laboratory Hygiene"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Microbial Risk in Laboratory Components</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Laboratory Component:</em> Any part or element of a laboratory setup, such as equipment, surfaces, or consumables.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific laboratory component for which microbial contamination is mentioned as a risk in Topic 6.</div><p><strong>Step 1: Refer to Topic 6 of the Course Outline.</strong><br/>Topic 6 states: 'Microbial contamination of <span style='color:var(--orange);font-weight:bold;'>lab water</span>, first aid'.</p><ul><li>Evaluating options:</li><li>Option 1 (Air ventilation systems): Not explicitly mentioned in Topic 6.</li><li>Option 2 (Lab surfaces): Not explicitly mentioned in Topic 6.</li><li>Option 3 (Lab equipment): Not explicitly mentioned in Topic 6.</li><li>Option 4 (Lab water): This is explicitly mentioned as the component vulnerable to microbial contamination in Topic 6.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly specifies 'lab water' as the medium for microbial contamination.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Microbial contamination is highlighted as a risk for Lab water.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Lab water" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "What immediate action is prescribed in Topic 6 in response to microbial contamination of laboratory water?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Disinfection protocols" },
+        { "type": "string", "content": "Reporting to supervisor" },
+        { "type": "string", "content": "First aid" },
+        { "type": "string", "content": "Water replacement" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Emergency Response", "Microbial Hazard Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Response to Microbial Contamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>First Aid:</em> Immediate assistance given to someone injured or ill, to minimize harm and preserve life until professional medical help arrives.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the immediate action mentioned in Topic 6 for microbial contamination of lab water.</div><p><strong>Step 1: Refer to Topic 6 of the Course Outline.</strong><br/>Topic 6 states: 'Microbial contamination of lab water, <span style='color:var(--orange);font-weight:bold;'>first aid</span>'.</p><ul><li>Evaluating options:</li><li>Option 1 (Disinfection protocols): While relevant, 'first aid' is the explicit term used.</li><li>Option 2 (Reporting to supervisor): This is a procedural step, not an immediate action for the contamination itself.</li><li>Option 3 (First aid): This is explicitly stated as the immediate action for microbial contamination in Topic 6.</li><li>Option 4 (Water replacement): This is a corrective action, not necessarily the immediate personal aid.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly includes 'first aid' in relation to microbial contamination.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ First aid is the immediate action prescribed in Topic 6 in response to microbial contamination of laboratory water.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "First aid" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which topic comprehensively covers the prevention, management, and initial emergency response for incidents involving electrical currents?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Types of laboratory hazard" },
+        { "type": "string", "content": "Electric shocks: precautions and treatment, First aid box and artificial examination" },
+        { "type": "string", "content": "Causes of hazard" },
+        { "type": "string", "content": "Treatment of acid burns" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Electrical Safety Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Electrical Incident Management</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Comprehensive Coverage:</em> A topic that includes multiple facets of a subject, such as prevention, response, and specific aid.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic that encompasses prevention, management, and emergency response for electrical incidents.</div><p><strong>Step 1: Review topic titles for keywords related to 'electric shocks', 'precautions', 'treatment', and 'first aid'.</strong><br/>Looking at the course outline:<br/>- Topic 7: <span style='color:var(--orange);font-weight:bold;'>Electric shocks: precautions and treatment, First aid box and artificial examination</span><br/>This title explicitly includes all aspects mentioned in the question: precautions (prevention), treatment (management), and First aid box/artificial examination (initial emergency response).</p><ul><li>Evaluating options:</li><li>Option 1 (Types of laboratory hazard): This only lists types, not management strategies.</li><li>Option 2 (Electric shocks: precautions and treatment, First aid box and artificial examination): This title directly and comprehensively addresses all aspects of electrical incident management mentioned in the question.</li><li>Option 3 (Causes of hazard): This focuses on origins, not prevention or response.</li><li>Option 4 (Treatment of acid burns): This is unrelated to electrical incidents.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The question is a direct match to the comprehensive title of Topic 7.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The topic that comprehensively covers the prevention, management, and initial emergency response for incidents involving electrical currents is 'Electric shocks: precautions and treatment, First aid box and artificial examination'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Electric shocks: precautions and treatment, First aid box and artificial examination" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Regarding electric shocks, what aspect of safety is covered first in Topic 7?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Rehabilitation methods" },
+        { "type": "string", "content": "Long-term effects" },
+        { "type": "string", "content": "Precautions" },
+        { "type": "string", "content": "Post-incident investigation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shock Safety", "Prevention"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Order of Electric Shock Safety Aspects</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Precaution:</em> A measure taken in advance to prevent something dangerous, unpleasant, or inconvenient from happening.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the initial aspect of electric shock safety addressed in Topic 7.</div><p><strong>Step 1: Refer to Topic 7 of the Course Outline.</strong><br/>Topic 7 states: 'Electric shocks: <span style='color:var(--orange);font-weight:bold;'>precautions</span> and treatment, First aid box and artificial examination'. 'Precautions' is listed first, indicating the initial focus.</p><ul><li>Evaluating options:</li><li>Option 1 (Rehabilitation methods): Not explicitly mentioned as the primary focus, or first aspect.</li><li>Option 2 (Long-term effects): Not explicitly mentioned.</li><li>Option 3 (Precautions): This is the first aspect mentioned in the topic title for electric shocks.</li><li>Option 4 (Post-incident investigation): This is not explicitly mentioned as the first aspect; artificial examination is a post-incident assessment, but 'precautions' comes first.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title clearly lists 'precautions' before 'treatment', indicating its primary coverage.</div><p style='color='var(--cAns)';font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Regarding electric shocks, precautions is the aspect of safety covered first in Topic 7.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Precautions" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Following precautions, what other critical aspect of electric shock incidents is addressed in Topic 7?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Legal implications" },
+        { "type": "string", "content": "Equipment maintenance" },
+        { "type": "string", "content": "Treatment" },
+        { "type": "string", "content": "Budget allocation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Electric Shock Safety", "Emergency Response"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Electric Shock Response</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Treatment:</em> The application of medical care or intervention to alleviate an injury or illness.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the aspect of electric shock incidents addressed in Topic 7 immediately following precautions.</div><p><strong>Step 1: Refer to Topic 7 of the Course Outline.</strong><br/>Topic 7 states: 'Electric shocks: precautions and <span style='color:var(--orange);font-weight:bold;'>treatment</span>, First aid box and artificial examination'. 'Treatment' is listed immediately after 'precautions'.</p><ul><li>Evaluating options:</li><li>Option 1 (Legal implications): Not mentioned in Topic 7.</li><li>Option 2 (Equipment maintenance): While related to safety, it's not the explicit focus after precautions.</li><li>Option 3 (Treatment): This is explicitly mentioned as the next aspect after precautions in the topic title.</li><li>Option 4 (Budget allocation): Not mentioned in Topic 7.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly states 'precautions and treatment', confirming 'treatment' as the next covered aspect.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Following precautions, treatment is the other critical aspect of electric shock incidents addressed in Topic 7.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Treatment" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "What crucial emergency resource is specifically mentioned in Topic 7 for electric shock incidents?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Automated external defibrillator (AED)" },
+        { "type": "string", "content": "Emergency contact list" },
+        { "type": "string", "content": "Fire extinguisher" },
+        { "type": "string", "content": "First aid box" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Emergency Equipment", "Electric Shock Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Emergency Resources for Electric Shock</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>First Aid Box:</em> A container holding supplies used for giving simple medical treatment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a specific emergency resource mentioned in Topic 7 for electric shock incidents.</div><p><strong>Step 1: Refer to Topic 7 of the Course Outline.</strong><br/>Topic 7 states: 'Electric shocks: precautions and treatment, <span style='color:var(--orange);font-weight:bold;'>First aid box</span> and artificial examination'.</p><ul><li>Evaluating options:</li><li>Option 1 (Automated external defibrillator (AED)): While relevant for severe electrical shocks, it is not explicitly mentioned in the topic title.</li><li>Option 2 (Emergency contact list): This is a procedure, not a physical resource mentioned.</li><li>Option 3 (Fire extinguisher): This is for fire incidents, not explicitly for electric shock treatment in the topic.</li><li>Option 4 (First aid box): This is explicitly mentioned as a resource for electric shock incidents.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title explicitly lists 'First aid box' as a component of managing electric shocks.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A First aid box is the crucial emergency resource specifically mentioned in Topic 7 for electric shock incidents.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "First aid box" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "What type of post-incident assessment or procedure is mentioned in Topic 7 for electric shock victims?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Psychological counseling" },
+        { "type": "string", "content": "Equipment damage assessment" },
+        { "type": "string", "content": "Artificial examination" },
+        { "type": "string", "content": "Detailed medical history review" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Post-Incident Procedure", "Electric Shock Assessment"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Electric Shock Post-Incident Assessment</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Artificial Examination:</em> In a medical context, this could refer to a simulated or manual assessment, often related to resuscitation or checking vital signs.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific post-incident assessment or procedure mentioned in Topic 7 for electric shock victims.</div><p><strong>Step 1: Refer to Topic 7 of the Course Outline.</strong><br/>Topic 7 states: 'Electric shocks: precautions and treatment, First aid box and <span style='color:var(--orange);font-weight:bold;'>artificial examination</span>'.</p><ul><li>Evaluating options:</li><li>Option 1 (Psychological counseling): Not explicitly mentioned in Topic 7.</li><li>Option 2 (Equipment damage assessment): This is not an assessment of the victim.</li><li>Option 3 (Artificial examination): This is explicitly mentioned as a procedure for electric shock victims.</li><li>Option 4 (Detailed medical history review): Not explicitly mentioned in Topic 7.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly includes 'artificial examination' in the context of electric shock response.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Artificial examination is the type of post-incident assessment or procedure mentioned in Topic 7 for electric shock victims.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Artificial examination" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Which topic in the course outline addresses the responsible handling and removal of materials that emit radiation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Microbial contamination of lab water" },
+        { "type": "string", "content": "Electric shocks: precautions and treatment" },
+        { "type": "string", "content": "Disposal of radioactive water; sealed and unsealed, radioactive sources" },
+        { "type": "string", "content": "Treatment of inhalation and swallowing of toxic acids" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Topic Identification", "Radioactive Waste Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Radioactive Material Management</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Radioactive Waste Disposal:</em> The process of safely removing and containing materials that emit radiation to prevent environmental contamination and harm to living beings.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the topic that covers the handling and removal (disposal) of radioactive materials.</div><p><strong>Step 1: Review topic titles for keywords related to 'radioactive', 'disposal', or 'sources'.</strong><br/>Looking at the course outline:<br/>- Topic 8: <span style='color:var(--orange);font-weight:bold;'>Disposal of radioactive water; sealed and unsealed, radioactive sources</span><br/>This title directly addresses the responsible handling and removal of radiation-emitting materials.</p><ul><li>Evaluating options:</li><li>Option 1 (Microbial contamination of lab water): This is unrelated to radioactive materials.</li><li>Option 2 (Electric shocks: precautions and treatment): This is unrelated to radioactive materials.</li><li>Option 3 (Disposal of radioactive water; sealed and unsealed, radioactive sources): This title explicitly covers the disposal of radioactive materials in various forms.</li><li>Option 4 (Treatment of inhalation and swallowing of toxic acids): This is unrelated to radioactive materials.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title clearly specifies 'radioactive' and 'disposal', directly answering the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The topic that addresses the responsible handling and removal of materials that emit radiation is 'Disposal of radioactive water; sealed and unsealed, radioactive sources'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Disposal of radioactive water; sealed and unsealed, radioactive sources" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "What specific liquid waste material is mentioned in Topic 8 as requiring special disposal procedures due to its radioactive nature?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Spent solvents" },
+        { "type": "string", "content": "Contaminated reagents" },
+        { "type": "string", "content": "Radioactive water" },
+        { "type": "string", "content": "Acidic effluent" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Waste Type", "Radioactive Waste Disposal"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Radioactive Liquid Waste Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Liquid Waste:</em> Waste materials that are in a fluid state.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the specific liquid waste material mentioned in Topic 8 that requires special disposal due to radioactivity.</div><p><strong>Step 1: Refer to Topic 8 of the Course Outline.</strong><br/>Topic 8 states: 'Disposal of <span style='color:var(--orange);font-weight:bold;'>radioactive water</span>; sealed and unsealed, radioactive sources'.</p><ul><li>Evaluating options:</li><li>Option 1 (Spent solvents): Not explicitly mentioned as radioactive waste in Topic 8.</li><li>Option 2 (Contaminated reagents): Not explicitly mentioned as radioactive waste in Topic 8.</li><li>Option 3 (Radioactive water): This is explicitly mentioned as a liquid radioactive waste requiring disposal.</li><li>Option 4 (Acidic effluent): Not explicitly mentioned as radioactive waste in Topic 8.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly names 'radioactive water' as a specific item for disposal.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Radioactive water is the specific liquid waste material mentioned in Topic 8 as requiring special disposal procedures due to its radioactive nature.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Radioactive water" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Radioactive sources requiring disposal are categorized into which two primary forms in Topic 8?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Solid and liquid" },
+        { "type": "string", "content": "Natural and artificial" },
+        { "type": "string", "content": "Sealed and unsealed" },
+        { "type": "string", "content": "High-level and low-level" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Radioactive Source Classification", "Waste Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classification of Radioactive Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Sealed Source:</em> A radioactive source that is permanently encapsulated in a protective material to prevent dispersion of radioactive material. <em>Unsealed Source:</em> A radioactive source that is not permanently encapsulated and can be easily dispersed as a gas, liquid, or powder.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the two primary forms (categories) into which radioactive sources are divided for disposal purposes in Topic 8.</div><p><strong>Step 1: Refer to Topic 8 of the Course Outline.</strong><br/>Topic 8 states: 'Disposal of radioactive water; <span style='color:var(--orange);font-weight:bold;'>sealed and unsealed, radioactive sources</span>'. The text explicitly categorizes radioactive sources as 'sealed' and 'unsealed'.</p><ul><li>Evaluating options:</li><li>Option 1 (Solid and liquid): While forms of waste, not the specific categorization mentioned for *sources*.</li><li>Option 2 (Natural and artificial): A classification based on origin, not mentioned in Topic 8.</li><li>Option 3 (Sealed and unsealed): This is the explicit categorization given in Topic 8 for radioactive sources.</li><li>Option 4 (High-level and low-level): A classification based on radioactivity level, not mentioned in Topic 8.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The topic title directly specifies 'sealed and unsealed' as the classification for radioactive sources.</div><p style='color='var(--cAns)';font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Radioactive sources requiring disposal are categorized into sealed and unsealed forms in Topic 8.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Sealed and unsealed" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Which term describes radioactive sources that are NOT permanently encapsulated and can be easily dispersed?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Contained sources" },
+        { "type": "string", "content": "Stable sources" },
+        { "type": "string", "content": "Unsealed sources" },
+        { "type": "string", "content": "Passive sources" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Radioactive Source Definition", "Waste Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Unsealed Radioactive Sources</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Unsealed Source:</em> A radioactive source that is not permanently encapsulated and can be easily dispersed as a gas, liquid, or powder. This contrasts with 'sealed sources' which are contained.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that describes radioactive sources not permanently encapsulated and prone to dispersion, based on the categories in Topic 8.</div><p><strong>Step 1: Refer to Topic 8 of the Course Outline and the listed categories.</strong><br/>Topic 8 states: 'Disposal of radioactive water; <span style='color:var(--orange);font-weight:bold;'>sealed and unsealed, radioactive sources</span>'. The term 'unsealed' directly implies a lack of permanent encapsulation and potential for dispersion, contrasting with 'sealed' sources.</p><ul><li>Evaluating options:</li><li>Option 1 (Contained sources): This would refer to sealed sources or generally managed sources.</li><li>Option 2 (Stable sources): This refers to non-radioactive isotopes, not a classification for radioactive sources based on containment.</li><li>Option 3 (Unsealed sources): This term explicitly describes sources that are not permanently encapsulated and thus prone to dispersion.</li><li>Option 4 (Passive sources): This refers to sources that do not require external power, not related to encapsulation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The prompt refers to the opposite of 'sealed' and implies potential for dispersion, which aligns with the definition of 'unsealed' sources.</div><p style='color='var(--cAns)';font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The term that describes radioactive sources that are NOT permanently encapsulated and can be easily dispersed is Unsealed sources.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Unsealed sources" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "What is the primary definition of a 'hazard' as provided in the document?",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Definition", "Safety Fundamentals"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Hazard</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard:</em> A potential source of harm or adverse health effect. In safety contexts, clearly defining a hazard is the first step in risk assessment and management.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'hazard' as explicitly stated in the document.</div><p><strong>Step 1: Locate the definition of 'Hazards' in the document.</strong><br/>The document under the main heading 'LABORATORY HAZARD AND SAFETY' provides a direct definition: <span style='color:var(--orange);font-weight:bold;'>\"Hazards: are any situation that can cause damage or harm.\"</span></p><ul><li>Mark-scheme points for a full-credit answer:</li><li>Clearly state that a hazard is a situation.</li><li>Specify that this situation has the potential to cause 'damage' or 'harm'.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The answer directly quotes the definition provided in the document, ensuring accuracy and completeness as per the source material. A common mistake would be to provide a generic definition not matching the document's specific phrasing.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A hazard, as defined in the document, is any situation that can cause damage or harm.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A hazard, as defined in the document, is any situation that can cause damage or harm." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Discuss two distinct types of laboratory hazards explicitly mentioned in the course outline, and explain one critical measure for protecting oneself from acid burns.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Types", "Acid Burn Protection", "Laboratory Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Laboratory Hazards and Acid Burn Protection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Hazard Types:</em> Classifications of potential sources of harm based on their nature (e.g., chemical, electrical). <em>Personal Protective Equipment (PPE):</em> Specialized gear worn to minimize exposure to hazards.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question requires identifying two specific types of laboratory hazards from the outline and detailing a key protection method against acid burns.</div><p><strong>Step 1: Identify two distinct types of laboratory hazards.</strong><br/>The course outline, under Topic 2, explicitly lists 'Types of laboratory hazard (<span style='color:var(--orange);font-weight:bold;'>chemical, electrical etc</span>)'. Therefore, two distinct types are chemical hazards and electrical hazards.</p><p><strong>Step 2: Explain a critical measure for protecting against acid burns.</strong><br/>Under the section 'HOW TO PROTECT ONE'S SELF FROM ACID BURNS', the document states: '<span style='color:var(--orange);font-weight:bold;'>1) Always wear PPE (Personal protective equipment)</span>'. This is a critical and explicitly mentioned protective measure.</p><ul><li>Mark-scheme points for a full-credit answer:</li><li>Clearly state 'Chemical hazard' as one type of laboratory hazard.</li><li>Clearly state 'Electrical hazard' as a second type of laboratory hazard.</li><li>Explain that a critical measure for protection from acid burns is to 'Always wear PPE'.</li><li>Define or elaborate on PPE, stating it stands for 'Personal Protective Equipment'.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'>Verification: The answer draws directly from two different sections of the course outline (Topic 2 and the 'HOW TO PROTECT...' section), ensuring that multiple distinct concepts are addressed comprehensively. A common oversight might be to list only one type of hazard or neglect to define PPE.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The course outline explicitly mentions two distinct types of laboratory hazards: <b>chemical hazards</b> and <b>electrical hazards</b>. A critical measure for protecting oneself from acid burns, as outlined, is to <b>always wear PPE (Personal Protective Equipment)</b>. This equipment creates a barrier between the worker and the hazardous substance, minimizing direct exposure to corrosive materials.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The course outline explicitly mentions two distinct types of laboratory hazards: **chemical hazards** and **electrical hazards**. A critical measure for protecting oneself from acid burns, as outlined, is to **always wear PPE (Personal Protective Equipment)**. This equipment creates a barrier between the worker and the hazardous substance, minimizing direct exposure to corrosive materials." }
+  }
+]
+```
