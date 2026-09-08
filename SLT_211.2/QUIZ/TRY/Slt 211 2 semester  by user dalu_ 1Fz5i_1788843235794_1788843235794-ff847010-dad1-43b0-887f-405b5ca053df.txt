@@ -1,0 +1,792 @@
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "According to OSHA, which of the following is considered a 'Health Hazard' chemical?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A combustible liquid" },
+        { "type": "string", "content": "An oxidizer" },
+        { "type": "string", "content": "A carcinogen" },
+        { "type": "string", "content": "An organic peroxide" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chemical Hazards", "Health Hazard Definition", "OSHA Regulations"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>OSHA Chemical Health Hazard</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> OSHA defines a chemical health hazard as one for which there is statistically significant evidence that acute or chronic health effects may occur in exposed employees. This includes carcinogens, toxic agents, reproductive toxins, irritants, corrosives, sensitizers, hepatotoxins, nephrotoxins, neurotoxins, and agents that damage specific body systems (e.g., lungs, skin, eyes, mucous membranes, hematopoietic system).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify a chemical classification that falls under OSHA's 'Health Hazard' definition.</div><strong>Step 1: Understand 'Health Hazard' vs. 'Physical Hazard'.</strong> OSHA categorizes hazardous chemicals into two main types: health hazards and physical hazards. Health hazards relate to effects on the body, while physical hazards relate to inherent physical properties like flammability or explosiveness.<br/><strong>Step 2: Review the provided options against the definitions.</strong><ul><li> A combustible liquid: This is a property related to the physical behavior of a substance, classified as a <span style='color:var(--orange);font-weight:bold;'>Physical Hazard</span>.</li><li> An oxidizer: This refers to a chemical that facilitates combustion or other chemical reactions, categorized as a <span style='color:var(--orange);font-weight:bold;'>Physical Hazard</span>.</li><li> A carcinogen: This is a substance capable of causing cancer, which is a direct effect on health, making it a <span style='color:var(--orange);font-weight:bold;'>Health Hazard</span>.</li><li> An organic peroxide: This is a class of organic compounds containing the peroxide functional group, known for being unstable and potentially explosive, classifying it as a <span style='color:var(--orange);font-weight:bold;'>Physical Hazard</span>.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Physical hazards generally describe the intrinsic properties of a chemical that can cause harm (e.g., flammability, explosivity), while health hazards describe the adverse biological effects on a living organism (e.g., toxicity, carcinogenicity). The option 'carcinogen' clearly falls into the latter category.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A carcinogen is considered an 'Health Hazard' chemical by OSHA.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A carcinogen" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is defined by OSHA as a 'Physical Hazard'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A sensitizer" },
+        { "type": "string", "content": "A reproductive toxin" },
+        { "type": "string", "content": "An irritant" },
+        { "type": "string", "content": "A pyrophoric chemical" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chemical Hazards", "Physical Hazard Definition", "OSHA Regulations"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>OSHA Chemical Physical Hazard</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> OSHA defines a physically hazardous chemical as one for which there is scientifically valid evidence that it is a combustible liquid, a compressed gas, explosive, flammable, an organic peroxide, an oxidizer, pyrophoric, unstable (reactive), or water-reactive. These hazards relate to the physical and chemical properties of the substance itself.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify a chemical classification that falls under OSHA's 'Physical Hazard' definition.</div><strong>Step 1: Differentiate 'Physical Hazard' from 'Health Hazard'.</strong> Physical hazards deal with properties like flammability, explosivity, or reactivity. Health hazards deal with effects on the body.<br/><strong>Step 2: Evaluate the options against the definition of a Physical Hazard.</strong><ul><li> A sensitizer: This is a chemical that can cause allergic reactions upon re-exposure, making it a <span style='color:var(--orange);font-weight:bold;'>Health Hazard</span>.</li><li> A reproductive toxin: This is a substance that can cause adverse effects on sexual function and fertility, or developmental toxicity, classifying it as a <span style='color:var(--orange);font-weight:bold;'>Health Hazard</span>.</li><li> An irritant: This is a chemical that causes inflammation upon contact with living tissue, thus a <span style='color:var(--orange);font-weight:bold;'>Health Hazard</span>.</li><li> A pyrophoric chemical: This is a substance that ignites spontaneously in air at or below 54°C (130°F), which is a physical property related to reactivity, classifying it as a <span style='color:var(--orange);font-weight:bold;'>Physical Hazard</span>.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> A simple check confirms that pyrophoric substances are listed directly under the definition of a 'Physical Hazard' in the safety guide, unlike sensitizers, reproductive toxins, and irritants which are categorized as 'Health Hazards'.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A pyrophoric chemical is defined by OSHA as a 'Physical Hazard'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A pyrophoric chemical" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following is a potential pathway for chemical hazard exposure?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Absorption through intact skin" },
+        { "type": "string", "content": "Osmosis through semi-permeable membranes" },
+        { "type": "string", "content": "Diffusion through air currents only" },
+        { "type": "string", "content": "Catalysis upon contact with inert surfaces" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chemical Hazards", "Exposure Pathways"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chemical Exposure Pathways</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Chemical hazard exposure can occur through various routes including skin absorption or contact, injection, spill or splash, aerosol distribution with exposure on skin, contact with eyes, inhalation, ingestion, and explosion.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify a valid pathway for chemical hazard exposure.</div><strong>Step 1: Identify known chemical exposure pathways from the safety guide.</strong> The document lists several ways chemical exposure can occur.<br/><strong>Step 2: Evaluate each option against the documented pathways.</strong><ul><li> Absorption through intact skin: The document explicitly lists <span style='color:var(--orange);font-weight:bold;'>'Skin absorption or contact'</span> as a pathway. This is a direct route for chemicals to enter the body.</li><li> Osmosis through semi-permeable membranes: While osmosis is a biological process, it is not listed as a primary pathway for chemical hazard exposure in the context of laboratory safety in the document.</li><li> Diffusion through air currents only: While aerosols involve airborne particles, the document specifies <span style='color:var(--orange);font-weight:bold;'>'Aerosol distribution with exposure on skin'</span> and <span style='color:var(--orange);font-weight:bold;'>'Inhalation'</span>, not merely passive diffusion without specific exposure type.</li><li> Catalysis upon contact with inert surfaces: Catalysis is a chemical process, not a direct human exposure pathway.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Skin absorption is a well-known and explicitly stated route of exposure in the guide, highlighting the need for protective apparel. The other options describe phenomena not directly listed as exposure pathways in the document or are chemically inaccurate as exposure routes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Absorption through intact skin is a potential pathway for chemical hazard exposure.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Absorption through intact skin" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "A common potential risk of chemical exposure in a laboratory is:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Enhanced cognitive function" },
+        { "type": "string", "content": "Increased metabolic rate" },
+        { "type": "string", "content": "Dermatitis" },
+        { "type": "string", "content": "Improved immune response" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chemical Hazards", "Potential Risks"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Potential Risks of Chemical Exposure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Potential risks of chemical exposure include respiratory damage, burns, dermatitis, loss of vision, physical disability, acute mild or severe injury, and chronic toxicity including cancer and death.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify a common potential risk associated with chemical exposure in a laboratory setting.</div><strong>Step 1: Recall the list of potential risks from chemical exposure.</strong> The document provides a clear list of negative health outcomes.<br/><strong>Step 2: Compare the given options to the documented risks.</strong><ul><li> Enhanced cognitive function: This is a beneficial effect, not a risk of chemical exposure.</li><li> Increased metabolic rate: This is not listed as a direct risk of chemical exposure; chemical exposure generally leads to adverse effects.</li><li> Dermatitis: This is explicitly listed as a <span style='color:var(--orange);font-weight:bold;'>potential risk</span> of chemical exposure, referring to inflammation of the skin.</li><li> Improved immune response: This is a beneficial effect, not a risk of chemical exposure.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The document clearly outlines adverse health effects as risks. Dermatitis is a common skin condition caused by contact with irritants or allergens, making it a very plausible and listed risk in a chemical laboratory.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Dermatitis is a common potential risk of chemical exposure in a laboratory.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Dermatitis" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which type of coverall is specifically described as featuring taped and bound seams, designed for chemical spray, and having an elastic waist for better fit?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "DuPont™ Tychem® SL Coveralls" },
+        { "type": "string", "content": "Kimberly-Clark® KleenGuard® A70 Chemical Spray Coveralls" },
+        { "type": "string", "content": "DuPont™ Tyvek® Coveralls" },
+        { "type": "string", "content": "Kimberly-Clark® KleenGuard® A60 Coveralls" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chemical Hazards", "Personal Protective Equipment", "Coveralls"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Specific Coverall Features</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Different types of coveralls are designed with specific features for varying levels of protection against chemical exposure, including materials, seam construction, and fit.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify a specific type of coverall based on its described features: taped and bound seams, chemical spray design, and elastic waist.</div><strong>Step 1: Review the descriptions of various coveralls mentioned in the document.</strong> Pay close attention to unique features.<br/><strong>Step 2: Match the described features to the product descriptions.</strong><ul><li> DuPont™ Tychem® SL Coveralls: These feature <span style='color:var(--orange);font-weight:bold;'>bound seams</span> and are useful for wet and dry chemicals, but the description does not specifically mention taped seams or an elastic waist for better fit in the same detail as the answer.</li><li> Kimberly-Clark® KleenGuard® A70 Chemical Spray Coveralls: The description for these coveralls explicitly states they <span style='color:var(--orange);font-weight:bold;'>'Feature taped and bound seams'</span>, 'Design offers 12% more chest room and 6% longer body length. <span style='color:var(--orange);font-weight:bold;'>Elastic waist for better fit</span>. Water-resistant zipper and wick-away lining for enhanced comfort.' This aligns perfectly with the question's criteria.</li><li> DuPont™ Tyvek® Coveralls: These have <span style='color:var(--orange);font-weight:bold;'>serged seams</span> and provide limited splash protection, but not the specific combination of taped seams, chemical spray design, and elastic waist described.</li><li> Kimberly-Clark® KleenGuard® A60 Coveralls: These provide protection against nonhazardous liquids, dry particulates, and bloodborne pathogens. The description mentions breathable fabric and three-layer construction, but not the specific seam and waist features as the A70.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The term "Chemical Spray" in the product name itself suggests its intended use, reinforcing the match with the question's criteria. The detailed feature list is unique to the A70 coveralls among the options provided.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Kimberly-Clark® KleenGuard® A70 Chemical Spray Coveralls are described with taped and bound seams, designed for chemical spray, and an elastic waist.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Kimberly-Clark® KleenGuard® A70 Chemical Spray Coveralls" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "DuPont™ Tyvek® Coveralls are explicitly cautioned against use around:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Sub-micron airborne particles" },
+        { "type": "string", "content": "Limited splash situations" },
+        { "type": "string", "content": "Potentially flammable or explosive environments" },
+        { "type": "string", "content": "Strong acids" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Chemical Hazards", "Personal Protective Equipment", "Coveralls Warnings"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>DuPont™ Tyvek® Coverall Limitations</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> While protective against certain hazards, specific types of personal protective equipment (PPE) may have limitations or warnings against use in certain environments, such as those involving high heat or flammability.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about an explicit caution for DuPont™ Tyvek® Coveralls.</div><strong>Step 1: Locate the description for DuPont™ Tyvek® Coveralls.</strong> The document provides details for several coverall types.<br/><strong>Step 2: Identify any 'Alert' or 'Warning' statements for these coveralls.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Alert: Not for use around heat, flames, sparks or in potentially flammable or explosive environments.'</span><br/><strong>Step 3: Evaluate the options against this warning.</strong><ul><li> Sub-micron airborne particles: Tyvek coveralls are noted to <span style='color:var(--orange);font-weight:bold;'>'Provide excellent inherent protection against sub-micron airborne particles'</span>, so this is an area of protection, not a caution against use.</li><li> Limited splash situations: Tyvek coveralls <span style='color:var(--orange);font-weight:bold;'>'Also provide limited splash protection'</span>, meaning they are designed for this to some extent, not cautioned against it.</li><li> Potentially flammable or explosive environments: This directly matches the <span style='color:var(--orange);font-weight:bold;'>'Alert'</span> stated in the product description.</li><li> Strong acids: While certain chemicals may degrade Tyvek, the explicit warning given is about heat and flammability, not specifically strong acids as a general caution for use.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The 'Alert' is a critical safety instruction. Ignoring it in flammable environments could lead to severe injury, underscoring the importance of understanding PPE limitations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ DuPont™ Tyvek® Coveralls are explicitly cautioned against use around potentially flammable or explosive environments.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Potentially flammable or explosive environments" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "What is a key feature of the Fisherbrand® Polycarbonate Faceshield regarding UV protection?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It offers 50% UV protection up to 380nm." },
+        { "type": "string", "content": "It provides 99.9% UV protection up to 380nm." },
+        { "type": "string", "content": "It blocks only visible light." },
+        { "type": "string", "content": "It offers UV protection exclusively for wavelengths above 400nm." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Eye/Face Protection", "Faceshields", "UV Protection"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Fisherbrand® Polycarbonate Faceshield Features</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Personal protective equipment, such as faceshields, are designed to offer specific levels of protection against various hazards, including ultraviolet (UV) radiation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about a key UV protection feature of the Fisherbrand® Polycarbonate Faceshield.</div><strong>Step 1: Locate the description for the Fisherbrand® Polycarbonate Faceshield.</strong><br/><strong>Step 2: Identify the specific details regarding UV protection.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Provides 99.9% UV protection up to 380nm.'</span><br/><strong>Step 3: Compare this information with the provided options.</strong><ul><li> It offers 50% UV protection up to 380nm: This percentage is incorrect.</li><li> It provides 99.9% UV protection up to 380nm: This statement accurately reflects the product description.</li><li> It blocks only visible light: This is incorrect; it specifically mentions UV protection.</li><li> It offers UV protection exclusively for wavelengths above 400nm: This is incorrect; it specifies up to 380nm, covering UVA and some UVB.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> High UV protection up to a specific wavelength (380nm) is a critical safety feature for laboratory equipment, ensuring adequate protection against harmful radiation for the user's face.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Fisherbrand® Polycarbonate Faceshield provides 99.9% UV protection up to 380nm.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It provides 99.9% UV protection up to 380nm." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What type of ventilation do Fisherbrand® Chemical-Splash Goggles feature to direct airflow over the lens?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Direct ventilation" },
+        { "type": "string", "content": "Passive ventilation" },
+        { "type": "string", "content": "Indirect ventilation" },
+        { "type": "string", "content": "Forced-air ventilation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Eye/Face Protection", "Goggles", "Ventilation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Fisherbrand® Chemical-Splash Goggles Ventilation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Goggles designed for chemical splash protection often use specific ventilation types to prevent fogging and allow airflow while still providing a barrier against liquid hazards. Indirect ventilation channels air without allowing direct entry of splashes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the specific type of ventilation in Fisherbrand® Chemical-Splash Goggles.</div><strong>Step 1: Locate the product description for Fisherbrand® Chemical Splash and Impact Goggles.</strong><br/><strong>Step 2: Identify the ventilation type specified for the chemical-splash variant.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Chemical-splash goggles...feature indirect ventilation to direct airflow over the lens.'</span><br/><strong>Step 3: Compare this with the options.</strong><ul><li> Direct ventilation: This is mentioned for 'Impact goggles,' but not for the chemical-splash variant, which needs more protection.</li><li> Passive ventilation: This is a general term and not the specific type mentioned for directing airflow.</li><li> Indirect ventilation: This precisely matches the description for Fisherbrand® Chemical-Splash Goggles.</li><li> Forced-air ventilation: This implies an active mechanism, which is not mentioned in the description.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Indirect ventilation is a standard design feature for chemical splash goggles to prevent liquids from entering the eye area while still allowing air circulation, differentiating them from impact goggles that may have direct perforations.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Fisherbrand® Chemical-Splash Goggles feature indirect ventilation to direct airflow over the lens.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Indirect ventilation" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "What crucial safety warning is given regarding the use of faceshields for eye protection?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Faceshields should always be cleaned with abrasive materials." },
+        { "type": "string", "content": "Faceshields must be used in conjunction with protective spectacles or goggles." },
+        { "type": "string", "content": "Faceshields offer complete protection without additional eyewear." },
+        { "type": "string", "content": "Faceshields are only for use against impact, not chemical splash." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Eye/Face Protection", "Faceshields", "Safety Warnings"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Faceshield Safety Warning</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Personal protective equipment often has specific usage instructions to ensure maximum effectiveness and user safety. Some PPE items are designed to be used in combination with others for comprehensive protection.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about a crucial safety warning regarding faceshield use.</div><strong>Step 1: Locate the description for Fisherbrand® Polycarbonate Faceshield.</strong><br/><strong>Step 2: Find the 'Alert' section associated with this product.</strong> The alert states: <span style='color:var(--orange);font-weight:bold;'>'Alert: Faceshields should be used in conjunction with protective spectacles or goggles to ensure appropriate eye protection against chemical splash or impact.'</span><br/><strong>Step 3: Evaluate the options based on this alert.</strong><ul><li> Faceshields should always be cleaned with abrasive materials: This is not stated and would likely damage the faceshield.</li><li> Faceshields must be used in conjunction with protective spectacles or goggles: This matches the explicit warning provided.</li><li> Faceshields offer complete protection without additional eyewear: This contradicts the warning, as faceshields are not standalone eye protection.</li><li> Faceshields are only for use against impact, not chemical splash: The warning mentions both chemical splash and impact, indicating they provide protection against both when used correctly.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> This warning is essential because faceshields protect the entire face but may not seal perfectly around the eyes, leaving a gap for splashes or projectiles to reach the eyes from beneath or the sides. Therefore, primary eye protection (goggles or spectacles) is critical.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The crucial safety warning is that faceshields must be used in conjunction with protective spectacles or goggles.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Faceshields must be used in conjunction with protective spectacles or goggles." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "What is identified as the leading cause of industrial fires by OSHA?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Electrical surges" },
+        { "type": "string", "content": "Improper handling of flammable liquids" },
+        { "type": "string", "content": "Spontaneous combustion of waste materials" },
+        { "type": "string", "content": "Overloaded circuits" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Fire Fighting", "Industrial Fires", "OSHA Statistics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Leading Cause of Industrial Fires</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Understanding the primary causes of industrial fires is critical for implementing effective prevention strategies and ensuring workplace safety.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify the leading cause of industrial fires according to OSHA.</div><strong>Step 1: Locate the 'DID YOU KNOW?' box related to fire hazards.</strong> This box is usually used for important safety statistics or facts.<br/><strong>Step 2: Identify the specific statistic regarding industrial fires.</strong> The box states: <span style='color:var(--orange);font-weight:bold;'>'DID YOU KNOW? Improper handling of flammable liquids is the leading cause of industrial fires. Source: OSHA'</span><br/><strong>Step 3: Compare this fact with the given options.</strong><ul><li> Electrical surges: While a cause of fires, it's not identified as the *leading* cause.</li><li> Improper handling of flammable liquids: This directly matches the statement from the document.</li><li> Spontaneous combustion of waste materials: Not identified as the leading cause.</li><li> Overloaded circuits: While a cause of fires, it's not identified as the *leading* cause.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> This statistic emphasizes the importance of proper training and equipment for handling flammable substances to mitigate a significant fire risk in industrial settings.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Improper handling of flammable liquids is identified as the leading cause of industrial fires by OSHA.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Improper handling of flammable liquids" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "North™ Silver Shield®/4H® Laminate Gloves are characterized by their construction from how many layers?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Two-layer" },
+        { "type": "string", "content": "Three-layer" },
+        { "type": "string", "content": "Four-layer" },
+        { "type": "string", "content": "Five-layer" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Gloves", "Chemical Resistance", "Laminate Gloves"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>North™ Silver Shield®/4H® Glove Construction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The construction and materials of protective gloves are crucial for their effectiveness against specific hazards, such as chemical permeation. Multi-layer laminates are often used for enhanced barrier properties.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the number of layers in the construction of North™ Silver Shield®/4H® Laminate Gloves.</div><strong>Step 1: Locate the description for North™ Silver Shield®/4H® Laminate Gloves.</strong><br/><strong>Step 2: Identify the detail regarding their construction material.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Made from an exceptionally thin, lightweight, five-layer laminate of PE and EVOH.'</span><br/><strong>Step 3: Compare this information with the options.</strong><ul><li> Two-layer: Incorrect.</li><li> Three-layer: Incorrect.</li><li> Four-layer: Incorrect.</li><li> Five-layer: This matches the product description.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The five-layer laminate design is a specific feature intended to provide superior protection against a broad range of chemicals, indicating a high-performance material for chemical resistance.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ North™ Silver Shield®/4H® Laminate Gloves are constructed from five layers.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Five-layer" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "What is the efficiency rating of 3M™ 6000 Series Cartridge/P100 Particulate Filter Combinations against solid and liquid aerosols?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "95%" },
+        { "type": "string", "content": "99.97%" },
+        { "type": "string", "content": "99.00%" },
+        { "type": "string", "content": "90%" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Respirators", "Filter Efficiency", "Particulate Protection"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>3M™ 6000 Series Filter Efficiency</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Respirator filters are rated based on their efficiency in capturing particulates, with P100 being a high-level designation indicating protection against both oil-based and non-oil-based aerosols.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the efficiency rating of 3M™ 6000 Series Cartridge/P100 Particulate Filter Combinations against solid and liquid aerosols.</div><strong>Step 1: Locate the description for 3M™ 6000 Series Cartridge/P100 Particulate Filter Combinations.</strong><br/><strong>Step 2: Identify the stated efficiency rating.</strong> The description specifies: <span style='color:var(--orange);font-weight:bold;'>'Cartridge/filter assemblies using P100 filters are 99.97% efficient against solid and liquid aerosols, including oils.'</span><br/><strong>Step 3: Compare this value with the provided options.</strong><ul><li> 95%: This is typically the efficiency for N95 or P95 filters, not P100.</li><li> 99.97%: This is the exact efficiency stated in the document for P100 filters.</li><li> 99.00%: While high, it is not the precise efficiency rating given for P100 filters.</li><li> 90%: This is significantly lower than the P100 rating.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The P100 rating indicates a very high level of filtration efficiency, which is accurately reflected by the 99.97% figure. This ensures superior protection in environments with airborne contaminants.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The 3M™ 6000 Series Cartridge/P100 Particulate Filter Combinations have an efficiency rating of 99.97% against solid and liquid aerosols.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "99.97%" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is the primary characteristic that defines biohazards?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Their flammability and explosive potential" },
+        { "type": "string", "content": "Their ability to cause skin irritation upon contact" },
+        { "type": "string", "content": "Their risk or potential risk to the health of humans, animals, or the environment" },
+        { "type": "string", "content": "Their capacity to corrode metals and tissues" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Biohazards", "Definition"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Biohazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Biohazards are a distinct category of laboratory hazards related to biological materials that pose a threat to living organisms and the environment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the primary characteristic defining biohazards.</div><strong>Step 1: Locate the definition of 'Biohazards' in the document.</strong><br/><strong>Step 2: Identify the core elements of this definition.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'Biohazards are infectious agents or hazardous biological materials that present a risk or potential risk to the health of humans, animals or the environment.'</span><br/><strong>Step 3: Evaluate the options against this definition.</strong><ul><li> Their flammability and explosive potential: These describe physical hazards, not biohazards.</li><li> Their ability to cause skin irritation upon contact: While a potential health effect, it is not the primary defining characteristic of a biohazard, which is broader.</li><li> Their risk or potential risk to the health of humans, animals, or the environment: This directly matches the definition provided in the document.</li><li> Their capacity to corrode metals and tissues: This describes corrosive chemicals, not biohazards.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The definition emphasizes the biological nature and the broad impact on living systems and the environment, distinguishing biohazards from chemical or physical hazards.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary characteristic that defines biohazards is their risk or potential risk to the health of humans, animals, or the environment.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Their risk or potential risk to the health of humans, animals, or the environment" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Which of the following is listed as a potential risk of biological hazards?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Explosion from flammable gases" },
+        { "type": "string", "content": "Acute chemical burns" },
+        { "type": "string", "content": "Allergic reaction" },
+        { "type": "string", "content": "Electrocution" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Biohazards", "Potential Risks"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Potential Risks of Biological Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Working with biological materials can lead to specific types of risks that differ from those associated with chemical or physical hazards. These risks often involve interactions with living systems.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify a potential risk specifically associated with biological hazards.</div><strong>Step 1: Refer to the section on 'Potential risks of biological hazards' in the document.</strong><br/><strong>Step 2: Identify the listed risks.</strong> These include exposure to infectious material or preservatives, animal bites, <span style='color:var(--orange);font-weight:bold;'>allergic reaction</span>, cell damage, potential bloodborne pathogen exposure, and eye or skin irritation.<br/><strong>Step 3: Evaluate the options against this list.</strong><ul><li> Explosion from flammable gases: This is a risk associated with physical hazards (flammable chemicals).</li><li> Acute chemical burns: This is a risk associated with chemical hazards.</li><li> Allergic reaction: This is explicitly listed as a potential risk of biological hazards, particularly in relation to animal exposure.</li><li> Electrocution: This is a risk associated with electrical hazards, not directly biological.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Allergic reactions are a common and significant concern when working with biological agents, especially animals or their dander, making it a distinct biological hazard.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Allergic reaction is listed as a potential risk of biological hazards.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Allergic reaction" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "In the biosafety level (BSL) classification system, what does a higher number BSL indicate?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A lower risk to the external environment" },
+        { "type": "string", "content": "A greater risk to the external environment" },
+        { "type": "string", "content": "A simpler containment procedure" },
+        { "type": "string", "content": "A reduction in the number of infectious agents" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Biohazards", "Biosafety Levels", "Risk Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Biosafety Level (BSL) Interpretation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Biosafety Levels (BSLs) are a set of containment precautions used to protect laboratory workers, the public, and the environment from biological agents. The levels range from BSL1 to BSL4, corresponding to increasing levels of hazard and necessary containment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the meaning of a higher number in the BSL classification system.</div><strong>Step 1: Locate the explanation of biosafety levels in the 'Biohazards' section.</strong><br/><strong>Step 2: Identify the relationship between BSL number and risk.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'As of 2006, this classification system consists of four biosafety levels (BSL1 through BSL4); higher numbers indicate a greater risk to the external environment.'</span><br/><strong>Step 3: Compare this statement with the options.</strong><ul><li> A lower risk to the external environment: This contradicts the document.</li><li> A greater risk to the external environment: This directly matches the information provided.</li><li> A simpler containment procedure: This is incorrect; higher risks necessitate more complex and stringent containment procedures.</li><li> A reduction in the number of infectious agents: BSL refers to the risk associated with agents, not their quantity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Higher BSLs (e.g., BSL-4 for highly dangerous, exotic agents) require more elaborate facilities, equipment, and practices, which logically corresponds to managing a greater risk.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A higher number in the BSL classification system indicates a greater risk to the external environment.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A greater risk to the external environment" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What material is used for the outer layer of Kimberly-Clark® KleenGuard® A60 Coveralls, offering improved liquid barrier?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Polyethylene film coating on Tyvek® fabric" },
+        { "type": "string", "content": "Microporous, nonwoven film laminate" },
+        { "type": "string", "content": "PVC/polyester knit" },
+        { "type": "string", "content": "80/20 polycotton fabric" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Biohazards", "Personal Protective Equipment", "Coveralls Materials"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Kimberly-Clark® KleenGuard® A60 Coveralls Material</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The choice of material in protective apparel directly impacts its performance against specific hazards, such as liquid penetration or particulate filtration.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the material of the outer layer of Kimberly-Clark® KleenGuard® A60 Coveralls for liquid barrier.</div><strong>Step 1: Locate the description for Kimberly-Clark® KleenGuard® A60 Coveralls.</strong><br/><strong>Step 2: Identify the material mentioned for its liquid barrier property.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Microporous, nonwoven film laminate offers an improved liquid barrier over SMS apparel.'</span> It also mentions they 'Provide exceptional protection against nonhazardous liquids, dry particulates, and bloodborne pathogens'.<br/><strong>Step 3: Evaluate the options against this information.</strong><ul><li> Polyethylene film coating on Tyvek® fabric: This describes DuPont™ Tyvek® QC Coveralls.</li><li> Microporous, nonwoven film laminate: This precisely matches the description for A60 Coveralls.</li><li> PVC/polyester knit: This describes Neese™ Three-Piece Acid Suit.</li><li> 80/20 polycotton fabric: This describes Fisherbrand® Unisex Lab Coats.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The term 'microporous film laminate' implies a material designed to allow breathability while creating a barrier against liquids, which is a common feature for advanced protective apparel.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Kimberly-Clark® KleenGuard® A60 Coveralls use microporous, nonwoven film laminate for an improved liquid barrier.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Microporous, nonwoven film laminate" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "DuPont™ RelyOn™ Broad-Spectrum Disinfectant Products are effective against which types of microorganisms?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Bacteria and viruses only" },
+        { "type": "string", "content": "Fungi and parasites only" },
+        { "type": "string", "content": "Tuberculocidal, bactericidal, virucidal, and fungicidal" },
+        { "type": "string", "content": "Only non-enveloped viruses" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cleaning and Decontamination", "Disinfectants", "Microorganism Efficacy"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>DuPont™ RelyOn™ Disinfectant Efficacy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Disinfectants are crucial for controlling biological hazards, and their 'broad-spectrum' efficacy refers to their ability to kill or inactivate a wide range of microorganisms.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the types of microorganisms DuPont™ RelyOn™ Broad-Spectrum Disinfectant Products are effective against.</div><strong>Step 1: Locate the description for DuPont™ RelyOn™ Broad-Spectrum Disinfectant Products.</strong><br/><strong>Step 2: Identify the specific terms describing its efficacy.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Tuberculocidal, bactericidal, virucidal, and fungicidal.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Bacteria and viruses only: This is incomplete, as it also covers tuberculosis and fungi.</li><li> Fungi and parasites only: This is incorrect; it covers more than just fungi and does not mention parasites.</li><li> Tuberculocidal, bactericidal, virucidal, and fungicidal: This accurately and completely reflects the product's listed efficacy.</li><li> Only non-enveloped viruses: The term 'virucidal' covers a broader range of viruses and does not specify enveloped vs. non-enveloped.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> A broad-spectrum disinfectant is essential in laboratories dealing with diverse biological hazards, ensuring a comprehensive approach to decontamination. The list provided directly indicates this broad efficacy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ DuPont™ RelyOn™ Broad-Spectrum Disinfectant Products are effective against tuberculocidal, bactericidal, virucidal, and fungicidal microorganisms.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Tuberculocidal, bactericidal, virucidal, and fungicidal" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Minuteman® Bio-Haz™ Vacuums are designed to safely collect hazardous biological particulates, including:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Heavy metals and solvents" },
+        { "type": "string", "content": "Stachybotrys, aspergillus, and penicillium molds" },
+        { "type": "string", "content": "Radioactive dust" },
+        { "type": "string", "content": "Broken glass fragments" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cleaning and Decontamination", "Biohazard Vacuums", "Particulate Collection"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Minuteman® Bio-Haz™ Vacuums Application</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Specialized equipment, such as bio-hazard vacuums, is necessary for the safe containment and removal of specific hazardous materials to prevent environmental contamination and protect personnel.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the specific types of hazardous biological particulates collected by Minuteman® Bio-Haz™ Vacuums.</div><strong>Step 1: Locate the description for Minuteman® Bio-Haz™ Vacuums.</strong><br/><strong>Step 2: Identify the list of biological particulates they are designed to collect.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Dry vacuums designed to safely collect hazardous biological particulates including stachybotrys, aspergillus, and penicillium molds; anthrax spores; and smallpox virus.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Heavy metals and solvents: These are chemical hazards, not biological particulates collected by this specific bio-hazard vacuum.</li><li> Stachybotrys, aspergillus, and penicillium molds: This aligns directly with the list provided in the product description.</li><li> Radioactive dust: This is a radiological hazard, for which specific radioactive decontamination equipment would be used.</li><li> Broken glass fragments: This is a physical hazard, typically handled with specialized tools and disposal, not the primary focus of a bio-hazard vacuum.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The specificity of the listed molds and spores (e.g., anthrax, smallpox virus) confirms the vacuum's design for highly sensitive biological contamination scenarios, emphasizing its specialized function.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Minuteman® Bio-Haz™ Vacuums are designed to safely collect hazardous biological particulates, including stachybotrys, aspergillus, and penicillium molds.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Stachybotrys, aspergillus, and penicillium molds" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What characteristic uniquely describes the hidden nature of radiation hazards compared to other dangers?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They are easily detectable by sight and smell." },
+        { "type": "string", "content": "They can't be seen, smelt, tasted, heard, or felt until damage has occurred." },
+        { "type": "string", "content": "They are always accompanied by visible light emission." },
+        { "type": "string", "content": "Their presence is indicated by a strong, distinct odor." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Radiological Hazards", "Radiation Detection", "Hazard Characteristics"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Unique Nature of Radiation Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Radiation hazards pose a unique challenge in safety management because, unlike many chemical or physical hazards, they are often imperceptible to human senses, making detection reliant on specialized equipment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the unique characteristic of radiation hazards that makes them hidden.</div><strong>Step 1: Locate the introductory description for 'Radiological Hazards'.</strong><br/><strong>Step 2: Identify the statement that highlights their imperceptible nature.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'Unlike the countless recognizable dangers you may face from day to day, the hazards and threats posed by radiation are uniquely hidden. You can't see, smell, taste, hear or feel radiation until it's too late and damage has been done.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> They are easily detectable by sight and smell: This contradicts the document.</li><li> They can't be seen, smelt, tasted, heard, or felt until damage has occurred: This directly matches the description.</li><li> They are always accompanied by visible light emission: This is incorrect; many forms of radiation are invisible.</li><li> Their presence is indicated by a strong, distinct odor: This is incorrect; radiation typically has no odor.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> This characteristic underscores the critical need for dosimeters, surveys, and strict protocols in radiation environments, as human senses are insufficient for early detection.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Radiation hazards uniquely can't be seen, smelt, tasted, heard, or felt until damage has occurred.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They can't be seen, smelt, tasted, heard, or felt until damage has occurred." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Besides solid radioactive materials and radioactive chemicals, what other sources contribute to radiological hazards in a laboratory?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Magnetic fields and sonic waves" },
+        { "type": "string", "content": "Ultraviolet (UV) radiation and laser radiation" },
+        { "type": "string", "content": "High pressure and vacuum systems" },
+        { "type": "string", "content": "Static electricity and humidity" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Radiological Hazards", "Exposure Sources"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Sources of Radiological Hazards</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Radiological hazards in a laboratory are not limited to ionizing radiation from radioisotopes but also encompass other forms of non-ionizing radiation that can pose risks.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for additional sources of radiological hazards beyond solid radioactive materials and chemicals.</div><strong>Step 1: Locate the section 'Radiological hazards may occur while working with:'.</strong><br/><strong>Step 2: Identify the listed sources of radiation.</strong> The list includes: <span style='color:var(--orange);font-weight:bold;'>'Solid radioactive materials or waste', 'Radioactive chemicals (corrosives, flammables, liquids, powders, etc.)', 'Ultraviolet radiation', and 'Laser radiation'.</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Magnetic fields and sonic waves: These are not listed as radiological hazards in the document.</li><li> Ultraviolet (UV) radiation and laser radiation: These are explicitly listed as sources of radiological hazards.</li><li> High pressure and vacuum systems: These are mechanical or physical hazards, not radiological.</li><li> Static electricity and humidity: These are environmental factors or electrical concerns, not radiological hazards.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> UV and laser radiation, while distinct from traditional nuclear radiation, are forms of electromagnetic radiation that can cause biological damage and are therefore managed under broader radiological safety protocols.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ultraviolet (UV) radiation and laser radiation are other sources contributing to radiological hazards in a laboratory.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Ultraviolet (UV) radiation and laser radiation" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "The Thermo Scientific® EPD™ Mk2 Electronic Personal Dosimeter is designed to produce a linear response over a wide energy range and is suitable for use with which types of radiation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Alpha particles and microwaves" },
+        { "type": "string", "content": "Gamma, beta, and x-radiation" },
+        { "type": "string", "content": "Neutrons and radio waves" },
+        { "type": "string", "content": "Infrared and visible light" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Radiological Hazards", "Dosimeters", "Radiation Detection"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermo Scientific® EPD™ Mk2 Dosimeter Functionality</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Personal dosimeters are crucial devices used to measure an individual's exposure to various forms of ionizing radiation, ensuring compliance with safety limits and early detection of overexposure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the types of radiation that the Thermo Scientific® EPD™ Mk2 Electronic Personal Dosimeter is suitable for.</div><strong>Step 1: Locate the description for Thermo Scientific® EPD™ Mk2 Electronic Personal Dosimeter.</strong><br/><strong>Step 2: Identify the types of radiation it detects.</strong> The description specifies: <span style='color:var(--orange);font-weight:bold;'>'Excellent response to gamma, beta, and x-radiation with immunity to electromagnetic interference.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Alpha particles and microwaves: Alpha particles are a type of radiation, but microwaves are not mentioned for this device.</li><li> Gamma, beta, and x-radiation: This aligns perfectly with the product description.</li><li> Neutrons and radio waves: Neutrons are a type of radiation, but radio waves are not mentioned for this device.</li><li> Infrared and visible light: These are non-ionizing forms of radiation and are not the primary targets for a personal dosimeter for radiological hazards.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Gamma, beta, and x-radiation are common forms of ionizing radiation encountered in laboratory settings where radioactive materials are handled, making the EPD™ Mk2 a versatile monitoring device.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Thermo Scientific® EPD™ Mk2 Electronic Personal Dosimeter is suitable for use with gamma, beta, and x-radiation.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Gamma, beta, and x-radiation" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "What is a common source of injury in glassware handling hazards related to manipulating tubing?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Cuts from dull scissors used to cut tubing" },
+        { "type": "string", "content": "Burns from hot plastic tubing" },
+        { "type": "string", "content": "Cuts from forcing plastic tubing, teats, or rubber bungs onto glass tubing" },
+        { "type": "string", "content": "Splinters from wooden tubing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glassware Handling Hazards", "Common Injuries"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Glassware Handling Injury Source</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Glassware handling in laboratories presents specific risks, with mechanical stress on glass components being a frequent cause of breakage and subsequent injury.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about a common source of injury when manipulating tubing related to glassware handling.</div><strong>Step 1: Locate the section 'Hazards posed by damaged or broken glass include:'.</strong><br/><strong>Step 2: Identify the specific injury source related to tubing.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'Cuts from forcing plastic tubing, teats or rubber bungs onto glass tubing, pipettes or condensers that break.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Cuts from dull scissors used to cut tubing: While possible, this specific action is not listed as a primary hazard in the document.</li><li> Burns from hot plastic tubing: This is a thermal hazard, not specifically listed under glassware handling cuts.</li><li> Cuts from forcing plastic tubing, teats, or rubber bungs onto glass tubing: This directly matches the hazard described in the document.</li><li> Splinters from wooden tubing: Wooden tubing is not a typical material encountered in laboratory glassware hazards.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The action of forcing components together can exert significant pressure on the glass, leading to sudden and dangerous breakage, resulting in lacerations. This is a common laboratory accident.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cuts from forcing plastic tubing, teats, or rubber bungs onto glass tubing is a common source of injury in glassware handling.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cuts from forcing plastic tubing, teats, or rubber bungs onto glass tubing" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "When cleaning up broken glassware, what critical precaution should always be followed?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Use a vacuum cleaner to pick up small shards." },
+        { "type": "string", "content": "Never pick up broken glassware with bare hands." },
+        { "type": "string", "content": "Sweep glass towards a drain for easy disposal." },
+        { "type": "string", "content": "Dispose of broken glass in the regular waste bin." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glassware Handling Hazards", "Broken Glass Cleanup", "Safety Precautions"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Broken Glassware Cleanup Precautions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Safe handling and disposal of broken glassware are essential to prevent cuts and punctures, which are among the most common laboratory injuries. Specific tools and practices are required.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about a critical precaution for cleaning up broken glassware.</div><strong>Step 1: Locate the section 'Precautions to be undertaken:' under 'Glassware-handling Hazards'.</strong><br/><strong>Step 2: Identify the specific precautions related to handling broken glass.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'In the event of breakage, clean broken glassware with a brush and dustpan. Never pick up broken glassware with bare hands.'</span> It also advises 'Always wear hand protection when cleaning up broken glassware.'<br/><strong>Step 3: Evaluate the options.</strong><ul><li> Use a vacuum cleaner to pick up small shards: The document specifically mentions a brush and dustpan, not a vacuum.</li><li> Never pick up broken glassware with bare hands: This is a direct and explicit instruction from the document.</li><li> Sweep glass towards a drain for easy disposal: This is a highly unsafe practice and not mentioned as a precaution.</li><li> Dispose of broken glass in the regular waste bin: The document states: 'Never dispose of broken glass in the laboratory's general refuse container. Place all broken glassware in a separate, dedicated puncture-proof box.' This option is incorrect.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Directly handling broken glass with bare hands is a primary cause of cuts and is universally cautioned against in laboratory safety guidelines, underscoring the importance of protective measures like gloves and appropriate tools.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When cleaning up broken glassware, a critical precaution is to never pick it up with bare hands.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Never pick up broken glassware with bare hands." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "According to the U.S. Department of Labor, what percentage of incidental workplace deaths are caused by slips and falls?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "5 percent" },
+        { "type": "string", "content": "10 percent" },
+        { "type": "string", "content": "15 percent" },
+        { "type": "string", "content": "20 percent" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Slip and Fall Hazards", "Workplace Statistics", "OSHA Data"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Slip and Fall Workplace Fatality Statistics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Understanding the impact of slips and falls, particularly their contribution to workplace fatalities, highlights the importance of preventative measures in occupational safety.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the percentage of incidental workplace deaths caused by slips and falls, according to the U.S. Department of Labor.</div><strong>Step 1: Locate the 'Did You Know?' section under 'Slip and Fall Hazards'.</strong><br/><strong>Step 2: Identify the specific statistic regarding workplace deaths.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'According to the U.S. Department of Labor, 15 percent of incidental workplace deaths are caused by slips and falls, second only to traffic accident fatalities.'</span><br/><strong>Step 3: Compare this percentage with the given options.</strong><ul><li> 5 percent: This is incorrect.</li><li> 10 percent: This is incorrect.</li><li> 15 percent: This matches the statistic provided in the document.</li><li> 20 percent: This refers to the percentage of *all occupational injuries* in 2006, not incidental workplace deaths.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> This statistic underscores the severity of slips and falls, positioning them as a major contributor to workplace fatalities and emphasizing the necessity of robust safety protocols.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the U.S. Department of Labor, 15 percent of incidental workplace deaths are caused by slips and falls.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "15 percent" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "In the hierarchy of hazard controls, which method is considered the most effective?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Administrative controls" },
+        { "type": "string", "content": "Engineering controls" },
+        { "type": "string", "content": "Personal Protective Equipment (PPE)" },
+        { "type": "string", "content": "Remove Hazard" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Controls", "Hierarchy of Controls", "Risk Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hierarchy of Hazard Controls Effectiveness</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The hierarchy of controls is a system used to determine how to implement feasible and effective control solutions. It's often represented as an inverted pyramid, with the most effective controls at the top.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to identify the most effective method in the hierarchy of hazard controls.</div><strong>Step 1: Refer to the 'Hazard Controls' diagram.</strong> The diagram shows a clear hierarchy, with 'Most effective' indicated at the top.<br/><strong>Step 2: Identify the control method at the very top of the hierarchy.</strong> The diagram shows <span style='color:var(--orange);font-weight:bold;'>'Remove Hazard'</span> at the apex of the 'Most effective' end.<br/><strong>Step 3: Evaluate the options against this visual hierarchy.</strong><ul><li> Administrative controls: These are mid-level controls, less effective than engineering controls or hazard removal.</li><li> Engineering controls: These are more effective than administrative controls but less effective than removing the hazard.</li><li> Personal Protective Equipment (PPE): This is at the 'Least effective' end of the hierarchy.</li><li> Remove Hazard: This is at the 'Most effective' end, as it eliminates the source of the danger.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Eliminating the hazard completely is inherently the most effective way to prevent harm, as it removes the source of the risk rather than just reducing exposure or protecting against it.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In the hierarchy of hazard controls, 'Remove Hazard' is considered the most effective method.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Remove Hazard" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Which control method is typically considered the 'Last Resort' in the hierarchy of hazard controls?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Engineering controls" },
+        { "type": "string", "content": "Administrative controls" },
+        { "type": "string", "content": "Hazard removal" },
+        { "type": "string", "content": "Personal Protective Equipment (PPE)" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Controls", "Hierarchy of Controls", "Risk Management"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hierarchy of Hazard Controls: Least Effective</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The hierarchy of controls ranks risk management strategies from most effective (eliminating the hazard) to least effective (relying on individual protection). The least effective methods are considered last resorts because they don't remove the hazard itself but merely protect the worker from it.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks which control method is considered the 'Last Resort' in the hierarchy of hazard controls.</div><strong>Step 1: Refer to the 'Hazard Controls' diagram.</strong> The diagram explicitly labels the bottom of the pyramid as 'Least effective'.<br/><strong>Step 2: Identify the control method at the bottom, labeled 'Least effective'.</strong> The diagram shows <span style='color:var(--orange);font-weight:bold;'>'PPE'</span> at this position, with the note 'Protect worker from hazard – Last Resort'.<br/><strong>Step 3: Evaluate the options.</strong><ul><li> Engineering controls: These are higher up in the hierarchy, more effective than PPE.</li><li> Administrative controls: These are also more effective than PPE.</li><li> Hazard removal: This is the most effective control method.</li><li> Personal Protective Equipment (PPE): This is explicitly described as the 'Last Resort' to protect workers from hazards.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> PPE is the least effective because it relies on consistent proper use by the individual, can fail, and does not eliminate the hazard from the environment. It is used when other controls are not feasible or sufficient.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Personal Protective Equipment (PPE) is typically considered the 'Last Resort' in the hierarchy of hazard controls.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Personal Protective Equipment (PPE)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "What was the former acronym used for Safety Data Sheets (SDS)?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "HCS" },
+        { "type": "string", "content": "MSDS" },
+        { "type": "string", "content": "OSHA" },
+        { "type": "string", "content": "EHS" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Communication", "Safety Data Sheets", "Acronyms"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Former Acronym for Safety Data Sheets</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Safety regulations and standards, including those for chemical information, periodically evolve. The Hazard Communication Standard transitioned from requiring Material Safety Data Sheets to Safety Data Sheets, standardizing the format and content.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the former acronym for Safety Data Sheets (SDS).</div><strong>Step 1: Locate the 'SDS Hazard Communication' section.</strong><br/><strong>Step 2: Identify the statement explicitly mentioning the former name.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'Safety Data Sheets – SDS (formerly MSDS)'</span>.<br/><strong>Step 3: Compare this with the options.</strong><ul><li> HCS: This refers to Hazard Communication Standard.</li><li> MSDS: This is the correct former acronym, standing for Material Safety Data Sheet.</li><li> OSHA: This is the Occupational Safety and Health Administration.</li><li> EHS: This stands for Environmental Health & Safety.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The transition from MSDS to SDS was a global harmonization effort to improve consistency and clarity in chemical safety information. Knowing the former term is relevant for understanding older documentation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The former acronym used for Safety Data Sheets (SDS) was MSDS.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "MSDS" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Which statement accurately describes Universal Waste according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It consists of hazardous wastes generated in small quantities with high hazard." },
+        { "type": "string", "content": "It is exempt from all hazardous waste regulations." },
+        { "type": "string", "content": "It consists of certain hazardous wastes universally generated in large quantities with limited hazard." },
+        { "type": "string", "content": "It is exclusively composed of non-hazardous recyclable materials." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Universal Waste", "Waste Management", "Hazardous Waste Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Universal Waste Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Universal waste is a category of hazardous waste with relaxed regulations for collection, storage, and transport, aiming to encourage proper disposal rather than landfilling. This category applies to commonly generated hazardous wastes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for an accurate description of Universal Waste from the document.</div><strong>Step 1: Locate the 'Universal Waste' section in the OSU training materials.</strong><br/><strong>Step 2: Identify the defining characteristics of Universal Waste.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'Certain haz wastes universally generated in large quantities with limited hazard'</span> and 'Exempt from full haz waste regs'.<br/><strong>Step 3: Evaluate the options.</strong><ul><li> It consists of hazardous wastes generated in small quantities with high hazard: This contradicts the description of 'large quantities' and 'limited hazard'.</li><li> It is exempt from all hazardous waste regulations: The document says 'Exempt from <span style='color:var(--orange);font-weight:bold;'>full</span> haz waste regs', implying it's not exempt from ALL regulations, but a subset.</li><li> It consists of certain hazardous wastes universally generated in large quantities with limited hazard: This statement precisely matches the definition in the document.</li><li> It is exclusively composed of non-hazardous recyclable materials: Universal waste is explicitly defined as a type of *hazardous waste*, not non-hazardous.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The classification of universal waste is designed to make it easier for institutions and the public to manage common hazardous items by streamlining regulations, which is facilitated by their large generation and relatively lower immediate hazard compared to other hazardous wastes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Universal Waste consists of certain hazardous wastes universally generated in large quantities with limited hazard.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It consists of certain hazardous wastes universally generated in large quantities with limited hazard." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Which of the following items is explicitly identified as an example of Universal Waste in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Sharps containers" },
+        { "type": "string", "content": "Biological waste bags" },
+        { "type": "string", "content": "Fluorescent light tubes" },
+        { "type": "string", "content": "Chemical spill sorbents" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Universal Waste", "Waste Examples"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Universal Waste</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Practical examples of universal waste help identify common items in laboratories and households that require special handling due to their hazardous components, even if regulated less stringently than other hazardous wastes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for an item explicitly identified as Universal Waste in the document.</div><strong>Step 1: Refer to the 'Universal Waste' section, particularly the image and associated text.</strong> The image on the 'Universal Waste' slide displays several items.<br/><strong>Step 2: Visually identify items shown as examples of Universal Waste.</strong> The image clearly shows batteries, electronics (computers, monitors), various lamps (CFLs, linear fluorescent tubes), and aerosol cans (with a 'no' symbol indicating proper disposal considerations).<br/><strong>Step 3: Evaluate the options against these visual examples.</strong><ul><li> Sharps containers: These are for biomedical waste, not universal waste.</li><li> Biological waste bags: These are for biohazardous waste, not universal waste.</li><li> Fluorescent light tubes: These are prominently displayed in the image as an example of universal waste.</li><li> Chemical spill sorbents: These would be hazardous waste if they absorb hazardous chemicals, but they are not listed as universal waste.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Fluorescent lamps contain mercury, a hazardous substance, and are a classic example of universal waste that is widely generated. The document's image directly supports this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Fluorescent light tubes are explicitly identified as an example of Universal Waste in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Fluorescent light tubes" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "According to the signage signal words, what does a 'DANGER' sign primarily indicate?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A hazardous situation that could result in minor injury or equipment damage." },
+        { "type": "string", "content": "A hazardous situation that will result in death or serious injury if not avoided." },
+        { "type": "string", "content": "Information not related to personal injury but concerning equipment or property damage." },
+        { "type": "string", "content": "A hazardous situation that could result in death or serious injury if not avoided." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Signage", "Signal Words", "Hazard Communication"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Signage Signal Word: DANGER</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Signal words on safety signs (DANGER, WARNING, CAUTION, NOTICE) convey the severity of a potential hazard and the likelihood of its outcome if precautions are not followed. DANGER indicates the highest level of hazard.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the primary indication of a 'DANGER' sign based on signage signal words.</div><strong>Step 1: Refer to the 'Signage signal words' slide.</strong> This slide provides a comparison of different signal words.<br/><strong>Step 2: Identify the description associated with 'Danger'.</strong> The description states: <span style='color:var(--orange);font-weight:bold;'>'Will result in death or serious injury'</span>.<br/><strong>Step 3: Evaluate the options.</strong><ul><li> A hazardous situation that could result in minor injury or equipment damage: This describes 'Caution'.</li><li> A hazardous situation that will result in death or serious injury if not avoided: This accurately reflects the meaning of 'Danger' as stated.</li><li> Information not related to personal injury but concerning equipment or property damage: This describes 'Notice'.</li><li> A hazardous situation that could result in death or serious injury if not avoided: This describes 'Warning' (could result), not 'Danger' (will result). The key difference is 'will' versus 'could'.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The distinction between 'will' and 'could' is crucial for signal words. 'DANGER' signifies an immediate and extremely high-risk situation where failure to comply with safety measures is almost guaranteed to lead to severe consequences.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A 'DANGER' sign primarily indicates a hazardous situation that will result in death or serious injury if not avoided.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A hazardous situation that will result in death or serious injury if not avoided." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Regarding personal hygiene, what is stated about the effectiveness of alcohol-based hand sanitizers compared to soap and running water?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Hand sanitizers are always more effective and preferred." },
+        { "type": "string", "content": "Soap and running water are more effective and preferred." },
+        { "type": "string", "content": "Both are equally effective under all circumstances." },
+        { "type": "string", "content": "Hand sanitizers are preferred only if soap and water are present." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Personal Hygiene", "Handwashing", "Sanitation"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hand Sanitizer vs. Soap and Water</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> While hand sanitizers offer a convenient method for hand hygiene, traditional handwashing with soap and running water is generally more effective at removing a broader range of germs and contaminants.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the comparative effectiveness of alcohol-based hand sanitizers and soap/running water for personal hygiene.</div><strong>Step 1: Locate the 'Personal Hygiene' slide.</strong><br/><strong>Step 2: Identify the statement comparing these two methods.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'If soap and water are not present, alcohol-based hand sanitizers may be used, but soap and running water is more effective and preferred.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Hand sanitizers are always more effective and preferred: This contradicts the document.</li><li> Soap and running water are more effective and preferred: This directly matches the statement in the document.</li><li> Both are equally effective under all circumstances: This contradicts the document, as a preference for soap and water is stated.</li><li> Hand sanitizers are preferred only if soap and water are present: This is illogical and contradicts the document, which states sanitizers may be used *if* soap and water are *not* present.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Soap and water physically remove dirt, grease, and many types of microbes, whereas sanitizers primarily inactivate them. This distinction underpins the preference for washing when available, especially after handling laboratory materials.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Regarding personal hygiene, soap and running water are more effective and preferred compared to alcohol-based hand sanitizers.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Soap and running water are more effective and preferred." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "According to the OSU training, what personal protective equipment (PPE) is recommended for hands?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Wristbands" },
+        { "type": "string", "content": "Gloves" },
+        { "type": "string", "content": "Finger guards" },
+        { "type": "string", "content": "Hand wraps" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Personal Protective Equipment", "Hand Protection", "PPE Types"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>PPE for Hand Protection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Personal protective equipment is selected based on the specific body part requiring protection and the nature of the hazard. For hands, protection against chemicals, biological agents, and physical injury is crucial.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks about the recommended PPE for hands according to the OSU training.</div><strong>Step 1: Refer to the 'Types of PPE' slide in the OSU training presentation.</strong> The slide lists various types of PPE by body part.<br/><strong>Step 2: Locate the entry for 'Hands'.</strong> It states: <span style='color:var(--orange);font-weight:bold;'>'Hands – gloves'</span>.<br/><strong>Step 3: Evaluate the options.</strong><ul><li> Wristbands: These are accessories, not typically considered PPE for hazard protection.</li><li> Gloves: This is explicitly listed as the PPE for hands.</li><li> Finger guards: While offering some protection, 'gloves' is the comprehensive and listed PPE for hands.</li><li> Hand wraps: These are not a standard form of PPE for laboratory hazards.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Gloves are fundamental PPE in laboratories, providing a barrier against chemical splashes, biological contamination, and minor physical injuries to the hands.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the OSU training, gloves are the recommended personal protective equipment for hands.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Gloves" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Regarding animal exposure, how do most allergies develop in persons who work in animal areas?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "From single, intense exposure to an animal." },
+        { "type": "string", "content": "Primarily in persons who enter animal areas occasionally but do not handle animals." },
+        { "type": "string", "content": "In persons who repeatedly handle animals rather than those who just enter the areas." },
+        { "type": "string", "content": "Through airborne transmission from animals in adjacent buildings." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Animal Exposure", "Allergy Development", "Occupational Health"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Animal Exposure Allergy Development</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Allergic reactions to animals, often called hypersensitivities, typically develop after repeated exposure to animal allergens, not from a single instance. The likelihood of developing an allergy is often correlated with the frequency and directness of contact.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks how most allergies develop in persons who work in animal areas.</div><strong>Step 1: Locate the 'Animal Exposure background information' slide.</strong><br/><strong>Step 2: Identify the statement regarding allergy development.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'Most allergies develop in persons who repeatedly handle animals rather than those who enter animal areas but do not handle the animals.'</span> It also states 'Repeated exposure required to develop allergy' and 'Allergies never develop from single exposure'.<br/><strong>Step 3: Evaluate the options.</strong><ul><li> From single, intense exposure to an animal: This contradicts the statement that allergies never develop from single exposure.</li><li> Primarily in persons who enter animal areas occasionally but do not handle animals: This contradicts the statement about handlers being most affected.</li><li> In persons who repeatedly handle animals rather than those who just enter the areas: This accurately reflects the information provided.</li><li> Through airborne transmission from animals in adjacent buildings: While airborne transmission is possible, the document emphasizes direct, repeated handling as the primary cause for allergy development in workers.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> This information highlights that direct and consistent interaction with animals, rather than casual presence, significantly increases the risk of developing animal-related allergies, guiding targeted health programs for animal handlers.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Most allergies develop in persons who repeatedly handle animals rather than those who just enter animal areas.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "In persons who repeatedly handle animals rather than those who just enter the areas." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "For safety, all compressed gas cylinders must be secured how?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Horizontally on the floor" },
+        { "type": "string", "content": "In a corner, leaning against two walls" },
+        { "type": "string", "content": "Above the center of gravity by approved supports" },
+        { "type": "string", "content": "Freestanding in an open area" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Gas Cylinder Safety", "Storage and Handling", "Compressed Gases"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Compressed Gas Cylinder Securing</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Compressed gas cylinders pose significant physical hazards if knocked over, potentially causing serious injury or releasing hazardous gases. Proper securing prevents accidental falls.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks how all compressed gas cylinders must be secured for safety.</div><strong>Step 1: Locate the 'Gas Cylinder Safety' slide.</strong><br/><strong>Step 2: Identify the primary instruction for securing cylinders.</strong> The document states: <span style='color:var(--orange);font-weight:bold;'>'All compressed gas cylinders must be secured above the center of gravity by approved supports.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Horizontally on the floor: This is generally unsafe and not recommended.</li><li> In a corner, leaning against two walls: This is not considered adequately secured by approved supports and can still allow tipping.</li><li> Above the center of gravity by approved supports: This directly matches the instruction in the document.</li><li> Freestanding in an open area: This is a highly unsafe practice and explicitly contrary to safety guidelines.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> Securing cylinders above their center of gravity, typically with chains or straps to a wall or cylinder cart, prevents them from becoming unstable and falling, which can turn them into dangerous projectiles or cause valve damage leading to uncontrolled gas release.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ All compressed gas cylinders must be secured above the center of gravity by approved supports.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Above the center of gravity by approved supports" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "What is the first step in the proper glove removal procedure to avoid contamination?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Pinch the cuff of one glove with the other gloved hand." },
+        { "type": "string", "content": "Grab the glove on the outside next to the wrist." },
+        { "type": "string", "content": "Insert a finger under the glove at the palm." },
+        { "type": "string", "content": "Pull both gloves off simultaneously." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Glove Removal", "Personal Hygiene", "Contamination Control"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Proper Glove Removal Procedure: Step 1</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> Correct glove removal is critical in preventing the transfer of contaminants from the gloves to the wearer's skin or other surfaces, thus minimizing exposure risks.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks for the first step in the proper glove removal procedure.</div><strong>Step 1: Refer to the 'PROPER GLOVE REMOVAL:' diagrammatic instructions.</strong><br/><strong>Step 2: Identify 'Step 1' in the sequence.</strong> The instruction states: <span style='color:var(--orange);font-weight:bold;'>'Step 1: Grab glove on outside next to wrist.'</span><br/><strong>Step 3: Evaluate the options.</strong><ul><li> Pinch the cuff of one glove with the other gloved hand: This is part of an incorrect or less precise method; the document specifies *next to the wrist*.</li><li> Grab the glove on the outside next to the wrist: This precisely matches the first step illustrated and described.</li><li> Insert a finger under the glove at the palm: This is a later step, not the first, and is done under the glove, not on the outside.</li><li> Pull both gloves off simultaneously: This is an unsafe practice that can lead to contamination.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> The core principle of proper glove removal is to never touch the outside (contaminated) surface of the glove with bare skin. Starting by grasping the outside of the glove near the wrist ensures the first glove is removed without contaminating the hand.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The first step in the proper glove removal procedure is to grab the glove on the outside next to the wrist.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Grab the glove on the outside next to the wrist." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Discuss the purpose and key components of the Hazard Communication Standard (HCS), including the role of Safety Data Sheets (SDS) in conveying chemical hazard information.",
+      "type": "THEORY",
+      "options": [],
+      "type": "THEORY"
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hazard Communication Standard", "Safety Data Sheets", "Chemical Hazards", "Workplace Safety"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hazard Communication Standard (HCS) and Safety Data Sheets (SDS)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Key Concept:</em> The Hazard Communication Standard is a fundamental OSHA regulation ensuring that employees are informed about chemical hazards in their workplace. Safety Data Sheets are a primary tool for providing detailed hazard information.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:10px;'><em>Given:</em> The question asks to discuss the purpose and key components of the Hazard Communication Standard and the role of Safety Data Sheets.</div><strong>Step 1: Explain the Purpose of the Hazard Communication Standard (HCS).</strong><ul><li> The primary purpose of the HCS is to <span style='color:var(--orange);font-weight:bold;'>&quot;Communicate the hazards of hazardous chemical products&quot;</span> to employees.</li><li> It ensures that employers and employees have the necessary information about chemical hazards and associated protective measures.</li><li> It is often referred to as the <span style='color:var(--orange);font-weight:bold;'>&quot;Right to Know&quot;</span> standard.</li></ul><strong>Step 2: Describe Key Components or Requirements of HCS.</strong><ul><li> <span style='color:var(--orange);font-weight:bold;'>Manufacturers and suppliers are required to provide information</span> on chemical hazards. This information must be accessible to employees.</li><li> This typically involves a comprehensive program, often outlined in an institution's Hazard Communication Plan.</li></ul><strong>Step 3: Detail the Role and Content of Safety Data Sheets (SDS).</strong><ul><li> SDS (formerly known as Material Safety Data Sheets or <span style='color:var(--orange);font-weight:bold;'>MSDS</span>) are critical documents that provide detailed information on hazardous chemicals.</li><li> For each chemical, an SDS provides <span style='color:var(--orange);font-weight:bold;'>information on hazards, a standardized format</span>, and <span style='color:var(--orange);font-weight:bold;'>procedures for handling hazardous chemicals</span>.</li><li> These sheets cover aspects like chemical identification, hazard identification, composition, first-aid measures, firefighting measures, accidental release measures, handling and storage, exposure controls/personal protection, physical and chemical properties, stability and reactivity, toxicological information, and disposal considerations.</li><li> Employee access to SDS information is crucial, often provided through online libraries or training videos.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:10px;'><em>Verification:</em> A common misconception is that the HCS only applies to manufacturing facilities; however, it is essential in any workplace, including laboratories, where hazardous chemicals are present. The SDS is not merely a list of ingredients but a comprehensive guide to safe handling, emergency response, and health effects. Without a robust HCS and readily available SDS, workers would be at significantly higher risk from chemical exposures.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Hazard Communication Standard ensures that chemical hazards are communicated to employees, primarily through Safety Data Sheets that provide comprehensive, standardized information on chemical hazards and safe handling procedures.</p></div>"
+    },
+    "Answer": "The Hazard Communication Standard (HCS) is an OSHA regulation designed to ensure that the hazards of all chemicals produced or imported are evaluated, and that information concerning their hazards is transmitted to employers and employees. Its primary purpose is to \"Communicate the hazards of hazardous chemical products,\" often referred to as the \"Right to Know\" standard.\n\nKey components and requirements of the HCS include:\n\n1.  **Manufacturer and Supplier Obligations:** Manufacturers and suppliers are mandated to provide information on chemical hazards, including proper labeling and Safety Data Sheets (SDS), for all hazardous chemical products.\n2.  **Employer Responsibilities:** Employers must ensure that employees have access to this information, typically through a written Hazard Communication Plan, training, and readily available SDS.\n\n**Role of Safety Data Sheets (SDS):**\n\nSafety Data Sheets (SDS), formerly known as Material Safety Data Sheets (MSDS), are critical documents that serve as the primary source of detailed chemical hazard information. For each hazardous chemical, an SDS provides:\n\n*   **Information on Hazards:** Detailed identification of the chemical and its associated physical and health hazards.\n*   **Standardized Format:** A uniform 16-section format, ensuring consistency and ease of understanding across different products and manufacturers.\n*   **Procedures for Handling Hazardous Chemicals:** Comprehensive guidance on safe handling, storage, spill response, first aid, personal protective equipment (PPE) requirements, and disposal methods.\n\nEmployees should have access to a library of SDS, often available online, and receive training on how to interpret and utilize the information contained within these sheets. The SDS is fundamental to ensuring employees are informed about the chemicals they work with and how to protect themselves."
+  }
+]
+```
