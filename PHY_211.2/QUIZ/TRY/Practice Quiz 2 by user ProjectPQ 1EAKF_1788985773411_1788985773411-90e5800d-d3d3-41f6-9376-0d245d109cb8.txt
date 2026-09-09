@@ -1,0 +1,1588 @@
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Multiple Choice Questions (Objective)"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "According to the document, what is the primary characteristic of a polymer?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A material composed of randomly arranged atoms." },
+        { "type": "string", "content": "A very large molecule made rapidly of repeating molecular units." },
+        { "type": "string", "content": "A substance with high electrical conductivity." },
+        { "type": "string", "content": "A natural material primarily used in construction." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polymer Definition", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polymer Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> A polymer is defined as a <span style='color:var(--orange);font-weight:bold;'>very large molecule</span> made rapidly of <span style='color:var(--orange);font-weight:bold;'>repeating molecular units</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary characteristic of a polymer based on the provided document.</div><p><strong>Step 1: Referencing the definition of a polymer.</strong><br/>The document states, \"A polymer is a very large molecule and or flexible that consists or made rapidly of many repeating molecular units.\"</p><ul><li>Option 0: Describes a material with randomly arranged atoms, which is not the defining characteristic of a polymer.</li><li>Option 1: This option accurately reflects the definition given in the document: \"A very large molecule made rapidly of repeating molecular units.\"</li><li>Option 2: High electrical conductivity is not a general characteristic of polymers; many are insulators.</li><li>Option 3: This describes wood, which is a natural material, but not the universal definition of a polymer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition explicitly provided in the document confirms that a polymer is a large molecule composed of repeating units, making option 1 the direct match.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary characteristic of a polymer is that it is a very large molecule made rapidly of repeating molecular units.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A very large molecule made rapidly of repeating molecular units." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is a characteristic property of thermoplastics?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They permanently harden after being heated and formed." },
+        { "type": "string", "content": "They cannot be reshaped or recycled." },
+        { "type": "string", "content": "They soften when heated and harden when cooled, a process that can be repeated." },
+        { "type": "string", "content": "They produce a small molecule as a by-product during formation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermoplastics Properties", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoplastic Properties</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermoplastics are polymers that <span style='color:var(--orange);font-weight:bold;'>soften when heated</span> and <span style='color:var(--orange);font-weight:bold;'>harden when cooled</span>, and this process <span style='color:var(--orange);font-weight:bold;'>can be repeated</span>. They can also be reshaped and recycled.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a characteristic property of thermoplastics.</div><p><strong>Step 1: Identifying properties of thermoplastics.</strong><br/>The document states, \"Thermoplastics soften when heated and harden when cooled, this process can be repeated.\" It also mentions that \"Thermoplastic can be reshaped and recycled.\"</p><ul><li>Option 0: This describes thermosets, not thermoplastics. Thermosets permanently harden.</li><li>Option 1: This also describes thermosets; thermoplastics can be reshaped and recycled.</li><li>Option 2: This accurately states that thermoplastics soften when heated and harden when cooled, and this process is repeatable, directly from the document.</li><li>Option 3: This refers to condensation polymerization, not a general property of thermoplastics themselves.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The definition provided for thermoplastics explicitly includes the ability to repeatedly soften upon heating and harden upon cooling.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A characteristic property of thermoplastics is that they soften when heated and harden when cooled, a process that can be repeated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They soften when heated and harden when cooled, a process that can be repeated." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following is listed as an example of a thermoplastic in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Epoxy" },
+        { "type": "string", "content": "Phenolic (bakelite)" },
+        { "type": "string", "content": "Polyethylene (PE)" },
+        { "type": "string", "content": "Lignin" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermoplastics Examples", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Thermoplastics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists <span style='color:var(--orange);font-weight:bold;'>polyethylene (PE), nylon, and PVC</span> as examples of thermoplastics.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an example of a thermoplastic as listed in the document.</div><p><strong>Step 1: Reviewing examples of thermoplastics and thermosets.</strong><br/>The document explicitly mentions \"Eng. polyethylene (PE) (nylon), PVC\" as thermoplastics. It lists \"Epoxy, phenolic (bakelite)\" as thermosets.</p><ul><li>Option 0: Epoxy is listed as an example of a thermoset.</li><li>Option 1: Phenolic (bakelite) is listed as an example of a thermoset.</li><li>Option 2: Polyethylene (PE) is explicitly listed as an example of a thermoplastic.</li><li>Option 3: Lignin is a component of wood, not a type of plastic polymer mentioned in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly provides \"polyethylene (PE)\" as an example under the section for thermoplastics.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Polyethylene (PE) is listed as an example of a thermoplastic in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Polyethylene (PE)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "What is the chemical process by which monomers join together to form a large molecule called a polymer?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Encapsulation" },
+        { "type": "string", "content": "Polymerization" },
+        { "type": "string", "content": "Casting" },
+        { "type": "string", "content": "Timbering" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polymerization Definition", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polymerization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Polymerization</span> is the chemical process by which many small molecules called <span style='color:var(--orange);font-weight:bold;'>monomers</span> join together to form a large molecule called a <span style='color:var(--orange);font-weight:bold;'>polymer</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the chemical process where monomers form polymers.</div><p><strong>Step 1: Locating the definition of this chemical process.</strong><br/>The document explicitly defines, \"#Polymerization is the chemical process by which many small molecules called monomers join together to form a large molecule called a polymer.\"</p><ul><li>Option 0: Encapsulation is a process of enclosing electronic components for protection.</li><li>Option 1: This is the correct term, matching the document's definition.</li><li>Option 2: Casting is a plastic manufacturing method, not the chemical process of polymer formation.</li><li>Option 3: Timbering refers to the processing of wood.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document provides a direct definition of polymerization that perfectly matches the description in the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The chemical process by which monomers join together to form a large molecule called a polymer is Polymerization.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Polymerization" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "In addition polymerization, what characteristic do monomers typically possess?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They contain functional groups." },
+        { "type": "string", "content": "They produce water as a by-product." },
+        { "type": "string", "content": "They contain double or triple bonds." },
+        { "type": "string", "content": "They permanently harden after heating." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Addition Polymerization", "Polymerization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Addition Polymerization Monomers</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> In addition polymerization, <span style='color:var(--orange);font-weight:bold;'>monomers containing double or triple bonds</span> join together without producing a small molecule as a by-product.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about a typical characteristic of monomers in addition polymerization.</div><p><strong>Step 1: Consulting the definition of addition polymerization.</strong><br/>The document states, \"* Addition polymerization: There are monomers containing double or triple bonds join together without producing a small molecule as a by-product.\"</p><ul><li>Option 0: Monomers containing functional groups are characteristic of condensation polymerization.</li><li>Option 1: Producing water as a by-product is characteristic of condensation polymerization.</li><li>Option 2: This accurately states that monomers in addition polymerization contain double or triple bonds, as per the document.</li><li>Option 3: This describes the property of thermosets, not the monomers in addition polymerization.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly links the presence of double or triple bonds in monomers to addition polymerization.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In addition polymerization, monomers typically contain double or triple bonds.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They contain double or triple bonds." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "What distinguishes condensation polymerization from addition polymerization?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Condensation polymerization involves monomers with double or triple bonds." },
+        { "type": "string", "content": "Condensation polymerization produces a small molecule, like water, as a by-product." },
+        { "type": "string", "content": "Condensation polymerization results in a polymer that can be reshaped and recycled." },
+        { "type": "string", "content": "Condensation polymerization requires permanent hardening after initial heating." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Condensation Polymerization", "Polymerization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Condensation Polymerization vs. Addition Polymerization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Condensation polymerization</span> involves monomers with functional groups reacting to form a polymer while <span style='color:var(--orange);font-weight:bold;'>eliminating a small molecule</span> (e.g., water). Addition polymerization does not produce a by-product.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a distinguishing feature of condensation polymerization.</div><p><strong>Step 1: Comparing definitions of the two polymerization types.</strong><br/>The document defines condensation polymerization: \"* Condensation Polymerization: These are monomers (that) contains functional groups that react together to form a polymer while eliminating a small molecule (often water).\" For addition polymerization, it states no small molecule is produced as a by-product.</p><ul><li>Option 0: Monomers with double or triple bonds are characteristic of addition polymerization, not condensation.</li><li>Option 1: This accurately describes condensation polymerization, as it explicitly mentions the elimination of a small molecule (often water).</li><li>Option 2: This describes thermoplastics, not a characteristic specific to condensation polymerization.</li><li>Option 3: This describes thermosets, which can be formed by various polymerization types, but it's not a defining characteristic of condensation polymerization itself.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document highlights the production of a small molecule like water as the key difference in condensation polymerization.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Condensation polymerization produces a small molecule, like water, as a by-product.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Condensation polymerization produces a small molecule, like water, as a by-product." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Thermoset materials are characterized by their inability to be easily softened again once reheated after initial forming. Which term best describes this property?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Thermoplasticity" },
+        { "type": "string", "content": "Reversibility" },
+        { "type": "string", "content": "Permanent hardness" },
+        { "type": "string", "content": "Recyclability" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermosets Properties", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoset Properties</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermosets are materials that become <span style='color:var(--orange);font-weight:bold;'>permanently hard</span> after being heated and formed. They do not readily soften again when reheated and cannot be reshaped or recycled.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term that best describes the property of thermosets to not soften again after initial heating and forming.</div><p><strong>Step 1: Examining the definition of thermosets.</strong><br/>The document states, \"* As (sic) plastic thermosets are materials that become permanently hard after being heated & formed. They do not readily soften again when reheated.\"</p><ul><li>Option 0: Thermoplasticity refers to the properties of thermoplastics, which *do* soften upon reheating.</li><li>Option 1: Reversibility implies that the process can be undone, which is opposite to the nature of thermosets.</li><li>Option 2: \"Permanent hardness\" accurately captures the essence of thermosets becoming irreversibly hard after heating and forming, and not softening again.</li><li>Option 3: Recyclability is a property of thermoplastics, not thermosets, which cannot be reshaped or recycled.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core characteristic of thermosets, as described, is their irreversible hardening, which aligns perfectly with "permanent hardness."</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The term that best describes this property is permanent hardness.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Permanent hardness" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Which of these is explicitly mentioned as an example of a thermoset plastic in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Polyethylene (PE)" },
+        { "type": "string", "content": "Nylon" },
+        { "type": "string", "content": "Epoxy" },
+        { "type": "string", "content": "PVC" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermosets Examples", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Thermosets</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document explicitly lists <span style='color:var(--orange);font-weight:bold;'>Epoxy and Phenolic (bakelite)</span> as examples of thermoset plastics.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an example of a thermoset plastic from the given options, based on the document.</div><p><strong>Step 1: Checking the examples provided for thermosets and thermoplastics.</strong><br/>The document lists \"Epoxy, phenolic (bakelite)\" as thermosets. It lists \"polyethylene (PE), (nylon), PVC\" as thermoplastics.</p><ul><li>Option 0: Polyethylene (PE) is listed as a thermoplastic.</li><li>Option 1: Nylon is listed as a thermoplastic.</li><li>Option 2: Epoxy is explicitly listed as a thermoset.</li><li>Option 3: PVC is listed as a thermoplastic.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states \"Epoxy\" as an example of a thermoset.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Epoxy is explicitly mentioned as an example of a thermoset plastic in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Epoxy" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Polyethylene (PE) is noted to exist in two major forms. What are these forms, as indicated in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "High Density Polyethylene & Low Density Polyethylene" },
+        { "type": "string", "content": "Solid Polyethylene & Liquid Polyethylene" },
+        { "type": "string", "content": "Thermoplastic Polyethylene & Thermoset Polyethylene" },
+        { "type": "string", "content": "Crystalline Polyethylene & Amorphous Polyethylene" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polyethylene Forms", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polyethylene Forms</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"Polyethylene: <span style='color:var(--orange);font-weight:bold;'>High density & low density polyethylene</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the two major forms of Polyethylene (PE) mentioned in the document.</div><p><strong>Step 1: Locating information about Polyethylene forms.</strong><br/>The document mentions, \"Polyethylene: High density & low density polyethylene.\"</p><ul><li>Option 0: This precisely matches the forms mentioned: \"High density & low density polyethylene.\"</li><li>Option 1: While polymers can be solid or liquid, the document specifically categorizes polyethylene by density, not by general state.</li><li>Option 2: Polyethylene is a thermoplastic itself; it does not come in thermoplastic and thermoset forms of PE.</li><li>Option 3: Crystalline and amorphous refer to molecular structure, which is not mentioned in the context of PE forms in this document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly identifies High Density and Low Density as the two forms of polyethylene.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The two forms of Polyethylene (PE) indicated in the document are High Density Polyethylene & Low Density Polyethylene.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "High Density Polyethylene & Low Density Polyethylene" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which of the following is NOT a type of plastic making process listed in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Injection moulding" },
+        { "type": "string", "content": "Extrusion" },
+        { "type": "string", "content": "Vacuum forming" },
+        { "type": "string", "content": "Hot Pressing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Plastic Making Processes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists \"Injection moulding, Compression moulding, Blow moulding (glass blowing), Vacuum forming, Casting, Hot Pressing\" as types of plastic making processes.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which process is NOT listed among the plastic making processes in the document.</div><p><strong>Step 1: Reviewing the list of plastic making processes.</strong><br/>The document provides a list under \"Types of Making Plastics:\": Injection moulding, Compression moulding, Blow moulding (glass blowing), Vacuum forming, Casting, Hot Pressing.</p><ul><li>Option 0: Injection moulding is listed.</li><li>Option 1: Extrusion is NOT listed in the document.</li><li>Option 2: Vacuum forming is listed.</li><li>Option 3: Hot Pressing is listed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> By comparing the options against the explicit list in the document, \"Extrusion\" is the only one not mentioned.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Extrusion is NOT a type of plastic making process listed in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Extrusion" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which plastic making process involves 'passing a plastic through an opening to the mould'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Compression moulding" },
+        { "type": "string", "content": "Vacuum forming" },
+        { "type": "string", "content": "Injection moulding" },
+        { "type": "string", "content": "Hot Pressing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Injection Moulding", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Injection Moulding Description</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Injection moulding</span> is described as \"Passing a plastic through an opening to the mould.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a specific plastic making process and asks for its name.</div><p><strong>Step 1: Matching the description to the listed processes.</strong><br/>The document describes \"Injection moulding\" as \"(Passing a plastic through an opening to the mould)\".</p><ul><li>Option 0: Compression moulding is listed but not described this way.</li><li>Option 1: Vacuum forming involves removing air from a mould and filling it with plastic.</li><li>Option 2: This description precisely matches that of Injection moulding.</li><li>Option 3: Hot Pressing involves powdered phenolic, compression, and heating.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The exact phrase from the document identifies injection moulding.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The plastic making process involving 'passing a plastic through an opening to the mould' is Injection moulding.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Injection moulding" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "The process described as 'removing the air out of a mould as the air gradually goes out it slowly fills the shape of the mould' refers to which plastic making technique?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Casting" },
+        { "type": "string", "content": "Blow moulding" },
+        { "type": "string", "content": "Vacuum forming" },
+        { "type": "string", "content": "Compression moulding" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Vacuum Forming", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Vacuum Forming Description</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Vacuum forming</span> is described as \"removing the air out of a mould as the plastic gradually goes out (sic) it slowly fills the shape of the mould.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question provides a description of a plastic making technique and asks for its name.</div><p><strong>Step 1: Identifying the process by its description.</strong><br/>The document describes \"Vacuum form\" as \"(removing the air out of a mould as the plastic gradually goes out it slowly fills the shape of the mould)\".</p><ul><li>Option 0: Casting is listed but not described this way.</li><li>Option 1: Blow moulding (glass blowing) is listed but not described this way.</li><li>Option 2: This description perfectly matches that of Vacuum forming.</li><li>Option 3: Compression moulding is listed but not described this way.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The text provided for \"Vacuum form\" directly matches the description in the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The process described is Vacuum forming.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Vacuum forming" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "In the context of plastic making, 'Hot Pressing' involves a powdered material and which type of plastic?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Polyethylene" },
+        { "type": "string", "content": "Nylon" },
+        { "type": "string", "content": "Phenolic" },
+        { "type": "string", "content": "PVC" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hot Pressing", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hot Pressing Material</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Hot Pressing</span> is described as a process where \"a powdered <span style='color:var(--orange);font-weight:bold;'>phenolic</span> is put into a mould and undergoes compression & heating to take the shape of the mould.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the specific powdered plastic material used in Hot Pressing.</div><p><strong>Step 1: Referring to the description of Hot Pressing.</strong><br/>The document states, \"*Hot Pressing: This is when a powdered phenolic is put into a mould and undergoes compression & heating to take the shape of the mould.\"</p><ul><li>Option 0: Polyethylene is a thermoplastic, not specifically mentioned for Hot Pressing.</li><li>Option 1: Nylon is a thermoplastic, not specifically mentioned for Hot Pressing.</li><li>Option 2: Phenolic is explicitly mentioned as the powdered plastic used in Hot Pressing.</li><li>Option 3: PVC is a thermoplastic, not specifically mentioned for Hot Pressing.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly specifies \"powdered phenolic\" in the context of Hot Pressing.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In 'Hot Pressing', the powdered material is phenolic plastic.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Phenolic" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "What is the primary purpose of encapsulation for electronic components?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To reduce their overall size." },
+        { "type": "string", "content": "To improve their aesthetic appearance." },
+        { "type": "string", "content": "To provide protection from the surrounding environment." },
+        { "type": "string", "content": "To enhance their conductivity." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Purpose", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Purpose of Encapsulation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Encapsulation</span> is defined as the process of completely enclosing an electronic component with a protective material (usually polymer or resin) to <span style='color:var(--orange);font-weight:bold;'>isolate it from the surrounding environment</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the main purpose of encapsulation for electronic components.</div><p><strong>Step 1: Locating the definition and purpose of encapsulation.</strong><br/>The document states, \"Encapsulation is the process of completely enclosing an electronic component with a protective material... to isolate it from the surrounding environment.\" It also mentions \"To avoid heat transfer, to prevent contamination.\" and other benefits.</p><ul><li>Option 0: Reducing size is not the primary purpose; encapsulation often adds size.</li><li>Option 1: While some aesthetic improvements might occur, it's not the primary functional purpose.</li><li>Option 2: This directly aligns with the document's statement about isolating components \"from the surrounding environment\" and preventing contamination.</li><li>Option 3: Encapsulation primarily provides electrical insulation, not enhanced conductivity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's initial definition of encapsulation clearly highlights isolation from the environment as its core function.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary purpose of encapsulation for electronic components is to provide protection from the surrounding environment.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To provide protection from the surrounding environment." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which of the following is listed as a type of component that is commonly encapsulated?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Electric motors" },
+        { "type": "string", "content": "Integrated circuits (ICs)" },
+        { "type": "string", "content": "Mechanical gears" },
+        { "type": "string", "content": "Hydraulic pumps" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulated Components", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Commonly Encapsulated Components</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists <span style='color:var(--orange);font-weight:bold;'>Integrated circuits (ICs), Sensors, Transistors, Capacitors, Semiconductor devices, and Printed Circuit Assemblies</span> as types of components that are encapsulated.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify a type of component commonly encapsulated, based on the document.</div><p><strong>Step 1: Consulting the list of components that are encapsulated.</strong><br/>The document lists \"Types of components that are encapsulated: Integrated circuits (ICs), Sensors, Transistors, Capacitors, Semiconductor devices, Printed Circuit Assemblies.\"</p><ul><li>Option 0: Electric motors are not mentioned in the list.</li><li>Option 1: Integrated circuits (ICs) are explicitly listed as commonly encapsulated components.</li><li>Option 2: Mechanical gears are not mentioned in the list.</li><li>Option 3: Hydraulic pumps are not mentioned in the list.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly names \"Integrated circuits (ICs)\" as a type of component that undergoes encapsulation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Integrated circuits (ICs) are listed as a type of component that is commonly encapsulated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Integrated circuits (ICs)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "One of the benefits of encapsulation is to improve resistance to which physical factors?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Light and heat" },
+        { "type": "string", "content": "Sound and pressure" },
+        { "type": "string", "content": "Vibration and shock" },
+        { "type": "string", "content": "Corrosion and rust" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Benefits of Encapsulation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Encapsulation offers several benefits, including preventing heat transfer, preventing contamination, providing electrical insulation, and <span style='color:var(--orange);font-weight:bold;'>improving resistance to vibration & shock</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about specific physical factors against which encapsulation improves resistance.</div><p><strong>Step 1: Reviewing the listed benefits of encapsulation.</strong><br/>The document lists benefits such as: \"It prevents heat transfer,\" \"It prevents contamination,\" \"It provides electrical insulation,\" \"It can improve resistance to vibration & shock,\" and \"Helps prevent tampering / accidental damage.\"</p><ul><li>Option 0: Light and heat are not directly mentioned as factors for improved resistance; heat transfer is prevented, but not resistance to light.</li><li>Option 1: Sound and pressure are not mentioned.</li><li>Option 2: This directly matches the document's statement: \"It can improve resistance to vibration & shock.\"</li><li>Option 3: Corrosion and rust are not explicitly mentioned in the list of benefits, though preventing contamination could indirectly help.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly states that encapsulation improves resistance to \"vibration & shock.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Encapsulation improves resistance to vibration and shock.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Vibration and shock" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Potting is described as a specific form of encapsulation where what kind of material is poured into a housing or mould?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A metallic alloy" },
+        { "type": "string", "content": "A liquid (like epoxy resin)" },
+        { "type": "string", "content": "A powdered ceramic" },
+        { "type": "string", "content": "A high-density polymer sheet" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Potting Definition", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Potting Material</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Potting</span> is a specific form of encapsulation where a <span style='color:var(--orange);font-weight:bold;'>liquid (like epoxy resin) or liquid material</span> is poured into a housing, enclosure, or mould.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the type of material used in potting.</div><p><strong>Step 1: Consulting the definition of potting.</strong><br/>The document defines potting: \"2) Potting: is a more specific form of encapsulation in which a liquid (like epoxy resin) or liquid material is poured into a housing, enclosure or mould containing the electronic circuit.\"</p><ul><li>Option 0: A metallic alloy is not mentioned.</li><li>Option 1: This perfectly matches the document's description: \"a liquid (like epoxy resin) or liquid material.\"</li><li>Option 2: A powdered ceramic is not mentioned. Hot Pressing uses powdered phenolic, but potting uses liquid.</li><li>Option 3: A high-density polymer sheet is not mentioned.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly identifies a liquid material, exemplified by epoxy resin, as what is poured in potting.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In potting, a liquid (like epoxy resin) or liquid material is poured into a housing or mould.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A liquid (like epoxy resin)" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of the following electronic assemblies is given as an example of what can be potted by placing it inside a plastic enclosure and covering it with epoxy resin?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A sensor array" },
+        { "type": "string", "content": "A printed circuit assembly" },
+        { "type": "string", "content": "A capacitor bank" },
+        { "type": "string", "content": "An integrated circuit" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Potting Examples", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Potting Application Example</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> As an example of potting, the document states that <span style='color:var(--orange);font-weight:bold;'>a circuit board</span> can be placed inside a small plastic enclosure and covered completely with epoxy resin. After the resin hardens, the circuit is protected.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a specific example of an electronic assembly mentioned as being potted.</div><p><strong>Step 1: Checking the example provided for potting.</strong><br/>The document gives an example: \"to examples a circuit board can be placed inside a small plastic enclosure & covered completely with epoxy resin. After the resin hardens, the circuit... (is protected).\" A circuit board is synonymous with a Printed Circuit Assembly (PCA).</p><ul><li>Option 0: Sensor arrays are generally encapsulated, but not given as *this specific* potting example.</li><li>Option 1: \"A circuit board\" is explicitly given as an example, which aligns with a printed circuit assembly.</li><li>Option 2: Capacitor banks are encapsulated, but not given as *this specific* potting example.</li><li>Option 3: Integrated circuits are encapsulated, but not given as *this specific* potting example.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly uses the term \"circuit board\" for the potting example, which is a common term for a printed circuit assembly.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A printed circuit assembly (represented by a 'circuit board') is given as an example of what can be potted.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A printed circuit assembly" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Encapsulation is particularly important for outdoor electronic devices due to which primary reason?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To enhance their wireless signal reception." },
+        { "type": "string", "content": "To provide protection from harsh environment conditions." },
+        { "type": "string", "content": "To make them aesthetically appealing for public display." },
+        { "type": "string", "content": "To reduce their power consumption." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Importance", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Importance of Encapsulation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Encapsulation is important for devices like automotive electronics, power supplies, sensors, telecommunications equipment, and <span style='color:var(--orange);font-weight:bold;'>outdoor electronic devices</span>, primarily for <span style='color:var(--orange);font-weight:bold;'>protection from harsh environment conditions</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary reason for encapsulating outdoor electronic devices.</div><p><strong>Step 1: Consulting the section on the importance of encapsulation.</strong><br/>The document states, \"automotive electronics... outdoor electronic device. Serve protection form harsh environment conditions (is) Important.\"</p><ul><li>Option 0: Enhancing wireless signal reception is not a stated reason for encapsulation.</li><li>Option 1: This directly matches the document's statement: \"Serve protection form harsh environment conditions (is) Important.\"</li><li>Option 2: Aesthetic appeal is not the primary functional reason for encapsulation in harsh environments.</li><li>Option 3: Reducing power consumption is not a stated benefit of encapsulation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The text explicitly links outdoor devices with the need for protection from harsh environmental conditions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Encapsulation is particularly important for outdoor electronic devices to provide protection from harsh environment conditions.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To provide protection from harsh environment conditions." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "The simple example of encapsulation described as 'Placing the egg in some concrete and covering the entire space around it with a molding resin' illustrates what general principle?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Improving electrical conductivity." },
+        { "type": "string", "content": "Enhancing structural rigidity." },
+        { "type": "string", "content": "Providing protective isolation." },
+        { "type": "string", "content": "Facilitating heat dissipation." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Principle", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>General Principle of Encapsulation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The simple example of placing an egg in concrete and covering it with resin illustrates encapsulation's purpose of <span style='color:var(--orange);font-weight:bold;'>protecting and isolating</span> an item from its environment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what general principle the simple encapsulation example demonstrates.</div><p><strong>Step 1: Analyzing the simple example in the context of encapsulation.</strong><br/>The document describes: \"Simple example: Encapsulation is a means of protective shell around an egg and Potting (sic) Placing the egg in some concrete and covering the entire space around it with a molding resin.\" The overall purpose of encapsulation is protection and isolation.</p><ul><li>Option 0: Improving electrical conductivity is not a primary goal of encapsulation, and concrete/resin are typically insulators.</li><li>Option 1: While structural rigidity might be a side effect, the primary purpose of encasing is protection.</li><li>Option 2: \"Providing protective isolation\" accurately captures the core purpose of encapsulation, which is to shield the object (egg) from external factors.</li><li>Option 3: Facilitating heat dissipation is possible in some specialized encapsulation, but the general principle illustrated by the egg example, especially with concrete and resin, points to protection.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document introduces encapsulation as protection from the environment, and the egg example is a simple illustration of this protective isolation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The simple example illustrates the general principle of providing protective isolation.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Providing protective isolation." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "According to the document, what is the nature of wood?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A synthetic plastic polymer." },
+        { "type": "string", "content": "A natural material that is a composite." },
+        { "type": "string", "content": "A metallic alloy primarily used in construction." },
+        { "type": "string", "content": "A type of thermoplastic that is easily recycled." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Wood Nature", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nature of Wood</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document defines wood as \"a <span style='color:var(--orange);font-weight:bold;'>natural material (composite)</span> consisting largely of <span style='color:var(--orange);font-weight:bold;'>cellulose fibers embedded in a matrix containing lignin and hemicellulose</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the nature of wood as described in the document.</div><p><strong>Step 1: Consulting the definition of wood.</strong><br/>The document states, \"WOOD: Wood is a natural material (composite) (consisting of) fibers from the stems & branches of trees. It is a composite material consisting largely of cellulose fibers embedded in a matrix containing lignin and hemicellulose.\"</p><ul><li>Option 0: Wood is natural, not synthetic, and not a plastic polymer.</li><li>Option 1: This accurately describes wood as \"a natural material (composite)\" as stated.</li><li>Option 2: Wood is not a metallic alloy.</li><li>Option 3: Wood is not a thermoplastic and is not directly described in terms of plastic recycling.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly calls wood \"a natural material (composite).\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ According to the document, wood is a natural material that is a composite.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A natural material that is a composite." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which constituent of wood is primarily responsible for providing its fibrous strength?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Lignin" },
+        { "type": "string", "content": "Hemicellulose" },
+        { "type": "string", "content": "Cellulose" },
+        { "type": "string", "content": "Water" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cellulose Function", "Wood Constituents"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cellulose in Wood</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists <span style='color:var(--orange);font-weight:bold;'>Cellulose</span> as a constituent of wood that <span style='color:var(--orange);font-weight:bold;'>provides much of the fibrous strength</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which wood constituent provides fibrous strength.</div><p><strong>Step 1: Checking the functions of wood constituents.</strong><br/>Under \"Constituents of wood,\" the document states: \"* Cellulose: provides much of the fibrous strength.\"</p><ul><li>Option 0: Lignin gives rigidity and binds the structure together.</li><li>Option 1: Hemicellulose contributes to the structure of the cell wall.</li><li>Option 2: This accurately states that Cellulose provides much of the fibrous strength.</li><li>Option 3: Water is present in wood but not listed as a structural constituent providing strength.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly attributes \"fibrous strength\" to cellulose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cellulose is the constituent of wood primarily responsible for providing its fibrous strength.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cellulose" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "What role does hemicellulose play as a constituent of wood?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It gives rigidity and binds the structure." },
+        { "type": "string", "content": "It provides much of the fibrous strength." },
+        { "type": "string", "content": "It contributes to the structure of the cell wall." },
+        { "type": "string", "content": "It acts as a natural preservative." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hemicellulose Function", "Wood Constituents"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Role of Hemicellulose in Wood</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that <span style='color:var(--orange);font-weight:bold;'>Hemicellulose contributes to the structure of the cell wall</span> in wood.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the specific role of hemicellulose in wood.</div><p><strong>Step 1: Reviewing the functions of wood constituents.</strong><br/>Under \"Constituents of wood,\" the document states: \"* Hemicellulose: contributes to the structure of the cell wall.\"</p><ul><li>Option 0: Lignin gives rigidity and binds the structure together.</li><li>Option 1: Cellulose provides much of the fibrous strength.</li><li>Option 2: This accurately states that Hemicellulose contributes to the structure of the cell wall.</li><li>Option 3: A natural preservative role is not mentioned for hemicellulose.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly assigns the function of contributing to the cell wall structure to hemicellulose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Hemicellulose contributes to the structure of the cell wall as a constituent of wood.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It contributes to the structure of the cell wall." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which constituent of wood is responsible for giving it rigidity and binding the structure together?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Cellulose" },
+        { "type": "string", "content": "Lignin" },
+        { "type": "string", "content": "Resin" },
+        { "type": "string", "content": "Starch" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Lignin Function", "Wood Constituents"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Lignin in Wood</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that <span style='color:var(--orange);font-weight:bold;'>Lignin gives rigidity and binds the structure together</span> in wood.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the wood constituent responsible for rigidity and binding.</div><p><strong>Step 1: Reviewing the functions of wood constituents.</strong><br/>Under \"Constituents of wood,\" the document states: \"* Lignin gives rigidity and binds the structure together.\"</p><ul><li>Option 0: Cellulose provides fibrous strength.</li><li>Option 1: This accurately states that Lignin gives rigidity and binds the structure together.</li><li>Option 2: Resin is a general term for certain polymers or natural secretions, not specifically listed as a primary structural constituent with this function.</li><li>Option 3: Starch is a storage carbohydrate, not a structural component providing rigidity.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly assigns the functions of rigidity and binding to lignin.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lignin is the constituent of wood responsible for giving it rigidity and binding the structure together.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Lignin" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "What is 'Timber' defined as in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "The fibrous strength of wood." },
+        { "type": "string", "content": "The process of cutting down trees." },
+        { "type": "string", "content": "The processed form of wood." },
+        { "type": "string", "content": "A type of hardwood." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Timber Definition", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Timber Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"Timber: It is the <span style='color:var(--orange);font-weight:bold;'>processed form of wood</span>...\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the definition of 'Timber' according to the document.</div><p><strong>Step 1: Locating the definition of Timber.</strong><br/>The document states, \"Timber: It is the processed form of wood...\"</p><ul><li>Option 0: This describes the role of cellulose, not timber.</li><li>Option 1: This describes logging, not the definition of timber itself.</li><li>Option 2: This accurately reflects the definition given in the document.</li><li>Option 3: Timber can be hardwood or softwood, it's not exclusively hardwood.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly defines timber as the \"processed form of wood.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Timber is defined as the processed form of wood.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "The processed form of wood." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Which type of wood is generally described as 'difficult to work with'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Softwood" },
+        { "type": "string", "content": "Plywood" },
+        { "type": "string", "content": "Hardwood" },
+        { "type": "string", "content": "Engineered wood" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hardwood Characteristics", "Wood Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hardwood Characteristics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that <span style='color:var(--orange);font-weight:bold;'>Hardwood is difficult to work with</span>, while softwood is easy to work with.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the workability of a specific wood type.</div><p><strong>Step 1: Reviewing the characteristics of Hardwood and Softwood.</strong><br/>Under \"Classification of Wood,\" the document states: \"Hard wood: are difficult to work with while soft wood are easy to work with...\"</p><ul><li>Option 0: Softwood is described as easy to work with.</li><li>Option 1: Plywood is a manufactured wood product, not a basic classification of wood by type.</li><li>Option 2: This accurately states that hardwood is difficult to work with.</li><li>Option 3: Engineered wood is a broad category of manufactured wood products, not a basic classification.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly contrasts the workability of hardwood and softwood, stating hardwood is difficult.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Hardwood is generally described as 'difficult to work with'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Hardwood" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Pine wood is provided as an example of which type of wood?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Hardwood" },
+        { "type": "string", "content": "Softwood" },
+        { "type": "string", "content": "Treated wood" },
+        { "type": "string", "content": "Exotic wood" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Examples", "Wood Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood Example: Pine</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"...soft wood are easy to work with <span style='color:var(--orange);font-weight:bold;'>e.g. pine wood</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the classification of pine wood as per the document.</div><p><strong>Step 1: Locating the example of pine wood.</strong><br/>The document states, \"...while soft wood are easy to work with e.g. pine wood.\"</p><ul><li>Option 0: Pine wood is specifically given as an example of softwood, not hardwood.</li><li>Option 1: This accurately identifies pine wood as a softwood, as stated in the example.</li><li>Option 2: Treated wood refers to processes applied to wood, not its fundamental classification.</li><li>Option 3: Exotic wood refers to origin, not a fundamental classification like hardwood/softwood.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists pine wood as an example of softwood.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Pine wood is provided as an example of softwood.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Softwood" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "For which application is bamboo, as a softwood, specifically mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Furniture making" },
+        { "type": "string", "content": "Decorative carving" },
+        { "type": "string", "content": "Fuel production" },
+        { "type": "string", "content": "Decking" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Usage", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood Usage: Bamboo</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"Soft woods are used for construction e.g. <span style='color:var(--orange);font-weight:bold;'>bamboo used for decking</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific application of bamboo mentioned in the document.</div><p><strong>Step 1: Finding the specific use of bamboo.</strong><br/>The document notes, \"Soft woods are used for construction e.g. bamboo used for decking.\"</p><ul><li>Option 0: Furniture making is not specified for bamboo.</li><li>Option 1: Decorative carving is not specified for bamboo.</li><li>Option 2: Fuel production is not specified for bamboo.</li><li>Option 3: This accurately states that bamboo, as a softwood, is used for decking.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly connects bamboo with the application of decking.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Bamboo, as a softwood, is specifically mentioned for decking.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Decking" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Which type of material forms long chains made rapidly of many repeating molecular units?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Metallic alloys" },
+        { "type": "string", "content": "Ceramic compounds" },
+        { "type": "string", "content": "Polymers" },
+        { "type": "string", "content": "Natural fibers like cotton" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polymer Definition", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polymer Structure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> A <span style='color:var(--orange);font-weight:bold;'>polymer</span> is defined as a material that forms <span style='color:var(--orange);font-weight:bold;'>long chains made rapidly of many repeating molecular units</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the material type characterized by long chains of repeating molecular units.</div><p><strong>Step 1: Recalling the definition of a polymer.</strong><br/>The document states, \"A polymer is a very large molecule... that consists of long chain made rapidly of many repeating molecular units.\"</p><ul><li>Option 0: Metallic alloys have a crystalline structure of metal atoms, not repeating molecular units in long chains.</li><li>Option 1: Ceramic compounds typically have ionic or covalent bonds forming rigid structures, not long molecular chains.</li><li>Option 2: This accurately describes a polymer.</li><li>Option 3: While cotton consists of cellulose, which is a polymer, the general term for materials fitting this description is "polymers."</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core definition of a polymer in the document directly matches the description of long chains of repeating molecular units.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Polymers form long chains made rapidly of many repeating molecular units.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Polymers" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "The ability of thermoplastics to be reshaped and recycled is directly linked to which of their properties?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Their permanent hardness after heating." },
+        { "type": "string", "content": "Their ability to soften upon heating and harden upon cooling repeatedly." },
+        { "type": "string", "content": "Their formation through condensation polymerization." },
+        { "type": "string", "content": "Their being made of small, non-repeating units." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermoplastics Recyclability", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoplastic Recyclability Mechanism</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermoplastics are characterized by their ability to <span style='color:var(--orange);font-weight:bold;'>soften when heated and harden when cooled, a process that can be repeated</span>. This reversible physical change is what allows them to be <span style='color:var(--orange);font-weight:bold;'>reshaped and recycled</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what property of thermoplastics enables their reshaping and recycling.</div><p><strong>Step 1: Identifying the core properties of thermoplastics.</strong><br/>The document states, \"Thermoplastics soften when heated and harden when cooled, this process can be repeated.\" It then separately states, \"Thermoplastic can be reshaped and recycled.\" The former property is the enabling mechanism for the latter.</p><ul><li>Option 0: Permanent hardness is a characteristic of thermosets, which cannot be reshaped or recycled.</li><li>Option 1: This property (repeated softening and hardening with temperature changes) is precisely why thermoplastics can be reshaped and recycled.</li><li>Option 2: The type of polymerization (condensation or addition) describes their formation, not their thermal processing behavior or recyclability.</li><li>Option 3: Polymers are generally made of *repeating* units, and non-repeating units would not form a polymer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document first describes the reversible thermal behavior of thermoplastics, and then states they can be reshaped and recycled, implying a direct link between these properties.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The ability of thermoplastics to be reshaped and recycled is directly linked to their ability to soften upon heating and harden upon cooling repeatedly.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Their ability to soften upon heating and harden upon cooling repeatedly." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which type of plastic cannot be reshaped or recycled once it has been initially set?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Polyethylene (PE)" },
+        { "type": "string", "content": "Nylon" },
+        { "type": "string", "content": "Thermosets" },
+        { "type": "string", "content": "PVC" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermosets Properties", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermosets and Recycling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document explicitly states that <span style='color:var(--orange);font-weight:bold;'>Thermosets cannot be reshaped or recycled</span>. In contrast, thermoplastics can be reshaped and recycled.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the type of plastic that cannot be reshaped or recycled after setting.</div><p><strong>Step 1: Consulting the document's comparison of thermoplastics and thermosets.</strong><br/>The document states, \"* Thermosets cannot be reshaped or recycled.\" It also mentions that PE, Nylon, and PVC are thermoplastics, which *can* be reshaped and recycled.</p><ul><li>Option 0: Polyethylene (PE) is a thermoplastic and can be reshaped/recycled.</li><li>Option 1: Nylon is a thermoplastic and can be reshaped/recycled.</li><li>Option 2: This accurately states that Thermosets cannot be reshaped or recycled.</li><li>Option 3: PVC is a thermoplastic and can be reshaped/recycled.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states that thermosets are not reshaped or recycled.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Thermosets cannot be reshaped or recycled once they have been initially set.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Thermosets" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "What are the 'many small molecules' that join together to form a polymer called?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "By-products" },
+        { "type": "string", "content": "Catalysts" },
+        { "type": "string", "content": "Monomers" },
+        { "type": "string", "content": "Additives" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Monomer Definition", "Polymerization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monomer Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document defines polymerization as the process where <span style='color:var(--orange);font-weight:bold;'>many small molecules called monomers</span> join together to form a polymer.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the term describing the small molecules that combine to form a polymer.</div><p><strong>Step 1: Referring to the definition of polymerization.</strong><br/>The document states, \"#Polymerization is the chemical process by which many small molecules called monomers join together to form a large molecule called a polymer.\"</p><ul><li>Option 0: By-products are substances formed in addition to the main product, not the building blocks.</li><li>Option 1: Catalysts speed up reactions but are not consumed or incorporated into the product.</li><li>Option 2: This accurately identifies \"monomers\" as the small molecules that join to form a polymer.</li><li>Option 3: Additives are substances incorporated to modify properties, not the fundamental building blocks.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly labels these small molecules as \"monomers\" in the definition of polymerization.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The 'many small molecules' that join together to form a polymer are called Monomers.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Monomers" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "What is a key difference in the outcome of addition polymerization compared to condensation polymerization?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Addition polymerization produces a small molecule as a by-product." },
+        { "type": "string", "content": "Addition polymerization involves monomers with functional groups." },
+        { "type": "string", "content": "Addition polymerization occurs without producing a small molecule as a by-product." },
+        { "type": "string", "content": "Addition polymerization exclusively forms thermosets." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polymerization Comparison", "Polymerization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Distinction in Polymerization By-products</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Addition polymerization</span> involves monomers joining <span style='color:var(--orange);font-weight:bold;'>without producing a small molecule as a by-product</span>. <span style='color:var(--orange);font-weight:bold;'>Condensation polymerization</span>, in contrast, involves eliminating a small molecule (e.g., water).</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a key difference between addition and condensation polymerization regarding their outcome.</div><p><strong>Step 1: Comparing the definitions of addition and condensation polymerization.</strong><br/>The document states for addition polymerization: \"...join together without producing a small molecule as a by-product.\" For condensation polymerization: \"...react together to form a polyme while eliminating a small molecule (often water).\"</p><ul><li>Option 0: This describes condensation polymerization, not addition.</li><li>Option 1: Monomers with functional groups are characteristic of condensation polymerization.</li><li>Option 2: This accurately describes a key characteristic of addition polymerization distinguishing it from condensation.</li><li>Option 3: Both types of polymerization can form various types of polymers, not exclusively thermosets.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The presence or absence of a small molecule by-product is highlighted as the core distinction between the two polymerization types in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key difference is that addition polymerization occurs without producing a small molecule as a by-product.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Addition polymerization occurs without producing a small molecule as a by-product." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "In condensation polymerization, what kind of monomers typically react?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Monomers containing double or triple bonds." },
+        { "type": "string", "content": "Monomers that are permanently hard." },
+        { "type": "string", "content": "Monomers that are liquid at room temperature." },
+        { "type": "string", "content": "Monomers containing functional groups." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Condensation Polymerization Monomers", "Polymerization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monomers in Condensation Polymerization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> In <span style='color:var(--orange);font-weight:bold;'>condensation polymerization</span>, the monomers are described as containing <span style='color:var(--orange);font-weight:bold;'>functional groups</span> that react together.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the characteristics of monomers in condensation polymerization.</div><p><strong>Step 1: Referring to the definition of condensation polymerization.</strong><br/>The document states, \"* Condensation Polymerization: These are monomers (that) contains functional groups that react together to form a polyme while eliminating a small molecule (often water).\"</p><ul><li>Option 0: Monomers with double or triple bonds are characteristic of addition polymerization.</li><li>Option 1: \"Permanently hard\" describes the property of a *thermoset polymer*, not its monomers.</li><li>Option 2: While some monomers might be liquid, this is not a defining characteristic for condensation polymerization.</li><li>Option 3: This accurately states that monomers in condensation polymerization contain functional groups.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly mentions \"functional groups\" in the context of monomers for condensation polymerization.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In condensation polymerization, monomers typically contain functional groups.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Monomers containing functional groups." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Which of the following describes a material that becomes permanently hard after being heated and formed, and does not readily soften again when reheated?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Thermoplastic" },
+        { "type": "string", "content": "Elastomer" },
+        { "type": "string", "content": "Thermoset" },
+        { "type": "string", "content": "Plasticizer" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermosets Definition", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoset Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document defines <span style='color:var(--orange);font-weight:bold;'>thermosets</span> as materials that become <span style='color:var(--orange);font-weight:bold;'>permanently hard after being heated & formed</span> and <span style='color:var(--orange);font-weight:bold;'>do not readily soften again when reheated</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the type of material described by specific thermal properties.</div><p><strong>Step 1: Consulting the definition of thermosets.</strong><br/>The document states, \"*As plastic thermosets are materials that become permanently hard after being heated & formed. They do not readily soften again when reheated.\"</p><ul><li>Option 0: Thermoplastics soften upon reheating.</li><li>Option 1: Elastomers are elastic polymers, not defined by this hardening property.</li><li>Option 2: This accurately describes thermosets as defined in the document.</li><li>Option 3: Plasticizers are additives, not a type of plastic polymer.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The description directly matches the definition of thermosets provided.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A thermoset is a material that becomes permanently hard after being heated and formed, and does not readily soften again when reheated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Thermoset" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "How are polyethylene types characterized in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "By their color variations (e.g., clear and opaque)." },
+        { "type": "string", "content": "By their density (high density and low density)." },
+        { "type": "string", "content": "By their melting point (low and high melting)." },
+        { "type": "string", "content": "By their flexibility (rigid and flexible)." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polyethylene Classification", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polyethylene Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document characterizes polyethylene as existing in \"<span style='color:var(--orange);font-weight:bold;'>High density & low density polyethylene</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks how polyethylene types are characterized in the document.</div><p><strong>Step 1: Locating the characterization of polyethylene.</strong><br/>The document states, \"Polyethylene: High density & low density polyethylene.\"</p><ul><li>Option 0: Color variations are not mentioned as a characterization.</li><li>Option 1: This accurately reflects the characterization by density.</li><li>Option 2: Melting point is not specified for classification.</li><li>Option 3: Flexibility is a property, but not the classification method given.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly classifies polyethylene based on its density.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Polyethylene types are characterized by their density (high density and low density).</p></div>"
+    },
+    "Answer": { "type": "string", "content": "By their density (high density and low density)." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Which plastic manufacturing process is also referred to as 'glass blowing'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Injection moulding" },
+        { "type": "string", "content": "Compression moulding" },
+        { "type": "string", "content": "Blow moulding" },
+        { "type": "string", "content": "Casting" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Blow Moulding", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Blow Moulding Alternative Name</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists \"<span style='color:var(--orange);font-weight:bold;'>Blow moulding (glass blowing)</span>\" as a type of plastic making.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the plastic manufacturing process also known as 'glass blowing'.</div><p><strong>Step 1: Consulting the list of plastic making processes.</strong><br/>Under \"Types of Making Plastics,\" the document includes \"* Blow moulding (glass blowing)\".</p><ul><li>Option 0: Injection moulding is a distinct process.</li><li>Option 1: Compression moulding is a distinct process.</li><li>Option 2: This accurately identifies Blow moulding as also referred to as 'glass blowing' in the document.</li><li>Option 3: Casting is a distinct process.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly equates \"Blow moulding\" with \"glass blowing\" in parentheses.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Blow moulding is also referred to as 'glass blowing'.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Blow moulding" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "The plastic making process that involves a 'powdered phenolic' undergoing 'compression & heating' in a mould is called:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Injection moulding" },
+        { "type": "string", "content": "Vacuum forming" },
+        { "type": "string", "content": "Hot Pressing" },
+        { "type": "string", "content": "Casting" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hot Pressing", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hot Pressing Description</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Hot Pressing</span> is described as the process where \"a powdered <span style='color:var(--orange);font-weight:bold;'>phenolic</span> is put into a mould and undergoes <span style='color:var(--orange);font-weight:bold;'>compression & heating</span> to take the shape of the mould.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a plastic manufacturing process and asks for its name.</div><p><strong>Step 1: Matching the description to the listed processes.</strong><br/>The document describes \"Hot Pressing\" as: \"This when a powdered phenolic is put into a mould and undergoes compression & heating to take the shape of the mould.\""</p><ul><li>Option 0: Injection moulding involves passing plastic through an opening.</li><li>Option 1: Vacuum forming involves removing air from a mould.</li><li>Option 2: This description precisely matches that of Hot Pressing.</li><li>Option 3: Casting is listed but not described this way.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The exact phrase \"powdered phenolic... compression & heating\" is directly used to describe Hot Pressing.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The process described is Hot Pressing.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Hot Pressing" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Encapsulation is the process of enclosing an electronic component with a protective material to achieve what primary goal?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "To facilitate easy component replacement." },
+        { "type": "string", "content": "To isolate it from the surrounding environment." },
+        { "type": "string", "content": "To reduce its weight for portability." },
+        { "type": "string", "content": "To improve its processing speed." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Purpose", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Primary Goal of Encapsulation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Encapsulation</span> is defined as enclosing a component with protective material to <span style='color:var(--orange);font-weight:bold;'>isolate it from the surrounding environment</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the primary goal of encapsulation.</div><p><strong>Step 1: Consulting the definition of encapsulation.</strong><br/>The document states, \"Encapsulation is the process of completely enclosing the electronic component with a protective material... to isolate it from the surrounding environment.\"</p><ul><li>Option 0: Encapsulation typically makes replacement more difficult, not easier.</li><li>Option 1: This precisely matches the stated primary goal in the document's definition.</li><li>Option 2: Encapsulation usually adds weight, not reduces it.</li><li>Option 3: Improving processing speed is unrelated to encapsulation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core definition of encapsulation is to isolate the component from its environment for protection.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary goal of encapsulation is to isolate it from the surrounding environment.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "To isolate it from the surrounding environment." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "Which of these benefits of encapsulation helps prevent unwanted access or damage?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Electrical insulation" },
+        { "type": "string", "content": "Prevention of heat transfer" },
+        { "type": "string", "content": "Prevention of tampering / accidental damage" },
+        { "type": "string", "content": "Improvement of vibration resistance" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulation Benefit: Tampering/Damage Prevention</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> One of the listed benefits of encapsulation is that it <span style='color:var(--orange);font-weight:bold;'>helps prevent tampering / accidental damage</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a specific benefit of encapsulation related to preventing unwanted access or damage.</div><p><strong>Step 1: Reviewing the listed benefits of encapsulation.</strong><br/>The document lists several benefits, including: \"Helps prevent tampering / accidental damage.\"</p><ul><li>Option 0: Electrical insulation protects from electrical shorts, not specifically unwanted access.</li><li>Option 1: Prevention of heat transfer relates to thermal management.</li><li>Option 2: This directly matches the listed benefit of preventing tampering or accidental damage.</li><li>Option 3: Improvement of vibration resistance relates to mechanical stability.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists \"Helps prevent tampering / accidental damage\" as a benefit.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The benefit of encapsulation that helps prevent unwanted access or damage is the prevention of tampering / accidental damage.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Prevention of tampering / accidental damage" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "What material is poured into a housing or mould during the potting process?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A high-viscosity paste" },
+        { "type": "string", "content": "A liquid, like epoxy resin" },
+        { "type": "string", "content": "A metallic powder" },
+        { "type": "string", "content": "A pre-formed plastic insert" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Potting Process", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Potting Material</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document specifies that in potting, a <span style='color:var(--orange);font-weight:bold;'>liquid (like epoxy resin) or liquid material</span> is poured into a housing, enclosure, or mould.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the type of material poured during potting.</div><p><strong>Step 1: Referring to the description of potting.</strong><br/>The document states, \"Potting is a more specific form of encapsulation in which a liquid (like epoxy resin) or liquid material is poured into a housing, enclosure or mould...\"</p><ul><li>Option 0: A high-viscosity paste is not the specific material mentioned.</li><li>Option 1: This option perfectly matches the document's description.</li><li>Option 2: Metallic powders are not mentioned for potting.</li><li>Option 3: Pre-formed plastic inserts are not described for the pouring step of potting.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly states that a \"liquid (like epoxy resin)\" is poured in potting.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A liquid, like epoxy resin, is poured into a housing or mould during the potting process.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A liquid, like epoxy resin" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Wood is described as a composite material primarily consisting of cellulose fibers embedded in a matrix containing what other two constituents?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Resins and oils" },
+        { "type": "string", "content": "Water and minerals" },
+        { "type": "string", "content": "Lignin and hemicellulose" },
+        { "type": "string", "content": "Starch and proteins" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Wood Composition", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Wood Matrix Composition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that wood is a composite material consisting largely of <span style='color:var(--orange);font-weight:bold;'>cellulose fibers embedded in a matrix containing lignin and hemicellulose</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the other two constituents of the matrix embedding cellulose fibers in wood.</div><p><strong>Step 1: Locating the description of wood composition.</strong><br/>The document states, \"It is a composite material consisting largely of cellulose fibers embedded in a matrix containing lignin and hemicellulose.\"</p><ul><li>Option 0: Resins and oils are not listed as the primary matrix components here.</li><li>Option 1: Water and minerals are present but not the primary structural matrix components mentioned.</li><li>Option 2: This accurately lists \"lignin and hemicellulose\" as the components of the matrix.</li><li>Option 3: Starch and proteins are generally not the main structural matrix components of wood.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly names lignin and hemicellulose as components of the matrix in which cellulose fibers are embedded.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Wood consists of cellulose fibers embedded in a matrix containing lignin and hemicellulose.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Lignin and hemicellulose" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Softwood is characterized by being:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Difficult to work with." },
+        { "type": "string", "content": "Rare and expensive." },
+        { "type": "string", "content": "Easy to work with." },
+        { "type": "string", "content": "Dense and heavy." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Characteristics", "Wood Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood Workability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document describes <span style='color:var(--orange);font-weight:bold;'>softwood as easy to work with</span>, in contrast to hardwood.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a characteristic of softwood.</div><p><strong>Step 1: Reviewing the characteristics of softwood.</strong><br/>The document states, \"...soft wood are easy to work with...\"</p><ul><li>Option 0: This describes hardwood.</li><li>Option 1: Rarity and expense are not characteristics given for softwood.</li><li>Option 2: This accurately states that softwood is easy to work with.</li><li>Option 3: Softwood is generally less dense than hardwood, and this specific characteristic isn't given as its primary differentiator.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states that softwood is \"easy to work with.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Softwood is characterized by being easy to work with.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Easy to work with." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Which of the following is NOT a benefit of encapsulation listed in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It provides electrical insulation." },
+        { "type": "string", "content": "It significantly reduces manufacturing costs." },
+        { "type": "string", "content": "It improves resistance to vibration & shock." },
+        { "type": "string", "content": "It prevents contamination." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulation Benefits Identification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists several benefits of encapsulation: preventing heat transfer, preventing contamination, providing electrical insulation, improving resistance to vibration & shock, and helping prevent tampering/accidental damage.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify which option is NOT a listed benefit of encapsulation.</div><p><strong>Step 1: Reviewing the list of encapsulation benefits.</strong><br/>The document lists: \"le prevents heat transfer,\" \"le prevents contamination,\" \"le provides electrical insulation,\" \"It can improve resistance to vibration & shock,\" and \"Helps prevent tampering / accidental damage.\"</p><ul><li>Option 0: \"It provides electrical insulation\" is a listed benefit.</li><li>Option 1: \"It significantly reduces manufacturing costs\" is NOT listed as a benefit. In fact, encapsulation often adds to manufacturing cost.</li><li>Option 2: \"It improves resistance to vibration & shock\" is a listed benefit.</li><li>Option 3: \"It prevents contamination\" is a listed benefit.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> By checking each option against the explicit list of benefits, only "significantly reduces manufacturing costs" is not found.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Significantly reduces manufacturing costs is NOT a benefit of encapsulation listed in the document.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It significantly reduces manufacturing costs." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "What is the key difference between Thermoplastics and Thermosets concerning their recycling potential?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Thermoplastics are always colored, while thermosets are always clear." },
+        { "type": "string", "content": "Thermoplastics can be reshaped and recycled, while thermosets cannot." },
+        { "type": "string", "content": "Thermosets require higher temperatures for processing than thermoplastics." },
+        { "type": "string", "content": "Thermoplastics are natural materials, while thermosets are synthetic." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polymer Recycling", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoplastics vs. Thermosets Recycling</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document explicitly states that <span style='color:var(--orange);font-weight:bold;'>Thermoplastic can be reshaped and recycled</span>, while <span style='color:var(--orange);font-weight:bold;'>Thermosets cannot be reshaped or recycled</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the key difference between thermoplastics and thermosets regarding recycling potential.</div><p><strong>Step 1: Comparing the recyclability statements for both polymer types.</strong><br/>The document explicitly mentions: \"*Thermoplastic can be reshaped and recycled.\" and \"*Thermosets cannot be reshaped or recycled.\"</p><ul><li>Option 0: Color is not used as a distinguishing factor in the document.</li><li>Option 1: This accurately highlights the difference in recycling potential as stated.</li><li>Option 2: Processing temperatures are not compared in this manner in the document.</li><li>Option 3: Both types are generally synthetic polymers (though some natural polymers exist). The document does not classify them as natural vs. synthetic.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly contrasts the recyclability of thermoplastics and thermosets.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The key difference is that thermoplastics can be reshaped and recycled, while thermosets cannot.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Thermoplastics can be reshaped and recycled, while thermosets cannot." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "Which of these components is listed as being encapsulated for protection?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Mechanical springs" },
+        { "type": "string", "content": "Transistors" },
+        { "type": "string", "content": "Electric cables (standard)" },
+        { "type": "string", "content": "Ceramic tiles" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulated Components", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulated Components</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document explicitly lists <span style='color:var(--orange);font-weight:bold;'>Integrated circuits (ICs), Sensors, Transistors, Capacitors, Semiconductor devices, and Printed Circuit Assemblies</span> as components that are encapsulated.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a specific component listed as being encapsulated.</div><p><strong>Step 1: Consulting the list of components that are encapsulated.</strong><br/>The document lists: \"* Integrated circuits (ICs), Sensors, Transistors, Capacitors, Semiconductor devices, Printed Circuit Assemblies.\"</p><ul><li>Option 0: Mechanical springs are not listed.</li><li>Option 1: Transistors are explicitly listed as encapsulated components.</li><li>Option 2: Standard electric cables are not specifically listed for encapsulation in this context.</li><li>Option 3: Ceramic tiles are construction materials, not electronic components for encapsulation.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> \"Transistors\" is directly found in the document's list of encapsulated components.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Transistors are listed as being encapsulated for protection.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Transistors" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "What is the main benefit of encapsulation related to thermal management?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It allows for efficient cooling by air flow." },
+        { "type": "string", "content": "It prevents heat transfer." },
+        { "type": "string", "content": "It generates heat for component operation." },
+        { "type": "string", "content": "It measures internal component temperature." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulation for Thermal Management</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that a benefit of encapsulation is \"<span style='color:var(--orange);font-weight:bold;'>It prevents heat transfer</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the main benefit of encapsulation related to thermal management.</div><p><strong>Step 1: Reviewing the listed benefits of encapsulation.</strong><br/>The document lists: \"To avoid heat transfer\" and \"It prevents heat transfer.\"</p><ul><li>Option 0: Encapsulation often restricts airflow, making passive cooling by air less efficient, not more.</li><li>Option 1: This directly matches the benefit mentioned in the document: \"It prevents heat transfer.\"</li><li>Option 2: Encapsulation does not generate heat; it manages existing heat.</li><li>Option 3: Encapsulation itself does not measure temperature.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly states \"It prevents heat transfer\" as a benefit.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The main benefit of encapsulation related to thermal management is that it prevents heat transfer.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It prevents heat transfer." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "In addition to protection from the environment, what other type of protection does encapsulation provide?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Chemical stability" },
+        { "type": "string", "content": "Ultraviolet light filtering" },
+        { "type": "string", "content": "Electrical insulation" },
+        { "type": "string", "content": "Radio frequency interference shielding" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Additional Encapsulation Protection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Among its benefits, encapsulation <span style='color:var(--orange);font-weight:bold;'>provides electrical insulation</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for another type of protection provided by encapsulation, beyond environmental.</div><p><strong>Step 1: Reviewing the listed benefits of encapsulation.</strong><br/>The document lists: \"It prevents heat transfer,\" \"It prevents contamination,\" \"It provides electrical insulation,\" \"It can improve resistance to vibration & shock,\" and \"Helps prevent tampering / accidental damage.\"</p><ul><li>Option 0: Chemical stability is not explicitly listed as a direct benefit.</li><li>Option 1: Ultraviolet light filtering is not explicitly listed.</li><li>Option 2: This directly matches the listed benefit: \"It provides electrical insulation.\"</li><li>Option 3: Radio frequency interference shielding is not explicitly listed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly identifies \"electrical insulation\" as a benefit of encapsulation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In addition to protection from the environment, encapsulation provides electrical insulation.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Electrical insulation" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Which term describes the process where a liquid material is poured into a housing containing an electronic circuit?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Injection moulding" },
+        { "type": "string", "content": "Vacuum forming" },
+        { "type": "string", "content": "Potting" },
+        { "type": "string", "content": "Casting" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Potting Definition", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Process Description: Potting</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Potting</span> is defined as a specific form of encapsulation in which a <span style='color:var(--orange);font-weight:bold;'>liquid (like epoxy resin) or liquid material is poured into a housing, enclosure, or mould containing the electronic circuit</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a process and asks for its name.</div><p><strong>Step 1: Matching the description to the listed processes.</strong><br/>The document defines: \"2) Potting: is a more specific form of encapsulation in which a liquid (like epoxy resin) or liquid material is poured into a housing, enclosure or mould containing the electronic circuit.\"</p><ul><li>Option 0: Injection moulding involves passing plastic through an opening to a mould.</li><li>Option 1: Vacuum forming involves removing air from a mould for plastic to fill it.</li><li>Option 2: This accurately describes Potting.</li><li>Option 3: Casting is listed as a general process, but Potting is the more specific term for this description.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's definition of potting perfectly matches the description provided.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Potting describes the process where a liquid material is poured into a housing containing an electronic circuit.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Potting" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "Wood is described as a 'natural material' that is also a 'composite'. What does its composite nature imply about its origin?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It is entirely man-made from synthetic polymers." },
+        { "type": "string", "content": "It is formed by the combination of different materials from nature." },
+        { "type": "string", "content": "It is a single, homogeneous material with no distinct components." },
+        { "type": "string", "content": "It is created through a high-pressure manufacturing process." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Wood Composite Nature", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Composite Nature of Wood</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"WOOD: Wood is a natural material (composite) (consisting of) fibers from the stems & branches of trees. It is a <span style='color:var(--orange);font-weight:bold;'>composite material consisting largely of cellulose fibers embedded in a matrix containing lignin and hemicellulose</span>.\" A composite material is generally made from two or more constituent materials with significantly different physical or chemical properties, which remain separate and distinct at the macroscopic or microscopic level within the finished structure.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the implication of wood being a 'natural material' and a 'composite' regarding its origin.</div><p><strong>Step 1: Interpreting \"natural material (composite)\" and its description.</strong><br/>The document defines wood as a \"natural material (composite)\" which is made of \"cellulose fibers embedded in a matrix containing lignin and hemicellulose.\" This clearly indicates a combination of different natural components.</p><ul><li>Option 0: This contradicts \"natural material.\"</li><li>Option 1: This aligns with the definition of wood being a natural composite of cellulose fibers, lignin, and hemicellulose.</li><li>Option 2: Wood is explicitly described as having distinct components (fibers and matrix), so it is not homogeneous.</li><li>Option 3: While wood formation involves growth processes, its composite nature isn't defined by a manufacturing process.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's description of wood as a composite of cellulose, lignin, and hemicellulose directly implies it's a combination of different natural materials.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Its composite nature implies it is formed by the combination of different materials from nature.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It is formed by the combination of different materials from nature." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Which component of wood is described as giving it rigidity and binding its structure together?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Hemicellulose" },
+        { "type": "string", "content": "Cellulose" },
+        { "type": "string", "content": "Lignin" },
+        { "type": "string", "content": "Water content" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Lignin Function", "Wood Constituents"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Function of Lignin</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document explicitly states that <span style='color:var(--orange);font-weight:bold;'>Lignin gives rigidity and binds the structure together</span> in wood.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify the wood component responsible for rigidity and binding.</div><p><strong>Step 1: Reviewing the roles of wood constituents.</strong><br/>Under \"Constituents of wood,\" the document states: \"* Lignin gives rigidity and binds the structure together.\"</p><ul><li>Option 0: Hemicellulose contributes to the cell wall structure.</li><li>Option 1: Cellulose provides fibrous strength.</li><li>Option 2: This accurately describes the role of Lignin.</li><li>Option 3: Water content is not described as providing structural rigidity or binding.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly attributes \"rigidity and binds the structure together\" to lignin.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Lignin is the component of wood that gives it rigidity and binds its structure together.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Lignin" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "What is the key characteristic that makes softwood 'easy to work with'?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Its high density." },
+        { "type": "string", "content": "Its fine grain structure." },
+        { "type": "string", "content": "Its relative softness compared to hardwood." },
+        { "type": "string", "content": "Its resistance to moisture." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Characteristics", "Wood Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood Workability Reason</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document directly contrasts <span style='color:var(--orange);font-weight:bold;'>softwood as easy to work with</span>, while hardwood is difficult. This implies that the ease of working with softwood comes from its inherent 'softness' relative to hardwood, although the document doesn't explicitly state 'softness' as the reason, it implies it by the terms 'softwood' and 'hardwood' themselves and their contrasting workability.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the characteristic making softwood easy to work with.</div><p><strong>Step 1: Interpreting the comparison between hardwood and softwood.</strong><br/>The document states: \"Hard wood: are difficult to work with while soft wood are easy to work with...\" The names themselves (hard/soft) imply the underlying physical property.</p><ul><li>Option 0: High density would typically make wood harder to work with.</li><li>Option 1: Fine grain structure is a characteristic of some woods, but not universally tied to ease of workability in this document.</li><li>Option 2: The term \"softwood\" and its contrast with \"hardwood\" (which is difficult to work with) inherently imply that its relative softness is the reason for its ease of workability. This is a reasonable inference from the document's phrasing.</li><li>Option 3: Resistance to moisture is a durability property, not directly related to ease of cutting or shaping.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The classification names "hardwood" and "softwood" directly relate to their mechanical properties, and the document explicitly contrasts their workability based on this classification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The key characteristic that makes softwood 'easy to work with' is its relative softness compared to hardwood.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Its relative softness compared to hardwood." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "Which material is mentioned as an example of softwood used for construction, specifically for decking?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Oak" },
+        { "type": "string", "content": "Mahogany" },
+        { "type": "string", "content": "Bamboo" },
+        { "type": "string", "content": "Teak" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Usage", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood Example for Decking</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"Soft woods are used for construction e.g. <span style='color:var(--orange);font-weight:bold;'>bamboo used for decking</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the specific softwood example used for decking.</div><p><strong>Step 1: Locating the example of softwood used for decking.</strong><br/>The document provides: \"Soft woods are used for construction e.g. bamboo used for decking.\"</p><ul><li>Option 0: Oak is a hardwood.</li><li>Option 1: Mahogany is a hardwood.</li><li>Option 2: This accurately identifies bamboo as the example provided.</li><li>Option 3: Teak is a hardwood known for decking, but not mentioned in the document as a *softwood* for decking.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly lists \"bamboo used for decking\" under softwood applications.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Bamboo is mentioned as an example of softwood used for construction, specifically for decking.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Bamboo" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "A polymer can exist in which of the following physical states?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Only solid" },
+        { "type": "string", "content": "Only liquid" },
+        { "type": "string", "content": "As a gas" },
+        { "type": "string", "content": "As a solid or liquid" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Polymer Physical States", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polymer Physical States</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"A Polymer Can be a <span style='color:var(--orange);font-weight:bold;'>solid / liquid</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the possible physical states of a polymer.</div><p><strong>Step 1: Consulting the document for polymer states.</strong><br/>The document explicitly states, \"A Polymer Can be a solid / liquid.\"</p><ul><li>Option 0: This is incorrect as it can also be liquid.</li><li>Option 1: This is incorrect as it can also be solid.</li><li>Option 2: Polymers are typically not found as gases under normal conditions.</li><li>Option 3: This accurately reflects the information given in the document.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states that a polymer can be either solid or liquid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A polymer can exist as a solid or liquid.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "As a solid or liquid" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "The process where air is removed from a mould, allowing plastic to slowly fill its shape, is known as:",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Casting" },
+        { "type": "string", "content": "Blow moulding" },
+        { "type": "string", "content": "Vacuum forming" },
+        { "type": "string", "content": "Injection moulding" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Vacuum Forming", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Vacuum Forming Process</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Vacuum forming</span> is described as \"removing the air out of a mould as the plastic gradually goes out (sic) it slowly fills the shape of the mould.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a plastic making process and asks for its name.</div><p><strong>Step 1: Matching the description to the listed processes.</strong><br/>The document describes \"Vacuum form\" as \"(removing the air out of a mould as the plastic gradually goes out it slowly fills the shape of the mould)\".</p><ul><li>Option 0: Casting is a different process.</li><li>Option 1: Blow moulding (glass blowing) is a different process.</li><li>Option 2: This description precisely matches Vacuum forming.</li><li>Option 3: Injection moulding involves passing plastic through an opening.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document's description for \"Vacuum form\" directly corresponds to the process described.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The process described is Vacuum forming.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Vacuum forming" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "Apart from heat transfer, what is another environmental factor that encapsulation aims to prevent?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Light exposure" },
+        { "type": "string", "content": "Noise pollution" },
+        { "type": "string", "content": "Contamination" },
+        { "type": "string", "content": "Electromagnetic radiation" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulation: Preventing Contamination</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that one of the purposes of encapsulation is \"to avoid heat transfer, to <span style='color:var(--orange);font-weight:bold;'>prevent contamination</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an environmental factor, besides heat transfer, that encapsulation aims to prevent.</div><p><strong>Step 1: Reviewing the reasons for encapsulation.</strong><br/>The document states, \"To avoid heat transfer, to prevent contamination.\"</p><ul><li>Option 0: Light exposure is not explicitly mentioned in this context.</li><li>Option 1: Noise pollution is not a stated factor for encapsulation.</li><li>Option 2: This directly matches the document's statement: \"to prevent contamination.\"</li><li>Option 3: Electromagnetic radiation shielding is not explicitly listed as a primary aim.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly lists \"prevent contamination\" alongside preventing heat transfer.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Apart from heat transfer, another environmental factor that encapsulation aims to prevent is contamination.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Contamination" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Which of these industries is mentioned as having an important need for encapsulation for devices like sensors?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Agriculture" },
+        { "type": "string", "content": "Textile manufacturing" },
+        { "type": "string", "content": "Telecommunications" },
+        { "type": "string", "content": "Food processing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Importance", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulation in Industries</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that encapsulation is important for automotive electronics, power supplies, <span style='color:var(--orange);font-weight:bold;'>sensors, telecommunications equipment</span>, and outdoor electronic devices.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about an industry that relies significantly on encapsulation for devices like sensors.</div><p><strong>Step 1: Reviewing the list of important applications for encapsulation.</strong><br/>The document states, \"important (for) automotive electronics, Power Supplies, sensors, telecommunications equipment & outdoor electronic device.\"</p><ul><li>Option 0: Agriculture is not mentioned.</li><li>Option 1: Textile manufacturing is not mentioned.</li><li>Option 2: Telecommunications is explicitly mentioned, along with sensors.</li><li>Option 3: Food processing is not mentioned.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document lists \"telecommunications equipment\" and \"sensors\" in the same context of importance for encapsulation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Telecommunications is mentioned as an industry with an important need for encapsulation for devices like sensors.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Telecommunications" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Which material provides much of the fibrous strength in wood?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Lignin" },
+        { "type": "string", "content": "Hemicellulose" },
+        { "type": "string", "content": "Cellulose" },
+        { "type": "string", "content": "Resin" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Cellulose Function", "Wood Constituents"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Cellulose and Fibrous Strength</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"* <span style='color:var(--orange);font-weight:bold;'>Cellulose: provides much of the fibrous strength</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks which wood component is responsible for fibrous strength.</div><p><strong>Step 1: Consulting the functions of wood constituents.</strong><br/>Under \"Constituents of wood,\" the document clearly states: \"* Cellulose: provides much of the fibrous strength.\"</p><ul><li>Option 0: Lignin gives rigidity and binds the structure.</li><li>Option 1: Hemicellulose contributes to the cell wall structure.</li><li>Option 2: This accurately states that Cellulose provides fibrous strength.</li><li>Option 3: Resin is not listed as a primary structural constituent in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly attributes \"fibrous strength\" to cellulose.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Cellulose provides much of the fibrous strength in wood.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Cellulose" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "Hardwood is characterized by which of the following properties?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "It is generally lightweight." },
+        { "type": "string", "content": "It is easy to work with." },
+        { "type": "string", "content": "It is difficult to work with." },
+        { "type": "string", "content": "It is always light in color." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Hardwood Characteristics", "Wood Classification"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hardwood Workability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document explicitly states that <span style='color:var(--orange);font-weight:bold;'>Hard wood is difficult to work with</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a characteristic property of hardwood.</div><p><strong>Step 1: Consulting the document for hardwood characteristics.</strong><br/>The document states, \"Hard wood: are difficult to work with while soft wood are easy to work with...\"</p><ul><li>Option 0: Lightweight is not a given characteristic for hardwood.</li><li>Option 1: This describes softwood, not hardwood.</li><li>Option 2: This accurately describes hardwood as stated in the document.</li><li>Option 3: Color is not a defining characteristic given in the document for hardwood.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states that hardwood is \"difficult to work with.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Hardwood is characterized by being difficult to work with.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "It is difficult to work with." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "Which classification of wood includes species that are easy to work with, such as pine wood?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Hardwood" },
+        { "type": "string", "content": "Tropical wood" },
+        { "type": "string", "content": "Engineered wood" },
+        { "type": "string", "content": "Softwood" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Classification", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood Definition and Example</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document defines <span style='color:var(--orange);font-weight:bold;'>softwood</span> as wood that is <span style='color:var(--orange);font-weight:bold;'>easy to work with</span> and provides <span style='color:var(--orange);font-weight:bold;'>pine wood</span> as an example.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the classification of wood that is easy to work with and includes pine wood as an example.</div><p><strong>Step 1: Consulting the classification of wood.</strong><br/>The document states: \"...soft wood are easy to work with e.g. pine wood.\"</p><ul><li>Option 0: Hardwood is difficult to work with.</li><li>Option 1: Tropical wood refers to origin, not workability classification.</li><li>Option 2: Engineered wood is a manufactured product.</li><li>Option 3: This accurately describes softwood.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly links \"easy to work with\" and \"pine wood\" to the softwood classification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Softwood classification includes species that are easy to work with, such as pine wood.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Softwood" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "Which type of electronic component is identified as being 'integrated circuits' that are encapsulated?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "IC's" },
+        { "type": "string", "content": "LEDs" },
+        { "type": "string", "content": "Resistors" },
+        { "type": "string", "content": "Inductors" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulated Components", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulated Integrated Circuits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists \"<span style='color:var(--orange);font-weight:bold;'>Integrated circuits (ICs)</span>\" as components that are encapsulated.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the acronym used for integrated circuits that are encapsulated.</div><p><strong>Step 1: Locating the specific reference to integrated circuits in the context of encapsulation.</strong><br/>The document lists: \"* Integrated circuits (ICs)\" under \"Types of components that are encapsulated.\"</p><ul><li>Option 0: \"IC's\" is the common abbreviation for Integrated Circuits, matching the document's usage.</li><li>Option 1: LEDs are light-emitting diodes, not explicitly listed.</li><li>Option 2: Resistors are not explicitly listed.</li><li>Option 3: Inductors are not explicitly listed.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly uses \"ICs\" as the abbreviation for \"Integrated circuits.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ IC's is the type of electronic component identified as being 'integrated circuits' that are encapsulated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "IC's" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "What is the primary characteristic of thermosets regarding their thermal behavior after initial curing?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They soften and flow upon reheating, similar to wax." },
+        { "type": "string", "content": "They can be melted down and remolded multiple times." },
+        { "type": "string", "content": "They become permanently hard and do not readily soften again when reheated." },
+        { "type": "string", "content": "They undergo reversible chemical reactions when exposed to heat." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermosets Properties", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoset Thermal Behavior</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document describes <span style='color:var(--orange);font-weight:bold;'>thermosets</span> as materials that become <span style='color:var(--orange);font-weight:bold;'>permanently hard after being heated & formed</span> and <span style='color:var(--orange);font-weight:bold;'>do not readily soften again when reheated</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the primary thermal behavior of thermosets after initial curing.</div><p><strong>Step 1: Locating the description of thermoset properties.</strong><br/>The document states, \"*As plastic thermosets are materials that become permanently hard after being heated & formed. They do not readily soften again when reheated.\"</p><ul><li>Option 0: This describes thermoplastics, not thermosets.</li><li>Option 1: This describes thermoplastics, as thermosets cannot be remolded.</li><li>Option 2: This accurately reflects the document's description of thermoset thermal behavior.</li><li>Option 3: While cross-linking is a chemical reaction, the defining characteristic from the document is the permanent hardness and lack of softening.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states that thermosets become \"permanently hard\" and \"do not readily soften again when reheated.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary characteristic of thermosets regarding their thermal behavior after initial curing is that they become permanently hard and do not readily soften again when reheated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They become permanently hard and do not readily soften again when reheated." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "Which plastic making process involves passing plastic through an opening to a mould?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Casting" },
+        { "type": "string", "content": "Compression moulding" },
+        { "type": "string", "content": "Injection moulding" },
+        { "type": "string", "content": "Hot Pressing" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Injection Moulding", "Plastic Manufacturing Processes"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Injection Moulding Process</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Injection moulding</span> is described as \"Passing a plastic through an opening to the mould.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question describes a specific plastic making process.</div><p><strong>Step 1: Matching the description to the listed processes.</strong><br/>The document describes \"Injection moulding\" as \"(Passing a plastic through an opening to the mould)\".</p><ul><li>Option 0: Casting is a different method.</li><li>Option 1: Compression moulding is listed but not described this way.</li><li>Option 2: This matches the description for Injection moulding.</li><li>Option 3: Hot Pressing involves powdered phenolic, compression, and heating.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly defines injection moulding with this phrase.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The plastic making process involving passing plastic through an opening to a mould is Injection moulding.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Injection moulding" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "Which type of wood is typically used for construction, with bamboo being cited as an example for decking?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Hardwood" },
+        { "type": "string", "content": "Softwood" },
+        { "type": "string", "content": "Manufactured wood" },
+        { "type": "string", "content": "Recycled wood" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Softwood Usage", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Softwood in Construction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states, \"<span style='color:var(--orange);font-weight:bold;'>Soft woods are used for construction</span> e.g. <span style='color:var(--orange);font-weight:bold;'>bamboo used for decking</span>.\"</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the type of wood typically used for construction, with bamboo for decking as an example.</div><p><strong>Step 1: Consulting the document regarding wood usage.</strong><br/>The document states, \"Soft woods are used for construction e.g. bamboo used for decking.\"</p><ul><li>Option 0: Hardwood is generally more difficult to work with.</li><li>Option 1: This accurately identifies softwood as used for construction, with bamboo for decking as an example.</li><li>Option 2: Manufactured wood is a broader category, but the specific classification for bamboo here is softwood.</li><li>Option 3: Recycled wood is not a classification based on natural properties.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly states that \"Soft woods are used for construction\" and cites bamboo decking as an example.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Softwood is typically used for construction, with bamboo being cited as an example for decking.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Softwood" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "What happens to thermoplastics when they are heated, according to the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "They permanently harden." },
+        { "type": "string", "content": "They decompose." },
+        { "type": "string", "content": "They soften." },
+        { "type": "string", "content": "They generate electricity." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermoplastics Properties", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoplastics upon Heating</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that <span style='color:var(--orange);font-weight:bold;'>thermoplastics soften when heated</span>.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks what happens to thermoplastics when heated.</div><p><strong>Step 1: Locating the description of thermoplastic behavior upon heating.</strong><br/>The document states, \"Thermoplastics soften when heated and harden when cooled...\"</p><ul><li>Option 0: This is characteristic of thermosets, not thermoplastics.</li><li>Option 1: While excessive heating can cause decomposition, the primary and reversible effect is softening.</li><li>Option 2: This accurately states that thermoplastics soften when heated.</li><li>Option 3: Thermoplastics do not generate electricity upon heating.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document explicitly says \"Thermoplastics soften when heated.\"</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ When thermoplastics are heated, they soften.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "They soften." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "Which property of thermoplastics allows the process of softening when heated and hardening when cooled to be repeated?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Their chemical inertness" },
+        { "type": "string", "content": "Their linear molecular structure" },
+        { "type": "string", "content": "Their reversibility" },
+        { "type": "string", "content": "Their high melting point" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Thermoplastics Properties", "Polymers"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Repeatability of Thermoplastics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that for thermoplastics, the process of softening when heated and hardening when cooled <span style='color:var(--orange);font-weight:bold;'>can be repeated</span>. This ability to reverse physical changes is known as reversibility.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the property that allows thermoplastics to be repeatedly softened and hardened by temperature changes.</div><p><strong>Step 1: Consulting the description of thermoplastic behavior.</strong><br/>The document states, \"Thermoplastics soften when heated and harden when cooled, this process can be repeated.\" The word \"repeated\" directly points to the concept of reversibility.</p><ul><li>Option 0: Chemical inertness refers to lack of chemical reactivity, not thermal reprocessing.</li><li>Option 1: While many thermoplastics have linear structures, this is a structural detail not directly linked to the 'repeated' process in the document.</li><li>Option 2: \"Reversibility\" best describes the ability for a process to be repeated or undone, which is the key characteristic enabling the repeated softening and hardening.</li><li>Option 3: A high melting point might be a property, but it doesn't explain the *repeatability* of the softening/hardening cycle.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term \"can be repeated\" directly implies a reversible process.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The property of thermoplastics that allows the process of softening when heated and hardening when cooled to be repeated is their reversibility.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Their reversibility" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "What is the common abbreviation for 'Printed Circuit Assemblies' among the components listed for encapsulation?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "PCAs" },
+        { "type": "string", "content": "CPUs" },
+        { "type": "string", "content": "GPUs" },
+        { "type": "string", "content": "RAMs" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulated Components", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Printed Circuit Assemblies Abbreviation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists \"<span style='color:var(--orange);font-weight:bold;'>Printed Circuit Assemblies</span>\" among encapsulated components. While it doesn't explicitly provide an abbreviation for PCAs in that specific list item, it's a very common industry abbreviation. Given the context of the question asking for a *common abbreviation* from the provided list, and the fact that a 'circuit board' is mentioned in potting, inferring the common abbreviation for 'Printed Circuit Assemblies' is reasonable.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the common abbreviation for 'Printed Circuit Assemblies' from the listed components.</div><p><strong>Step 1: Reviewing the list of encapsulated components.</strong><br/>The document lists \"Printed Circuit Assemblies.\" While it doesn't explicitly write \"PCAs\" next to it like it does \"ICs\" for \"Integrated circuits,\" \"PCAs\" is the widely accepted and common abbreviation for \"Printed Circuit Assemblies\" in electronics.</p><ul><li>Option 0: PCAs is the common abbreviation for Printed Circuit Assemblies.</li><li>Option 1: CPUs (Central Processing Units) are integrated circuits, not the assemblies themselves.</li><li>Option 2: GPUs (Graphics Processing Units) are also types of integrated circuits.</li><li>Option 3: RAMs (Random Access Memory) are also integrated circuits.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> While not explicitly abbreviated in the main list, given other abbreviations (ICs), PCAs is the standard abbreviation for Printed Circuit Assemblies and fits the context of components listed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The common abbreviation for 'Printed Circuit Assemblies' is PCAs.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "PCAs" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "Which of the following is a common application where encapsulation is considered important, as listed in the document?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Household furniture" },
+        { "type": "string", "content": "Automotive electronics" },
+        { "type": "string", "content": "Textile dyes" },
+        { "type": "string", "content": "Food packaging (non-electronic)" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Applications", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Important Encapsulation Applications</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document states that encapsulation is important for <span style='color:var(--orange);font-weight:bold;'>automotive electronics</span>, power supplies, sensors, telecommunications equipment, and outdoor electronic devices.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a common application where encapsulation is considered important.</div><p><strong>Step 1: Reviewing the list of important applications.</strong><br/>The document lists: \"important (for) automotive electronics, Power Supplies, sensors, telecommunications equipment & outdoor electronic device.\"</p><ul><li>Option 0: Household furniture is not an electronic application mentioned.</li><li>Option 1: Automotive electronics is explicitly listed as an important application.</li><li>Option 2: Textile dyes are not an electronic application.</li><li>Option 3: Non-electronic food packaging is not an application mentioned in this context.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> \"Automotive electronics\" is directly listed as an important area for encapsulation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Automotive electronics is a common application where encapsulation is considered important.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Automotive electronics" }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "In addition polymerization, why are there no small molecules produced as a by-product?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "Because the reaction occurs at very low temperatures." },
+        { "type": "string", "content": "Because the monomers contain double or triple bonds and directly add to each other." },
+        { "type": "string", "content": "Because a catalyst consumes any by-products." },
+        { "type": "string", "content": "Because the polymer immediately evaporates any by-products." }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Addition Polymerization Mechanism", "Polymerization"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Mechanism of Addition Polymerization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Addition polymerization</span> involves monomers containing <span style='color:var(--orange);font-weight:bold;'>double or triple bonds</span> that <span style='color:var(--orange);font-weight:bold;'>join together directly</span>, without producing any small molecule as a by-product. The bonds within the monomer simply open up to form new bonds with other monomers.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks why no small molecules are produced as by-products in addition polymerization.</div><p><strong>Step 1: Referring to the description of addition polymerization.</strong><br/>The document states, \"* Addition polymerization: There are monomers containing double or triple bonds join together without producing a small molecule as a by-product.\" This implies that the entire monomer unit is incorporated into the polymer chain.</p><ul><li>Option 0: Reaction temperature is not given as the reason for the lack of by-products.</li><li>Option 1: This accurately reflects that the monomers with multiple bonds directly add to form the polymer, incorporating all atoms, thus not releasing small by-products.</li><li>Option 2: The document does not mention a catalyst consuming by-products in this context.</li><li>Option 3: Evaporation of by-products is not the reason; the by-products simply aren't formed in the first place.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document links the presence of double/triple bonds in monomers directly joining to the absence of a by-product.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ In addition polymerization, no small molecules are produced as a by-product because the monomers contain double or triple bonds and directly add to each other.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "Because the monomers contain double or triple bonds and directly add to each other." }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "Which of the following is an example of a component found in a Printed Circuit Assembly (PCA) that might be encapsulated?",
+      "type": "OBJ",
+      "options": [
+        { "type": "string", "content": "A simple wire" },
+        { "type": "string", "content": "A Capacitor" },
+        { "type": "string", "content": "A mechanical switch" },
+        { "type": "string", "content": "A battery case" }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulated Components", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Components within Encapsulated Assemblies</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document lists <span style='color:var(--orange);font-weight:bold;'>Capacitors</span>, Integrated circuits (ICs), Sensors, Transistors, and Semiconductor devices as components that are encapsulated. A Printed Circuit Assembly (PCA) is an assembly of such components.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for an example of a component found in a PCA that might be encapsulated.</div><p><strong>Step 1: Reviewing the list of individual components that are encapsulated.</strong><br/>The document lists \"Integrated circuits (ICs), Sensors, Transistors, Capacitors, Semiconductor devices\" as types of components that are encapsulated. Printed Circuit Assemblies are *assemblies* of such components.</p><ul><li>Option 0: A simple wire is typically insulated, not individually encapsulated in this context.</li><li>Option 1: Capacitors are explicitly listed as encapsulated components, and they are common in PCAs.</li><li>Option 2: Mechanical switches are generally larger, electromechanical components, not typically encapsulated in the same way as smaller electronic components in a PCA.</li><li>Option 3: A battery case is a housing, not an internal electronic component.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document directly lists \"Capacitors\" as a component that is encapsulated. Since PCAs are assemblies of components, a capacitor is a valid example.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A Capacitor is an example of a component found in a Printed Circuit Assembly that might be encapsulated.</p></div>"
+    },
+    "Answer": { "type": "string", "content": "A Capacitor" }
+  },
+  {
+    "type": "heading",
+    "heading": "Section B",
+    "Subheading": "Theory Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "Question": {
+      "content": "Define 'encapsulation' and list three distinct benefits it provides for electronic components.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Encapsulation Definition", "Encapsulation Benefits", "Encapsulation & Potting"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Encapsulation: Definition and Benefits</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> <span style='color:var(--orange);font-weight:bold;'>Encapsulation</span> is the process of completely enclosing an electronic component with a protective material (usually polymer or resin) to isolate it from the surrounding environment.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question requires a definition of encapsulation and a list of three distinct benefits it offers for electronic components.</div><p><strong>Step 1: Provide a clear definition of encapsulation.</strong><br/>Encapsulation is the process of completely enclosing an electronic component with a protective material, typically a polymer or resin, to isolate it from the surrounding environment. This means the component is physically shielded and secured within the encapsulant.</p><p><strong>Step 2: List three distinct benefits.</strong><br/>The document provides a comprehensive list of benefits, from which any three distinct ones can be chosen:</p><ul><li><span style='color:var(--orange);font-weight:bold;'>Prevention of Heat Transfer:</span> The encapsulating material can act as a thermal barrier, helping to manage heat flow into or out of the component.</li><li><span style='color:var(--orange);font-weight:bold;'>Prevention of Contamination:</span> The enclosure prevents dust, moisture, chemicals, and other environmental contaminants from reaching and damaging sensitive electronic parts.</li><li><span style='color:var(--orange);font-weight:bold;'>Electrical Insulation:</span> Many encapsulating materials are dielectric, providing effective electrical insulation that prevents short circuits and ensures safe operation.</li><li><span style='color:var(--orange);font-weight:bold;'>Improved Resistance to Vibration & Shock:</span> The solid, rigid nature of the encapsulant helps to mechanically support the component, protecting it from physical stress, vibrations, and impacts.</li><li><span style='color:var(--orange);font-weight:bold;'>Prevention of Tampering / Accidental Damage:</span> The sealed nature of an encapsulated component makes it difficult to access or modify without destroying the protective layer, thus deterring tampering and reducing accidental damage.</li></ul><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer must contain the definition and at least three unique benefits as described in the document. Overlapping benefits or benefits not mentioned in the document would lead to a loss of marks. The chosen benefits (heat transfer, contamination, electrical insulation) are distinct and explicitly listed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Encapsulation is the process of completely enclosing an electronic component with a protective material (usually polymer or resin) to isolate it from the surrounding environment. Three distinct benefits it provides are preventing heat transfer, preventing contamination, and providing electrical insulation.</p></div>"
+    },
+    "Answer": "Encapsulation is the process of completely enclosing an electronic component with a protective material (usually polymer or resin) to isolate it from the surrounding environment.\n\nThree distinct benefits of encapsulation for electronic components are:\n1.  It prevents heat transfer, helping to manage thermal conditions.\n2.  It prevents contamination from external elements like dust and moisture.\n3.  It provides electrical insulation, safeguarding against short circuits and electrical interference."
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "Question": {
+      "content": "Compare and contrast Hardwood and Softwood based on their workability and typical examples provided in the document.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": ["Wood Classification", "Hardwood vs Softwood", "Wood & Timber"],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hardwood vs. Softwood Comparison</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> The document classifies wood into two main types: <span style='color:var(--orange);font-weight:bold;'>Hardwood</span> and <span style='color:var(--orange);font-weight:bold;'>Softwood</span>, distinguishing them by their workability and providing examples.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a comparison and contrast of Hardwood and Softwood based on their workability and typical examples provided in the document.</div><p><strong>Step 1: Describe Hardwood based on workability and examples.</strong><br/>Hardwood is characterized as being <span style='color:var(--orange);font-weight:bold;'>difficult to work with</span>. The document does not provide specific examples of hardwood species but generally contrasts it with softwood's ease of workability.</p><p><strong>Step 2: Describe Softwood based on workability and examples.</strong><br/>In contrast, Softwood is characterized as being <span style='color:var(--orange);font-weight:bold;'>easy to work with</span>. The document provides <span style='color:var(--orange);font-weight:bold;'>pine wood</span> as an example of softwood, and also mentions <span style='color:var(--orange);font-weight:bold;'>bamboo used for decking</span> as an application for softwoods in construction.</p><p><strong>Step 3: Provide a concise comparison and contrast.</strong><br/>The primary contrasting feature is workability: hardwoods are difficult to work with, while softwoods are easy to work with. For examples, the document offers pine wood as a specific instance of softwood, and bamboo for decking, whereas it only generally refers to hardwood's difficulty without listing specific species.</p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> A complete answer must clearly state the workability for both types (difficult for hardwood, easy for softwood) and include the specific examples given for softwood (pine wood, bamboo for decking), noting the absence of specific hardwood examples.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Hardwood is characterized as being difficult to work with, while Softwood is described as easy to work with. Pine wood is provided as a typical example of softwood, with bamboo also cited for construction uses like decking. The document does not provide specific examples of hardwood species, only defining its workability.</p></div>"
+    },
+    "Answer": "Hardwood is characterized as being difficult to work with. The document does not provide specific examples of hardwood species.\n\nIn contrast, Softwood is described as easy to work with. The document provides pine wood as a specific example of softwood, and also mentions bamboo as a softwood used for construction, specifically for decking.\n\nTherefore, the primary contrast lies in their workability, with softwoods being more amenable to processing, and the document offers clear examples only for softwoods."
+  }
+]
+```
