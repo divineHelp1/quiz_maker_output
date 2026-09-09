@@ -1,0 +1,278 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Electroncis",
+    "code": "PHY 211.2",
+    "session": "Practice Quiz 3 by user ProjectPQ 1UbTK",
+    "kind": "mixed",
+    "topics": [
+      "Polymers",
+      "Basic Concepts",
+      "Materials Science",
+      "Monomers",
+      "Thermoplastics",
+      "Material Properties",
+      "Plastics",
+      "Examples",
+      "Recycling",
+      "Sustainability",
+      "Thermosets"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Answer any 70 of the following 70 questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the fundamental characteristic that defines a polymer?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It is a material derived solely from natural sources."
+        },
+        {
+          "type": "string",
+          "content": "It is a very large molecule made up of many repeating smaller molecular units."
+        },
+        {
+          "type": "string",
+          "content": "It is a substance that only exists in a liquid state."
+        },
+        {
+          "type": "string",
+          "content": "It is a material that conducts electricity efficiently."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polymers",
+      "Basic Concepts",
+      "Materials Science"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Polymer Definition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> A polymer is a very large molecule, a macromolecule, that is composed of many repeated smaller molecular units known as monomers, forming long chains.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the fundamental characteristic that defines a polymer.</div><p><strong>Step 1: Understand the nature of a polymer.</strong><br/>Polymers are described as <span style='color:var(--orange);font-weight:bold;'>very large molecules</span>, often referred to as macromolecules. Their distinctive feature is their structure: they are formed from the repetition of smaller, identical, or similar units.</p><p><strong>Step 2: Evaluate the given options based on the definition.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>Option 0:</span> \"It is a material derived solely from natural sources.\" This is incorrect. Polymers can be natural or synthetic.</li><li><span style='color:var(--cAns);font-weight:bold;'>Option 1:</span> \"It is a very large molecule made up of many repeating smaller molecular units.\" This aligns perfectly with the definition of a polymer as a large molecule formed from many repeating smaller molecular units, forming a long chain.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 2:</span> \"It is a substance that only exists in a liquid state.\" This is incorrect. Polymers can exist in solid, liquid, or gel states.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 3:</span> \"It is a material that conducts electricity efficiently.\" This is generally incorrect; most common polymers are insulators.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The core definition of a polymer emphasizes its macromolecular size and its composition from repeating monomer units. This structural characteristic is what sets polymers apart from other materials.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The fundamental characteristic that defines a polymer is that it is a very large molecule made up of many repeating smaller molecular units.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is a very large molecule made up of many repeating smaller molecular units."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which term describes the small molecules that join together to form a large polymer molecule?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Polymers"
+        },
+        {
+          "type": "string",
+          "content": "Macromolecules"
+        },
+        {
+          "type": "string",
+          "content": "Monomers"
+        },
+        {
+          "type": "string",
+          "content": "Copolymers"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Polymers",
+      "Monomers",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Monomers in Polymerization</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Polymerization is the chemical process by which many small molecules, called monomers, join together to form a large molecule called a polymer.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for the name of the small molecules that combine to form a polymer.</div><p><strong>Step 1: Recall the definition of polymerization.</strong><br/>The document states: \"Polymerization is the chemical process by which manad small molecules called <span style='color:var(--orange);font-weight:bold;'>monomers</span> join together to form a Large melecule Called a polymer.\"</p><p><strong>Step 2: Evaluate the options.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>Option 0:</span> \"Polymers\" are the large molecules formed, not the small building blocks.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 1:</span> \"Macromolecules\" is another term for large molecules, which polymers are, but it doesn't describe the small units.</li><li><span style='color:var(--cAns);font-weight:bold;'>Option 2:</span> \"Monomers\" correctly identifies the small molecular units that link to form polymers.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 3:</span> \"Copolymers\" are polymers formed from two or more different types of monomers, which is a specific type of polymer, not the general term for the small units themselves.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The term 'monomer' literally means 'one part', consistent with its role as the fundamental repeating unit. The document explicitly defines monomers in the context of polymerization.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The small molecules that join together to form a large polymer molecule are called Monomers.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monomers"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "What happens to thermoplastics when they are heated and subsequently cooled?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They harden permanently and cannot be re-softened."
+        },
+        {
+          "type": "string",
+          "content": "They decompose into their original monomer units."
+        },
+        {
+          "type": "string",
+          "content": "They soften when heated and harden when cooled, a process which can be repeated."
+        },
+        {
+          "type": "string",
+          "content": "They become brittle and shatter, regardless of cooling."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermoplastics",
+      "Material Properties",
+      "Plastics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoplastic Behavior</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermoplastics are a class of polymers that soften upon heating and solidify upon cooling. This heating and cooling process can be repeated multiple times without significant degradation.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about the characteristic thermal behavior of thermoplastics.</div><p><strong>Step 1: Refer to the definition of thermoplastics.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>Thermoplastics</span> soften when heated and harden when cooled, this process can be repeated.\"</p><p><strong>Step 2: Compare this information with the provided options.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>Option 0:</span> \"They harden permanently and cannot be re-softened.\" This describes thermosets, not thermoplastics.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 1:</span> \"They decompose into their original monomer units.\" While degradation can occur at very high temperatures, this is not the primary characteristic thermal behavior described for thermoplastics upon heating and cooling.</li><li><span style='color:var(--cAns);font-weight:bold;'>Option 2:</span> \"They soften when heated and harden when cooled, a process which can be repeated.\" This perfectly matches the definition provided in the document for thermoplastics.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 3:</span> \"They become brittle and shatter, regardless of cooling.\" This is not a general characteristic of thermoplastics; their mechanical properties can vary but this specific outcome is not universally true.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The ability to repeatedly soften and harden is the defining property that allows thermoplastics to be reshaped and recycled, distinguishing them from thermosets.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Thermoplastics soften when heated and harden when cooled, a process which can be repeated.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They soften when heated and harden when cooled, a process which can be repeated."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following is an example of a thermoplastic material mentioned in the document?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Epoxy phenolic"
+        },
+        {
+          "type": "string",
+          "content": "Bakelite"
+        },
+        {
+          "type": "string",
+          "content": "Polyethylene (PE)"
+        },
+        {
+          "type": "string",
+          "content": "Rubber"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermoplastics",
+      "Examples",
+      "Plastics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Thermoplastics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermoplastics are plastics that can be repeatedly softened by heating and solidified by cooling. They can be reshaped and recycled.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks to identify an example of a thermoplastic from the given options, based on the document.</div><p><strong>Step 1: Locate the examples of thermoplastics in the document.</strong><br/>The document lists: \"<span style='color:var(--orange);font-weight:bold;'>polyethylene (PE) (nylon), PVC</span>\" as examples of thermoplastics.</p><p><strong>Step 2: Check the options against the identified examples.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>Option 0:</span> \"Epoxy phenolic\" is listed as an example of a thermoset.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 1:</span> \"Bakelite\" is also listed as an example of a thermoset.</li><li><span style='color:var(--cAns);font-weight:bold;'>Option 2:</span> \"Polyethylene (PE)\" is explicitly mentioned as an example of a thermoplastic.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 3:</span> \"Rubber\" is not mentioned in the document as an example of either thermoplastic or thermoset.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The document clearly categorizes Polyethylene (PE) under thermoplastics, distinguishing it from thermosets like Epoxy phenolic and Bakelite.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Polyethylene (PE) is an example of a thermoplastic material mentioned in the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Polyethylene (PE)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "What is a key advantage of thermoplastics regarding waste management?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They decompose quickly in landfills."
+        },
+        {
+          "type": "string",
+          "content": "They can be easily reshaped and recycled."
+        },
+        {
+          "type": "string",
+          "content": "They are naturally biodegradable."
+        },
+        {
+          "type": "string",
+          "content": "They generate energy when incinerated."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermoplastics",
+      "Recycling",
+      "Sustainability"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoplastic Recyclability</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermoplastics are materials that can be melted and reshaped multiple times without undergoing chemical degradation, making them suitable for recycling.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks about a significant advantage of thermoplastics in the context of waste management.</div><p><strong>Step 1: Recall the properties of thermoplastics related to their processability.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>Thermoplastre com be reshaped and recycled.</span>\" This directly addresses their utility in waste management.</p><p><strong>Step 2: Evaluate the options.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>Option 0:</span> \"They decompose quickly in landfills.\" This is generally not true for most conventional thermoplastics, which are known for their durability.</li><li><span style='color:var(--cAns);font-weight:bold;'>Option 1:</span> \"They can be easily reshaped and recycled.\" This is a direct statement from the document regarding thermoplastics, highlighting a major advantage for waste management.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 2:</span> \"They are naturally biodegradable.\" Most common thermoplastics are not naturally biodegradable.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 3:</span> \"They generate energy when incinerated.\" While some plastics can be incinerated for energy recovery, this is a property of many materials and not the *key* advantage specific to thermoplastics in terms of waste management, which is their ability to be reprocessed.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The ability to be reshaped and recycled is a unique characteristic of thermoplastics, directly contributing to their sustainable management compared to thermosets.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A key advantage of thermoplastics regarding waste management is that they can be easily reshaped and recycled.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They can be easily reshaped and recycled."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Unlike thermoplastics, thermosets have which defining characteristic?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "They can be repeatedly melted and solidified."
+        },
+        {
+          "type": "string",
+          "content": "They cannot be reshaped or recycled after initial curing."
+        },
+        {
+          "type": "string",
+          "content": "They are always transparent and flexible."
+        },
+        {
+          "type": "string",
+          "content": "They are primarily used in packaging materials."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Thermosets",
+      "Material Properties",
+      "Plastics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermoset Properties</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px;border-radius:8px;margin-bottom:15px;'><em>Term:</em> Thermosets are polymers that undergo an irreversible chemical reaction during heating and curing, forming a rigid, cross-linked network structure. Once cured, they cannot be melted, reshaped, or recycled.</div><div style='background:var(--preset-bg-color);padding:10px;border-radius:8px;margin-bottom:15px;'>The question asks for a defining characteristic of thermosets that distinguishes them from thermoplastics.</div><p><strong>Step 1: Identify the key properties of thermosets from the document.</strong><br/>The document states: \"Thermosets cannot be reshaped or recycled.\" It also mentions: \"Thermosets are materials that become permanently hard after being heated & formed. They do not readily soften again when reheated.\"</p><p><strong>Step 2: Evaluate the given options against these properties.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>Option 0:</span> \"They can be repeatedly melted and solidified.\" This describes thermoplastics, not thermosets.</li><li><span style='color:var(--cAns);font-weight:bold;'>Option 1:</span> \"They cannot be reshaped or recycled after initial curing.\" This aligns with the definition of thermosets.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 2:</span> \"They are always transparent and flexible.\" This is not a defining characteristic; thermosets can be opaque, rigid, etc.</li><li><span style='color:var(--orange);font-weight:bold;'>Option 3:</span> \"They are primarily used in packaging materials.\" This is not a defining characteristic.</li></ul></p><div style='background:var(--warningBg);padding:10px;border-radius:8px;margin-top:15px;'><em>Verification:</em> The irreversible nature of curing and the inability to be remelted/recycled is the defining difference.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Thermosets cannot be reshaped or recycled after initial curing.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They cannot be reshaped or recycled after initial curing."
+    }
+  }
+]
