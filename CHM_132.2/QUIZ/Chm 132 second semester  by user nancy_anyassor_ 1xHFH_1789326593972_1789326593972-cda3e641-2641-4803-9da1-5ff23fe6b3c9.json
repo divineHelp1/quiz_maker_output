@@ -1,0 +1,1552 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Organic Chemistry I",
+    "code": "CHM 132.2",
+    "session": "Chm 132 second semester  by user nancy_anyassor_ 1xHFH",
+    "kind": "mixed",
+    "topics": [
+      "Sigma bonds",
+      "Molecular structure",
+      "Nomenclature",
+      "Ketones",
+      "IUPAC naming",
+      "Electrophiles",
+      "Reagents",
+      "Reaction types",
+      "Nucleophiles",
+      "Definitions",
+      "Reaction mechanism",
+      "Combustion",
+      "Hydrocarbons",
+      "Chemical reactions",
+      "Incomplete combustion",
+      "Combustion products",
+      "Stoichiometry",
+      "Chemical equations",
+      "Addition reactions",
+      "Carbonyl chemistry",
+      "Substitution reactions",
+      "Haloalkanes",
+      "Elimination reactions",
+      "Dehydration of alcohols",
+      "Anti-Markovnikov rule",
+      "Peroxide effect",
+      "Halogenation of alkenes",
+      "Cyclic compounds",
+      "Markovnikov's rule",
+      "Anti-Markovnikov addition",
+      "Alkene reactions",
+      "Regioselectivity",
+      "Tests for unsaturation",
+      "Alkanes",
+      "Alkenes",
+      "Ozonolysis",
+      "Alkene oxidation",
+      "Reaction products",
+      "Alkynes",
+      "Acidity",
+      "Metal salt formation",
+      "Examples",
+      "Chemical properties",
+      "Reaction with bases",
+      "Internal vs. Terminal",
+      "Terminal alkyne tests",
+      "Qualitative analysis",
+      "Aldehydes",
+      "Carbonyl compounds",
+      "Terminal alkynes",
+      "Internal alkynes"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "How many sigma bonds are present in a molecule of cyanomethane (CH3C≡N)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "4"
+        },
+        {
+          "type": "string",
+          "content": "5"
+        },
+        {
+          "type": "string",
+          "content": "6"
+        },
+        {
+          "type": "string",
+          "content": "3"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Sigma bonds",
+      "Molecular structure",
+      "Nomenclature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bond Counting in Cyanomethane</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <strong>sigma (σ) bond</strong> is a covalent bond formed by direct, head-on overlap of atomic orbitals. Single bonds are always sigma bonds. A double bond consists of one sigma and one pi bond. A triple bond consists of one sigma and two pi bonds.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Determine the structure of cyanomethane.</strong><br/>Cyanomethane, also known as ethanenitrile, has the structure H<span style='color:var(--orange);font-weight:bold;'>-</span>C<span style='color:var(--orange);font-weight:bold;'>-</span>C≡N.<br/>Each carbon atom is connected to three hydrogen atoms, and the carbon chain is connected to a nitrogen atom via a triple bond. The structure can be represented as H3C-C≡N.</li><li><strong>Step 2: Count the single bonds.</strong><br/>In H3C-C≡N:<br/><ul><li>There are <span style='color:var(--orange);font-weight:bold;'>3 C-H single bonds</span>.</li><li>There is <span style='color:var(--orange);font-weight:bold;'>1 C-C single bond</span>.</li></ul></li><li><strong>Step 3: Count the sigma bonds within the triple bond.</strong><br/>The C≡N triple bond consists of <span style='color:var(--orange);font-weight:bold;'>1 sigma bond</span> and 2 pi bonds.</li><li><strong>Step 4: Sum all sigma bonds.</strong><br/>Total sigma bonds = (3 C-H bonds) + (1 C-C bond) + (1 sigma bond from C≡N) = <span style='color:var(--orange);font-weight:bold;'>3 + 1 + 1 = 5 sigma bonds</span>.</li></ol><ul><li><em>Evaluating Option 1 (4):</em> This would be incorrect as it misses one of the sigma bonds, likely miscounting the bonds within the triple bond or a C-H bond.</li><li><em>Evaluating Option 2 (5):</em> This is the correct count, including all single bonds and the single sigma component of the triple bond.</li><li><em>Evaluating Option 3 (6):</em> This would be incorrect, as cyanomethane only contains 5 sigma bonds.</li><li><em>Evaluating Option 4 (3):</em> This is significantly too low, likely only counting the C-H bonds.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Drawing the Lewis structure H<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>H—C—C≡N<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H<br/>clearly shows three C-H single bonds, one C-C single bond, and one sigma bond within the C≡N triple bond, summing to 5 sigma bonds. The C≡N triple bond also has two pi bonds, but the question only asks for sigma bonds.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ There are 5 sigma bonds in cyanomethane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "What is the correct IUPAC name for the ketone compound initially named 4-hexanone?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2-hexanone"
+        },
+        {
+          "type": "string",
+          "content": "5-hexanone"
+        },
+        {
+          "type": "string",
+          "content": "3-hexanone"
+        },
+        {
+          "type": "string",
+          "content": "hexan-4-one"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nomenclature",
+      "Ketones",
+      "IUPAC naming"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>IUPAC Naming of Ketones</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> For ketones, the IUPAC naming convention requires numbering the carbon chain from the end that gives the <span style='color:var(--orange);font-weight:bold;'>lowest possible number</span> to the carbonyl (C=O) functional group.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the correct name for a ketone initially (and incorrectly) named 4-hexanone.</div><ol><li><strong>Step 1: Draw the structure of 4-hexanone.</strong><br/>A hexanone implies a six-carbon chain with a ketone group. If it's 4-hexanone, the carbonyl group (C=O) would be on the fourth carbon from one end:<br/>CH3-CH2-CH2-<span style='color:var(--orange);font-weight:bold;'>C(=O)</span>-CH2-CH3</li><li><strong>Step 2: Apply the IUPAC numbering rule.</strong><br/>We need to number the six-carbon chain from the end that gives the lowest number to the carbonyl carbon.<br/><ul><li>If numbered from left to right: C1-C2-<span style='color:var(--orange);font-weight:bold;'>C3</span>(<span style='color:var(--orange);font-weight:bold;'>=O</span>)-C4-C5-C6. The carbonyl is at position 3.</li><li>If numbered from right to left: C6-C5-<span style='color:var(--orange);font='bold;'>C4</span>(<span style='color:var(--orange);font-weight:bold;'>=O</span>)-C3-C2-C1. The carbonyl is at position 4.</li></ul></li><li><strong>Step 3: Select the lowest number.</strong><br/>Comparing 3 and 4, <span style='color:var(--orange);font-weight:bold;'>3 is the lower number</span>.</li><li><strong>Step 4: Formulate the correct name.</strong><br/>Therefore, the correct name is 3-hexanone.</li></ol><ul><li><em>Evaluating Option 1 (2-hexanone):</em> This would imply the carbonyl group is on the second carbon, which is not the case for 4-hexanone.</li><li><em>Evaluating Option 2 (5-hexanone):</em> This is incorrect; the lowest possible numbering starts at 3, not 5.</li><li><em>Evaluating Option 3 (3-hexanone):</em> This is the correct name as it follows the IUPAC rule of assigning the lowest possible number to the functional group.</li><li><em>Evaluating Option 4 (hexan-4-one):</em> While this is an acceptable modern IUPAC format, the number '4' is still incorrect based on the numbering rule. The correct modern format would be hexan-3-one.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By drawing the structure and numbering from both ends, it becomes clear that '3' is the lower locant for the ketone group in a six-carbon chain. CH3CH2C(=O)CH2CH2CH3 has the carbonyl on the third carbon from the left and the fourth carbon from the right. The correct name must use the lower number.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The correct IUPAC name for the ketone compound initially named 4-hexanone is 3-hexanone.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-hexanone"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Which of the following compounds is explicitly identified as an electrophilic reagent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "NH3"
+        },
+        {
+          "type": "string",
+          "content": "CH3OH"
+        },
+        {
+          "type": "string",
+          "content": "NO+"
+        },
+        {
+          "type": "string",
+          "content": "H2O"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Electrophiles",
+      "Reagents",
+      "Reaction types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Electrophilic Reagents</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <strong>electrophile</strong> is a chemical species that forms bonds with nucleophiles by accepting an electron pair. They are electron-deficient and are attracted to areas of high electron density.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Recall the definition of an electrophile from the document.</strong><br/>The document states: \"Reagents that attack a substrate at a position of <span style='color:var(--orange);font-weight:bold;'>high electron density</span> are called Electrophiles.\"</li><li><strong>Step 2: Review the examples of electrophiles provided in the document.</strong><br/>The document explicitly lists <span style='color:var(--orange);font-weight:bold;'>NO+</span>, Cl-, OH- and then states \"Answer: NO+\" for \"Which of this is an electrophile?\". It also lists Br2 as an electrophilic reagent.</li><li><strong>Step 3: Compare options with identified electrophiles.</strong><br/><ul><li><span style='color:var(--orange);font-weight:bold;'>NO+</span> is explicitly listed as an electrophile.</li><li>NH3, CH3OH, and H2O are typically nucleophiles due to their lone pairs of electrons.</li></ul></li></ol><ul><li><em>Evaluating Option 1 (NH3):</em> Ammonia (NH3) has a lone pair of electrons on the nitrogen atom, making it a nucleophile, not an electrophile.</li><li><em>Evaluating Option 2 (CH3OH):</em> Methanol (CH3OH) has lone pairs on the oxygen atom, allowing it to act as a nucleophile.</li><li><em>Evaluating Option 3 (NO+):</em> The nitrosonium ion (NO+) is explicitly given as an example of an electrophile in the document. Its positive charge indicates electron deficiency, making it attracted to electron-rich centers.</li><li><em>Evaluating Option 4 (H2O):</em> Water (H2O) has lone pairs on the oxygen atom and typically acts as a nucleophile.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Electrophiles are electron-deficient species (often with a positive charge or an incomplete octet) that accept electron pairs. Nucleophiles are electron-rich species (often with a negative charge or lone pairs) that donate electron pairs. NO+ has a positive charge, making it electron-deficient and thus an electrophile. The document explicitly identifies it as such.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ NO+ is explicitly identified as an electrophilic reagent.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NO+"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which of the following compounds is NOT considered a nucleophile?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "H2O"
+        },
+        {
+          "type": "string",
+          "content": "C6H12 (cyclohexane)"
+        },
+        {
+          "type": "string",
+          "content": "CH3NH2"
+        },
+        {
+          "type": "string",
+          "content": "C2H5SH"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nucleophiles",
+      "Reagents",
+      "Reaction types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Non-Nucleophiles</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <strong>nucleophile</strong> is a chemical species that donates an electron pair to an electrophile to form a chemical bond. They are electron-rich and are attracted to areas of low electron density.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Recall the definition and examples of nucleophiles from the document.</strong><br/>The document defines: \"Reagents that attack a substrate at a position of <span style='color:var(--orange);font-weight:bold;'>low electron density</span> are called Nucleophiles.\"<br/>Examples of nucleophiles provided include <span style='color:var(--orange);font-weight:bold;'>H2O, CH3NH2, C2H5SH, CN-, RO-, RMgBr, RLi, OH-</span>.</li><li><strong>Step 2: Examine each option against the definition and examples.</strong><br/><ul><li>H2O is explicitly listed as a nucleophile.</li><li>CH3NH2 (methylamine) is explicitly listed as a nucleophile.</li><li>C2H5SH (ethanethiol) is explicitly listed as a nucleophile.</li><li><span style='color:var(--orange);font-weight:bold;'>C6H12 (cyclohexane)</span> is explicitly listed as NOT a nucleophile. Cyclohexane is a saturated hydrocarbon with no lone pairs or pi bonds, and therefore no electron-donating sites.</li></ul></li></ol><ul><li><em>Evaluating Option 1 (H2O):</em> Water has lone pairs on oxygen and is listed as a nucleophile.</li><li><em>Evaluating Option 2 (C6H12 (cyclohexane)):</em> Cyclohexane is a saturated hydrocarbon, lacking lone pairs, negative charges, or pi bonds to donate electrons. The document explicitly states it is <span style='color:var(--orange);font-weight:bold;'>NOT a nucleophile</span>.</li><li><em>Evaluating Option 3 (CH3NH2):</em> Methylamine has a lone pair on nitrogen and is listed as a nucleophile.</li><li><em>Evaluating Option 4 (C2H5SH):</em> Ethanethiol has lone pairs on sulfur and is listed as a nucleophile.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Nucleophiles are electron-rich species that can donate an electron pair. Cyclohexane is a non-polar, saturated hydrocarbon with no readily available electron pairs for donation, fitting the description of a non-nucleophile. The document directly confirms this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ C6H12 (cyclohexane) is not considered a nucleophile.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C6H12 (cyclohexane)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Which of the following reagents is identified as a nucleophile?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "SO3"
+        },
+        {
+          "type": "string",
+          "content": "AlCl3"
+        },
+        {
+          "type": "string",
+          "content": "NO2⁻"
+        },
+        {
+          "type": "string",
+          "content": "RLi"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nucleophiles",
+      "Reagents",
+      "Reaction types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Nucleophilic Reagents</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <strong>nucleophile</strong> is an electron-rich species that donates an electron pair to form a new covalent bond. They are attracted to electron-deficient centers.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Review the examples of nucleophiles provided in the document.</strong><br/>The document lists <span style='color:var(--orange);font-weight:bold;'>RLi</span>, CN-, RO-, RMgBr, H2O, CH3NH2, C2H5SH, and OH- as nucleophiles.</li><li><strong>Step 2: Examine each option.</strong><br/><ul><li>SO3 (sulfur trioxide) is an electrophile.</li><li>AlCl3 (aluminum chloride) is a Lewis acid, acting as an electrophile.</li><li>NO2- (nitrite ion) is a nucleophile due to its negative charge and lone pairs, but it is not listed as the answer to the prompt \"Which of the following reagents is a nucleophile?\". The given answer is RLi.</li><li><span style='color:var(--orange);font-weight:bold;'>RLi</span> (organolithium reagents) are explicitly listed as nucleophiles. The carbon atom in RLi is highly carbanionic and acts as a strong nucleophile.</li></ul></li></ol><ul><li><em>Evaluating Option 1 (SO3):</em> Sulfur trioxide is a Lewis acid, meaning it is an electrophile (electron pair acceptor), not a nucleophile.</li><li><em>Evaluating Option 2 (AlCl3):</em> Aluminum chloride is a strong Lewis acid and acts as an electrophile.</li><li><em>Evaluating Option 3 (NO2⁻):</em> The nitrite ion (NO2-) has a negative charge and lone pairs, making it a nucleophile. However, the document specifically indicates RLi as the answer to the question \"Which of the following reagents is a nucleophile?\" from a similar set of options.</li><li><em>Evaluating Option 4 (RLi):</em> Organolithium reagents (RLi) are known to be very strong nucleophiles due to the highly polarized carbon-lithium bond and the carbanionic nature of the carbon atom. The document explicitly states <span style='color:var(--orange);font-weight:bold;'>RLi is a nucleophile</span>.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Nucleophiles are electron-rich species capable of donating an electron pair. Organolithium reagents (RLi) contain a highly polarized bond where carbon acts as a carbanion, making it a powerful electron donor and thus a nucleophile. This is consistent with the document's explicit identification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ RLi is identified as a nucleophile.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "RLi"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Reagents that attack a substrate at a position of low electron density are commonly referred to as:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Electrophiles"
+        },
+        {
+          "type": "string",
+          "content": "Radicals"
+        },
+        {
+          "type": "string",
+          "content": "Lewis acids"
+        },
+        {
+          "type": "string",
+          "content": "Nucleophiles"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nucleophiles",
+      "Definitions",
+      "Reaction mechanism"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Nucleophiles</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Chemical reagents are classified based on their electron affinity and the type of site they attack in a substrate.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the definitions provided in the document.</strong><br/>The document explicitly states: \"Reagents that attack a substrate at a position of <span style='color:var(--orange);font-weight:bold;'>low electron density</span> are called <span style='color:var(--orange);font-weight:bold;'>Nucleophiles</span>.\"</li><li><strong>Step 2: Compare this definition with the options.</strong><br/>The definition perfectly matches the term Nucleophiles.</li></ol><ul><li><em>Evaluating Option 1 (Electrophiles):</em> Electrophiles are electron-deficient species that attack positions of high electron density.</li><li><em>Evaluating Option 2 (Radicals):</em> Radicals are species with unpaired electrons, participating in radical reactions, not typically defined by attacking low electron density positions in this context.</li><li><em>Evaluating Option 3 (Lewis acids):</em> While Lewis acids are electron-pair acceptors, the general term for reagents attacking low electron density sites is nucleophiles.</li><li><em>Evaluating Option 4 (Nucleophiles):</em> This option directly matches the definition provided in the document for reagents attacking positions of low electron density.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Nucleophiles are electron-rich species that seek out and attack electron-deficient sites (low electron density) on other molecules. This aligns precisely with the given definition in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Reagents that attack a substrate at a position of low electron density are commonly referred to as Nucleophiles.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleophiles"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Reagents that attack a substrate at a position of high electron density are called:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Nucleophiles"
+        },
+        {
+          "type": "string",
+          "content": "Initiators"
+        },
+        {
+          "type": "string",
+          "content": "Electrophiles"
+        },
+        {
+          "type": "string",
+          "content": "Terminators"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Electrophiles",
+      "Definitions",
+      "Reaction mechanism"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Electrophiles</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Chemical reagents are classified based on their electron affinity and the type of site they attack in a substrate. Electrophiles are electron-deficient species attracted to electron-rich sites.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the definitions provided in the document.</strong><br/>The document explicitly states: \"The reagents that attack a substrate at a position of <span style='color:var(--orange);font-weight:bold;'>high electron density</span> are called <span style='color:var(--orange);font-weight:bold;'>Electrophiles</span>.\"</li><li><strong>Step 2: Compare this definition with the given options.</strong><br/>The definition directly corresponds to the term Electrophiles.</li></ol><ul><li><em>Evaluating Option 1 (Nucleophiles):</em> Nucleophiles are electron-rich species that attack positions of low electron density.</li><li><em>Evaluating Option 2 (Initiators):</em> Initiators are species that start a chain reaction, particularly in radical chemistry, and are not defined by attacking high electron density.</li><li><em>Evaluating Option 3 (Electrophiles):</em> This option directly matches the definition provided in the document for reagents attacking positions of high electron density.</li><li><em>Evaluating Option 4 (Terminators):</em> Terminators are species that stop a chain reaction, particularly in radical chemistry.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Electrophiles are electron-deficient species that are attracted to and attack electron-rich sites (high electron density) on other molecules. This is precisely what the document defines.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Reagents that attack a substrate at a position of high electron density are called Electrophiles.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophiles"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What are the chemical products typically obtained from the complete combustion of octane (C8H18) in excess oxygen?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "CO & H2O"
+        },
+        {
+          "type": "string",
+          "content": "CO2 & H2O"
+        },
+        {
+          "type": "string",
+          "content": "C & H2O"
+        },
+        {
+          "type": "string",
+          "content": "CO2 & O2"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Combustion",
+      "Hydrocarbons",
+      "Chemical reactions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Products of Complete Combustion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Complete combustion</strong> of a hydrocarbon occurs in the presence of sufficient (excess) oxygen, where the hydrocarbon is fully oxidized.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Understand complete combustion.</strong><br/>The document states: \"These are products obtained from <span style='color:var(--orange);font-weight:bold;'>complete combustion, combustion in excess air/oxygen</span>.\"</li><li><strong>Step 2: Identify the products mentioned for complete combustion.</strong><br/>The document explicitly states that the products are <span style='color:var(--orange);font-weight:bold;'>CO2 & H2O</span>.</li></ol><ul><li><em>Evaluating Option 1 (CO & H2O):</em> Carbon monoxide (CO) is a product of incomplete combustion, not complete combustion.</li><li><em>Evaluating Option 2 (CO2 & H2O):</em> Carbon dioxide (CO2) and water (H2O) are the universal products of the complete combustion of any hydrocarbon. This is explicitly stated in the document.</li><li><em>Evaluating Option 3 (C & H2O):</em> Carbon (C), or soot, is a product of very incomplete combustion, often seen as a black residue.</li><li><em>Evaluating Option 4 (CO2 & O2):</em> Oxygen (O2) is a reactant, not a product, in the combustion process.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Complete combustion implies that all carbon atoms are fully oxidized to carbon dioxide and all hydrogen atoms are fully oxidized to water. This is a fundamental concept in combustion chemistry, consistent with the document's information.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The chemical products typically obtained from the complete combustion of octane in excess oxygen are CO2 & H2O.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CO2 & H2O"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Why does butane (C4H10) turn a cooking pot black, and what are the main products of this process?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It undergoes complete combustion, producing CO2 and H2O, with the black color from impurities."
+        },
+        {
+          "type": "string",
+          "content": "It undergoes incomplete combustion in limited air, producing CO and H2O, with CO responsible for the black color."
+        },
+        {
+          "type": "string",
+          "content": "It undergoes incomplete combustion in limited air, producing CO and H2O, with soot (carbon) responsible for the black color."
+        },
+        {
+          "type": "string",
+          "content": "It undergoes decomposition due to high heat, leaving behind elemental carbon (black soot) and hydrogen gas."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Incomplete combustion",
+      "Hydrocarbons",
+      "Combustion products"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Incomplete Combustion of Butane</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Incomplete combustion</strong> of a hydrocarbon occurs when there is an insufficient supply of oxygen, leading to the formation of carbon monoxide (CO), elemental carbon (soot), and water, instead of carbon dioxide and water.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify the process causing the black residue.</strong><br/>The document states, \"That's <span style='color:var(--orange);font-weight:bold;'>incomplete combustion, combustion in limited supply of air</span>.\" This explains why the pot turns black (due to soot).</li><li><strong>Step 2: Identify the products of this process.</strong><br/>The document states that incomplete combustion \"Gives <span style='color:var(--orange);font-weight:bold;'>CO & H2O</span>\" and provides the equation: C4H10 + 2O2 → 4CO + 5H2O. Note that while CO is a product, the black color is primarily due to unburnt carbon (soot), which is a common but not always balanced product of incomplete combustion equations. The question asks for the main products *from the equation given*, which are CO and H2O. However, the explanation for the black pot is incomplete combustion. For the black color, soot (carbon) must be present, even if not shown in that specific balanced equation. The best option will combine the cause of the black color with the stated products.</li></ol><ul><li><em>Evaluating Option 1:</em> Complete combustion does not produce black soot and requires excess oxygen, not limited air.</li><li><em>Evaluating Option 2:</em> While incomplete combustion produces CO and H2O, CO itself is a colorless, odorless gas and does not cause the black color. The black color comes from unburnt carbon (soot).</li><li><em>Evaluating Option 3:</em> This option correctly identifies the process as <span style='color:var(--orange);font-weight:bold;'>incomplete combustion in limited air</span>, and correctly states the primary products of incomplete combustion are <span style='color:var(--orange);font-weight:bold;'>CO and H2O</span>, and most importantly, attributes the <span style='color:var(--orange);font-weight:bold;'>black color to soot (carbon)</span>, which is consistent with real-world observation and the underlying chemistry of incomplete combustion. Although the document's specific equation only shows CO and H2O, the act of \"turning a cooking pot black\" directly implies soot.</li><li><em>Evaluating Option 4:</em> While decomposition can occur, the primary reason for a cooking pot turning black during the burning of butane is combustion (specifically incomplete combustion) rather than just thermal decomposition.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The document states the cause is \"incomplete combustion, combustion in limited supply of air\" and the products as \"CO & H2O.\" The black color itself is universally understood to be due to soot (elemental carbon), which forms during incomplete combustion alongside CO. Option 3 best combines the documented facts with common chemical understanding of the black residue.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Butane turns a cooking pot black because it undergoes incomplete combustion in limited air, producing CO and H2O, with soot (carbon) responsible for the black color.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It undergoes incomplete combustion in limited air, producing CO and H2O, with soot (carbon) responsible for the black color."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Which balanced chemical equation represents the complete combustion of propane (C3H8)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "C3H8 + 4O2 → 3CO2 + 4H2O"
+        },
+        {
+          "type": "string",
+          "content": "C3H8 + 5O2 → 3CO2 + 4H2O"
+        },
+        {
+          "type": "string",
+          "content": "C3H8 + O2 → CO2 + H2O"
+        },
+        {
+          "type": "string",
+          "content": "C3H8 + 3O2 → 3CO + 4H2O"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Combustion",
+      "Stoichiometry",
+      "Chemical equations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Balanced Equation for Complete Combustion of Propane</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In <strong>complete combustion</strong>, a hydrocarbon reacts with oxygen to produce carbon dioxide (CO2) and water (H2O). The chemical equation must be balanced to obey the law of conservation of mass.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify reactants and products for complete combustion.</strong><br/>Reactants: Propane (C3H8) and Oxygen (O2).<br/>Products: Carbon Dioxide (CO2) and Water (H2O).<br/>The unbalanced equation is: C3H8 + O2 → CO2 + H2O</li><li><strong>Step 2: Balance the carbon atoms.</strong><br/>There are 3 carbon atoms in C3H8, so we need 3 molecules of CO2 on the product side.<br/>C3H8 + O2 → <span style='color:var(--orange);font-weight:bold;'>3</span>CO2 + H2O</li><li><strong>Step 3: Balance the hydrogen atoms.</strong><br/>There are 8 hydrogen atoms in C3H8, so we need 4 molecules of H2O on the product side (4 × 2 = 8).<br/>C3H8 + O2 → 3CO2 + <span style='color:var(--orange);font-weight:bold;'>4</span>H2O</li><li><strong>Step 4: Balance the oxygen atoms.</strong><br/>On the product side, we have (3 × 2 oxygen from CO2) + (4 × 1 oxygen from H2O) = 6 + 4 = 10 oxygen atoms.<br/>Therefore, we need 5 molecules of O2 on the reactant side (5 × 2 = 10).<br/>C3H8 + <span style='color:var(--orange);font-weight:bold;'>5</span>O2 → 3CO2 + 4H2O</li><li><strong>Step 5: Verify with the document.</strong><br/>The document states the equation: \"C3H8 + 5O2 → 3CO2 + 4H2O\".</li></ol><ul><li><em>Evaluating Option 1:</em> The oxygen is incorrectly balanced (4O2 instead of 5O2).</li><li><em>Evaluating Option 2:</em> This equation is correctly balanced for carbon, hydrogen, and oxygen, matching the document's answer.</li><li><em>Evaluating Option 3:</em> This equation is not balanced.</li><li><em>Evaluating Option 4:</em> This represents incomplete combustion, producing CO, not complete combustion, and the oxygen is not balanced for CO.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> For C3H8: Carbon (3 left, 3 right), Hydrogen (8 left, 8 right), Oxygen (10 left, 10 right). All atoms are balanced, confirming it is the correct equation for complete combustion.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The balanced chemical equation representing the complete combustion of propane (C3H8) is C3H8 + 5O2 → 3CO2 + 4H2O.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C3H8 + 5O2 → 3CO2 + 4H2O"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The transformation of CH3CH=O + HCN into CH3CH(OH)CN is classified as what type of organic reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Substitution reaction"
+        },
+        {
+          "type": "string",
+          "content": "Elimination reaction"
+        },
+        {
+          "type": "string",
+          "content": "Redox reaction"
+        },
+        {
+          "type": "string",
+          "content": "Addition reaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction types",
+      "Addition reactions",
+      "Carbonyl chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classifying the Given Reaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Organic reactions are classified based on how the atoms rearrange during the transformation. An <strong>addition reaction</strong> involves the formation of new bonds across a multiple bond (double or triple bond), leading to a reduction in the number of multiple bonds.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Analyze the changes in bonding in the reactants and products.</strong><br/>The reactant CH3CH=O has a <span style='color:var(--orange);font-weight:bold;'>carbon-oxygen double bond</span>.<br/>The product CH3CH(OH)CN has a <span style='color:var(--orange);font-weight:bold;'>carbon-oxygen single bond</span> and a new <span style='color:var(--orange);font-weight:bold;'>carbon-carbon single bond</span> (from HCN).</li><li><strong>Step 2: Compare the observed changes with the definition of addition reactions.</strong><br/>The document defines: \"<span style='color:var(--orange);font-weight:bold;'>Addition reaction</span> involves adding groups/atoms across a double/triple bond, thereby reducing the double/triple bond.\" In the given reaction, HCN (H and CN) has added across the C=O double bond, converting it to a C-O single bond and forming a new C-C bond, thus reducing the multiple bond.</li></ol><ul><li><em>Evaluating Option 1 (Substitution reaction):</em> A substitution reaction involves replacing one atom or group with another, which is not what happens here.</li><li><em>Evaluating Option 2 (Elimination reaction):</em> An elimination reaction involves removing atoms/groups to form a multiple bond, which is the opposite of this reaction.</li><li><em>Evaluating Option 3 (Redox reaction):</em> While oxidation states change, the primary classification based on bond changes is not redox in this context.</li><li><em>Evaluating Option 4 (Addition reaction):</em> This classification perfectly matches the description: groups (H and CN) are added across a double bond (C=O), converting it to a single bond.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The aldehyde's C=O double bond is converted to a single bond as H and CN fragments from HCN are added across it. This directly fits the definition of an addition reaction given in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The transformation of CH3CH=O + HCN into CH3CH(OH)CN is classified as an Addition reaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Addition reaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "The transformation CH3Cl + KOH → CH3OH + KCl is an example of what type of organic reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Elimination reaction"
+        },
+        {
+          "type": "string",
+          "content": "Addition reaction"
+        },
+        {
+          "type": "string",
+          "content": "Substitution reaction"
+        },
+        {
+          "type": "string",
+          "content": "Rearrangement reaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction types",
+      "Substitution reactions",
+      "Haloalkanes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classifying the Reaction: CH3Cl + KOH → CH3OH + KCl</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <strong>substitution reaction</strong> in organic chemistry involves the replacement of one atom or group by another atom or group.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Analyze the changes between reactants and products.</strong><br/>In the reactant CH3Cl, a chlorine atom is attached to the methyl group.<br/>In the product CH3OH, an alcohol (-OH) group is attached to the methyl group, and KCl is formed.<br/>Essentially, the <span style='color:var(--orange);font-weight:bold;'>chlorine atom (Cl)</span> from CH3Cl has been <span style='color:var(--orange);font-weight:bold;'>replaced by the hydroxyl group (OH)</span> from KOH.</li><li><strong>Step 2: Compare this change with the definition of reaction types.</strong><br/>The document defines substitution reaction as: \"the Cl of the CH3Cl is replaced/substituted by the OH of the KOH.\" This perfectly matches the observation.</li></ol><ul><li><em>Evaluating Option 1 (Elimination reaction):</em> An elimination reaction involves removing atoms or groups to form a multiple bond, which is not occurring here.</li><li><em>Evaluating Option 2 (Addition reaction):</em> An addition reaction involves adding atoms or groups across a multiple bond, typically converting it to a single bond, which is not the case here.</li><li><em>Evaluating Option 3 (Substitution reaction):</em> This correctly describes the reaction where the Cl atom is substituted by the OH group.</li><li><em>Evaluating Option 4 (Rearrangement reaction):</em> A rearrangement reaction involves a migration of atoms or groups within the same molecule, leading to a new isomer, which is not the primary event in this reaction.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The exchange of the chlorine atom for a hydroxyl group is a classic example of nucleophilic substitution. The document explicitly defines this as a substitution reaction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The transformation CH3Cl + KOH → CH3OH + KCl is an example of a Substitution reaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Substitution reaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "The conversion of R-CH2-CH2-OH to R-CH=CH2 + H2O, typically using concentrated H2SO4, belongs to what class of organic reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Substitution reaction"
+        },
+        {
+          "type": "string",
+          "content": "Rearrangement reaction"
+        },
+        {
+          "type": "string",
+          "content": "Elimination reaction"
+        },
+        {
+          "type": "string",
+          "content": "Addition reaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction types",
+      "Elimination reactions",
+      "Dehydration of alcohols"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Classifying the Dehydration of Alcohols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> An <strong>elimination reaction</strong> is a type of organic reaction in which two substituents are removed from a molecule, often resulting in the formation of a pi bond (double or triple bond). Dehydration of alcohols and dehydrohalogenation of haloalkanes are common examples.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Analyze the change in molecular structure.</strong><br/>From the alcohol (R-CH2-CH2-OH), a hydrogen atom (H) from one carbon and the hydroxyl group (-OH) from an adjacent carbon are removed. These two fragments combine to form a molecule of water (H2O).</li><li><strong>Step 2: Observe the bond formation.</strong><br/>The removal of H and OH from adjacent carbons leads to the formation of a <span style='color:var(--orange);font-weight:bold;'>carbon-carbon double bond</span> in R-CH=CH2.</li><li><strong>Step 3: Compare with the document's definition of elimination reactions.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>Elimination reaction</span> (Atoms or group of atoms are removed from adjacent carbon to form multiple bonds).\" This perfectly describes the given reaction.</li></ol><ul><li><em>Evaluating Option 1 (Substitution reaction):</em> A substitution involves replacing one group with another, which is not the case here.</li><li><em>Evaluating Option 2 (Rearrangement reaction):</em> A rearrangement involves intramolecular migration of atoms, not the removal of groups to form a double bond.</li><li><em>Evaluating Option 3 (Elimination reaction):</em> This correctly identifies the process where H and OH are removed from adjacent carbons to form a C=C double bond.</li><li><em>Evaluating Option 4 (Addition reaction):</em> An addition reaction is the reverse process, where a multiple bond is converted to single bonds by adding groups.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The dehydration of an alcohol, where water is eliminated from two adjacent carbon atoms to form an alkene, is a classic example of an elimination reaction. This is consistent with the provided definition.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The conversion of R-CH2-CH2-OH to R-CH=CH2 + H2O belongs to the class of Elimination reaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Elimination reaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "A reaction that involves the replacement of either a hydrogen atom or a functional group with another is specifically termed a:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Elimination reaction"
+        },
+        {
+          "type": "string",
+          "content": "Addition reaction"
+        },
+        {
+          "type": "string",
+          "content": "Rearrangement reaction"
+        },
+        {
+          "type": "string",
+          "content": "Substitution reaction"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Reaction types",
+      "Substitution reactions",
+      "Definitions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Definition of Substitution Reaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Organic reactions are classified based on the types of changes that occur in the molecular structure. A reaction where one atom or group is exchanged for another is fundamental.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the definitions of reaction types provided in the document.</strong><br/>The document defines: \"<span style='color:var(--orange);font-weight:bold;'>substitution reaction</span> (This involves the replacement of either a hydrogen atom or a functional group with another.\"</li><li><strong>Step 2: Compare this definition with the options.</strong><br/>The provided description directly matches the definition of a substitution reaction.</li></ol><ul><li><em>Evaluating Option 1 (Elimination reaction):</em> Elimination reactions involve removing atoms/groups to form multiple bonds.</li><li><em>Evaluating Option 2 (Addition reaction):</em> Addition reactions involve adding atoms/groups across multiple bonds, reducing them.</li><li><em>Evaluating Option 3 (Rearrangement reaction):</em> Rearrangement reactions involve intramolecular migration of atoms/groups to form isomers.</li><li><em>Evaluating Option 4 (Substitution reaction):</em> This accurately matches the definition provided in the document for the replacement of an atom or group with another.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The core characteristic of a substitution reaction is the exchange of parts. If an H atom or functional group is replaced by another, it's a direct substitution, as the document defines.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A reaction that involves the replacement of either a hydrogen atom or a functional group with another is specifically termed a Substitution reaction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Substitution reaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What is the primary product formed when 3-methyl-2-pentene reacts with HBr in the presence of methyl peroxide, (CH3O)2?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2-bromo-3-methylpentane"
+        },
+        {
+          "type": "string",
+          "content": "3-bromo-3-methylpentane"
+        },
+        {
+          "type": "string",
+          "content": "2-bromo-2-methylpentane"
+        },
+        {
+          "type": "string",
+          "content": "3-bromo-2-methylpentane"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Addition reactions",
+      "Anti-Markovnikov rule",
+      "Peroxide effect"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Anti-Markovnikov Addition to 3-methyl-2-pentene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The addition of HBr to an alkene in the presence of peroxides (like methyl peroxide, (CH3O)2) follows the <span style='color:var(--orange);font-weight:bold;'>Anti-Markovnikov rule</span>. This rule dictates that the hydrogen atom adds to the carbon atom of the double bond that already has fewer hydrogen atoms, and the bromine atom adds to the carbon atom that has more hydrogen atoms. However, the document's Anti-Markovnikov rule states: \"The H of the reagent will add to the carbon of the double of the alkene with Less no of hydrogen.\" This implies Br will go to the more substituted carbon.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Draw the structure of 3-methyl-2-pentene.</strong><br/>The parent chain is pentene (5 carbons) with a double bond at C2 and a methyl group at C3.<br/>CH3-CH=<span style='color:var(--orange);font-weight:bold;'>C</span>(CH3)-CH2-CH3</li><li><strong>Step 2: Identify the carbons of the double bond and their hydrogen count.</strong><br/>The double bond is between C2 and C3.<br/>C2: CH3-<span style='color:var(--orange);font-weight:bold;'>CH</span>=<br/>C3: C(CH3)-<br/>So, C2 has <span style='color:var(--orange);font-weight:bold;'>1 hydrogen</span>.<br/>C3 has <span style='color:var(--orange);font-weight:bold;'>0 hydrogens</span> (it's bonded to CH3, CH2, CH3, and the double bond carbon).</li><li><strong>Step 3: Apply the Anti-Markovnikov rule as stated in the document for HBr/peroxide.</strong><br/>The document states for Anti-Markovnikov: \"The H of the reagent will add to the carbon of the double of the alkene with Less no of hydrogen.\" So, H adds to C3 (0 hydrogens). Br adds to C2 (1 hydrogen).<br/>This leads to: CH3-<span style='color:var(--orange);font-weight:bold;'>CH(Br)</span>-<span style='color:var(--orange);font-weight:bold;'>CH(CH3)</span>-CH2-CH3.</li><li><strong>Step 4: Name the product.</strong><br/>Numbering the longest chain from the end closest to the bromine: CH3-<span style='color:var(--orange);font-weight:bold;'>CH(Br)</span>-<span style='color:var(--orange);font-weight:bold;'>CH(CH3)</span>-CH2-CH3. This results in 2-bromo-3-methylpentane. This matches the document's provided answer.</li></ol><ul><li><em>Evaluating Option 1 (2-bromo-3-methylpentane):</em> This aligns with the Anti-Markovnikov addition where Br adds to the C2 (more hydrogens, but less substituted by alkyl groups if looking from a different perspective) and H adds to C3 (less hydrogens, more substituted by alkyl groups), based on the document's interpretation.</li><li><em>Evaluating Option 2 (3-bromo-3-methylpentane):</em> This would result from Markovnikov addition where Br adds to the more substituted carbon (C3) and H adds to C2. This is not the product with peroxide.</li><li><em>Evaluating Option 3 (2-bromo-2-methylpentane):</em> This is not possible from 3-methyl-2-pentene via simple addition.</li><li><em>Evaluating Option 4 (3-bromo-2-methylpentane):</em> This would mean Br on C3 and methyl on C2, which is not the correct structure after addition.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The presence of peroxides dictates Anti-Markovnikov addition of HBr. For 3-methyl-2-pentene (CH3-CH=C(CH3)-CH2-CH3), the hydrogen goes to C3 (less hydrogen atoms on the double bond carbon), and bromine goes to C2 (more hydrogen atoms on the double bond carbon), resulting in 2-bromo-3-methylpentane. The document's answer for this specific reaction confirms this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The primary product formed when 3-methyl-2-pentene reacts with HBr in the presence of methyl peroxide is 2-bromo-3-methylpentane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-bromo-3-methylpentane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What is the product formed when cyclohexene reacts with bromine (Br2)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bromocyclohexane"
+        },
+        {
+          "type": "string",
+          "content": "Cyclohexane"
+        },
+        {
+          "type": "string",
+          "content": "1,2-dibromocyclohexane"
+        },
+        {
+          "type": "string",
+          "content": "1,3-dibromocyclohexane"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Addition reactions",
+      "Halogenation of alkenes",
+      "Cyclic compounds"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Addition of Bromine to Cyclohexene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Alkenes undergo <strong>addition reactions</strong> with halogens (like Br2) across the double bond. Each carbon of the double bond gains one halogen atom, converting the double bond to a single bond.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify the reactant and reagent.</strong><br/>Reactant: Cyclohexene, a cyclic alkene with one double bond.<br/>Reagent: Bromine (Br2).</li><li><strong>Step 2: Apply the general rule for halogen addition to alkenes.</strong><br/>The Br2 molecule adds across the C=C double bond. One bromine atom attaches to each carbon of the original double bond.</li><li><strong>Step 3: Determine the product structure.</strong><br/>When bromine adds to cyclohexene, the double bond breaks, and a bromine atom attaches to each of the two adjacent carbons that previously formed the double bond. This results in a saturated cyclohexane ring with two bromine atoms on adjacent carbons.</li><li><strong>Step 4: Name the product.</strong><br/>The product is 1,2-dibromocyclohexane. This is consistent with the product shown in the document's example: \"1,2-dibromo Cyclohexane.\"</li></ol><ul><li><em>Evaluating Option 1 (Bromocyclohexane):</em> This would be the product if only one bromine atom were added, perhaps via substitution or if it were an aryl halide. This is incorrect for addition across a double bond.</li><li><em>Evaluating Option 2 (Cyclohexane):</em> This would be the product of hydrogenation (addition of H2), not bromination.</li><li><em>Evaluating Option 3 (1,2-dibromocyclohexane):</em> This is the correct product, resulting from the addition of two bromine atoms across the double bond of cyclohexene, with bromines on adjacent carbons.</li><li><em>Evaluating Option 4 (1,3-dibromocyclohexane):</em> This would imply that the two bromine atoms added to non-adjacent carbons, which is not the outcome of direct addition to a double bond.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The reaction of alkenes with halogens like Br2 is a classic example of electrophilic addition, leading to vicinal dihalides (halogens on adjacent carbons). The document explicitly shows 1,2-dibromocyclohexane as the product.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product formed when cyclohexene reacts with bromine (Br2) is 1,2-dibromocyclohexane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1,2-dibromocyclohexane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "In the presence of hydrogen peroxide, does 2-methyl-2-butene obey Markovnikov's rule when reacting with hydrogen bromide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Yes, it obeys Markovnikov's rule."
+        },
+        {
+          "type": "string",
+          "content": "Only if the reaction is carried out at high temperature."
+        },
+        {
+          "type": "string",
+          "content": "No, it obeys Anti-Markovnikov's rule."
+        },
+        {
+          "type": "string",
+          "content": "It is an internal alkene, so Markovnikov's rule is not applicable."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Markovnikov's rule",
+      "Anti-Markovnikov addition",
+      "Peroxide effect"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Markovnikov vs. Anti-Markovnikov Rule with Peroxides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Markovnikov's rule</strong> states that in the addition of HX to an unsymmetrical alkene, the hydrogen atom adds to the carbon atom of the double bond that already has a greater number of hydrogen atoms. However, in the presence of peroxides, the addition of HBr to alkenes follows the <strong>Anti-Markovnikov rule</strong>.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify the key condition mentioned.</strong><br/>The presence of \"hydrogen peroxide\" is the crucial condition.</li><li><strong>Step 2: Recall the effect of peroxides on HBr addition to alkenes.</strong><br/>The document explicitly states: \"In the presence of Peroxide; it will not Obey Markovnikov's rule, But will obey <span style='color:var(--orange);font-weight:bold;'>ANTI-MARKOVNIKOV'S RULE</span>.\" This is a general principle applied to HBr addition.</li><li><strong>Step 3: Apply this principle to the question.</strong><br/>Since hydrogen peroxide is present, the reaction will not follow Markovnikov's rule. Instead, it will follow Anti-Markovnikov's rule.</li></ol><ul><li><em>Evaluating Option 1 (Yes, it obeys Markovnikov's rule.):</em> This is incorrect because peroxides reverse Markovnikov's rule for HBr.</li><li><em>Evaluating Option 2 (Only if the reaction is carried out at high temperature.):</em> Temperature is not the primary factor determining Markovnikov vs. Anti-Markovnikov in the presence of peroxides.</li><li><em>Evaluating Option 3 (No, it obeys Anti-Markovnikov's rule.):</em> This is the correct statement, as the presence of peroxide directs the addition of HBr to be Anti-Markovnikov.</li><li><em>Evaluating Option 4 (It is an internal alkene, so Markovnikov's rule is not applicable.):</em> While 2-methyl-2-butene might be considered relatively symmetrical, the presence of peroxide specifically modifies the HBr addition mechanism, making it Anti-Markovnikov regardless of the alkene's exact symmetry, as long as there is a difference in substitution.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The peroxide effect is a well-known phenomenon in organic chemistry, specifically for the addition of HBr, where peroxides initiate a radical mechanism that leads to Anti-Markovnikov products. The document confirms this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ No, in the presence of hydrogen peroxide, 2-methyl-2-butene obeys Anti-Markovnikov's rule when reacting with hydrogen bromide.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No, it obeys Anti-Markovnikov's rule."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Under what condition do unsymmetrical alkenes obey Markovnikov's Rule in reactions with hydrogen halides (HX)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "In the presence of high temperatures"
+        },
+        {
+          "type": "string",
+          "content": "In the presence of hydrogen peroxide"
+        },
+        {
+          "type": "string",
+          "content": "In the absence of hydrogen peroxide"
+        },
+        {
+          "type": "string",
+          "content": "Only if the hydrogen halide is HI"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Markovnikov's rule",
+      "Anti-Markovnikov addition",
+      "Peroxide effect"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Conditions for Markovnikov's Rule Adherence</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Markovnikov's rule</strong> describes the regioselectivity of electrophilic addition to unsymmetrical alkenes. It generally holds true for hydrogen halide additions (HCl, HBr, HI). However, the presence of peroxides can alter this regioselectivity, especially for HBr.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's statement regarding Markovnikov's rule and peroxides.</strong><br/>The document states: \"NO: UnSymmetrical alkene reaction with Hydrogen Halides <span style='color:var(--orange);font-weight:bold;'>Only obey's Markovnikov's Rule in the Absence of Peroxide</span>.\"</li><li><strong>Step 2: Identify the critical condition.</strong><br/>The crucial condition for obeying Markovnikov's rule is the lack of peroxides.</li></ol><ul><li><em>Evaluating Option 1 (In the presence of high temperatures):</em> Temperature is not the primary factor determining Markovnikov vs. Anti-Markovnikov for hydrogen halide addition.</li><li><em>Evaluating Option 2 (In the presence of hydrogen peroxide):</em> The presence of hydrogen peroxide causes the addition of HBr to follow Anti-Markovnikov's rule, not Markovnikov's rule.</li><li><em>Evaluating Option 3 (In the absence of hydrogen peroxide):</em> This is the correct condition. Without peroxides, hydrogen halides (including HBr) add to unsymmetrical alkenes according to Markovnikov's rule.</li><li><em>Evaluating Option 4 (Only if the hydrogen halide is HI):</em> Markovnikov's rule applies to HCl, HBr, and HI in the absence of peroxides. The peroxide effect is most prominent and reliable for HBr.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The document explicitly states that unsymmetrical alkenes only obey Markovnikov's rule with hydrogen halides in the absence of peroxides. This is a key distinction taught in organic chemistry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Unsymmetrical alkenes obey Markovnikov's Rule in reactions with hydrogen halides (HX) in the absence of hydrogen peroxide.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In the absence of hydrogen peroxide"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What is the product of the reaction of propene (CH3CH=CH2) with hydrogen bromide (HBr) in the presence of peroxide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2-bromopropane"
+        },
+        {
+          "type": "string",
+          "content": "1-bromopropane"
+        },
+        {
+          "type": "string",
+          "content": "propene dibromide"
+        },
+        {
+          "type": "string",
+          "content": "propanol"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Anti-Markovnikov addition",
+      "Peroxide effect",
+      "Alkene reactions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Anti-Markovnikov Addition of HBr to Propene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The addition of HBr to an unsymmetrical alkene in the presence of peroxides follows the <span style='color:var(--orange);font-weight:bold;'>Anti-Markovnikov rule</span>. This rule dictates that the hydrogen atom adds to the carbon atom of the double bond that has fewer hydrogen atoms (or is more substituted by alkyl groups), and the bromine atom adds to the carbon atom that has more hydrogen atoms (or is less substituted by alkyl groups). The document states: \"In Anti Markovnikov Rule; when Unsymmetrical reagent is reacted with Unsymmetrical alkenes, in the presence of Peroxide, The H of the reagent will add to the carbon of the double of the alkene with <span style='color:var(--orange);font-weight:bold;'>Less no of hydrogen</span>.\" This means the Br will go to the carbon with more hydrogens (less substituted).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify propene's double bond carbons and their hydrogen counts.</strong><br/>Propene: CH3-<span style='color:var(--orange);font-weight:bold;'>CH</span>=<span style='color:var(--orange);font-weight:bold;'>CH2</span><br/>C1 (terminal) has <span style='color:var(--orange);font-weight:bold;'>2 hydrogens</span>.<br/>C2 (internal) has <span style='color:var(--orange);font-weight:bold;'>1 hydrogen</span>.</li><li><strong>Step 2: Apply the Anti-Markovnikov rule (peroxide effect).</strong><br/>According to the document's definition of Anti-Markovnikov addition, the H of HBr adds to the carbon with *less* hydrogen atoms, which is C2 (the secondary carbon). Consequently, the Br atom adds to the carbon with *more* hydrogen atoms, which is C1 (the primary carbon).<br/>CH3-CH2-CH2-Br.</li><li><strong>Step 3: Name the product.</strong><br/>The product is 1-bromopropane. This matches the document's explicit answer: \"1-bromopropane.\"</li></ol><ul><li><em>Evaluating Option 1 (2-bromopropane):</em> This would be the product of Markovnikov addition (absence of peroxide).</li><li><em>Evaluating Option 2 (1-bromopropane):</em> This is the correct Anti-Markovnikov product, as explicitly stated in the document for propene + HBr/Peroxide.</li><li><em>Evaluating Option 3 (propene dibromide):</em> This would be the product of adding Br2, not HBr.</li><li><em>Evaluating Option 4 (propanol):</em> This would be the product of hydration (addition of water), not HBr.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The presence of peroxide reverses the regioselectivity of HBr addition for propene. Markovnikov addition would yield 2-bromopropane. Anti-Markovnikov addition yields 1-bromopropane, where the Br is on the less substituted carbon, as confirmed by the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product of the reaction of propene with hydrogen bromide in the presence of peroxide is 1-bromopropane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1-bromopropane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What happens to the hydrogen atom of an unsymmetrical reagent during Anti-Markovnikov addition to an unsymmetrical alkene in the presence of peroxide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It adds to the carbon with more hydrogen atoms."
+        },
+        {
+          "type": "string",
+          "content": "It adds to the carbon with less hydrogen atoms."
+        },
+        {
+          "type": "string",
+          "content": "It forms a covalent bond with the peroxide itself."
+        },
+        {
+          "type": "string",
+          "content": "It is released as hydrogen gas."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Anti-Markovnikov rule",
+      "Peroxide effect",
+      "Regioselectivity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Regioselectivity in Anti-Markovnikov Addition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Anti-Markovnikov addition</strong>, specifically for HBr in the presence of peroxides, reverses the regioselectivity of standard Markovnikov addition. This rule dictates the specific carbon atom of the double bond to which the hydrogen (and the other part of the reagent) adds.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's definition of Anti-Markovnikov rule.</strong><br/>The document explicitly states: \"In Anti Markovnikov Rule; when Unsymmetrical reagent is reacted with Unsymmetrical alkenes, in the presence of Peroxide, The H of the reagent will add to the carbon of the double of the alkene with <span style='color:var(--orange);font-weight:bold;'>Less no of hydrogen</span>.\"</li><li><strong>Step 2: Select the option that matches this statement.</strong><br/>The statement directly indicates that the hydrogen adds to the carbon with less number of hydrogen atoms.</li></ol><ul><li><em>Evaluating Option 1 (It adds to the carbon with more hydrogen atoms.):</em> This describes Markovnikov's rule, not Anti-Markovnikov's rule.</li><li><em>Evaluating Option 2 (It adds to the carbon with less hydrogen atoms.):</em> This is the correct statement for Anti-Markovnikov addition, as explicitly defined in the document.</li><li><em>Evaluating Option 3 (It forms a covalent bond with the peroxide itself.):</em> Peroxides act as catalysts by initiating a radical mechanism, not by forming stable covalent bonds with the adding hydrogen.</li><li><em>Evaluating Option 4 (It is released as hydrogen gas.):</em> Hydrogen gas would be formed in an elimination reaction, not an addition reaction.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The core principle of Anti-Markovnikov addition, as taught in organic chemistry, and as defined by the document, is that the hydrogen atom attaches to the more substituted carbon (the one with fewer hydrogen atoms already attached).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ During Anti-Markovnikov addition, the hydrogen atom of an unsymmetrical reagent adds to the carbon with less hydrogen atoms.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It adds to the carbon with less hydrogen atoms."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "What is the product formed when propene (CH3CH=CH2) reacts with hydrogen bromide (HBr) in the absence of peroxide?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "1-bromopropane"
+        },
+        {
+          "type": "string",
+          "content": "2-bromopropane"
+        },
+        {
+          "type": "string",
+          "content": "1,2-dibromopropane"
+        },
+        {
+          "type": "string",
+          "content": "Propanol"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Markovnikov's rule",
+      "Alkene reactions",
+      "Regioselectivity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Markovnikov Addition of HBr to Propene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> In the absence of peroxides, the addition of hydrogen halides (like HBr) to unsymmetrical alkenes follows <span style='color:var(--orange);font-weight:bold;'>Markovnikov's rule</span>. This rule states that the hydrogen atom from the HX reagent adds to the carbon atom of the double bond that already has a greater number of hydrogen atoms.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify propene's double bond carbons and their hydrogen counts.</strong><br/>Propene: CH3-<span style='color:var(--orange);font-weight:bold;'>CH</span>=<span style='color:var(--orange);font-weight:bold;'>CH2</span><br/>C1 (terminal) has <span style='color:var(--orange);font-weight:bold;'>2 hydrogens</span>.<br/>C2 (internal) has <span style='color:var(--orange);font-weight:bold;'>1 hydrogen</span>.</li><li><strong>Step 2: Apply Markovnikov's rule.</strong><br/>Since no peroxide is mentioned, the reaction follows Markovnikov's rule. The hydrogen atom from HBr will add to C1 (which has more hydrogens), and the bromine atom will add to C2 (which has fewer hydrogens).<br/>CH3-CH(Br)-CH3.</li><li><strong>Step 3: Name the product.</strong><br/>The product is 2-bromopropane. This matches the document's explicit answer: \"2-bromopropane\" for the reaction with HBr and the note: \"This Reaction follows Markovnikov Rule (No Peroxide given)\".</li></ol><ul><li><em>Evaluating Option 1 (1-bromopropane):</em> This would be the product of Anti-Markovnikov addition (in the presence of peroxide).</li><li><em>Evaluating Option 2 (2-bromopropane):</em> This is the correct Markovnikov product, as explicitly stated in the document for propene + HBr without peroxide.</li><li><em>Evaluating Option 3 (1,2-dibromopropane):</em> This would be the product of adding Br2, not HBr.</li><li><em>Evaluating Option 4 (Propanol):</em> This would be the product of hydration (addition of water), not HBr.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> In the absence of peroxides, the addition of HBr to an unsymmetrical alkene like propene strictly follows Markovnikov's rule. This means the H adds to the carbon with more hydrogens, and the Br adds to the carbon with fewer hydrogens, leading to 2-bromopropane. The document directly confirms this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product formed when propene reacts with hydrogen bromide in the absence of peroxide is 2-bromopropane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-bromopropane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Which of the following laboratory tests can be used to differentiate between pentane and pentene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "pH test"
+        },
+        {
+          "type": "string",
+          "content": "Flame test"
+        },
+        {
+          "type": "string",
+          "content": "Bromine water test"
+        },
+        {
+          "type": "string",
+          "content": "Litmus test"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Tests for unsaturation",
+      "Alkanes",
+      "Alkenes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Differentiating Saturated and Unsaturated Hydrocarbons</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Unsaturation</strong> in organic compounds refers to the presence of double or triple bonds. Several chemical tests exploit the reactivity of these multiple bonds to distinguish unsaturated compounds (like alkenes) from saturated compounds (like alkanes).</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Understand the nature of pentane and pentene.</strong><br/>The document states: \"Pentane is a <span style='color:var(--orange);font-weight:bold;'>Saturated hydrocarbon</span> while pentene is <span style='color:var(--orange);font-weight:bold;'>Unsaturated</span>.\"</li><li><strong>Step 2: Recall tests for unsaturation.</strong><br/>The document lists: \"The top test can be <span style='color:var(--orange);font-weight:bold;'>Bromine water test</span>. <span style='color:var(--orange);font-weight:bold;'>Baeyer test</span>.\" These tests are specifically used for unsaturation.</li><li><strong>Step 3: Select the option that is a test for unsaturation.</strong><br/>Bromine water test is explicitly mentioned as a test for unsaturation.</li></ol><ul><li><em>Evaluating Option 1 (pH test):</em> pH tests measure acidity/basicity and are not used to detect carbon-carbon unsaturation.</li><li><em>Evaluating Option 2 (Flame test):</em> Flame tests are used for identifying certain metal ions, not for differentiating hydrocarbons based on saturation.</li><li><em>Evaluating Option 3 (Bromine water test):</em> This is a standard test for unsaturation. Alkenes react with bromine water (decolorizing it), while alkanes generally do not. This is explicitly stated in the document.</li><li><em>Evaluating Option 4 (Litmus test):</em> Litmus paper is used to test for acidity or basicity, similar to a pH test, not unsaturation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The bromine water test involves the addition of bromine across the double bond of an alkene, causing the reddish-brown color of bromine water to disappear. Alkanes, being saturated, do not react with bromine water under normal conditions. The document confirms this test.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Bromine water test can be used to differentiate between pentane and pentene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bromine water test"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Besides the Bromine water test, what other test for unsaturation is mentioned in the document for differentiating pentane and pentene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Fehling's test"
+        },
+        {
+          "type": "string",
+          "content": "Tollens' test"
+        },
+        {
+          "type": "string",
+          "content": "Baeyer test"
+        },
+        {
+          "type": "string",
+          "content": "Iodoform test"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Tests for unsaturation",
+      "Alkanes",
+      "Alkenes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Alternative Test for Unsaturation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Tests for unsaturation rely on characteristic reactions of carbon-carbon double or triple bonds. Both the bromine water test and the Baeyer test are classic methods for detecting unsaturation.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Review the section on differentiating pentane and pentene.</strong><br/>The document states that to differentiate these two, \"we Can Carry out test for UNSATURATION.\"</li><li><strong>Step 2: List the tests explicitly mentioned.</strong><br/>The document lists: \"Bromine water test. <span style='color:var(--orange);font-weight:bold;'>Baeyer test</span>.\"</li><li><strong>Step 3: Identify the alternative test from the options.</strong><br/>The Baeyer test is the other test for unsaturation listed.</li></ol><ul><li><em>Evaluating Option 1 (Fehling's test):</em> Fehling's test is used to detect aldehydes and reducing sugars, not unsaturation in hydrocarbons.</li><li><em>Evaluating Option 2 (Tollens' test):</em> Tollens' test (silver mirror test) is also used to detect aldehydes, not carbon-carbon unsaturation.</li><li><em>Evaluating Option 3 (Baeyer test):</em> The Baeyer test (using cold, dilute, alkaline KMnO4) causes a purple color to disappear (and a brown precipitate to form) in the presence of alkenes or alkynes, indicating unsaturation. This test is explicitly mentioned in the document.</li><li><em>Evaluating Option 4 (Iodoform test):</em> The iodoform test is used to detect methyl ketones and secondary alcohols with a methyl group adjacent to the hydroxyl, not carbon-carbon unsaturation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The Baeyer test, involving the oxidation of the double bond by potassium permanganate, is a common qualitative test for unsaturation. The document clearly identifies it alongside the bromine water test.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Besides the Bromine water test, the Baeyer test is mentioned in the document for differentiating pentane and pentene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Baeyer test"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which statement accurately describes the expected result of a test for unsaturation when comparing pentane and pentene?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Both pentane and pentene will test positive for unsaturation."
+        },
+        {
+          "type": "string",
+          "content": "Pentane will test positive, while pentene will test negative."
+        },
+        {
+          "type": "string",
+          "content": "Pentene will test positive, while pentane will test negative."
+        },
+        {
+          "type": "string",
+          "content": "Neither pentane nor pentene will give a positive test for unsaturation."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Tests for unsaturation",
+      "Alkanes",
+      "Alkenes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Interpreting Unsaturation Tests for Pentane and Pentene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Saturated hydrocarbons</strong> (like alkanes) do not have carbon-carbon double or triple bonds and typically do not react with reagents used to test for unsaturation. <strong>Unsaturated hydrocarbons</strong> (like alkenes) possess carbon-carbon double or triple bonds that readily react with such reagents, giving a positive test.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Characterize pentane and pentene based on saturation.</strong><br/>The document states: \"Pentane is a <span style='color:var(--orange);font-weight:bold;'>Saturated hydrocarbon</span> while pentene is <span style='color:var(--orange);font-weight:bold;'>Unsaturated</span>.\"</li><li><strong>Step 2: Relate saturation to test results.</strong><br/>The document further states: \"Therefore to differentiate this two we Can Carry out test for UNSATURATION. <span style='color:var(--orange);font-weight:bold;'>pentene will test positive</span> because it's Unsaturated while <span style='color:var(--orange);font-weight:bold;'>pentane will test Negative</span>.\"</li></ol><ul><li><em>Evaluating Option 1:</em> This is incorrect, as pentane is saturated and would test negative.</li><li><em>Evaluating Option 2:</em> This is incorrect, as pentane (saturated) tests negative and pentene (unsaturated) tests positive.</li><li><em>Evaluating Option 3:</em> This accurately describes the results as stated in the document: pentene (unsaturated) tests positive, and pentane (saturated) tests negative.</li><li><em>Evaluating Option 4:</em> This is incorrect, as pentene, being unsaturated, will give a positive test.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The fundamental principle of unsaturation tests is to distinguish compounds with multiple bonds from those without. Alkenes react, alkanes do not. The document explicitly confirms this outcome.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Pentene will test positive, while pentane will test negative for unsaturation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pentene will test positive, while pentane will test negative."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Ozonolysis of 2-methyl-2-butene followed by treatment with zinc metal in an acid medium yields which two organic products?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Propanal and Ethane"
+        },
+        {
+          "type": "string",
+          "content": "Propanone and Ethanal"
+        },
+        {
+          "type": "string",
+          "content": "Acetone and Formaldehyde"
+        },
+        {
+          "type": "string",
+          "content": "Butanone and Methanal"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Ozonolysis",
+      "Alkene oxidation",
+      "Reaction products"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Products of Ozonolysis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Ozonolysis</strong> is an organic reaction where the carbon-carbon double bond of an alkene (or triple bond of an alkyne) is cleaved by ozone (O3), followed by a reductive workup (e.g., with Zn/H2O or DMS) to yield aldehydes and/or ketones. The double bond essentially breaks, and oxygen atoms are added to each of the former double-bonded carbons.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Draw the structure of 2-methyl-2-butene.</strong><br/>CH3-<span style='color:var(--orange);font-weight:bold;'>C(CH3)</span>=<span style='color:var(--orange);font-weight:bold;'>CH</span>-CH3</li><li><strong>Step 2: Identify the carbons of the double bond and their substituents.</strong><br/>The double bond is between C2 and C3.<br/>C2 is bonded to two methyl groups (CH3 and CH3).<br/>C3 is bonded to one hydrogen (H) and one methyl group (CH3).</li><li><strong>Step 3: Apply the ozonolysis mechanism (cleavage and oxygen addition).</strong><br/>The double bond breaks, and each carbon atom that was part of the double bond forms a carbonyl group (C=O).<br/>From C2 (bonded to two CH3 groups): this forms a ketone, <span style='color:var(--orange);font-weight:bold;'>CH3-C(=O)-CH3 (propanone, also known as acetone)</span>.<br/>From C3 (bonded to H and CH3): this forms an aldehyde, <span style='color:var(--orange);font-weight:bold;'>CH3-C(=O)-H (ethanal, also known as acetaldehyde)</span>.</li><li><strong>Step 4: Verify with the document.</strong><br/>The document explicitly shows these products: \"propanone\" and \"Ethanal\".</li></ol><ul><li><em>Evaluating Option 1 (Propanal and Ethane):</em> Propanal would come from a different alkene, and ethane is a saturated hydrocarbon, not an ozonolysis product.</li><li><em>Evaluating Option 2 (Propanone and Ethanal):</em> This matches the products derived from the cleavage of 2-methyl-2-butene's double bond and explicitly stated in the document.</li><li><em>Evaluating Option 3 (Acetone and Formaldehyde):</em> Acetone is propanone. Formaldehyde (methanal) would come from a terminal =CH2 group.</li><li><em>Evaluating Option 4 (Butanone and Methanal):</em> Butanone and Methanal would arise from different alkene structures.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> By conceptually breaking the double bond and adding an oxygen atom to each fragment, the formation of propanone (from the more substituted side) and ethanal (from the less substituted side) is confirmed. The document's visual representation and text match this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ozonolysis of 2-methyl-2-butene followed by treatment with zinc metal in an acid medium yields Propanone and Ethanal.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propanone and Ethanal"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Which class of hydrocarbon is known to form metal salts?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Alkanes"
+        },
+        {
+          "type": "string",
+          "content": "Internal alkynes"
+        },
+        {
+          "type": "string",
+          "content": "Terminal alkynes"
+        },
+        {
+          "type": "string",
+          "content": "Alkenes"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Alkynes",
+      "Acidity",
+      "Metal salt formation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hydrocarbons Forming Metal Salts</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The acidity of certain hydrocarbons allows them to react with strong bases or metal ions to form salts. This property is unique among simple hydrocarbons to terminal alkynes due to the s-character of the sp-hybridized carbon atom.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's section on alkynes.</strong><br/>The document asks: \"What is the name and structure of hydrocarbon that can form a metal salts?\"</li><li><strong>Step 2: Identify the answer provided.</strong><br/>The answer is: \"<span style='color:var(--orange);font-weight:bold;'>Alkyne (terminal alkyne)</span>\".</li></ol><ul><li><em>Evaluating Option 1 (Alkanes):</em> Alkanes are very unreactive and do not form metal salts.</li><li><em>Evaluating Option 2 (Internal alkynes):</em> Internal alkynes (where the triple bond is not at the end of the chain) do not have a terminal hydrogen directly bonded to an sp-hybridized carbon, so they do not exhibit acidic properties strong enough to form metal salts as terminal alkynes do. The document confirms this: \"This reaction of terminal alkyne with a strong base to form insoluble acetylide is not possible with internal alkyne\".</li><li><em>Evaluating Option 3 (Terminal alkynes):</em> Terminal alkynes have an acidic proton directly attached to the sp-hybridized carbon of the triple bond, allowing them to react with strong bases to form metal acetylides (salts). This is explicitly stated in the document.</li><li><em>Evaluating Option 4 (Alkenes):</em> Alkenes are generally not acidic enough to form metal salts.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The unique acidity of the terminal hydrogen in terminal alkynes allows them to react with certain metal ions or strong bases to form acetylide salts, which can often be observed as precipitates. This property is clearly outlined in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Terminal alkynes are the class of hydrocarbon known to form metal salts.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Terminal alkynes"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "What is a defining characteristic of a terminal alkyne?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "It has no hydrogen atoms."
+        },
+        {
+          "type": "string",
+          "content": "It has at least one hydrogen on the carbon of the triple bond."
+        },
+        {
+          "type": "string",
+          "content": "It has a double bond at the end of the chain."
+        },
+        {
+          "type": "string",
+          "content": "It has its triple bond located in the middle of the carbon chain."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Alkynes",
+      "Definitions",
+      "Molecular structure"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Defining Characteristic of a Terminal Alkyne</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Alkynes are hydrocarbons containing a carbon-carbon triple bond. They can be classified as terminal or internal based on the position of this triple bond within the carbon chain.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's definition of a terminal alkyne.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>Terminal Alkyne is an alkyne that has atleast one (1) Hydrogen on the carbon of triple bond</span>.\"</li><li><strong>Step 2: Compare this definition with the given options.</strong><br/>The definition directly matches one of the options.</li></ol><ul><li><em>Evaluating Option 1 (It has no hydrogen atoms.):</em> This is incorrect; terminal alkynes have hydrogen atoms, including one on the triple-bonded carbon.</li><li><em>Evaluating Option 2 (It has at least one hydrogen on the carbon of the triple bond.):</em> This is the precise definition of a terminal alkyne as provided in the document. This hydrogen is the acidic proton.</li><li><em>Evaluating Option 3 (It has a double bond at the end of the chain.):</em> This describes a terminal alkene, not a terminal alkyne.</li><li><em>Evaluating Option 4 (It has its triple bond located in the middle of the carbon chain.):</em> This describes an internal alkyne, not a terminal alkyne.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A terminal alkyne, by definition, has a hydrogen atom directly attached to one of the sp-hybridized carbons of the triple bond, making it an R-C≡C-H structure. This is consistent with the document's explanation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A defining characteristic of a terminal alkyne is that it has at least one hydrogen on the carbon of the triple bond.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It has at least one hydrogen on the carbon of the triple bond."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Which of the following is an example of a terminal alkyne?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2-butyne (CH3C≡CCH3)"
+        },
+        {
+          "type": "string",
+          "content": "Propyne (CH3C≡CH)"
+        },
+        {
+          "type": "string",
+          "content": "Butene (CH3CH2CH=CH2)"
+        },
+        {
+          "type": "string",
+          "content": "Propane (CH3CH2CH3)"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Alkynes",
+      "Nomenclature",
+      "Examples"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying Terminal Alkynes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> A <strong>terminal alkyne</strong> is an alkyne where the carbon-carbon triple bond is located at the end of the carbon chain, meaning one of the sp-hybridized carbons of the triple bond is directly bonded to a hydrogen atom.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Recall the definition of a terminal alkyne.</strong><br/>The document defines: \"Terminal Alkyne is an alkyne that has atleast one (1) Hydrogen on the carbon of triple bond.\"</li><li><strong>Step 2: Examine each option to see which fits the definition.</strong><br/><ul><li>Propyne (CH3C≡CH): The triple bond is at the end, and the terminal carbon has a hydrogen atom attached. This fits the definition.</li><li>2-butyne (CH3C≡CCH3): The triple bond is in the middle of the chain, and neither carbon of the triple bond has a hydrogen directly attached. This is an internal alkyne.</li><li>Butene and Propane: These are not alkynes at all (butene is an alkene, propane is an alkane).</li></ul></li><li><strong>Step 3: Verify with the document's examples.</strong><br/>The document lists: \"The structure → <span style='color:var(--orange);font-weight:bold;'>CH3C = C – H (propyne)</span> or CH3CH2C = C – H (1 – butyne)\" as examples of terminal alkynes.</li></ol><ul><li><em>Evaluating Option 1 (2-butyne):</em> This is an internal alkyne because the triple bond is not at the end of the chain, and neither carbon of the triple bond has a hydrogen atom directly attached.</li><li><em>Evaluating Option 2 (Propyne):</em> This compound, CH3C≡CH, has a hydrogen atom directly attached to one of the carbons of the triple bond, making it a terminal alkyne. This is explicitly given as an example in the document.</li><li><em>Evaluating Option 3 (Butene):</em> This is an alkene, containing a double bond, not a triple bond.</li><li><em>Evaluating Option 4 (Propane):</em> This is an alkane, containing only single bonds.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Propyne (CH3C≡CH) clearly has a hydrogen atom directly bonded to the sp-hybridized carbon at the end of the triple bond, fulfilling the definition of a terminal alkyne. This is consistent with the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Propyne (CH3C≡CH) is an example of a terminal alkyne.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propyne (CH3C≡CH)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Why can a terminal alkyne be considered an acid?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Because it readily donates electrons to electrophiles."
+        },
+        {
+          "type": "string",
+          "content": "Because it can lose its terminal hydrogen to form an insoluble acetylide."
+        },
+        {
+          "type": "string",
+          "content": "Because it forms stable salts with weak bases."
+        },
+        {
+          "type": "string",
+          "content": "Because it has a pH less than 7 in aqueous solution."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Alkynes",
+      "Acidity",
+      "Chemical properties"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Acidity of Terminal Alkynes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The acidity of a compound refers to its ability to donate a proton (H+). Terminal alkynes possess a unique acidity due to the high s-character of the sp-hybridized carbon atom in the C≡C-H bond, which makes the terminal hydrogen more polarizable and easier to remove.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's explanation of terminal alkyne acidity.</strong><br/>The document states: \"<span style='color:var(--orange);font-weight:bold;'>Terminal alkyne can be considered as an acid because it can lose the terminal hydrogen (H on the terminal triple bonded carbon) when reacted with a strong base to form insoluble ACETYLIDE (precipitate)</span>.\"</li><li><strong>Step 2: Relate this explanation to the options.</strong><br/>The explanation directly matches the content of one of the options.</li></ol><ul><li><em>Evaluating Option 1 (Because it readily donates electrons to electrophiles.):</em> This describes the behavior of a nucleophile, not an acid (proton donor).</li><li><em>Evaluating Option 2 (Because it can lose its terminal hydrogen to form an insoluble acetylide.):</em> This is the correct reason, as explicitly stated in the document. The ability to lose a proton (terminal hydrogen) is the definition of an acid in the Brønsted-Lowry sense, and forming an acetylide is the result of this acidic behavior with a base.</li><li><em>Evaluating Option 3 (Because it forms stable salts with weak bases.):</em> Terminal alkynes require strong bases to deprotonate them effectively, as they are very weak acids compared to carboxylic acids.</li><li><em>Evaluating Option 4 (Because it has a pH less than 7 in aqueous solution.):</em> While it indicates acidity, this is a property of aqueous solutions. Terminal alkynes are hydrocarbons and not typically soluble enough in water to significantly lower its pH, and their acidity is weaker than water. The direct chemical reason is the ability to lose a proton.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The term 'acid' in organic chemistry often refers to the ability to donate a proton. Terminal alkynes donate their terminal proton, forming a carbanion (acetylide ion), which then reacts with metal ions to form salts. The document's explanation is accurate and concise.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A terminal alkyne can be considered an acid because it can lose its terminal hydrogen to form an insoluble acetylide.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Because it can lose its terminal hydrogen to form an insoluble acetylide."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "With what type of reagents do alkynes form insoluble acetylides?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Weak acids"
+        },
+        {
+          "type": "string",
+          "content": "Weak bases"
+        },
+        {
+          "type": "string",
+          "content": "Strong bases"
+        },
+        {
+          "type": "string",
+          "content": "Oxidizing agents"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Alkynes",
+      "Acidity",
+      "Reaction with bases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Formation of Insoluble Acetylides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Terminal alkynes exhibit acidic properties due to the s-character of their sp-hybridized carbons, allowing them to donate a proton. For this deprotonation to occur, a sufficiently strong base is required. The resulting acetylide ion can then react with certain metal ions to form insoluble metal acetylides.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's explanation on acetylide formation.</strong><br/>The document explicitly states: \"Terminal alkynes form insoluble acetylides with <span style='color:var(--orange);font-weight:bold;'>STRONG BASES</span>.\"</li><li><strong>Step 2: Select the option that matches this statement.</strong><br/>The answer directly points to strong bases.</li></ol><ul><li><em>Evaluating Option 1 (Weak acids):</em> Acids are proton donors, not typically involved in forming acetylides from alkynes.</li><li><em>Evaluating Option 2 (Weak bases):</em> Terminal alkynes are relatively weak acids, so they require strong bases for effective deprotonation and subsequent acetylide formation.</li><li><em>Evaluating Option 3 (Strong bases):</em> This is the correct answer, as terminal alkynes require strong bases to deprotonate their acidic terminal hydrogen and form acetylides.</li><li><em>Evaluating Option 4 (Oxidizing agents):</em> Oxidizing agents react with alkynes but typically cause cleavage or oxidation of the triple bond, not acetylide formation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The formation of acetylides involves the deprotonation of the terminal alkyne's acidic hydrogen. This reaction requires a base that is stronger than the acetylide anion itself, which means strong bases are necessary. The document clearly confirms this.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Alkynes form insoluble acetylides with Strong bases.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strong bases"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Why is the reaction of terminal alkynes with strong bases to form insoluble acetylides not possible with internal alkynes?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Internal alkynes are more reactive and undergo different reactions."
+        },
+        {
+          "type": "string",
+          "content": "Internal alkynes have their triple bond located at the end of the carbon chain."
+        },
+        {
+          "type": "string",
+          "content": "Internal alkynes do not have a hydrogen directly attached to a triple-bonded carbon."
+        },
+        {
+          "type": "string",
+          "content": "Internal alkynes are saturated hydrocarbons."
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Alkynes",
+      "Acidity",
+      "Internal vs. Terminal"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Acidity Difference between Terminal and Internal Alkynes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The ability of an alkyne to form metal acetylides depends on the presence of an acidic hydrogen atom directly attached to one of the sp-hybridized carbons of the triple bond. This hydrogen is unique to terminal alkynes.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's explanation regarding internal alkynes.</strong><br/>The document states: \"This reaction of terminal alkyne with a strong base to form insoluble acetylide is not possible with internal alkyne (Internal alkyne; <span style='color:var(--orange);font-weight:bold;'>alkyne where the two triple bonded carbon are attached to carbons</span>. E.g → CH3C = CCH3).\"</li><li><strong>Step 2: Deduce the reason from this definition.</strong><br/>If both triple-bonded carbons are attached to other carbon atoms, then there is <span style='color:var(--orange);font-weight:bold;'>no hydrogen atom directly attached to the sp-hybridized carbons of the triple bond</span>. This means internal alkynes lack the acidic proton necessary for acetylide formation.</li></ol><ul><li><em>Evaluating Option 1 (Internal alkynes are more reactive and undergo different reactions.):</em> Reactivity can vary, but the fundamental reason for not forming acetylides is structural.</li><li><em>Evaluating Option 2 (Internal alkynes have their triple bond located at the end of the carbon chain.):</em> This describes a terminal alkyne, which is the opposite of an internal alkyne.</li><li><em>Evaluating Option 3 (Internal alkynes do not have a hydrogen directly attached to a triple-bonded carbon.):</em> This is the correct reason. Without the acidic terminal hydrogen, internal alkynes cannot be deprotonated by strong bases to form acetylides.</li><li><em>Evaluating Option 4 (Internal alkynes are saturated hydrocarbons.):</em> Alkynes are by definition unsaturated, containing a triple bond.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The defining structural difference between terminal and internal alkynes is the presence or absence of an acidic proton on the sp-hybridized carbon of the triple bond. Internal alkynes lack this proton, and therefore cannot participate in reactions that rely on its removal, such as acetylide formation. The document's description of internal alkynes implies this directly.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The reaction of terminal alkynes with strong bases to form insoluble acetylides is not possible with internal alkynes because internal alkynes do not have a hydrogen directly attached to a triple-bonded carbon.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal alkynes do not have a hydrogen directly attached to a triple-bonded carbon."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Which of the following reagents is specifically mentioned as a common reagent for testing to identify a terminal alkyne?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Bromine water"
+        },
+        {
+          "type": "string",
+          "content": "Baeyer's reagent"
+        },
+        {
+          "type": "string",
+          "content": "Ammoniacal silver ion (Ag(NH3)2+OH)"
+        },
+        {
+          "type": "string",
+          "content": "Potassium dichromate"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Terminal alkyne tests",
+      "Qualitative analysis",
+      "Reagents"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reagents for Identifying Terminal Alkynes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The unique acidity of the terminal hydrogen in terminal alkynes allows them to react with certain metal complexes to form insoluble metal acetylides. This reaction serves as a distinguishing test for terminal alkynes from internal alkynes and other hydrocarbons.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's section on testing for terminal alkynes.</strong><br/>The document states: \"This reaction is used as a test to identify a terminal alkyne. The common reagents usually used for this test is <span style='color:var(--orange);font-weight:bold;'>ammonical (silver ion Ag+)</span> and (copper I ion Cu⁺) solutions which <span style='color:var(--orange);font-weight:bold;'>Ag(NH3)2+OH</span> and Cu(NH3)2+OH respectively.\"</li><li><strong>Step 2: Identify the specified reagent from the options.</strong><br/>Ammoniacal silver ion (Ag(NH3)2+OH) is clearly listed as such a reagent.</li></ol><ul><li><em>Evaluating Option 1 (Bromine water):</em> Bromine water tests for general unsaturation (alkenes and alkynes), but does not specifically differentiate terminal from internal alkynes or other unsaturated compounds.</li><li><em>Evaluating Option 2 (Baeyer's reagent):</em> Baeyer's reagent (cold, dilute, alkaline KMnO4) also tests for general unsaturation, not specifically terminal alkynes.</li><li><em>Evaluating Option 3 (Ammoniacal silver ion (Ag(NH3)2+OH)):</em> This is the correct answer. It reacts with the acidic proton of terminal alkynes to form a white precipitate of silver acetylide, distinguishing them from internal alkynes. This is explicitly stated in the document.</li><li><em>Evaluating Option 4 (Potassium dichromate):</em> Potassium dichromate is an oxidizing agent used for detecting primary/secondary alcohols or aldehydes, not specifically terminal alkynes.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> The reaction with ammoniacal silver nitrate (Tollens' reagent for alkynes) is a classic test for terminal alkynes, yielding a characteristic silver acetylide precipitate. This test relies on the acidity of the terminal proton, which is absent in internal alkynes. The document explicitly lists this reagent.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Ammoniacal silver ion (Ag(NH3)2+OH) is specifically mentioned as a common reagent for testing to identify a terminal alkyne.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ammoniacal silver ion (Ag(NH3)2+OH)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Which of the following terminal alkynes is given as an example of a compound that can be identified using ammoniacal silver ion (Ag(NH3)2+OH)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "2-butyne"
+        },
+        {
+          "type": "string",
+          "content": "1-butyne"
+        },
+        {
+          "type": "string",
+          "content": "Ethene"
+        },
+        {
+          "type": "string",
+          "content": "Propyne"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Terminal alkyne tests",
+      "Qualitative analysis",
+      "Examples"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying a Specific Terminal Alkyne by Test</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Ammoniacal silver ion (Tollens' reagent for alkynes) specifically reacts with terminal alkynes to form an insoluble silver acetylide precipitate. This reaction is a positive test for the presence of the terminal alkyne functional group.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's question about compounds identified by this reagent.</strong><br/>The document asks: \"Give the structure of a compound that can be identified using Ag(NH3)2+OH.\"</li><li><strong>Step 2: Identify the answer provided by the document.</strong><br/>The answer is: \"Terminal alkyne → <span style='color:var(--orange);font-weight:bold;'>CH3C = C – H (propyne)</span>\".</li><li><strong>Step 3: Compare this with the options.</strong><br/>Propyne is explicitly given as an example.</li></ol><ul><li><em>Evaluating Option 1 (2-butyne):</em> 2-butyne is an internal alkyne and would not react with ammoniacal silver ion.</li><li><em>Evaluating Option 2 (1-butyne):</em> While 1-butyne (CH3CH2C≡CH) is a terminal alkyne and would react, the document specifically gives propyne as the answer to this exact question.</li><li><em>Evaluating Option 3 (Ethene):</em> Ethene is an alkene and would not react with ammoniacal silver ion to form an acetylide.</li><li><em>Evaluating Option 4 (Propyne):</em> Propyne (CH3C≡CH) is a terminal alkyne and is explicitly mentioned in the document as an example of a compound that can be identified using ammoniacal silver ion.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Propyne, as a terminal alkyne, possesses the acidic hydrogen required for reaction with ammoniacal silver ion, leading to the formation of a silver acetylide precipitate. The document explicitly uses propyne as the illustrative example for this test.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Propyne is given as an example of a compound that can be identified using ammoniacal silver ion (Ag(NH3)2+OH).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propyne"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Which of the following reagents (CN⁻, RO⁻, RMgBr) are grouped together as examples of nucleophilic reagents?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "CN⁻, Br2, H2O"
+        },
+        {
+          "type": "string",
+          "content": "RO⁻, AlCl3, CH3NH2"
+        },
+        {
+          "type": "string",
+          "content": "CN⁻, RO⁻, RMgBr"
+        },
+        {
+          "type": "string",
+          "content": "RMgBr, NO+, C6H12"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nucleophiles",
+      "Reagents",
+      "Reaction types"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Examples of Nucleophilic Reagents</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> <strong>Nucleophilic reagents</strong> are electron-rich species that are capable of donating an electron pair to form a new covalent bond. They are characterized by having lone pairs, negative charges, or available pi electrons.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Refer to the document's section on electrophiles and nucleophiles.</strong><br/>The document states: \"The following reagents (<span style='color:var(--orange);font-weight:bold;'>CN⁻, RO⁻, RMgBr</span>) are examples of ______ reagents. Answer: Nucleophilic reagents\".</li><li><strong>Step 2: Compare this information with the given options.</strong><br/>The group CN⁻, RO⁻, RMgBr is directly presented as examples of nucleophilic reagents.</li></ol><ul><li><em>Evaluating Option 1:</em> Br2 is an electrophile, not a nucleophile.</li><li><em>Evaluating Option 2:</em> AlCl3 is an electrophile (Lewis acid), not a nucleophile.</li><li><em>Evaluating Option 3:</em> This option correctly lists CN⁻, RO⁻, and RMgBr, all of which are identified as nucleophilic reagents in the document.</li><li><em>Evaluating Option 4:</em> NO+ is an electrophile, and C6H12 (cyclohexane) is not a nucleophile.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> Cyanide ion (CN⁻), alkoxide ions (RO⁻), and Grignard reagents (RMgBr) are all strong nucleophiles due to their negative charges or highly polarized bonds, allowing them to donate electron pairs. The document explicitly identifies this group as nucleophilic.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ CN⁻, RO⁻, RMgBr are grouped together as examples of nucleophilic reagents.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CN⁻, RO⁻, RMgBr"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "What is the common name for the reagent CH3CH=O, which reacts with HCN in an addition reaction?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "string",
+          "content": "Acetone"
+        },
+        {
+          "type": "string",
+          "content": "Propanone"
+        },
+        {
+          "type": "string",
+          "content": "Acetaldehyde"
+        },
+        {
+          "type": "string",
+          "content": "Formaldehyde"
+        }
+      ]
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Nomenclature",
+      "Aldehydes",
+      "Carbonyl compounds"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nomenclature of CH3CH=O</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Organic compounds have both IUPAC names (systematic) and common names. CH3CH=O is an aldehyde, specifically with two carbon atoms.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Identify the functional group and carbon chain length.</strong><br/>The functional group is -CH=O, which is an aldehyde. The molecule has two carbon atoms (CH3-CH=O).</li><li><strong>Step 2: Recall the IUPAC and common names for two-carbon aldehydes.</strong><br/>The IUPAC name for a two-carbon aldehyde is ethanal.<br/>The common name for ethanal is <span style='color:var(--orange);font-weight:bold;'>acetaldehyde</span>.</li><li><strong>Step 3: Review the document for any mentions.</strong><br/>While the document mentions 'ethanal' as a product of ozonolysis, it does not explicitly name 'CH3CH=O' in this context. However, CH3CH=O is unequivocally ethanal/acetaldehyde. The question asks for the *common name*.</li></ol><ul><li><em>Evaluating Option 1 (Acetone):</em> Acetone (propanone) is CH3C(=O)CH3, a ketone with three carbons. This is incorrect.</li><li><em>Evaluating Option 2 (Propanone):</em> Propanone is the IUPAC name for acetone. This is incorrect.</li><li><em>Evaluating Option 3 (Acetaldehyde):</em> Acetaldehyde is the common name for ethanal, which is CH3CH=O. This is correct.</li><li><em>Evaluating Option 4 (Formaldehyde):</em> Formaldehyde (methanal) is HCH=O, a one-carbon aldehyde. This is incorrect.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> CH3CH=O is a two-carbon aldehyde. Its systematic IUPAC name is ethanal, and its common name is acetaldehyde. This is standard organic nomenclature.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The common name for the reagent CH3CH=O is Acetaldehyde.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acetaldehyde"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Explain what a terminal alkyne is and describe two distinct chemical properties that differentiate it from an internal alkyne, based on their molecular structure.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Terminal alkynes",
+      "Internal alkynes",
+      "Acidity",
+      "Qualitative analysis"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Terminal vs. Internal Alkynes: Structure and Properties</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> Alkynes are characterized by a carbon-carbon triple bond. Their position within the carbon chain defines them as either terminal (at the end) or internal (within the chain), leading to distinct chemical properties, particularly regarding acidity and reactivity with certain reagents.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Define a terminal alkyne.</strong><br/>A <span style='color:var(--orange);font-weight:bold;'>terminal alkyne</span> is an alkyne that has at least one hydrogen atom directly bonded to a carbon atom of the triple bond (R-C≡C-H). For example, propyne (CH3C≡CH) or 1-butyne (CH3CH2C≡CH).</li><li><strong>Step 2: Explain the structural difference with an internal alkyne.</strong><br/>In contrast, an <span style='color:var(--orange);font-weight:bold;'>internal alkyne</span> has both carbon atoms of the triple bond attached to other carbon atoms (R-C≡C-R'). For example, 2-butyne (CH3C≡CCH3). This means internal alkynes do not have a hydrogen atom directly attached to the triple-bonded carbons.</li><li><strong>Step 3: Describe the first distinguishing chemical property: Acidity and Acetylide Formation.</strong><br/>Terminal alkynes can be considered <span style='color:var(--orange);font-weight:bold;'>acidic</span> because they can lose their terminal hydrogen atom (the H on the triple-bonded carbon) when reacted with a <span style='color:var(--orange);font-weight:bold;'>strong base</span>. This deprotonation forms an insoluble <span style='color:var(--orange);font-weight:bold;'>acetylide</span> (precipitate). Internal alkynes, lacking this acidic terminal hydrogen, do not exhibit this acidic property and therefore do not form acetylides with strong bases.</li><li><strong>Step 4: Describe the second distinguishing chemical property: Reaction with specific metal ion reagents.</strong><br/>The acidic nature of terminal alkynes allows them to react with specific metal ion solutions, serving as a diagnostic test. Common reagents for this test are <span style='color:var(--orange);font-weight:bold;'>ammoniacal silver ion (Ag(NH3)2+OH)</span> or ammoniacal copper(I) ion (Cu(NH3)2+OH). Terminal alkynes give a positive test (e.g., forming a white silver acetylide precipitate with Ag(NH3)2+OH), whereas internal alkynes give a negative test (no reaction).</li></ol><ul><li><em>Mark Scheme Point 1:</em> Correctly defines a terminal alkyne (R-C≡C-H).</li><li><em>Mark Scheme Point 2:</em> Explains that terminal alkynes are acidic due to the ability to lose their terminal H.</li><li><em>Mark Scheme Point 3:</em> States that terminal alkynes react with strong bases to form insoluble acetylides/metal salts.</li><li><em>Mark Scheme Point 4:</em> Explains that internal alkynes do not exhibit this acidity because they lack the terminal hydrogen on the triple bond.</li><li><em>Mark Scheme Point 5:</em> Identifies a specific reagent (e.g., ammoniacal silver ion) that reacts with terminal alkynes but not internal alkynes, providing a method for differentiation.</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A complete answer must link the structural difference (presence/absence of terminal H on the triple bond) to the chemical properties (acidity, formation of acetylides, and reactivity with diagnostic reagents). The explanation covers these points directly as described in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ A terminal alkyne is defined as an alkyne possessing at least one hydrogen atom directly bonded to one of the carbons of the triple bond. This structural feature leads to two key distinguishing chemical properties from internal alkynes:Firstly, terminal alkynes are acidic because they can lose their terminal hydrogen when reacted with a strong base, forming an insoluble metal acetylide (precipitate). Internal alkynes lack this acidic hydrogen, as both triple-bonded carbons are attached to other carbon atoms, and therefore cannot form such acetylides.Secondly, this difference in acidity allows for their differentiation using specific reagents like ammoniacal silver ion (Ag(NH3)2+OH). Terminal alkynes will react with this reagent to form a characteristic silver acetylide precipitate, while internal alkynes will not react.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A terminal alkyne is defined as an alkyne possessing at least one hydrogen atom directly bonded to one of the carbons of the triple bond. This structural feature leads to two key distinguishing chemical properties from internal alkynes:\n\nFirstly, terminal alkynes are acidic because they can lose their terminal hydrogen when reacted with a strong base, forming an insoluble metal acetylide (precipitate). Internal alkynes lack this acidic hydrogen, as both triple-bonded carbons are attached to other carbon atoms, and therefore cannot form such acetylides.\n\nSecondly, this difference in acidity allows for their differentiation using specific reagents like ammoniacal silver ion (Ag(NH3)2+OH). Terminal alkynes will react with this reagent to form a characteristic silver acetylide precipitate, while internal alkynes will not react."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "Describe the regioselectivity of hydrogen halide (HBr) addition to unsymmetrical alkenes, clearly differentiating between Markovnikov and Anti-Markovnikov rules and the conditions under which each applies.",
+      "type": "THEORY",
+      "options": []
+    },
+    "img": null,
+    "table": [],
+    "topic": [
+      "Markovnikov's rule",
+      "Anti-Markovnikov rule",
+      "Addition reactions",
+      "Regioselectivity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Regioselectivity of HBr Addition to Alkenes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Key Concept:</em> The addition of unsymmetrical reagents like HBr to unsymmetrical alkenes can result in two possible products. The preference for one product over the other is known as regioselectivity, governed by Markovnikov's rule or, under specific conditions, Anti-Markovnikov's rule.</div><div style='background:var(--preset-bg-color);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Given:</em> The question asks for the total number of sigma bonds in cyanomethane, which has the chemical formula CH3C≡N.</div><ol><li><strong>Step 1: Explain Markovnikov's Rule.</strong><br/>In the <span style='color:var(--orange);font-weight:bold;'>absence of peroxides</span>, the addition of hydrogen halides (e.g., HBr) to unsymmetrical alkenes follows <span style='color:var(--orange);font-weight:bold;'>Markovnikov's Rule</span>. According to this rule, the <span style='color:var(--orange);font-weight:bold;'>hydrogen atom (H) from HBr adds to the carbon atom of the double bond that already possesses the greater number of hydrogen atoms</span>. Consequently, the bromine atom (Br) adds to the carbon atom of the double bond that has fewer hydrogen atoms (is more substituted). The document confirms that unsymmetrical alkenes only obey Markovnikov's Rule in the absence of peroxide. For example, propene + HBr (no peroxide) yields 2-bromopropane.</li><li><strong>Step 2: Explain Anti-Markovnikov's Rule and its conditions.</strong><br/>The addition of HBr to unsymmetrical alkenes in the <span style='color:var(--orange);font-weight:bold;'>presence of peroxides</span> (e.g., hydrogen peroxide or methyl peroxide) follows the <span style='color:var(--orange);font-weight:bold;'>Anti-Markovnikov Rule</span>. In this case, the regioselectivity is reversed compared to Markovnikov's rule. The document states: \"The H of the reagent will add to the carbon of the double of the alkene with <span style='color:var(--orange);font-weight:bold;'>Less no of hydrogen</span>.\" This means the hydrogen atom from HBr adds to the carbon atom of the double bond that has fewer hydrogen atoms, while the bromine atom adds to the carbon atom that has more hydrogen atoms. For example, propene + HBr/Peroxide yields 1-bromopropane.</li><li><strong>Step 3: Summarize the key differentiating factor.</strong><br/>The crucial factor determining whether Markovnikov or Anti-Markovnikov addition occurs for HBr is the <span style='color:var(--orange);font-weight:bold;'>presence or absence of peroxides</span>, which dictates the reaction mechanism (electrophilic addition vs. free radical addition).</li></ol><ul><li><em>Mark Scheme Point 1:</em> Defines Markovnikov's rule for HBr addition (H to carbon with more H's).</li><li><em>Mark Scheme Point 2:</em> States the condition for Markovnikov's rule (absence of peroxide).</li><li><em>Mark Scheme Point 3:</em> Defines Anti-Markovnikov's rule for HBr addition (H to carbon with fewer H's).</li><li><em>Mark Scheme Point 4:</em> States the condition for Anti-Markovnikov's rule (presence of peroxide).</li><li><em>Mark Scheme Point 5:</em> Provides an example for each rule, or clearly states the outcome for the same alkene under different conditions (e.g., propene to 2-bromopropane vs. 1-bromopropane).</li></ul><div style='background:var(--warningBg);padding:12px;border-radius:8px;margin-bottom:15px;'><em>Verification:</em> A comprehensive answer must highlight the regioselectivity of H and Br additions, the role of peroxide as a catalyst that changes the mechanism, and therefore the product, for HBr. The explanation covers the definitions, conditions, and explicit examples as provided in the document.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The regioselectivity of hydrogen bromide (HBr) addition to unsymmetrical alkenes is governed by two main rules, depending on the reaction conditions:1.  **Markovnikov's Rule:** In the absence of peroxides, the hydrogen atom of HBr adds to the carbon atom of the double bond that already has a greater number of hydrogen atoms. Conversely, the bromine atom adds to the carbon with fewer hydrogen atoms. Unsymmetrical alkenes only obey Markovnikov's Rule under these conditions. For instance, propene reacts with HBr to form 2-bromopropane.2.  **Anti-Markovnikov's Rule:** In the presence of peroxides (such as hydrogen peroxide or methyl peroxide), the addition of HBr proceeds via an Anti-Markovnikov mechanism. Here, the hydrogen atom of HBr adds to the carbon atom of the double bond that has fewer hydrogen atoms (or is more substituted), and the bromine atom adds to the carbon with more hydrogen atoms. For example, propene reacts with HBr in the presence of peroxide to form 1-bromopropane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The regioselectivity of hydrogen bromide (HBr) addition to unsymmetrical alkenes is governed by two main rules, depending on the reaction conditions:\n\n1.  **Markovnikov's Rule:** In the absence of peroxides, the hydrogen atom of HBr adds to the carbon atom of the double bond that already has a greater number of hydrogen atoms. Conversely, the bromine atom adds to the carbon with fewer hydrogen atoms. Unsymmetrical alkenes only obey Markovnikov's Rule under these conditions. For instance, propene reacts with HBr to form 2-bromopropane.\n\n2.  **Anti-Markovnikov's Rule:** In the presence of peroxides (such as hydrogen peroxide or methyl peroxide), the addition of HBr proceeds via an Anti-Markovnikov mechanism. Here, the hydrogen atom of HBr adds to the carbon atom of the double bond that has fewer hydrogen atoms (or is more substituted), and the bromine atom adds to the carbon with more hydrogen atoms. For example, propene reacts with HBr in the presence of peroxide to form 1-bromopropane."
+    }
+  }
+]
